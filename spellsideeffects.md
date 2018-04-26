@@ -1,7 +1,7 @@
 title: ZauberSeitenEffekte
 tags: 
 
-Value   |    Effect
+Value   |   Effect 
 ---: | :---
 -20   |    Instant healing to full
 -19   |    caster ages 2d10-15 years. Then continues aging at half/double the normal rate until the effect is negated
