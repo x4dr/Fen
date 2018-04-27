@@ -15,6 +15,11 @@ Charakterkonzept:
   
   
   
+  
+  
+  
+  
+  
 &nbsp;  
   
 ##Stärke  
@@ -112,6 +117,12 @@ Charakterkonzept:
 |Alchemie|4|  
   
   
+###Vorteile  
+|Vorteil|Level|  
+|:---|----:|  
+|in Bewegung Zaubern|2|  
+  
+  
   
 &nbsp;  
   
@@ -195,6 +206,6 @@ Charakterkonzept:
   
 &nbsp;  
 total point costs Schicksal: -10  
-total point costs Magie: 115  
+total point costs Magie: 121  
 total point costs Können: 165  
 total point costs Charisma: 55  

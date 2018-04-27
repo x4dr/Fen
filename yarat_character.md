@@ -33,7 +33,7 @@ Charakterkonzept:
 |Vorteile|Level|  
 |:---|----:|  
 |Panzerung||  
-|Gift (Beißen)|Verwunden, Wirkbeginn: sofort, Wirkdauer: 1 h, Paralyse|     
+|Gift (Beißen)|Verwunden, Wirkbeginn: sofort, Wirkdauer: 1 h, Paralyse 2 (Giftstärke 25)|     
   
 &nbsp;  
   
