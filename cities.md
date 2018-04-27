@@ -13,6 +13,8 @@ Gebirgsstadt auf der anderen seite des Gebirges, Krieg mit Seegard
 ## Trarora
 Möglicher Handelspartner für Seegard, handelt zurzeit mit Limasu
 
+## Eisenbach
+Dorf in der Nähe des Eisenberges
 
 
 
