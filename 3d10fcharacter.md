@@ -1,22 +1,22 @@
 title: 3d10fcharacter
 tags: 
 
-  Name:
-Alter:
-Spezies:
-Charakterkonzept:
+Name:  
+Alter:  
+Spezies:  
+Charakterkonzept:  
 
-Stärke
+##Stärke
+Waffen sind Fähigkeiten  
+###Attribute
+* Gesundheit  
+* Ausdauer  
+* Körperkraft  
+###Fähigkeiten	
+* Rennen
+* Schwimmen
+* Wundheilung
 
-	Fähigkeit Waffe(Waffentyp):
-
-	Attribut Gesundheit: 
-	Attribut Ausdauer: 
-	Attribut Körperkraft: 
-	
-	Fähigkeit Rennen:
-	Fähigkeit Schwimmen:
-	Fähigkeit Wundheilung:
 
 Können
 
