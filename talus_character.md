@@ -15,13 +15,6 @@ Charakterkonzept:
   
   
   
-  
-  
-  
-  
-  
-  
-  
 &nbsp;  
   
 ##Stärke  
@@ -41,6 +34,19 @@ Charakterkonzept:
 |Rennen|2|  
 |Schwimmen|0|  
 |Wundheilung|n/v|  
+  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Giftimmun|1|  
+|Krankheitsimmun|1|  
+|Altersimmun|1|  
+|wenig Schlaf|1|  
+|Hitzeresistent|1|  
+|Tragekapazität|1|  
+|Anspringen|3|  
+|an Wänden Laufen|6|  
   
   
   
@@ -192,6 +198,3 @@ total point costs Schicksal: -10
 total point costs Magie: 115  
 total point costs Können: 165  
 total point costs Charisma: 55  
-total point costs Stärke: 130  
-total point costs Weisheit: 72  
-total point costs: 527  
