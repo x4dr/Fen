@@ -34,9 +34,10 @@ Waffen sind Fähigkeiten
 * Schleichen
 * Reiten
 
-##
-
-	Wie mit dem Spielleiter besprochen: 
+##Magie
+###Quellen
+###Konzepte
+###Aspekte
 
 ##Weisheit
 ###Attribute
