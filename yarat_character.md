@@ -7,6 +7,7 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
+_____  
   
 ##Stärke  
 ###Attribute  
@@ -25,6 +26,7 @@ Charakterkonzept:
 |Wundheilung|0|  
   
   
+_____  
   
 ##Können  
 ###Attribute  
@@ -49,6 +51,9 @@ Charakterkonzept:
 |Reiten|0|  
   
   
+  
+_____  
+  
 ##Magie  
 ###Quellen  
 |Quellen|Level|  
@@ -64,6 +69,9 @@ Charakterkonzept:
 |Aspekte|Level|  
 |:---|----:|  
   
+  
+  
+_____  
   
 ##Weisheit  
 ###Attribute  
@@ -100,6 +108,9 @@ Charakterkonzept:
 |Atterdil Schreiben|0|  
   
   
+  
+_____  
+  
 ##Charisma  
 ###Attribute  
 |Attribute|Level|  
@@ -118,6 +129,9 @@ Charakterkonzept:
 |Stil|0|  
 |Einschüchtern|0|  
   
+  
+  
+_____  
   
 ##Schicksal  
 ###Attribute  
