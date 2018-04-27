@@ -1,4 +1,4 @@
-title: Yarat  
+title: test  
 tags:  
 
 
@@ -6,26 +6,7 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+char  
   
   
   
