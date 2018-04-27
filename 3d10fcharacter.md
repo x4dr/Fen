@@ -18,62 +18,72 @@ Waffen sind Fähigkeiten
 * Wundheilung
 
 
-Können
+##Können
+###Attribute
+* Fingerfertigkeit
+* Wendigkeit
+* Rüstung
+* Artefakte
+###Fähigkeiten	
+* Metallverarbeitung
+* Holzverarbeitung
+* Alchemie
+* MagieHandwerk
+* Akrobatik
+* Diebeshandwerk
+* Schleichen
+* Reiten
 
-	Attribut Fingerfertigkeit:
-	Attribut Wendigkeit:
-	Attribut Rüstung: 
-	Attribut Artefakte:
-	Fähigkeit Metallverarbeitung
-	Fähigkeit Holzverarbeitung
-	Fähigkeit Alchemie
-	Fähigkeit MagieHandwerk
-	Fähigkeit Akrobatik:
-	Fähigkeit Diebeshandwerk:
-	Fähigkeit Schleichen:
-	Fähigkeit Reiten:
-
-Magie
+##
 
 	Wie mit dem Spielleiter besprochen: 
 
-Weisheit
+##Weisheit
+###Attribute
+* Bildung
+* Erinnerungsvermögen
+* Wahrnehmung
+###Fähigkeiten
+* Heilen
+* Wissen(Gebiet)
+* Forschung
+* Instinkt
 
-	Attribut Bildung:
-        Attribut Erinnerungsvermögen:
-        Attribut Wahrnehmung: 
- 
-	Fähigkeit Heilen:  
-	Fähigkeit Wissen(Gebiet):  
-	Fähigkeit Forschung:
-	Fähigkeit Instinkt:
-
-	Vorteil: Sprache:  
-	gebrochen, grundlegend, gut, ausgezeichnet
-	Schriftkenntnisse per alphabet 
-	lesend:
-	bruchstückhaft, beschränkt, alltagstauglich, komplex
-	schreibend:
-	kritzeleien, unsicher, alltagstauglich ,makellos
-
+###Vorteile
+* Aurisch Sprechen
+* Aurisch Lesen
+* Aurisch Schreiben
+* Prekorisch Sprechen
+* Prekorisch Lesen
+* Prekorisch Schreiben
+* Argyrisch Sprechen
+* Argyrisch Lesen
+* Argyrisch Schreiben
+* Atterdil Sprechen
+* Atterdil Lesen
+* Atterdil Schreiben
 
 	
-Charisma
+##Charisma
+###Attribute
+* Eindruck
+* Durchsetzungsvermögen
+* Sympathie
 
-	Attribut Eindruck:
-	Attribut Durchsetzungsvermögen:
-	Attribut Sympathie:
-	Fähigkeit Handel:
-	Fähigkeit Diplomatie:
-	Fähigkeit Lügen:
-	Fähigkeit Stil:
+###Fähigkeiten
+* Handel
+* Diplomatie
+* Lügen
+* Stil
+* Einschüchtern
 
-Schicksal
+##Schicksal
+###Attribute
+* Glück
+* Mut
+* Gunst
 
-	Attribut Glück:
-	Attribut Mut:
-	Attribut Gunst:
-
-	Fähigkeit Ruhm:
-	Fähigkeit Wille:
-	Fähigkeit Göttliche Bindung (Gott):
+###Fähigkeiten
+* Ruhm:
+* Wille:
+* Göttliche Bindung (Gott):
