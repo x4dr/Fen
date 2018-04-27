@@ -1,16 +1,11 @@
-title: Rainher  
-tags:  
+title: Talus  
+tags: character  
 
 
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
-  
-  
-blah  
-  
   
   
   
@@ -33,28 +28,19 @@ blah
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Gesundheit|3|  
-|Ausdauer|3|  
+|Gesundheit|n/v|  
+|Ausdauer|4|  
 |Körperkraft|3|  
   
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Rennen|0|  
-|Schwimmen|1|  
-|Wundheilung|0|  
-|Waffe(Degen)|3|  
-|Waffe(Armbrust)|2|  
-|Waffe(Wurfmesser)|2|  
-  
-  
-###Vorteile  
-|Vorteile|Level|  
-|:---|----:|  
-|Schnelles Nachladen| 1|  
-|Gezielter Wurf| 1|  
-|Ausfall| 1|  
+|Waffe(Hammer)|1|  
+|Waffe(Waffenlos)|3|  
+|Rennen|2|  
+|Schwimmen|0|  
+|Wundheilung|n/v|  
   
   
   
@@ -64,29 +50,38 @@ blah
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Fingerfertigkeit|2|  
+|Fingerfertigkeit|3|  
 |Wendigkeit|3|  
-|Rüstung|2|  
+|Rüstung|1|  
 |Artefakte|3|  
   
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Metallverarbeitung|0|  
-|Holzverarbeitung|0|  
-|Alchemie|0|  
-|MagieHandwerk|1|  
-|Akrobatik|1|  
+|Metallverarbeitung|2|  
+|Holzverarbeitung|2|  
+|Alchemie|2|  
+|MagieHandwerk|2|  
+|Akrobatik|2|  
 |Diebeshandwerk|0|  
 |Schleichen|2|  
 |Reiten|0|  
+|Athletik|1|  
   
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Artfakte identifizieren| 1|  
+|Ingeneur|2|  
+|Feinmechanik|1|  
+|Rekombination|1|  
+|Veredelung|1|  
+|Wiederaufladen|1|  
+|Zerlegen|1|  
+|Konstruktion|1|  
+|Identifizieren|1|  
+|Architekt|1|  
   
   
   
@@ -96,23 +91,19 @@ blah
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
-|Meditation| 1|  
+|Magischer Fluss|3|  
   
   
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
-|Selfchannel| 1|  
+|Alchemie|3|  
   
   
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
-|Movement|1|  
-  
-  
-###Fähigkeiten  
-|Vorschnellen| 1|  
+|Alchemie|4|  
   
   
   
@@ -123,17 +114,16 @@ blah
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|2|  
-|Erinnerungsvermögen|4|  
-|Wahrnehmung|3|  
+|Erinnerungsvermögen|1|  
+|Wahrnehmung|2|  
   
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Heilen|0|  
-|Wissen(Adel)|3|  
-|Wissen(Religion)|3|  
-|Forschung|1|  
+|Wissen(Amalkan)|0|  
+|Forschung|2|  
 |Instinkt|1|  
 |Wissen(Gebiet)|0|  
   
@@ -141,18 +131,18 @@ blah
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Aurisch Sprechen|1|  
-|Aurisch Lesen|1|  
-|Aurisch Schreiben|0|  
+|Aurisch Sprechen|3|  
+|Aurisch Lesen|4|  
+|Aurisch Schreiben|4|  
 |Prekorisch Sprechen|3|  
-|Prekorisch Lesen|1|  
+|Prekorisch Lesen|0|  
 |Prekorisch Schreiben|0|  
 |Argyrisch Sprechen|0|  
-|Argyrisch Lesen|1|  
+|Argyrisch Lesen|0|  
 |Argyrisch Schreiben|0|  
-|Atterdil Sprechen|0|  
-|Atterdil Lesen|0|  
-|Atterdil Schreiben|0|  
+|Atterdil Sprechen|4|  
+|Atterdil Lesen|4|  
+|Atterdil Schreiben|2|  
   
   
   
@@ -162,25 +152,19 @@ blah
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Eindruck|4|  
+|Eindruck|3|  
 |Durchsetzungsvermögen|3|  
-|Sympathie|1|  
+|Sympathie|2|  
   
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Handel|2|  
-|Diplomatie|3|  
-|Lügen|2|  
-|Stil|2|  
-|Einschüchtern|1|  
-  
-  
-###Vorteile  
-|Vorteile|Level|  
-|:---|----:|  
-|Verhöhnen| 1|  
+|Handel|1|  
+|Diplomatie|1|  
+|Lügen|1|  
+|Stil|0|  
+|Einschüchtern|0|  
   
   
   
@@ -191,31 +175,23 @@ blah
 |Attribute|Level|  
 |:---|----:|  
 |Glück|2|  
-|Mut|3|  
-|Gunst|3|  
-|Rasse(ist auf 1)|3|  
+|Mut|1|  
+|Gunst|2|  
   
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|1|  
-|Wille:|0|  
-|Göttliche Bindung (Ateph):|1|  
+|Wille:|1|  
 |Göttliche Bindung (Gott):|0|  
   
   
-###Vorteile  
-|Vorteile|Level|  
-|:---|----:|  
-|Begegnung|2|  
-  
-  
 &nbsp;  
-total point costs Schicksal: 76  
-total point costs Magie: 20  
-total point costs Können: 68  
-total point costs Charisma: 143  
-total point costs Stärke: 134  
-total point costs Weisheit: 171  
-total point costs: 612  
+total point costs Schicksal: -10  
+total point costs Magie: 115  
+total point costs Können: 165  
+total point costs Charisma: 55  
+total point costs Stärke: 130  
+total point costs Weisheit: 72  
+total point costs: 527  
