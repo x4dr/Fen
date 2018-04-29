@@ -169,10 +169,10 @@ Charakterkonzept:
 |Rassenachteil: Schreckhaft|  
   
 &nbsp;  
-total point costs Schicksal: 10003  
+total point costs Schicksal: 123  
 total point costs Magie: 0  
 total point costs Können: 175  
 total point costs Charisma: 65  
 total point costs Stärke: 118  
 total point costs Weisheit: 143  
-total point costs: 10504  
+total point costs: 624  

@@ -33,10 +33,10 @@ Es wird 1 Gegenstand je nach Vektor produziert (Vorteile können auch das erhöh
 ##Kräuter der Nordwestlichen Prekorischen Berg- und Waldregion
 
 ###Düsterwurz 
-Düsterwurz ist ein relativ häufiges Kraut, das man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.
-Beschreibung: Insgesamt bis zu 25 cm hoch. Dunkelgrüne, dreieckige Blätter mit glattem Rand, die maximal handgroß werden. Die Blätter sind rings um einen einzelnen Stängel angeordnet, der eine Ähre kleiner kreuzblütiger Blüten besitzt. Die Blüten sind in der Regel hellblau, können auf alkalischen Böden aber auch weiß werden. Sie blühen nur nach Sonnenuntergang und besitzen eine Geruch, der an Wein erinnert. Die Blätter haben einen schwachen bitteren Geschmack.
-Vorkommen: Düsterwurz wächst nur an schattigen Orten, bevorzugt unter Eichenbäumen. Es ist in der kompletten Region weit verbreitet und kann mit seinen hellen Blüten und dem Geruch nach Dämmerungseinbruch leicht identifiziert werden. 
-Verwendung: Genutzt werden vor allem die Wurzeln dieses Krauts. 
+Düsterwurz ist ein relativ häufiges Kraut, das man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.  
+Beschreibung: Insgesamt bis zu 25 cm hoch. Dunkelgrüne, dreieckige Blätter mit glattem Rand, die maximal handgroß werden. Die Blätter sind rings um einen einzelnen Stängel angeordnet, der eine Ähre kleiner kreuzblütiger Blüten besitzt. Die Blüten sind in der Regel hellblau, können auf alkalischen Böden aber auch weiß werden. Sie blühen nur nach Sonnenuntergang und besitzen eine Geruch, der an Wein erinnert. Die Blätter haben einen schwachen bitteren Geschmack.  
+Vorkommen: Düsterwurz wächst nur an schattigen Orten, bevorzugt unter Eichenbäumen. Es ist in der kompletten Region weit verbreitet und kann mit seinen hellen Blüten und dem Geruch nach Dämmerungseinbruch leicht identifiziert werden.   
+Verwendung: Genutzt werden vor allem die Wurzeln dieses Krauts. Obwohl es leicht ist, Düsterwurz zu finden, kostet es einen gewissen Aufwand, die lange Pfahlwurzel unbeschädigt auszugraben.   
 Wert: ~10 Kupfer  
 K 5: Heilung +1 Operation +1 Giftwiderstand -10(24h)  
 K 15: Vektor: Gegengift, Haltbarkeit: 1 Tag  

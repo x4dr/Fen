@@ -174,6 +174,6 @@ total point costs Schicksal: -10
 total point costs Magie: 121  
 total point costs Können: 165  
 total point costs Charisma: 55  
-total point costs Stärke: 10157  
+total point costs Stärke: 157  
 total point costs Weisheit: 72  
-total point costs: 10560  
+total point costs: 560  
