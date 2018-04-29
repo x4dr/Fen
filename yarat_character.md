@@ -1,12 +1,11 @@
-title: Yarat
-tags: 
+title: Yarat  
+tags:  
+
 
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
-  
   
 &nbsp;  
   
@@ -17,7 +16,6 @@ Charakterkonzept:
 |Gesundheit|3|  
 |Ausdauer|2|  
 |Körperkraft|3|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -32,8 +30,8 @@ Charakterkonzept:
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Panzerung||  
-|Gift (Beißen)|Verwunden, Wirkbeginn: sofort, Wirkdauer: 1 h, Paralyse 2 (Giftstärke 25)|     
+|Panzerung|  
+|Gift (Beißen)|Verwunden, Wirkbeginn: sofort, Wirkdauer: 1 h, Paralyse 2 (Giftstärke 25)|  
   
 &nbsp;  
   
@@ -45,7 +43,6 @@ Charakterkonzept:
 |Wendigkeit|3|  
 |Rüstung|3|  
 |Artefakte|1|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -68,7 +65,6 @@ Charakterkonzept:
 |Wand- & Deckenlauf (Akrobatik)|4 (je Punkt 20 kg (Wand) bzw. 20 kg (Decke)|  
 |Farbige Spinnenseide|Schwarz, Braun, Rot, Gelb, Blau, Grün|  
   
-  
 &nbsp;  
   
 ##Magie  
@@ -76,17 +72,13 @@ Charakterkonzept:
 |Quellen|Level|  
 |:---|----:|  
   
-  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
   
-  
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
-  
-  
   
 &nbsp;  
   
@@ -97,7 +89,6 @@ Charakterkonzept:
 |Bildung|3|  
 |Erinnerungsvermögen|2|  
 |Wahrnehmung|3|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -110,7 +101,6 @@ Charakterkonzept:
 |Forschung|0|  
 |Instinkt|0|  
 |Wissen(Gebiet)|0|  
-  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -130,8 +120,6 @@ Charakterkonzept:
 |Atterdil Lesen|0|  
 |Atterdil Schreiben|0|  
   
-  
-  
 &nbsp;  
   
 ##Charisma  
@@ -141,7 +129,6 @@ Charakterkonzept:
 |Eindruck|2|  
 |Durchsetzungsvermögen|2|  
 |Sympathie|3|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -167,7 +154,6 @@ Charakterkonzept:
 |Mut|1|  
 |Gunst|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -180,15 +166,13 @@ Charakterkonzept:
 |:---|----:|  
 |Begegnung|3|  
 |Wendung|2|  
-|Rassenachteil: Schreckhaft||  
-
-
+|Rassenachteil: Schreckhaft|  
   
 &nbsp;  
-total point costs Schicksal: 105  
+total point costs Schicksal: 10003  
 total point costs Magie: 0  
 total point costs Können: 175  
 total point costs Charisma: 65  
-total point costs Stärke: 115  
+total point costs Stärke: 118  
 total point costs Weisheit: 143  
-total point costs: 603  
+total point costs: 10504  

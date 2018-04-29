@@ -7,107 +7,6 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 &nbsp;  
   
 ##Stärke  
@@ -118,15 +17,12 @@ Charakterkonzept:
 |Ausdauer|2|  
 |Körperkraft|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Rennen|0|  
 |Schwimmen|0|  
 |Wundheilung|0|  
-  
-  
   
 &nbsp;  
   
@@ -138,7 +34,6 @@ Charakterkonzept:
 |Wendigkeit|2|  
 |Rüstung|2|  
 |Artefakte|2|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -152,8 +47,6 @@ Charakterkonzept:
 |Schleichen|0|  
 |Reiten|0|  
   
-  
-  
 &nbsp;  
   
 ##Magie  
@@ -161,17 +54,13 @@ Charakterkonzept:
 |Quellen|Level|  
 |:---|----:|  
   
-  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
   
-  
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
-  
-  
   
 &nbsp;  
   
@@ -183,7 +72,6 @@ Charakterkonzept:
 |Erinnerungsvermögen|2|  
 |Wahrnehmung|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -191,7 +79,6 @@ Charakterkonzept:
 |Wissen(Gebiet)|0|  
 |Forschung|0|  
 |Instinkt|0|  
-  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -209,8 +96,6 @@ Charakterkonzept:
 |Atterdil Lesen|0|  
 |Atterdil Schreiben|0|  
   
-  
-  
 &nbsp;  
   
 ##Charisma  
@@ -221,7 +106,6 @@ Charakterkonzept:
 |Durchsetzungsvermögen|2|  
 |Sympathie|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -230,8 +114,6 @@ Charakterkonzept:
 |Lügen|0|  
 |Stil|0|  
 |Einschüchtern|0|  
-  
-  
   
 &nbsp;  
   
@@ -243,14 +125,12 @@ Charakterkonzept:
 |Mut|2|  
 |Gunst|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|0|  
 |Wille:|0|  
 |Göttliche Bindung (Gott):|0|  
-  
   
 &nbsp;  
 total point costs Schicksal: 0  

@@ -7,67 +7,7 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 blah  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
 &nbsp;  
   
@@ -79,7 +19,6 @@ blah
 |Ausdauer|3|  
 |Körperkraft|3|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -90,15 +29,12 @@ blah
 |Waffe(Armbrust)|2|  
 |Waffe(Wurfmesser)|2|  
   
-  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Schnelles Nachladen| 1|  
 |Gezielter Wurf| 1|  
 |Ausfall| 1|  
-  
-  
   
 &nbsp;  
   
@@ -110,7 +46,6 @@ blah
 |Wendigkeit|3|  
 |Rüstung|2|  
 |Artefakte|3|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -124,13 +59,10 @@ blah
 |Schleichen|2|  
 |Reiten|0|  
   
-  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Artfakte identifizieren| 1|  
-  
-  
   
 &nbsp;  
   
@@ -140,23 +72,18 @@ blah
 |:---|----:|  
 |Meditation| 1|  
   
-  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
 |Selfchannel| 1|  
-  
   
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
 |Movement|1|  
   
-  
 ###Fähigkeiten  
 |Vorschnellen| 1|  
-  
-  
   
 &nbsp;  
   
@@ -168,7 +95,6 @@ blah
 |Erinnerungsvermögen|4|  
 |Wahrnehmung|3|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -178,7 +104,6 @@ blah
 |Forschung|1|  
 |Instinkt|1|  
 |Wissen(Gebiet)|0|  
-  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -196,8 +121,6 @@ blah
 |Atterdil Lesen|0|  
 |Atterdil Schreiben|0|  
   
-  
-  
 &nbsp;  
   
 ##Charisma  
@@ -208,7 +131,6 @@ blah
 |Durchsetzungsvermögen|3|  
 |Sympathie|1|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -218,13 +140,10 @@ blah
 |Stil|2|  
 |Einschüchtern|1|  
   
-  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Verhöhnen| 1|  
-  
-  
   
 &nbsp;  
   
@@ -237,7 +156,6 @@ blah
 |Gunst|3|  
 |Rasse(ist auf 1)|3|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -246,12 +164,10 @@ blah
 |Göttliche Bindung (Ateph):|1|  
 |Göttliche Bindung (Gott):|0|  
   
-  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Begegnung|2|  
-  
   
 &nbsp;  
 total point costs Schicksal: 76  

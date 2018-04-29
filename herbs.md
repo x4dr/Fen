@@ -19,20 +19,25 @@ Beim Nutzen wird die entsprechende Fähigkeit statt dem Wissenslevelwurf Geworfe
 Kräuterkunde: K  
 Alchemie: A  
   
-Ein Effekt ist erst bekannt/kann benutzt werden, wenn das entsprechende Ergebnis neben der Abkürzung bei dem Spezifischen Wurf erreicht wurde.  
+Ein Effekt ist erst bekannt/kann benutzt werden, wenn das entsprechende Ergebnis neben der Abkürzung bei dem spezifischen Wurf erreicht wurde.  
   
-Um etwas herzustellen muss mindestens ein Vektor präsent sein (bei mehreren kann es auf mehrere arten angewendet werden)  
+Um etwas herzustellen muss mindestens ein Vektor präsent sein (bei mehreren kann es auf mehrere Arten angewendet werden)  
    
 Ohne Vorteil kann nur 1 von jeder Zutat benutzt werden.  
-Zutaten werden in (bis jetzt) beliebiger Reihenfolge hinzugefügt, Rückgewinnung ist unmöglich. Für jede Zutat wird ein Wurf gemacht und das Ergebnis (das beliebig gesenkt werden kann) legt die Effekte fest (alle auf und unter dem level), die zum Produkt hinzugefügt werden.  
+
+Zutaten werden in (bis jetzt) beliebiger Reihenfolge hinzugefügt, Rückgewinnung ist unmöglich. Für jede Zutat wird ein Wurf gemacht und das Ergebnis (das beliebig gesenkt werden kann) legt die Effekte fest (alle auf und unter dem Level), die zum Produkt hinzugefügt werden.  
 
 Es wird 1 Gegenstand je nach Vektor produziert (Vorteile können auch das erhöhen)  
 
 
-##Kräuter der Nordwestlichen Prekorischen Berg und Waldregion
+##Kräuter der Nordwestlichen Prekorischen Berg- und Waldregion
 
 ###Düsterwurz 
-~10k  
+Düsterwurz ist ein relativ häufiges Kraut, das man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.
+Beschreibung: Insgesamt bis zu 25 cm hoch. Dunkelgrüne, dreieckige Blätter mit glattem Rand, die maximal handgroß werden. Die Blätter sind rings um einen einzelnen Stängel angeordnet, der eine Ähre kleiner kreuzblütiger Blüten besitzt. Die Blüten sind in der Regel hellblau, können auf alkalischen Böden aber auch weiß werden. Sie blühen nur nach Sonnenuntergang und besitzen eine Geruch, der an Wein erinnert. Die Blätter haben einen schwachen bitteren Geschmack.
+Vorkommen: Düsterwurz wächst nur an schattigen Orten, bevorzugt unter Eichenbäumen. Es ist in der kompletten Region weit verbreitet und kann mit seinen hellen Blüten und dem Geruch nach Dämmerungseinbruch leicht identifiziert werden. 
+Verwendung: Genutzt werden vor allem die Wurzeln dieses Krauts. 
+Wert: ~10 Kupfer  
 K 5: Heilung +1 Operation +1 Giftwiderstand -10(24h)  
 K 15: Vektor: Gegengift, Haltbarkeit: 1 Tag  
 K 18: Vektor: Gegengift, Haltbarkeit: 1 Monat  

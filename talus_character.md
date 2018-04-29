@@ -7,52 +7,6 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 &nbsp;  
   
 ##Stärke  
@@ -63,7 +17,6 @@ Charakterkonzept:
 |Ausdauer|4|  
 |Körperkraft|3|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -72,7 +25,6 @@ Charakterkonzept:
 |Rennen|2|  
 |Schwimmen|0|  
 |Wundheilung|n/v|  
-  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -86,8 +38,6 @@ Charakterkonzept:
 |Anspringen|3|  
 |an Wänden Laufen|6|  
   
-  
-  
 &nbsp;  
   
 ##Können  
@@ -98,7 +48,6 @@ Charakterkonzept:
 |Wendigkeit|3|  
 |Rüstung|1|  
 |Artefakte|3|  
-  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -113,7 +62,6 @@ Charakterkonzept:
 |Reiten|0|  
 |Athletik|1|  
   
-  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
@@ -127,8 +75,6 @@ Charakterkonzept:
 |Identifizieren|1|  
 |Architekt|1|  
   
-  
-  
 &nbsp;  
   
 ##Magie  
@@ -137,25 +83,20 @@ Charakterkonzept:
 |:---|----:|  
 |Magischer Fluss|3|  
   
-  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
 |Alchemie|3|  
-  
   
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
 |Alchemie|4|  
   
-  
 ###Vorteile  
 |Vorteil|Level|  
 |:---|----:|  
 |in Bewegung Zaubern|2|  
-  
-  
   
 &nbsp;  
   
@@ -167,7 +108,6 @@ Charakterkonzept:
 |Erinnerungsvermögen|1|  
 |Wahrnehmung|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -176,7 +116,6 @@ Charakterkonzept:
 |Forschung|2|  
 |Instinkt|1|  
 |Wissen(Gebiet)|0|  
-  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -194,8 +133,6 @@ Charakterkonzept:
 |Atterdil Lesen|4|  
 |Atterdil Schreiben|2|  
   
-  
-  
 &nbsp;  
   
 ##Charisma  
@@ -206,7 +143,6 @@ Charakterkonzept:
 |Durchsetzungsvermögen|3|  
 |Sympathie|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -215,8 +151,6 @@ Charakterkonzept:
 |Lügen|1|  
 |Stil|0|  
 |Einschüchtern|0|  
-  
-  
   
 &nbsp;  
   
@@ -228,7 +162,6 @@ Charakterkonzept:
 |Mut|1|  
 |Gunst|2|  
   
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -236,9 +169,11 @@ Charakterkonzept:
 |Wille:|1|  
 |Göttliche Bindung (Gott):|0|  
   
-  
 &nbsp;  
 total point costs Schicksal: -10  
 total point costs Magie: 121  
 total point costs Können: 165  
 total point costs Charisma: 55  
+total point costs Stärke: 10157  
+total point costs Weisheit: 72  
+total point costs: 10560  
