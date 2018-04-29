@@ -105,6 +105,9 @@ Charakterkonzept:
   
   
   
+  
+  
+  
 &nbsp;  
   
 ##Stärke  
