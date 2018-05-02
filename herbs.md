@@ -34,10 +34,11 @@ Es wird 1 Gegenstand je nach Vektor produziert (Vorteile können auch das erhöh
 
 ###Düsterwurz 
 Düsterwurz ist ein relativ häufiges Kraut, das man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.  
-Beschreibung: Insgesamt bis zu 25 cm hoch. Dunkelgrüne, dreieckige Blätter mit glattem Rand, die maximal handgroß werden. Die Blätter sind rings um einen einzelnen Stängel angeordnet, der eine Ähre kleiner kreuzblütiger Blüten besitzt. Die Blüten sind in der Regel hellblau, können auf alkalischen Böden aber auch weiß werden. Sie blühen nur nach Sonnenuntergang und besitzen eine Geruch, der an Wein erinnert. Die Blätter haben einen schwachen bitteren Geschmack.  
-Vorkommen: Düsterwurz wächst nur an schattigen Orten, bevorzugt unter Eichenbäumen. Es ist in der kompletten Region weit verbreitet und kann mit seinen hellen Blüten und dem Geruch nach Dämmerungseinbruch leicht identifiziert werden.   
-Verwendung: Genutzt werden vor allem die Wurzeln dieses Krauts. Obwohl es leicht ist, Düsterwurz zu finden, kostet es einen gewissen Aufwand, die lange Pfahlwurzel unbeschädigt auszugraben.   
-Wert: ~10 Kupfer  
+**Beschreibung:** Insgesamt bis zu 20 cm hoch. Dunkelgrüne, dreieckige Blätter mit glattem Rand, die maximal handgroß werden. Die Blätter sind rings um einen einzelnen Stängel angeordnet, der eine Ähre kleiner kreuzblütiger Blüten besitzt. Die Blüten sind in der Regel hellblau, können auf alkalischen Böden aber auch weiß werden. Sie blühen nur nach Sonnenuntergang und besitzen eine Geruch, der an Wein erinnert. Die Blätter haben einen schwachen bitteren Geschmack.  
+**Vorkommen:** Düsterwurz wächst nur an schattigen Orten, bevorzugt unter Eichenbäumen. Es ist in der kompletten Region weit verbreitet und kann mit seinen hellen Blüten und dem Geruch nach Dämmerungseinbruch leicht identifiziert werden.   
+**Verwendung:** Genutzt werden vor allem die Wurzeln dieses Krauts. Obwohl es leicht ist, Düsterwurz zu finden, kostet es einen gewissen Aufwand, die lange Pfahlwurzel unbeschädigt auszugraben.  
+Die rohe Wurzel erleichtert wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.
+**Wert:** ~10 Kupfer  
 K 5: Heilung +1 Operation +1 Giftwiderstand -10(24h)  
 K 15: Vektor: Gegengift, Haltbarkeit: 1 Tag  
 K 18: Vektor: Gegengift, Haltbarkeit: 1 Monat  
@@ -47,7 +48,14 @@ A 16: Vektor: Kontaktgift, Haltbarkeit: 6 Monate
 A 19: Vektor: Kontaktgift, Haltbarkeit: 1 Jahr  
   
 ###Gabelblume
-~8k  
+Gabelblumen sind robuste, weit verbreitete Wildblumen, nahezu überall zu finden sind. Zusätzlich zu der gelben Wildvariante gibt es auch zahlreiche Zuchtvarianten in unterschiedlichsten Farben, die als Zierpflanze in ganz Prekor beliebt sind. Gabelblumen haben keine eigene Heilwirkung, werden aber gern verschiedenen Präperaten zugesetzt, um Konsistenz und Haltbarkeit zu verbessern.  
+**Beschreibung:** Mehrjährige Staude, sehr kompakter Wuchs, bis zu 40 cm hoch. Dicht verästelte, nicht verholzte Stängel, die an den Blattansätzen verdickt und rötlich gefärbt sind. Die Blätter sind klein, oval, fleischig und von hellegröner Farbe mit einem dunkelroten Rand nahe des Stiels.  
+Gabelblumen blühen vom Frühjahr bis in den Herbst und in großer Anzahl. Sie formen dichte Dolden röhrenförmiger Blüten mit einem langen, an der Spitze gegabelten Stempel. Dieser gibt der Pflanze ihren Namen. Sie haben nur einen schwach süßlichen Duft.  
+Die Blüten wilder Gabelblumen haben eine kräftige gelbe Färbung und sind relativ klein. Als Zierpflanze existieren Gabelblumen aber in vielen Farbtönen, insbesondere weiß, orange und rot sowie Kombinationen dieser Farben. Die Zierpflanzen haben in der Regel größere Blüten als die Wildblume.
+**Vorkommen:** Gabelblumen können nahezu überall gedeihen, wo sie Erde, Wasser und Licht bekommen. Ihre Blüten sind ein häufiger Farbklecks in den Landschaften und Städten Prekors. Ihre Genügsamkeit hat zweifelsohne zu dieser weiten Verbreitung beigetragen. Zu viel Wasser tut ihnen allerdings nicht gut, so dass sie selten in der unmittelbaren Nähe von Gewässern zu finden sind, sie bevorzugen eher trockene, luftige Böden.   
+**Verwendung:** Gabelblumen sind weit verbreitet und leicht zu verarbeiten. Ihre Blüten und Teile der Blätter können zum Kochen verwendet werden, beispielsweise bei der Dekoration von Nachspeisen.  Die äußerste Schicht der Blätter ist allerdings recht zäh und faserig, weswegen sie oft geschält werden.
+Die zerstoßenen Blätter und Stiele ergeben eine dicke Paste, die häufig als Basis für Salben genutzt wird, während ein Filtrat dieser Masse ein beliebter Ausgangsstoff für Tränke ist. In keiner dieser Formen besitzen Gabelblumen nennenswerte Wirkstoffe, was die Kombination mit einer Vielzahl anderer Ingredenzien ermöglicht, ohne deren Effekte zu beeinträchtigen. Bei sorgfältiger Verarbeitung können die daraus entstandenen Mittel allerdings beachtliche Haltbarkeiten erzielen.  
+**Wert:** ~8 Kupfer  
 K 10: Vektor: Salbe, Haltbarkeit: 5 Tage    
 K 15: Vektor: Salbe, Haltbarkeit: 14 Tage  
 K 18: Vektor: Salbe, Haltbarkeit: 3 Monate  
@@ -79,7 +87,7 @@ K 9 A 13: Schlaf (in 1h/W); Versorgung +1
 ~50k  
 K 6: Bitter  
 K 8 A 8: Schauder/Unangenehm  
-A 10: Gekocht + 1  
+A 10: Gekocht W + 1  
 A 13: Getrocknet und zerrieben W + 3   
 A 16: Fermentiert W + 5   
 
