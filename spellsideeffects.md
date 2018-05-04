@@ -125,21 +125,21 @@ Value   |   Effect
 99   |    caster skips 1d10 rounds completely
 100   |    9 damage
 101   |    spell instead has free will and manifests as angry elemental
-102   |    10 damage, caster unconscious
+102   |    5 permanent damage (25), caster unconscious
 103   |    Loose 10 strain, 1 bolt per current strain shoots out to a random target in long range and heals the worst wound by 1 point
 104   |    roll another strainroll and add the result
 105   |    spell effect is duplicated and reversed
-106   |    10 damage, caster is blind until fully healed + 1 day
+106   |    5 permanent damage (healing difficulty 25), caster is blind until fully healed + 1 day
 107   |    target is teleported to random location within 5 km
-108   |    10 damage, caster is deaf until fully healed + 1 day
+108   |    5 permanent damage (healing difficulty 25), caster is deaf until fully healed + 1 day
 109   |    repeats last spell instead
-110   |    10 damage, caster is mute until fully healed + 1 day
+110   |    5 permanent damage (healing difficulty 25), caster is mute until fully healed + 1 day
 111   |    5m radius hole appears under caster, depth 1 m per spell result
 112   |    roll another strainroll and add the result
 113   |    caster is surrounded in  5 m stone ball of 20 cm thickness where he is right now 20 rounds until suffocation starts. 100 dmg (advantage*0) required to break open
 114   |    dizzy for 5 minutes. -10 to all roll results
-115   |    10 damage, caster is epileptic until fully healed + 1 day (any roll below 10 causes a 2 missed turns and a -5 penalty on next rolls, decaying by 1 per round)
+115   |    5 permanent damage (healing difficulty 25), caster is epileptic until fully healed + 1 day (any roll below 10 causes a 2 missed turns and a -5 penalty on next rolls, decaying by 1 per round)
 116   |    random magical item within 50 meters is completely discharged and has quality halved.
-117   |    15 damage, caster becomes insane (mostly scared/angry/inable to comprehend, game master may override player choice at any point) until fully healed + 1 week.
-118   |    loose all strain, in a big explosion dealing 1 damage -1/meter to everything in range
-119   |    Gain 1 strain, roll 1d10 to reduce the result
+117   |    10 permanent damage (healing difficulty 30) damage, caster becomes insane (mostly scared/angry/inable to comprehend, game master may override player choice at any point) until fully healed + 1 week.
+118   |    loose all strain, in a big explosion dealing 1 damage -1/meter to everything in range, leaves caster unconcious until 75% healed.
+119   |    Gain 1d10 strain, roll 2d10 to reduce the current result
