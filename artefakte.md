@@ -2,7 +2,7 @@ title: artefakte
 tags: 
 
   lehnin Mü
-unsichtbarkeitsring (safeempty) 35/50
+unsichtbarkeitsring (safeempty) 31/50
 
 Blauer Edelstein 50/50/65
 
