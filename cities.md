@@ -16,5 +16,8 @@ Möglicher Handelspartner für Seegard, handelt zurzeit mit Limasu
 ## Eisenbach
 Dorf in der Nähe des Eisenberges
 
+## Dinas Godol
+Stadt im Schatten, ein paar Tage Nordöstlich des Passes aber ein gutes stück südlich der Aschanstraße
+
 
 
