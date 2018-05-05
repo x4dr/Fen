@@ -26,6 +26,7 @@ Charakterkonzept:
 |Rennen|0|  
 |Schwimmen|0|  
 |Wundheilung|0|  
+|Athletik|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -58,6 +59,8 @@ Charakterkonzept:
 |Reiten|0|  
 |Spinnenseide|3|  
 |MagieHandwerk|0|  
+|Lederverarbeitung|0|  
+|Konstruktion|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -101,6 +104,8 @@ Charakterkonzept:
 |Forschung|0|  
 |Instinkt|0|  
 |Wissen(Gebiet)|0|  
+|Strategie|0|  
+|Taktik|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -138,6 +143,7 @@ Charakterkonzept:
 |Lügen|0|  
 |Stil|0|  
 |Einschüchtern|0|  
+|Befehlsgewalt|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -167,6 +173,7 @@ Charakterkonzept:
 |Begegnung|3|  
 |Wendung|2|  
 |Rassenachteil: Schreckhaft|  
+|Schicksal|0|  
   
 &nbsp;  
 total point costs Schicksal: 123  

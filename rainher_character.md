@@ -28,6 +28,7 @@ blah
 |Waffe(Degen)|3|  
 |Waffe(Armbrust)|2|  
 |Waffe(Wurfmesser)|2|  
+|Athletik|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -58,6 +59,9 @@ blah
 |Diebeshandwerk|0|  
 |Schleichen|2|  
 |Reiten|0|  
+|Stoffverarbeitung|0|  
+|Lederverarbeitung|0|  
+|Konstruktion|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -104,6 +108,8 @@ blah
 |Forschung|1|  
 |Instinkt|1|  
 |Wissen(Gebiet)|0|  
+|Strategie|0|  
+|Taktik|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -139,6 +145,7 @@ blah
 |Lügen|2|  
 |Stil|2|  
 |Einschüchtern|1|  
+|Befehlsgewalt|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -168,6 +175,7 @@ blah
 |Vorteile|Level|  
 |:---|----:|  
 |Begegnung|2|  
+|Schicksal|0|  
   
 &nbsp;  
 total point costs Schicksal: 76  

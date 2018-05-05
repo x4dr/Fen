@@ -13,9 +13,11 @@ Waffen sind Fähigkeiten
 * Ausdauer  
 * Körperkraft  
 ###Fähigkeiten	
-* Rennen
+* Athletik
 * Schwimmen
 * Wundheilung
+
+
 
 
 ##Können
@@ -24,9 +26,12 @@ Waffen sind Fähigkeiten
 * Wendigkeit
 * Rüstung
 * Artefakte
-###Fähigkeiten	
+###Fähigkeiten
+* Stoffverarbeitung
+* Lederverarbeitung	
 * Metallverarbeitung
 * Holzverarbeitung
+* Konstruktion
 * Alchemie
 * MagieHandwerk
 * Akrobatik
@@ -49,6 +54,8 @@ Waffen sind Fähigkeiten
 * Wissen(Gebiet)
 * Forschung
 * Instinkt
+* Strategie
+* Taktik
 
 ###Vorteile
 * Aurisch Sprechen
@@ -77,6 +84,7 @@ Waffen sind Fähigkeiten
 * Lügen
 * Stil
 * Einschüchtern
+* Befehlsgewalt
 
 ##Schicksal
 ###Attribute
@@ -88,3 +96,6 @@ Waffen sind Fähigkeiten
 * Ruhm:
 * Wille:
 * Göttliche Bindung (Gott):
+
+###Vorteile
+* Schicksal

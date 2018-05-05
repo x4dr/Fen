@@ -23,6 +23,7 @@ Charakterkonzept:
 |Rennen|0|  
 |Schwimmen|0|  
 |Wundheilung|0|  
+|Athletik|0|  
   
 &nbsp;  
   
@@ -46,6 +47,9 @@ Charakterkonzept:
 |Diebeshandwerk|0|  
 |Schleichen|0|  
 |Reiten|0|  
+|Stoffverarbeitung|0|  
+|Lederverarbeitung|0|  
+|Konstruktion|0|  
   
 &nbsp;  
   
@@ -79,6 +83,8 @@ Charakterkonzept:
 |Wissen(Gebiet)|0|  
 |Forschung|0|  
 |Instinkt|0|  
+|Strategie|0|  
+|Taktik|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -114,6 +120,7 @@ Charakterkonzept:
 |Lügen|0|  
 |Stil|0|  
 |Einschüchtern|0|  
+|Befehlsgewalt|0|  
   
 &nbsp;  
   
@@ -131,6 +138,11 @@ Charakterkonzept:
 |Ruhm:|0|  
 |Wille:|0|  
 |Göttliche Bindung (Gott):|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Schicksal|0|  
   
 &nbsp;  
 total point costs Schicksal: 0  
