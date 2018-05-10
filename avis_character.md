@@ -22,7 +22,6 @@ Charakterkonzept:
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Peitsche|2|  
-|Rennen|0|  
 |Schwimmen|1|  
 |Wundheilung|0|  
 |Athletik|2|  
@@ -49,18 +48,18 @@ Charakterkonzept:
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Metallverarbeitung|0|  
-|Holzverarbeitung|0|  
-|Alchemie|0|  
-|MagieHandwerk|0|  
 |Akrobatik|3|  
 |Diebeshandwerk|2|  
 |Schleichen|2|  
-|Reiten|0|  
+|Kochen|2|  
 |Stoffverarbeitung|0|  
 |Lederverarbeitung|0|  
+|Metallverarbeitung|0|  
+|Holzverarbeitung|0|  
 |Konstruktion|0|  
-|Kochen|2|  
+|Alchemie|0|  
+|MagieHandwerk|0|  
+|Reiten|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -88,12 +87,24 @@ Charakterkonzept:
 |Aspekte|Level|  
 |:---|----:|  
   
+###Forma  
+|Forma|Level|  
+|:---|----:|  
+|Lux|4|  
+|Impello|3|  
+|sisto|2|  
+|Fulgur|2|  
+|meta|2|  
+|persona|3|  
+|tutela|2|  
+|Disruptio|3|  
+  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Konzentration|2|  
-|Zauber biegen|4|  
-|Bewegung Zaubern|2|  
+|Zauber biegen|2|  
+|Bewegung Zaubern|4|  
 |Schnell Zaubern|1|  
   
 &nbsp;  
@@ -109,12 +120,12 @@ Charakterkonzept:
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Heilen|0|  
-|Wissen(Gebiet)|0|  
 |Forschung|3|  
 |Instinkt|2|  
-|Strategie|0|  
 |Taktik|2|  
+|Heilen|0|  
+|Wissen(Gebiet)|0|  
+|Strategie|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -148,12 +159,12 @@ Charakterkonzept:
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Handel|0|  
-|Diplomatie|0|  
+|Diplomatie|1|  
 |Lügen|1|  
 |Stil|2|  
 |Einschüchtern|0|  
 |Befehlsgewalt|0|  
+|Handel|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -182,11 +193,17 @@ Charakterkonzept:
 |:---|----:|  
 |Schicksal|5|  
   
+###Talente  
+|Talente|Level|  
+|:---|----:|  
+|Taggen|1|  
+|Angeben|1|  
+  
 &nbsp;  
-total point costs Schicksal: 95  
+total point costs Schicksal: 105  
 total point costs Magie: 92  
 total point costs Können: 139  
-total point costs Charisma: 63  
+total point costs Charisma: 68  
 total point costs Stärke: 39  
 total point costs Weisheit: 134  
-total point costs: 562  
+total point costs: 577  

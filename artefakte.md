@@ -17,7 +17,7 @@ amulett 3 - identifiziert 5 holds energy sort of unstable useable on things
 Shadowstone 40/40/40
 
 dinas godol loot (alle leer):  
-crown of the seeing eye (10)  
+  crown of the seeing eye (10)  
 staff of doing stuff (12)  
 * wirkungsverstärker  
 edelstein 1 (10)  
