@@ -120,7 +120,7 @@ Charakterkonzept:
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Forschung|3|  
+|Forschung|2|  
 |Instinkt|2|  
 |Taktik|2|  
 |Heilen|0|  
@@ -154,7 +154,7 @@ Charakterkonzept:
 |:---|----:|  
 |Eindruck|3|  
 |Durchsetzungsvermögen|2|  
-|Sympathie|3|  
+|Sympathie|4|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -203,7 +203,7 @@ Charakterkonzept:
 total point costs Schicksal: 105  
 total point costs Magie: 92  
 total point costs Können: 139  
-total point costs Charisma: 68  
+total point costs Charisma: 108  
 total point costs Stärke: 39  
-total point costs Weisheit: 134  
-total point costs: 577  
+total point costs Weisheit: 119  
+total point costs: 602  
