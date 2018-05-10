@@ -15,15 +15,25 @@ Charakterkonzept:
 |:---|----:|  
 |Gesundheit|2|  
 |Ausdauer|2|  
-|Körperkraft|2|  
+|Körperkraft|1|  
   
 ###Fähigkeiten  
+  
 |Fähigkeiten|Level|  
 |:---|----:|  
+|Peitsche|2|  
 |Rennen|0|  
-|Schwimmen|0|  
+|Schwimmen|1|  
 |Wundheilung|0|  
-|Athletik|0|  
+|Athletik|2|  
+|Zechen|2|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Tricks|1|  
+|Greifen|1|  
+|Schwingen|1|  
   
 &nbsp;  
   
@@ -31,10 +41,10 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Fingerfertigkeit|2|  
-|Wendigkeit|2|  
-|Rüstung|2|  
-|Artefakte|2|  
+|Fingerfertigkeit|3|  
+|Wendigkeit|3|  
+|Rüstung|1|  
+|Artefakte|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -43,13 +53,23 @@ Charakterkonzept:
 |Holzverarbeitung|0|  
 |Alchemie|0|  
 |MagieHandwerk|0|  
-|Akrobatik|0|  
-|Diebeshandwerk|0|  
-|Schleichen|0|  
+|Akrobatik|3|  
+|Diebeshandwerk|2|  
+|Schleichen|2|  
 |Reiten|0|  
 |Stoffverarbeitung|0|  
 |Lederverarbeitung|0|  
 |Konstruktion|0|  
+|Kochen|2|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Ausweichen|3|  
+|Parkour|2|  
+|D.f.A|1|  
+|Taschendieb|1|  
+|Battleflips|1|  
   
 &nbsp;  
   
@@ -57,14 +77,24 @@ Charakterkonzept:
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
+|Verstandt|3|  
   
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
+|???|3|  
   
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Konzentration|2|  
+|Zauber biegen|4|  
+|Bewegung Zaubern|2|  
+|Schnell Zaubern|1|  
   
 &nbsp;  
   
@@ -72,7 +102,7 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Bildung|2|  
+|Bildung|3|  
 |Erinnerungsvermögen|2|  
 |Wahrnehmung|2|  
   
@@ -81,20 +111,23 @@ Charakterkonzept:
 |:---|----:|  
 |Heilen|0|  
 |Wissen(Gebiet)|0|  
-|Forschung|0|  
-|Instinkt|0|  
+|Forschung|3|  
+|Instinkt|2|  
 |Strategie|0|  
-|Taktik|0|  
+|Taktik|2|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Aurisch Sprechen|0|  
-|Aurisch Lesen|0|  
-|Aurisch Schreiben|0|  
-|Prekorisch Sprechen|0|  
-|Prekorisch Lesen|0|  
+|Aurisch Sprechen|3|  
+|Aurisch Lesen|3|  
+|Aurisch Schreiben|2|  
+|Prekorisch Sprechen|3|  
+|Prekorisch Lesen|1|  
 |Prekorisch Schreiben|0|  
+|Sentinisch Sprechen|M|  
+|Sentinisch Lesen|3|  
+|Sentinisch Schreiben|3|  
 |Argyrisch Sprechen|0|  
 |Argyrisch Lesen|0|  
 |Argyrisch Schreiben|0|  
@@ -108,19 +141,24 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Eindruck|2|  
+|Eindruck|3|  
 |Durchsetzungsvermögen|2|  
-|Sympathie|2|  
+|Sympathie|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Handel|0|  
 |Diplomatie|0|  
-|Lügen|0|  
-|Stil|0|  
+|Lügen|1|  
+|Stil|2|  
 |Einschüchtern|0|  
 |Befehlsgewalt|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Angeben|1|  
   
 &nbsp;  
   
@@ -128,27 +166,27 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Glück|2|  
-|Mut|2|  
-|Gunst|2|  
+|Glück|4|  
+|Mut|3|  
+|Gunst|1|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Ruhm:|0|  
-|Wille:|0|  
+|Ruhm:|1|  
+|Wille:|2|  
 |Göttliche Bindung (Gott):|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Schicksal|0|  
+|Schicksal|5|  
   
 &nbsp;  
-total point costs Schicksal: 0  
-total point costs Magie: 0  
-total point costs Können: 0  
-total point costs Charisma: 0  
-total point costs Stärke: 0  
-total point costs Weisheit: 0  
-total point costs: 0  
+total point costs Schicksal: 95  
+total point costs Magie: 92  
+total point costs Können: 139  
+total point costs Charisma: 63  
+total point costs Stärke: 39  
+total point costs Weisheit: 134  
+total point costs: 562  
