@@ -96,10 +96,11 @@ Edelstein 20/20/??
 |:---|----:|  
 |Instinkt|3|  
 |Heilen|0|  
-|Wissen(Gebiet)|0|  
+|Wissen(Magie)|2|.|  
 |Forschung|0|  
 |Strategie|0|  
 |Taktik|0|  
+|Wissen(Gebiet)|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -166,5 +167,5 @@ total point costs Magie: 180
 total point costs Können: 180  
 total point costs Charisma: 95  
 total point costs Stärke: 40  
-total point costs Weisheit: 88  
-total point costs: 663  
+total point costs Weisheit: 103  
+total point costs: 678  

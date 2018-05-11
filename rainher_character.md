@@ -87,7 +87,9 @@ Charakterkonzept:
 |Movement|1|  
   
 ###Fähigkeiten  
-|Vorschnellen| 1|  
+|Zauber|Stufe|  
+|:---|----:|  
+|Vorschnellen|1|  
   
 &nbsp;  
   
