@@ -58,6 +58,7 @@ Charakterkonzept:
 |:---|----:|  
 |Mond|3|  
   
+Edelstein 20/20/??  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
