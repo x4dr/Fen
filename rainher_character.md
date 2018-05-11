@@ -7,7 +7,7 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
-blah  
+663  
   
 &nbsp;  
   
@@ -24,7 +24,7 @@ blah
 |:---|----:|  
 |Rennen|0|  
 |Schwimmen|1|  
-|Wundheilung|0|  
+|Wundheilung|2|  
 |Waffe(Degen)|3|  
 |Waffe(Armbrust)|2|  
 |Waffe(Wurfmesser)|2|  
@@ -55,7 +55,7 @@ blah
 |Holzverarbeitung|0|  
 |Alchemie|0|  
 |MagieHandwerk|1|  
-|Akrobatik|1|  
+|Akrobatik|2|  
 |Diebeshandwerk|0|  
 |Schleichen|2|  
 |Reiten|0|  
@@ -74,7 +74,7 @@ blah
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
-|Meditation| 1|  
+|Meditation| 2|  
   
 ###Konzepte  
 |Konzepte|Level|  
@@ -108,7 +108,7 @@ blah
 |Forschung|1|  
 |Instinkt|1|  
 |Wissen(Gebiet)|0|  
-|Strategie|0|  
+|Strategie|1|  
 |Taktik|0|  
   
 ###Vorteile  
@@ -179,9 +179,9 @@ blah
   
 &nbsp;  
 total point costs Schicksal: 76  
-total point costs Magie: 20  
-total point costs Können: 68  
+total point costs Magie: 25  
+total point costs Können: 78  
 total point costs Charisma: 143  
-total point costs Stärke: 134  
-total point costs Weisheit: 171  
-total point costs: 612  
+total point costs Stärke: 149  
+total point costs Weisheit: 176  
+total point costs: 647  
