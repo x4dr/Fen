@@ -58,7 +58,7 @@ and can only be surpressed for a few rounds with great concentration)
 
 
 Vorschlag:
-
+Feuerpfad, feuer beeinträchtigt Sicht nicht
 Waldgeist:  
 
 1 grüner Daumen  
