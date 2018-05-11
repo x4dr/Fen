@@ -201,9 +201,9 @@ Charakterkonzept:
   
 &nbsp;  
 total point costs Schicksal: 105  
-total point costs Magie: 800115  
+total point costs Magie: 200  
 total point costs Können: 139  
 total point costs Charisma: 105  
 total point costs Stärke: 39  
 total point costs Weisheit: 119  
-total point costs: 800622  
+total point costs: 707  
