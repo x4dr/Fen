@@ -28,7 +28,7 @@ Charakterkonzept:
 |Waffe(Degen)|3|  
 |Waffe(Armbrust)|2|  
 |Waffe(Wurfmesser)|2|  
-|Athletik|0|  
+|Athletik|2|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -184,6 +184,6 @@ total point costs Schicksal: 76
 total point costs Magie: 25  
 total point costs Können: 78  
 total point costs Charisma: 143  
-total point costs Stärke: 149  
+total point costs Stärke: 164  
 total point costs Weisheit: 176  
-total point costs: 647  
+total point costs: 662  
