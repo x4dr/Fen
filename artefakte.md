@@ -16,6 +16,8 @@ amulett 3 - identifiziert 5 holds energy sort of unstable useable on things
 
 Shadowstone 40/40/40
 
+Magisches Feuerzeug  9/15
+
 dinas godol loot (alle leer):  
   crown of the seeing eye (10)11  
 staff of doing stuff (12)14  
