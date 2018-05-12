@@ -7,15 +7,13 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
-Äh  
-  
 &nbsp;  
   
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Gesundheit|2|  
+|Gesundheit|3|  
 |Ausdauer|2|  
 |Körperkraft|2|  
   
@@ -23,9 +21,17 @@ Charakterkonzept:
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Rennen|0|  
-|Schwimmen|0|  
+|Schwimmen|1|  
 |Wundheilung|0|  
-|Athletik|0|  
+|Athletik|3|  
+  
+###Waffen  
+|Fähigkeiten|Level|  
+|:---|----:|  
+|Langbogen|5|  
+|Kurzschwert|3|  
+|Blasrohr|3|  
+|Keulen|1|  
   
 &nbsp;  
   
@@ -33,7 +39,7 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Fingerfertigkeit|2|  
+|Fingerfertigkeit|3|  
 |Wendigkeit|2|  
 |Rüstung|2|  
 |Artefakte|2|  
@@ -42,12 +48,12 @@ Charakterkonzept:
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Metallverarbeitung|0|  
-|Holzverarbeitung|0|  
-|Alchemie|0|  
+|Holzverarbeitung|1|  
+|Alchemie|3|  
 |MagieHandwerk|0|  
-|Akrobatik|0|  
-|Diebeshandwerk|0|  
-|Schleichen|0|  
+|Akrobatik|2|  
+|Diebeshandwerk|2|  
+|Schleichen|3|  
 |Reiten|0|  
 |Stoffverarbeitung|0|  
 |Lederverarbeitung|0|  
@@ -74,9 +80,9 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Bildung|2|  
+|Bildung|3|  
 |Erinnerungsvermögen|2|  
-|Wahrnehmung|2|  
+|Wahrnehmung|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -84,7 +90,7 @@ Charakterkonzept:
 |Heilen|0|  
 |Wissen(Gebiet)|0|  
 |Forschung|0|  
-|Instinkt|0|  
+|Instinkt|4|  
 |Strategie|0|  
 |Taktik|0|  
   
@@ -130,8 +136,8 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Glück|2|  
-|Mut|2|  
+|Glück|3|  
+|Mut|3|  
 |Gunst|2|  
   
 ###Fähigkeiten  
@@ -146,11 +152,17 @@ Charakterkonzept:
 |:---|----:|  
 |Schicksal|0|  
   
+###Progress  
+|Skill|Level|Progress|  
+|:---|----:|--:|  
+|Medizin |1|90|  
+|Kräuterkunde|5|60|  
+  
 &nbsp;  
-total point costs Schicksal: 0  
+total point costs Schicksal: 200040  
 total point costs Magie: 0  
-total point costs Können: 0  
+total point costs Können: 115  
 total point costs Charisma: 0  
-total point costs Stärke: 0  
-total point costs Weisheit: 0  
-total point costs: 0  
+total point costs Stärke: 400055  
+total point costs Weisheit: 90  
+total point costs: 600300  
