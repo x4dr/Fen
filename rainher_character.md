@@ -20,15 +20,15 @@ Charakterkonzept:
 |Körperkraft|3|  
   
 ###Fähigkeiten  
-|Fähigkeiten|Level|  
-|:---|----:|  
-|Rennen|0|  
-|Schwimmen|1|  
-|Wundheilung|2|  
-|Waffe(Degen)|3|  
-|Waffe(Armbrust)|2|  
-|Waffe(Wurfmesser)|2|  
-|Athletik|2|  
+|Fähigkeiten|Level|Training|  
+|:---|----:|----:|  
+|Rennen|0|0|  
+|Schwimmen|1|0|  
+|Wundheilung|2|0|  
+|Waffe(Degen)|3|0|  
+|Waffe(Armbrust)|2|0|  
+|Waffe(Wurfmesser)|2|0|  
+|Athletik|2|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -49,19 +49,19 @@ Charakterkonzept:
 |Artefakte|3|  
   
 ###Fähigkeiten  
-|Fähigkeiten|Level|  
-|:---|----:|  
-|Metallverarbeitung|0|  
-|Holzverarbeitung|0|  
-|Alchemie|0|  
-|MagieHandwerk|1|  
-|Akrobatik|2|  
-|Diebeshandwerk|0|  
-|Schleichen|2|  
-|Reiten|0|  
-|Stoffverarbeitung|0|  
-|Lederverarbeitung|0|  
-|Konstruktion|0|  
+|Fähigkeiten|Level|Training|  
+|:---|----:|----:|  
+|Metallverarbeitung|0|0|  
+|Holzverarbeitung|0|0|  
+|Alchemie|0|0|  
+|MagieHandwerk|1|0|  
+|Akrobatik|2|0|  
+|Diebeshandwerk|0|0|  
+|Schleichen|2|0|  
+|Reiten|0|0|  
+|Stoffverarbeitung|0|0|  
+|Lederverarbeitung|0|0|  
+|Konstruktion|0|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -102,16 +102,16 @@ Charakterkonzept:
 |Wahrnehmung|3|  
   
 ###Fähigkeiten  
-|Fähigkeiten|Level|  
-|:---|----:|  
-|Heilen|0|  
-|Wissen(Adel)|3|  
-|Wissen(Religion)|3|  
-|Forschung|1|  
-|Instinkt|1|  
-|Wissen(Gebiet)|0|  
-|Strategie|1|  
-|Taktik|0|  
+|Fähigkeiten|Level|Training|  
+|:---|----:|----:|  
+|Heilen|0|0|  
+|Wissen(Adel)|3|0|  
+|Wissen(Religion)|3|0|  
+|Forschung|1|0|  
+|Instinkt|1|0|  
+|Wissen(Gebiet)|0|0|  
+|Strategie|1|0|  
+|Taktik|0|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -140,14 +140,14 @@ Charakterkonzept:
 |Sympathie|1|  
   
 ###Fähigkeiten  
-|Fähigkeiten|Level|  
-|:---|----:|  
-|Handel|2|  
-|Diplomatie|3|  
-|Lügen|2|  
-|Stil|2|  
-|Einschüchtern|1|  
-|Befehlsgewalt|0|  
+|Fähigkeiten|Level|Training|  
+|:---|----:|----:|  
+|Handel|2|0|  
+|Diplomatie|3|0|  
+|Lügen|2|0|  
+|Stil|2|0|  
+|Einschüchtern|1|0|  
+|Befehlsgewalt|0|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -166,12 +166,12 @@ Charakterkonzept:
 |Rasse(ist auf 1)|3|  
   
 ###Fähigkeiten  
-|Fähigkeiten|Level|  
-|:---|----:|  
-|Ruhm:|1|  
-|Wille:|0|  
-|Göttliche Bindung (Ateph):|1|  
-|Göttliche Bindung (Gott):|0|  
+|Fähigkeiten|Level|Training|  
+|:---|----:|----:|  
+|Ruhm:|1|0|  
+|Wille:|0|0|  
+|Göttliche Bindung (Ateph):|1|0|  
+|Göttliche Bindung (Gott):|0|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
