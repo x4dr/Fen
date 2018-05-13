@@ -12,63 +12,130 @@ amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediat
 
 amulett 2 - identifiziert 6 more spells, strategically
 
-amulett 3 - identifiziert 5 holds energy sort of unstable useable on things
+amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions
 
 Shadowstone 40/40/40
 
 Magisches Feuerzeug  9/15
 
-dinas godol loot (alle leer):  
-  crown of the seeing eye (10)11  
-staff of doing stuff (12)14  
-* wirkungsverstärker  
-edelstein 1 (10)15  
+####dinas godol loot (alle leer):  
+  
+#####Reich verziertes kronenähnliches [Ding](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg) (10)11  
+*Verzauberung für verbesserte Sinne
+*Ladung pro minute aktivität
+
+#####staff of doing stuff (12)14  
+*+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung
+
+#####edelstein 1 (10)15  
 * hält sauber, trocken, unglitschig  
-edelstein 2 (9)14  
+* Ladung pro reinigungsarbeit, bei Kleidung wäre es 1 pro woche oder 1 pro Stunde in Matsch/Wasser 
+* 0/10/10
+
+#####edelstein 2 (9)14  
 * stimmt sich auf besitzer ein  
-edelstein 3 (13)17  
-* bonusschaden, aktiviert über wort (unbekannt)  
-edelstein 4 (12)8  
+* 0/10/10
+* +1 Maximum pro Woche im selben besitz.
+* Qualitätsverlust bei 20 (0Q = Zerstört)
+
+#####edelstein 3 (13)17  
+* bonusschaden, aktiviert über wort  
+* Wort: difrod 
+* Schaden: 1d10 (10 cm reichweite, nächstes ziel)
+* 0/40/60
+* Maximumsverlust bei 1
+* 12-(artefakt@5) ladung
+
+#####edelstein 4 (12)8  
 * can't touch it  
 * platz machender Puls  
-edelstein 5 (11)12  
+
+#####edelstein 5 (11)12  
 * zentriert (besser treffen+getroffen werden)  
-edelstein 6 (13)16  
+* Q15  
+
+#####edelstein 6 (13)16  
 * instabil, verändert zufällig energielevel bei benutzung  
-edelstein 7 (13)11  
-* groß (150 max, nix drin), minimum output 10  
-edelstein 8 (10)14  
+* (artefakte@5)-5 Ladung nach benutzung, -1 maximum bei 7
+
+#####edelstein 7 (13)11  
+* 0/150/150
+* minimum output 10  
+
+#####edelstein 8 (10)14  
 * wird ziemlich durchsichtig  
-edelstein 9 (12)8  
+* objekt unsichtbarkeit
+* mechanisch ausgelöst
+* 10-(artefakt@5) ladung zum unsichtbar machen
+* wird sichtbar wenn die ladung alle ist
+
+#####edelstein 9 (12)8  
 * oszilliert  
-edelstein 10 (11)10  
+
+#####edelstein 10 (11)10  
 * schwarz, wenn man durchs zentrum schaut rot und zieht kraft aus echtem, finsteren hass  
-edelstein 11 (9)8  
-* dämmt oder dimmt etwas ein  
-edelstein 12 (10)16  
-* resoniert mit irgendetwas, das in der nähe ist  
-edelstein 13 (14)9  
-* gibt dem träger des artefaktes, in dem er verarbeitet ist: +1 Ausdauer, verliert dann 1 Energie, 20 Energie max  
-edelstein 14 (17)10  
-* wenn in erde eingegraben und nass werdene beschwört dinge, die dem letzten berührenden böses wollen (Kap. 60)  
-edelstein 15 (12)18  
+
+#####edelstein 11 (9)8  
+* dimmt oder dämmt etwas ein  
+
+#####edelstein 12 (10)16  
+* resoniert mit Verletzten, die in der nähe sind  
+* kann 1 energie/tag/verletztem erzeugen wenn angewendet, unterdrückt wundheilung.
+
+#####edelstein 13 (14)9  
+* gibt dem träger des artefaktes, in dem er verarbeitet ist: +1 Ausdauer, verliert dann 9-(artefakt@5) Energie, 0/20/?
+
+#####edelstein 14 (17)10  
+* wenn in erde eingegraben und nass werdend beschwört dinge, die dem letzten berührenden böses wollen (0/60/?)  
+
+#####edelstein 15 (12)18  
 * dämpfung von schmerz  
-edelstein 16 (12)15  
-* belebt dinge wieder  
-edelstein 17 (13)16  
+* +5 auf durchhaltewürfe, schmerzbasierte effekte um 5 verringert
+* kein richtiger edelstein sondern artefakt
+* bindung an träger für 12-(artefakt@5) Ladung
+* 0/4/4
+* bleibt aktiv solange in 10 meter radius vom Träger.
+
+#####edelstein 16 (12)15  
+* 0/500/500
+* keine energie kann wieder herausgeholt werden  
+* alle 100m Bewegung/6h: -1 Ladung  
+* kann wenn voll dazu benutzt werden etwas was weniger als einen tag tot ist auf 1 HP wiederherzustellen, kostet 500 ladung und dauert einen monat.   
+* ?  
+* ?  
+
+#####edelstein 17 (13)16  
 * schränkt sicht ein  
-edelstein 18 (9)16  
+* bei aktivierung wird licht gedämpft 
+* vorallem indirektes licht
+
+#####edelstein 18 (9)16  
 * heilungsbezogener effekt  
-edelstein 19 (10)16  
+* 0/8/10
+* 12-(artefakt@5) aktivierung während es auf einer wunde liegt, +10 auf nächsten heilungswurf für diese wunde
+
+#####edelstein 19 (10)16  
 * man kann es nicht verlieren  
-edelstein 20 (12)13  
+* 0/30/30
+* wenn gebunden (12-(artefakt@5) aktiverung) erneut aktivieren (12-(artefakt@5)) und es findet innerhalb der nächsten paar stunden den weg zurück zu einem, soweit möglich
+
+#####edelstein 20 (12)13  
 * sichert/verstärkt etwas, mit dem es verbunden wird  
-edelstein 21 (14)12  
+* 0/20/25
+* 10-(artefakt@5) wenn stabilität überschritten wird.
+* Maximumsverlust wenn stabilität zweifach überschritten wird
+
+#####edelstein 21 (14)12  
 * löst frieden aus, hält 30 punkte  
-edelstein 22 (16)11  
-* wenn aktiviert, gibt unbekannten bonus auf sämtliche aggressive handlungen, erfordert nicht näher bekanntes opfer, sonst  
-edelstein weg  
-edelstein 23 (16)15  
-* 100 Kap. verhindert komplett schaden bei eingesetzter sache.  
-edelstein 24 (13)16  
+* 0/30/35
+* -5 auf nahegelegene aggressive/offensive/schädigende aktionen (intention UND ergebnis)
+
+#####edelstein 22 (16)11  
+* wenn aktiviert, gibt unbekannten bonus auf sämtliche aggressive handlungen, erfordert nicht näher bekanntes opfer, sonst qualitätsverlust
+  
+#####edelstein 23 (16)15  
+* 100 Kap. verhindert allen ausgelösten schaden bei einsetztung.  
+
+#####edelstein 24 (13)16  
 * wenn aktiviert, zieht es die aufmerksamkeit der götter an.  
+* ???
