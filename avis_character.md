@@ -60,6 +60,7 @@ Charakterkonzept:
 |Alchemie|0|  
 |MagieHandwerk|0|  
 |Reiten|0|  
+|Textilverarbeitung|0|  
   
 ###Vorteile  
 |Vorteile|Level|  

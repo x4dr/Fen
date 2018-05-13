@@ -27,15 +27,14 @@ Waffen sind Fähigkeiten
 * Rüstung
 * Artefakte
 ###Fähigkeiten
-* Stoffverarbeitung
-* Lederverarbeitung	
+* Textilverarbeitung	
 * Metallverarbeitung
 * Holzverarbeitung
 * Konstruktion
 * Alchemie
 * MagieHandwerk
-* Akrobatik
 * Diebeshandwerk
+* Akrobatik
 * Schleichen
 * Reiten
 

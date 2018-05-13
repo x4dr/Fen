@@ -49,6 +49,7 @@ Charakterkonzept:
 |Diebeshandwerk|0|  
 |Schleichen|0|  
 |Reiten|0|  
+|Textilverarbeitung|0|  
   
 &nbsp;  
   

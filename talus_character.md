@@ -65,6 +65,7 @@ Charakterkonzept:
 |Stoffverarbeitung|0|  
 |Lederverarbeitung|0|  
 |Konstruktion|0|  
+|Textilverarbeitung|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
