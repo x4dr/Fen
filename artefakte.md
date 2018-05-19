@@ -147,3 +147,6 @@ Magisches Feuerzeug  9/15
 #####edelstein 24 (13)16  
 * wenn aktiviert, zieht es die aufmerksamkeit der götter an.  
 * ???
+
+#####cooler Glitzer Säbel
+Erhöht AoE Effekte wenn geschwungen
