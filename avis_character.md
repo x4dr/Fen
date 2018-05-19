@@ -7,6 +7,9 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
+4 Monate für Peitsche  
+400 Tage Navigation  
+  
 &nbsp;  
   
 ##Stärke  
