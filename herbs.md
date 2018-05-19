@@ -199,3 +199,6 @@ A 13: W/2 damage per tick (muss mit anderem gift zusammen arbeiten)
 A 15: kumulativ -1 jedes mal wenn Natternfäule schaden anrichtet  
 A 18: Halbe Tickrate, W sinkt maximal um die hälfte(aufgerundet).   
 A 20: W steigt um angerichteten Schaden.   
+
+Vorschläge:
+Lügenkresse
