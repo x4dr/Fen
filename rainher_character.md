@@ -63,6 +63,7 @@ Charakterkonzept:
 |Lederverarbeitung|0|0|  
 |Konstruktion|0|0|  
 |Textilverarbeitung|0|  
+|Segeln|0|800tage|  
   
 ###Vorteile  
 |Vorteile|Level|  

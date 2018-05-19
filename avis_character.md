@@ -7,8 +7,9 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
-4 Monate für Peitsche  
+4 Monate  auf dem Dach im Schatten  für peitsche  
 400 Tage Navigation  
+400 Tage Schwimmen  
   
 &nbsp;  
   

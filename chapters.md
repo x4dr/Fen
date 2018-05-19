@@ -11,3 +11,9 @@ tags:
 48
 ## Kapitel 5 - Aubruch in die Schatten
 60 
+## Kapitel 6 - 
+Loot und Turmbauverzögerung 5  
+Erkunden des Dorfes 15  
+Reisen durch die Dunkelheit 10  
+Begegnungen mit der Dunkelheit 7  
+37
