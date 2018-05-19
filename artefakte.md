@@ -16,7 +16,7 @@ amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions
 
 magischer Schutzgürtel 3 fancyness
 -2 auf allen incoming damage für eine stunde (artefakte@5)
-7/50/50 
+1/50/50 
 
 Magischer Unsichtbarkeitskompass 2 fancyness  
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
