@@ -13,11 +13,11 @@ Charakterkonzept:
   
 ##Stärke  
 ###Attribute  
-|Attribute|Level|  
-|:---|----:|  
-|Gesundheit|3|  
-|Ausdauer|3|  
-|Körperkraft|3|  
+|Attribute|Level|Training|  
+|:---|----:|---.|  
+|Gesundheit|3|0|  
+|Ausdauer|3|0|  
+|Körperkraft|3|1|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|Training|  
@@ -25,7 +25,7 @@ Charakterkonzept:
 |Rennen|0|0|  
 |Schwimmen|1|0|  
 |Wundheilung|2|0|  
-|Waffe(Degen)|3|0|  
+|Waffe(Degen)|3|14|  
 |Waffe(Armbrust)|2|0|  
 |Waffe(Wurfmesser)|2|0|  
 |Athletik|2|0|  
