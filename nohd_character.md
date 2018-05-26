@@ -161,11 +161,16 @@ Charakterkonzept:
 |Medizin |1|90|  
 |Kräuterkunde|5|60|  
   
+###Inventar  
+|Item|Menge|  
+|:-—-|—-—:|  
+|Rotwarz|1|  
+  
 &nbsp;  
-total point costs Schicksal: 200040  
+total point costs Schicksal: 300040  
 total point costs Magie: 0  
 total point costs Können: 115  
 total point costs Charisma: 0  
 total point costs Stärke: 400055  
 total point costs Weisheit: 90  
-total point costs: 600300  
+total point costs: 700300  
