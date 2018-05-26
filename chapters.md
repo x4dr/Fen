@@ -11,7 +11,7 @@ tags:
 48
 ## Kapitel 5 - Aubruch in die Schatten
 60 
-## Kapitel 6 - 
+## Kapitel 6 - Die Nacht auf dem Dach
 Loot und Turmbauverzögerung 5  
 Erkunden des Dorfes 15  
 Reisen durch die Dunkelheit 10  

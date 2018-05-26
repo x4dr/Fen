@@ -67,8 +67,8 @@ Waffen sind Fähigkeiten
 * Argyrisch Lesen
 * Argyrisch Schreiben
 * Atterdil Sprechen
-* Atterdil Lesen
-* Atterdil Schreiben
+* Atteryazi Lesen
+* Atteryazi Schreiben
 
 	
 ##Charisma

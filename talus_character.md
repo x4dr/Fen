@@ -139,6 +139,8 @@ Charakterkonzept:
 |Atterdil Sprechen|4|  
 |Atterdil Lesen|4|  
 |Atterdil Schreiben|2|  
+|Atteryazi Lesen|0|  
+|Atteryazi Schreiben|0|  
   
 &nbsp;  
   

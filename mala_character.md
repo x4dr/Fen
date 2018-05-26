@@ -118,6 +118,8 @@ Edelstein 20/20/??
 |Atterdil Sprechen|0|  
 |Atterdil Lesen|0|  
 |Atterdil Schreiben|0|  
+|Atteryazi Lesen|0|  
+|Atteryazi Schreiben|0|  
   
 &nbsp;  
   
