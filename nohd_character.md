@@ -156,7 +156,7 @@ Charakterkonzept:
 |Schicksal|0|  
   
 ###Progress  
-|Skill|Level|Progress|  
+|Fähigkeiten|Level|Progress|  
 |:---|----:|--:|  
 |Medizin |1|90|  
 |Kräuterkunde|5|60|  
