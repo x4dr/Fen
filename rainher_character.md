@@ -14,7 +14,7 @@ Charakterkonzept:
 ##Stärke  
 ###Attribute  
 |Attribute|Level|Training|  
-|:---|----:|---.|  
+|:---|----:|---:|  
 |Gesundheit|3|0|  
 |Ausdauer|3|0|  
 |Körperkraft|3|1|  
