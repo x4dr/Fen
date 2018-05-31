@@ -1,21 +1,25 @@
 title: Kampfschulen
 tags: 
 
-Kampf:
-Phase 1 / "Free phase": unbound actions are announced and executed, combat actions can be announced, anyone who did not announce their action can react to an announced action
-Phase 2 / "Combat phase" bound actions can be announced and may be executed if no combat happens, and then the combat performance is rolled and combat is executed from character with highest offense to lowest offense, triggers trigger immediately.
-Attacking an enemy is a combat action. If it was spend on a non attack action, no attack is made.
+Fechten:
+1. Flexibilität: Für jede Runde kann entschieden werden zwischen (Offensiv +1 und Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.
+1.1 Ausfall: bis zu 3 (extra) meter Bewegung und dann Nahkampfteilnahme
+1.1.1 Aggressiver Ausfall: wie Ausfall, erhöht Offensivwert um 2 und senkt Defensive um 3
+1.1.1.1 Ablenkungsschlag: Kein Schaden wird verursacht, gegnerische Offensive wird um Vorteil gesenkt. 
+1.2.n Fechtstellung[0-10]: Offensivwert für Reihenfolgefeststellung ist um n erhöht.
+1.2.3.1 Finte: (zu jedem Zeitpunkt in der Kampfphase anwendbar) Senkt Offensive und Defensive um 1, ändere Technik oder Ziel.
+1.3 Parieren: Kein Angriff Möglich, +2 Defensive
+1.3.1 Geduld: (passiv) Wenn gegen keinen Angriff verteidigt wurde: +1 Offensive in der Nächsten Runde.
+1.3.1.1 Riposte: (passiv) Wenn der erste Angreifer einer Runde geblockt wird, kann dieser mit einem normalen Angriff angegriffen werden. 
+1.3.1.1.1 Verbesserte Riposte: Wie Riposte, Techniken können eingesetzt werden.
+1.3.1.2 Spontanes Parieren: (anstelle eines Angriffs:) Wenn noch kein Angriff erfolgt ist, Pariere.
+1.3.2. Verbessertes Parieren: (passiv) Parieren erhöht Defensive zusätzlich um 2
+1.4
 
-Even if multiple attacks happen, the combat performance is not rerolled for bonus attacks.
 
-Free attacks are a type of attack that does not carry the possibilty of retribution (or being attacked back) unless a technique states otherwise.
+___
+Alte Konzepte/Zu verarbeiten  
 
-Someone who is inside a combat, can move up to 5m per round, but everyone may follow and keep that character bound in combat. If a bound character moves more than that amount, everyone hostile to that character may make a free attack (resisted by that rounds combat performance derived defensive score)
-
-
-
-Rapier/pointed swords:
- 
 1. Lunge:  move from short range into melee, consume target enemies combataction -1def, +1off  
      1.1 aggressive lunge: from short range or melee into melee, -4def, +4 off  
      1.2 Remise: If an attack did not hit, character may immediately make a free attack with +2off, and next turn gain -2def 
