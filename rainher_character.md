@@ -64,6 +64,7 @@ Charakterkonzept:
 |Konstruktion|0|0|  
 |Textilverarbeitung|0|  
 |Segeln|0|800tage|  
+|Skizzieren| 1| 0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -186,8 +187,8 @@ Charakterkonzept:
 &nbsp;  
 total point costs Schicksal: 76  
 total point costs Magie: 25  
-total point costs Können: 78  
+total point costs Können: 83  
 total point costs Charisma: 143  
 total point costs Stärke: 164  
 total point costs Weisheit: 176  
-total point costs: 662  
+total point costs: 667  
