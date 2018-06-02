@@ -20,3 +20,5 @@ Minem - der rhytmisch sprechende Druide aus dem Trarorischen Wald
 Karoni Marzanna - Asassin for Hire
 
 Arhnim - Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute
+
+Nyxico - Der wohl älteste Aurier
