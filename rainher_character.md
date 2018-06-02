@@ -25,7 +25,7 @@ Charakterkonzept:
 |Rennen|0|0|  
 |Schwimmen|1|0|  
 |Wundheilung|2|0|  
-|Waffe(Degen)|3|14|  
+|Waffe(Degen)|3|14Tage|  
 |Waffe(Armbrust)|2|0|  
 |Waffe(Wurfmesser)|2|0|  
 |Athletik|2|0|  
@@ -87,7 +87,7 @@ Charakterkonzept:
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
-|Movement|1|  
+|Movement|1|10Tage|  
   
 ###Fähigkeiten  
 |Zauber|Stufe|  
