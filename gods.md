@@ -50,17 +50,17 @@ Göttin der Tiefen, Mysterien, des Mondes, der Toten und der Vorhersagung
 Apokryphische Göttin von Fruchtbarkeit/Wohlstand, ausgewichen auf geänderte geisteszustände, loyalität
 
 ##Cholis
-unassigned
+Gottjäger, Gottschlächter, Gott der Anmaßung, des Risikos, der Unwahrscheinlichkeit.
 
 ##Krahoz
-aurische Gottheit für Physische Macht
+aurische Gottheit für Physische Macht (Stärke)
 
 ##Zohark
-aurische Gottheit für Mentale Macht
+aurische Gottheit für Mentale Macht (Weisheit)
 
 ##Tyem
-aurische Gottheit der Herrschaft
+aurische Gottheit der Herrschaft (Können)
 
 ##Hezit
-aurische Gottheit des Handels
+aurische Gottheit des Handels (Charisma)
 
