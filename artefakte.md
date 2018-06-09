@@ -1,6 +1,5 @@
-title: artefakte
-tags: 
-
+title: artefakte  
+tags:   
   lehnin Mü
 unsichtbarkeitsring (safeempty) 31/50
 
@@ -25,6 +24,32 @@ Magischer Unsichtbarkeitskompass 2 fancyness
 Shadowstone 40/40/40
 
 Magisches Feuerzeug  9/15
+
+####Pirate Loot
+(ID 9)
+
+##### Amulett 1
+5/10/?
+Volume up
+
+##### Amulett 2
+15/15/?
+Water healing
+
+##### Amulett 3
+0/20/?
+?
+
+##### Amulett 4
+5/25/?
+
+##### Amulett 5
+5/80/?
+normal gebundenes casting amulet
+
+
+##### Charm 1-3
+sie tun irgendwas mit dem richtigen wort
 
 ####dinas godol loot (alle leer):  
   
