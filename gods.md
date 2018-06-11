@@ -4,7 +4,6 @@ tags:
 Gott des Wissen und des Feuers in der Gestalt einer brennenden Bibliothek, deren labyrinthischen Gänge sich in alle Ewigkeiten Erstrecken. Funken und zu Asche werdende Buchseiten schweben durch die Luft, doch scheinen die Bücher nie auszugehen. 
 ###Philosophie
 Wissen ist vergänglich, aber allgegenwärtig und unendlich. 
-
 ### Anhänger
 Ateph Tempel sind weit verbreitet wenn auch meist sehr klein. Sie umfassen eine (vergleichsweise große) Bibliothek von 10 bis zu 50 Bücher pro vollem Priester und teilweise mehr von den nicht ansässigen Anhängern und Geweihten. Ein Atephtempel hat normalerweise etwa einen Priester pro 5000 Einwohner. Ateph fordert von seinen Anhängern sich einem Leben der Gelehrsamkeit und Weisheit hinzugeben und die Priester und Geweihten, die nicht Ansässig sind, haben auf ihren Abenteuern und Reisen trotz aller Gelehrsamkeit einen gewissen Schutz durch Atephs Feuer. 
 
@@ -46,7 +45,7 @@ Gott des Rechts, der Reinheit, Strahlender Gott der Menschheit
 Gerechtigkeit, Ordnung und Reinheit bestimmen den Wert eines Lebens.
 
 ###Anhänger
-Vor allem in Menschlich dominierten Städten gewinnt Der Glänzende immer mehr Anhänger. Sie neigen dazu Wächter, Inspektoren, Schreiber und ähnliche Ordnungsliebende Berufe zu sein, doch so manch ein finsterer Geselle, erstrahlt in neuem Glanz und betet um ein besseres Leben. Die (Glänzenden Ritter)[shiningknights] sind ein Monastischer Orden zu Ehren des Glänzenden, und halten seine Gunst. 
+Vor allem in Menschlich dominierten Städten gewinnt Der Glänzende immer mehr Anhänger. Sie neigen dazu Wächter, Inspektoren, Schreiber und ähnliche Ordnungsliebende Berufe zu sein, doch so manch ein finsterer Geselle, erstrahlt in neuem Glanz und betet um ein besseres Leben. Die [shiningknights](Glänzenden Ritter) sind ein Monastischer Orden zu Ehren des Glänzenden, und halten seine Gunst. 
 
 ###Gunst
 #### Pool
