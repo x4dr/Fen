@@ -1,7 +1,6 @@
 title: Götter  
 tags:   
 ##Ateph
-
 Gott des Wissen und des Feuers in der Gestalt einer brennenden Bibliothek, deren labyrinthischen Gänge sich in alle Ewigkeiten Erstrecken. Funken und zu Asche werdende Buchseiten schweben durch die Luft, doch scheinen die Bücher nie auszugehen. 
 
 ###Philosophie
@@ -67,6 +66,14 @@ Göttin der Tiefen, Mysterien, des Mondes, der Toten und der Vorhersagung
 ##Tanas
 
 Apokryphische Göttin von Fruchtbarkeit/Wohlstand, ausgewichen auf geänderte geisteszustände, loyalität
+
+
+### Philosophie
+
+Alles was vom Reichtum bleibt nach dem Ansturm der Zerstörung ist Wahn, Leid und eine kleine Saat des alten Glanzes. Loyalität ist das Werkzeug das Auge des Sturms auszuweiten, die Saat zum Wachsen zu bringen. Rausch ist das Werkzeug das Leid zu kanalisieren. Auf Zerstörung folgt Wachstum
+
+### Anhänger
+Als Apokryphische Gottheit ... nur eine Handvoll
 
 ##Cholis
 Gottjäger, Gottschlächter, Gott der Anmaßung, des Risikos, der Unwahrscheinlichkeit.
