@@ -45,7 +45,7 @@ Gott des Rechts, der Reinheit, Strahlender Gott der Menschheit
 Gerechtigkeit, Ordnung und Reinheit bestimmen den Wert eines Lebens.
 
 ###Anhänger
-Vor allem in Menschlich dominierten Städten gewinnt Der Glänzende immer mehr Anhänger. Sie neigen dazu Wächter, Inspektoren, Schreiber und ähnliche Ordnungsliebende Berufe zu sein, doch so manch ein finsterer Geselle, erstrahlt in neuem Glanz und betet um ein besseres Leben. Die [shiningknights](Glänzenden Ritter) sind ein Monastischer Orden zu Ehren des Glänzenden, und halten seine Gunst. 
+Vor allem in Menschlich dominierten Städten gewinnt Der Glänzende immer mehr Anhänger. Sie neigen dazu Wächter, Inspektoren, Schreiber und ähnliche Ordnungsliebende Berufe zu sein, doch so manch ein finsterer Geselle, erstrahlt in neuem Glanz und betet um ein besseres Leben. Die [Glänzenden Ritter](shiningknights) sind ein Monastischer Orden zu Ehren des Glänzenden, und halten seine Gunst. 
 
 ###Gunst
 #### Pool
