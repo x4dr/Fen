@@ -2,7 +2,6 @@ title: Götter
 tags:   
 ##Ateph
 Gott des Wissen und des Feuers in der Gestalt einer brennenden Bibliothek, deren labyrinthischen Gänge sich in alle Ewigkeiten Erstrecken. Funken und zu Asche werdende Buchseiten schweben durch die Luft, doch scheinen die Bücher nie auszugehen. 
-
 ###Philosophie
 Wissen ist vergänglich, aber allgegenwärtig und unendlich. 
 
@@ -73,10 +72,35 @@ Apokryphische Göttin von Fruchtbarkeit/Wohlstand, ausgewichen auf geänderte ge
 Alles was vom Reichtum bleibt nach dem Ansturm der Zerstörung ist Wahn, Leid und eine kleine Saat des alten Glanzes. Loyalität ist das Werkzeug das Auge des Sturms auszuweiten, die Saat zum Wachsen zu bringen. Rausch ist das Werkzeug das Leid zu kanalisieren. Auf Zerstörung folgt Wachstum
 
 ### Anhänger
-Als Apokryphische Gottheit ... nur eine Handvoll
+Als Apokryphische Gottheit ... nur eine Handvoll.
+
+###Gunst
+####Huldigen
+Loyalität beweisen, Wohlstand mehren, geänderte Geistezustände (Alkohol oder härtere Drogen, ritueller Wahnsinn)
+#### Verärgern
+Über Loyalität verbundene hintergehen, Versprechen brechen, Verderben bringen, Verfallen.
+#### Segen
+Todesschwüre besiegeln, sich Manifestieren, Vertragsstrafen Vollstrecken, Verrat Strafen, Unternehmungen segnen
 
 ##Cholis
-Gottjäger, Gottschlächter, Gott der Anmaßung, des Risikos, der Unwahrscheinlichkeit.
+Gottjäger, Gottschlächter, Gott der Anmaßung, des Risikos, der Unwahrscheinlichkeit. Meistens gelangweilt, immer auf der Suche nach Unterhaltung, launisch, unbeständig, anspruchsvoll.
+
+### Philosophie
+Wagst du es?
+
+### Anhänger
+Ein paar die alles verloren haben und alles auf eine Karte setzen, ein paar die das Wagen was nicht gewagt werden sollte, Größenwahnsinnige, Mörder, Niemand für lang.
+
+### Gunst
+#### Huldigen
+(unwahrscheinlich zu gewinnende) Risiken eingehen, Anmaßung/Selbstüberschätzung betreiben
+#### Verärgern
+Cholis langweilen, aufhören Interessant zu sein.
+#### Segen
+Schicksal biegen, Glückssträhnen gewähren, Wahrscheinlichkeiten brechen, das unmögliche Möglich machen, wenn es ihm gefällt. 
+#### Fluch
+Schicksal biegen, Pechsträhnen erteilen, Wahrscheinlichketen brechen, das unmögliche Möglich machen, wenn es ihm gefällt.
+
 
 ##Krahoz
 aurische Gottheit für Physische Macht (Stärke)
