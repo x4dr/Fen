@@ -57,11 +57,11 @@ and can only be surpressed for a few rounds with great concentration)
 Vorschlag:
 Feuerpfad, feuer beeinträchtigt Sicht nicht
 
-Der Grüne Pfad:
+###Der Grüne Pfad:
 Pflanzen wachsen nur bis zu einem natürlichen "Erwachsenen" zustand
 Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Kilogramm
 
-1 Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
+####1 Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
 1.1 Rhytmus der Jahreszeiten - eine Woche in engem Kontakt mit einer Pflanze führt zu einem  Jahreswachstum  
 1.1.1 Einflüsterung der Form - Eine berührte Pflanze formt einen Gegenstand aus ihrem eigenen Material während ihres zukünftigen Wachstums   
 1.1.2 Takt der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 tag  
@@ -84,7 +84,7 @@ Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Ki
 1.2.1 direkte Anwendung - durch das direkte Auflegen von Kräutern und Gegendrücken der Hände kann ein  Kraut sofort und mit nur einem Kräuterkunde Wurf angewendet werden.  
 
   
-2 Waldhoheit - keine erhöhten Komplexitäten durch Vegetation  
+####2 Waldhoheit - keine erhöhten Komplexitäten durch Vegetation  
 2.1 Schutz des Waldes +2 def in der Nähe von großen mengen Vegetation  
 2.1.1 Rüstung des Waldes - +2 Rüstung Wenn Schutz des Waldes Aktiv ist  
 2.2. Grüne Verschmelzung - Verschmelzung mit lokaler Vegetation +8 auf alle versteck und ähnliche  würfe, solange der Suchende nicht weiß wie der Ort normalerweise aussieht und der charakter keine Aktionen unternimmt die Bewegung beinhalten, sonst nur +2  
@@ -94,7 +94,7 @@ Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Ki
 2.2.1.1.1 Wurzelversteck - Der Charakter kann im Wurzelsystem verbleiben, nimmt aber Schaden wenn der Boden oder die Pflanzen beschädigt werden (anteilig, wenn die hälfte der Pflanzen getötet werden, die Hälfte der Lebenspunkte). Wenn keine genügend große Pflanze verbleibt, kann der Charakter das Wurzelversteck nicht verlassen.  
   
 
-Verwachsungen
+####Verwachsungen  
 1 Pflanzlichkeit - Rindenstruktur auf der Haut, Grünliches, klebriges Blut    
 1.1 Augenfarbe - unnatürliches Grün    
 1.2 Rinde - Haut ist an manchen stellen mit Rinde bedeckt  
