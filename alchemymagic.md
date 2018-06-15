@@ -14,7 +14,6 @@ Spells require a certain **mix of magic**, a **casting time** and a **material c
 When the spell is cast (no matter if successfully or not), the used cards go to the discard pile.
 When you have **no cards left**, you are **out of mana** and need to **meditate**. See below.
 When you have **no material components**, you have **nothing to activate**. See regular [alchemy](/3d10/alchemy) on how to make more if you run out.
-
 When you have **no time**, use **mundane** methods of effecting change.
 ### Concentrating
 Requires *one action* and draws *one card*.
@@ -220,16 +219,15 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 
 **10% lighter/2 eNtropy**
 
-* 2   Concentrate 6
-* 3-4 Concentrate 5
-* 5-6 Concentrate 4
-* 7-8 Concentrate 3
-* 9-10 Concentrate 2
-* 11-12 Concentrate 1
-* 13-14 Dedicate 4 (or Dedicate 3 Concentrate 1)
-* 15-16 Dedicate 3
-* 17-18 Dedicate 2
-* 19-20 Dedicate 1
+* 2   Dedicate 6
+* 3-4 Dedicate 5
+* 5-6 Dedicate 4
+* 7-8 Dedicate 3
+* 9-10 Dedicate 2
+* 11-13 Dedicate 1
+* 14-15 Concentrate 2 (or Dedicate 1)
+* 16-18 Concentrate 1 (or Dedicate 1)
+* 19-20 Concentrate 0 (or Dedicate 1)
 
 ### Knallpulver (P)
 makes a loud noise when jostled
