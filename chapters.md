@@ -17,10 +17,10 @@ Reisen durch die Dunkelheit 10
 Begegnungen mit der Dunkelheit 7  
 ==> 37
 ## Kapitel 7 - 
-Aufenthalt in Seegard 5
-Seereise 10
-Piratenkampf 1| 5
-Nyxico | 10
-Inselerkunden (various) | 32
-Piratenkampf 2 | 10
+Aufenthalt in Seegard 5  
+Seereise 10  
+Piratenkampf 1| 5  
+Nyxico | 10  
+Inselerkunden (various) | 32  
+Piratenkampf 2 | 10  
 ==> 72
