@@ -1,5 +1,5 @@
 title: Nohd  
-tags: wutthe  
+tags: idontgetthis  
 Name:  
 Alter:  
 Spezies:  
@@ -26,7 +26,6 @@ Charakterkonzept:
 |Kurzschwert|3|  
 |Blasrohr|3|  
 |Keulen|1|  
-  
 &nbsp;  
   
 ##Können  
@@ -158,7 +157,8 @@ Charakterkonzept:
 |Kräuterkunde|5|410|  
 |Körperkraft |3|1|  
 |Navigation|1|30|  
-|Fingerfertigkeit|4|2080|  
+|Kurzschwert|4|2080|  
+|Fingerfertigkeit|4|450|   
   
 ###Inventar  
 |Item|Menge|  
