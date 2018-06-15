@@ -1,6 +1,8 @@
 title: Kampfschulen  
 tags:   
-Fechten:  
+[TOC]
+
+###Fechten:  
 1. Flexibilität: Für jede Runde kann entschieden werden zwischen (Offensiv +1 und Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.  
 1.1 Ausfall: bis zu 3 (extra) meter Bewegung und dann Nahkampfteilnahme
 1.1.1 Aggressiver Ausfall: wie Ausfall, erhöht Offensivwert um 2 und senkt Defensive um 3  
@@ -14,26 +16,26 @@ Fechten:
 1.3.1.1.1 Verbesserte Riposte: Wie Riposte, Techniken können eingesetzt werden.  
 1.3.1.2 Spontanes Parieren: (anstelle eines Angriffs:) Wenn noch kein Angriff erfolgt ist, Pariere.  
 1.3.2. Verbessertes Parieren: (passiv) Parieren erhöht Defensive zusätzlich um 2  
+  
+###Kurzschwert:  
+1 Flurry - called in free phase (enemies may react) +1 offense, -1 defense  
+1.1.n Secondary (0-5) - the short sword may be carried with in the offhand and is interpreted seperately from the attack with the main hand. Attacks with both weapons suffer Complexity + (6-n)  
+1.1.4. Dual wielding if the main and secondary weapons are both short swords, +2 to offense  
+1.2 - Distracting strikes - enemies hit with flurry receive the advantage as a negative modifier to their offense  
+1.2.1 - disorienting strikes - enemies hit with flurry may not attack any more this round  
+1.3 Defensive whirl - at the cost of setting offense to 0 afterwards, defense may be set to offense at any point in the round before attack damage is dealt by the character  
+1.3.1.n Improved defensive whirl (0-3) - after using defensive whirl, add n to defense  
+1.3.1.2.1 Divided attention - only the offense for one short sword is set to 0 if multiple weapons are in use  
+1.3.1.3.1 Shredding whirlwind - enemy armor is damaged if defensive advantage > armor stability  
+1.3.1.3.1.1 Improved Shredding - enemy armor is damaged if defense score > armor stability  
+1.3.1.3.1.1.1 Merciless Shredding - enemy armor is damaged if defensive advantage > 0  
+1.3.2.n untouchable (0-10) for every round with no damage inflicted by or to the character while in close combat with an enemy, gather another charge. charges grant +1 offense. If the character hits an enemy or is dealt damage (even if reduced to zero by armor), the charges are expended.  
+1.3.2.2.1 leap back - two untouchable charges expended at any time, for the rest of the round, no free attacks (including attacks of opportunity) are permitted against the character  
+1.3.2.6.1 The Zone - only a successfull weapon hit or receiving damage expends all charges, dealing damage via other meanes doesnt  
+1.3.2.6.1.1 The Zen - only dealing damage to an enemy or enemy armor or receiving damage from a weapon hit expends all charges  
+1.3.2.10.1 Execute - when expending charges, advantage modifier +1 (usually to 2)  
 
-Kurzschwert:
-1 Flurry - called in free phase (enemies may react) +1 offense, -1 defense
-1.1.n Secondary (0-5) - the short sword may be carried with in the offhand and is interpreted seperately from the attack with the main hand. Attacks with both weapons suffer Complexity + (6-n)
-1.1.4. Dual wielding if the main and secondary weapons are both short swords, +2 to offense
-1.2 - Distracting strikes - enemies hit with flurry receive the advantage as a negative modifier to their offense
-1.2.1 - disorienting strikes - enemies hit with flurry may not attack any more this round
-1.3 Defensive whirl - at the cost of setting offense to 0 afterwards, defense may be set to offense at any point in the round before attack damage is dealt by the character
-1.3.1.n Improved defensive whirl (0-3) - after using defensive whirl, add n to defense
-1.3.1.2.1 Divided attention - only the offense for one short sword is set to 0 if multiple weapons are in use
-1.3.1.3.1 Shredding whirlwind - enemy armor is damaged if defensive advantage > armor stability
-1.3.1.3.1.1 Improved Shredding - enemy armor is damaged if defense score > armor stability
-1.3.1.3.1.1.1 Merciless Shredding - enemy armor is damaged if defensive advantage > 0
-1.3.2.n untouchable (0-10) for every round with no damage inflicted by or to the character while in close combat with an enemy, gather another charge. charges grant +1 offense. If the character hits an enemy or is dealt damage (even if reduced to zero by armor), the charges are expended.
-1.3.2.2.1 leap back - two untouchable charges expended at any time, for the rest of the round, no free attacks (including attacks of opportunity) are permitted against the character
-1.3.2.6.1 The Zone - only a successfull weapon hit or receiving damage expends all charges, dealing damage via other meanes doesnt
-1.3.2.6.1.1 The Zen - only dealing damage to an enemy or enemy armor or receiving damage from a weapon hit expends all charges
-1.3.2.10.1 Execute - when expending charges, advantage modifier +1 (usually to 2)
-
-
+  
 ___
 Alte Konzepte/Zu verarbeiten  
 
