@@ -1,7 +1,6 @@
 title: Bücher  
 tags:   
 ##Apokryphische Religionen Prekors (25)
-
 ###Lesendenverzeichnis
 Avis 3 infos
 
@@ -19,5 +18,20 @@ nicht unbedingt gewillt wieder eine große gottheit zu werden, aber sie haben ev
 
 ## Abhandlungen über Glashandwerk auf Vernal (Kompl +2) 0/35
 ## Abhandlungen über die Werkstätten auf Vernal (Kompl +2) 0/50
+### lesende
+Talus 15 + 18 + 15 ==> 3
+
+## Information 1
+Workshop richtig benutzt lädt artefakte mit 5/tag auf
+
+## Information 2
+Rezept Serisem: Silber + Stahl + Serisemflux + heißgebrannte Keramik (Porzellanton, Feldspat, Quarz)
+
+## Information 3
+Serisemflux: Serihorn+Terpentin + 1 Woche Zeit
+Serisem ist nachdem es einmal fest ist extrem schwer wieder zu schmelzen (lange stunden in der Glasschmelze machen es kaltschmiedbar)
+
+
+ 
 ## Vernalische Zohark Riten (Kompl +2) 0/35
 
