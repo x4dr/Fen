@@ -1,5 +1,5 @@
 title: Nohd  
-tags: idontgetthis  
+tags: nav progress  
 Name:  
 Alter:  
 Spezies:  
@@ -27,7 +27,6 @@ Charakterkonzept:
 |Blasrohr|3|  
 |Keulen|1|  
 &nbsp;  
-  
 ##Können  
 ###Attribute  
 |Attribute|Level|  
@@ -156,7 +155,7 @@ Charakterkonzept:
 |Medizin |1|90|  
 |Kräuterkunde|5|410|  
 |Körperkraft |3|1|  
-|Navigation|1|30|  
+|Navigation|1|180|  
 |Kurzschwert|4|2080|  
 |Fingerfertigkeit|4|450|   
   
