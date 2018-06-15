@@ -95,18 +95,18 @@ Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Ki
   
 
 Verwachsungen
-1 Pflanzlichkeit - Rindenstruktur auf der Haut, Grünliches, klebriges Blut  
-1.1 Augenfarbe - unnatürliches Grün  
-1.2 Rinde - Haut ist an manchen stellen mit Rinde bedeckt
-1.2.1 mehr Rinde - Haut ist an vielen stellen mit Rinde bedeckt
-1.2.1.1 alles voll - Haut ist überall mit Rinde bedeckt
-1.3 Blätterhaar - Haare sind Blätter/Ranken/Grasartig
-1.4.n Sonnenabhängigkeit - -1 auf alles pro tag ohne Sonne (bis -n), +1 (bis 0) auf alles pro tag mit Sonne
-1.5.n Verwurzelt - -1 auf alles pro tag (bis -n) ohne 20 stunden an einer stelle mit Bodenkontakt (und wachsenden Wurzeln) verbracht zu haben
-1.6.n Wasserabhängigkeit - -1 auf alles ohne 10 liter wasser am tag (bis -n), +1 (bis 0) auf alles pro tag mit genügend Wasser
-1.7.n Feuerschwäche - +n auf jede instanz von feuerschaden die erlitten wird
-
-
+1 Pflanzlichkeit - Rindenstruktur auf der Haut, Grünliches, klebriges Blut    
+1.1 Augenfarbe - unnatürliches Grün    
+1.2 Rinde - Haut ist an manchen stellen mit Rinde bedeckt  
+1.2.1 mehr Rinde - Haut ist an vielen stellen mit Rinde bedeckt  
+1.2.1.1 alles voll - Haut ist überall mit Rinde bedeckt  
+1.3 Blätterhaar - Haare sind Blätter/Ranken/Grasartig  
+1.4.n Sonnenabhängigkeit - -1 auf alles pro tag ohne Sonne (bis -n), +1 (bis 0) auf alles pro tag mit Sonne  
+1.5.n Verwurzelt - -1 auf alles pro tag (bis -n) ohne 20 stunden an einer stelle mit Bodenkontakt (und wachsenden Wurzeln) verbracht zu haben  
+1.6.n Wasserabhängigkeit - -1 auf alles ohne 10 liter wasser am tag (bis -n), +1 (bis 0) auf alles pro tag mit genügend Wasser  
+1.7.n Feuerschwäche - +n auf jede instanz von feuerschaden die erlitten wird  
+  
+  
   
 Waldgeist:  
 
