@@ -12,7 +12,6 @@ Charakterkonzept:
 |Gesundheit|3|  
 |Ausdauer|2|  
 |Körperkraft|2|  
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
