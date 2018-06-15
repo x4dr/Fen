@@ -5,7 +5,6 @@ Alter:
 Spezies:  
 Charakterkonzept:  
 &nbsp;  
-  
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
@@ -151,7 +150,9 @@ Charakterkonzept:
 |Vorteile|Level|  
 |:---|----:|  
 |Schicksal|0|  
-  
+   
+&nbsp;  
+   
 ##Progress  
 |Fähigkeiten|Level|Progress|  
 |:---|----:|--:|  
