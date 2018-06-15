@@ -16,7 +16,7 @@ Erkunden des Dorfes 15
 Reisen durch die Dunkelheit 10  
 Begegnungen mit der Dunkelheit 7  
 ==> 37
-## Kapitel 7 - 
+## Kapitel 7 - An neuen Ufern
 Aufenthalt in Seegard 5  
 Seereise 10  
 Piratenkampf 1| 5  
