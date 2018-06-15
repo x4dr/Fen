@@ -1,5 +1,5 @@
 title: Nohd  
-tags: wut  
+tags: wutthe  
 Name:  
 Alter:  
 Spezies:  
@@ -19,7 +19,6 @@ Charakterkonzept:
 |Schwimmen|1|  
 |Wundheilung|0|  
 |Athletik|3|  
-  
 ###Waffen  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -156,10 +155,10 @@ Charakterkonzept:
 |Fähigkeiten|Level|Progress|  
 |:---|----:|--:|  
 |Medizin |1|90|  
-|Kräuterkunde|5|95|  
+|Kräuterkunde|5|410|  
 |Körperkraft |3|1|  
 |Navigation|1|30|  
-|Fingerfertigkeit|4|45|  
+|Fingerfertigkeit|4|2080|  
   
 ###Inventar  
 |Item|Menge|  
