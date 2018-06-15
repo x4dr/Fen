@@ -4,7 +4,6 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 &nbsp;  
   
 ##Stärke  
@@ -153,7 +152,7 @@ Charakterkonzept:
 |:---|----:|  
 |Schicksal|0|  
   
-###Progress  
+##Progress  
 |Fähigkeiten|Level|Progress|  
 |:---|----:|--:|  
 |Medizin |1|90|  
