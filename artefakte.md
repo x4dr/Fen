@@ -2,12 +2,11 @@ title: artefakte
 tags:   
   lehnin Mü
 unsichtbarkeitsring (safeempty) 31/50
-
-Blauer Edelstein 50/50/65
+Blauer Edelstein 0/50/65
 
 
 allgemeinparty 
-amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/40/50
+amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 0/40/50
 
 amulett 2 - identifiziert 6 more spells, strategically
 
@@ -19,9 +18,9 @@ magischer Schutzgürtel 3 fancyness
 
 Magischer Unsichtbarkeitskompass 2 fancyness  
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
-15/15/20
+/15/20
 
-Shadowstone 40/40/40
+Shadowstone 0/40/40
 
 Magisches Feuerzeug  9/15
 
@@ -29,11 +28,11 @@ Magisches Feuerzeug  9/15
 (ID 9)
 
 ##### Amulett 1
-5/10/?
+0/10/?
 Volume up
 
 ##### Amulett 2
-15/15/?
+0/15/?
 Water healing
 
 ##### Amulett 3
@@ -41,10 +40,10 @@ Water healing
 ?
 
 ##### Amulett 4
-5/25/?
+0/25/?
 
 ##### Amulett 5
-5/80/?
+0/80/?
 normal gebundenes casting amulet
 
 
