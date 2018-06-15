@@ -1,6 +1,5 @@
-title: Preise
-tags: 
-
+title: Preise  
+tags:   
 |Material | Preis pro Kilogramm |
 |:---|---:|
 | Kohle | 50c |
@@ -11,5 +10,5 @@ tags:
 | Stahl  | 50s |
 | Silber | 1g  |  
 | Gold | 100g |  
-| Drachenglas | 30s |  
+| Drachenglas 10pt/kg | 30s |  
  
