@@ -1,7 +1,5 @@
 title: Nohd  
-tags:  
-
-
+tags: wut  
 Name:  
 Alter:  
 Spezies:  
@@ -159,10 +157,10 @@ Charakterkonzept:
 |Fähigkeiten|Level|Progress|  
 |:---|----:|--:|  
 |Medizin |1|90|  
-|Kräuterkunde|5|60|  
+|Kräuterkunde|5|95|  
 |Körperkraft |3|1|  
 |Navigation|1|30|  
-|Fingerfertigkeit|4|10|  
+|Fingerfertigkeit|4|45|  
   
 ###Inventar  
 |Item|Menge|  
