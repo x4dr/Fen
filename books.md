@@ -1,6 +1,5 @@
-title: Bücher
-tags: 
-
+title: Bücher  
+tags:   
 ##Apokryphische Religionen Prekors (25)
 
 ###Lesendenverzeichnis
@@ -17,3 +16,8 @@ wie diese götter angebetet werden ist größtenteils in vergessenheit geraten a
 ## Information 3
 apokryphische götter sind meist nur recht schwach oder spezifisch begabt, aber fast durch die bank weg sehr verehrungshungrig 
 nicht unbedingt gewillt wieder eine große gottheit zu werden, aber sie haben evtl möglichkeiten sehr ... dedizierte religiöse rituale anzunehmen
+
+## Abhandlungen über Glashandwerk auf Vernal (Kompl +2) 0/35
+## Abhandlungen über die Werkstätten auf Vernal (Kompl +2) 0/50
+## Vernalische Zohark Riten (Kompl +2) 0/35
+
