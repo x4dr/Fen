@@ -1,6 +1,5 @@
-title: AlchemyMagic
-tags: magic, alchemy
-
+title: AlchemyMagic  
+tags: magic, alchemy  
 # Attunement Magic
 ## General Parameters
 **Source:** Magic attunement (cards)  
@@ -206,6 +205,7 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 (stub: purify)  
 
 ### Multiplication
+**Order 10 eNtropy 10**
 (stub: raise potency)
 
 ### Projection
@@ -230,3 +230,10 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 * 15-16 Dedicate 3
 * 17-18 Dedicate 2
 * 19-20 Dedicate 1
+
+### Knallpulver
+
+### Schreipulver
+
+### Griffpulver
+
