@@ -46,9 +46,7 @@ Fire
 Twists  
 1 abnormal Face (distinctly weird face shape)  
 1.1 eye color (eyes turn an abnormal color)  
-1.1.n.m glowing eyes (eyes start glowing (faintly, noticeable, visible, brightly)[n] (during strong emotional   
-outbursts, emotional   
-outbursts, heightened states (like combat/love/anger/drinking/concentration on a task), whenever not completely calm, usually   
+1.1.n.m glowing eyes (eyes start glowing (faintly, noticeable, visible, brightly)[n] (during strong emotional outbursts, heightened states (like combat/love/anger/drinking/concentration on a task), whenever not completely calm, usually   
 and can only be surpressed for a few rounds with great concentration)  
 1.2.n Horns (horns of n*5cm start growing)  
 1.3 conspicuous Hair (turns an abnormal color)  
@@ -63,7 +61,7 @@ Der Grüne Pfad:
 Pflanzen wachsen nur bis zu einem natürlichen "Erwachsenen" zustand
 Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Kilogramm
 
-1. Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
+1 Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
 1.1 Rhytmus der Jahreszeiten - eine Woche in engem Kontakt mit einer Pflanze führt zu einem  Jahreswachstum  
 1.1.1 Einflüsterung der Form - Eine berührte Pflanze formt einen Gegenstand aus ihrem eigenen Material während ihres zukünftigen Wachstums   
 1.1.2 Takt der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 tag  
@@ -95,6 +93,20 @@ Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Ki
 2.2.1.1 Wurzeltransport - Wenn die Wurzelsysteme zweier Pflanzen deren Masse jeweils größer als die des Charakters ist, sich berühren, kann der Charakter während Grüner Verschmelzung in der Zeit die normaler Transport benötigen würde ungesehen durch die Wurzelsysteme Reisen und mit der anderen Pflanze lokal grünverschmolzen auftauchen. Der Charakter ist innerhalb von 3 Runden von der ersten Pflanze verschwunden und baut sich innerhalb von 3 runden an der anderen Pflanze auf, Parallel wenn nötig.   
 2.2.1.1.1 Wurzelversteck - Der Charakter kann im Wurzelsystem verbleiben, nimmt aber Schaden wenn der Boden oder die Pflanzen beschädigt werden (anteilig, wenn die hälfte der Pflanzen getötet werden, die Hälfte der Lebenspunkte). Wenn keine genügend große Pflanze verbleibt, kann der Charakter das Wurzelversteck nicht verlassen.  
   
+
+Verwachsungen
+1 Pflanzlichkeit - Rindenstruktur auf der Haut, Grünliches, klebriges Blut  
+1.1 Augenfarbe - unnatürliches Grün  
+1.2 Rinde - Haut ist an manchen stellen mit Rinde bedeckt
+1.2.1 mehr Rinde - Haut ist an vielen stellen mit Rinde bedeckt
+1.2.1.1 alles voll - Haut ist überall mit Rinde bedeckt
+1.3 Blätterhaar - Haare sind Blätter/Ranken/Grasartig
+1.4.n Sonnenabhängigkeit - -1 auf alles pro tag ohne Sonne (bis -n), +1 (bis 0) auf alles pro tag mit Sonne
+1.5.n Verwurzelt - -1 auf alles pro tag (bis -n) ohne 20 stunden an einer stelle mit Bodenkontakt (und wachsenden Wurzeln) verbracht zu haben
+1.6.n Wasserabhängigkeit - -1 auf alles ohne 10 liter wasser am tag (bis -n), +1 (bis 0) auf alles pro tag mit genügend Wasser
+1.7.n Feuerschwäche - +n auf jede instanz von feuerschaden die erlitten wird
+
+
   
 Waldgeist:  
 
