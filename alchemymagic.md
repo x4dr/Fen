@@ -1,5 +1,5 @@
 title: AlchemyMagic  
-tags: magic, alchemy  
+tags: magic alchemy  
 # Attunement Magic
 ## General Parameters
 **Source:** Magic attunement (cards)  
@@ -13,7 +13,6 @@ The colors for this purpose mean: Diamonds - **O**rder | Clubs - **M**atter | He
 Spells require a certain **mix of magic**, a **casting time** and a **material component**.
 When the spell is cast (no matter if successfully or not), the used cards go to the discard pile.
 When you have **no cards left**, you are **out of mana** and need to **meditate**. See below.
-
 When you have **no material components**, you have **nothing to activate**. See regular [alchemy](/3d10/alchemy) on how to make more if you run out.
 
 When you have **no time**, use **mundane** methods of effecting change.
@@ -23,13 +22,13 @@ Requires *one action* and draws *one card*.
 When you *concentrate* look at *as many cards as you have levels in alchemical magic* before you draw, put them back on top of your deck in any order.
 
 ### Dedicating
-Means withholding the most powerful (player chooses on draws) card from your discard pile after casting, for as long as the dedication lasts. Put it on a separate pile. It **does not count against your hand size**, but prevents you from using it again after you meditate. When you stop the dedication (at will), you can medicate one card at a time back into the deck and the effect (usually) ends.
+Means withholding the most powerful (player chooses on cast) card from your discard pile after casting, for as long as the dedication lasts. Put it on a separate pile. This **does not count against your hand size**, but prevents you from using it again for as long as it remains dedicated. Dedicated cards can be taken back into the deck while meditating, one at a time, effects sustained by dedicated cards end when the card is taken back.
 
 ### Sustaining
-Is similar to dedication, but requires more effort and **counts against your hand size**. Lower it by 1 for each sustained effect for its desired duration.  
+Is similar to dedication, but requires more effort and **counts against your hand size**. Lower it by 1 for each sustained effect for its duration. Sustaining can be dropped at will as a free action.  
 
 ### Meditation
-Requires at least **one hour** in sufficient calmness with no other activity and shuffles all the cards from the discard pile into the deck.  
+Requires at least **six hours** in sufficient calmness with no other activity and shuffles all the cards from the discard pile into the deck. One dedicated card may be taken back into the deck.  
 
 
 # Alchemy
@@ -90,7 +89,9 @@ Complexities can be modified by the GM and by the player. For example to:
 * increase/decrease number of targets
 * something you just thought up. It's more art than science. Actually it's not science at all.
 
-### Bend
+**There are two kinds of spells here. Magical Alchemical Processes (P) and Magical Combat Alchemy (C) **
+
+### Bend (P)
 **Matter 4+ Order 3+ Entropy 3+**, Material component: 10g of wax. Allows bending up to 1 kg of material, doubles affected mass for every full 2 magic and 10g of wax expended past the requirements
 
 **Casting time: 5 turns**, then the object can be bend by the caster in any reasonable way.  
@@ -107,21 +108,21 @@ no self intersection
 
 **Duration: 1 Day per total magic expended**, Dedicate for duration, change then becomes permanent. If dedication is removed before duration ends, the material bends back over a time of 1 hour per additional magic expended (or one minute if none)  
 
-### Lake of fire
+### Lake of fire (C)
 **Energy 3+ Entropy 3+**, Material component 100ml of alcohol (in at least 20% concentration)
 
 **Casting Time: 2 Turns**
 
 Creates an area of fire, damaging everyone in it every turn, and setting them on fire on impact or three subsequent hits. Roll-5 is divided between damage and duration to a maximum of total amount spend on energy for damage and total amount spend  on entropy for duration  
 
-### Pandemonium
+### Pandemonium (C)
 **Entropy 11+ ?20**, Material component: one intricate clockwork ball
 
 **Casting time: 3 Turns**
 
 Creates an area of random transmutation, wildly varying compositions, explosions and the like.  Every turn, everything takes **the roll as damage**. Every time something of consequence (crafted objects or similar) is destroyed, the duration is extended for another turn, every time something dies, the duration is extended for five turns. All rolls within the pandemonium are halved.  
 
-### Morph
+### Morph (P)
 **Order 9+ Matter 9+**, Material component: one Essence of Change
 
 **Casting Time: 5 Turns**
@@ -130,7 +131,7 @@ Morphs **1 kg** of material to a new shape desired by the caster. Detail is dete
 For **every magic** expended past the needed amount, **add 1 kg** to the affected mass. Requires **1 h per total magic spent - 2 h per Energy spent** and not used for additional mass (after reducing down to one hour, time is halved every step instead)  
 (Order 10 Matter 10 Energy 20 would morph 2 kg of material in half an hour)  
 
-### Static Charge
+### Static Charge (C)
 **Order 5+ Energy 10+**, Material component: small magnet
 
 **Casting Time: 1 Turn**
@@ -138,7 +139,7 @@ For **every magic** expended past the needed amount, **add 1 kg** to the affecte
 For every **3 Energy** spend past the needed amount, gain **one stack** (if stacks are 0, the shock is uncomfortable but not harmful, enough to interrupt though)  
 Then choose a metal object. A Bolt of Lightning, travels from the held magnet to the metal object, from which the nearest Target is struck, dealing **(stacks*roll-8)* damage. One stack is lost and the lightning bounces to the next valid non-visited target from there, if there is a group, every person in that group rolls (Luck,Luck)[distance from the metal object in m] and are struck in ascending order of luck rolls. If stacks is 0 it bounces to two additional targets, dealing no damage and then stops.  
 
-### Calcify
+### Calcify (P)
 **Matter 4+ Energy 4+**, Material component: crushed chalk, essence of stability
 
 **Casting Time: 4 Turns**
@@ -147,14 +148,14 @@ The chalk powder is directed towards an area. Everyone in a roughly *5 meter rad
 Concentrate for 2 for as long as the spell lasts.  
 Everyone affected gradually **looses one from all movement based dice rolls and loses 10% movement speed and gains one armor per turn**, for roll-5 turns. The changes are permanent as long as concentration is upheld, then subside at a rate of one per turn.
 
-### Calcination
+### Calcination (P)
 **Entropy 11, Energy 8**
 
 **Casting time: 3 Turns**
 
 Targeted Small to medium Object is engulfed in normal flames for either one turn (catches fire only if it normally would) or as long as the effect is sustained via concentration. It deals **roll/3 damage per turn** if cast on a living being and might catch things on fire. If the fire is extinguished, the Spell ends.  
 
-### Solution
+### Solution (P)
 **Matter 7 Order 10 Entropy 0+**
 
 **Casting time: 1 Turn**
@@ -162,7 +163,7 @@ Targeted Small to medium Object is engulfed in normal flames for either one turn
 Up to **1 kg** of targeted object dissolves into any touching liquid, at a rate of **1 kg/min**, if normally possible (**max saturation is roll:8** by mass). Affected mass is **doubled** for every **3 eNtropy** spent beyond what is needed on this spell.  
 **Duration: Dedication** As soon as the dedication ends, everything past normal solubility falls out of solution.  
 
-### Separation
+### Separation (P)
 **Order 9 Matter0+ Entropy 6 Energy 1+**
 
 **Casting time: 3 Turns**
@@ -174,43 +175,43 @@ Separates **1 kg** of a sufficiently different component from a mixture. Total a
 * 11-15 Metal from Ore
 * 16-20 Splitting Alloys
 
-### Conjunction
+### Conjunction (P)
 **Entropy 9 Matter 0+ Order 6 Energy 1+**
 
 **Casting time: 3 Turns**
 
 Mixes two very different components, **1 kg each**, into one compound. Total affected mass is **doubled** for every **3 Matter** spent beyond what is needed, rate of mixture is **1 kg/h/3 spent Energy**. Needs to be sustained. Roll determines how well things are mixed. 
 
-### Putrefaction
+### Putrefaction (P)
 **Matter 14+ Energy 14+**
 
 **Casting time: 4 Turns**
 
 Targeted Organic Material begins rotting, turning black and hard with a rate of **1 kg/h**. *Mass* is **doubled** every **2 Matter** spent beyond what is needed, *Speed* is **doubled** every **2 Energy** spent beyond what is needed. Living things sustain **Roll/(10-Energy beyond what is needed/2)** (fractions accumulated, maximum Roll) damage per turn
 
-### Congelation
+### Congelation (P)
 (stub: make thin liquid thick)  
 
-### Cibation
+### Cibation (P)
 (stub: feeding a liquid)  
 
-### Sublimation
+### Sublimation (P)
 (stub: make matter gaseous)
 
-### Fermentation
-(stub: create gas?)  
+### Fermentation (P)
+(stub: Ferment liquid)  
 
-### Exaltation
+### Exaltation (P)
 (stub: purify)  
 
-### Multiplication
+### Multiplication (P)
 **Order 10 eNtropy 10**
 (stub: raise potency)
 
-### Projection
+### Projection (P)
 (stub: use substance as catalyst)  
 
-### Buyouancy
+### Buyouancy (P)
 **Matter 5+ Energy 10+**, Material component: 100g Floatstone
 
 **Casting time: 5 turns**
@@ -230,21 +231,21 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 * 17-18 Dedicate 2
 * 19-20 Dedicate 1
 
-### Knallpulver
+### Knallpulver (P)
 makes a loud noise when jostled
 
-### Schreipulver
+### Schreipulver (P)
 shrieks when sufficiently lit
 
-### Griffpulver
+### Griffpulver (P)
 enhances grip
 
-### Atemmaske
+### Atemmaske (P)
 ** Duration: 1 hour, 30 min when wet**
 
 +5 against breathable toxins, grants breathing under water
 
-### Fast Torch
+### Fast Torch (P)
 torch witch wax covered end, can be lit without fire
 
 ### Screaming Flask
