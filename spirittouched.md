@@ -63,13 +63,18 @@ Der Grüne Pfad:
 Pflanzen wachsen nur bis zu einem natürlichen "Erwachsenen" zustand
 Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Kilogramm
 
-1. Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen
-1.1 Rhytmus der Jahreszeiten - eine Woche in engem Kontakt mit einer Pflanze führt zu einem Jahreswachstum
-1.1.1 Einflüsterung der Form - Eine berührte Pflanze formt einen Gegenstand aus ihrem eigenen Material während ihres zukünftigen Wachstums 
-1.1.2 Takt der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 tag
-1.1.2.1 Wirbel der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 Stunde
-1.1.1.1 Verlangen der Form - Aktion - Die Form wird innerhalb von wenigen Runden eingenommen, richtet aber Schaden an, je nach Gegenstand
-1.1.2...1 Entangle ?
+1. Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
+1.1 Rhytmus der Jahreszeiten - eine Woche in engem Kontakt mit einer Pflanze führt zu einem  Jahreswachstum  
+1.1.1 Einflüsterung der Form - Eine berührte Pflanze formt einen Gegenstand aus ihrem eigenen Material während ihres zukünftigen Wachstums   
+1.1.2 Takt der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 tag  
+1.1.2.1 Wirbel der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 Stunde  
+1.1.2.2 Grüne Briese - Rhytmus der Jahreszeiten enger Kontakt heist jetzt 10 meter radius. 
+1.1.1.1 Verlangen der Form - Aktion - Die Form wird innerhalb von wenigen Runden eingenommen, richtet aber Schaden an, je nach Gegenstand  
+1.1.1.1.1 Rankenfreund - Aktion - Vom aktuellen Punkt ausgehend und von Pflanze zu Pflanze springend, richten sich Ranken, Äste, Gräser und ähnliches gegen alle während der Aktion nicht ausgenommene Entitäten. Der Radius wächst um einen Meter pro Runde und ist beschränkt auf 10 meter. Alle Betroffenen haben ihre Bewegungsreichweite halbiert.
+1.1.1.1.1.1.n [n:1-5]  Störende Ranken - Alle von Rankenfreund betroffenen Akteure haben Komplexität +n auf ihre Handlungen
+1.1.1.1.1.2.n Dichtes Wurzelnetzwerk - Radius von Rankenfreund wächst um n/2 zusätzliche Meter pro Runde
+1.1.1.1.1.3.n Weites Wurzelnetzwerk  - Maximalradius von Rankenfreund ist um n*5 Meter erhöht.
+1.1.1.1.1.4 Hauch des Lebens - Aktion - Innerhalb einer Stunde wachsen überall innerhalb des Radiuses von Rankenfreund winzige Pflänzchen.
 1.1.3 Abschottung - Aktion - Verdoppelt die Schwierigkeit einer (nichtverschlossenen, nicht abgeschotteten) Wunde, erhöht Lebenspunkte um Wunde/2 (dynamisch), verhindert entzündung2
 1.1.3.1 Kallus - Während der Wundheilung verwachsen Wunden mit Holz, Solange unverschlossene Wunden existieren +1 Lebenspunkt pro 8-Wundheilung Tage (Wundheilung 8+ -> 24/2^(Wundheilung-7) h),  jeder dieser Lebenspunkte "verschließt" einen Wundpunkt der niedrigsten Wunde: die Wunde kann nicht unter den wert der verschlossenen Punkte fallen 
 1.1.3.1.1 Kambium - Jedes mal wenn Kallus nicht auslöst, weil keine unverschlossenen Wunden vorhanden sind kann ein verschlossener Wundpunkt und der dazugehörige Bonuslebenspunkt freigegeben und geheilt werden.
