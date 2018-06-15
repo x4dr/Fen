@@ -12,7 +12,6 @@ Your **hand size** is **2+Source.level**, if there are more cards in your hand t
 The colors for this purpose mean: Diamonds - **O**rder | Clubs - **M**atter | Hearts - **E**nergy | Spades - e**N**tropy
 Spells require a certain **mix of magic**, a **casting time** and a **material component**.
 When the spell is cast (no matter if successfully or not), the used cards go to the discard pile.
-
 When you have **no cards left**, you are **out of mana** and need to **meditate**. See below.
 
 When you have **no material components**, you have **nothing to activate**. See regular [alchemy](/3d10/alchemy) on how to make more if you run out.
@@ -24,7 +23,7 @@ Requires *one action* and draws *one card*.
 When you *concentrate* look at *as many cards as you have levels in alchemical magic* before you draw, put them back on top of your deck in any order.
 
 ### Dedicating
-Means withholding the most powerful (player chooses on draws) card from your discard pile after casting, for as long as the dedication lasts. Put it on a separate pile. It **does not count against your hand size**, but prevents you from using it again after you meditate. When you stop the dedication (at will), you can put it back on the discard pile and the effect (usually) ends.
+Means withholding the most powerful (player chooses on draws) card from your discard pile after casting, for as long as the dedication lasts. Put it on a separate pile. It **does not count against your hand size**, but prevents you from using it again after you meditate. When you stop the dedication (at will), you can medicate one card at a time back into the deck and the effect (usually) ends.
 
 ### Sustaining
 Is similar to dedication, but requires more effort and **counts against your hand size**. Lower it by 1 for each sustained effect for its desired duration.  
@@ -232,8 +231,21 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 * 19-20 Dedicate 1
 
 ### Knallpulver
+makes a loud noise when jostled
 
 ### Schreipulver
+shrieks when sufficiently lit
 
 ### Griffpulver
+enhances grip
 
+### Atemmaske
+** Duration: 1 hour, 30 min when wet**
+
++5 against breathable toxins, grants breathing under water
+
+### Fast Torch
+torch witch wax covered end, can be lit without fire
+
+### Screaming Flask
+corked flask. when the cork is removed it shrieks for 5 minutes. every being capable of hearing gains complexity 3-floor(x/3) (min 0)
