@@ -3,7 +3,7 @@ tags:
 [TOC]
 
 ###Fechten:  
-1. Flexibilität: Für jede Runde kann entschieden werden zwischen (Offensiv +1 und Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.  
+1 Flexibilität: Für jede Runde kann entschieden werden zwischen (Offensiv +1 und Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.  
 1.1 Ausfall: bis zu 3 (extra) meter Bewegung und dann Nahkampfteilnahme
 1.1.1 Aggressiver Ausfall: wie Ausfall, erhöht Offensivwert um 2 und senkt Defensive um 3  
 1.1.1.1 Ablenkungsschlag: Kein Schaden wird verursacht, gegnerische Offensive wird um Vorteil gesenkt.   
