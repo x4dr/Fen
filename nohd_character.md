@@ -1,5 +1,5 @@
 title: Nohd  
-tags: nav progress  
+tags: schrein  
 Name:  
 Alter:  
 Spezies:  
@@ -35,7 +35,6 @@ Charakterkonzept:
 |Wendigkeit|2|  
 |Rüstung|2|  
 |Artefakte|2|  
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -157,7 +156,8 @@ Charakterkonzept:
 |Körperkraft |3|1|  
 |Navigation|1|180|  
 |Kurzschwert|4|2080|  
-|Fingerfertigkeit|4|450|   
+|Fingerfertigkeit|4|480|   
+|Holzverarbeitung|2|30|  
   
 ###Inventar  
 |Item|Menge|  
