@@ -3,13 +3,12 @@ tags: items
 ###Goldschatz
 |Goldmenge|Grund|
 |:--|:--|
-|+400.000G|reden wir nicht weiter darüber...|
+|+40.000G|reden wir nicht weiter darüber...|
 |-150G|Kontor|
 |-300G|Spesen für die Gruppe|
 |-9,5G|Vernal-Kolonisten|
 |---------|-----|
-|399.540,5|übrig|  
-
+|39.540,5|übrig|  
 
 ###Eisenbach 270 EW
 
