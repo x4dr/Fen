@@ -1,12 +1,37 @@
 title:   
-tags:   
-Eisenbach 270 EW
+tags: items  
+###Eisenbach 270 EW
 
 Söldner 25 (wilderer-banditen)
+
 +1 Kiel (ex-glänzender)
 
+###Siedlung Vernal 35 EW
 
-Siedlung Vernal
 30 Holz (20arbeiter 10 familie)
 
-5 wilderer wächter
+5 Wilderer Wächter
+
+###Gruppeninventar
+
+Kettenhemd (M, spröde, fehlende Teile)		1	14,6 kg	14,60 kg
+				
+Goop-generator					1	5,00 kg	5,00 kg
+				
+Bronzeknöpfe					100	0,00 kg	0,20 kg
+
+Pfeilspitzen (Bronze)				30	0,01 kg	0,30 kg
+
+###Burginventar
+
+Die Gesammelten Werke von Ranon Toren, dem Legendären Aurischen Ingeneur (aurisch, 50P)		1	15,00 kg	15,00 kg	16G 20S
+
+Sakral-Architektur (aurisch, 20P)		1	5,00 kg	5,00 kg		50S
+
+Eisennuggets					448	0,10 kg	44,80 kg	5S
+
+Silber						5	1,00 kg	5,00 kg
+
+Bronze Barren					19	1,00 kg	19,00 kg	3S
+
+Serisem-Legierung				40	0,10 kg	4,00 kg	
