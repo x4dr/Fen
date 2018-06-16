@@ -1,10 +1,14 @@
 title: Gruppeninventar  
 tags: items  
 ###Goldschatz
-400.000G
--150G Kontor
--300G Spesen für die Gruppe
--9,5G Vernal-Kolonisten
+|Goldmenge|Grund|
+|---|---|
+|+400.000G||
+|-150G|Kontor|
+|-300G|Spesen für die Gruppe|
+|-9,5G|Vernal-Kolonisten|
+|----|----|
+|399.540,5|übrig|
 
 ###Eisenbach 270 EW
 
