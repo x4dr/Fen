@@ -8,7 +8,7 @@ tags: items
 |-300G|Spesen für die Gruppe|
 |-9,5G|Vernal-Kolonisten|
 |---------|-----|
-|39.540,5|übrig|
+|39.540,5G|übrig|
 
 
 ###Eisenbach 270 EW
