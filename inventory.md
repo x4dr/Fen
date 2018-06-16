@@ -1,10 +1,16 @@
-title:   
+title: Gruppeninventar  
 tags: items  
+###Goldschatz
+400.000G
+-150G Kontor
+-300G Spesen für die Gruppe
+-9,5G Vernal-Kolonisten
+
 ###Eisenbach 270 EW
+
 Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
 ###Siedlung Vernal 35 EW
-
 30 Holz (20arbeiter 10 familie)
 
 5 Wilderer Wächter
