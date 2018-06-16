@@ -55,7 +55,6 @@ Charakterkonzept:
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
-  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
