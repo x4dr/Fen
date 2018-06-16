@@ -4,7 +4,6 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 4 Monate  auf dem Dach im Schatten 70 tage für peitsche  
 400 Tage Navigation  
 400 Tage Schwimmen  
