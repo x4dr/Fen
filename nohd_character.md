@@ -1,5 +1,5 @@
 title: Nohd  
-tags: tabs  
+tags: tabs.2  
 Name:  
 Alter:  
 Spezies:  
@@ -51,7 +51,6 @@ Charakterkonzept:
 |Konstruktion|0|  
 |Textilverarbeitung|0|  
 &nbsp;  
-  
 ##Magie  
 ###Quellen  
 |Quellen|Level|  
@@ -149,7 +148,7 @@ Charakterkonzept:
    
 ##Progress  
 |Fähigkeiten|Level|Progress|  
-|:---|----:|:---|  
+|:---|----:|---:|  
 |Medizin |1|90|  
 |Kräuterkunde|5|410|  
 |Körperkraft |3|1|  
