@@ -1,5 +1,5 @@
 title: Nohd  
-tags: schrein  
+tags: tabs  
 Name:  
 Alter:  
 Spezies:  
@@ -50,7 +50,6 @@ Charakterkonzept:
 |Lederverarbeitung|0|  
 |Konstruktion|0|  
 |Textilverarbeitung|0|  
-  
 &nbsp;  
   
 ##Magie  
@@ -150,7 +149,7 @@ Charakterkonzept:
    
 ##Progress  
 |Fähigkeiten|Level|Progress|  
-|:---|----:|--:|  
+|:---|----:|:---|  
 |Medizin |1|90|  
 |Kräuterkunde|5|410|  
 |Körperkraft |3|1|  
