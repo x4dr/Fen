@@ -3,12 +3,20 @@ tags: items
 ###Eisenbach 270 EW
 Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
-
 ###Siedlung Vernal 35 EW
 
 30 Holz (20arbeiter 10 familie)
 
 5 Wilderer Wächter
+
+###Inselinventar
+|Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
+|:--|---|---|---|
+|Seltsamer schwarzer Tiegel|1|5,00 kg|5,00 kg|
+|Serisemwerkzeuge|5|1,00 kg|5,00 kg|
+|Abhandlung über Glashandwerk (aurisch, 35P,  Komplexität +2)|1|5,00 kg|5,00 kg|
+|Abhandlung über Werkstattkomplex (aurisch, 50P, Komplexität +2)|1|5,00 kg|5,00 kg|
+|Vernalische Riten des Sohark (aurisch, 35P, Komplexität +2)|1|5,00 kg|5,00 kg|
 
 ###Gruppeninventar
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
