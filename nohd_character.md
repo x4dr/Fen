@@ -1,10 +1,14 @@
 title: Nohd  
 tags: tabs.2  
+
+
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
+  
 &nbsp;  
+  
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
@@ -12,6 +16,7 @@ Charakterkonzept:
 |Gesundheit|3|  
 |Ausdauer|2|  
 |Körperkraft|2|  
+  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -19,6 +24,7 @@ Charakterkonzept:
 |Schwimmen|1|  
 |Wundheilung|0|  
 |Athletik|3|  
+  
 ###Waffen  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -26,7 +32,9 @@ Charakterkonzept:
 |Kurzschwert|3|  
 |Blasrohr|3|  
 |Keulen|1|  
+  
 &nbsp;  
+  
 ##Können  
 ###Attribute  
 |Attribute|Level|  
@@ -35,6 +43,7 @@ Charakterkonzept:
 |Wendigkeit|2|  
 |Rüstung|2|  
 |Artefakte|2|  
+  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -50,11 +59,14 @@ Charakterkonzept:
 |Lederverarbeitung|0|  
 |Konstruktion|0|  
 |Textilverarbeitung|0|  
+  
 &nbsp;  
+  
 ##Magie  
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
+  
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
@@ -142,9 +154,9 @@ Charakterkonzept:
 |Vorteile|Level|  
 |:---|----:|  
 |Schicksal|0|  
-   
+  
 &nbsp;  
-   
+  
 ##Progress  
 |Fähigkeiten|Level|Progress|  
 |:---|----:|---:|  
@@ -153,7 +165,7 @@ Charakterkonzept:
 |Körperkraft |3|1|  
 |Navigation|1|180|  
 |Kurzschwert|4|2080|  
-|Fingerfertigkeit|4|480|   
+|Fingerfertigkeit|4|480|  
 |Holzverarbeitung|2|30|  
   
 ###Inventar  
@@ -162,10 +174,11 @@ Charakterkonzept:
 |Rotwarz|1|  
   
 &nbsp;  
-total point costs Schicksal: 600040  
+total point costs Schicksal: 40  
 total point costs Magie: 0  
 total point costs Können: 115  
 total point costs Charisma: 0  
+total point costs Progress: 100000  
 total point costs Stärke: 400055  
 total point costs Weisheit: 90  
-total point costs: 1000300  
+total point costs: 500300  

@@ -1,10 +1,12 @@
 title: GROOT  
 tags: Platzhalter  
+
+
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-4 Monate  auf dem Dach im Schatten 70 tage für peitsche  
+  
 400 Tage Navigation  
 400 Tage Schwimmen  
   
@@ -208,6 +210,6 @@ total point costs Schicksal: 105
 total point costs Magie: 200  
 total point costs Können: 139  
 total point costs Charisma: 105  
-total point costs Stärke: 39  
+total point costs Stärke: 129  
 total point costs Weisheit: 119  
-total point costs: 707  
+total point costs: 797  
