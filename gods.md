@@ -2,7 +2,6 @@ title: Götter
 tags:   
 [TOC]
 
-
 ##Ateph
 Gott des Wissen und des Feuers in der Gestalt einer brennenden Bibliothek, deren labyrinthischen Gänge sich in alle Ewigkeiten Erstrecken. Funken und zu Asche werdende Buchseiten schweben durch die Luft, doch scheinen die Bücher nie auszugehen. 
 ###Philosophie
@@ -102,6 +101,26 @@ Cholis langweilen, aufhören Interessant zu sein.
 Schicksal biegen, Glückssträhnen gewähren, Wahrscheinlichkeiten brechen, das unmögliche Möglich machen, wenn es ihm gefällt. 
 #### Fluch
 Schicksal biegen, Pechsträhnen erteilen, Wahrscheinlichketen brechen, das unmögliche Möglich machen, wenn es ihm gefällt.
+
+## Sural
+Göttin der Träume, der Berge, des Abenteuers und der Ferne
+
+### Philosophie 
+Die Straße gleitet fort und fort,
+Weg von der Tür, wo sie begann
+
+###Anhänger
+Reisende, Abenteurer, Träumer, Wanderer und alle die Fernweh haben
+
+###Gunst
+#### Huldigen
+Träumen, Abenteuer erleben, Reisen, Erkunden
+#### Verärgern
+Aufgeben, sich Abfinden
+#### Segen
+Glückliche Fügungen, Hals-aus-der-Schlinge Ziehen, Anweisungen in Träumen
+#### "Fluch"
+Ruf ins Abenteuer
 
 
 ##Krahoz
