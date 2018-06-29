@@ -2,8 +2,8 @@ title: artefakte
 tags:   
   lehnin Mü
 unsichtbarkeitsring (safeempty) 31/50
+sprunggürtelschanne (safeempty) 26/30
 Blauer Edelstein 0/50/65
-
 
 allgemeinparty 
 amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 0/40/50
