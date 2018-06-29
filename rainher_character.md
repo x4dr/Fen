@@ -153,6 +153,9 @@ Charakterkonzept:
 |Stil|2|0|  
 |Einschüchtern|1|0|  
 |Befehlsgewalt|0|0|  
+|Empathie|0|  
+|Etiquette|0|  
+|Tratsch|0|  
   
 ###Vorteile  
 |Vorteile|Level|  

@@ -140,6 +140,9 @@ Edelstein 20/20/??
 |Stil|0|  
 |Einschüchtern|0|  
 |Befehlsgewalt|0|  
+|Empathie|0|  
+|Etiquette|0|  
+|Tratsch|0|  
   
 &nbsp;  
   
