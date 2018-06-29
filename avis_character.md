@@ -7,7 +7,7 @@ Charakterkonzept:
 400 Tage Navigation  
 400 Tage Schwimmen  
 2 Monate sebel+peitsche mit Stufe 5 Lehrer
-+Navigation
++Navigation +Befehlsgewalt+Wettermagie?
 &nbsp;  
 ##Stärke  
 ###Attribute  
@@ -16,7 +16,6 @@ Charakterkonzept:
 |Gesundheit|2|  
 |Ausdauer|2|  
 |Körperkraft|1|  
-  
 ###Fähigkeiten  
   
 |Fähigkeiten|Level|  
