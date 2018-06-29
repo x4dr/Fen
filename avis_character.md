@@ -1,13 +1,16 @@
 title: Avis  
 tags: Avis  
+
+
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-+Navigation +Befehlsgewalt+Wettermagie? +Tratsch +Seemannsgarn  
+  
 Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben  
   
-Diebeszeichen: Treffpunkt & Mitternacht
+Diebeszeichen: Treffpunkt & Mitternacht  
+  
 &nbsp;  
   
 ##Stärke  
