@@ -4,11 +4,13 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-400 Tage Navigation  
 400 Tage Schwimmen  
-2 Monate sebel+peitsche mit Stufe 5 Lehrer
-+Navigation +Befehlsgewalt+Wettermagie?
+2 Monate sebel+peitsche mit Stufe 5 Lehrer  
++Navigation +Befehlsgewalt+Wettermagie?  
+Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben
+  
 &nbsp;  
+  
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
@@ -16,6 +18,7 @@ Charakterkonzept:
 |Gesundheit|2|  
 |Ausdauer|2|  
 |Körperkraft|1|  
+  
 ###Fähigkeiten  
   
 |Fähigkeiten|Level|  
