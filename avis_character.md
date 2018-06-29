@@ -4,7 +4,6 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben  
   Seemannsgarn Wettermagie?  Befehlsgewalt Navigation 
 Diebeszeichen: Treffpunkt & Mitternacht  
