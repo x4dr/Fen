@@ -13,7 +13,8 @@ Ateph Tempel sind weit verbreitet wenn auch meist sehr klein. Sie umfassen eine 
 
 ####Pool  
 1 Pro 50 XP in Wissensfähigkeiten pro Monat  
-####Huldigen Wissen Retten und einem Atephtempel zuführen, Bücher Schreiben, Wissen hüten.  
+####Huldigen 
+Wissen Retten und einem Atephtempel zuführen, Bücher Schreiben, Wissen hüten.  
 ####Verärgern 
 Wissen in die falschen Hände fallen lassen, Wissen Missbrauchen.
 
