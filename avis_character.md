@@ -4,10 +4,9 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-400 Tage Schwimmen  
 2 Monate sebel+peitsche mit Stufe 5 Lehrer  
-+Navigation +Befehlsgewalt+Wettermagie?  
-Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben
++Navigation +Befehlsgewalt+Wettermagie? +Tratsch +Seemannsgarn
+Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben  
   
 &nbsp;  
   
