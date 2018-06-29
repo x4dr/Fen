@@ -4,10 +4,10 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-2 Monate sebel+peitsche mit Stufe 5 Lehrer  
-+Navigation +Befehlsgewalt+Wettermagie? +Tratsch +Seemannsgarn
++Navigation +Befehlsgewalt+Wettermagie? +Tratsch +Seemannsgarn  
 Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben  
   
+Diebeszeichen: Treffpunkt & Mitternacht
 &nbsp;  
   
 ##Stärke  
