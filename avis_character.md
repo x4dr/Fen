@@ -4,10 +4,9 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 400 Tage Navigation  
 400 Tage Schwimmen  
-3 Monate sebel+peitsche mit Stufe 5 Lehrer
+2 Monate sebel+peitsche mit Stufe 5 Lehrer
 &nbsp;  
   
 ##Stärke  
