@@ -1,10 +1,12 @@
 title: Avis  
 tags: Avis  
+
+
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
+  
 Diebeszeichen: Treffpunkt & Mitternacht  
   
 &nbsp;  
@@ -129,7 +131,8 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Wissen(Magie)|1|  
 |Strategie|0|  
 |Empathie|1|  
-
+|Wissen(Gebiet)|0|  
+  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
@@ -212,5 +215,5 @@ total point costs Magie: 200
 total point costs Können: 139  
 total point costs Charisma: 105  
 total point costs Stärke: 39  
-total point costs Weisheit: 119  
-total point costs: 707  
+total point costs Weisheit: 129  
+total point costs: 717  

@@ -1,6 +1,5 @@
-title: npc
-tags: 
-
+title: npc  
+tags:   
   VORAGE der meisterkoch (ehem VORAGE der barbar, VORAGE drachentöter, VORAGE ohnegnade, VORAGE der mächtige)  
 
 moruhin der kauzige und oris der mysteriöse kater  
@@ -22,3 +21,5 @@ Karoni Marzanna - Asassin for Hire
 Arhnim - Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute
 
 Nyxico - Der wohl älteste Aurier
+
+Nytani - Mysteriöse Frau mit einer offenen Rechnen
