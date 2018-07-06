@@ -4,7 +4,6 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
 Diebeszeichen: Treffpunkt & Mitternacht  
   
@@ -129,7 +128,8 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Heilen|0|  
 |Wissen(Magie)|1|  
 |Strategie|0|  
-|Empathie|1|
+|Empathie|1|  
+
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
