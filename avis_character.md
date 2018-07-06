@@ -4,8 +4,8 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-Passiv Fingerfertigkeit, kochen, mit 30stunden Zechen, Glückspiel, abgeben  
-  Seemannsgarn Wettermagie?  Befehlsgewalt Navigation 
+  
+Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
 Diebeszeichen: Treffpunkt & Mitternacht  
   
 &nbsp;  
@@ -127,9 +127,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Instinkt|2|  
 |Taktik|2|  
 |Heilen|0|  
-|Wissen(Gebiet)|0|  
+|Wissen(Magie)|1|  
 |Strategie|0|  
-  
+|Empathie|1|
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
