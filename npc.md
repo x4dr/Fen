@@ -2,7 +2,6 @@ title: npc
 tags:   
   VORAGE der meisterkoch (ehem VORAGE der barbar, VORAGE drachentöter, VORAGE ohnegnade, VORAGE der mächtige)  
 moruhin der kauzige und oris der mysteriöse kater  
-
 mathilda die abenteurergildenempfangsdame  
 
 odilia die nähpartnerin von yarat  
@@ -21,4 +20,6 @@ Arhnim - Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute
 
 Nyxico - Der wohl älteste Aurier
 
-Nytani - Mysteriöse Frau mit einer offenen Rechnung
+Nytani - Mysteriöse Oberin des Waisenhauses und Priesterin der Ilargia mit einer beglichenen Rechnung
+
+Taiem - Mysteriöser Wohlgekleideter Herr aus einer der teureren Tavernen Seegards.
