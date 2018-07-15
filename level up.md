@@ -1,12 +1,14 @@
 title: Fähigkeitssteigerungen  
 tags:   
-später noch in einzelne kategorien einzuteilen bzw für einzelne skills festzusetzen. Im moment gibt es dinge die nicht für alle kategorien gelten:
-10 Anforderungen müssen erfüllt werden. Wenn eine anforderung mehrfach erfüllt werden kann ist in klammern angegeben wie oft.
-Perspektiven sind Einflüsse und Erfahrungen aus unterschiedlichen Arten der Praxis. Verschiedene Regionen, Stände, Kulturen oder anderes was einen aktiven Wechsel der Übungsumgebung erfordert.
-Training erfordert eine Wissensquelle, entweder jemand der mindestens ein Level höher ist, oder genügend genaue Bücher.
-Herumprobieren kann ein Character alleine, wenn er eine grobe Ahnung hat was er versucht zu lernen (Magieschulen aus dem Nichts erschaffen ist ohne Magiewissen nicht möglich)
-Ausgegebene XP sind zusätzlich zu den normalen verlangten XP Kosten.
+[TOC]
 
+##Anforderungen 
+10 Anforderungen müssen erfüllt werden. Wenn eine anforderung mehrfach erfüllt werden kann ist in klammern angegeben wie oft.
+
+* Perspektiven sind Einflüsse und Erfahrungen aus unterschiedlichen Arten der Praxis. Verschiedene Regionen, Stände, Kulturen oder anderes was einen aktiven Wechsel der Übungsumgebung erfordert.
+* Training erfordert eine Wissensquelle, entweder jemand der mindestens ein Level höher ist, oder genügend genaue Bücher.
+* Herumprobieren kann ein Character alleine, wenn er eine grobe Ahnung hat was er versucht zu lernen (Magieschulen aus dem Nichts erschaffen ist ohne Magiewissen nicht möglich)
+* Ausgegebene XP sind zusätzlich zu den normalen verlangten XP Kosten.
 
 ###Anforderungen 0->1
 * 1 Woche Training oder 1 Monat herumprobieren (5)  
