@@ -1,6 +1,7 @@
 title: Schadenstypen  
 tags:   
-[ToC]
+[TOC]
+
 #Blitz
 Blitze mögen Metall. Jemand der Metall trägt, ist also Vergleichweise einfacher zu treffen, allerdings funktionieren die metallteile auch als gute Leiter und halten den großteil des Blitzes ab. Wenn entschieden wird, ob ein Ziel in metallrüstung getroffen wird dann gibt es einen bonus von +1/+2/+3 je nachdem ob metallteile/einzelne ringe, großflächige metall stellen/voneinander getrennte Metallstücke oder vollplatte vorhanden ist. Rüstung hilft ganz normal gegen Blitzschaden.
 
