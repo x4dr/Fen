@@ -12,4 +12,5 @@ Feuerzähler die höher sind als Stabilität der Aktiven Rüstung werden jeweils
 
 #Gift
 Giftschaden setzt erst ein, wenn das Ziel vergiftet ist und ignoriert dann Rüstung. Kampfgifte die Schnell wirken (keine elaboraten gifte)
-haben eine wirkung die um (Gesundheit, Ausdauer)*2  gesenkt wird. Im Falle Schaden ist die Resultierene Zahl /2 die Vergiftungsstufe. Jede Runde in der Freien Phase macht das gift seinen schaden und reduziert die aktuelle Vergiftungsstufe um 1. Neuanwendung des Giftes oder anderes Gift setzt lediglich die Vergiftungsstufe, sie wird nicht addiert.
+haben eine wirkung die um (Gesundheit + Ausdauer)*2 - GiftPenetration gesenkt wird. Im Falle Schaden ist die Resultierene Zahl /2 die Vergiftungsstufe. Jede Runde in der Freien Phase macht das Gift seinen Schaden und reduziert die aktuelle Vergiftungsstufe um 1. Neuanwendung des Giftes oder anderes Gift setzt lediglich die Vergiftungsstufe, sie wird nicht addiert. Betäubungsgift erhöht die Schwierigkeiten für das Ziel um die Vergiftungsstufe und ist separat von Schadensgift und nimmt jeweils nach dem Würfelwurf ab.
+Alle anderen Gifte sind wesentlich langsamer wirkend und nicht hier besprochen
