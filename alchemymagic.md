@@ -17,11 +17,10 @@ When you have **no material components**, you have **nothing to activate**. See 
 When you have **no time**, use **mundane** methods of effecting change.
 ### Concentrating
 Requires *one action* and draws *one card*.
-
 When you *concentrate* look at *as many cards as you have levels in alchemical magic* before you draw, put them back on top of your deck in any order.
 
 ### Dedicating
-Means withholding the most powerful (player chooses on cast) card from your discard pile after casting, for as long as the dedication lasts. Put it on a separate pile. This **does not count against your hand size**, but prevents you from using it again for as long as it remains dedicated. Dedicated cards can be taken back into the deck while meditating, one at a time, effects sustained by dedicated cards end when the card is taken back.
+Means removing the most powerful (player chooses if there is a draw) card used in the spell after casting from the Deck, The Dedication ends, once the Card is returned to the deck. Dedicating a card **does not count against your hand size**.
 
 ### Sustaining
 Is similar to dedication, but requires more effort and **counts against your hand size**. Lower it by 1 for each sustained effect for its duration. Sustaining can be dropped at will as a free action.  
@@ -29,64 +28,15 @@ Is similar to dedication, but requires more effort and **counts against your han
 ### Meditation
 Requires at least **six hours** in sufficient calmness with no other activity and shuffles all the cards from the discard pile into the deck. One dedicated card may be taken back into the deck.  
 
-
-# Alchemy
-## Perks
-3XP each. Additional perks are open for debate.
-### Genius
-* Genius 1: put a joker into your deck. jokers satisfy one magic type in a spell _completely_, but don't add anything to generic magic, OR they add 12 generic magic  
-* Genius 2: put a joker into your deck, put a blank card into your deck.  
-* Genius 3: put a joker into your deck, put two blank cards into your deck.  
-### Amass Magic
-* 1-13: you may put one card for each color into your deck, starting from the bottom (2 is the lowest, an Ace counts as highest), everytime you meditate. You can also remove the added Cards, starting from the top. You can only have as many extra cards per color, as you have levels in Amass Magic. Only one card can be taken out or added in this way, every time you meditate.  
-### Exhaustive Focus
-* 1-2: You may declare before drawing (and as long as there arent any cards removed from your deck by exhaustive focus) as many single card qualifiers as you have levels of Exhaustive Focus (2s or Matter for example but not "everythung but Aces"). When you draw a card with the described quality, remove it from your deck and draw another card. Removed cards may be added into the deck in ascending order, one per meditation. Exhaustive focus can be "undeclared" at any point, but can only be "redeclared" once all cards removed this way have been added back in.  
-### Attune
-* 1-7: While meditating, declare one card in your deck to be of a different Color. You can have as many cards attuned as you have levels in Attune, but only one Card can be attuned per meditation. For a card to not count as attuned it needs to represent its own color. (write down a list)  
-### Channel
-you may put the top card of the deck into the discard pile and then draw a card.  
-### Greater Channel
-you may put the top two cards of the deck into the discard pile and then draw a card. (seperately from channel)  
-### Rebound
-while you are spending at least one 2, pick a card in your discard pile and put it back into your deck.  
-### Force the Attunement
-You may use a charge to discard your entire hand, and draw as many cards as you like (including pausing and drawing more), discarding if you are past your handlimit, but not earlier. Then take damage equal to half of the total worth of cards in your hand.  
-### Hasten
-you may reduce casttimes by one turn if you additionally spend double the required material component. spells can not become instant this way.  
-### Greater Hasten
-you may reduce casttimes by one more turn if you additionally spend four times the required component. spells can not become instant this way.  
-### Quicken
-You may reduce the time your cards are dedicated by half by spending 15 Energy with the spell that dedicates a card.  
-### Greater Quicken
-You may reduce the time your cards are dedicated by half by spending 15 Energy and an Essence of Speed with the spell that dedicates a card. Alternatively, reduce a castingtime by up to 3 turns. Spells can become instant this way.  
-### Substitue
-You may use double the amount of a different Material Component of at least the same level in a spell by spending 15 Matter with the spell that uses the Component  
-### Greater Substitute
-You may use an Essence of Polymorphism instead of a Material Component in a spell by spending 15 Matter with the spell that uses the Component.  
-### Equalize
-If you spend 15 Order, All Magic requirements of a spells convert to Order for this turn. All your cards change type to Order for this turn. If the spell effects differentiate by type, you still have to split your magic up  
-### Greater Equalize
-If you spend 15 order and an Essence of Stability, you may choose a number from 0 to 9. All your cards are worth that much Order for this turn and all spell requirements become Order for this turn, for spell effect purposes you have to divide your magic up  
-### Recommence
-If you spend 15 Entropy with a Spell, instead of putting those cards into your discard pile, put them on the bottom of your deck. (except the entropy)  
-### Greater Recommence
-If you spend 15 Entropy and an Essence of Change with a spell, instead of putting those cards into your discard pile, keep them in your hand (except the entropy), put your hand on the bottom of the deck and draw as many cards.
-### Cast while moving
-What it says on the tin.
-
-* 1: slow walk
-* 2: regular movement
-* 3: sprint'n'cast
+### Removing Cards
+Some effects remove cards (like Dedication), these are put into a separate pile for removed cards and are not part of the discard pile, the hand or the Deck for as long as they stay removed.
+Removed cards may be added into the deck in ascending Order of Power (player chooses if there is a draw), one per Meditation.
+Permanently removed Cards are instead removed permanently and cannot (and don't have to) be returned to the Deck.
 
 # Spells
-To cast the spell, spend at least the necessary magic and materials and roll as many dice as the task complexity commands. If concept.level or aspect.level is higher than the complexity, they refer to the highest rolled dice instead. Add dice as necessary (a good point to increase the complexity for more effects). Order the dice by value in ascending order.
-valueOf(*concept.level*th dice)+valueOf(*aspect.level*th dice) is referred to as **roll** in the spell.
+To cast the spell, spend at least the necessary magic and materials and roll as many dice as the task complexity commands. If concept.level or aspect.level is higher than the complexity, they refer to the highest rolled dice instead. Add dice as necessary (a good point to increase the complexity for more effects). Order the dice by value in ascending order. The result ofAspekt,Konzept@5 is referred to as **roll** in the spell.
 
-Complexities can be modified by the GM and by the player. For example to:
-
-* increase/decrease casting time
-* increase/decrease number of targets
-* something you just thought up. It's more art than science. Actually it's not science at all.
+Complexity can be modified by the GM in response to changing circumstances or tries to apply a spell in an unconventional way.
 
 **There are two kinds of spells here. Magical Alchemical Processes (P) and Magical Combat Alchemy (C) **
 
@@ -230,21 +180,51 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 * 19-20 Concentrate 0 (or Dedicate 1)
 
 ### Knallpulver (P)
-makes a loud noise when jostled
+**Entropy 9 Matter 9 Order 9 Energy 9**
+
+**Casting time: 1 minute** material component: 10+ Staubpilz
+
+After careful processing this incredibly volatile sparkly grey powder will produce a loud bang and quite a bit of smoke when jostled too hard. 
+About 10 grams are produced per Staubpilz used, any amount of ingredients is processed and turned into powder, for every 100 grams (even partial amounts) one card is dedicated. The powder loses its potency if the dedication is removed.
+If piled up, the resulting sound can be heard clearly and loudly for 1 meter of clear air per gram used. 
 
 ### Schreipulver (P)
-shrieks when sufficiently lit
+**Energy 4 Matter 4 Order 4 Entropy 4**
+
+**Casting time: 1 hour** material component: 10+ Düsterwurz
+
+After slow, low energy processing, this very black powder will produce a long screech like that of an angry cat for as long as it is exposed to Light. About 10 grams are produced per Düsterwurz used, any amount of ingredients is processed and turned into powder, for every 100 grams (even partial amounts) one card is dedicated. The powder loses its potency if the dedication is removed.
+The powder can be mixed into a paste with water and spread on objects. Daylight will burn it out within 10 minutes of very loud screeching, but it will regenerate after an hour of absolute darkness.
 
 ### Griffpulver (P)
-enhances grip
+**Matter 12 Order 11**
+
+**Casting time: 1 hour** material component: 10+ Gabelblume
+This sticky coloured powder (depends on the colour of the petals) makes gripping and climbing easy.
+About 10 grams are produced per Gabelblume used, any amount of ingredients is processed and turned into powder, for every 100 grams (even partial amounts) one card is dedicated. The powder loses its potency if the dedication is removed.
+Lowers difficulty on gripping and climbing tasks by 2, can stick things together (more resistant to shearing instead of ripping), gives +5 to hold on to weapons and similar, makes doors require a 10+ to open if applied all around.
+Water resistant. Overrides slimyness, oil and so on.
 
 ### Atemmaske (P)
+**Order 11 eNtropy 8** material component: 1+ Rotwarz
 ** Duration: 1 hour, 30 min when wet**
 
-+5 against breathable toxins, grants breathing under water
+The bright red paste this process produces can be spread on fabric to produce a breathing mask that makes the wearer nearly immune (-15 Potency) against breathed in toxins and grants the ability to breathe under water. 1 Dose is produced per Rotwarz, any amount of ingredients is processed and for every 10 (even partial amounts) Doses one card is dedicated.  
+The duration starts once the first breath is taken through them and the material slowly discolours from red to yellow to grey until it stops working.
+
+### Leuchtpulver (P)
+**Energy 11 Matter 11 Order 11 Entropy 11**
+
+**Casting time: 1 hour** material component: 10+ Schimmerpilz
+
+After vigorous heating, cooling, mixing and reheating for an hour, this fine, translucent powder gives off a faint but noticeable glow. Easily overpowered by daylight, it is bright enough to lower the penalties for Darkness to +2 Complexity within 5 meters of at least 10 grams of it. Its also bright enough to read by and caps the difficulty to hit something due to visibility issues. In sunlight or when it is not glowing it remains as an iridescent, shimmering material. Stops working under air exclusion. If breathed in causes slight hallucinations, slight shortness of breath and slightly glowing blood vessels that can be seen through walls up to 20 meters way by other affected.
 
 ### Fast Torch (P)
-torch witch wax covered end, can be lit without fire
+** 1+ Energy 1+eNtropy ** 
+**Casting time: 3 rounds (2 are mundane assembly, one is casting)** Material Components: Stick, Wax, 1/10 Phosphor
 
-### Screaming Flask
+Torch with wax covered end. Disturbing the wax with a fingernail or by scraping it against a wall immediately ignites it and provides normal torch light for 6 hours.
+
+### Screaming Flask (no extra spell, just some mixing of Leuchtpulver and Schreipulver inside a corked metal flask)
 corked flask. when the cork is removed it shrieks for 5 minutes. every being capable of hearing gains complexity 3-floor(x/3) (min 0)
+Recorking it regenerates it within 1 hour.
