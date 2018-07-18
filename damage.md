@@ -1,7 +1,6 @@
 title: Schadenstypen  
 tags:   
 [ToC]
-
 #Blitz
 Blitze mögen Metall. Jemand der Metall trägt, ist also Vergleichweise einfacher zu treffen, allerdings funktionieren die metallteile auch als gute Leiter und halten den großteil des Blitzes ab. Wenn entschieden wird, ob ein Ziel in metallrüstung getroffen wird dann gibt es einen bonus von +1/+2/+3 je nachdem ob metallteile/einzelne ringe, großflächige metall stellen/voneinander getrennte Metallstücke oder vollplatte vorhanden ist. Rüstung hilft ganz normal gegen Blitzschaden.
 
@@ -13,4 +12,4 @@ Feuerzähler die höher sind als Stabilität der Aktiven Rüstung werden jeweils
 
 #Gift
 Giftschaden setzt erst ein, wenn das Ziel vergiftet ist und ignoriert dann Rüstung. Kampfgifte die Schnell wirken (keine elaboraten gifte)
-haben eine wirkung die um (Gesundheit, Ausdauer)*2  gesenkt wird. Im Falle Schaden ist die Resultierene Zahl die Vergiftungsstufe. Jede Runde in der Freien Phase macht das gift seinen schaden und reduziert die aktuelle Vergiftungsstufe um 1. Neuanwendung des Giftes oder anderes Gift setzt lediglich die Vergiftungsstufe, sie wird nicht addiert.
+haben eine wirkung die um (Gesundheit, Ausdauer)*2  gesenkt wird. Im Falle Schaden ist die Resultierene Zahl /2 die Vergiftungsstufe. Jede Runde in der Freien Phase macht das gift seinen schaden und reduziert die aktuelle Vergiftungsstufe um 1. Neuanwendung des Giftes oder anderes Gift setzt lediglich die Vergiftungsstufe, sie wird nicht addiert.
