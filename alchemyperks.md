@@ -1,10 +1,9 @@
 title: Alchemie Vorteile  
 tags:   
-
 # Attunement Perks
-3XP each. Might Change to also require and consume singular advancement point (tree depth = advancement level) in the future.
-Additional perks are open for debate.
-Might need translation.
+3XP each. Might Change to also require and consume singular advancement point (tree depth = advancement level) in the future.  
+Additional perks are open for debate.  
+Might need translation.  
 [TOC]
 ## Genius
 * Genius 1: put a joker into your deck. jokers satisfy one magic type in a spell _completely_, but don't add anything to generic magic, OR they add 12 generic magic  
