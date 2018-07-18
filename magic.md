@@ -2,7 +2,7 @@ title: Generelle Magieregeln
 tags:   
 ##Zauberzeiten
 ### 0
-"Halbe Aktion": einzige Aktion die in der Freien Phase möglich ist, aber erlaubt erneutes Handeln in der Kampfphase  
+"Halbe Aktion": einzige Aktion die in der Freien Phase möglich ist, aber erlaubt erneutes Handeln in der Kampfphase, allerdings keinen einsatz anderer Aktionen erfordernder Techniken usw  
 Zauber wirkt in der Kampfphase bei initiative (Offensivwert) 5der aktuellen Runde, es sei denn der Zauber besagt etwas anderes. Bis der Zauber wirkt, wird er unterbrochen wenn der Zaubernde getroffen wird.
 Zauber die mit dem Angriff des Zaubernden wirken sind selten und erfordern meist viel magische Energie, um einen Zauber so zu beschleunigen.
 ### 1
