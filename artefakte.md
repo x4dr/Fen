@@ -17,7 +17,6 @@ magischer Schutzgürtel 3 fancyness
 Magischer Unsichtbarkeitskompass 2 fancyness  
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
 /15/20
-
 Shadowstone 0/40/40
 
 Magisches Feuerzeug  9/15
@@ -197,3 +196,10 @@ Erhöht AoE Effekte wenn geschwungen
 
 ##### Brosche 2
 * verzögert aufrechterhaltung
+
+#### Magiergeschwisterloot
+
+Amulett Rot 12 
+Amulett Blau 12 
+Ring Rot 11 
+Ring Blau 18
