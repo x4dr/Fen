@@ -1,7 +1,6 @@
 title: Alchemie Vorteile  
 tags:   
 [TOC]
-
 # Attunement Perks
 3XP each. Might Change to also require and consume singular advancement point (tree depth = advancement level) in the future.  
 Additional perks are open for debate.  
@@ -39,12 +38,15 @@ If you have to provide a charge and fail to do so, the Energy Source suffers fee
 * 1-10: Spend a charge and reveal as many cards as you have levels in this perk from your deck. When drawing, you can instead pick any of these. You may take a damage when picking a card revealed this way, to then draw a card and replace the one you picked.
 
 
-## Cast while moving
-While casting an Attunement based spell you may move with:
-* 1: 10% original movement speed
-* 2: 50% original movement speed
-* 3: 100% original movement speed
-* 4: 200% original movement speed if 1 Energy is spend for every Additional meter.
+## Cast while moving  
+While casting an Attunement based spell you may move with:  
+|||
+|---|---|
+| 1| 10% original movement speed |   
+| 2| 50% original movement speed |  
+| 3| 100% original movement speed |    
+| 4| 200% original movement speed |    
+| |if 1 Energy is spend for every Additional meter.|  
 
 Still no other rolls can be made while casting (so no sprinting)
 
