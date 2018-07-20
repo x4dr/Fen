@@ -5,7 +5,6 @@ Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
 recharged on transformation
-
 sprunggürtelschnalle (safeempty) 4/30  
 Blauer Edelstein 0/50/65  
 allgemeinparty   
@@ -173,3 +172,28 @@ sie tun irgendwas mit dem richtigen wort
 
 #####cooler Glitzer Säbel
 Erhöht AoE Effekte wenn geschwungen
+
+
+#### Unterwasserschatz
+
+##### Ring 1
+* nichtmagisch
+* silber + anderes hartes metall
+
+##### Ring 2 (10)
+* breiter gold ring
+* heilungseffekte
+
+##### Ring 3 
+* twist-trigger
+* magischer effekt
+* kaputt
+
+##### Ring 4
+* sight-store
+
+##### Brosche 1
+* aufmerksamkeit
+
+##### Brosche 2
+* verzögert aufrechterhaltung
