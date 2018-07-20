@@ -18,7 +18,6 @@ When you have **no time**, use **mundane** methods of effecting change.
 ### Concentrating
 Requires *one action* and draws *one card*.
 When you *concentrate* look at *as many cards as you have levels in alchemical magic* before you draw, put them back on top of your deck in any order.
-
 ### Dedicating
 Means removing the most powerful (player chooses if there is a draw) card used in the spell after casting from the Deck, The Dedication ends, once the Card is returned to the deck. Dedicating a card **does not count against your hand size**.
 
@@ -69,7 +68,7 @@ Creates an area of fire, damaging everyone in it every turn, and setting them on
 
 **Casting time: 3 Turns**
 
-Creates an area of random transmutation, wildly varying compositions, explosions and the like.  Every turn, everything takes **the roll as damage**. Every time something of consequence (crafted objects or similar) is destroyed, the duration is extended for another turn, every time something dies, the duration is extended for five turns. All rolls within the pandemonium are halved.  
+Upon Impact, creates an area of random transmutation, wildly varying compositions, explosions and the like.  Every turn, everything takes **the roll as damage**. Every time something of consequence (crafted objects or similar) is destroyed, the duration is extended for another turn, every time something dies, the duration is extended for five turns. All rolls within the pandemonium are halved.  
 
 ### Morph (P)
 **Order 9+ Matter 9+**, Material component: one Essence of Change
