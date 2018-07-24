@@ -14,7 +14,7 @@ tags:
 | Salz | 20c |  
 | Rindfleisch | 50c |
 | Butter/Käse | 30c |
-
+___
 
 
 |Dinge| Preis pro Stück |
