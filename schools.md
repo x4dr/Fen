@@ -1,68 +1,85 @@
 title: Kampfschulen  
 tags:   
 [TOC]
-#Fechten:  
-##1 Flexibilität
+
+# Fechten : Flexibilität
  Für jede Runde kann entschieden werden zwischen (Offensiv +1 und Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.  
-###1.1 Ausfall
+##1.1 Ausfall
  bis zu 3 (extra) meter Bewegung und dann Nahkampfteilnahme  
-####1.1.1 Aggressiver Ausfall 
+###1.1.1 Aggressiver Ausfall 
  wie Ausfall, erhöht Offensivwert um 2 und senkt Defensive um 3  
-#####1.1.1.1 Ablenkungsschlag: 
+####1.1.1.1 Ablenkungsschlag: 
 Kein Schaden wird verursacht, gegnerische Offensive wird um Vorteil gesenkt.   
-### 1.2.n Fechtstellung[10]: 
+## 1.2.n Fechtstellung[10]: 
 Offensivwert für Reihenfolgefeststellung ist um n erhöht.  
-#####1.2.3.1 Finte: 
+####1.2.3.1 Finte: 
 (zu jedem Zeitpunkt in der Kampfphase anwendbar) Senkt Offensive und Defensive um 1, ändere Technik oder Ziel.  
-#####1.2.5.1 Serie[10]: 
+####1.2.5.1 Serie[10]: 
 Die Länge der Aktuellen Serie von aufeinanderfolgenden Angriffen (maximum n) wird als Schadensbonus auf erfolgreiche Angriffe angewendet.  
-###1.3 Parieren: 
+##1.3 Parieren: 
 Kein Angriff Möglich, +2 Defensive  
 ####1.3.1 Geduld: 
 (passiv) Wenn gegen keinen Angriff verteidigt wurde: +1 Offensive in der Nächsten Runde.  
-#####1.3.1.1 Riposte: 
+####1.3.1.1 Riposte: 
 (passiv) Wenn der erste Angreifer einer Runde geblockt wird, kann dieser mit einem normalen Angriff angegriffen werden.   
-#######1.3.1.1.1 Verbesserte Riposte: 
+######1.3.1.1.1 Verbesserte Riposte: 
 Wie Riposte, Techniken können eingesetzt werden.  
-######1.3.1.2 Spontanes Parieren: 
+#####1.3.1.2 Spontanes Parieren: 
 (anstelle eines Angriffs:) Wenn noch kein Angriff erfolgt ist, Pariere.  
-####1.3.2. Verbessertes Parieren: 
+###1.3.2. Verbessertes Parieren: 
 (passiv) Parieren erhöht Defensive zusätzlich um 2  
 
-#Kurzschwert:  
-## 1 Flurry 
+# Kurzschwert: Flurry 
 called in free phase (enemies may react) +1 offense, -1 defense  
-### 1.1.n Secondary (0-5)
+## 1.1.n Secondary (0-5)
 the short sword may be carried with in the offhand and is interpreted seperately from the attack with the main hand. Attacks with both weapons suffer Complexity + (6-n)  
-#### 1.1.4. Dual wielding 
+### 1.1.4. Dual wielding 
 if the main and secondary weapons are both short swords, +2 to offense  
-### 1.2 - Distracting strikes 
+## 1.2 - Distracting strikes 
 enemies hit with flurry receive the advantage as a negative modifier to their offense  
-#### 1.2.1 - disorienting strikes 
+### 1.2.1 - disorienting strikes 
 enemies hit with flurry may not attack any more this round  
-### 1.3 Defensive whirl 
+## 1.3 Defensive whirl 
 at the cost of setting offense to 0 afterwards, defense may be set to offense at any point in the round before attack damage is dealt by the character  
-#### 1.3.1.n Improved defensive whirl (0-3) 
+### 1.3.1.n Improved defensive whirl (0-3) 
 after using defensive whirl, add n to defense  
-##### 1.3.1.2.1 Divided attention 
+#### 1.3.1.2.1 Divided attention 
 only the offense for one short sword is set to 0 if multiple weapons are in use  
-##### 1.3.1.3.1 Shredding whirlwind 
+#### 1.3.1.3.1 Shredding whirlwind 
 enemy armor is damaged if defensive advantage > armor stability  
-###### 1.3.1.3.1.1 Improved Shredding 
+##### 1.3.1.3.1.1 Improved Shredding 
 enemy armor is damaged if defense score > armor stability  
-####### 1.3.1.3.1.1.1 Merciless Shredding 
+###### 1.3.1.3.1.1.1 Merciless Shredding 
 enemy armor is damaged if defensive advantage > 0  
-#### 1.3.2.n untouchable (0-10) 
+### 1.3.2.n untouchable (0-10) 
 for every round with no damage inflicted by or to the character while in close combat with an enemy, gather another charge. charges grant +1 offense. If the character hits an enemy or is dealt damage (even if reduced to zero by armor), the charges are expended.  
-##### 1.3.2.2.1 leap back 
+#### 1.3.2.2.1 leap back 
 two untouchable charges expended at any time, for the rest of the round, no free attacks (including attacks of opportunity) are permitted against the character  
-##### 1.3.2.6.1 The Zone 
+#### 1.3.2.6.1 The Zone 
 only a successfull weapon hit or receiving damage expends all charges, dealing damage via other meanes doesnt  
-###### 1.3.2.6.1.1 The Zen 
+##### 1.3.2.6.1.1 The Zen 
 only dealing damage to an enemy or enemy armor or receiving damage from a weapon hit expends all charges  
-##### 1.3.2.10.1 Execute 
+#### 1.3.2.10.1 Execute 
 when expending charges, advantage modifier +1 (usually to 2)  
 
+# Schleuder : Indirektes Feuer
+Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
+## Kurzschleudertraining:
+Nachladen ist eine Dauer 0 Freiphasenaktion, solange sich entsprechende Geschosse am Charakter befinden (nur für Kurzschleudern) und kann mit Feuern in der Selben Runde kombiniert werden.
+### Abprallender Schuss
+erlaubt das Reflektieren des Geschosses an Gegenständen. Einfallswinkel=ausfallswinkel, Treffschwierigkeit steigt um 1, Schaden wird halbiert.
+### Ablenkender Schuss
+ein Treffer, der komplett von Rüstung negiert wird, unterbricht als ob er 1 Punkt schaden angerichtet hätte. (nur für Kurzschleudern)
+#### Sturm 
+n:(1-5) erlaubt bis zu n Schleuder Angriffe pro Runde. Jeder Angriff senkt den Schaden aller diese Runde gefeuerten Geschosse um 1 und erhöht die Schwierigkeit um die Anzahl der Verschiedenen ziele)
+##### Schwirrender Sturm
+(angriff) Vorbereitete Geschosse lassen ein lautes Pfeiffen ertönen, während sie fliegen. Bis zum Ende der Freien Phase nächste Runde sind sämtliche Aktionen in Hörweite die auf länger als kurze Reichweite angewendet werden um 1 Erschwert (Kumulativ pro Geschoss). Charaktere die Schwirrender Sturm erwarten können eine Mut,Wahrnehmung Interpretation ihres Wurfes Durchführen. Wenn dieser wert höher ist als der Angriffswurf von Schwirrender Sturm, kann der Effekt Ignoriert Werden. Jede Runde unter dem Einfluss gibt einen +1 Bonus auf die Widerstandsinterpretation.
+##### Gefüllte Luft
+Jeder Teilangriff auf das selbe Ziel konsumiert den niedrigsten Würfel des Wurfes. Schaden ist beschränkt auf den Schaden des niedrigsten Treffers.
+## Langschleudertraining
+(1-5) +n*20% Schaden vor Rüstung. 
+### Schwirrendes Geschoss. 
+(angriff) Ein Vorbereitetes Geschoss lässt ein lautes Pfeiffen erklingen. Moralschaden.
 
   
 ___
