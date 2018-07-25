@@ -2,7 +2,7 @@ title: Waffen
 tags:   
 #Waffen
 |Waffe | Grundschaden | Vorteilsmultiplikator | Reichweite | Bemerkung |
-|---|---|---| ---|
+|---|---|---|---|---|
 |Kurzschwert| 6 | 1 | |   |  
 |Langschwert| 8 | 1 | |   |  
 |Dolch| 2 | 2 |  |   |  
@@ -14,4 +14,3 @@ tags:
 |Kurzschleuder| 0 | 1 |  |  Reload 1, Reichweite 10 |  
 |Langschleuder| 0 | 2 |  |  Reload 1, Reichweite 40, Schwierigkeit +2 |  
 |Nahkampf| 0 | 1 | |   |  
-
