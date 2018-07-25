@@ -7,7 +7,7 @@ tags:
 |Langschwert| 8 | 1 | 2 |   |  
 |Dolch|       2 | 2 | 0  |   |  
 |Hammer| 12 | 0 | 1 | Reload 3-KK |  
-|Kriegshammer | 18| 2 | 0  |  | Reload 5-KK |  
+|Kriegshammer | 18| 2 | 0  |  Reload 5-KK |  
 |Kampfaxt | 10 | 1 | 0 | -3 Def |
 |Großaxt | 15 | 1 | 1 | Reload 3-KK, -5 Def |
 |Kurzbogen| 8 | 1 | 20 |   Reload 1, Unterbrechbar|  
