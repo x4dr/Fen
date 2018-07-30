@@ -77,7 +77,6 @@ Jeder Teilangriff auf das selbe Ziel konsumiert den niedrigsten Würfel des Wurf
 (1-5) +n*20% Schaden vor Rüstung. 
 ### Schwirrendes Geschoss. 
 (angriff) Ein Vorbereitetes Geschoss lässt ein lautes Pfeiffen erklingen. Moralschaden.
-
 #Peitsche Todeswirbel:  
 während der wirbel aktiv ist, keine gezielten angriffe möglich
 (wenn du angegriffen wirst und mehr off hast als der angreifer def,
@@ -105,8 +104,15 @@ advantage über die defense des gegner behindert die aktion des gegners
 angriffe auf bewegungen   
 ####  
 angriffe auf aktionen innerhalb der reichweite 
+##unbeindruckter wirbel  
+Rüstung wird auf den verlust durch schaden bekommen angewendet   
+###unaufhaltsam Wirbel  
+Schaden bekommen senkt die offensivpunkte nurnoch maximal um 1    
+####Einschüchterne Verteidigung  
+advantage über die offence des gegners behindert ebenfalls die aktion des gegners
   
-    
+  
+  
   ___
 #Alte Konzepte/Zu verarbeiten  
 
