@@ -21,7 +21,7 @@ tags:
 # Anmerkungen
 
 ##Schadenstypen
-(sind möglichkeiten für was die waffe eingesetzt werden kann, erstmal unterscheiden sie nichts)[/wiki/damage]
+[sind möglichkeiten für was die waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](/wiki/damage)
 
 
 
