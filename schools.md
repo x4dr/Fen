@@ -27,7 +27,6 @@ Wie Riposte, Techniken können eingesetzt werden.
 (anstelle eines Angriffs:) Wenn noch kein Angriff erfolgt ist, Pariere.  
 ###1.3.2. Verbessertes Parieren: 
 (passiv) Parieren erhöht Defensive zusätzlich um 2  
-
 # Kurzschwert: Flurry 
 called in free phase (enemies may react) +1 offense, -1 defense  
 ## 1.1.n Secondary (0-5)
@@ -91,6 +90,15 @@ Attacks with both weapons suffer Complexity + (6-n)
 jeder angriff kostet 6-(1-5) offense  
 ###  Nachrücken (1-5)  
 (1-5) 2 meter/runde bewegung  
+##  maintain the offence  
+hälfte des gewürfelten wertes wird auf die übriggebliebene offense der letzten runde addiert 
+(maximum würfelwert, wenn der niedriger ist bleibt die offense übrig, 
+die runde vor der ersten runde der stance zählt offiziell als 0)
+###Unterdrückungsfeuer 1-3  
+1-3 behinderung für leute im feld  
+#### erdrückende Offensive
+advantage über die defense des gegner behindert die aktion des gegners  
+  
   
 ___
 #Alte Konzepte/Zu verarbeiten  
