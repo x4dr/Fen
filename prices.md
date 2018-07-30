@@ -14,7 +14,6 @@ tags:
 | Salz | 20c |  
 | Rindfleisch | 50c |
 | Butter/Käse | 30c |
-
 ---
 
 |Dinge| Preis pro Stück |
@@ -44,6 +43,7 @@ Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reicht�
 | Platte | 6 | 15-25 | 10-20 | 20g-100g | Nimmt schaden von Stumpfen Waffen |  
 | Vollplatte | 7 | 18-28 | 15-25 | 50g-200g| Nimmt schaden von Stumpfen Waffen |  
 | Schwere Platte | 8 | 20-30 | 18-28 | 100g-500g| Nimmt schaden von Stumpfen Waffen |  
-| Drachenpanzer | 9 |  25-35 | 20-30 | 300g-1000g +Drachenschuppen | Nimmt keinen Schaden von Magie |  
+| Drachenpanzer | 9 |  25-35 | 20-30 | 300g-1000g | Nimmt keinen Schaden von Magie |  
+|               |   |        |       |+Drachenschuppen ||
 | JuwelenRüstung  | 10 | 30 | 30 | 1000-5000g | dutzende verzauberungen möglich|   
 
