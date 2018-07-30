@@ -16,7 +16,6 @@ tags:
 | Butter/Käse | 30c |
 ---
 
-
 |Dinge| Preis pro Stück |
 | :---|---:|
 | Brot| 15c|
@@ -26,7 +25,9 @@ tags:
 | Schaf| 10s|
 | Schwein| 30 s|
 | Oxe/Rind| 50 s|
-| Schwert| 10s |
+| Bronze Schwert| 10s |  
+| Eisen Schwert| 1g |
+| Stahl Schwert| 10g |
 | Pferd | 5g-100g |  
 | 1km^2 Fruchtbares land | 1-2 g |
 
@@ -41,10 +42,12 @@ Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reicht�
 | Lamellar | 4| 12-20 | 5-15 |5-70g | |
 | Satz Kette, verstärkt | 5 | 12-20 | 12-15 | 10g-80g | |  
 | Schuppen | 3 | 12-20 | 12-15 |20g-150g | |
-| Platte | 6 | 15-25 | 10-20 | 20g-100g | Nimmt schaden von Stumpfen Waffen |  
-| Vollplatte | 7 | 18-28 | 15-25 | 50g-200g| Nimmt schaden von Stumpfen Waffen |  
-| Schwere Platte | 8 | 20-30 | 18-28 | 100g-500g| Nimmt schaden von Stumpfen Waffen |  
+| Platte | 6 | 15-25 | 10-20 | 20g-100g | Nimmt Schaden von Stumpfen Waffen |  
+| Vollplatte | 7 | 18-28 | 15-25 | 50g-200g| Nimmt Schaden von Stumpfen Waffen |  
+| Schwere Platte | 8 | 20-30 | 18-28 | 100g-500g| Nimmt Schaden von Stumpfen Waffen |  
 | Drachenpanzer | 9 |  25-35 | 20-30 | 300g-1000g | Nimmt keinen Schaden von Magie |  
 |               |   |        |       |+Drachenschuppen ||
 | JuwelenRüstung  | 10 | 30 | 30 | 1000-5000g | dutzende verzauberungen möglich|   
+| |  |  |  |  | Schaden von Stumpfen Waffen |    
+
 
