@@ -1,7 +1,6 @@
 title: Kampfschulen  
 tags:   
 [TOC]
-
 # Fechten : Flexibilität
  Für jede Runde kann entschieden werden zwischen (Offensiv +1 und Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.  
 ##1.1 Ausfall
@@ -81,6 +80,17 @@ Jeder Teilangriff auf das selbe Ziel konsumiert den niedrigsten Würfel des Wurf
 ### Schwirrendes Geschoss. 
 (angriff) Ein Vorbereitetes Geschoss lässt ein lautes Pfeiffen erklingen. Moralschaden.
 
+#Peitsche Todeswirbel:  
+während der wirbel aktiv ist, keine gezielten angriffe möglich
+(wenn du angegriffen wirst und mehr off hast als der angreifer def,
+machst du ihm schaden aber wie sonst, zählt als angriff und kostet 6 offense (nach schaden))
+##Secondary (0-5)  
+the wipe may be carried with in the offhand and is interpreted seperately from the attack with the main hand. 
+Attacks with both weapons suffer Complexity + (6-n)  
+###  aus dem Handgelenk (1-5)  
+jeder angriff kostet 6-(1-5) offense  
+###  Nachrücken (1-5)  
+(1-5) 2 meter/runde bewegung  
   
 ___
 #Alte Konzepte/Zu verarbeiten  
