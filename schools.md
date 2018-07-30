@@ -59,7 +59,6 @@ only a successfull weapon hit or receiving damage expends all charges, dealing d
 only dealing damage to an enemy or enemy armor or receiving damage from a weapon hit expends all charges  
 #### 1.3.2.10.1 Execute 
 when expending charges, advantage modifier +1 (usually to 2)  
-
 # Schleuder : Indirektes Feuer
 Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
 ## Kurzschleudertraining:
@@ -98,9 +97,17 @@ die runde vor der ersten runde der stance zählt offiziell als 0)
 1-3 behinderung für leute im feld  
 #### erdrückende Offensive
 advantage über die defense des gegner behindert die aktion des gegners  
+## Anschwingen  
+(1-5)*2 auf den startwert auf den in der ersten runde addiert wird
+###endloser Wirbel  
+1-5 auf offense-maximum für die stance  
+###  
+angriffe auf bewegungen   
+####  
+angriffe auf aktionen innerhalb der reichweite 
   
-  
-___
+    
+  ___
 #Alte Konzepte/Zu verarbeiten  
 
 1. Lunge:  move from short range into melee, consume target enemies combataction -1def, +1off  
