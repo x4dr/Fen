@@ -15,7 +15,6 @@ tags:
 | Rindfleisch | 50c |
 | Butter/Käse | 30c |
 ---
-
 |Dinge| Preis pro Stück |
 | :---|---:|
 | Brot| 15c|
@@ -26,7 +25,7 @@ tags:
 | Schwein| 30 s|
 | Oxe/Rind| 50 s|
 | Schwert| 10s |
-| Pferd | 5g |
+| Pferd | 5g-100g |
 | 1km^2 Fruchtbares land | 1-2 g |
 
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.
