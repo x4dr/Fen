@@ -100,9 +100,9 @@ advantage über die defense des gegner behindert die aktion des gegners
 (1-5)*2 auf den startwert auf den in der ersten runde addiert wird
 ###endloser Wirbel  
 1-5 auf offense-maximum für die stance  
-###  
+###don't move  
 angriffe auf bewegungen   
-####  
+####don't act  
 angriffe auf aktionen innerhalb der reichweite 
 ##unbeindruckter wirbel  
 Rüstung wird auf den verlust durch schaden bekommen angewendet   
@@ -110,7 +110,6 @@ Rüstung wird auf den verlust durch schaden bekommen angewendet
 Schaden bekommen senkt die offensivpunkte nurnoch maximal um 1    
 ####Einschüchterne Verteidigung  
 advantage über die offence des gegners behindert ebenfalls die aktion des gegners
-  
   
   
   ___
