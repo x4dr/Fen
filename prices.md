@@ -15,6 +15,8 @@ tags:
 | Rindfleisch | 50c |
 | Butter/Käse | 30c |
 ---
+
+
 |Dinge| Preis pro Stück |
 | :---|---:|
 | Brot| 15c|
