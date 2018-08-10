@@ -4,7 +4,6 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 Diebeszeichen: Treffpunkt & Mitternacht  
   
 &nbsp;  
@@ -143,9 +142,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |:---|----:|  
 |Aurisch Sprechen|3|  
 |Aurisch Lesen|3|  
-|Aurisch Schreiben|2|  
+|Aurisch Schreiben|3|  
 |Prekorisch Sprechen|3|  
-|Prekorisch Lesen|1|  
+|Prekorisch Lesen|3|  
 |Prekorisch Schreiben|0|  
 |Sentinisch Sprechen|M|  
 |Sentinisch Lesen|3|  
