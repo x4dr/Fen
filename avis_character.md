@@ -1,7 +1,5 @@
 title: Avis  
 tags: Avis  
-
-
 Name:  
 Alter:  
 Spezies:  
@@ -28,6 +26,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Wundheilung|0|  
 |Athletik|2|  
 |Zechen|2|  
+|Säbel|2|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -35,6 +34,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Tricks|1|  
 |Greifen|1|  
 |Schwingen|1|  
+|Fechten|5|  
   
 &nbsp;  
   
@@ -92,11 +92,15 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Lux|4|  
 |Impello|3|  
 |sisto|2|  
-|Fulgur|2|  
-|meta|2|  
+|Fulgur|3|  
+|meta|3|  
 |persona|3|  
-|tutela|2|  
+|tutela|3|  
 |Disruptio|3|  
+|Terra|0|  
+|Ignes|0|  
+|Lake of fire|1|  
+|Move earth|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -131,8 +135,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Wissen(Magie)|1|  
 |Strategie|0|  
 |Empathie|1|  
-|Wissen(Gebiet)|0|  
-  
+|Navigation|0|  
+|Philosophie|2|  
+    
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
@@ -167,7 +172,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Diplomatie|1|  
+|Diplomatie|2|  
 |Lügen|1|  
 |Stil|2|  
 |Einschüchtern|0|  
@@ -175,7 +180,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Handel|0|  
 |Empathie|0|  
 |Etiquette|0|  
-|Tratsch|0|  
+|Tratsch|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
