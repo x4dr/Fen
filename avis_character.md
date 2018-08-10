@@ -5,7 +5,6 @@ Alter:
 Spezies:  
 Charakterkonzept:  
 Diebeszeichen: Treffpunkt & Mitternacht  
-  
 &nbsp;  
   
 ##Stärke  
@@ -25,7 +24,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Wundheilung|0|  
 |Athletik|2|  
 |Zechen|2|  
-|Säbel|2|  
+|Säbel|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
