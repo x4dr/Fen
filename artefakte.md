@@ -18,7 +18,6 @@ Magischer Unsichtbarkeitskompass 2 fancyness
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
 /15/20
 Shadowstone 0/40/40
-
 Magisches Feuerzeug  9/15
 
 ####Pirate Loot
@@ -199,7 +198,7 @@ Erhöht AoE Effekte wenn geschwungen
 
 #### Magiergeschwisterloot
 
-Amulett Rot 12 
-Amulett Blau 12 
-Ring Rot 11 
-Ring Blau 18
+Amulett Rot 12 - nicht näher bestimmter Effekt auf gezauberte Zauber, verstärkt Feuer mit Feuer aus der Umgebung
+Amulett Blau 12 - nicht näher bestimmter Effekt auf gezauberte Zauber
+Ring Rot 11 - Magiespeicher (7/?/?), selbstaufladend (Quelle:?)
+Ring Blau 18 - Magiespeicher (7/50/80), selbstaufladend (Ring Rot Ausgabe: 1)

@@ -1,10 +1,12 @@
 title: Avis  
 tags: Avis  
+
+
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-Diebeszeichen: Treffpunkt & Mitternacht  
+  
 &nbsp;  
   
 ##Stärke  
@@ -135,7 +137,8 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Empathie|1|  
 |Navigation|0|  
 |Philosophie|2|  
-    
+|Wissen(Gebiet)|0|  
+  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
@@ -214,9 +217,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
   
 &nbsp;  
 total point costs Schicksal: 105  
-total point costs Magie: 200  
+total point costs Magie: 222  
 total point costs Können: 139  
-total point costs Charisma: 105  
-total point costs Stärke: 39  
-total point costs Weisheit: 129  
-total point costs: 717  
+total point costs Charisma: 120  
+total point costs Stärke: 59  
+total point costs Weisheit: 153  
+total point costs: 798  
