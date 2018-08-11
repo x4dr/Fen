@@ -10,7 +10,6 @@ tags: items
 |---------|-----|
 |39.450,5G|übrig|
 ###Eisenbach 270 EW
-
 Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
 ###Siedlung Vernal 36 EW
@@ -47,7 +46,7 @@ Söldner 25 (wilderer-banditen)
 |Serisem-Legierung|40|0,10 kg|4,00 kg||
 
 
-###
+###Gruppengeld
 |:--|---|
 |+36,3|Verkauf v. Gambeson|
 |-2,83G|Rüstungsreparatur|
