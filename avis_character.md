@@ -1,7 +1,5 @@
 title: Avis  
 tags: Avis  
-
-
 Name:  
 Alter:  
 Spezies:  
