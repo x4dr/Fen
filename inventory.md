@@ -16,7 +16,6 @@ Söldner 25 (wilderer-banditen)
 30 Holz (20arbeiter 10 familie)
 5 Wilderer Wächter
 1 Argyrier Wächter
-
 ###Inselinventar
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
 |:--|---|---|---|
@@ -46,6 +45,7 @@ Söldner 25 (wilderer-banditen)
 
 
 ###Gruppengeld
+|Goldmenge|Grund|
 |:--|---:|
 |+36,3|Verkauf v. Gambeson|
 |-2,83G|Rüstungsreparatur|
