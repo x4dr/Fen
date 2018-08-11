@@ -8,8 +8,7 @@ tags: items
 |-300G|Spesen für die Gruppe|
 |-9,5G|Vernal-Kolonisten|
 |---------|-----|
-|39.540,5G|übrig|
-
+|39.450,5G|übrig|
 ###Eisenbach 270 EW
 
 Söldner 25 (wilderer-banditen)
@@ -46,3 +45,12 @@ Söldner 25 (wilderer-banditen)
 |Silber|5|1,00 kg|5,00 kg||
 |Bronze Barren|19|1,00 kg|19,00 kg|3S|
 |Serisem-Legierung|40|0,10 kg|4,00 kg||
+
+
+###
+|:--|---|
+|+36,3|Verkauf v. Gambeson|
+|-2,83G|Rüstungsreparatur|
+|-6G|Sindgunth|
+|--------|---|
+27,47G
