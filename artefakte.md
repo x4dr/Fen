@@ -21,7 +21,6 @@ Shadowstone 0/40/40
 Magisches Feuerzeug  9/15
 ####Pirate Loot
 (ID 9)
-
 ##### Amulett 1
 0/10/?
 Volume up
@@ -202,6 +201,6 @@ Amulett Blau 12 - nicht näher bestimmter Effekt auf gezauberte Zauber
 Ring Rot 11 - Magiespeicher (7/?/?), selbstaufladend (Quelle:?)
 Ring Blau 18 - Magiespeicher (7/50/80), selbstaufladend (Ring Rot Ausgabe: 1)
 
-####
+####Burgloot
 Kompass (10) - Leicht magisch
 Karte (19)- Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. Kompass kann helfen zu dem X auf der Karte zu finden
