@@ -14,7 +14,6 @@ Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
 ###Siedlung Vernal 36 EW
 30 Holz (20arbeiter 10 familie)
-
 5 Wilderer Wächter
 1 Argyrier Wächter
 
@@ -47,7 +46,7 @@ Söldner 25 (wilderer-banditen)
 
 
 ###Gruppengeld
-|:--|---|
+|:--|---:|
 |+36,3|Verkauf v. Gambeson|
 |-2,83G|Rüstungsreparatur|
 |-6G|Sindgunth|
