@@ -15,7 +15,6 @@ tags:
 | Rindfleisch | 50c |
 | Butter/Käse | 30c |
 ---
-
 |Dinge| Preis pro Stück |
 | :---|---:|
 | Brot| 15c|
@@ -34,7 +33,7 @@ tags:
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.
 
 |Rüstung| Hemnis | Schutz | Stabilität | Preis Pro Punkt | Anmerkung |  
-| :---|---:|---:|---:|---:|---:| ---:|   
+| :---|---:|---:|---:|---:|---:|   
 | Alltagskleidung| 0| 0-3 | 0 | ~ 1 s | Nicht auf Schutz ausgelegt |   
 | Gambeson | 1 | 5-15 | 3-5 | 15s | |  
 | Brigandine | 2 | 7-12 | 7-9 | 50s |  |  
