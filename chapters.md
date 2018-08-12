@@ -24,3 +24,19 @@ Nyxico | 10
 Inselerkunden (various) | 32  
 Piratenkampf 2 | 10  
 ==> 72
+## Kapitel 8 - Denkt den Keiner an die Kinder
+Sozialleben in Seegard 5
+Waisenhaus vor der Oberin Gerettet 10
+Nytanis Rache 15
+==> 30
+## Kapitel 9 - Zusammenarbeit
+Reise zum Falkensee 5
+Burg ausgespäht 5
+Diebstahl 5
+BanditenKampf 5
+Belagerung 5
+Inter-Helden-Diplomatie 10
+Schatzsuche und Tanasfest 10
+==> 45
+
+
