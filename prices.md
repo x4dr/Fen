@@ -30,7 +30,11 @@ tags:
 | Pferd | 5g-100g |  
 | 1km^2 Fruchtbares land | 1-2 g |
 
-Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.
+
+
+Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.   
+
+
 
 |Rüstung| Hemnis | Schutz | Stabilität | Preis Pro Punkt | Anmerkung |  
 | :---|---:|---:|---:|---:|---:|   
