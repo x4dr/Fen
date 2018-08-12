@@ -18,7 +18,6 @@ Fire
 2.2.1.1.1 enhanced mark of flame (bestows enhanced fire protection)  
 2.2.1.1.1.1 greater mark of flame (bestows enhanced fire protection and flame proof)  
 2.2.1.1.1.1.1 mark of flame (bestows fire proof and flame proof)  
-  
 3 hot blood (after taking damage, gain bonus magical armor for the amount of damage taken, decaying by 1 per round)  
 3.1 goad (action to instantly make target that hit the character clash again, damage taken will instead by added to the shield. once per day)  
 3.1.n fiery tongue (n extra goads per day)  
@@ -58,9 +57,10 @@ Feuerpfad, feuer beeinträchtigt Sicht nicht
 
 ###Der Grüne Pfad:
 Pflanzen wachsen nur bis zu einem natürlichen "Erwachsenen" zustand
-Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Kilogramm
+Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.04(Bonus LP)² Kilogramm
 
-####1 Grüner Daumen - Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
+####1 Grüner Daumen 
+Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
 1.1 Rhytmus der Jahreszeiten - eine Woche in engem Kontakt mit einer Pflanze führt zu einem  Jahreswachstum  
 1.1.1 Einflüsterung der Form - Eine berührte Pflanze formt einen Gegenstand aus ihrem eigenen Material während ihres zukünftigen Wachstums   
 1.1.2 Takt der Jahreszeiten - Rhytmus der Jahreszeiten dauer 1 tag  
@@ -76,17 +76,18 @@ Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.5 Ki
 1.1.3.1 Kallus - Während der Wundheilung verwachsen Wunden mit Holz, Solange unverschlossene Wunden existieren +1 Lebenspunkt pro 8-Wundheilung Tage (Wundheilung 8+ -> 24/2^(Wundheilung-7) h),  jeder dieser Lebenspunkte "verschließt" einen Wundpunkt der niedrigsten Wunde: die Wunde kann nicht unter den wert der verschlossenen Punkte fallen   
 1.1.3.1.1 Kambium - Jedes mal wenn Kallus nicht auslöst, weil keine unverschlossenen Wunden vorhanden sind kann ein verschlossener Wundpunkt und der dazugehörige Bonuslebenspunkt freigegeben und geheilt werden.  
 1.1.3.2 Hartholz - Anzahl der Bonuslebenspunkte geteilt durch 10 ist Bonusrüstung  
-1.1.3.3 Starkholz - Tragekapazität steigt um 0.25 kg pro Bonuslebenspunkt  
-1.1.3.3.1  Massivholz - Tragekapazität steigt um zusätzliche 0.2 kg pro Bonuslebenspunkt  
-1.1.3.3.1.1 Baumriese - Tragekapazität steigt um zusätzliche 0.15 kg pro Bonuslebenspunkt  
+1.1.3.3 Starkholz - Tragekapazität steigt um 50% des Gewichtes durch Bonuslebenspunkte  
+1.1.3.3.1  Massivholz - Tragekapazität steigt um zusätzliche 40% des Gewichtes durch Bonuslebenspunkte
+1.1.3.3.1.1 Baumriese - Tragekapazität steigt um zusätzliche 15% des Gewichtes durch Bonuslebenspunkte
 1.2 Kraut ergrünen - Aktion - +2 auf Verwendung von Kräutern innerhalb der nächsten 6 Stunden  
 1.2.1 direkte Anwendung - durch das direkte Auflegen von Kräutern und Gegendrücken der Hände kann ein  Kraut sofort und mit nur einem Kräuterkunde Wurf angewendet werden.  
 
   
-####2 Waldhoheit - keine erhöhten Komplexitäten durch Vegetation  
+####2 Waldhoheit 
+ keine erhöhten Komplexitäten durch Vegetation  
 2.1 Schutz des Waldes +2 def in der Nähe von großen mengen Vegetation  
 2.1.1 Rüstung des Waldes - +2 Rüstung Wenn Schutz des Waldes Aktiv ist  
-2.2. Grüne Verschmelzung - Verschmelzung mit lokaler Vegetation +8 auf alle versteck und ähnliche  würfe, solange der Suchende nicht weiß wie der Ort normalerweise aussieht und der charakter keine Aktionen unternimmt die Bewegung beinhalten, sonst nur +2  
+2.2. Grüne Verschmelzung - Verschmelzung mit lokaler Vegetation +8 auf alle versteck und ähnliche  würfe, solange der Suchende nicht weiß wie der Ort normalerweise aussieht und der charakter keine Aktionen unternimmt die Bewegung beinhalten, sonst nur +2, Charakter darf nur höchstens 50% der Masse der Vegetation beitragen  
 2.2.1 Kriechranken - Schleichbonus +5 bei Bewegung, wenn geschlichen wird und grüne Verschmelzung Aktiv ist.   
 2.2.2.n Harmonische Symbiose - Aktion - Wundheilung +n solange grüne Verschmelzung aktiv ist. Danach -n außerhalb harmonischer Symbiose auf alle Aktionen. +1 pro Tag bis der Malus negiert ist.  
 2.2.1.1 Wurzeltransport - Wenn die Wurzelsysteme zweier Pflanzen deren Masse jeweils größer als die des Charakters ist, sich berühren, kann der Charakter während Grüner Verschmelzung in der Zeit die normaler Transport benötigen würde ungesehen durch die Wurzelsysteme Reisen und mit der anderen Pflanze lokal grünverschmolzen auftauchen. Der Charakter ist innerhalb von 3 Runden von der ersten Pflanze verschwunden und baut sich innerhalb von 3 runden an der anderen Pflanze auf, Parallel wenn nötig.   
