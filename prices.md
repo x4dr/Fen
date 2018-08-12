@@ -16,7 +16,6 @@ tags:
 | Butter/Käse | 30c |
 ---
 
-
 |Dinge| Preis pro Stück |
 | :---|---:|
 | Brot| 15c|
@@ -34,14 +33,14 @@ tags:
 
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.
 
-|Rüstung| Hemnis | Schutz | Stabilität | Preis Pro Punkt | Anmerkung | 
-| :---|---:|---:|---:|---:|---:| ---:|  
-| Alltagskleidung| 0| 0-3 | 0 | ~ 1 s | Nicht auf Schutz ausgelegt |  
-| Gambeson | 1 | 5-15 | 3-5 | 50s-5g | 15s | |  
+|Rüstung| Hemnis | Schutz | Stabilität | Preis Pro Punkt | Anmerkung |  
+| :---|---:|---:|---:|---:|---:| ---:|   
+| Alltagskleidung| 0| 0-3 | 0 | ~ 1 s | Nicht auf Schutz ausgelegt |   
+| Gambeson | 1 | 5-15 | 3-5 | 15s | |  
 | Brigandine | 2 | 7-12 | 7-9 | 50s |  |  
 | Satz Kette, einfach | 3 | 10-18 | 10-15 | 75s | |  
 | Lamellar | 4| 12-20 | 5-15 | 90s | |
-| Satz Kette, verstärkt | 5 | 12-20 | 12-15 | 1.5g |4.5| |  
+| Satz Kette, verstärkt | 5 | 12-20 | 12-15 | 1.5g | |  
 | Schuppen | 3 | 12-20 | 12-15 | 2.5g | |
 | Platte | 6 | 15-25 | 10-20 | 4g | Nimmt Schaden von stumpfen Waffen |  
 | Vollplatte | 7 | 18-28 | 15-25 | 6g| Nimmt Schaden von stumpfen Waffen |  
