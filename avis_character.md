@@ -1,11 +1,12 @@
 title: Avis  
 tags: Avis  
-
-
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
+
+Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
+Diebeszeichen: Treffpunkt & Mitternacht 
   
 &nbsp;  
   
