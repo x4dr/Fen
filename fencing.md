@@ -2,29 +2,51 @@ title: Fechten
 tags:   
 #Fechten
 Alle Vorteile sind nur mit der Entsprechenden Waffe einzusetzen.
-#Flexibilität (1, O, Waffe 1)
- Für jede Runde kann entschieden werden zwischen (Offensiv +1, Defensiv -1), (Offensiv -1, Defensiv +1). Dies ist eine Aktion, nach dem Ausführen erhält der Character eine weitere die getrennt abgehandelt wird.  
-##1.1 Ausfall
- bis zu 3 (extra) meter Bewegung und dann Nahkampfteilnahme  
-###1.1.1 Aggressiver Ausfall 
- wie Ausfall, erhöht Offensivwert um 2 und senkt Defensive um 3  
-####1.1.1.1 Ablenkungsschlag: 
-Kein Schaden wird verursacht, gegnerische Offensive wird um Vorteil gesenkt.   
-## 1.2.n Fechtstellung[10]: 
-Offensivwert für Reihenfolgefeststellung ist um n erhöht.  
-####1.2.3.1 Finte: 
-(zu jedem Zeitpunkt in der Kampfphase anwendbar) Senkt Offensive und Defensive um 1, ändere Technik oder Ziel.  
-####1.2.5.1 Serie[10]: 
-Die Länge der Aktuellen Serie von aufeinanderfolgenden Angriffen (maximum n) wird als Schadensbonus auf erfolgreiche Angriffe angewendet.  
-##1.3 Parieren: 
-Kein Angriff Möglich, +2 Defensive  
-####1.3.1 Geduld: 
+##1 Flexibilität (1, O, Beliebige Schwertartige Waffe 1, 1)
+(passiv) Für jede Runde kann vor den Würfen entschieden werden zwischen (Offensiv +1, Defensiv -1), (Offensiv -1, Defensiv +1).
+##1.1 Ausfall (1, A, 1O, 1 )
+(Technik) bis zu 3 (extra) meter Bewegung und dann Nahkampfteilnahme, keine freien Angriffe für die extra Bewegung 
+##1.1.1 Aggressiver Ausfall (2, A, 1A, 2)
+(Technik) wie Ausfall, erhöht Offensivwert um 2, erhöht extra Bewegung um 7m und senkt Defensive um 3  
+##1.1.1.1 Ablenkungsschlag: (3, A, 2A, 2)
+(Technik)Kein Schaden wird verursacht, gegnerische Offensive wird um Vorteil gesenkt.   
+## 1.2.n Fechtstellung[10]: (n/2, B, 1O, 1) 
+(passiv) Offensivwert für Reihenfolgefeststellung ist um n erhöht.  
+##1.2.3.1 Finte: (2, B, 3B, 1)
+(reflexiv) Senkt Offensive und Defensive um 1, ändere Technik oder Ziel.   
+##1.2.5.1 Serie[10]: (3, B, 5B, 1)
+(passiv)Die Länge der Aktuellen Serie von aufeinanderfolgenden Angriffen (maximum n) wird als Schadensbonus angewendet.  
+##1.3 Parieren: (1, C, 1F, 1)
+(Technik)Kein Angriff Möglich, +2 Defensive  
+##1.3.1 Geduld: (2, C, 1C, 1)
 (passiv) Wenn gegen keinen Angriff verteidigt wurde: +1 Offensive in der Nächsten Runde.  
-####1.3.1.1 Riposte: 
-(passiv) Wenn der erste Angreifer einer Runde geblockt wird, kann dieser mit einem normalen Angriff angegriffen werden.   
-######1.3.1.1.1 Verbesserte Riposte: 
-Wie Riposte, Techniken können eingesetzt werden.  
-#####1.3.1.2 Spontanes Parieren: 
-(anstelle eines Angriffs:) Wenn noch kein Angriff erfolgt ist, Pariere.  
-###1.3.2. Verbessertes Parieren: 
-(passiv) Parieren erhöht Defensive zusätzlich um 2  
+##1.3.1.1 Riposte: (3, D, 2C, 2)
+(passiv) Wenn der erste Angreifer einer Runde 0 oder weniger Vorteil hat, kann dieser mit einem normalen Angriff angegriffen werden.   
+##1.3.1.1.1 Verbesserte Riposte: (4, D, 1D, 1)
+Wie Riposte, Techniken können während des Angriffs eingesetzt werden.  
+##1.3.1.2 Spontanes Parieren: (3, D, 2D3C, 1)
+(anstelle eines Angriffs) Wenn noch kein Angriff erfolgt ist, Pariere.  
+##1.3.2 Verbessertes Parieren: (2, C, 1C, 3) 
+(passiv) Parieren erhöht Defensive zusätzlich um 2 gegen den ersten Angriff in einer Runde
+##2 Rapier (1, E, Rapier 1, 1)
+(passiv) In einem 1 gegen 1 Kampf steigt die Gegnerische Schwierigkeit um 1
+##2.1 Stich (2, E, 1E, 1)
+(passiv) Rapierschaden ist [Stichschaden](damage#p-stechen)
+##2.1.1 Schwirrende Klinge (3, E, 2E, 1)
+(reflexiv) senkt defensive um 1 und verhindert alle weiteren reflexiven Aktivierungen von Fähigkeiten in dieser Konfrontation
+##2.1.1.1 Herzsucher (4, E, 3E, 2)  
+(Technik) erhöht offensive um 4, senkt defensive um 4, senkt gegnerische Offensive um Angerichteten Schaden
+##2.1.1.1.1 Lösen (5, E, 4E, 2)
+(reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Charakter anzugreifen. Nächste Runde Offensive +3, Defensive -4
+##3 Säbel (1, F, Säbel 1, 1)
+(passiv) der säbel kann in der selben Runde gezogen werden und angreifen, Erhöhte Schwierigkeiten durch Situationen werden um 2 gesenkt.
+##3.1 Schnitt (2, F, 1F, 1) 
+(passiv) Säbelschaden ist [Schnittschaden](damage#c-schneiden)
+##3.1.1 Passieren (3, F, 2F,1)
+(passiv) Angegriffene Gegner bekommen keine Freie Attacke gegen den Charakter wenn er sich bewegt
+##3.1.1.1 Eintausend Schnitte(4, F, 3F, 1)
+(Technik) Offensive +5, nächste Runde Offensive -4, für alle *vollen* 3 Punkte Effektiven Schadens wird **stattdessen** eine 1 punkte Wunde ausgelöst.
+##3.1.1.1.1 Säbelwirbel (5, F, 4F, 1)
+(Technik) Greift bis zu 4 Ziele in Reichweite an
+##4 Anderthalbhänder
+###tbc
