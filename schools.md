@@ -10,7 +10,7 @@ Code hinter Fahigkeitsname (da wo er eingeführt wurde) ist:
 * Bedingungen: Bedingungen die erfüllt werden müssen. Zahl und Linie bedeutet, dass so viele Fähigkeiten aus der selben Linie gelernt sein müssen, bevor dieser Vorteil gelernt werden kann. 
 
 # Fechten 
-[/wiki/fencing](Fechten)  
+[Fechten](fencing)  
 konzentriert sich auf flexibilität und Kontrolle
 # Kurzschwert: Flurry 
 called in free phase (enemies may react) +1 offense, -1 defense  
