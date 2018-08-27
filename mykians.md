@@ -1,10 +1,9 @@
 title: Mykier  
 tags:   
 Regelideen zu mykiern
-
 #zur zeit noch scrapbook
 
-mobile Mykier haben ein extra Attribut, dass ihnen <Modulslots> gibt, plus Vorteile die weitere modulslots unter gewissen Konditionen geben und eine homebase die neue mobile Mykier ausbilden kann.  
+mobile Mykier haben ein extra Attribut, dass ihnen Modulslots gibt, plus Vorteile die weitere modulslots unter gewissen Konditionen geben und eine homebase die neue mobile Mykier ausbilden kann.  
 Mobile Mykier sind so komplex und schwer herzustellen, dass eine homebase sehr selten mehr als einen mobilen mykier losschickt  
   
 ##balance ideas:
