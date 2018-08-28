@@ -2,7 +2,6 @@ title: Mykier
 tags:   
 Regelideen zu mykiern
 #zur zeit noch scrapbook
-
 mobile Mykier haben ein extra Attribut, dass ihnen Modulslots gibt, plus Vorteile die weitere modulslots unter gewissen Konditionen geben und eine homebase die neue mobile Mykier ausbilden kann.  
 Mobile Mykier sind so komplex und schwer herzustellen, dass eine homebase sehr selten mehr als einen mobilen mykier losschickt  
   
@@ -33,9 +32,11 @@ Mykorrhiza (Pflanzensymbiose, erhöht Biomassenproduktion)
 --> Hydrolyze (Bessere Verarbeitung von hochenergetischer Biomasse)  
 --> Landwirtschaft (aktiver Anbau von Pflanzen und Tieren)
 Saprophytismus (Totes Organisches Material, erlaubt konsumption von niedrigenergetischer Biomasse)  
+--> Fäulnis (weniger stealth, mehr biomasse)
 Steinzersetzung (erlaubt extraktion von in der Region vertretenen Metallen)  
 Tauschfläche (erlaubt stetigen, langsamen austausch mit anderen, benachbarten Mykiern oder alchemischen Konstrukten)  
 -->Marktfläche (erlaubt austausch von Material in großen Schüben, in der selben rate)  
+Waffen (erlaubt angriffe, 1 bp = 1/1 5dmg, +1bp pro extra punkt je kategorie)
 Rezeptoren (Chemisch, auto biologisch/mechanisch, mechanisch, optisch, akustisch, usw)  
 Ganglion (jedes davon braucht ressourcen um etabliert zu werden und zu wachsen, sind groß und produzieren abwärme) 
 Schnellere Nervenbahnen (0.5m/min ist gratis, dann folgen 2,10, 60, 120, 180, 240 m/minute jeweils zwischen zwei ganglien, für jeweils 1bp/upgrade, 1 woche zum upgraden, 1 monat zum downgraden, pro stufe )
