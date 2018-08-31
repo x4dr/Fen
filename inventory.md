@@ -10,6 +10,7 @@ tags: items
 |---------|-----|
 |39.450,5G|übrig|
 ###Eisenbach 270 EW
+1 Satz extrem harte Holzknochen vom Fichtenschwein  
 Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
 1 Kutscher+Familie
@@ -41,7 +42,6 @@ Söldner 25 (wilderer-banditen)
 |Silber|5|1,00 kg|5,00 kg||
 |Bronze Barren|19|1,00 kg|19,00 kg|3S|
 |Serisem-Legierung|40|0,10 kg|4,00 kg||
-
 
 ###Gruppengeld
 |Goldmenge|Grund|
