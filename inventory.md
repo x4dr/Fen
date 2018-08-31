@@ -9,9 +9,11 @@ tags: items
 |-9,5G|Vernal-Kolonisten|
 |---------|-----|
 |39.450,5G|übrig|
+
 ###Eisenbach 270 EW
 Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
+1 Kutscher+Familie
 ###Siedlung Vernal 36 EW
 30 Holz (20arbeiter 10 familie)
 5 Wilderer Wächter
@@ -24,7 +26,6 @@ Söldner 25 (wilderer-banditen)
 |Abhandlung über Glashandwerk (aurisch, 35P,  Komplexität +2)|1|5,00 kg|5,00 kg|
 |Abhandlung über Werkstattkomplex (aurisch, 50P, Komplexität +2)|1|5,00 kg|5,00 kg|
 |Vernalische Riten des Sohark (aurisch, 35P, Komplexität +2)|1|5,00 kg|5,00 kg|
-
 ###Gruppeninventar
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
 |:--|---|---|---|
