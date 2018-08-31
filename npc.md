@@ -3,7 +3,6 @@ tags:
   VORAGE der meisterkoch (ehem VORAGE der barbar, VORAGE drachentöter, VORAGE ohnegnade, VORAGE der mächtige)  
 moruhin der kauzige und oris der mysteriöse kater  
 mathilda die abenteurergildenempfangsdame  
-
 odilia die nähpartnerin von yarat  
 
 nysgaris der lord magister von seegard  
@@ -23,3 +22,5 @@ Nyxico - Der wohl älteste Aurier
 Nytani - Mysteriöse Oberin des Waisenhauses und Priesterin der Ilargia mit einer beglichenen Rechnung
 
 Taiem - Mysteriöser Wohlgekleideter Herr aus einer der teureren Tavernen Seegards.
+
+Yamal - Herr des Dunkelwaldes (banditlord zwischen der stillen stadt und Trarora)
