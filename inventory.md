@@ -9,7 +9,6 @@ tags: items
 |-9,5G|Vernal-Kolonisten|
 |---------|-----|
 |39.450,5G|übrig|
-
 ###Eisenbach 270 EW
 Söldner 25 (wilderer-banditen)
 +1 Kiel (ex-glänzender)
@@ -51,5 +50,6 @@ Söldner 25 (wilderer-banditen)
 |+36,3|Verkauf v. Gambeson|
 |-2,83G|Rüstungsreparatur|
 |-6G|Sindgunth|
+|-2G/y|Kutscher|
 |--------|---|
 27,47G
