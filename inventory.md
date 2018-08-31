@@ -32,7 +32,6 @@ Söldner 25 (wilderer-banditen)
 |Goop-generator|1|5,00 kg|5,00 kg|				
 |Bronzeknöpfe|100|0,00 kg|0,20 kg|
 |Pfeilspitzen (Bronze)|30|0,01 kg|0,30 kg|
-
 ###Burginventar
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|Einzelwert|
 |:--|---|---|---|---|
