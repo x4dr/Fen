@@ -18,7 +18,9 @@ Wissen in die falschen Hände fallen lassen, Wissen Missbrauchen.
 
 ####Segen:  
 Ateph hilft manchmal bei dringenden Fragen weiter, Schützt vor Feuer (vor allem Wissen) oder entzündet Bedrohungen für den Gelehrten. Zu häufiges oder ungeschicktes Fragen kann auch zu Vergesslichkeit oder Feuer für den Betenden führen.
+  
 ____
+  
 ##Fobif
 
 Gott des Tumultes und des Schlachtenlärms, hat eine hohe Eigenmeinung.
@@ -36,8 +38,12 @@ Direkte Gewalt ausüben und Chaos verursachen
 Hinterlistigkeit, Irreführung
 ####Segen  
 Verschonung vor Ernsthaften Verletzungen, Gewaltausbrüche auslösen, Chaos und Verwirrung Stiften, Anwendung der Fobifschen Prinzipien auf Umstehende.
-
+####Fluch
+Spontaner Ausbruch von Chaos und Unordnung.
  
+  
+____
+  
 ##Der Glänzende
 
 Gott des Rechts, der Reinheit, Strahlender Gott der Menschheit
@@ -57,14 +63,38 @@ Recht und Ordnung verbreiten, das Gesetz durchsetzen, Reinheit beschützen, Ehre
 sich der Ordnung wiedersetzen, Chaos stiften, Reinheit beschmutzen, Zivilisation bekämpfen
 #### Segen
 Wissen über Missetaten, eine Aura von Ruhe und Besinnung, Göttliche Heilung, Stärke, Willenskraft, Schutz vor Magie, Schutz vor Fernkampf
+#### Fluch
+schlechtes Gewissen
 
+  
+____
+  
 ##Ilargia
 
-Göttin der Tiefen, Mysterien, des Mondes, der Toten und der Vorhersagung
+Göttin der Tiefen, Mysterien, des Mondes, des natürlichen Kreislaufes, der Toten und der Vorhersagung
+
+### Philosophie
+Wiederkehrende Verlässlichkeit und Gewissheit erhält erst durch Unerkennbarkeit und Unwissbarkeit einen Sinn.
+
+###Anhänger
+Vereinzelte Sekten, Mystiker, Hexen, stark mit ihrer Weiblichkeit verbundene Frauen, Melancholiker, Medien
+
+###Gunst
+#### Pool
+Monatliche Durchführung von Riten bei einem Schrein -> Minimum von Stufe des Schreins und Stufe der Bindung.
+#### Huldigen
+Die Welt Mysteriös halten, Verstehen, einsame Orte aufsuchen, die Toten Ehren, Behinderungen natürlicher Kreisläufe entgegenwirken, die Tiefen suchen
+#### Verärgern
+Sich den Natürlichen Kreisläufen Widersetzen, tiefes Wasser aufwühlen, Demystifizierung, die Suche aufgeben
+#### Segen
+Einblicke, Wasser, Tiefen, Kreisläufe an einen Punkt ihres Kreislaufes setzen, Eingriffe
+#### Fluch
+Wasser, Eingriffe ins Schicksal, wichtige ungelöste Mysterien
+
 
 ##Tanas
 
-Apokryphische Göttin von Fruchtbarkeit/Wohlstand, ausgewichen auf geänderte geisteszustände, loyalität
+Apokryphische Göttin von Fruchtbarkeit/Wohlstand und Loyalität, Durch ihre Herabwerfung ausgewichen auf geänderte Geisteszustände und Wahn
 
 
 ### Philosophie
