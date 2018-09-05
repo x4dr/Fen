@@ -1,7 +1,6 @@
 title: Götter  
 tags:   
 [TOC]
-
 ##Ateph
 Gott des Wissen und des Feuers in der Gestalt einer brennenden Bibliothek, deren labyrinthischen Gänge sich in alle Ewigkeiten Erstrecken. Funken und zu Asche werdende Buchseiten schweben durch die Luft, doch scheinen die Bücher nie auszugehen. 
 ###Philosophie
@@ -121,6 +120,22 @@ Aufgeben, sich Abfinden
 Glückliche Fügungen, Hals-aus-der-Schlinge Ziehen, Anweisungen in Träumen
 #### "Fluch"
 Ruf ins Abenteuer
+
+## Okysa
+Göttin der Verschlingung. Im Sinne von Mehrfachbedeutung und Konsumption. Intrigen, mehr oder weniger komplexe Rätsel, deren Auflösung, Opfergaben und deren Lohn. 
+### Philosophie
+Manchmal sind zwei Seiten einer Münze nicht genug.
+###Anhänger
+Limas, Intriganten, Mystiker, Rätselsteller, Fallenbauer, Opferbereite, Auflösung Suchende, Verstrickung Suchende.
+### Gunst
+#### Huldigen
+Komplexe Pläne mit vielen beweglichen Teilen, Stellen oder Lösen von Rätseln, Unerwartete Verwindungen/Lösungen, Opfer
+#### Verärgern
+Brachialität, Direktheit
+#### Segen
+Hinweise, mehr Rätsel, Erfolg
+#### Fluch
+Komplikationen, mehr Rätsel, Misserfolg
 
 
 ##Krahoz
