@@ -18,7 +18,7 @@ Wissen in die falschen Hände fallen lassen, Wissen Missbrauchen.
 
 ####Segen:  
 Ateph hilft manchmal bei dringenden Fragen weiter, Schützt vor Feuer (vor allem Wissen) oder entzündet Bedrohungen für den Gelehrten. Zu häufiges oder ungeschicktes Fragen kann auch zu Vergesslichkeit oder Feuer für den Betenden führen.
-
+____
 ##Fobif
 
 Gott des Tumultes und des Schlachtenlärms, hat eine hohe Eigenmeinung.
