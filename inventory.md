@@ -42,7 +42,6 @@ Söldner 25 (wilderer-banditen)
 |Silber|5|1,00 kg|5,00 kg||
 |Bronze Barren|19|1,00 kg|19,00 kg|3S|
 |Serisem-Legierung|40|0,10 kg|4,00 kg||
-
 ###Gruppengeld
 |Goldmenge|Grund|
 |:--|---:|
@@ -50,5 +49,6 @@ Söldner 25 (wilderer-banditen)
 |-2,83G|Rüstungsreparatur|
 |-6G|Sindgunth|
 |-2G/y|Kutscher|
+|8,2G|3-Brüder-Loot|
 |--------|---|
 27,47G
