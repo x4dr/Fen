@@ -1,11 +1,13 @@
-title: Städte
-tags: 
-
+title: Städte  
+tags:   
 ##Seegard
 Große Prekorische Handelsstadt am Fluss Aschan, Seegard
 
 ## Worograd
 Stadt an der Handelsstraße von Seegard nach Limasu
+
+## Okarun und Nurako
+Die Gespaltene Stadt, Nord/Südteil respektiv
 
 ## Limasu
 Gebirgsstadt auf der anderen seite des Gebirges, Krieg mit Seegard
