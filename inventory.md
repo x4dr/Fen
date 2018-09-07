@@ -51,4 +51,4 @@ Söldner 25 (wilderer-banditen)
 |-2G/y|Kutscher|
 |8,2G|3-Brüder-Loot|
 |--------|---|
-27,47G
+35,67G
