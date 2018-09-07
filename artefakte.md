@@ -1,6 +1,6 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 14/25  
+unsichtbarkeitsring (11-x safeempty) 7/25  
 Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
@@ -30,7 +30,6 @@ Water healing
 ##### Amulett 3
 0/20/?
 ?
-
 ##### Amulett 4
 0/25/?
 
