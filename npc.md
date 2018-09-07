@@ -4,8 +4,8 @@ tags:
 moruhin der kauzige und oris der mysteriöse kater  
 mathilda die abenteurergildenempfangsdame  
 odilia die nähpartnerin von yarat  
-
 nysgaris der lord magister von seegard  
+rison aurier aus der Statue
 
 Tohrun Nu'dez großer händler (4 schiffe, metallspezialisierung) mit sind Sohn Send
 
