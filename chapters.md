@@ -38,5 +38,9 @@ Belagerung 5
 Inter-Helden-Diplomatie 10
 Schatzsuche und Tanasfest 10
 ==> 45
-
-
+## Kapitel 10 - Bezwinger von Limasu
+Reise nach Trarora
+Reise nach Limasu
+Limasu Politik
+Rätsel in Limasu
+===> 55
