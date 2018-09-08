@@ -50,5 +50,6 @@ Söldner 25 (wilderer-banditen)
 |-6G|Sindgunth|
 |-2G/y|Kutscher|
 |1,19G|3-Brüder-Loot|
+|35|Spiegelloot|
 |--------|---|
-28,66G
+63,66G
