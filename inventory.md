@@ -49,6 +49,6 @@ Söldner 25 (wilderer-banditen)
 |-2,83G|Rüstungsreparatur|
 |-6G|Sindgunth|
 |-2G/y|Kutscher|
-|8,2G|3-Brüder-Loot|
+|1,19G|3-Brüder-Loot|
 |--------|---|
-35,67G
+28,66G
