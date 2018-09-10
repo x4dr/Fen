@@ -3,7 +3,6 @@ tags:
 [TOC]
 Code hinter Fahigkeitsname (da wo er eingeführt wurde) ist:  
 (Level, Linie, Bedingungen, Kosten)  
-
 * Level: welches Level von Fortschrittspunkten der Verbundenen Fähigkeit ausgegeben werden muss
 * Kosten: 1 wenn nicht angegeben
 * Linie: auf welcher Linie sich der Vorteil befindet
@@ -98,6 +97,13 @@ advantage über die offence des gegners behindert ebenfalls die aktion des gegne
   
   ___
 #Alte Konzepte/Zu verarbeiten  
+
+Dolch
+1. angriffe von hinten gegen abgelenkte gegner sind gegen 0 statt 5, Durchhaltewurfziel ist mindestens kampfvorteil
+2. stich/schnitt schaden wählbar
+3. x>10 ==> sofort durchhaltewurf
+4.  offense adv + dmg through ==> disable enemy
+5. eigene defensive 0 + adv ==> gegnerische defensive 0
 
 1. Lunge:  move from short range into melee, consume target enemies combataction -1def, +1off  
      1.1 aggressive lunge: from short range or melee into melee, -4def, +4 off  
