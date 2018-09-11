@@ -10,16 +10,18 @@ tags:
 * Perspektiven die auf einem früheren level genutzt worden sind, können nicht erneut genutzt werden
 * Alle Anforderungen außer Perspektiven werden beim Stufenaufstieg zurückgesetzt.
 * Lehrer gelten erst nach dem mindestens eine normale Trainingsdauer mit ihnen Trainiert wurde.
+* Versagen ist ein schlechter Wurf mit negativen Konsequenzen wenn der Charakter sich Mühe gegeben hat.
 
 ###Anforderungen 0->1
 * 1 Woche Training oder 1 Monat herumprobieren (5)  
 * Lehrer auf level >=2
 * Lehrer auf level >=3
 * Lehrer auf level >=4
-* Kritische (nach Einfluss und Wichtigkeit die Geschichte) Anwendung (3)
+* Kritische (nach Einfluss und Wichtigkeit für die Geschichte) Anwendung (3)
 * 2 Wochen Praxis (5)
 * 2 XP (6)
-* Inspiration (2)
+* Versagen (3)
+* Inspiration (3)
 * Perspektive (3)
 
 ###Anforderungen 1->2
@@ -31,6 +33,7 @@ tags:
 * Kritische Anwendung (4)
 * 1 Monat Praxis (4)
 * 3 XP (5)
+* Versagen (3)
 * Perspektive (3)
 
 ###Anforderungen 2->3
@@ -41,6 +44,7 @@ tags:
 * Kritische Anwendung (5)
 * 6 Monate Praxis (3)
 * 5 XP (3)
+* Versagen (3)
 * Perspektive (4)
 
 ###Anforderungen 3->4
@@ -50,6 +54,7 @@ tags:
 * Kritische Anwendung (5)
 * 1 Jahr Praxis (2)
 * 8 XP (2)
+* Versagen (3)
 * Perspektive (5)
 
 ###Anforderungen 4->5
@@ -58,4 +63,5 @@ tags:
 * Kritische Anwendung (5)
 * 2 Jahre Praxis (2)
 * 20 XP (1)
+* Versagen (3)
 * Perspektive (7)
