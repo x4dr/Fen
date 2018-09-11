@@ -1,8 +1,8 @@
 title: Fähigkeitssteigerungen  
-tags:   
+tags: rules leveling costs  
 [TOC]
 ##Anforderungen 
-10 Anforderungen müssen erfüllt werden. Wenn eine anforderung mehrfach erfüllt werden kann ist in klammern angegeben wie oft.  
+10 Anforderungen müssen erfüllt werden. Wenn eine anforderung mehrfach erfüllt werden kann ist in klammern angegeben wie oft. Jede erfüllte Anforderung gewährt einen Aufstiegspunkt
 
 
 * Perspektiven sind Einflüsse und Erfahrungen aus unterschiedlichen Arten der Praxis. Verschiedene Regionen, Stände, Kulturen oder anderes was einen aktiven Wechsel der Übungsumgebung erfordert.  
@@ -14,6 +14,7 @@ tags:
 * Lehrer gelten erst nach dem mindestens eine normale Trainingsdauer mit ihnen Trainiert wurde.  
 * Versagen ist ein schlechter Wurf mit negativen Konsequenzen wenn der Charakter sich Mühe gegeben hat.  
 
+##Fähigkeiten
 ###Anforderungen 0->1
 * 1 Woche Training oder 1 Monat herumprobieren (5)  
 * Lehrer auf level >=2
@@ -67,3 +68,23 @@ tags:
 * 20 XP (1)
 * Versagen (3)
 * Perspektive (7)
+
+
+##Attribute
+Attribute erfordern Aufstiegspunkte innerhalb ihrer Kategorie. Sie werden getrennt verbraucht, das heist, sie können noch für Fähigkeiten und Vorteile genutzt werden, aber die, die Attributsanforderungen erfüllen, können keine Anderen Attributsanforderungen Erfüllen. Auch Attribute mit denen das Spiel begonnen wird, Konsumieren diese Anforderungen.
+
+
+###Anforderungen
+
+
+
+|Level|Gesamtanforderung|Delta|  
+|---|---|---|  
+|1|0|0|  
+|2|15|15|  
+|3|35|20|  
+|4|60|25|  
+|5|100|40|
+
+3 Attribute auf 2 Erfordern also 45 Aufstiegspunkte (4.5 Fähigkeitslevel wenn keine Aufstiegspunkte für Vorteile genutzt wurden)  
+Um eins der Attribute auf 3 zu steigen müssen mindestens (3.5+1.5+1.5) 6.5 FähigkeitsLevel Existieren.
