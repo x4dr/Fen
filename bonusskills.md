@@ -4,7 +4,6 @@ Jeder Character der einem Beruf/Handwerk/Bildungszweig folgt, kann zusätzliche 
 (Sinn des Ganzen ist es mehr Flexibilität zu geben, jemand der gut Dokumente fälschen kann, muss nicht zwangsläufig auch Schlösser knacken können)
 Im Falle das etwas mehrfach abgedeckt ist, gilt der höchste Rang. Wenn eine Kombination der Fähigkeiten nützlich scheint, kann der Spielleiter auch rerolls gestatten
 Wenn kein Handwerk Existiert wo die Fähigkeit als Unterfähigkeit angewendet werden kann, kann sie auch als Eigenständige Fähigkeit existieren. Dann gelten Preise wie normal. Wenn ein zusätzliche Fähigkeit einem Beruf untergeordnet wird, kostet jede Stufe nach der ersten jeweils 10 XP und benötigt eine Zeit die Angemessen ist um die entsprechende Fähigkeit zu lernen. 
-
 **Ein Character kann einem Beruf erst auf diese Weise Benutzen wenn der Charakter diesen Beruf auch genügend lange (1 Jahr MINDESTENS) ausgeübt hat.**
 
 [TOC]
@@ -34,9 +33,12 @@ Wenn kein Handwerk Existiert wo die Fähigkeit als Unterfähigkeit angewendet we
 ### Algebra
 ### Wertschätzen
 ### Brauen
+### Kochen
+### Konditern
 ### Rethorik
 ### Schauspiel
 ### Segeln
+### Fesseln
 ### Spiele
 ### Spurenlesen
 ### Strategie
