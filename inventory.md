@@ -33,6 +33,7 @@ Söldner 25 (wilderer-banditen)
 |Goop-generator|1|5,00 kg|5,00 kg|				
 |Bronzeknöpfe|100|0,00 kg|0,20 kg|
 |Pfeilspitzen (Bronze)|30|0,01 kg|0,30 kg|
+|Schmiedebuch (Kap.25, Leserate 21-(Bildung+Forschung))|5,00kg|5,00kg|
 ###Burginventar
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|Einzelwert|
 |:--|---|---|---|---|
@@ -41,7 +42,7 @@ Söldner 25 (wilderer-banditen)
 |Eisennuggets|448|0,10 kg|44,80 kg|5S|
 |Silber|5|1,00 kg|5,00 kg||
 |Bronze Barren|19|1,00 kg|19,00 kg|3S|
-|Serisem-Legierung|40|0,10 kg|4,00 kg||
+|Serisem-Legierung|40|0,10 kg|4,00 kg|
 ###Gruppengeld
 |Goldmenge|Grund|
 |:--|---:|
@@ -53,5 +54,6 @@ Söldner 25 (wilderer-banditen)
 |29G|Spiegelloot|
 |1201G|Limasu-Belohnung|
 |-50G|Bäern-Auszahlung|
+|-30G|Schmiedebuch|
 |--------|---|
 1214,66G
