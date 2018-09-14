@@ -50,6 +50,7 @@ Söldner 25 (wilderer-banditen)
 |-6G|Sindgunth|
 |-2G/y|Kutscher|
 |1,19G|3-Brüder-Loot|
-|29|Spiegelloot|
+|29G|Spiegelloot|
+|1201G|Limasu-Belohnung|
 |--------|---|
-63,66G
+1264,66G
