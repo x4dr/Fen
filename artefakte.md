@@ -32,7 +32,6 @@ Water healing
 ?
 ##### Amulett 4
 0/25/?
-
 ##### Amulett 5
 0/80/?
 normal gebundenes casting amulet
@@ -206,3 +205,20 @@ Karte (19)- Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. 
 * 30 Magie
 * Qualität 30
 * ermöglicht Vereinigung von Tier und Pflanze
+
+#### Nysgaris-Erbstücke
+##### Zauberstab (15)
+* richtiger Gedanke löst es aus
+* Gedankenkontrolle
+* kein eignes magiereservoir
+##### Auge (8)
+* zur Benutzung ist Blutkontakt notwendig
+##### Halskette (11)
+* Gedacht für durchfluss großer Mengen Magie
+##### Schlüssel (5)
+* öffnet etwas (magisch)
+##### Anhänger (Pyramidenförmig) (12)
+* kein Magiereservoir
+* telepathie
+##### Waage (5)
+* irgendwie kommt da magische energie raus
