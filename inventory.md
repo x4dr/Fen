@@ -52,5 +52,6 @@ Söldner 25 (wilderer-banditen)
 |1,19G|3-Brüder-Loot|
 |29G|Spiegelloot|
 |1201G|Limasu-Belohnung|
+|-50G|Bäern-Auszahlung|
 |--------|---|
-1264,66G
+1214,66G
