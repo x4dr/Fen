@@ -20,7 +20,6 @@ Requires *one action* and draws *one card*.
 When you *concentrate* look at *as many cards as you have levels in alchemical magic* before you draw, put them back on top of your deck in any order.
 ### Dedicating
 Means removing the most powerful (player chooses if there is a draw) card used in the spell after casting from the Deck, The Dedication ends, once the Card is returned to the deck. Dedicating a card **does not count against your hand size**.
-
 ### Sustaining
 Is similar to dedication, but requires more effort and **counts against your hand size**. Lower it by 1 for each sustained effect for its duration. Sustaining can be dropped at will as a free action.  
 
@@ -144,7 +143,11 @@ Targeted Organic Material begins rotting, turning black and hard with a rate of 
 (stub: feeding a liquid)  
 
 ### Sublimation (P)
-(stub: make matter gaseous)
+** Energy 0+ Matter 9+ Entropy 12 **
+
+**Casting time: 12 Turns**
+
+Targeted Material begins to turn into ambient temperature ideal gas (which is a lot of gas!) at a rate of **1 kg/minute** and stays a gas as long as dedicated (dedicate 1). *Mass* is **doubled** every **5 Matter** spent beyond what is needed. Roll determines how much actually turns into gas vs. how much turns into bigger particles (ask DM). When dedication is dropped, it turns into a solid again where is is at the time, so probably a very fine dust. Roll all of the dice, if they all show 10, the gas turns back into the original solid in its original location. 
 
 ### Fermentation (P)
 (stub: Ferment liquid)  
