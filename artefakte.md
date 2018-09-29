@@ -1,6 +1,6 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 19/25  
+unsichtbarkeitsring (11-x safeempty) 25/25  
 Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
@@ -37,7 +37,6 @@ Water healing
 normal gebundenes casting amulet
 ##### Charm 1-3
 sie tun irgendwas mit dem richtigen wort
-
 ####dinas godol loot (alle leer):  
   
 #####Reich verziertes kronenähnliches [Ding](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg) (10)11  
