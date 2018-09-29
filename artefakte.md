@@ -35,7 +35,6 @@ Water healing
 ##### Amulett 5
 0/80/?
 normal gebundenes casting amulet
-
 ##### Charm 1-3
 sie tun irgendwas mit dem richtigen wort
 
@@ -206,18 +205,20 @@ Karte (19)- Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. 
 * ermöglicht Vereinigung von Tier und Pflanze
 
 #### Nysgaris-Erbstücke
-##### Zauberstab (15)
+##### Zauberstab (17)
 * richtiger Gedanke löst es aus
+* 15 magie / runde
 * Gedankenkontrolle
 * kein eignes magiereservoir
 ##### Auge (8)
 * zur Benutzung ist Blutkontakt notwendig
 ##### Halskette (11)
 * Gedacht für durchfluss großer Mengen Magie
-##### Schlüssel (5)
+##### Schlüssel (10)
 * öffnet etwas (magisch)
+* metaphysisch / sychisch
 ##### Anhänger (Pyramidenförmig) (12)
 * kein Magiereservoir
 * telepathie
-##### Waage (5)
-* irgendwie kommt da magische energie raus
+##### Waage (6)
+* wenn aktiviert kommt da magische energie raus
