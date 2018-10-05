@@ -22,7 +22,6 @@ When you *concentrate* look at *as many cards as you have levels in alchemical m
 Means removing the most powerful (player chooses if there is a draw) card used in the spell after casting from the Deck, The Dedication ends, once the Card is returned to the deck. Dedicating a card **does not count against your hand size**.
 ### Sustaining
 Is similar to dedication, but requires more effort and **counts against your hand size**. Lower it by 1 for each sustained effect for its duration. Sustaining can be dropped at will as a free action.  
-
 ### Meditation
 Requires at least **six hours** in sufficient calmness with no other activity and shuffles all the cards from the discard pile into the deck. One dedicated card may be taken back into the deck.  
 
@@ -230,3 +229,10 @@ Torch with wax covered end. Disturbing the wax with a fingernail or by scraping 
 ### Screaming Flask (no extra spell, just some mixing of Leuchtpulver and Schreipulver inside a corked metal flask)
 corked flask. when the cork is removed it shrieks for 5 minutes. every being capable of hearing gains complexity 3-floor(x/3) (min 0)
 Recorking it regenerates it within 1 hour.
+
+### Durstsand (P)
+** 17 Order 10+ Matter **
+1:1 Salt+Sand, at most 10kg each, results in equal parts Durstsand and destilled Water, destroys Water and turns into regular sand.
+when ingested, kills a person within 10-30 minutes
+dries up skin when touched
+risk of blindness
