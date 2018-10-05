@@ -6,7 +6,6 @@ mathilda die abenteurergildenempfangsdame
 odilia die nähpartnerin von yarat  
 nysgaris der lord magister von seegard  
 rison aurier aus der Statue
-
 Tohrun Nu'dez großer händler (4 schiffe, metallspezialisierung) mit sind Sohn Send
 
 Jacun - einer der reichsten bürger von seegard
@@ -24,3 +23,5 @@ Nytani - Mysteriöse Oberin des Waisenhauses und Priesterin der Ilargia mit eine
 Taiem - Mysteriöser Wohlgekleideter Herr aus einer der teureren Tavernen Seegards.
 
 Yamal - Herr des Dunkelwaldes (banditlord zwischen der stillen stadt und Trarora)
+
+Rayir Lilschyz - Bandit -> Söldner -> General Major von Vernal (gebunden an Mü)
