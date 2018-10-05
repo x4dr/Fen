@@ -3,6 +3,7 @@ tags: rules leveling costs
 [TOC]
 ##Anforderungen 
 10 Anforderungen müssen erfüllt werden. Wenn eine anforderung mehrfach erfüllt werden kann ist in klammern angegeben wie oft. Jede erfüllte Anforderung gewährt einen Aufstiegspunkt  
+  
 * Perspektiven sind Einflüsse und Erfahrungen aus unterschiedlichen Arten der Praxis. Verschiedene Regionen, Stände, Kulturen oder anderes was einen aktiven Wechsel der Übungsumgebung erfordert.  
 * Training erfordert eine Wissensquelle, entweder jemand der mindestens ein Level höher ist, oder genügend genaue Bücher.  
 * Herumprobieren kann ein Character alleine, wenn er eine grobe Ahnung hat was er versucht zu lernen (Magieschulen aus dem Nichts erschaffen ist ohne Magiewissen nicht möglich)  
@@ -12,7 +13,6 @@ tags: rules leveling costs
 * Lehrer gelten erst nach dem mindestens eine normale Trainingsdauer mit ihnen Trainiert wurde.
 * Lehrer Anforderungen können erst erfüllt werden, wenn das Notwendige Level erreicht worden ist, alle anderen Anforderungen werden in die Niedrigst verfügbare Kategorie eingetragen. (Lehrer, Versagen, Training, Gesellen/Meisterstück usw)
 * Versagen ist ein schlechter Wurf mit negativen Konsequenzen wenn der Charakter sich Mühe gegeben hat.  
-
 ##Fähigkeiten
 ###Anforderungen 0->1
 * 1 Woche Training oder 1 Monat herumprobieren (5)  
