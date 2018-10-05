@@ -1,6 +1,6 @@
 title: Zusätzliche Fähigkeiten  
 tags:   
-[TOC]
+[TOC]  
 Jeder Character der einem Beruf/Handwerk/Bildungszweig folgt, kann zusätzliche Fähigkeiten an diesen Beruf hängen, so könnte zum Beispiel ein Schreiber und ein Dieb beide Fälschen wählen, aber der Schreiber hätte keine Begründung für Einbrechen und der Dieb keine Begründung für Poesie.
 (Sinn des Ganzen ist es mehr Flexibilität zu geben, jemand der gut Dokumente fälschen kann, muss nicht zwangsläufig auch Schlösser knacken können)
 Im Falle das etwas mehrfach abgedeckt ist, gilt der höchste Rang. Wenn eine Kombination der Fähigkeiten nützlich scheint, kann der Spielleiter auch rerolls gestatten
