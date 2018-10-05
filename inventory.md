@@ -55,5 +55,6 @@ Söldner 25 (wilderer-banditen)
 |1201G|Limasu-Belohnung|
 |-50G|Bäern-Auszahlung|
 |-30G|Schmiedebuch|
+|-100G|Holz fürs große Feuer|
 |--------|---|
-1214,66G
+1114,66G
