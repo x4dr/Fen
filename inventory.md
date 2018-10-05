@@ -56,5 +56,6 @@ Söldner 25 (wilderer-banditen)
 |-50G|Bäern-Auszahlung|
 |-30G|Schmiedebuch|
 |-100G|Holz fürs große Feuer|
+|-1,5G|Gambeson|
 |--------|---|
-1114,66G
+1111,16G
