@@ -8,7 +8,6 @@ Wissen ist vergänglich, aber allgegenwärtig und unendlich.
 ### Anhänger
 Ateph Tempel sind weit verbreitet wenn auch meist sehr klein. Sie umfassen eine (vergleichsweise große) Bibliothek von 10 bis zu 50 Bücher pro vollem Priester und teilweise mehr von den nicht ansässigen Anhängern und Geweihten. Ein Atephtempel hat normalerweise etwa einen Priester pro 5000 Einwohner. Ateph fordert von seinen Anhängern sich einem Leben der Gelehrsamkeit und Weisheit hinzugeben und die Priester und Geweihten, die nicht Ansässig sind, haben auf ihren Abenteuern und Reisen trotz aller Gelehrsamkeit einen gewissen Schutz durch Atephs Feuer. 
 ### Gunst
-
 ####Pool  
 1 Pro 50 XP in Wissensfähigkeiten pro Monat  
 ####Huldigen 
@@ -180,3 +179,22 @@ aurische Gottheit der Herrschaft (Können)
 ##Hezit
 aurische Gottheit des Handels (Charisma)
 
+##Demirci (bzw. prekorisch Ynteus)
+atterkanische Gottheit der Kunst, der Metalls, der Freundschaft
+###Philo
+
+###Anhänger
+Handwerker, Kunsthandwerker und sowas, alte Atterkan, beliebt in Trarora
+###Gunst
+####Pool
+1/sqrt(#Leute, mit denen Andenken ausgetauscht wurden, die aktiv getragen werden)
+####Bräuche
+engen Freunden einen puzzleartig teilbaren Gegenstand geben
+####Huldigen
+create things, zierende Metallgegenstände tragen, Freundschaften schmieden
+####Verärgern
+stümpern, Metall nicht Wertschätzen, Freunde verlieren
+####Segen
+künstlerische Inspiration, göttlicher Gegenstandsschutz, Sterneneisen, Unterstützung²
+####Fluch
+verfallende Gegenstände, mangelnde Inspiration, schlechtes Karma
