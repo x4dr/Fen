@@ -2,7 +2,6 @@ title: Städte
 tags:   
 ##Seegard
 Große Prekorische Handelsstadt am Fluss Aschan, Seegard
-
 ## Worograd
 Stadt an der Handelsstraße von Seegard nach Limasu
 
@@ -21,5 +20,8 @@ Dorf in der Nähe des Eisenberges
 ## Dinas Godol
 Stadt im Schatten, ein paar Tage Nordöstlich des Passes aber ein gutes stück südlich der Aschanstraße
 
+## Strittin 
+Südlichste Stadt Nordprekors
 
-
+## Tantor
+Einziger Nahrungsproduzent in Nordprekor
