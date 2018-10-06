@@ -8,7 +8,6 @@ nysgaris der lord magister von seegard
 rison aurier aus der Statue
 Tohrun Nu'dez großer händler (4 schiffe, metallspezialisierung) mit sind Sohn Send
 Jacun - einer der reichsten bürger von seegard
-
 Minem - der rhytmisch sprechende Druide aus dem Trarorischen Wald
 
 Karoni Marzanna - Asassin for Hire
@@ -26,3 +25,5 @@ Yamal - Herr des Dunkelwaldes (banditlord zwischen der stillen stadt und Trarora
 Rayir Lilschyz - Bandit -> Söldner -> General Major von Vernal (gebunden an Mü)
 
 Culbard - Barde mit Kristallschreinlegende
+
+Kalvor - der Nordprekorische Warlord
