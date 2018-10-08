@@ -1,9 +1,9 @@
-title:   
+title: Kurzschwert  
 tags:   
-Hagel -> Zweithand -> Waghalsigkeit -> Unvernunft -> Wahnsinn  
-Hagel -> Ablenken -> Pressen -> Überwältigen -> Ausschalten  
-Hagel -> Verteidigungswirbel -> Verbesserter Verteidigungswirbel -> Zerfetzender Verteidigungswirbel -> Wirbelsturm  
-Überlegenheit -> Rücksprung -> Zen -> Klingenbiss -> Hinrichtung  
+[Hagel](shortsword#Hagel) -> [Zweithand](shortsword#Zweithand) -> [Waghalsigkeit](shortsword#Waghalsigkeit) -> [Unvernunft](shortsword#Unvernunft) -> [Wahnsinn](shortsword#Wahnsinn)  
+[Hagel](shortsword#Hagel) -> [Ablenken](shortsword#Ablenken) -> [Pressen](shortsword#Pressen) -> [Überwältigen](shortsword#Überwältigen) -> [Ausschalten](shortsword#Ausschalten)  
+[Hagel](shortsword#Hagel) -> [Verteidigungswirbel](shortsword#Verteidigungswirbel) -> [Verbesserter](shortsword#Verbesserter) [Verteidigungswirbel](shortsword#Verteidigungswirbel) -> [Zerfetzender](shortsword#Zerfetzender) [Verteidigungswirbel](shortsword#Verteidigungswirbel) -> [Wirbelsturm](shortsword#Wirbelsturm)  
+[Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#Rücksprung) -> [Zen](shortsword#Zen) -> [Klingenbiss](shortsword#Klingenbiss) -> [Hinrichtung](shortsword#Hinrichtung)  
 
 
 #### Hagel
