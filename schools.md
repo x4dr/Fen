@@ -7,11 +7,11 @@ Code hinter Fahigkeitsname (da wo er eingeführt wurde) ist:
 * Kosten: 1 wenn nicht angegeben
 * Linie: auf welcher Linie sich der Vorteil befindet
 * Bedingungen: Bedingungen die erfüllt werden müssen. Zahl und Linie bedeutet, dass so viele Fähigkeiten aus der selben Linie gelernt sein müssen, bevor dieser Vorteil gelernt werden kann. 
-
 # Fechten 
-[Fechten](fencing)  
+Für die Allgemeine Fechtschule siehe [Fechten](fencing)  
 konzentriert sich auf flexibilität und Kontrolle
 # Kurzschwert: Flurry 
+wird gerade nach [Kurzschwert](shortsword) bewegt
 called in free phase (enemies may react) +1 offense, -1 defense  
 ## 1.1.n Secondary (0-5)
 the short sword may be carried with in the offhand and is interpreted seperately from the attack with the main hand. Attacks with both weapons suffer Complexity + (6-n)  
@@ -95,6 +95,7 @@ Schaden bekommen senkt die offensivpunkte nurnoch maximal um 1
 ####Einschüchterne Verteidigung  
 advantage über die offence des gegners behindert ebenfalls die aktion des gegners
   
+
   ___
 #Alte Konzepte/Zu verarbeiten  
 
