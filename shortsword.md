@@ -1,9 +1,9 @@
 title: Kurzschwert  
 tags:   
-[Hagel](shortsword#Hagel) -> [Zweithand](shortsword#Zweithand) -> [Waghalsigkeit](shortsword#Waghalsigkeit) -> [Unvernunft](shortsword#Unvernunft) -> [Wahnsinn](shortsword#Wahnsinn)  
-[Hagel](shortsword#Hagel) -> [Ablenken](shortsword#Ablenken) -> [Pressen](shortsword#Pressen) -> [Überwältigen](shortsword#Überwältigen) -> [Ausschalten](shortsword#Ausschalten)  
-[Hagel](shortsword#Hagel) -> [Verteidigungswirbel](shortsword#Verteidigungswirbel) -> [Verbesserter](shortsword#Verbesserter) [Verteidigungswirbel](shortsword#Verteidigungswirbel) -> [Zerfetzender](shortsword#Zerfetzender) [Verteidigungswirbel](shortsword#Verteidigungswirbel) -> [Wirbelsturm](shortsword#Wirbelsturm)  
-[Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#Rücksprung) -> [Zen](shortsword#Zen) -> [Klingenbiss](shortsword#Klingenbiss) -> [Hinrichtung](shortsword#Hinrichtung)  
+[Hagel](shortsword#hagel) -> [Zweithand](shortsword#zweithand) -> [Waghalsigkeit](shortsword#waghalsigkeit) -> [Unvernunft](shortsword#unvernunft) -> [Wahnsinn](shortsword#wahnsinn)  
+[Hagel](shortsword#hagel) -> [Ablenken](shortsword#ablenken) -> [Pressen](shortsword#pressen) -> [Überwältigen](shortsword#Überwältigen) -> [Ausschalten](shortsword#ausschalten)  
+[Hagel](shortsword#hagel) -> [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Verbesserter](shortsword#verbesserter) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Zerfetzender](shortsword#zerfetzender) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Wirbelsturm](shortsword#wirbelsturm)  
+[Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#rücksprung) -> [Zen](shortsword#zen) -> [Klingenbiss](shortsword#klingenbiss) -> [Hinrichtung](shortsword#hinrichtung)  
 
 
 #### Hagel
