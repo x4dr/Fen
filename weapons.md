@@ -3,7 +3,7 @@ tags:
 #Waffen
 |Waffe | Grundschaden | Vorteilsmultiplikator | Reichweite | Bemerkung |
 |---|---|---|---|---|
-|Kurzschwert| 6CPHB | 1 | 1 |   |  
+|[Kurzschwert](shortsword)| 5CPHB | 1 | 1 |   |  
 |Langschwert| 8CPHB | 1 | 2 |   |  
 |Dolch|       2CP | 2 | 0  |   |  
 |Hammer| 12 | 0B | 1 | Reload 3-KK |  
@@ -17,14 +17,10 @@ tags:
 |Langschleuder| 0B | 2 | 40 |  Reload 1, Schwierigkeit +2, Unterbrechbar |  
 |Nahkampf| 0B | 1 | 0 |   |  
 
-
 # Anmerkungen
 
 ##Schadenstypen
 [sind möglichkeiten für was die waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](/wiki/damage)
-
-
-
 
 
 * Kurz und Langbögen haben einen Vorteil der die Ladezeit um 1 senkt
