@@ -138,5 +138,5 @@ Technik
 
 #### Feuerhaltung: Risiko
 Technik  
-Jeder Selektor erhält einen Würfel fest zugewiesen, der einmal pro Stufe als reflexive Aktion neu gewürfelt werden kann. Kein Zurücknehmen von Würfen. -3 Defensive. Angerichteter und Bekommer Schaden wird verdoppelt.
+Jeder Selektor erhält einen Würfel fest zugewiesen, der einmal pro Stufe als reflexive Aktion neu gewürfelt werden kann. Kein Zurücknehmen von Würfen. Defensive wird halbiert. Angerichteter und Bekommer Schaden wird verdoppelt.
 
