@@ -12,7 +12,6 @@ Für jede getypte Haltung:
 -> Gefühl  
 -> Bewusstsein  
 Mehrfach die gleiche Haltung steigert die Stufe um 1: zum Beispiel Haltung -> Kampfhaltung -> Gefühl -> Gefühl -> Gefühl sind 5 Stufen.  
-
 #### Haltung
 Technik  
 Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spezifiert wird, geht der Charakter in Grundhaltung und erhält eine Reaktion auf einen kommenden Angriff entweder seine Offensive um 3 zu senken und zu Kontern, oder seine Defensive um 3 zu steigern. Beim Ändern der Haltung können Verständnis, Gefühl und Bewusstsein der eingenommenen Haltung neu belegt werden.
@@ -123,7 +122,7 @@ passiv
 
 #### Feuerhaltung: Rache
 passiv
-Ohnmachtsmalus ist Schadensbonus, JEDER angreifer wird passiv angegriffen.
+Ohnmachtsmalus ist Schadensbonus, JEDER angreifer wird passiv angegriffen. Jeder Runde über der Ohnmachtsschwelle erzeugt eine weitere 1 Punkte Erschöpfungswunde.
 
 #### Feuerhaltung: Pressen
 reflexiv
@@ -139,5 +138,5 @@ Technik
 
 #### Feuerhaltung: Risiko
 Technik  
-Jeder Selektor erhält einen würfel fest Zugewiesen, der einmal pro Stufe als reflexive Aktion neu gewürfelt werden kann. Der Letzte Wurf gilt. Angerichteter und Bekommer Schaden wird verdoppelt.
+Jeder Selektor erhält einen Würfel fest zugewiesen, der einmal pro Stufe als reflexive Aktion neu gewürfelt werden kann. Kein Zurücknehmen von Würfen. Angerichteter und Bekommer Schaden wird verdoppelt.
 
