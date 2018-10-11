@@ -7,7 +7,6 @@ Haltung -> Lufthaltung
 Haltung -> Erdhaltung  
 Haltung -> Feuerhaltung  
 Haltung -> Wasserhaltung  
-   
 Für jede getypte Haltung:  
   
 -> Verständnis  
@@ -32,7 +31,7 @@ Defensive zählt gegen Projektile. Bewegung löst keine Gelegenheitsangriffe aus
 #### Feuerhaltung  
 +1 Offensive. Angreifer werden passiv Angegriffen. (Schaden wenn ihre Defensive kleiner Offensive des Charakters ist. In jedem Fall nimmt ihre Defensive um 1 ab)
 #### Wasserhaltung  
-+1 Defensive. Charakter kann einmal Techniken wechseln, als wäre es reflexiv
++1 Defensive. Charakter kann einmal pro runde Techniken wechseln, als wäre es reflexiv.
 
 
 #### Verständnis
@@ -46,3 +45,24 @@ Kosten/Effekte nach dieser Fähigkeit.
 #### Bewusstsein
 passiv: erlaubt das Aktiv halten einer (separat gelernten) Technik der Haltung.   
 Kosten/Effekte nach dieser Fähigkeit.
+
+#### Kampfhaltung: Hammerschläge
+passiv  
++5 Schaden, -1 Multiplikator, Schaden zählt als Stumpf 
+
+#### Kampfhaltung: Präzision
+passiv  
+-2 Schaden, +1 Multiplikator, Schaden zählt als Durchdringend
+
+#### Kampfhaltung: Beinfeger
+reflexiv
+Ändert den Aktuellen Angriff, bei Erfolg wird kein Schaden angerichtet, aber das Ziel stürzt zu Boden.
+
+#### Kampfhaltung: Aufs Ganze
+reflexiv: Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und Defensive fallen danach auf 0.
+
+#### Kampfhaltung: Schnelle Serie
+Technik: +4 Offense, -2 Defense, Halbiert Angerichteten Schaden
+
+#### Kampfhaltung: Kehlkopfschlag
+Technik: Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 hat und nich sprechen kann.
