@@ -8,7 +8,6 @@ Haltung -> Erdhaltung
 Haltung -> Feuerhaltung  
 Haltung -> Wasserhaltung  
 Für jede getypte Haltung:  
-  
 -> Verständnis  
 -> Gefühl  
 -> Bewusstsein  
@@ -59,10 +58,13 @@ reflexiv
 Ändert den Aktuellen Angriff, bei Erfolg wird kein Schaden angerichtet, aber das Ziel stürzt zu Boden.
 
 #### Kampfhaltung: Aufs Ganze
-reflexiv: Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und Defensive fallen danach auf 0.
+reflexiv  
+Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und Defensive fallen danach auf 0.
 
 #### Kampfhaltung: Schnelle Serie
-Technik: +4 Offense, -2 Defense, Halbiert Angerichteten Schaden
+Technik  
++4 Offense, -2 Defense, Halbiert Angerichteten Schaden
 
 #### Kampfhaltung: Kehlkopfschlag
-Technik: Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 hat und nich sprechen kann.
+Technik  
+Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 hat und nich sprechen kann.
