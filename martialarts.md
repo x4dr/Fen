@@ -26,7 +26,7 @@ Defensive zählt gegen Projektile. Bewegung löst keine Gelegenheitsangriffe aus
 #### Erdhaltung  
 5 Rüstung, 1en zählen als 2en.
 #### Feuerhaltung  
-+1 Offensive. Angreifer werden passiv Angegriffen. (Schaden wenn ihre Defensive kleiner Offensive des Charakters ist. In jedem Fall nimmt ihre Defensive um 1 ab)
++1 Offensive. Der erste Angreifer pro Runde wird passiv Angegriffen. (Schaden wenn generische Defensive kleiner als die Offensive des Charakters ist. In jedem Fall nimmt gegnerische Defensive um 1 ab)  
 #### Wasserhaltung  
 +1 Defensive. Charakter kann einmal pro runde Techniken wechseln, als wäre es reflexiv.
 
@@ -115,3 +115,29 @@ Wenn ein Treffer gelandet wird, gilt der Schaden als Stumpf und das Ziel wird mi
 #### Erdhaltung: Defensive
 Technik
 Kein Angriff wird gemacht. Defensive -5 Rüstung +10, Alle versuche den Charakter zu bewegen müssen Defensive+Rüstung Übertreffen. Gegnerische Nahkampfangriffe senken Defensive nicht.
+
+
+#### Feuerhaltung: Aggression
+passiv
++3 Offensive, Eine Kampfrunde ohne Schaden angerichtet zu haben beendet die Feuerhaltung.
+
+#### Feuerhaltung: Rache
+passiv
+Ohnmachtsmalus ist Schadensbonus, JEDER angreifer wird passiv angegriffen.
+
+#### Feuerhaltung: Pressen
+reflexiv
++1 Offensive, -2 Defensive, +3 Schaden, Gegner kann einen passiven Gegenangriff machen.
+
+#### Feuerhaltung: Konzentration
+reflexiv
+Beendet aktuellen Angriff diese Runde. Defensive wird 8. Nächste Runde +3 Offensive, +3 Schaden, -3 Defensive
+
+#### Feuerhaltung: Mächtige Serie
+Technik  
++1 Multiplikator, +2 Offensive, -3 Defensive, Wenn Schaden angerichtet wurde, kann können Offensive und Defensive um 2 gesenkt werden um den Angriff auf das Selbe ziel zu wiederholen.
+
+#### Feuerhaltung: Risiko
+Technik  
+Jeder Selektor erhält einen würfel fest Zugewiesen, der einmal pro Stufe als reflexive Aktion neu gewürfelt werden kann. Der Letzte Wurf gilt. Angerichteter und Bekommer Schaden wird verdoppelt.
+
