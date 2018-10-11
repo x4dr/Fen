@@ -11,7 +11,6 @@ Für jede getypte Haltung:
 -> Verständnis  
 -> Gefühl  
 -> Bewusstsein  
-
 Mehrfach die gleiche Haltung steigert die Stufe um 1: zum Beispiel Haltung -> Kampfhaltung -> Gefühl -> Gefühl -> Gefühl sind 5 Stufen.  
 
 
@@ -55,7 +54,7 @@ passiv
 
 #### Kampfhaltung: Beinfeger
 reflexiv
-Ändert den Aktuellen Angriff, bei Erfolg wird kein Schaden angerichtet, aber das Ziel stürzt zu Boden.
+Ändert den Aktuellen Angriff, bei Erfolg wird kein Schaden angerichtet, aber das Ziel stürzt zu Boden.  
 
 #### Kampfhaltung: Aufs Ganze
 reflexiv  
@@ -68,3 +67,27 @@ Technik
 #### Kampfhaltung: Kehlkopfschlag
 Technik  
 Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 hat und nich sprechen kann.
+
+#### Lufthaltung: Unbeständigkeit
+passiv  
++2 Defensive, Wenn getroffen hört die Lufthaltung auf
+
+#### Lufthaltung: Ansturm
+passiv  
++4 Defensive, +3 Offensive. Wenn sich mindestens 50% der Bewegungsreichweite bewegt wurde.
+
+#### Lufthaltung: Projektil fangen
+reflexiv
+Wenn ein Fernkampfangriff durch Defensive verhindert wurde, wird das Projektil gefangen (sofern eine Hand frei ist) Das beinhaltet kein zurückschleudern o.ä.
+
+#### Lufthaltung: Rolle
+reflexiv
+Wenn ein Nahkampfangriff durch Defensive verhindert wurde, bewegt sich der Charakter sofort um 2 Meter. Halbiert Fallschaden.
+
+#### Lufthaltung: Sprung
+Technik   
+erlaubt eine Interpretation von Stärke,Athletik um einen Sprung durchzuführen, nachdem ein nicht-erschwerter Angriff oder eine Andere Aktion erfolgen kann  
+
+#### Lufthaltung: Rückzug
+Technik  
+erlaubt es nach einem Angriff die restliche Bewegungsweite der Runde zurückzulegen.
