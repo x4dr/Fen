@@ -13,7 +13,6 @@ Für jede getypte Haltung:
 -> Bewusstsein  
 Mehrfach die gleiche Haltung steigert die Stufe um 1: zum Beispiel Haltung -> Kampfhaltung -> Gefühl -> Gefühl -> Gefühl sind 5 Stufen.  
 
-
 #### Haltung
 Technik  
 Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spezifiert wird, geht der Charakter in Grundhaltung und erhält eine Reaktion auf einen kommenden Angriff entweder seine Offensive um 3 zu senken und zu Kontern, oder seine Defensive um 3 zu steigern. Beim Ändern der Haltung können Verständnis, Gefühl und Bewusstsein der eingenommenen Haltung neu belegt werden.
@@ -91,3 +90,28 @@ erlaubt eine Interpretation von Stärke,Athletik um einen Sprung durchzuführen,
 #### Lufthaltung: Rückzug
 Technik  
 erlaubt es nach einem Angriff die restliche Bewegungsweite der Runde zurückzulegen.
+
+
+#### Erdhaltung: Unverrückbar
+passiv  
++1 Rüstung, Bewegungs/unterbrechungseffekte funktionieren eine Stufe/50% Schlechter
+
+#### Erdhaltung: Geerdet
+passiv   
++3 Rüstung und Neuwürfeln aller 1en aus dem Originalen Wurf wenn sich nicht bewegt wurde.
+
+#### Erdhaltung: Steinfaust
+reflexiv  
+Aktueller Vorteil wird 1. Gegnerischer Angriffe bekommen Vorteil 1.
+
+#### Erdhaltung: Wurf
+reflexiv
+Das erste mal pro runde, wenn erfolgreich gegen einen Angriff verteidigt wurde (0 Schaden, durch Defensive oder Rüstung) wird das Ziel geworfen und liegt danach hinter dem Charakter.
+
+#### Erdhaltung: Felsschlag
+Technik  
+Wenn ein Treffer gelandet wird, gilt der Schaden als Stumpf und das Ziel wird mindestens 2 Meter nach hinten bewegt und hat halbierte Offensive und Defensive für den nächsten angriff. 
+
+#### Erdhaltung: Defensive
+Technik
+Kein Angriff wird gemacht. Defensive -5 Rüstung +10, Alle versuche den Charakter zu bewegen müssen Defensive+Rüstung Übertreffen. Gegnerische Nahkampfangriffe senken Defensive nicht.
