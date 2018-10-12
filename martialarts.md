@@ -28,7 +28,6 @@ Defensive zählt gegen Projektile. Bewegung löst keine Gelegenheitsangriffe aus
 #### Wasserhaltung  
 +1 Defensive. Charakter kann einmal pro runde Techniken wechseln, als wäre es reflexiv.
 
-
 #### Verständnis
 passiv: erlaubt das Aktiv halten einer (separat gelernten) Passiven Fähigkeit der Haltung.   
 Kosten/Effekte nach dieser Fähigkeit.
@@ -139,3 +138,28 @@ Technik
 Technik  
 Jeder Selektor erhält einen Würfel fest zugewiesen, der einmal pro Stufe als reflexive Aktion neu gewürfelt werden kann. Kein Zurücknehmen von Würfen. Defensive wird halbiert. Angerichteter und Bekommer Schaden wird verdoppelt.
 
+
+#### Wasserhaltung: Fluss
+passiv  
+Wann immer erfolgreich verteidigt wurde, kann der Charakter einen Gegenangriff machen der auf 1 Schaden beschränkt ist, einen Defensivpunkt zurückgewinnen, oder sofort die Form ändern.
+
+#### Wasserhaltung: Ebbe und Flut  
+passiv  
+Wenn Schaden genommen wurde, erhöhe Offensive um diese Menge für den Rest der Aktuellen Runde.
+Wenn Schaden verursacht wurde, erhöhe Defensive um diese Menge für den Rest der Aktuellen Runde.
+
+#### Wasserhaltung: Unausweichlicher Angriff
+reflexiv
+Erhöht offensive um 5. Gegnerische Rüstung wird ignoriert. Schaden kann 1 nicht überschreiten.  
+
+#### Wasserhaltung: Biegung des Flusses
+reflexiv.
+Senkt Defensive um 5. Eigene Rüstung wird ignoriert. Schaden kann 1 nicht überschreiten. Sofortige Änderung der Form.
+
+#### Wasserhaltung: Zusammenziehender Sturm
+Technik  
+Für jeden gelandeten Treffer diesen Kampf, Schaden +1
+
+#### Wasserhaltung: Erosionsschlag
+Technik
+Wenn der Angriff trifft, sinkt die Rüstung des Gegner um 1, egal ob der Rüstungswiderstand übertroffen wurde.
