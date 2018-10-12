@@ -4,7 +4,6 @@ tags:
 Große Prekorische Handelsstadt am Fluss Aschan, Seegard
 ## Worograd
 Stadt an der Handelsstraße von Seegard nach Limasu
-
 ## Okarun und Nurako
 Die Gespaltene Stadt, Nord/Südteil respektiv
 
@@ -24,4 +23,4 @@ Stadt im Schatten, ein paar Tage Nordöstlich des Passes aber ein gutes stück s
 Südlichste Stadt Nordprekors
 
 ## Tantor
-Einziger Nahrungsproduzent in Nordprekor
+Größter/Einziger Nahrungsproduzent in Nordprekor
