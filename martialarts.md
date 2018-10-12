@@ -16,7 +16,6 @@ Mehrfach die gleiche Haltung steigert die Stufe um 1: zum Beispiel Haltung -> Ka
 #### Haltung
 Technik  
 Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spezifiert wird, geht der Charakter in Grundhaltung und erhält eine Reaktion auf einen kommenden Angriff entweder seine Offensive um 3 zu senken und zu Kontern, oder seine Defensive um 3 zu steigern. Beim Ändern der Haltung können Verständnis, Gefühl und Bewusstsein der eingenommenen Haltung neu belegt werden.
-
 #### Kampfhaltung  
 passiv
 +3 Schaden
@@ -122,7 +121,7 @@ passiv
 
 #### Feuerhaltung: Rache
 passiv
-Ohnmachtsmalus ist Schadensbonus, JEDER angreifer wird passiv angegriffen. Jeder Runde über der Ohnmachtsschwelle erzeugt eine weitere 1 Punkte Erschöpfungswunde.
+Runden im Ohnmachtsbereich wird zu Schadensbonus, JEDER angreifer wird passiv angegriffen. Jeder Runde über der Ohnmachtsschwelle erzeugt eine weitere 1 Punkte Erschöpfungswunde, Ohnmacht ist unmöglich..
 
 #### Feuerhaltung: Pressen
 reflexiv
