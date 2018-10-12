@@ -9,7 +9,6 @@ rison aurier aus der Statue
 Tohrun Nu'dez großer händler (4 schiffe, metallspezialisierung) mit sind Sohn Send
 Jacun - einer der reichsten bürger von seegard
 Minem - der rhytmisch sprechende Druide aus dem Trarorischen Wald
-
 Karoni Marzanna - Asassin for Hire
 
 Arhnim - Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute
