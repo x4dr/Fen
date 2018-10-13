@@ -44,3 +44,19 @@ Reise nach Limasu
 Limasu Politik
 Rätsel in Limasu
 ===> 55
+## Kapitel 11 - Steuerflucht
+Schatzsucher an der Nase herumgeführt
+Schatz erfolgreich geschmuggelt
+Erbschatz versteckt
+Mykier rekrutiert
+Großes Feuer vorbereitet
+===> 30
+## Kapitel 12 - Nicht alles Endet im Sumpf
+Ordensritter rekrutiert
+Räuber besiegt
+Zoll von Belagerern vermieden
+Trinkgelage mit Auriern
+Piratenfurt überquert
+Infiltratoren zufrieden gehen lassen
+Sumpf überwunden
+===> 45
