@@ -5,6 +5,7 @@ Zauber bestehen aus bis zu [n] aneinandergereite Forma,
 jede forma hat eine Castzeit von einer Runde und gibt dem Caster 1 Strain  
 ein zauber muss am anfang einer runde in der keine Forma gewirkt wurde ausgelöst werden
 Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
+  
 ###Vorteile
 |Vorteil|Wirkung|  
 |:---|:----|  
