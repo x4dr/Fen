@@ -7,7 +7,6 @@ ein zauber muss am anfang einer runde in der keine Forma gewirkt wurde ausgelös
 Wurf(kleinste Formastufe,Konzept)@(2+n)  
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
 Reinfolge der Forma verändert den Zauber nicht   
- 
 ###Vorteile
 |Vorteil|Wirkung|  
 |:---|:----|  
