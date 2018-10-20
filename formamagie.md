@@ -34,7 +34,6 @@ Modifikator_Forma:
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.     
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
 ##Forma
-  
 ###Impello:
 |Typ|Art|  
 |:---|:----|  
