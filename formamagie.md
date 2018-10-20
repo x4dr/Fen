@@ -25,15 +25,15 @@ Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien 
 |Tickrate| Niedrigste im Zauber verwendete|  
 |Reinheitsstufe| Niedrigste im Zauber verwendete|  
 |Wurfmodifikator| Produkt aller Wurfmodifikatoren|  
+  
 Reinfolge der Forma verändert den Zauber nicht  
 Effekt_Forma:  
 Kerneffekte des Zaubers  
 Synergie_Forma:  
 Verändern den Kerneffekt eines Zaubers  
-Modifikator_Forma:  
-Modifizieren den Zauber ohne den Kerneffekt zu verändern.   
+Modifikator_Forma:    
+Modifizieren den Zauber ohne den Kerneffekt zu verändern.     
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
-  
 ##Forma
 ###Impello:
 |Typ|Art|  
