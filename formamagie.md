@@ -32,7 +32,9 @@ Synergie_Forma:
 Verändern den Kerneffekt eines Zaubers  
 Modifikator_Forma:  
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.   
-Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
+Benötigt mindestens eine nicht Modifikator_Forma im Zauber
+  
+    
 ##Forma
 ###Impello:
 |Typ|Art|  
@@ -67,7 +69,6 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Wurfmodifikator| 1 (Steht zur Debatte)|  
 |Reinheitsmodifikator| ???|  
 |Beispiel_Biegungen||  
-   
 ###Fulgur
 |Typ|Art|  
 |:---|:----|  
