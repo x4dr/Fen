@@ -20,7 +20,6 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 
 
 
-
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
   
 Zauber:  
@@ -49,11 +48,11 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Wirkung| gibt einem Objekt einen Richtungsvektor mit [Wurf]*3Kg Zug|  
 |Typ| Effekt_Forma|  
 |Reichweite| Berührung|  
-Dauer:Konzentration  
-Tickrate: 1 pro Runde  
-Wurfmodifikator: 1  
-Reinheitsmodifikator: +1Kg Zug  
-Beispiel_Biegungen: Flugbahn statt Vektor  
+|Dauer|Konzentration|  
+|Tickrate| 1 pro Runde|  
+|Wurfmodifikator| 1|  
+|Reinheitsmodifikator| +1Kg Zug|  
+|Beispiel_Biegungen| Flugbahn statt Vektor|  
   
 Disruptio: lässt ein Objekt explodieren  
 Typ: Effekt_Forma  
