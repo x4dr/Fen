@@ -18,7 +18,6 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|
 
 
-
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
   
 Zauber:  
@@ -77,64 +76,85 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Reinheitsmodifikator| ???|  
 |Beispiel_Biegungen||  
    
-Fulgur: erzeugt eine Instanz elektrischer Ladung, Ignoriere einen(/alle anderen) Wurfmodifikator  
-Typ: Effekt_Forma  
-Reichweite: Berührung  
-Dauer:Konzentration /bis Instanz verbraucht  
-Tickrate: 1 pro Runde (bis Instanz verbraucht)  
-Wurfmodifikator: 1  
-Reinheitsmodifikator:  mehr Instanz  
-Beispiel_Biegungen:   
+###Fulgur
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  erzeugt eine Instanz elektrischer Ladung, Ignoriere einen(/alle anderen) Wurfmodifikator|  
+|Typ| Effekt_Forma|  
+|Reichweite| Berührung|  
+|Dauer|Konzentration /bis Instanz verbraucht|  
+|Tickrate| 1 pro Runde (bis Instanz verbraucht)|  
+|Wurfmodifikator| 1|  
+|Reinheitsmodifikator|  mehr Instanz|  
+|Beispiel_Biegungen||   
   
-Ignes: erzeugt eine Flamme, AoE schaden in Zaubern  
-Typ: Effekt-Forma  
-Reichweite: Berührung  
-Dauer:Konzentration  
-Tickrate: 1 pro Runde  
-Wurfmodifikator: 1/3  
-Reinheitsmodifikator:  +1 Feuerstack pro Runde  
-Beispiel_Biegungen: Flammen Farbe,  
+###Ignes
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  erzeugt eine Flamme, AoE schaden in Zaubern|  
+|Typ| Effekt-Forma|  
+|Reichweite| Berührung|  
+|Dauer|Konzentration|  
+|Tickrate| 1 pro Runde|  
+|Wurfmodifikator| 1/3|  
+|Reinheitsmodifikator|  +1 Feuerstack pro Runde  
+Beispiel_Biegungen: Flammen Farbe,|  
   
   
 ---------------------------------------------------------------------  
-Meta: ersetzt die Reichweite eines Zaubers durch die Reichweite von Meta, erlaubt Zauber an einen Ort zu zaubern  
-Typ: Modifikator_Forma  
-Reichweite: ununterbrochene Verbindung  
-Wurfmodifikator: 1  
-Reinheitsmodifikator: ???  
-Beispiel_Biegungen:  
+Meta
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  ersetzt die Reichweite eines Zaubers durch die Reichweite von Meta, erlaubt Zauber an einen Ort zu zaubern|  
+|Typ| Modifikator_Forma|  
+|Reichweite| ununterbrochene Verbindung|  
+|Wurfmodifikator| 1|  
+|Reinheitsmodifikator| ???|  
+|Beispiel_Biegungen||  
   
-Persona: Erlaubt es einen Zauber auf eine Person/Kreatur zu beziehen  
-Typ: Modifikator_Forma  
-Reichweite: Berührung  
-Wurfmodifikator: 1  
-Reinheitsmodifikator:  +1Meter Reichweite  
-Beispiel_Biegungen: Zauber gegen das Ziel (/exclusive gegen das Ziel)  
+Persona
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  Erlaubt es einen Zauber auf eine Person/Kreatur zu beziehen|  
+|Typ| Modifikator_Forma|  
+|Reichweite| Berührung|  
+|Wurfmodifikator| 1|  
+|Reinheitsmodifikator|  +1Meter Reichweite|  
+|Beispiel_Biegungen| Zauber gegen das Ziel (/exclusive gegen das Ziel)|  
   
-Tutela: Zaubereffekt wirkt in einem 5m Radius um den Zauberer  
-Typ:Modifikator_Forma  
-Reichweite: Zauberer  
-Wurfmodifikator: ½  
-Reinheitsmodifikator: + Radius  
-Beispiel_Biegungen:   
+Tutela
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  Zaubereffekt wirkt in einem 5m Radius um den Zauberer  |
+|Typ|Modifikator_Forma|  
+|Reichweite| Zauberer|  
+|Wurfmodifikator| ½|  
+|Reinheitsmodifikator| + Radius|  
+|Beispiel_Biegungen||   
 ---------------------------------------------------------------  
-Lux: erzeugt eine Lichtkugel in der Handfläche des Zauberes  
-Typ: Synergie_Forma  
-Reichweite: Körper  
-Dauer:Konzentration  
-Tickrate:  
-Wurfmodifikator: 0 (bezüglich Schadens Ermittlung)  
-Reinheitsmodifikator:  + Lichtfaktor  
-Beispiel_Biegungen: Farbe, Fokus, alternative Position,   
+Lux
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  erzeugt eine Lichtkugel in der Handfläche des Zauberes|  
+|Typ| Synergie_Forma|  
+|Reichweite| Körper|  
+|Dauer|Konzentration|  
+|Tickrate|???|  
+|Wurfmodifikator| 0 (bezüglich Schadens Ermittlung)|  
+|Reinheitsmodifikator|  + Lichtfaktor|  
+|Beispiel_Biegungen| Farbe, Fokus, alternative Position,|   
   
-Terra: erzeugt Sand solange der Zauber besteht, kann nachträglich noch von Zaubern beeinflusst  werden  
-Typ: Synergie_Forma  
-Reichweite: Körper  
-Dauer:Konzentration  
-Tickrate: 1 pro Runde  
-Wurfmodifikator: 1  
-Reinheitsmodifikator: +erzeugte Masse pro Erfolg  
-Beispiel_Biegungen: statt Sand, andere Erdprodukte (Steht zur Debatte)  
+Terra
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  erzeugt Sand solange der Zauber besteht, kann nachträglich noch von Zaubern beeinflusst  werden|  
+|Typ| Synergie_Forma|  
+|Reichweite| Körper|  
+|Dauer|Konzentration|  
+|Tickrate| 1 pro Runde|  
+|Wurfmodifikator| 1|  
+|Reinheitsmodifikator| +erzeugte Masse pro Erfolg|  
+|Beispiel_Biegungen| statt Sand, andere Erdprodukte (Steht zur Debatte)|  
   
 Lux-Impello 	eine Lichtkugel die einer festgelegten Bewegungsanweisung folgt wenn diese  			ausgeführt ist erlischt das licht/der Zauber  
 Lux-sisto	Stoppt Licht  
