@@ -26,7 +26,6 @@ Wurfmodifikator: Produkt aller Wurfmodifikatoren
 Reinfolge der Forma verändert den Zauber nicht  
 Effekt_Forma:  
 Kerneffekte des Zaubers  
-  
 Synergie_Forma:  
 Verändern den Kerneffekt eines Zaubers  
   
@@ -150,48 +149,50 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Reinheitsmodifikator| +erzeugte Masse pro Erfolg|  
 |Beispiel_Biegungen| statt Sand, andere Erdprodukte (Steht zur Debatte)|  
   
-Lux-Impello 	eine Lichtkugel die einer festgelegten Bewegungsanweisung folgt wenn diese  			ausgeführt ist erlischt das licht/der Zauber  
-Lux-sisto	Stoppt Licht  
-Lux-Fulgur	erschafft einen Licht bogen  
-Lux-Meta	erschafft eine Lichtquelle an einem Ort  
-Lux-tutela	Leuchtende Kugel um den Ort des Zaubers  
-Lux-Terra	???  
-Lux-Ignes	Blendent Helles Licht (Magnesium Fackel)  
-Lux-Persona	ersetzt Zaubernden durch Persona-Ziel  
-Lux-Disruptio	Blendgranate  
+###Zauber Stufe 2
+|Forma|Wirkung|  
+|:---|:----|     
+|Lux-Impello|eine Lichtkugel die einer festgelegten Bewegungsanweisung folgt wenn diese  			ausgeführt ist erlischt das licht/der Zauber|  
+|Lux-sisto| Stoppt Licht|  
+|Lux-Fulgur |erschafft einen Licht bogen|  
+|Lux-Meta|erschafft eine Lichtquelle an einem Ort|  
+|Lux-tutela|Leuchtende Kugel um den Ort des Zaubers|  
+|Lux-Terra|???|  
+|Lux-Ignes|Blendent Helles Licht (Magnesium Fackel)|  
+|Lux-Persona|ersetzt Zaubernden durch Persona-Ziel|  
+|Lux-Disruptio|	Blendgranate|  
   
-Impello-sisto		Stoppt „nur“ Bewegung  
-Impello-Fulgur 	Wirft einen Blitz  
-Impello-Meta		Bewegt ein entferntes Objekt  
-Impello-tutela		Alles im Bereich bekommt einen Vektor  
-			(Default: der Vektor zeigt von der Mitte weg)  
-Imepllo-Ignes		Flammenstrahl  
-Impello-Terra		Sandstrahler  
-Impello-Persona	Gibt einer Person den Vektor  
-Impello-Diruptio	Druckwelle  
+|Impello-sisto|Stoppt „nur“ Bewegung|  
+|Impello-Fulgur|Wirft einen Blitz|  
+|Impello-Meta|Bewegt ein entferntes Objekt|  
+|Impello-tutela|Alles im Bereich bekommt einen Vektor (Default: der Vektor zeigt von der Mitte weg)|  
+|Imepllo-Ignes|Flammenstrahl|  
+|Impello-Terra|Sandstrahler|  
+|Impello-Persona|Gibt einer Person den Vektor|  
+|Impello-Diruptio|Druckwelle|  
   
-sisto-Fulgur	Stoppt „nur“ Blitze   
-sisto-Meta	Stoppt alle Bewegung von einem Ziel.  
-sisto-Tutela	Stoppt alles im Bereich  
-sisto-Ignes	Stoppt „nur“ Feuer  
-sisto-Terra	Stoppt „nur“ Erde  
-sisto-Persona	Stoppt „nur“ die Person  
-sisto-Diruptio	Stoppt „nur“ Explosives  
+|sisto-Fulgur|Stoppt „nur“ Blitze|   
+|sisto-Meta|Stoppt alle Bewegung von einem Ziel.|  
+|sisto-Tutela|Stoppt alles im Bereich|  
+|sisto-Ignes|Stoppt „nur“ Feuer|  
+|sisto-Terra|Stoppt „nur“ Erde|  
+|sisto-Persona|Stoppt „nur“ die Person|  
+|sisto-Diruptio|Stoppt „nur“ Explosives|  
   
-Fulgur-Meta	erschafft Ladung an einem Ort  
-Fulgur-Tutela	Ladung entlädt sich im Bereich  
-Fulgur-Ignes	???  
-Fulgur-Terra	 erzeugt Glas  
-Fulgur-Persona Ladung entsteht an der Person  
-Fulgur-Diruptio entlädt die Ladung um den Zauberer herum  
+|Fulgur-Meta|erschafft Ladung an einem Ort|  
+|Fulgur-Tutela|Ladung entlädt sich im Bereich|  
+|Fulgur-Ignes|???|  
+|Fulgur-Terra|erzeugt Glas|  
+|Fulgur-Persona|Ladung entsteht an der Person|  
+|Fulgur-Diruptio|entlädt die Ladung um den Zauberer herum|  
   
-Ignes-Terrra	Funken  
-Ignes-Tutela	...  
-Ignes-Persona	Flamme entsteht an der Person  
-Ignes-Meta	...  
-Ignes-disruptio Flammenexplosion  
+|Ignes-Terrra|Funken|  
+|Ignes-Tutela|...|  
+|Ignes-Persona|Flamme entsteht an der Person|  
+|Ignes-Meta|...|  
+|Ignes-disruptio| Flammenexplosion|  
   
-Terra-Tutela	Sand entsteht überall im Bereich  
-Terra-Persona	…  
-Terra-Meta	...  
-Terra-disruptio Sandexplosion  
+|Terra-Tutela|Sand entsteht überall im Bereich|  
+|Terra-Persona|…|  
+|Terra-Meta|...|  
+|Terra-disruptio|Sandexplosion|  
