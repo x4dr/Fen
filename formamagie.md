@@ -17,7 +17,6 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 |Zauber halten[k]|zauber auslösen um k runden verzögern| 
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
-  
 Zauber:  
 Reichweite: Niedrigste im Zauber verwendete  
 Dauer: Niedrigste im Zauber verwendete  
@@ -96,7 +95,7 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Tickrate| 1 pro Runde|  
 |Wurfmodifikator| 1/3|  
 |Reinheitsmodifikator|  +1 Feuerstack pro Runde  
-Beispiel_Biegungen: Flammen Farbe,|  
+|Beispiel_Biegungen| Flammen Farbe,|  
   
   
 ---------------------------------------------------------------------  
