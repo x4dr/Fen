@@ -31,7 +31,6 @@ Verändern den Kerneffekt eines Zaubers
 Modifikator_Forma:  
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.   
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
-  
 ##Forma
 ###Impello:
 |Typ|Art|  
@@ -190,7 +189,7 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Ignes-Persona|Flamme entsteht an der Person|  
 |Ignes-Meta|...|  
 |Ignes-disruptio| Flammenexplosion|  
-  
+|||  
 |Terra-Tutela|Sand entsteht überall im Bereich|  
 |Terra-Persona|…|  
 |Terra-Meta|...|  
