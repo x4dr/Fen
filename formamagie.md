@@ -17,7 +17,7 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 |Zauber halten[k]|zauber auslösen um k runden verzögern| 
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
-##Zauberparameter:  
+##Zauberparameter:
 |Eigenschaft|Art der Bestimmung|  
 |:---|:----|  
 |Reichweite| Niedrigste im Zauber verwendete|  
@@ -25,7 +25,6 @@ Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien 
 |Tickrate| Niedrigste im Zauber verwendete|  
 |Reinheitsstufe| Niedrigste im Zauber verwendete|  
 |Wurfmodifikator| Produkt aller Wurfmodifikatoren|  
-  
 Reinfolge der Forma verändert den Zauber nicht  
 Effekt_Forma:  
 Kerneffekte des Zaubers  
