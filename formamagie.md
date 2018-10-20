@@ -23,7 +23,6 @@ Dauer: Niedrigste im Zauber verwendete
 Tickrate: Niedrigste im Zauber verwendete  
 Reinheitsstufe: Niedrigste im Zauber verwendete  
 Wurfmodifikator: Produkt aller Wurfmodifikatoren  
-  
 Reinfolge der Forma verändert den Zauber nicht  
   
 Effekt_Forma:  
@@ -128,7 +127,7 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Wurfmodifikator| ½|  
 |Reinheitsmodifikator| + Radius|  
 |Beispiel_Biegungen||   
----------------------------------------------------------------  
+
 ###Lux
 |Typ|Art|  
 |:---|:----|  
