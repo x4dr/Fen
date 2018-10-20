@@ -19,7 +19,6 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 
 
 
-
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
   
 Zauber:  
@@ -54,23 +53,29 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Reinheitsmodifikator| +1Kg Zug|  
 |Beispiel_Biegungen| Flugbahn statt Vektor|  
   
-Disruptio: lässt ein Objekt explodieren  
-Typ: Effekt_Forma  
-Reichweite: Berührung  
-Dauer: Keine  
-Tickrate: Keine  
-Wurfmodifikator: 1  
-Reinheitsmodifikator: ???  
-Beispiel_Biegungen: Fokus, Explosion geht vom Objekt aus statt es explodieren zu lassen  
+###Disruptio
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  lässt ein Objekt explodieren|  
+|Typ| Effekt_Forma|  
+|Reichweite| Berührung|  
+|Dauer| Keine|  
+|Tickrate| Keine|  
+|Wurfmodifikator| 1|  
+|Reinheitsmodifikator| ???|  
+|Beispiel_Biegungen| Fokus, Explosion geht vom Objekt aus statt es explodieren zu lassen|  
   
-sisto: Stoppt dinge, Reduktion um [Wurf]  
-Typ: Effekt_Forma  
-Reichweite: Berührung  
-Dauer:Konzentration  
-Tickrate: 1 pro Runde  
-Wurfmodifikator: 1 (Steht zur Debatte)  
-Reinheitsmodifikator: ???  
-Beispiel_Biegungen:  
+###sisto
+|Typ|Art|  
+|:---|:----|  
+|Wirkung|  Stoppt dinge, Reduktion um [Wurf]|  
+|Typ| Effekt_Forma|  
+|Reichweite| Berührung|  
+|Dauer|Konzentration|  
+|Tickrate| 1 pro Runde|  
+|Wurfmodifikator| 1 (Steht zur Debatte)|  
+|Reinheitsmodifikator| ???|  
+|Beispiel_Biegungen||  
    
 Fulgur: erzeugt eine Instanz elektrischer Ladung, Ignoriere einen(/alle anderen) Wurfmodifikator  
 Typ: Effekt_Forma  
