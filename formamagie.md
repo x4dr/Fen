@@ -5,7 +5,6 @@ Zauber bestehen aus bis zu [n] aneinandergereite Forma,
 jede forma hat eine Castzeit von einer Runde und gibt dem Caster 1 Strain  
 ein zauber muss am anfang einer runde in der keine Forma gewirkt wurde ausgelöst werden
 Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
-
 ###Vorteile
 |Vorteil|Wirkung|  
 |:---|:----|  
@@ -43,10 +42,13 @@ Modifikator_Forma:
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.   
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
   
-
-Impello: gibt einem Objekt einen Richtungsvektor mit [Wurf]*3Kg Zug  
-Typ: Effekt_Forma  
-Reichweite: Berührung  
+##Forma
+###Impello:
+|Typ|Art|  
+|:---|:----|  
+|Wirkung| gibt einem Objekt einen Richtungsvektor mit [Wurf]*3Kg Zug|  
+|Typ| Effekt_Forma|  
+|Reichweite| Berührung|  
 Dauer:Konzentration  
 Tickrate: 1 pro Runde  
 Wurfmodifikator: 1  
