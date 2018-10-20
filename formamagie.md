@@ -34,6 +34,7 @@ Modifikator_Forma:
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.     
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
 ##Forma
+  
 ###Impello:
 |Typ|Art|  
 |:---|:----|  
@@ -45,7 +46,6 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Wurfmodifikator| 1|  
 |Reinheitsmodifikator| +1Kg Zug|  
 |Beispiel_Biegungen| Flugbahn statt Vektor|  
-  
 ###Disruptio
 |Typ|Art|  
 |:---|:----|  
