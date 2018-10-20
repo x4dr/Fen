@@ -16,7 +16,8 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 |Kampfzaubern|Bonus auf Auweichen beim Zaubern in der Kampfphase (Talent?)|
 |Zauber halten[k]|zauber auslösen um k runden verzögern| 
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|
-Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
+Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle. 
+   
 ##Zauberparameter:
 |Eigenschaft|Art der Bestimmung|  
 |:---|:----|  
@@ -33,7 +34,7 @@ Verändern den Kerneffekt eines Zaubers
 Modifikator_Forma:  
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.   
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber
-    
+  
 ##Forma
 ###Impello:
 |Typ|Art|  
