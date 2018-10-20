@@ -28,7 +28,6 @@ Effekt_Forma:
 Kerneffekte des Zaubers  
 Synergie_Forma:  
 Verändern den Kerneffekt eines Zaubers  
-  
 Modifikator_Forma:  
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.   
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber  
@@ -161,7 +160,7 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Lux-Ignes|Blendent Helles Licht (Magnesium Fackel)|  
 |Lux-Persona|ersetzt Zaubernden durch Persona-Ziel|  
 |Lux-Disruptio|	Blendgranate|  
-  
+|||  
 |Impello-sisto|Stoppt „nur“ Bewegung|  
 |Impello-Fulgur|Wirft einen Blitz|  
 |Impello-Meta|Bewegt ein entferntes Objekt|  
@@ -170,7 +169,7 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Impello-Terra|Sandstrahler|  
 |Impello-Persona|Gibt einer Person den Vektor|  
 |Impello-Diruptio|Druckwelle|  
-  
+|||  
 |sisto-Fulgur|Stoppt „nur“ Blitze|   
 |sisto-Meta|Stoppt alle Bewegung von einem Ziel.|  
 |sisto-Tutela|Stoppt alles im Bereich|  
@@ -178,14 +177,14 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |sisto-Terra|Stoppt „nur“ Erde|  
 |sisto-Persona|Stoppt „nur“ die Person|  
 |sisto-Diruptio|Stoppt „nur“ Explosives|  
-  
+|||  
 |Fulgur-Meta|erschafft Ladung an einem Ort|  
 |Fulgur-Tutela|Ladung entlädt sich im Bereich|  
 |Fulgur-Ignes|???|  
 |Fulgur-Terra|erzeugt Glas|  
 |Fulgur-Persona|Ladung entsteht an der Person|  
 |Fulgur-Diruptio|entlädt die Ladung um den Zauberer herum|  
-  
+|||  
 |Ignes-Terrra|Funken|  
 |Ignes-Tutela|...|  
 |Ignes-Persona|Flamme entsteht an der Person|  
