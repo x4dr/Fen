@@ -16,7 +16,6 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 |Kampfzaubern|Bonus auf Auweichen beim Zaubern in der Kampfphase (Talent?)|
 |Zauber halten[k]|zauber auslösen um k runden verzögern| 
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|
-
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
   
 Zauber:  
@@ -101,7 +100,7 @@ Beispiel_Biegungen: Flammen Farbe,|
   
   
 ---------------------------------------------------------------------  
-Meta
+###Meta
 |Typ|Art|  
 |:---|:----|  
 |Wirkung|  ersetzt die Reichweite eines Zaubers durch die Reichweite von Meta, erlaubt Zauber an einen Ort zu zaubern|  
@@ -111,7 +110,7 @@ Meta
 |Reinheitsmodifikator| ???|  
 |Beispiel_Biegungen||  
   
-Persona
+###Persona
 |Typ|Art|  
 |:---|:----|  
 |Wirkung|  Erlaubt es einen Zauber auf eine Person/Kreatur zu beziehen|  
@@ -121,7 +120,7 @@ Persona
 |Reinheitsmodifikator|  +1Meter Reichweite|  
 |Beispiel_Biegungen| Zauber gegen das Ziel (/exclusive gegen das Ziel)|  
   
-Tutela
+###Tutela
 |Typ|Art|  
 |:---|:----|  
 |Wirkung|  Zaubereffekt wirkt in einem 5m Radius um den Zauberer  |
@@ -131,7 +130,7 @@ Tutela
 |Reinheitsmodifikator| + Radius|  
 |Beispiel_Biegungen||   
 ---------------------------------------------------------------  
-Lux
+###Lux
 |Typ|Art|  
 |:---|:----|  
 |Wirkung|  erzeugt eine Lichtkugel in der Handfläche des Zauberes|  
@@ -143,7 +142,7 @@ Lux
 |Reinheitsmodifikator|  + Lichtfaktor|  
 |Beispiel_Biegungen| Farbe, Fokus, alternative Position,|   
   
-Terra
+###Terra
 |Typ|Art|  
 |:---|:----|  
 |Wirkung|  erzeugt Sand solange der Zauber besteht, kann nachträglich noch von Zaubern beeinflusst  werden|  
