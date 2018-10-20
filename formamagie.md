@@ -4,8 +4,9 @@ tags: Forma, Magie
 Zauber bestehen aus bis zu [n] aneinandergereite Forma,  
 jede forma hat eine Castzeit von einer Runde und gibt dem Caster 1 Strain  
 ein zauber muss am anfang einer runde in der keine Forma gewirkt wurde ausgelöst werden
-Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
-  
+Wurf(kleinste Formastufe,Konzept)@(2+n)
+Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle. 
+Reinfolge der Forma verändert den Zauber nicht    
 ###Vorteile
 |Vorteil|Wirkung|  
 |:---|:----|  
@@ -18,8 +19,7 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 |Zauber halten[k]|zauber auslösen um k runden verzögern| 
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|  
   
-Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle. 
-  
+
 ##Zauberparameter:
 |Eigenschaft|Art der Bestimmung|  
 |:---|:----|  
@@ -29,12 +29,13 @@ Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien 
 |Reinheitsstufe| Niedrigste im Zauber verwendete|  
 |Wurfmodifikator| Produkt aller Wurfmodifikatoren|  
   
-Reinfolge der Forma verändert den Zauber nicht  
-Effekt_Forma:  
+
+
+###Effekt_Forma:  
 Kerneffekte des Zaubers  
-Synergie_Forma:  
+###Synergie_Forma:  
 Verändern den Kerneffekt eines Zaubers  
-Modifikator_Forma:    
+###Modifikator_Forma:    
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.     
 Benötigt mindestens eine nicht Modifikator_Forma im Zauber 
    
