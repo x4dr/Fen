@@ -8,7 +8,7 @@ Wurf(kleinste Formastufe,zweit kleinste Formastufe)@(2+n)
 ###Vorteile
 |Vorteil|Wirkung|  
 |:---|:----|  
-|Schnell Zaubern|Zauber am Ende der Runde auszulösen stat am Anfang der nächsten, erzeugt 1 Strain |
+|Schnell Zaubern|Zauber am Ende der Runde auszulösen stat am Anfang der nächsten, erhöht die Komplexität um 2 |
 |In Bewegung Zaubern|beim Zaubernbewegen mit langsames gehen/gehen/schnelles gehen/dauerlauf/normales rennen|  
 |Zauber biegen [k]|Komplexität eines Zaubers um k erhöen um den Effekt um k stufen zu verändern |
 |Konzentration [k]|k Zauber gleichzeitig aufrecht zu erhalten ???|
@@ -56,7 +56,6 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Wurfmodifikator| 1|  
 |Reinheitsmodifikator| ???|  
 |Beispiel_Biegungen| Fokus, Explosion geht vom Objekt aus statt es explodieren zu lassen|  
-  
 ###sisto
 |Typ|Art|  
 |:---|:----|  
