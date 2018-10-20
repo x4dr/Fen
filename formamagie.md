@@ -24,7 +24,6 @@ Tickrate: Niedrigste im Zauber verwendete
 Reinheitsstufe: Niedrigste im Zauber verwendete  
 Wurfmodifikator: Produkt aller Wurfmodifikatoren  
 Reinfolge der Forma verändert den Zauber nicht  
-  
 Effekt_Forma:  
 Kerneffekte des Zaubers  
   
@@ -96,8 +95,7 @@ Benötigt mindestens eine nicht Modifikator_Forma im Zauber
 |Reinheitsmodifikator|  +1 Feuerstack pro Runde  
 |Beispiel_Biegungen| Flammen Farbe,|  
   
-  
----------------------------------------------------------------------  
+    
 ###Meta
 |Typ|Art|  
 |:---|:----|  
