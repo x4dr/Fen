@@ -6,7 +6,8 @@ jede forma hat eine Castzeit von einer Runde und gibt dem Caster 1 Strain
 ein zauber muss am anfang einer runde in der keine Forma gewirkt wurde ausgelöst werden
 Wurf(kleinste Formastufe,Konzept)@(2+n)  
 Zauber fallen lassen: pro Runde Kann ein Aktiver Zauber kostenlos in der freien Phase deaktiviert werden. Pro weiter Zauber der in der gleichen Runde deaktiviert wird +1 Würfel auf die Tabelle.  
-Reinfolge der Forma verändert den Zauber nicht    
+Reinfolge der Forma verändert den Zauber nicht   
+ 
 ###Vorteile
 |Vorteil|Wirkung|  
 |:---|:----|  
@@ -18,7 +19,6 @@ Reinfolge der Forma verändert den Zauber nicht
 |Kampfzaubern|Bonus auf Auweichen beim Zaubern in der Kampfphase (Talent?)|
 |Zauber halten[k]|zauber auslösen um k runden verzögern| 
 |Fokussieren|Zauber in n(n+1)/2 Runde wirken für insgesamt 1 Strain|  
-
 ##Zauberparameter:
 |Eigenschaft|Art der Bestimmung|  
 |:---|:----|  
