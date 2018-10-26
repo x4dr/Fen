@@ -1,6 +1,6 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 17/25  
+unsichtbarkeitsring (11-x safeempty) 14/25  
 Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
@@ -14,9 +14,11 @@ amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions
 magischer Schutzgürtel 3 fancyness
 -2 auf allen incoming damage für eine stunde (artefakte@5)
 1/50/50 
+
 Magischer Unsichtbarkeitskompass 2 fancyness  
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
-/15/20
+10/15/20
+
 Shadowstone 0/40/40
 Magisches Feuerzeug  9/15
 ####Pirate Loot
@@ -47,7 +49,6 @@ sie tun irgendwas mit dem richtigen wort
 * hält sauber, trocken, unglitschig  
 * Ladung pro reinigungsarbeit, bei Kleidung wäre es 1 pro woche oder 1 pro Stunde in Matsch/Wasser 
 * 0/10/10
-
 #####edelstein 2 (9)14  
 * stimmt sich auf besitzer ein  
 * 0/10/10
