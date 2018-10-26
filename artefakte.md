@@ -1,6 +1,6 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 25/25  
+unsichtbarkeitsring (11-x safeempty) 17/25  
 Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
@@ -43,7 +43,6 @@ sie tun irgendwas mit dem richtigen wort
 *Ladung pro minute aktivität
 #####staff of doing stuff (12)14  
 *+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung
-
 #####edelstein 1 (10)15  
 * hält sauber, trocken, unglitschig  
 * Ladung pro reinigungsarbeit, bei Kleidung wäre es 1 pro woche oder 1 pro Stunde in Matsch/Wasser 
