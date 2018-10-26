@@ -4,8 +4,9 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
+Ausrüstung:  
+Wundheilpendel  
 &nbsp;  
-  
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
