@@ -14,6 +14,7 @@ tags:
 | Salz | 20c |  
 | Rindfleisch | 50c |
 | Butter/Käse | 30c |
+| Schwebstein | 80s |  
 ---
 |Dinge| Preis pro Stück |
 | :---|---:|
@@ -29,7 +30,6 @@ tags:
 | Stahl Schwert| 10g |
 | Pferd | 5g-100g |  
 | 1km^2 Fruchtbares land | 1-2 g |  
-  
 
 
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.   
