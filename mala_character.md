@@ -1,11 +1,12 @@
 title: Mala  
 tags: Mala  
-Name: Mala 
-Alter:  25
-Spezies: Mensch 
-Charakterkonzept:  Priesterin Illargias
-Ausrüstung:  Wundpendel, Tücher, Pfeil und Bogen
+Name: Mala  
+Alter:  25  
+Spezies: Mensch   
+Charakterkonzept:  Priesterin Illargias  
+Ausrüstung:  Wundpendel, Tücher, Pfeil und Bogen  
 Wundheilpendel  
+  
 &nbsp;  
 ##Stärke  
 ###Attribute  
@@ -14,6 +15,7 @@ Wundheilpendel
 |Gesundheit|2|  
 |Ausdauer|2|  
 |Körperkraft|1|  
+  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -22,7 +24,6 @@ Wundheilpendel
 |Wundheilung|2|  
 |Waffe(Tücher)|3|  
 &nbsp;  
-  
 ##Können  
 ###Attribute  
 |Attribute|Level|  
