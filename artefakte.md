@@ -1,6 +1,6 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 23/25  
+unsichtbarkeitsring (11-x safeempty) 25/25  
 Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
@@ -41,7 +41,6 @@ sie tun irgendwas mit dem richtigen wort
 #####Reich verziertes kronenähnliches [Ding](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg) (10)11  
 *Verzauberung für verbesserte Sinne
 *Ladung pro minute aktivität
-
 #####staff of doing stuff (12)14  
 *+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung
 
