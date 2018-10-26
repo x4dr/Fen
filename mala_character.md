@@ -6,7 +6,6 @@ Spezies: Mensch
 Charakterkonzept:  Priesterin Illargias  
 Ausrüstung:  Wundpendel, Tücher, Pfeil und Bogen  
 Wundheilpendel  
-  
 &nbsp;  
 ##Stärke  
 ###Attribute  
@@ -39,11 +38,11 @@ Wundheilpendel
 |Textilverarbeitung|2|  
 |Metallverarbeitung|1|  
 |MagieHandwerk|4|  
-|Holzverarbeitung|0|  
+|Glasverarbeitung|2|  
 |Konstruktion|0|  
 |Akrobatik|0|  
 |Diebeshandwerk|0|  
-|Schleichen|0|  
+|Schleichen|2|  
 |Reiten|0|  
   
 &nbsp;  
@@ -65,6 +64,7 @@ Edelstein 20/20/??
 |:---|----:|  
 |Schutzmagie|3|  
 |Medium|3|  
+|Wassermagie|1| 
   
 ###Zauber  
 |Zauber|Level|  
@@ -77,6 +77,8 @@ Edelstein 20/20/??
 |Tarot-Blick des Schicksals|1|  
 |Stimme der Verlorenen Seelen|1|  
 |Grablichter|1| 
+|Wasserstrahl|1| 
+|Wasserplatsch|1| 
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -101,7 +103,7 @@ Edelstein 20/20/??
 |Heilen|2|  
 |Wissen(Magie)|2|.|  
 |Forschung|0|  
-|Strategie|0|  
+|Strategie|1|  
 |Taktik|0|  
 |Wissen(Gebiet)|0|  
   
@@ -143,7 +145,7 @@ Edelstein 20/20/??
 |Einschüchtern|1|  
 |Befehlsgewalt|1|  
 |Empathie|3|  
-|Etiquette|0|  
+|Etiquette|1|  
 |Tratsch|0|  
   
 &nbsp;  
