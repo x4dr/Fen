@@ -21,7 +21,6 @@ Wundheilpendel
 |Schwimmen|2|  
 |Wundheilung|2|  
 |Waffe(Tücher)|3|  
-  
 &nbsp;  
   
 ##Können  
