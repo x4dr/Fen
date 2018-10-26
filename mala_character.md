@@ -1,7 +1,5 @@
 title: Mala  
 tags: Mala  
-
-
 Name:  
 Alter:  
 Spezies:  
@@ -15,14 +13,15 @@ Charakterkonzept:
 |:---|----:|  
 |Gesundheit|2|  
 |Ausdauer|2|  
-|Körperkraft|2|  
+|Körperkraft|1|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Athletik|1|  
-|Schwimmen|1|  
-|Wundheilung|3|  
+|Athletik|0|  
+|Schwimmen|2|  
+|Wundheilung|2|  
+|Waffe(Tücher)|3|  
   
 &nbsp;  
   
@@ -33,23 +32,20 @@ Charakterkonzept:
 |Fingerfertigkeit|4|  
 |Wendigkeit|2|  
 |Rüstung|1|  
-|Artefakte|3|  
+|Artefakte|2|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Stoffverarbeitung|2|  
-|Metallverarbeitung|4|  
-|Alchemie|1|  
+|Textilverarbeitung|2|  
+|Metallverarbeitung|1|  
 |MagieHandwerk|4|  
-|Lederverarbeitung|0|  
 |Holzverarbeitung|0|  
 |Konstruktion|0|  
 |Akrobatik|0|  
 |Diebeshandwerk|0|  
 |Schleichen|0|  
 |Reiten|0|  
-|Textilverarbeitung|0|  
   
 &nbsp;  
   
@@ -89,14 +85,14 @@ Edelstein 20/20/??
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|3|  
-|Erinnerungsvermögen|2|  
-|Wahrnehmung|3|  
+|Erinnerungsvermögen|3|  
+|Wahrnehmung|2|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Instinkt|3|  
-|Heilen|0|  
+|Instinkt|2|  
+|Heilen|2|  
 |Wissen(Magie)|2|.|  
 |Forschung|0|  
 |Strategie|0|  
@@ -134,12 +130,12 @@ Edelstein 20/20/??
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Handel|3|  
-|Diplomatie|1|  
+|Handel|2|  
+|Diplomatie|0|  
 |Lügen|0|  
-|Stil|0|  
-|Einschüchtern|0|  
-|Befehlsgewalt|0|  
+|Stil|1|  
+|Einschüchtern|1|  
+|Befehlsgewalt|1|  
 |Empathie|0|  
 |Etiquette|0|  
 |Tratsch|0|  
@@ -151,14 +147,14 @@ Edelstein 20/20/??
 |Attribute|Level|  
 |:---|----:|  
 |Glück|1|  
-|Mut|3|  
+|Mut|2|  
 |Gunst|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|2|  
-|Wille:|2|  
+|Wille:|1|  
 |Göttliche Bindung (Ilargia):|3|  
 |Göttliche Bindung (Gott):|0|  
   
