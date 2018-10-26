@@ -1,6 +1,6 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 14/25  
+unsichtbarkeitsring (11-x safeempty) 0/25  
 Wergift Kurzschwert (input only) 10/10
 Bei Tag: Schadensgift Stärke 6 (pen 20)
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)
@@ -14,10 +14,9 @@ amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions
 magischer Schutzgürtel 3 fancyness
 -2 auf allen incoming damage für eine stunde (artefakte@5)
 1/50/50 
-
 Magischer Unsichtbarkeitskompass 2 fancyness  
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
-10/15/20
+1/15/20
 
 Shadowstone 0/40/40
 Magisches Feuerzeug  9/15
@@ -219,3 +218,37 @@ Karte (19)- Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. 
 * telepathie
 ##### Waage (6)
 * wenn aktiviert kommt da magische energie raus
+
+#### Tantor Tränke
+Violett - 15
+Wasserwandeln 
+
+Blau - 12
+Schönheit 
+
+Grün - 13
+Kulinarischer Trank
+
+Kaminrot - 11
+... warm?
+
+Magenta - 16
+betäubt den geist und erhöht ausdauer
+
+Cyan - 8
+... kalt?
+
+Gelb - 10
+Hält wach?
+
+Orange - 14
+Wahrnehmung Bonus +5 ... und macht sehr detail fasziniert 
+
+Klar - 15
+Keine Schmerzen, keine Ohnmacht, kein Schlaf
+
+Schwarz - 13
+Kristallisierung der Haut, Jeder erleidete Schaden wird um 5 gesenkt, ist aber mindestens 1 (auch wenn rüstung ihn auf 0 reduziert)
+
+Weiß - 15
+zufällig Elementarer Atem
