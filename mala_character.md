@@ -14,7 +14,6 @@ Wundheilpendel
 |Gesundheit|2|  
 |Ausdauer|2|  
 |Körperkraft|1|  
-  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -131,7 +130,7 @@ Edelstein 20/20/??
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Eindruck|2|  
+|Eindruck|3|  
 |Durchsetzungsvermögen|4|  
 |Sympathie|2|  
   
@@ -140,7 +139,7 @@ Edelstein 20/20/??
 |:---|----:|  
 |Handel|2|  
 |Diplomatie|0|  
-|Lügen|0|  
+|Lügen|2|  
 |Stil|1|  
 |Einschüchtern|1|  
 |Befehlsgewalt|1|  
