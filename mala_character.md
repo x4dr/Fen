@@ -4,7 +4,6 @@ Name:
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
 &nbsp;  
   
 ##Stärke  
@@ -77,6 +76,13 @@ Edelstein 20/20/??
 |Handlesen|1|  
 |Tarot-Blick des Schicksals|1|  
 |Stimme der Verlorenen Seelen|1|  
+|Grablichter|1| 
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|vertärken|1|  
+|großer Schild|1|  
   
 &nbsp;  
   
@@ -136,7 +142,7 @@ Edelstein 20/20/??
 |Stil|1|  
 |Einschüchtern|1|  
 |Befehlsgewalt|1|  
-|Empathie|0|  
+|Empathie|3|  
 |Etiquette|0|  
 |Tratsch|0|  
   
