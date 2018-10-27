@@ -17,7 +17,6 @@ magischer Schutzgürtel 3 fancyness
 Magischer Unsichtbarkeitskompass 2 fancyness  
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
 1/15/20
-
 Shadowstone 0/40/40
 Magisches Feuerzeug  9/15
 ####Pirate Loot
@@ -236,7 +235,7 @@ Magenta - 16
 betäubt den geist und erhöht ausdauer
 
 Cyan - 8
-... kalt?
+überzieht mit schützender eisschicht
 
 Gelb - 10
 Hält wach?
