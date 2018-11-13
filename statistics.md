@@ -14,6 +14,8 @@ tags:
 |9| | | | | | | 9.43| 8.68|  
 |10| | | | | | | | 9.51|  
 
+
+## Schwierigkeit, Wert, Wert : Wahrscheinlichkeit
 (0, 1, 0) : 100.0%
 (0, 1, 1) : 100.0%
 (0, 1, 2) : 0.0%
