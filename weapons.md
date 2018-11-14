@@ -15,9 +15,9 @@ tags:
 |Armbrust| XP | 0 |  30 |  Reload KK,Armbrust@5>X*2-x/3:r, Teilunterbrechbar|  
 |Kurzschleuder| 0B | 1 | 10 |  Reload 1, Unterbrechbar |  
 |Langschleuder| 0B | 2 | 40 |  Reload 1, Schwierigkeit +2, Unterbrechbar |  
-|Nahkampf| 0B | 1 | 0 |   |  
-# Anmerkungen
+|Nahkampf| 0B | 1 | 0 |   
 
+# Anmerkungen
 ##Schadenstypen
 [sind möglichkeiten für was die waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](damage)
 
