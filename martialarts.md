@@ -19,28 +19,27 @@ Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spez
 #### Kampfhaltung  
 passiv
 +3 Schaden
-
 ##### Hammerschläge
 passiv  
 +5 Schaden, -1 Multiplikator, Schaden zählt als Stumpf 
 
-#####: Präzision
+##### Präzision
 passiv  
 -2 Schaden, +1 Multiplikator, Schaden zählt als Durchdringend
 
-#### Beinfeger
+##### Beinfeger
 reflexiv
 Ändert den Aktuellen Angriff, bei Erfolg wird kein Schaden angerichtet, aber das Ziel stürzt zu Boden.  
 
-#### Aufs Ganze
+##### Aufs Ganze
 reflexiv(waffenlos)  
 Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und Defensive fallen diese Runde auf 0 während kein Angriff bereit ist.
 
-#### Kampfhaltung: Schnelle Serie
+##### Kampfhaltung: Schnelle Serie
 Technik  
 +4 Offensive, -2 Defensive, Offensive kann um 1 gesenkt werden um direkt eine weiteren Angriff zu erhalten. Halbiert Angerichteten Schaden nach Rüstung.
 
-#### Kehlkopfschlag
+##### Kehlkopfschlag
 Technik  
 Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 fällt und nich sprechen kann.
 
