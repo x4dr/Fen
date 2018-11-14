@@ -14,7 +14,7 @@ tags:
 |8| | | | | | 9.32| 8.50| 7.77|  
 |9| | | | | | | 9.43| 8.68|  
 |10| | | | | | | | 9.51|  
-
+  
 normalerweise ist nur K5 relevant  
 
 ## Muster trigger  
