@@ -19,7 +19,6 @@ Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spez
 #### Kampfhaltung  
 passiv (waffenunabhängig)
 +3 Schaden  
-
 ##### Hammerschläge
 passiv  
 +5 Schaden, -1 Multiplikator, Schaden zählt als Stumpf 
@@ -49,16 +48,16 @@ Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den
 Defensive zählt gegen Projektile. Bewegung löst keine Gelegenheitsangriffe aus.
 
 ##### Unbeständigkeit
-passiv  (waffenunabhängig)
-Bei Resonanz kann sofort in die Lufthaltung gewechselt werden, wenn Unbeständigkeit teil dieser ist. Bis zum Ende der nächsten Runde nach einem Wechsel auf diese Weise +Defensive in höhe der Summe aller Resonanzen.
+passiv  (waffenunabhängig)  
+Bei Resonanz kann sofort in die Lufthaltung gewechselt werden, wenn Unbeständigkeit teil dieser ist. Nach einem Wechsel auf diese Weise +Defensive in Höhe der Summe aller Resonanzen bis zum Ende der nächsten Runde.  
 +2 Defensive, Wenn getroffen ändert sich die Kampfhaltung sofort.
 
 ##### Ansturm
-passiv  (waffenunabhängig)
+passiv  (waffenunabhängig)  
 +3 Defensive, +5 Offensive. Wenn sich mindestens 50% der Bewegungsreichweite bewegt wurde.
 
 ##### Projektil fangen
-reflexiv
+reflexiv  
 Wenn ein Fernkampfangriff durch Defensive verhindert wurde, oder die Defensive die Offensive eines Nahkampfangriffes, dessen Projektil sich zu irgend einem Zeitpunkt nach abschuss und vor Ankunft innerhalb von einem Meter Radius um den Charakter befindet, überschreitet wird das Projektil gefangen und ist für den nächsten Angriff bereit gemacht (sofern eine Hand frei ist; das Projektil ist nur für die aktuelle Runde mit Waffenlos zu gebrauchen). Das beinhaltet kein zurückschleudern o.ä.
 Das Projektil muss dabei leicht genug sein um gefangen werden zu können. Bonusschaden hängt vom Projektil ab.   
 Pfeil: 5  
