@@ -2,12 +2,11 @@ title: Kurzschwert
 tags:   
 [Hagel](shortsword#hagel) -> [Zweithand](shortsword#zweithand) -> [Waghalsigkeit](shortsword#waghalsigkeit) -> [Unvernunft](shortsword#unvernunft) -> [Wahnsinn](shortsword#wahnsinn)  
 [Hagel](shortsword#hagel) -> [Ablenken](shortsword#ablenken) -> [Pressen](shortsword#pressen) -> [Überwältigen](shortsword#Überwältigen) -> [Ausschalten](shortsword#ausschalten)  
-[Hagel](shortsword#hagel) -> [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Verbesserter](shortsword#verbesserter) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Zerfetzender](shortsword#zerfetzender) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Wirbelsturm](shortsword#wirbelsturm)  
+[Hagel](shortsword#hagel) -> [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Verbesserter Verteidigungswirbel](shortsword#verbesserterverteidigungswirbel) -> [Zerfetzender Verteidigungswirbel](shortsword#zerfetzenderverteidigungswirbel) -> [Wirbelsturm](shortsword#wirbelsturm)  
 [Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#rücksprung) -> [Zen](shortsword#zen) -> [Klingenbiss](shortsword#klingenbiss) -> [Hinrichtung](shortsword#hinrichtung)  
 #### Hagel
 Technik 
 +2 Offensive, -1 Defensive
-
 #### Zweithand
 passiv 
 wenn ein Kurzschwert in der zweiten Hand geführt wird.  
