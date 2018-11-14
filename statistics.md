@@ -13,9 +13,9 @@ tags:
 |8| | | | | | 9.32| 8.50| 7.77|  
 |9| | | | | | | 9.43| 8.68|  
 |10| | | | | | | | 9.51|  
-  
-  
-| Muster | Wahrscheinlichkeit|  
+ 
+##Muster trigger 
+| Muster | Wahrscheinlichkeit|   
 | ...: | :---|  
 | 1 1 1 1 1 | 30.24% |  
 | 1 1 1 2 | 50.4% |  
