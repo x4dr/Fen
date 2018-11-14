@@ -16,7 +16,6 @@ Mehrfach die gleiche Haltung steigert die Stufe um 1: zum Beispiel Haltung -> Ka
 ### Haltung
 Technik  
 Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spezifiert wird, geht der Charakter in Grundhaltung und erhält eine Reaktion auf einen kommenden Angriff entweder seine Offensive um 3 zu senken und zu Kontern, oder seine Defensive um 3 zu steigern. Beim Ändern der Haltung können Verständnis, Gefühl und Bewusstsein der eingenommenen Haltung neu belegt werden.  
-
 #### Kampfhaltung  
 passiv (waffenunabhängig)
 +3 Schaden  
@@ -37,7 +36,7 @@ reflexiv (waffenunabhängig)
 reflexiv
 Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und Defensive fallen diese Runde auf 0 während kein Angriff bereit ist.
 
-##### Kampfhaltung: Schnelle Serie
+##### Schnelle Serie
 Technik  
 +4 Offensive, -2 Defensive, Offensive kann um 1 gesenkt werden um direkt eine weiteren Angriff zu erhalten. Halbiert Angerichteten Schaden nach Rüstung.
 
@@ -98,9 +97,9 @@ Aktueller Vorteil wird 1. Gegnerischer Angriffe bekommen Vorteil 1.
 reflexiv
 Das erste mal pro runde, wenn erfolgreich gegen einen Angriff verteidigt wurde (0 Schaden, durch Defensive oder Rüstung) wird das Ziel geworfen und liegt danach hinter dem Charakter.
 
-##### Erdhaltung: Felsschlag
+##### Felsschlag
 Technik 
-Wenn ein Treffer gelandet wird, gilt der Schaden als Stumpf und das Ziel wird mindestens 2 Meter nach hinten bewegt und hat halbierte Offensive und Defensive für den nächsten angriff. 
+Wenn ein Treffer gelandet wird, gilt der Schaden als Stumpf und das Ziel wird mindestens 2 Meter nach hinten bewegt und hat halbierte Offensive und Defensive bis ans ende der aktuellen Runde. 
 
 ##### Festung
 Technik
