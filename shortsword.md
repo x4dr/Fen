@@ -4,7 +4,6 @@ tags:
 [Hagel](shortsword#hagel) -> [Ablenken](shortsword#ablenken) -> [Pressen](shortsword#pressen) -> [Überwältigen](shortsword#Überwältigen) -> [Ausschalten](shortsword#ausschalten)  
 [Hagel](shortsword#hagel) -> [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Verbesserter](shortsword#verbesserter) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Zerfetzender](shortsword#zerfetzender) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Wirbelsturm](shortsword#wirbelsturm)  
 [Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#rücksprung) -> [Zen](shortsword#zen) -> [Klingenbiss](shortsword#klingenbiss) -> [Hinrichtung](shortsword#hinrichtung)  
-
 #### Hagel
 Technik 
 +2 Offensive, -1 Defensive
@@ -13,7 +12,7 @@ Technik
 passiv 
 wenn ein Kurzschwert in der zweiten Hand geführt wird.  
 Waffenschaden ist der höhere der getragenen Waffen, Effekte beider Waffen sind aktiv.  
-+4 Offensive, -1 Defensive  
++3 Offensive, -2 Defensive  
 
 #### Waghalsigkeit
 Technik  
