@@ -16,9 +16,12 @@ tags:
 |Kurzschleuder| 0B | 1 | 10 |  Reload 1, Unterbrechbar |  
 |Langschleuder| 0B | 2 | 40 |  Reload 1, Schwierigkeit +2, Unterbrechbar |  
 |Nahkampf| 0B | 1 | 0 |   
+  
+  
+&nbsp;  
 
-# Anmerkungen
-##Schadenstypen
+# Anmerkungen  
+##Schadenstypen  
 [sind möglichkeiten für was die waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](damage)
 
 
