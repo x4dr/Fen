@@ -5,15 +5,15 @@ tags:
 [Hagel](shortsword#hagel) -> [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Verbesserter](shortsword#verbesserter) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Zerfetzender](shortsword#zerfetzender) [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Wirbelsturm](shortsword#wirbelsturm)  
 [Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#rücksprung) -> [Zen](shortsword#zen) -> [Klingenbiss](shortsword#klingenbiss) -> [Hinrichtung](shortsword#hinrichtung)  
 
-
 #### Hagel
 Technik 
 +2 Offensive, -1 Defensive
 
 #### Zweithand
-passiv, wenn ein Kurzschwert in der zweiten Hand geführt wird.  
-Waffenschaden ist der geringere der getragenen Waffen, Effekte beider Waffen sind aktiv.  
-+1 Offensive, -1 Defensive  
+passiv 
+wenn ein Kurzschwert in der zweiten Hand geführt wird.  
+Waffenschaden ist der höhere der getragenen Waffen, Effekte beider Waffen sind aktiv.  
++4 Offensive, -1 Defensive  
 
 #### Waghalsigkeit
 Technik  
