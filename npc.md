@@ -1,7 +1,6 @@
 title: npc  
 tags:   
 VORAGE der meisterkoch (ehem VORAGE der barbar, VORAGE drachentöter, VORAGE ohnegnade, VORAGE der mächtige)  
-
 moruhin der kauzige und oris der mysteriöse kater  
 
 mathilda die abenteurergildenempfangsdame  
@@ -35,3 +34,5 @@ Rayir Lilschyz - Bandit -> Söldner -> General Major von Vernal (gebunden an Mü
 Culbard - Barde mit Kristallschreinlegende
 
 Kalvor - der Nordprekorische Warlord
+
+Teun - Anwalt aus Yamkor
