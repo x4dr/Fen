@@ -1,23 +1,36 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 0/25    
+unsichtbarkeitsring (11-x safeempty) 25/25    
+  
 Wergift Kurzschwert (input only) 10/10  
+  
 Bei Tag: Schadensgift Stärke 6 (pen 20)  
+
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)  
+
 recharged on transformation  
-sprunggürtelschnalle (safeempty) 4/30  
-Blauer Edelstein 0/50/65  
+
+sprunggürtelschnalle (safeempty) 30/30  
+
+Blauer Edelstein 50/50/65  
+
 allgemeinparty   
+
 amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 0/40/50   
+  
 amulett 2 - identifiziert 6 more spells, strategically   
+
 amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions   
+
 magischer Schutzgürtel 3 fancyness  
 -2 auf allen incoming damage für eine stunde (artefakte@5)  
-1/50/50  
+50/50/50  
+
 Magischer Unsichtbarkeitskompass 2 fancyness   
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
-1/15/20
-Shadowstone 0/40/40
+15/15/20
+
+Shadowstone 40/40/40
 Magisches Feuerzeug  9/15
 ####Pirate Loot
 (ID 9)
@@ -59,7 +72,6 @@ sie tun irgendwas mit dem richtigen wort
 * 0/40/60
 * Maximumsverlust bei 1
 * 12-(artefakt@5) ladung
-
 #####edelstein 4 (12)8  
 * can't touch it  
 * platz machender Puls  
