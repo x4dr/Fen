@@ -57,5 +57,6 @@ Söldner 25 (wilderer-banditen)
 |-30G|Schmiedebuch|
 |-100G|Holz fürs große Feuer|
 |-2,1G|Gambeson|
+|-50G|Anwalt|
 |--------|---|
-1110,56G
+1060,56G
