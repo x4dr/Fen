@@ -1,7 +1,6 @@
 title: Schnelle Alchemie  
 tags:   
 Zauber der Schnellalchemie sind eher für direkte Situationen bzw "im Affekt" zu gebrauchen und haben deshalb eher schnelle, eher direkte Wirkungsweisen.
-
 ##Zauber der Schnellalchemie
 
 ###Feuersee
@@ -58,4 +57,6 @@ Von da aus wird das nächstgelegene Ziel ausgesucht. Es erhält einen Schlag und
 
 Wenn nicht klar ist welches Ziel näher steht, werden sie in aufsteigender Reihenfolge von Glück getroffen. (Wenn kein Wurf vorliegt, wird einer gemacht, ansonsten Interpretation auf den aktuellen Wurf.)
 
+7-Resonanz:
+Zusätzliche Ladungen
 
