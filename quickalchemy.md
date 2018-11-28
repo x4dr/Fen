@@ -1,7 +1,6 @@
 title: Schnelle Alchemie  
 tags:   
 Zauber der Schnellalchemie sind eher für direkte Situationen bzw "im Affekt" zu gebrauchen und haben deshalb eher schnelle, eher direkte Wirkungsweisen.
-
 Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der gleichen) eine ingredienz die ein Stück bildet bis zu 5 Meter zielsicher geworfen werden kann. Mehr benötigt ein entsprechendes Wurfedium (zum beispiel flacon/säckchen für pulver) und einen Fingerfertigkeit-Werfen/Athletik wurf. (**Wurf**=>meter). (WIP?)
 
 ##Zauber der Schnellalchemie
@@ -113,7 +112,7 @@ Objekt auf das die Asche aufgebracht wird (dort wo die Asche aufgebracht wird) a
 ### Statischer Schlag
 Energie 5+, Materialkomponente: Leitendes Medium (normalerweise metall; 10g)
 
-Zauberzeit: 1
+Zauberzeit: 0
 Dauer: 1 Pro 5 Überschüssiger Energie +1 Runden (bzw bis ausgelöst)
 
 Nächster Kontakt außerhalb des Zaubernden der Materialkomponente verursacht **Wurf** Blitzschaden.
