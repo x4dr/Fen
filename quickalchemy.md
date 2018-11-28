@@ -1,6 +1,9 @@
 title: Schnelle Alchemie  
 tags:   
 Zauber der Schnellalchemie sind eher für direkte Situationen bzw "im Affekt" zu gebrauchen und haben deshalb eher schnelle, eher direkte Wirkungsweisen.
+
+Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der gleichen) eine ingredienz die ein Stück bildet bis zu 5 Meter zielsicher geworfen werden kann. Mehr benötigt ein entsprechendes Wurfedium (zum beispiel flacon/säckchen für pulver) und einen Fingerfertigkeit-Werfen/Athletik wurf. (**Wurf**=>meter). (WIP?)
+
 ##Zauber der Schnellalchemie
 
 ###Feuersee
@@ -45,8 +48,8 @@ Wenn eine Energiequelle (Lampenöl, Seelen, geladene Magiesteine, usw) im Wirkun
 Zusätzliche Dauer.
 
 
-###Static Charge 
-Ordnung 5+ Energie 5+, Materialkomponente: kleiner Ziehstein (~10g)
+###Statische Entladung
+Ordnung 5+ Energie 5+, Materialkomponente: kleiner Ziehstein (10g)
 
 Zauberzeit: 3 Runden
 
@@ -60,3 +63,90 @@ Wenn nicht klar ist welches Ziel näher steht, werden sie in aufsteigender Reihe
 7-Resonanz:
 Zusätzliche Ladungen
 
+
+### Ordnen
+Ordnung 5+, Materialkomponente: Salz (10g)
+
+Zauberzeit: 0
+
+Ordnet das Worauf das Salz angewendet wird. Höhere Würfe Ordnen mehr. Beispiele: Stapel Papier (Reihenfolge, 2^(**Wurf**-5) Blätter), Sand/Wasser (glätten, **Wurf**-5 m^2), Spuren ( verwischen **Wurf** -5 m). Wenn Ziel Person ist, wirkt **Wurf**-5 Verwirrungseffekten/Panik und Kreativität usw entgegen.
+
+### Gefrieren
+Ordnung 3+, Materie 3+, Materialkomponente: Quarzkristall(e) (10g)
+
+Zauberzeit: 0
+Dauer: Konzentration 1/Dedikation 1
+
+Medium gefriert am Berührungspunkt mit dem/den Kristallen, bis zu **Wurf**-8 m Radius (beinflusst von Reinheitsgrad des Mediums und der relativen Größe des Korns). Wenn reiner Quartzsand verwendet wird, gilt jedes Korn Einzeln. Als Waffe im Kampf mit Waffenlos zu gebrauchen macht bei Kontakt mit Schleimhäuten/Augen/offenen Wunden **Wurf**/3 unmitigierbaren Schaden und senkt alle Ergebnise des Gegners um den selben Wert. Bei Ende kehrt alles in den Vorherigen Zustand zurück. Selbst bei Dedikation gelten normale Schmelzprozesse. Effekt ist eher Kristalliserung und Entzieht nur begrenzte Mengen Energie. Funktioniert am besten mit reinen Materialien.
+
+### ??
+Ordnung 3+ , Energie 3+
+
+### Essenz des Glücks
+Ordnung 3+, Entropie 3+, Materialkomponente: Knöchel (10g)
+
+Zauberzeit: 0
+
+Stellt **Wurf**/4 Würfel bereit die in dieser runde als bonus/maluswürfel frei verteilt werden können auf Aktionen die in Physischem Kontakt mit dem Knöchel begangen werden.
+
+### Härten
+Materie 5+, Materialkomponente: gereinigter, vorbereiteter Stahl (10g)
+
+Zauberzeit: 0
+
+Stahl wird in das Objekt gedrückt. Es verschmilzt damit und bietet **Wurf**/4 extra Stabilität/Schadensreduktion (im Falle von Rüstungen beides), die jede Runde um 1 abnimmt.
+
+### Beschleunigen
+Materie 3+, Energie 3+, Materialkomponente: Sehne (40+cm, frisch oder verarbeitet), Projektil 
+
+Zauberzeit: 1 (erster Wurf Anvisieren)
+
+Bei Beginn des Zauber wird die Sehne Konsumiert, was das behandelte Objekt eine runde Schweben lässt. Danach bewegt es sich auf geradem weg vom Schwerpunkt des Zauberer weg und macht **Wurf** Schaden am ersten Hindernis, das es Trifft. Anvisieren mit Wahrnehmung,Bogen(o.ä) oder für einen Maluswürfel mit Wahrnehmung,Schnellalchemie.
+
+### Verfall
+Materie 3+, Entropie 3+, Materialkomponente: Asche (Staub funktioniert auch mit 2 Maluswürfeln) (10g)
+
+Zauberzeit: 0
+Dauer: Konzentration/Dedikation
+Objekt auf das die Asche aufgebracht wird (dort wo die Asche aufgebracht wird) altert um **Wurf**-5 Jahre. Multiple Applikationen nehmen nur den höchsten. Bei Ende des Zaubers wird der Effekt umgekehrt, nicht aber Dinge die in der Zwischenzeit geschehen sind. Rüstungen verlieren 1 Rüstungsschutz und 1 Stabilität pro zwei Jahre, Waffen 1 Grundschaden pro drei Jahre.
+
+### Statischer Schlag
+Energie 5+, Materialkomponente: Leitendes Medium (normalerweise metall; 10g)
+
+Zauberzeit: 1
+Dauer: 1 Pro 5 Überschüssiger Energie +1 Runden (bzw bis ausgelöst)
+
+Nächster Kontakt außerhalb des Zaubernden der Materialkomponente verursacht **Wurf** Blitzschaden.
+
+7-Resonanz:
+50% Bonusschaden pro
+
+1-Resonanz:
+1: Zielt auf selbst.
+2: Kettenblitz (schaden halbiert pro schritt) dann 1
+3: Wurf +5 dann 2
+4: Wurf = 15, dann 2
+
+### Destabilisieren
+Energie 3+, Entropie 3+, Ordnung 0+ Materialkomponente: Irgend etwas destabilisierbares (explosiv/komplex)
+
+Zauberzeit: 1
+Dauer: 1+(1 Runde pro 3 Überzähliger Ordnung)
+
+**Radius** ist 5+(1 pro 3 Überzähliger Entropie) Meter
+**Innerer Schaden** ist **Wurf**/2-3+(1 Pro 5 Überschüssiger Entropie)
+**Äußerer Schaden** ist **Wurf**/3-3+(1 Pro 5 Überschüssiger Entropie)
+
+
+Reagenz fängt an zu leuchten und zu Vibrieren/sich zu bewegen/dampf abzugeben und explodiert bei der nächsten Erschütterung.
+Alle innerhalb von **Radius** erleiden **Innerer Schaden** und werden mit Stärke **Wurf**-3 umgeworfen.
+Alle zwischen **Radius** und doppeltem **Radius** erleiden **Äußerer Schaden** und werden mit Stärke **Wurf**-8 umgeworfen.
+
+Vorteil Destabiliserte Falle: Speziell vorbereitete Reagenz (Dauer Minuten statt Runden, benötigt dedizierung)
+
+### Änderung
+Entropie 5+ Materialkomponente: Verschiedene Komponenten haben verschiedene Wirkungen.
+
+Zauberzeit: 0
+
+Materialkomponente wird auf Objekt angewandt. Objekt ändert sich. Wurf hat einfluss. Komponente hat Einfluss. Effekte oft temporär. Überschuss hat Einfluss. Dedikation?
