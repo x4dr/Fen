@@ -5,7 +5,6 @@ Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der g
 ##Zauber der Schnellalchemie
 ###Feuersee
 Energie 5+ Entropie 5+, Materialkomponente 100ml Alkohol (mindestens 20%)  
-  
 Zauberzeit: 2 Runden  
   
 **Wurf**-5 Wird beliebig aufgeteilt zwischen **Dauer** und **Schaden**.  
@@ -131,7 +130,7 @@ Nächster Kontakt außerhalb des Zaubernden der Materialkomponente verursacht **
 4: Wurf = 15, dann 2  
 
 ### Destabilisieren
-Energie 3+, Entropie 3+, Ordnung 0+ Materialkomponente: Irgend etwas destabilisierbares (explosiv/komplex)  
+Energie 3+, Entropie 3+, Ordnung 0+ Materialkomponente: Irgend etwas destabilisierbares etwa 100g (explosiv/komplex)  
   
 Zauberzeit: 1  
 Dauer: 1+(1 Runde pro 3 Überzähliger Ordnung)  
