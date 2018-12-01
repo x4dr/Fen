@@ -3,7 +3,6 @@ tags:
 Zauber der Schnellalchemie sind eher für direkte Situationen bzw "im Affekt" zu gebrauchen und haben deshalb eher schnelle, eher direkte Wirkungsweisen.  
 Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der gleichen) eine ingredienz die ein Stück bildet bis zu 5 Meter zielsicher geworfen werden kann. Mehr benötigt ein entsprechendes Wurfedium (zum beispiel flacon/säckchen für pulver) und einen Fingerfertigkeit-Werfen/Athletik wurf. (**Wurf**=>meter). (WIP?)  
 ##Zauber der Schnellalchemie
-
 ###Feuersee
 Energie 5+ Entropie 5+, Materialkomponente 100ml Alkohol (mindestens 20%)  
   
@@ -137,7 +136,7 @@ Energie 3+, Entropie 3+, Ordnung 0+ Materialkomponente: Irgend etwas destabilisi
 Zauberzeit: 1  
 Dauer: 1+(1 Runde pro 3 Überzähliger Ordnung)  
   
-**Radius** ist 5+(1 pro 3 Überzähliger Entropie) Meter  
+**Radius** ist 5+(1 pro 3 Überzähliger Energie) Meter  
 **Innerer Schaden** ist **Wurf**/2-3+(1 Pro 5 Überschüssiger Entropie)  
 **Äußerer Schaden** ist **Wurf**/3-3+(1 Pro 5 Überschüssiger Entropie)  
 
