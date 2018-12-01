@@ -59,5 +59,6 @@ Söldner 25 (wilderer-banditen)
 |-2,1G|Gambeson|
 |-50G|Anwalt|
 |-6,39G|Aufladung|
+|-0,6G|3 Sätze Winterräder und Beschläge
 |--------|---|
-1054,07G
+1053,47G
