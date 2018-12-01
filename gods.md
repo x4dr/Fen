@@ -16,7 +16,6 @@ Wissen Retten und einem Atephtempel zuführen, Bücher Schreiben, Wissen hüten.
 Wissen in die falschen Hände fallen lassen, Wissen Missbrauchen.
 ####Segen:  
 Ateph hilft manchmal bei dringenden Fragen weiter, Schützt vor Feuer (vor allem Wissen) oder entzündet Bedrohungen für den Gelehrten. Zu häufiges oder ungeschicktes Fragen kann auch zu Vergesslichkeit oder Feuer für den Betenden führen.
-  
 ____
   
 ##Fobif
@@ -186,7 +185,7 @@ Schmiede eiserne Freundschaft mit kunstvollen Banden - aber mach es richtig!
 Handwerker, Kunsthandwerker und sowas, alte Atterkan, beliebt in Trarora
 ###Gunst
 ####Pool
-1/sqrt(#Leute, mit denen Andenken ausgetauscht wurden, die aktiv getragen werden)
+sqrt(#Leute, mit denen Andenken ausgetauscht wurden, die aktiv getragen werden)
 ####Bräuche
 engen Freunden einen puzzleartig teilbaren Gegenstand geben
 ####Huldigen
