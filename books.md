@@ -1,15 +1,15 @@
 title: Bücher  
 tags:   
 #Regeln zum Bücherlesen
-Notation A;B;C(;D)
-A= Informationen
-B= Kapazität
-C= Schwierigkeit
-D= aktueller zustand
+Notation A;B;C(;D)  
+A= Informationen  
+B= Kapazität  
+C= Schwierigkeit  
+D= aktueller zustand  
 
-Es wird Bildung,Forschung gewürfelt (Konditionen für 5 sind Ruhe, Licht, Notizmaterialien)  
-Schwierigkeit-**Wurf** wird auf den aktuellen zustand addiert, Zustand <= Kapazität erhöht Informationen um 1.
-der Aktuelle Zustand kann auf 0 zurückgesetzt werden (die aktuellen Informationen gehen damit auf 0 zurück) Informationen werden in der selben Reihenfolge entdeckt (und der charakter vergisst sie auch nicht).
+Es wird Bildung,Forschung gewürfelt (Konditionen für 5 sind Ruhe, Licht, Notizmaterialien)    
+Schwierigkeit-**Wurf** wird auf den aktuellen zustand addiert, Zustand <= Kapazität erhöht Informationen um 1.  
+der Aktuelle Zustand kann auf 0 zurückgesetzt werden (die aktuellen Informationen gehen damit auf 0 zurück) Informationen werden in der selben Reihenfolge entdeckt (und der charakter vergisst sie auch nicht).  
 
 
 ##Apokryphische Religionen Prekors (25)
