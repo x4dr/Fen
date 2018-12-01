@@ -1,9 +1,8 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 8/25    
+unsichtbarkeitsring (11-x safeempty) 25/25    
 Wergift Kurzschwert (input only) 10/10  
 Bei Tag: Schadensgift Stärke 6 (pen 20)  
-
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)  
 
 recharged on transformation  
@@ -14,7 +13,7 @@ Blauer Edelstein 50/50/65
 
 allgemeinparty   
 
-amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 0/40/50   
+amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/40/50   
   
 amulett 2 - identifiziert 6 more spells, strategically   
 
@@ -29,22 +28,22 @@ Magischer Unsichtbarkeitskompass 2 fancyness
 15/15/20
 
 Shadowstone 40/40/40
-Magisches Feuerzeug  9/15
+Magisches Feuerzeug  15/15
 ####Pirate Loot
 (ID 9)
 ##### Amulett 1
-0/10/?
+10/10/?
 Volume up
 ##### Amulett 2
-0/15/?
+15/15/?
 Water healing
 ##### Amulett 3
-0/20/?
+20/20/?
 ?
 ##### Amulett 4
-0/25/?
+25/25/?
 ##### Amulett 5
-0/80/?
+80/80/?
 normal gebundenes casting amulet
 ##### Charm 1-3
 sie tun irgendwas mit dem richtigen wort
