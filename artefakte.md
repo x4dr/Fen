@@ -1,10 +1,9 @@
 title: artefakte  
 tags:   
-unsichtbarkeitsring (11-x safeempty) 25/25    
+unsichtbarkeitsring (11-x safeempty) 16/25    
 Wergift Kurzschwert (input only) 10/10  
 Bei Tag: Schadensgift Stärke 6 (pen 20)  
 Bei Nacht: Betäubungsgift Stärke 8 (pen 20)  
-
 recharged on transformation  
 
 sprunggürtelschnalle (safeempty) 30/30  
