@@ -2,7 +2,6 @@ title: Fähigkeitssteigerungen
 tags: rules leveling costs  
 [TOC]
 ##Anforderungen 
-
 10 Anforderungen je Level müssen erfüllt werden um eine Fähigkeit zu steigern. Wenn eine Anforderung mehrfach erfüllt werden kann ist in Klammern angegeben wie oft. Vorteile benötigen im Normalfall ebenfalls nur eine erfüllte Anforderung, diese muss allerdings Training, Praxis oder XP sein.
 
   
@@ -94,11 +93,11 @@ ein Zauber benötigt sofern nicht anders angegeben einen Level 1 Fähigkeitspunk
 
 Benötigen jeweils 10 vom Spielleiter der Situation angemessend vergebenen Punkte. XP Ausgabe wie bei normalen Fähigkeiten, aber nur während 10Resonanz >=2  
 
-Wille - Persönliches Wachstum des Charakters
-Göttliche Bindung() - Näherkommen/Verfolgen der Göttlichen Ziele.
-Wendung - Gutes tun/ Seitenziele erreichen.
-Begegnung - Fremden helfen/ Selbstlos handeln.
-Fügung - Pech haben/Konsequentes ausspielen mit negativen Konsequenzen.
+Wille - Persönliches Wachstum des Charakters  
+Göttliche Bindung() - Näherkommen/Verfolgen der Göttlichen Ziele.  
+Wendung - Gutes tun/ Seitenziele erreichen.  
+Begegnung - Fremden helfen/ Selbstlos handeln.  
+Fügung - Pech haben/Konsequentes ausspielen mit negativen Konsequenzen.  
 
 
 ##Attribute
