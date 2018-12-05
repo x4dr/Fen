@@ -8,7 +8,6 @@ Schwerter - 5
 Äxte - 6
 Pfeile/Bolzen - 7
 Brandwunden 9/10
-
 ## Wundheilung
 *Wundheilungswurf*:  
 (Konstitution)@(Umgebungsfaktoren)  
@@ -49,7 +48,6 @@ Reserve HP heilen mit einer Rate von Konstitution/Woche bei überdurchschnittlic
 Mykier können außerdem von ihrem Erdheim nachproduziert werden (Tage) oder repariert werden (Stunden).
 
 ###Menschen
-Sobald ein Mensch das erste mal mit frischen Wunden schläft/von Schaden bewusstlos werden würde, würfelt er einen Heilungswurf, der alle frischen Wunden (seit dem letzten Heilungswurf) betrifft. Alle Wunden deren Schwierigkeit übertroffen wurde heilen um 1 Punkt, wenn der Mensch nun nicht mehr bewusstlos werden würde, bleibt er bei Bewusstsein. Alle Wunden deren Schwierigkeit und Schwere übertroffen wurden, haben ihre Schwierigkeit um 1 Reduziert.
 Wunden die nach einem Monat keinen Heilungsfortschritt erzielt haben, spalten eine 1 Punkte Schwierigkeit 20 Narbe ab senken ihre Schwierigkeit um 1. 
 Alle Wunden heilen gleichzeitig.  
 Bettruhe und Resonanz zählen nicht für Narben-Wunden.  
@@ -102,10 +100,9 @@ An jedem Tag an dem der Verwundete Versorgt wird erhält der kranke einen Modifi
 gibt einen Bonus auf den Heilungswurf von Wurzel(Rastdauer) (+1 bei 1 tag; +4 bei 16 tagen)  
 Atterkan kriegen somit mindestens +2 Wenn sie in ihren Heilunsgprozess gehen und mehr wenn sie sich vorher ausgeruht haben.
 
-###Entzündung/Infektion
-Bei einem Wundheilungswurf von 4 oder niedriger entzündet oder infiziert sich eine zufällige Wunde.
-Jeden Tag wird eine Entzündete/Infizierte Wunde um 1 Schlimmer (vor dem Heilungswurf), Bis bei einem Versorgungswurf eine 15+ erzielt wurde.
-Jede aktive entzündung ist ein -1 Modifikator auf weitere Wundheilung.
+###Vorteile
+####Konstitution 3 - Überlebenswille
+Sobald der Charakter das erste mal mit frischen Wunden schläft/von Schaden bewusstlos werden würde, würfelt er einen Heilungswurf, der alle frischen Wunden (seit dem letzten Heilungswurf) betrifft. Alle Wunden deren Schwierigkeit übertroffen wurde heilen um 1 Punkt, wenn der Charakter nun nicht mehr bewusstlos werden würde, bleibt er bei Bewusstsein. Alle Wunden deren Schwierigkeit und Schwere übertroffen wurden, haben ihre Schwierigkeit um 1 Reduziert.
 
 ## Medizin
 Verschiedene Medizinen können verschiedene Effekte haben, siehe Alchemie(TODO).  
