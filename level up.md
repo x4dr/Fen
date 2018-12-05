@@ -4,7 +4,6 @@ tags: rules leveling costs
 ##Anforderungen 
 10 Anforderungen je Level müssen erfüllt werden um eine Fähigkeit zu steigern. Wenn eine Anforderung mehrfach erfüllt werden kann ist in Klammern angegeben wie oft. Vorteile benötigen im Normalfall ebenfalls nur eine erfüllte Anforderung, diese muss allerdings Training, Praxis oder XP sein.
   
-  
 * Perspektiven sind Einflüsse und Erfahrungen aus unterschiedlichen Arten der Praxis. Verschiedene Regionen, Stände, Kulturen oder anderes was einen aktiven Wechsel der Übungsumgebung erfordert.  
 * Training erfordert eine Wissensquelle, entweder jemand der mindestens ein Level höher ist, oder genügend genaue Bücher.  
 * Herumprobieren kann ein Character alleine, wenn er eine grobe Ahnung hat was er versucht zu lernen (Magieschulen aus dem Nichts erschaffen ist ohne asreichendes Magiewissen nicht möglich)  
@@ -87,6 +86,16 @@ sind vergleichsweise normal und "nur" so kompliziert wie normale Fähigkeiten.
 
 ### Zauber und Zaubervorteile
 ein Zauber benötigt sofern nicht anders angegeben einen Level 1 Fähigkeitspunkt, der erste Zaubervorteil Level 2, der nächste Level 3, usw.
+
+### Schicksalsfähigkeiten
+
+Benötigen jeweils 10 vom Spielleiter der Situation angemessend vergebenen Punkte. XP Ausgabe wie bei normalen Fähigkeiten, aber nur während 10Resonanz >=2  
+
+Wille - Persönliches Wachstum des Charakters
+Göttliche Bindung() - Näherkommen/Verfolgen der Göttlichen Ziele.
+Wendung - Gutes tun/ Seitenziele erreichen.
+Begegnung - Fremden helfen/ Selbstlos handeln.
+Fügung - Pech haben/Konsequentes ausspielen mit negativen Konsequenzen.
 
 
 ##Attribute
