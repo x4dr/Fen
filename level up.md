@@ -2,8 +2,11 @@ title: Fähigkeitssteigerungen
 tags: rules leveling costs  
 [TOC]
 ##Anforderungen 
+
 10 Anforderungen je Level müssen erfüllt werden um eine Fähigkeit zu steigern. Wenn eine Anforderung mehrfach erfüllt werden kann ist in Klammern angegeben wie oft. Vorteile benötigen im Normalfall ebenfalls nur eine erfüllte Anforderung, diese muss allerdings Training, Praxis oder XP sein.
+
   
+
 * Perspektiven sind Einflüsse und Erfahrungen aus unterschiedlichen Arten der Praxis. Verschiedene Regionen, Stände, Kulturen oder anderes was einen aktiven Wechsel der Übungsumgebung erfordert.  
 * Training erfordert eine Wissensquelle, entweder jemand der mindestens ein Level höher ist, oder genügend genaue Bücher.  
 * Herumprobieren kann ein Character alleine, wenn er eine grobe Ahnung hat was er versucht zu lernen (Magieschulen aus dem Nichts erschaffen ist ohne asreichendes Magiewissen nicht möglich)  
