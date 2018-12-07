@@ -6,7 +6,6 @@ Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der g
 ###Feuersee
 Energie 5+ Entropie 5+, Materialkomponente 100ml Alkohol (mindestens 20%)  
 Zauberzeit: 2 Runden  
-  
 **Wurf**-5 Wird beliebig aufgeteilt zwischen **Dauer** und **Schaden**.  
 Überschüssige Energie /3 wird auf Dauer addiert, überschüssige Entropie/3 wird auf Schaden addiert. Werte können auf diese Art und Weise nicht mehr als verdoppelt werden.  
 Der Alkohol wird verschüttet, beziehungsweise in einem zerbrechlichen Gefäß geworfen, und brennt dann für die nächsten **Dauer** Runden. Bei Aufschlag und dann am Anfang jeder Runde wird **Schaden** [Feuerschaden](damage#feuer) verursacht.   
@@ -40,7 +39,7 @@ Wenn eine Energiequelle (Lampenöl, Seelen, geladene Magiesteine, usw) im Wirkun
 1: Beginnt bei Abschluss des Zaubers zu wirken.  
 2: Rückkopplung 5 dann wie 1.  
 3: Konsumiert Sämtliche Reagenzien am Alchemisten. Wurf +1 pro Reagenz (oder 19, je nachdem was niedriger ist). Dann wie 2.  
-4: Verlässt den Zaubernden nicht. Dann wie 4.  
+4: Verlässt den Zaubernden nicht. Dann wie 3.  
   
 10-Resonanz:   
 Zusätzliche Dauer.  
