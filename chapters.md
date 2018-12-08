@@ -51,7 +51,7 @@ Erbschatz versteckt
 Mykier rekrutiert
 Großes Feuer vorbereitet
 ===> 30
-## Kapitel 12 - Nicht alles Endet im Sumpf
+## Kapitel 12 - Nicht alles Endet im Sumpf  
 Ordensritter rekrutiert
 Räuber besiegt
 Zoll von Belagerern vermieden
@@ -60,3 +60,26 @@ Piratenfurt überquert
 Infiltratoren zufrieden gehen lassen
 Sumpf überwunden
 ===> 45
+## Kapitel 13 - Neue Stadt neuer Raubzug
+Heist 5   
+Erforschen 2  
+==> 7
+## Kapitel 14 - Trinkspiele  
+Wasser besorgen - 10  
+verfolger abhängen - 10  
+Berg navigation - 10  
+Eremit - 5  
+Gloria - 5   
+Scoutposten - 10  
+Quieker Kampf - 5  
+==> 55
+## Kapitel 15 - Bürokratie und Ordnung
+Gericht - 5  
+Bibliothek - 5  
+Stadt Erkunden - 5  
+Exfiltration - 5  
+Reise - 5  
+Verhinderung der Jugendlichen Queste - 10  
+Orakelabend - 5
+Wächterindiz - 5
+
