@@ -6,7 +6,6 @@ Große Prekorische Handelsstadt am Fluss Aschan, Seegard
 Stadt an der Handelsstraße von Seegard nach Limasu
 ## Okarun und Nurako
 Die Gespaltene Stadt, Nord/Südteil respektiv
-
 ## Limasu
 Gebirgsstadt auf der anderen seite des Gebirges, Krieg mit Seegard
 
@@ -24,3 +23,14 @@ Südlichste Stadt Nordprekors
 
 ## Tantor
 Größter/Einziger Nahrungsproduzent in Nordprekor
+
+#Aurische Heimat
+
+##Yomkar
+Tyem geweiht, Veteranen und Handwerker, an der Grenze zum Ödland
+
+##Nymkor
+Zoark geweiht, Magier, Wissenschaftler, Philosophen, Westlichste Stadt
+
+##Ormnar
+Ezit geweiht, Hauptstadt, Hof, Diplomatie, Handelsimperium
