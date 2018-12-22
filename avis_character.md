@@ -6,15 +6,14 @@ Spezies:
 Charakterkonzept:  
 Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
 Diebeszeichen: Treffpunkt & Mitternacht 
-  
 &nbsp;  
   
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Gesundheit|2|  
-|Ausdauer|2|  
+|Gesundheit|3|  
+|Ausdauer|3|  
 |Körperkraft|1|  
   
 ###Fähigkeiten  
@@ -25,7 +24,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Schwimmen|1|  
 |Wundheilung|1|  
 |Athletik|2|  
-|Zechen|2|  
+|Zechen|3|  
 |Säbel|1|  
   
 ###Vorteile  
@@ -42,9 +41,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Fingerfertigkeit|3|  
+|Fingerfertigkeit|4|  
 |Wendigkeit|3|  
-|Rüstung|1|  
+|Rüstung|2|  
 |Artefakte|3|  
   
 ###Fähigkeiten  
@@ -54,8 +53,8 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Diebeshandwerk|2|  
 |Schleichen|2|  
 |Kochen|2|  
-|Piratenkapitän|1|   
-|Schiffe lenken|1|  
+|Piratenkapitän|2|   
+|Schiffe lenken|2|  
 |Metallverarbeitung|0|  
 |Holzverarbeitung|0|  
 |Konstruktion|0|  
@@ -101,6 +100,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Ignes|2|  
 |Lake of fire|1|  
 |Move earth|1|  
+|Sisto|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -135,7 +135,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Wissen(Magie)|1|  
 |Strategie|0|  
 |Empathie|1|  
-|Navigation|1|  
+|Navigation|2|  
 |Wissen(Meer)|0|  
   
 ###Vorteile  
@@ -173,14 +173,14 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Diplomatie|2|  
-|Lügen|1|  
+|Lügen|2|  
 |Stil|2|  
 |Einschüchtern|0|  
-|Begeistern&führeb|1|  
+|Begeistern&führeb|2|  
 |Handel|0|  
-|Singen|1|  
+|Singen|2|  
 |Etiquette|0|  
-|Tratsch|1|  
+|Tratsch|2|  
   
 ###Vorteile  
 |Vorteile|Level|  
