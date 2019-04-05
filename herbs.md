@@ -1,5 +1,6 @@
-title: Kräuter  
-tags:   
+title: Kräuter
+tags: 
+
 Wissenslevel 
 (Wurf, einmalig pro kraut, kann wiederholt werden wenn eine Wissensquelle (andere person/buch usw) genutzt wird oder die Inspektionsmöglichkeit besser geworden ist (oder Unterrichtung/Experimentieren immer noch gilt) und mindestens ein Tag vergangen ist):  
 (Bildung,Relevanter Skill)@(Inspektionsmöglichkeiten)  
@@ -175,8 +176,8 @@ A 18: W +10
 ~10s  
 K 14: Schwächt Immunsystem (/2 auf Giftwiderstand vs Krankheiten)  
 A 14: Verdoppelt W von Intravenösen Giften  
-A 18: W damage per tick (1 stunde)  
-A 20: Tickrate stattdessen 10 Minuten  
+A 18: W damage per tick (1 minute)  
+A 20: Tickrate stattdessen runde)  
 
 ###Knochenleimflechte
 ~15s  

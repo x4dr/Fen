@@ -25,29 +25,22 @@ To restore the maximum, several things can be done, the most common is to recut 
 and resets the maximum to the new quality.
 
 ## Modifiers
-###adamantine
-quality loss reduced
-### dull
- max loss causes quality loss
-### slick
-also "greasy", min usage per use
-### metallic
-charge and discharge faster
-### pearly
-shifted towards passive uses
-### cloudy
-max usage per day
-### brittle
-diminishes max per empty
-### glowing
-passive energy usage per day
-### dragonglass
-diminishes quality per use
-### bristling
-looses/gains energy after spell use
-### peaceful
-looses max if harm is inflicted  
+&nbsp;
 
+|Modifiers|Effeckt|  
+|:---|:---|  
+|adamantine|quality loss reduced|  
+|dull|max loss causes quality loss|  
+|slick|also "greasy", min usage per use|  
+|metallic|charge and discharge faster|  
+|pearly|shifted towards passive uses|  
+|cloudy|max usage per day|  
+|brittle|diminishes max per empty|  
+|glowing|passive energy usage per day|  
+|dragonglass|diminishes quality per use|  
+|bristling|looses/gains energy after spell use|  
+|peaceful|looses max if harm is inflicted|  
+&nbsp;
 
 ## links
 [current implementation for testing purposes (and finding/testing rules](
