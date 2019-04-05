@@ -1,51 +1,57 @@
-title: artefakte
-tags: 
-
-  lehnin Mü
-unsichtbarkeitsring (safeempty) 31/50
-
-Blauer Edelstein 50/50/65
-
-
-allgemeinparty 
-amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/40/50
-
-amulett 2 - identifiziert 6 more spells, strategically
-
-amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions
-
-magischer Schutzgürtel 3 fancyness
--2 auf allen incoming damage für eine stunde (artefakte@5)
-1/50/50 
-
-Magischer Unsichtbarkeitskompass 2 fancyness  
+title: artefakte  
+tags:   
+unsichtbarkeitsring (11-x safeempty) 23/25    
+Wergift Kurzschwert (input only) 10/10  
+Bei Tag: Schadensgift Stärke 6 (pen 20)  
+Bei Nacht: Betäubungsgift Stärke 8 (pen 20)  
+recharged on transformation  
+sprunggürtelschnalle (safeempty) 30/30  
+Blauer Edelstein 50/50/65  
+allgemeinparty   
+amulett 1 - identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/40/50   
+amulett 2 - identifiziert 6 more spells, strategically   
+amulett 3 - identifiziert 5 holds energy sort of unstable useable on actions   
+magischer Schutzgürtel 3 fancyness  
+-2 auf allen incoming damage für eine stunde (artefakte@5)  
+37/50/50  
+Magischer Unsichtbarkeitskompass 2 fancyness   
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
 15/15/20
-
 Shadowstone 40/40/40
-
-Magisches Feuerzeug  9/15
-
+Magisches Feuerzeug  15/15
+####Pirate Loot
+(ID 9)
+##### Amulett 1 
+LOST TO FIRE 10/10/?
+Volume up
+##### Amulett 2
+LOST TO FIRE 15/15/?
+Water healing
+##### Amulett 3
+LOST TO FIRE 20/20/?
+?
+##### Amulett 4
+LOST TO FIRE 25/25/?
+##### Amulett 5
+LOST TO FIRE  80/80/?
+normal gebundenes casting amulet
+##### Charm 1-3
+sie tun irgendwas mit dem richtigen wort
 ####dinas godol loot (alle leer):  
-  
 #####Reich verziertes kronenähnliches [Ding](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg) (10)11  
 *Verzauberung für verbesserte Sinne
 *Ladung pro minute aktivität
-
 #####staff of doing stuff (12)14  
 *+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung
-
 #####edelstein 1 (10)15  
 * hält sauber, trocken, unglitschig  
 * Ladung pro reinigungsarbeit, bei Kleidung wäre es 1 pro woche oder 1 pro Stunde in Matsch/Wasser 
 * 0/10/10
-
 #####edelstein 2 (9)14  
 * stimmt sich auf besitzer ein  
 * 0/10/10
 * +1 Maximum pro Woche im selben besitz.
 * Qualitätsverlust bei 20 (0Q = Zerstört)
-
 #####edelstein 3 (13)17  
 * bonusschaden, aktiviert über wort  
 * Wort: difrod 
@@ -53,7 +59,6 @@ Magisches Feuerzeug  9/15
 * 0/40/60
 * Maximumsverlust bei 1
 * 12-(artefakt@5) ladung
-
 #####edelstein 4 (12)8  
 * can't touch it  
 * platz machender Puls  
@@ -150,4 +155,121 @@ Magisches Feuerzeug  9/15
 
 #####cooler Glitzer Säbel
 Erhöht AoE Effekte wenn geschwungen
-(5fachee Radius 8 Fach kosten)
+
+
+#### Unterwasserschatz
+
+##### Ring 1
+* nichtmagisch
+* silber + anderes hartes metall
+
+##### Ring 2 (10)
+* breiter gold ring
+* heilungseffekte
+
+##### Ring 3 
+* twist-trigger
+* magischer effekt
+* kaputt
+
+##### Ring 4
+* sight-store
+
+##### Brosche 1
+* aufmerksamkeit
+
+##### Brosche 2
+* verzögert aufrechterhaltung
+
+#### Magiergeschwisterloot
+
+Amulett Rot 12 - nicht näher bestimmter Effekt auf gezauberte Zauber, verstärkt Feuer mit Feuer aus der Umgebung
+Amulett Blau 12 - nicht näher bestimmter Effekt auf gezauberte Zauber
+Ring Rot 11 - Magiespeicher (7/?/?), selbstaufladend (Quelle:?)
+Ring Blau 18 - Magiespeicher (7/50/80), selbstaufladend (Ring Rot Ausgabe: 1)
+
+####Burgloot
+Kompass (10) - Leicht magisch
+Karte (19)- Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. Kompass kann helfen zu dem X auf der Karte zu finden
+
+#### Wildschweinstein
+* 30 Magie
+* Qualität 30
+* ermöglicht Vereinigung von Tier und Pflanze
+
+#### Nysgaris-Erbstücke
+##### Zauberstab (17)
+* richtiger Gedanke löst es aus
+* 15 magie / runde
+* Gedankenkontrolle
+* kein eignes magiereservoir
+##### Auge (8)
+* zur Benutzung ist Blutkontakt notwendig
+##### Halskette (11)
+* Gedacht für durchfluss großer Mengen Magie
+##### Schlüssel (10)
+* öffnet etwas (magisch)
+* metaphysisch / sychisch
+##### Anhänger (Pyramidenförmig) (12)
+* kein Magiereservoir
+* telepathie
+##### Waage (6)
+* wenn aktiviert kommt da magische energie raus
+
+#### Tantor Tränke
+Violett - 15
+Wasserwandeln 
+
+Blau - 12
+Schönheit 
+
+Grün - 13
+Kulinarischer Trank
+
+Kaminrot - 11
+... warm?
+
+Magenta - 16
+betäubt den geist und erhöht ausdauer
+
+Cyan - 8
+überzieht mit schützender eisschicht
+
+Gelb - 10
+Hält wach?
+
+Orange - 14
+Wahrnehmung Bonus +5 ... und macht sehr detail fasziniert 
+
+Klar - 15
+Keine Schmerzen, keine Ohnmacht, kein Schlaf
+
+Schwarz - 13
+Kristallisierung der Haut, Jeder erleidete Schaden wird um 5 gesenkt, ist aber mindestens 1 (auch wenn rüstung ihn auf 0 reduziert)
+
+Weiß - 15
+zufällig Elementarer Atem
+
+#### Argyrisches Loot
+
+Dolch 1  
+6 stabby magic
+
+Dolch 2  
+7 roll artefakte für 2x damage mit condition
+Kerzenleuchter  
+11 beschwört 3 lichtkugeln, die bis 10 meter weggetragen werden können.  
+Schneemaske 
+13 Verschleiert benutzer im Schnee und gewährt Wärmesicht
+Großrubin
+8 literally nur ein Magiespeicher (150+)
+Größenveränderbares Schild
+16 erschafft und vernichtet materie während es größer und kleiner wird. (100, benutzt 10-artefakt pro aktivierung)
+
+Wärmeamulett x2
+macht warm. 1 Energie pro Woche
+
+####Turm des Kelin
+
+250 tiny lightning crystals
+
