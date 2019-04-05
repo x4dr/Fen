@@ -1,150 +1,186 @@
 title: Yarat  
-tags:   
-Voller Name: Yarat den-Istek
+tags:  
 
-Spezies: Atterkan
-Alter: 34
-Höhe: 2.3 m
-Beindurchmesser: 3.5 m
-Gewicht: 180 kg
 
-Konzept: Reisende Atterkan-Schneiderin auf Suche nach spannenden Geschichten und einem Ort, ihr eigenes Netz aufzuspannen.
-Mittlerweile Gildenmeisterin der Schneider in Seegard, Dame der High Society und best gekleidete Spinne ganz Prekors.
-
-## Kosten:
-
-##Stärke
+Name:  
+Alter:  
+Spezies:  
+Charakterkonzept:  
   
-###Attribute 
-
-* Konstitution - 5
-* Kraft - 3
-* Agilität - 3
-
--> 17
-
-###Fähigkeiten
-
-Schwerathletik - 3 (Kraftakte/Heben/Tragen und ähnliches)
-Rennen - 0 (schnelle Fortbewegung)
-Springen - 3 (Überbrücken von kurzen Distanzen ohne Bodenkontakt)
-Vorteil (Anspringen) - 3 (kostet 1/10)
-Werfen - 0 (alle Anwendungen bei denen Objekte eher weit als zielgenau geworfen werden.)
-Schwimmen - 0 (Fortbewegung/Überleben in Wasser)
-Klettern - 0 (vertikale Fortbewegung an Oberflächen)
-Survival - 2 (langes Wandern/Schlafen im freien/"Durchhalten")
-Unterfähigkeit Wissen (Geographie) - 2
-Unterfähigkeit Wissen (Entomologie) - 2
-Zechen - 0 (Konsum von Alkohol und Beibehalten der eigenen Agenda)
-Waffe (Netzkampf) - 3
-Waffe (Cirit) - 2
-Waffe (Beißen) - 2
-
--> 17.3
-
-##Können
-
-###Attribute
-
-* Geschick - 5 (für Aktivitäten die präzise Manipulation verlangen)
-* Einblick - 2 (Intuitives Verständnis und Resonanz mit magischen/komplexen Gerätschaften)
-* Kompetenz - 3 (der angesammelte Pool an praktischen Wissen über Gerätschaften und Technologie)
-
--> 15
-
-###Fähigkeiten
-
-Textilverarbeitung - 5
-Unterfähigkeit: Spinnenseide - 4
-Vorteil (Farbige Seide) - Schwarze Seide, Braune Seide, Blaue Seide, Rote Seide, Gelbe Seide, Grüne Seide (Rassenvorteil -> zählt nicht in Kostenpool hier)
-Metallverarbeitung - 2  
-Unterfähigkeit Wissen (Metallurgie) - 1
-Holzverarbeitung - 0
-Konstruktion - 0
-Alchemie - 4
-Vorteil (Farbstoffherstellung): 4
-Akrobatik - 1
-Vorteil: Wand- & Deckenlauf 18
-                pro Punkt kann eine Atterkan 10 kg (Decke) / 20 kg (Wand)
-Schleichen - 2
-Reiten - 0
-Tierbeherrschung - 1
-
--> 19.7
-
-##Magie
-
-	Quelle: -
-	Konzept: -
-	Aspekt: -
-
-	Zauber: -
-	Vorteile: -
-
-##Weisheit
-
-### Attribute
-
-* Bildung - 2  
-* Geist - 3 
-* Wahrnehmung - 4
-
--> 11  
-
-### Fähigkeiten
-Heilen - 0
-Wissen (Politik) - 3
-Sprache(Atterdil) - 4
-Sprache (Prekorianisch) - 2 
-Sprache (Aurisch) - 3
-Forschung - 0
-Instinkt - 3
-Suchen - 1
-Strategie - 2
-Taktik - 0
-Navigation - 0
-        
--> 12
-
-##Charisma
-
-### Attribute
-
-* Eindruck - 4 
-* Durchsetzungsvermögen - 4
-* Sympathie - 3
-
--> 20.5
-
-### Fähigkeiten
-
-Handel - 4
-Diplomatie - 3
-Rhetorik - 1
-Lügen - 0
-Stil - 4
-Einschüchtern - 0
-Befehlsgewalt - 1
-Empathie - 3
-Etikette - 2
-Tratsch - 3
-
--> 21
-
-## Schicksal
-
-### Attribute
-
-* Glück - 5
-* Mut - 1  
-* Gunst - 1    
-
-###Fähigkeiten
-	
-Wille - 0
-Göttliche Bindung(Demirci) - 1
-Wendung - 4
-Begegnung - 3
-Fügung (Reroll) - 2
-
--> 10
+&nbsp;  
+  
+##Stärke  
+###Attribute  
+|Attribute|Level|  
+|:---|----:|  
+|Gesundheit|3|  
+|Ausdauer|2|  
+|Körperkraft|3|  
+  
+###Fähigkeiten  
+|Fähigkeiten|Level|  
+|:---|----:|  
+|Beißen|3|  
+|Netzkampf|3|  
+|Cirit (Beine als Speere nutzen)|2|  
+|Rennen|0|  
+|Schwimmen|0|  
+|Wundheilung|0|  
+|Athletik|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Panzerung|  
+|Gift (Beißen)|Verwunden, Wirkbeginn: sofort, Wirkdauer: 1 h, Paralyse 2 (Giftstärke 25)|  
+  
+&nbsp;  
+  
+##Können  
+###Attribute  
+|Attribute|Level|  
+|:---|----:|  
+|Fingerfertigkeit|4|  
+|Wendigkeit|3|  
+|Rüstung|3|  
+|Artefakte|1|  
+  
+###Fähigkeiten  
+|Fähigkeiten|Level|  
+|:---|----:|  
+|Metallverarbeitung|2|  
+|Holzverarbeitung|0|  
+|Stoffverarbeitung|3|  
+|Alchemie|1|  
+|Magie-Handwerk|0|  
+|Akrobatik|0|  
+|Diebeshandwerk|0|  
+|Schleichen|2|  
+|Reiten|0|  
+|Spinnenseide|3|  
+|MagieHandwerk|0|  
+|Lederverarbeitung|0|  
+|Konstruktion|0|  
+|Textilverarbeitung|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Wand- & Deckenlauf (Akrobatik)|4 (je Punkt 20 kg (Wand) bzw. 20 kg (Decke)|  
+|Farbige Spinnenseide|Schwarz, Braun, Rot, Gelb, Blau, Grün|  
+  
+&nbsp;  
+  
+##Magie  
+###Quellen  
+|Quellen|Level|  
+|:---|----:|  
+  
+###Konzepte  
+|Konzepte|Level|  
+|:---|----:|  
+  
+###Aspekte  
+|Aspekte|Level|  
+|:---|----:|  
+  
+&nbsp;  
+  
+##Weisheit  
+###Attribute  
+|Attribute|Level|  
+|:---|----:|  
+|Bildung|3|  
+|Erinnerungsvermögen|2|  
+|Wahrnehmung|3|  
+  
+###Fähigkeiten  
+|Fähigkeiten|Level|  
+|:---|----:|  
+|Heilen|0|  
+|Wissen (Politik)|1|  
+|Wissen (Geographie)|2|  
+|Wissen (Entomologie)|2|  
+|Wissen (Metallurgie)|1|  
+|Forschung|0|  
+|Instinkt|0|  
+|Wissen(Gebiet)|0|  
+|Strategie|0|  
+|Taktik|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Aurisch Sprechen|2|  
+|Aurisch Lesen|2|  
+|Aurisch Schreiben|2|  
+|Prekorisch Sprechen|3|  
+|Prekorisch Lesen|0|  
+|Prekorisch Schreiben|0|  
+|Argyrisch Sprechen|0|  
+|Argyrisch Lesen|0|  
+|Argyrisch Schreiben|0|  
+|Atterdil Sprechen|4|  
+|Atteryazi Lesen|4|  
+|Atteryazi Schreiben|4|  
+|Atterdil Lesen|0|  
+|Atterdil Schreiben|0|  
+  
+&nbsp;  
+  
+##Charisma  
+###Attribute  
+|Attribute|Level|  
+|:---|----:|  
+|Eindruck|2|  
+|Durchsetzungsvermögen|2|  
+|Sympathie|3|  
+  
+###Fähigkeiten  
+|Fähigkeiten|Level|  
+|:---|----:|  
+|Handel|3|  
+|Diplomatie|2|  
+|Lügen|0|  
+|Stil|0|  
+|Einschüchtern|0|  
+|Befehlsgewalt|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Rassemalus: Sympathie|-3 (wenn Atterkan nicht gewöhnt)|  
+  
+&nbsp;  
+  
+##Schicksal  
+###Attribute  
+|Attribute|Level|  
+|:---|----:|  
+|Glück|5|  
+|Mut|1|  
+|Gunst|2|  
+  
+###Fähigkeiten  
+|Fähigkeiten|Level|  
+|:---|----:|  
+|Ruhm:|1|  
+|Wille:|0|  
+|Göttliche Bindung (Gott):|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Begegnung|3|  
+|Wendung|2|  
+|Rassenachteil: Schreckhaft|  
+|Schicksal|0|  
+  
+&nbsp;  
+total point costs Schicksal: 123  
+total point costs Magie: 0  
+total point costs Können: 175  
+total point costs Charisma: 65  
+total point costs Stärke: 118  
+total point costs Weisheit: 143  
+total point costs: 624  

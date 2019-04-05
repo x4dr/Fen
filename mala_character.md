@@ -1,27 +1,31 @@
 title: Mala  
 tags: Mala  
-Name: Mala  
-Alter:  25  
-Spezies: Mensch   
-Charakterkonzept:  Priesterin Illargias  
-Ausrüstung:  Wundpendel, Tücher, Pfeil und Bogen  
-Wundheilpendel  
+
+
+Name:  
+Alter:  
+Spezies:  
+Charakterkonzept:  
+  
 &nbsp;  
+  
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Gesundheit|2|  
 |Ausdauer|2|  
-|Körperkraft|1|  
+|Körperkraft|2|  
+  
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Athletik|0|  
-|Schwimmen|2|  
-|Wundheilung|2|  
-|Waffe(Tücher)|3|  
+|Athletik|1|  
+|Schwimmen|1|  
+|Wundheilung|3|  
+  
 &nbsp;  
+  
 ##Können  
 ###Attribute  
 |Attribute|Level|  
@@ -29,20 +33,23 @@ Wundheilpendel
 |Fingerfertigkeit|4|  
 |Wendigkeit|2|  
 |Rüstung|1|  
-|Artefakte|2|  
+|Artefakte|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Textilverarbeitung|2|  
-|Metallverarbeitung|1|  
+|Stoffverarbeitung|2|  
+|Metallverarbeitung|4|  
+|Alchemie|1|  
 |MagieHandwerk|4|  
-|Glasverarbeitung|2|  
+|Lederverarbeitung|0|  
+|Holzverarbeitung|0|  
 |Konstruktion|0|  
 |Akrobatik|0|  
 |Diebeshandwerk|0|  
-|Schleichen|2|  
+|Schleichen|0|  
 |Reiten|0|  
+|Textilverarbeitung|0|  
   
 &nbsp;  
   
@@ -63,7 +70,6 @@ Edelstein 20/20/??
 |:---|----:|  
 |Schutzmagie|3|  
 |Medium|3|  
-|Wassermagie|1| 
   
 ###Zauber  
 |Zauber|Level|  
@@ -75,15 +81,6 @@ Edelstein 20/20/??
 |Handlesen|1|  
 |Tarot-Blick des Schicksals|1|  
 |Stimme der Verlorenen Seelen|1|  
-|Grablichter|1| 
-|Wasserstrahl|1| 
-|Wasserplatsch|1| 
-  
-###Vorteile  
-|Vorteile|Level|  
-|:---|----:|  
-|vertärken|1|  
-|großer Schild|1|  
   
 &nbsp;  
   
@@ -92,17 +89,17 @@ Edelstein 20/20/??
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|3|  
-|Erinnerungsvermögen|3|  
-|Wahrnehmung|2|  
+|Erinnerungsvermögen|2|  
+|Wahrnehmung|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Instinkt|2|  
-|Heilen|2|  
+|Instinkt|3|  
+|Heilen|0|  
 |Wissen(Magie)|2|.|  
 |Forschung|0|  
-|Strategie|1|  
+|Strategie|0|  
 |Taktik|0|  
 |Wissen(Gebiet)|0|  
   
@@ -130,22 +127,19 @@ Edelstein 20/20/??
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Eindruck|3|  
+|Eindruck|2|  
 |Durchsetzungsvermögen|4|  
 |Sympathie|2|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Handel|2|  
-|Diplomatie|0|  
-|Lügen|2|  
-|Stil|1|  
-|Einschüchtern|1|  
-|Befehlsgewalt|1|  
-|Empathie|3|  
-|Etiquette|1|  
-|Tratsch|0|  
+|Handel|3|  
+|Diplomatie|1|  
+|Lügen|0|  
+|Stil|0|  
+|Einschüchtern|0|  
+|Befehlsgewalt|0|  
   
 &nbsp;  
   
@@ -154,14 +148,14 @@ Edelstein 20/20/??
 |Attribute|Level|  
 |:---|----:|  
 |Glück|1|  
-|Mut|2|  
+|Mut|3|  
 |Gunst|3|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|2|  
-|Wille:|1|  
+|Wille:|2|  
 |Göttliche Bindung (Ilargia):|3|  
 |Göttliche Bindung (Gott):|0|  
   

@@ -1,5 +1,5 @@
 title: Nohd  
-tags: tabs.2  
+tags:  
 
 
 Name:  
@@ -132,9 +132,6 @@ Charakterkonzept:
 |Stil|0|  
 |Einschüchtern|0|  
 |Befehlsgewalt|0|  
-|Empathie|0|  
-|Etiquette|0|  
-|Tratsch|0|  
   
 &nbsp;  
   
@@ -158,18 +155,14 @@ Charakterkonzept:
 |:---|----:|  
 |Schicksal|0|  
   
-&nbsp;  
-  
-##Progress  
+###Progress  
 |Fähigkeiten|Level|Progress|  
-|:---|----:|---:|  
-|Medizin |1|90|  
-|Kräuterkunde|5|410|  
+|:---|----:|--:|  
+|Medizin |1|180|  
+|Kräuterkunde|5|60|  
 |Körperkraft |3|1|  
-|Navigation|1|180|  
-|Kurzschwert|4|2080|  
-|Fingerfertigkeit|4|480|  
-|Holzverarbeitung|2|30|  
+|Navigation|1|30|  
+|Fingerfertigkeit|4|10|  
   
 ###Inventar  
 |Item|Menge|  
@@ -177,11 +170,10 @@ Charakterkonzept:
 |Rotwarz|1|  
   
 &nbsp;  
-total point costs Schicksal: 40  
+total point costs Schicksal: 600040  
 total point costs Magie: 0  
 total point costs Können: 115  
 total point costs Charisma: 0  
-total point costs Progress: 100000  
 total point costs Stärke: 400055  
 total point costs Weisheit: 90  
-total point costs: 500300  
+total point costs: 1000300  

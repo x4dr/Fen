@@ -1,12 +1,18 @@
-title: Pakte  
-tags:   
+title: Pakte
+tags: 
+
 Zwischen: Mü & Tanas  
 Schrein in Höhle innerhalb von einem Jahr  
+  
    
 Zwischen: Mü & Ras 12
   
 Ras:  
-Loyalität der Gruppe   
+Höhle beschützen vor allen außer Gruppe  
+Reichtum mehren  
+Loyalität der Gruppe  
+Verschwiegenheit Höhle  
+Verschwiegenheit Interaktion mit Gruppe  
   
   
 Mü:  
@@ -26,14 +32,3 @@ Ras:
 bekommt mindestens genauso viel wie Ras bekommt  
 befehligt leute im kampf / truppen / usw  
 Schutz vor Dem Glänzenden  
-
-Zwischen Mü & Rayir 16
-
-Rayir
-Vernal Portalfeste features geheimhalten
-Festung halten
-Ressourcen einsammeln und verwalten
-
-Mü
-guter Sold (2 Gold im Monat)
-Magisches Gear um beim Job zu helfen

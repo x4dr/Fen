@@ -1,11 +1,20 @@
 title: Avis  
 tags: Avis  
+
+
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
-Diebeszeichen: Treffpunkt & Mitternacht 
+  
+4 Monate  auf dem Dach im Schatten 70 tage für peitsche  
+400 Tage Navigation  
+200 Tage Schwimmen  
+200 Tage Säbel  + 4 Tage Peitsche  
+8 Tage Körperkraft  
+  
+Haben wollen: Brauen  
+7 Schadenwunde  
   
 &nbsp;  
   
@@ -23,10 +32,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |:---|----:|  
 |Peitsche|2|  
 |Schwimmen|1|  
-|Wundheilung|1|  
+|Wundheilung|0|  
 |Athletik|2|  
 |Zechen|2|  
-|Säbel|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -34,7 +42,6 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Tricks|1|  
 |Greifen|1|  
 |Schwingen|1|  
-|Fechten|5|  
   
 &nbsp;  
   
@@ -54,8 +61,8 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Diebeshandwerk|2|  
 |Schleichen|2|  
 |Kochen|2|  
-|Piratenkapitän|1|   
-|Schiffe lenken|1|  
+|Stoffverarbeitung|0|  
+|Lederverarbeitung|0|  
 |Metallverarbeitung|0|  
 |Holzverarbeitung|0|  
 |Konstruktion|0|  
@@ -79,12 +86,12 @@ Diebeszeichen: Treffpunkt & Mitternacht
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
-|Verstandt|4|  
+|Verstandt|3|  
   
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
-|???|4|  
+|???|3|  
   
 ###Forma  
 |Forma|Level|  
@@ -92,15 +99,11 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Lux|4|  
 |Impello|3|  
 |sisto|2|  
-|Fulgur|3|  
-|meta|3|  
+|Fulgur|2|  
+|meta|2|  
 |persona|3|  
-|tutela|3|  
+|tutela|2|  
 |Disruptio|3|  
-|Terra|1|  
-|Ignes|2|  
-|Lake of fire|1|  
-|Move earth|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -132,32 +135,31 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Instinkt|2|  
 |Taktik|2|  
 |Heilen|0|  
-|Wissen(Magie)|1|  
+|Wissen(Gebiet)|0|  
 |Strategie|0|  
-|Empathie|1|  
-|Navigation|1|  
-|Wissen(Meer)|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|3|  
 |Aurisch Lesen|3|  
-|Aurisch Schreiben|3|  
+|Aurisch Schreiben|2|  
 |Prekorisch Sprechen|3|  
-|Prekorisch Lesen|3|  
+|Prekorisch Lesen|1|  
 |Prekorisch Schreiben|0|  
 |Sentinisch Sprechen|M|  
 |Sentinisch Lesen|3|  
 |Sentinisch Schreiben|3|  
-|Argyrisch Sprechen|0|  
-|Argyrisch Lesen|0|  
+|Alt-Aurisch Sprechen|1|  
+|Alt-Aurisch Lesen|1|  
 |Argyrisch Schreiben|0|  
 |Atterdil Sprechen|0|  
 |Atterdil Lesen|0|  
 |Atterdil Schreiben|0|  
 |Atteryazi Lesen|0|  
 |Atteryazi Schreiben|0|  
+|Argyrisch Sprechen|0|  
+|Argyrisch Lesen|0|  
   
 &nbsp;  
   
@@ -172,15 +174,12 @@ Diebeszeichen: Treffpunkt & Mitternacht
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Diplomatie|2|  
+|Diplomatie|1|  
 |Lügen|1|  
 |Stil|2|  
 |Einschüchtern|0|  
-|Begeistern&führeb|1|  
+|Befehlsgewalt|0|  
 |Handel|0|  
-|Singen|1|  
-|Etiquette|0|  
-|Tratsch|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -216,9 +215,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
   
 &nbsp;  
 total point costs Schicksal: 105  
-total point costs Magie: 222  
+total point costs Magie: 200  
 total point costs Können: 139  
-total point costs Charisma: 120  
-total point costs Stärke: 59  
-total point costs Weisheit: 153  
-total point costs: 798  
+total point costs Charisma: 105  
+total point costs Stärke: 39  
+total point costs Weisheit: 125  
+total point costs: 713  

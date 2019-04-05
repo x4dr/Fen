@@ -1,5 +1,6 @@
-title: Alchemy  
-tags: alchemy  
+title: Alchemy
+tags: alchemy
+
 ## T12
 Philosophers Stone
 
@@ -56,11 +57,11 @@ Captured Sun/Moonlight
 
 Moonlight Crystal
 
-* infuse ice with frozen  blood of a very frostresistant northern creature
+* infuse ice with frozen  blood of <very frostresistant northern creature>
 
 Sunlight Crystal
 
-* calcinate very hot fire with copious amounts of fire and mix with blood of volcanic creature and crystalize
+* calcinate very hot fire with copious amounts of fire and mix with blood of <volcanic creature> and crystalize
 
 ## T2
 Electrum

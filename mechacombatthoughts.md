@@ -1,5 +1,6 @@
-title: mechacombatthoughts  
-tags:   
+title: mechacombatthoughts
+tags:
+
   attacks have attackvalue (assume -1..12 rn)
 
 mecha has armor rating -2..2 (considering switching to 1-5 system to avoid negative numbers)
@@ -340,25 +341,3 @@ Sizeclass: 10+Size Modules
 Size: 1+Dedicated Modules
 Reload: 30/Reload Modules
 Cost: 10 Energy, 10 Heat
-
-
-
-cards  
-Classes: 
-Light startupdeck: 10, Optiondecks: 5x min5, globalmin 50  
-Medium statupdeck: 15, optiondecks: 4x min10, globalmin 60  
-Heavy startupdeck: 20, optiondecks: 3x min15, globalmin 70  
-
-Cards:  
-Capacitor: Startup only: provides energy Storage between turns  
-Chargecell: provides instant one time Energy (variable)  
-Sink: Startup only: provides Heat Storage (Heat negates draw on a 1:1 basis)  
-Cool: destroys Heat (variable)  
-Computer: Instant Scries  
-Scanner: Looks at Opponents Hand   
-Shield: Temp hp (different mechanics)  
-Weapon: Startup only: can be activated with ammo or energy, does damage  
-Ammo: provides ammo for weapons  
-Movement System: draws  
-
-

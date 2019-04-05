@@ -1,5 +1,6 @@
-title: Characterbogen  
-tags:   
+title: Characterbogen
+tags: 
+
 Name:  
 Alter:  
 Spezies:  
@@ -83,9 +84,6 @@ Waffen sind Fähigkeiten
 * Stil
 * Einschüchtern
 * Befehlsgewalt
-* Empathie
-* Etiquette
-* Tratsch
 
 ##Schicksal
 ###Attribute
