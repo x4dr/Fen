@@ -1,5 +1,5 @@
-title: Talus  
-tags: character  
+title: GROOT  
+tags: Platzhalter  
 
 
 Name:  
@@ -7,37 +7,35 @@ Alter:
 Spezies:  
 Charakterkonzept:  
   
+400 Tage Navigation  
+400 Tage Schwimmen  
+  
 &nbsp;  
   
 ##Stärke  
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Gesundheit|n/v|  
-|Ausdauer|4|  
-|Körperkraft|3|  
+|Gesundheit|4|  
+|Ausdauer|2|  
+|Körperkraft|1|  
   
 ###Fähigkeiten  
+  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Waffe(Hammer)|1|  
-|Waffe(Waffenlos)|3|  
-|Rennen|2|  
-|Schwimmen|0|  
-|Wundheilung|n/v|  
-|Athletik|0|  
+|Peitsche|2|  
+|Schwimmen|1|  
+|Wundheilung|03|  
+|Athletik|2|  
+|Zechen|2|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Giftimmun|1|  
-|Krankheitsimmun|1|  
-|Altersimmun|1|  
-|wenig Schlaf|1|  
-|Hitzeresistent|1|  
-|Tragekapazität|1|  
-|Anspringen|3|  
-|an Wänden Laufen|6|  
+|Tricks|1|  
+|Greifen|1|  
+|Schwingen|1|  
   
 &nbsp;  
   
@@ -53,32 +51,28 @@ Charakterkonzept:
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Metallverarbeitung|2|  
-|Holzverarbeitung|2|  
-|Alchemie|2|  
-|MagieHandwerk|2|  
-|Akrobatik|2|  
-|Diebeshandwerk|0|  
+|Akrobatik|3|  
+|Diebeshandwerk|2|  
 |Schleichen|2|  
-|Reiten|0|  
-|Athletik|1|  
+|Kochen|2|  
 |Stoffverarbeitung|0|  
 |Lederverarbeitung|0|  
+|Metallverarbeitung|0|  
+|Holzverarbeitung|0|  
 |Konstruktion|0|  
+|Alchemie|0|  
+|MagieHandwerk|0|  
+|Reiten|0|  
 |Textilverarbeitung|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Ingeneur|2|  
-|Feinmechanik|1|  
-|Rekombination|1|  
-|Veredelung|1|  
-|Wiederaufladen|1|  
-|Zerlegen|1|  
-|Konstruktion|1|  
-|Identifizieren|1|  
-|Architekt|1|  
+|Ausweichen|3|  
+|Parkour|2|  
+|D.f.A|1|  
+|Taschendieb|1|  
+|Battleflips|1|  
   
 &nbsp;  
   
@@ -86,22 +80,37 @@ Charakterkonzept:
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
-|Magischer Fluss|3|  
+|Verstandt|3|  
   
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
-|Alchemie|3|  
+|???|3|  
+  
+###Forma  
+|Forma|Level|  
+|:---|----:|  
+|Lux|4|  
+|Impello|3|  
+|sisto|2|  
+|Fulgur|2|  
+|meta|2|  
+|persona|3|  
+|tutela|2|  
+|Disruptio|3|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
+|Konzentration|2|  
+|Zauber biegen|2|  
+|Bewegung Zaubern|4|  
+|Schnell Zaubern|1|  
+|Schlafzaubern|1|  
   
 ###Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
-|Alchemie|4|  
-  
-###Vorteile  
-|Vorteil|Level|  
-|:---|----:|  
-|in Bewegung Zaubern|2|  
   
 &nbsp;  
   
@@ -109,36 +118,38 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Bildung|2|  
-|Erinnerungsvermögen|1|  
+|Bildung|3|  
+|Erinnerungsvermögen|2|  
 |Wahrnehmung|2|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Heilen|0|  
-|Wissen(Amalkan)|0|  
 |Forschung|2|  
-|Instinkt|1|  
+|Instinkt|2|  
+|Taktik|2|  
+|Heilen|0|  
 |Wissen(Gebiet)|0|  
 |Strategie|0|  
-|Taktik|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|3|  
-|Aurisch Lesen|4|  
-|Aurisch Schreiben|4|  
+|Aurisch Lesen|3|  
+|Aurisch Schreiben|2|  
 |Prekorisch Sprechen|3|  
-|Prekorisch Lesen|0|  
+|Prekorisch Lesen|1|  
 |Prekorisch Schreiben|0|  
+|Sentinisch Sprechen|M|  
+|Sentinisch Lesen|3|  
+|Sentinisch Schreiben|3|  
 |Argyrisch Sprechen|0|  
 |Argyrisch Lesen|0|  
 |Argyrisch Schreiben|0|  
-|Atterdil Sprechen|4|  
-|Atterdil Lesen|4|  
-|Atterdil Schreiben|2|  
+|Atterdil Sprechen|0|  
+|Atterdil Lesen|0|  
+|Atterdil Schreiben|0|  
 |Atteryazi Lesen|0|  
 |Atteryazi Schreiben|0|  
   
@@ -149,21 +160,25 @@ Charakterkonzept:
 |Attribute|Level|  
 |:---|----:|  
 |Eindruck|3|  
-|Durchsetzungsvermögen|3|  
-|Sympathie|2|  
+|Durchsetzungsvermögen|2|  
+|Sympathie|4|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Handel|1|  
 |Diplomatie|1|  
 |Lügen|1|  
-|Stil|0|  
+|Stil|2|  
 |Einschüchtern|0|  
 |Befehlsgewalt|0|  
+|Handel|0|  
 |Empathie|0|  
 |Etiquette|0|  
 |Tratsch|0|  
+  
+###Vorteile  
+|Vorteile|Level|  
+|:---|----:|  
   
 &nbsp;  
   
@@ -171,27 +186,33 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Glück|2|  
-|Mut|1|  
-|Gunst|2|  
+|Glück|4|  
+|Mut|3|  
+|Gunst|1|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|1|  
-|Wille:|1|  
+|Wille:|2|  
 |Göttliche Bindung (Gott):|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Schicksal|0|  
+|Schicksal|5|  
+  
+###Talente  
+|Talente|Level|  
+|:---|----:|  
+|Taggen|1|  
+|Angeben|1|  
   
 &nbsp;  
-total point costs Schicksal: -10  
-total point costs Magie: 141  
-total point costs Können: 165  
-total point costs Charisma: 55  
-total point costs Stärke: 175  
-total point costs Weisheit: 72  
-total point costs: 598  
+total point costs Schicksal: 105  
+total point costs Magie: 200  
+total point costs Können: 139  
+total point costs Charisma: 105  
+total point costs Stärke: 129  
+total point costs Weisheit: 119  
+total point costs: 797  

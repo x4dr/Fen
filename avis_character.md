@@ -1,20 +1,11 @@
 title: Avis  
 tags: Avis  
-
-
 Name:  
 Alter:  
 Spezies:  
 Charakterkonzept:  
-  
-4 Monate  auf dem Dach im Schatten 70 tage für peitsche  
-400 Tage Navigation  
-200 Tage Schwimmen  
-200 Tage Säbel  + 4 Tage Peitsche  
-8 Tage Körperkraft  
-  
-Haben wollen: Brauen  
-7 Schadenwunde  
+Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
+Diebeszeichen: Treffpunkt & Mitternacht 
   
 &nbsp;  
   
@@ -32,9 +23,10 @@ Haben wollen: Brauen
 |:---|----:|  
 |Peitsche|2|  
 |Schwimmen|1|  
-|Wundheilung|0|  
+|Wundheilung|1|  
 |Athletik|2|  
 |Zechen|2|  
+|Säbel|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -42,6 +34,7 @@ Haben wollen: Brauen
 |Tricks|1|  
 |Greifen|1|  
 |Schwingen|1|  
+|Fechten|5|  
   
 &nbsp;  
   
@@ -61,8 +54,8 @@ Haben wollen: Brauen
 |Diebeshandwerk|2|  
 |Schleichen|2|  
 |Kochen|2|  
-|Stoffverarbeitung|0|  
-|Lederverarbeitung|0|  
+|Piratenkapitän|1|   
+|Schiffe lenken|1|  
 |Metallverarbeitung|0|  
 |Holzverarbeitung|0|  
 |Konstruktion|0|  
@@ -86,12 +79,12 @@ Haben wollen: Brauen
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
-|Verstandt|3|  
+|Verstandt|4|  
   
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
-|???|3|  
+|???|4|  
   
 ###Forma  
 |Forma|Level|  
@@ -99,11 +92,15 @@ Haben wollen: Brauen
 |Lux|4|  
 |Impello|3|  
 |sisto|2|  
-|Fulgur|2|  
-|meta|2|  
+|Fulgur|3|  
+|meta|3|  
 |persona|3|  
-|tutela|2|  
+|tutela|3|  
 |Disruptio|3|  
+|Terra|1|  
+|Ignes|2|  
+|Lake of fire|1|  
+|Move earth|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -135,31 +132,32 @@ Haben wollen: Brauen
 |Instinkt|2|  
 |Taktik|2|  
 |Heilen|0|  
-|Wissen(Gebiet)|0|  
+|Wissen(Magie)|1|  
 |Strategie|0|  
+|Empathie|1|  
+|Navigation|1|  
+|Wissen(Meer)|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|3|  
 |Aurisch Lesen|3|  
-|Aurisch Schreiben|2|  
+|Aurisch Schreiben|3|  
 |Prekorisch Sprechen|3|  
-|Prekorisch Lesen|1|  
+|Prekorisch Lesen|3|  
 |Prekorisch Schreiben|0|  
 |Sentinisch Sprechen|M|  
 |Sentinisch Lesen|3|  
 |Sentinisch Schreiben|3|  
-|Alt-Aurisch Sprechen|1|  
-|Alt-Aurisch Lesen|1|  
+|Argyrisch Sprechen|0|  
+|Argyrisch Lesen|0|  
 |Argyrisch Schreiben|0|  
 |Atterdil Sprechen|0|  
 |Atterdil Lesen|0|  
 |Atterdil Schreiben|0|  
 |Atteryazi Lesen|0|  
 |Atteryazi Schreiben|0|  
-|Argyrisch Sprechen|0|  
-|Argyrisch Lesen|0|  
   
 &nbsp;  
   
@@ -174,12 +172,15 @@ Haben wollen: Brauen
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Diplomatie|1|  
+|Diplomatie|2|  
 |Lügen|1|  
 |Stil|2|  
 |Einschüchtern|0|  
-|Befehlsgewalt|0|  
+|Begeistern&führeb|1|  
 |Handel|0|  
+|Singen|1|  
+|Etiquette|0|  
+|Tratsch|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -215,9 +216,9 @@ Haben wollen: Brauen
   
 &nbsp;  
 total point costs Schicksal: 105  
-total point costs Magie: 200  
+total point costs Magie: 222  
 total point costs Können: 139  
-total point costs Charisma: 105  
-total point costs Stärke: 39  
-total point costs Weisheit: 125  
-total point costs: 713  
+total point costs Charisma: 120  
+total point costs Stärke: 59  
+total point costs Weisheit: 153  
+total point costs: 798  

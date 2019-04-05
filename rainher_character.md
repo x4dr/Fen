@@ -119,7 +119,6 @@ Charakterkonzept:
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Altaurisch|1|  
 |Aurisch Sprechen|1|  
 |Aurisch Lesen|1|  
 |Aurisch Schreiben|0|  
@@ -154,6 +153,9 @@ Charakterkonzept:
 |Stil|2|0|  
 |Einschüchtern|1|0|  
 |Befehlsgewalt|0|0|  
+|Empathie|0|  
+|Etiquette|0|  
+|Tratsch|0|  
   
 ###Vorteile  
 |Vorteile|Level|  
@@ -164,11 +166,11 @@ Charakterkonzept:
   
 ##Schicksal  
 ###Attribute  
-|Attribute|Level|Training|  
-|:---|----:|---:|  
-|Glück|2|0|  
-|Mut|3|0|  
-|Gunst|3|30t|  
+|Attribute|Level|  
+|:---|----:|  
+|Glück|2|  
+|Mut|3|  
+|Gunst|3|  
 |Rasse(ist auf 1)|3|  
   
 ###Fähigkeiten  
@@ -191,5 +193,5 @@ total point costs Magie: 25
 total point costs Können: 83  
 total point costs Charisma: 143  
 total point costs Stärke: 164  
-total point costs Weisheit: 179  
-total point costs: 670  
+total point costs Weisheit: 176  
+total point costs: 667  

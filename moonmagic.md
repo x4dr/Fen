@@ -1,6 +1,5 @@
-title: Mondmagie
-tags: 
-
+title: Mondmagie  
+tags:   
 #Aspekt: Schutzmagie
 ## Schutzkreis
 1 meter Kreisumfang = 1 Energie Kosten, 1 Runde  
@@ -8,6 +7,10 @@ Jede (runde, minute, stunde, tag, woche je nach stufe) aufrechterhalten mit 1 En
 Schutzpunkte: Wurf * 4  
 Vorteil Verlagern n: Aufrechterhaltungsstufe um 1 verschieben, Schutzpunkte um (Wurf*3) in die andere richtung höchstens n mal  
 Vorteil Pforte: eine runde, öffnet/schließt eine pforte  
+  
+##Verstärken  
+Zauberdauer 1 kosten 1  
+Füllt Schildlebenspunkt des Schutzkreises um original wurf auf  
   
 ## Umkehren  
 5-SchutzmagieStufe Energie, Castzeit instant (aber volle aktion)  

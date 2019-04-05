@@ -1,9 +1,5 @@
-title: Herstellung von Gegenständen.
-tags: 
-
-[stub/scribbles]
-plus reparatur
-
+title: Herstellung von Gegenständen.  
+tags:   
 ##Schritt eins: Materialien 
 (Frage spielleiter, build spezifisch)
 
@@ -106,3 +102,14 @@ Würfe:
 |2 4 9 10| => 10+14/20| -5 |||=> 19/25 |  
 |2 5 5 5| => 19+10/20| -5 ||| => 24/25|  
 |2 5 8 10| => 24+15/20| -5 |= 34/25| Abschluss | Fertig|  
+
+# Verbeitete Magische Gegenstände
+
+* Wärmer: Kiste die den Inhalt mit Magie erwärmt (Zieltemperatur ist fest)   
+* Kühler: Kiste die den Inhalt mit Magie abkühlt (Zieltemperatur ist fest)  
+* Regenschutzmantel: Mantel der Flüssigkeiten mindestens 1 cm von sich hält  
+* Multibuch: (selten) Buch mit Mechanismus der den Inhalt zwischen einigen festen Einstellungen ändert.  
+* Feuerding: Entzündet ein Feuer.  
+* Musikbox: spielt magisch auf Perlen aufgenommene Lieder  
+* Kaltkerze: Kerze die sehr langsam, und nur unangenehm warm aber dafür Tagelang brennt.  
+* Zeiglicht: Geschliffener Kristall mit einem Saphir an einem ende. Aktivierung sorgt dafür, dass ein dünner Lichtstarhl bis zu 2 km sichtbar einen kleinen Punkt macht.  

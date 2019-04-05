@@ -1,5 +1,5 @@
-title: Nohd  
-tags: tabs.2  
+title: Gehana  
+tags:  
 
 
 Name:  
@@ -13,25 +13,16 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Gesundheit|3|  
+|Gesundheit|2|  
 |Ausdauer|2|  
 |Körperkraft|2|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Rennen|0|  
-|Schwimmen|1|  
+|Athletik|0|  
+|Schwimmen|0|  
 |Wundheilung|0|  
-|Athletik|3|  
-  
-###Waffen  
-|Fähigkeiten|Level|  
-|:---|----:|  
-|Langbogen|5|  
-|Kurzschwert|3|  
-|Blasrohr|3|  
-|Keulen|1|  
   
 &nbsp;  
   
@@ -39,7 +30,7 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Fingerfertigkeit|3|  
+|Fingerfertigkeit|2|  
 |Wendigkeit|2|  
 |Rüstung|2|  
 |Artefakte|2|  
@@ -47,18 +38,16 @@ Charakterkonzept:
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Metallverarbeitung|0|  
-|Holzverarbeitung|1|  
-|Alchemie|3|  
-|MagieHandwerk|0|  
-|Akrobatik|2|  
-|Diebeshandwerk|2|  
-|Schleichen|3|  
-|Reiten|0|  
-|Stoffverarbeitung|0|  
-|Lederverarbeitung|0|  
-|Konstruktion|0|  
 |Textilverarbeitung|0|  
+|Metallverarbeitung|0|  
+|Holzverarbeitung|0|  
+|Konstruktion|0|  
+|Alchemie|0|  
+|MagieHandwerk|0|  
+|Diebeshandwerk|0|  
+|Akrobatik|0|  
+|Schleichen|0|  
+|Reiten|0|  
   
 &nbsp;  
   
@@ -81,9 +70,9 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Bildung|3|  
+|Bildung|2|  
 |Erinnerungsvermögen|2|  
-|Wahrnehmung|3|  
+|Wahrnehmung|2|  
   
 ###Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -91,7 +80,7 @@ Charakterkonzept:
 |Heilen|0|  
 |Wissen(Gebiet)|0|  
 |Forschung|0|  
-|Instinkt|4|  
+|Instinkt|0|  
 |Strategie|0|  
 |Taktik|0|  
   
@@ -108,8 +97,6 @@ Charakterkonzept:
 |Argyrisch Lesen|0|  
 |Argyrisch Schreiben|0|  
 |Atterdil Sprechen|0|  
-|Atterdil Lesen|0|  
-|Atterdil Schreiben|0|  
 |Atteryazi Lesen|0|  
 |Atteryazi Schreiben|0|  
   
@@ -142,8 +129,8 @@ Charakterkonzept:
 ###Attribute  
 |Attribute|Level|  
 |:---|----:|  
-|Glück|3|  
-|Mut|3|  
+|Glück|2|  
+|Mut|2|  
 |Gunst|2|  
   
 ###Fähigkeiten  
@@ -159,29 +146,10 @@ Charakterkonzept:
 |Schicksal|0|  
   
 &nbsp;  
-  
-##Progress  
-|Fähigkeiten|Level|Progress|  
-|:---|----:|---:|  
-|Medizin |1|90|  
-|Kräuterkunde|5|410|  
-|Körperkraft |3|1|  
-|Navigation|1|180|  
-|Kurzschwert|4|2080|  
-|Fingerfertigkeit|4|480|  
-|Holzverarbeitung|2|30|  
-  
-###Inventar  
-|Item|Menge|  
-|:-—-|—-—:|  
-|Rotwarz|1|  
-  
-&nbsp;  
-total point costs Schicksal: 40  
+total point costs Schicksal: 0  
 total point costs Magie: 0  
-total point costs Können: 115  
+total point costs Können: 0  
 total point costs Charisma: 0  
-total point costs Progress: 100000  
-total point costs Stärke: 400055  
-total point costs Weisheit: 90  
-total point costs: 500300  
+total point costs Stärke: 0  
+total point costs Weisheit: 0  
+total point costs: 0  

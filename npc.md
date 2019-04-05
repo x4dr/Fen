@@ -1,24 +1,42 @@
-title: npc
-tags: 
+title: npc  
+tags:   
 
-  VORAGE der meisterkoch (ehem VORAGE der barbar, VORAGE drachentöter, VORAGE ohnegnade, VORAGE der mächtige)  
+VORAGE der Meisterkoch (ehem VORAGE der Barbar, VORAGE Drachentöter, VORAGE Ohnegnade, VORAGE der Mächtige)
 
-moruhin der kauzige und oris der mysteriöse kater  
+Moruhin der Kauzige und Otis der mysteriöse Kater  
 
-mathilda die abenteurergildenempfangsdame  
+Mathilda die Abenteurergilden-Empfangsdame  
 
-odilia die nähpartnerin von yarat  
+Odilia die Nähpartnerin von Yarat  
 
-nysgaris der lord magister von seegard  
+Nysgaris der Lord-Magister von Seegard  
 
-Tohrun Nu'dez großer händler (4 schiffe, metallspezialisierung) mit sind Sohn Send
+Rison Aurier aus der Statue  
 
-Jacun - einer der reichsten bürger von seegard
+Tohrun Nu'dez großer Händler (4 Schiffe, Metallspezialisierung) mit seinem Sohn Send  
 
-Minem - der rhytmisch sprechende Druide aus dem Trarorischen Wald
+Jacun - einer der reichsten Bürger von Seegard  
+
+Minem - der rhythmisch sprechende Druide aus dem Trarorischen Wald  
 
 Karoni Marzanna - Asassin for Hire
+  
+Arhnim - Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute  
 
-Arhnim - Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute
+Nyxico - Der wohl älteste Aurier  
 
-Nyxico - Der wohl älteste Aurier
+Nytani - Mysteriöse Oberin des Waisenhauses und Priesterin der Ilargia mit einer beglichenen Rechnung
+
+Taiem - Mysteriöser wohlgekleideter Herr aus einer der teureren Tavernen Seegards.
+
+Yamal - Herr des Dunkelwaldes (Banditlord zwischen der stillen Stadt und Trarora)
+
+Rayir Lilschyz - Bandit -> Söldner -> General-Major von Vernal (gebunden an Mü)
+
+Culbard - Barde mit Kristallschreinlegende
+
+Kalvor - der Nordprekorische Warlord
+
+Teun - Anwalt aus Yamkor
+
+Kelo - Frostiger Anführer der Tantor-Eintreiber
