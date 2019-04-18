@@ -2,6 +2,8 @@ title: Preise
 tags:   
 |Material | Preis pro Kilogramm |
 |:---|---:|
+| Weizen | 4c |  
+| Mehl | 5c |  
 | Kohle | 50c |
 | Kupfer | 1s |  
 | Zinn | 9s |  
@@ -30,7 +32,6 @@ tags:
 | Stahl Schwert| 10g |
 | Pferd | 5g-100g |  
 | 1km^2 Fruchtbares land | 1-2 g |  
-
 
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro km^2 pro Jahr.   
 
