@@ -25,7 +25,7 @@ Alle Vorteile sind nur mit der Entsprechenden Waffe einzusetzen.
 ##1.3.1.1.1 Verbesserte Riposte: (4, D, 1D, 1)
 Wie Riposte, Techniken können während des Angriffs eingesetzt werden.  
 ##1.3.1.2 Spontanes Parieren: (3, D, 2D3C, 1)
-(anstelle eines Angriffs) Wenn noch kein Angriff erfolgt ist, Pariere.  
+(reflexiv) Wenn noch kein Angriff erfolgt ist, Pariere. Konsumiert Angriff.  
 ##1.3.2 Verbessertes Parieren: (2, C, 1C, 3) 
 (passiv) Parieren erhöht Defensive zusätzlich um 2 gegen den ersten Angriff in einer Runde
 ##2 Rapier (1, E, Rapier 1, 1)
@@ -34,7 +34,7 @@ Wie Riposte, Techniken können während des Angriffs eingesetzt werden.
 (passiv) Rapierschaden ist [Stichschaden](damage#p-stechen)
 ##2.1.1 Schwirrende Klinge (3, E, 2E, 1)
 (reflexiv) senkt defensive um 1 und verhindert alle weiteren reflexiven Aktivierungen von Fähigkeiten in dieser Konfrontation
-##2.1.1.1 Herzsucher (4, E, 3E, 2)  
+##2.1.1.1 Herzsucher (4, E, 3E | 3H, 2)  
 (Technik) erhöht offensive um 4, senkt defensive um 4, senkt gegnerische Offensive um Angerichteten Schaden
 ##2.1.1.1.1 Lösen (5, E, 4E, 2)
 (reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Charakter anzugreifen. Nächste Runde Offensive +3, Defensive -4
@@ -49,4 +49,13 @@ Wie Riposte, Techniken können während des Angriffs eingesetzt werden.
 ##3.1.1.1.1 Säbelwirbel (5, F, 4F, 1)
 (Technik) Greift bis zu 4 Ziele in Reichweite an
 ##4 Anderthalbhänder
+flexibility and usually defensive
 ###tbc
+##5 Cirit (1, H, Cirit 1, 1)  
+(passiv) Nach erfolgreichem Angriff sinkt die Offensive des Gegners um 4 und die Defensive des Angreifers um 2.  
+## 5.1 Zweihändigkeit (2, H, 1H, 1)  
+(passiv) Bei Verwendung von 2 Cirit, ist Waffenschaden der Höhere und effekte Beider Waffen sind aktiv. +3 Offense, -2 Defense  
+## 5.1.1 Binden (3, H, 2H, 1)  
+(Technik)
+Benötigt 2 Cirit wird benutzt um die andere Waffe zu binden. Reduktion der Gegnerischen Offensive und Defensive um die Hälfte der eigenen Offensive inklusive der nächsten Runde. Deaktiviert Zweihändigkeit für die Nächste Runde.
+
