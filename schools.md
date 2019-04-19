@@ -17,6 +17,12 @@ Siehe [Die Kurzschwert Kampfschule](shortsword)
 Anspringen: Hälfte des Stärke-Springen Wurfes ist Bonusoffensive für den Angriff in der Nächsten Runde. Nutzt maximum Springen n.
 Umspringen: 6-n Bonusoffensive ausgeben um Gegner umzuspringen. Beide Parteien liegend, Angreifer auf Verteidiger, Verteidiger Maluswürfel da untenliegend. Defensive vs nichtliegende halbiert.
 
+# Meucheln
+
+### Death from Above
+(Technik) Muss von mindestens Fußlevel über Kopflevel des Ziels ausgeführt werden. Angriff bekommt 3 Bonuswürfel.
+
+
 # Schleuder : Indirektes Feuer
 Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
 ## Kurzschleudertraining:
