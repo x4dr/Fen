@@ -12,6 +12,11 @@ Für die Allgemeine Fechtschule siehe [Fechten](fencing)
 konzentriert sich auf flexibilität und Kontrolle
 # Kurzschwert
 Siehe [Die Kurzschwert Kampfschule](shortsword)
+
+# Anspringen/Umspringen
+Anspringen: Hälfte des Stärke-Springen Wurfes ist Bonusoffensive für den Angriff in der Nächsten Runde. Nutzt maximum Springen n.
+Umspringen: 6-n Bonusoffensive ausgeben um Gegner umzuspringen. Beide Parteien liegend, Angreifer auf Verteidiger, Verteidiger Maluswürfel da untenliegend. Defensive vs nichtliegende halbiert.
+
 # Schleuder : Indirektes Feuer
 Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
 ## Kurzschleudertraining:
@@ -63,7 +68,6 @@ Rüstung wird auf den verlust durch schaden bekommen angewendet
 Schaden bekommen senkt die offensivpunkte nurnoch maximal um 1    
 ####Einschüchterne Verteidigung  
 advantage über die offence des gegners behindert ebenfalls die aktion des gegners
-
   ___
 #Alte Konzepte/Zu verarbeiten  
 
