@@ -12,7 +12,6 @@ Für die Allgemeine Fechtschule siehe [Fechten](fencing)
 konzentriert sich auf flexibilität und Kontrolle
 # Kurzschwert
 Siehe [Die Kurzschwert Kampfschule](shortsword)
-
 # Anspringen/Umspringen
 Anspringen: Hälfte des Stärke-Springen Wurfes ist Bonusoffensive für den Angriff in der Nächsten Runde. Nutzt maximum Springen n.
 Umspringen: 6-n Bonusoffensive ausgeben um Gegner umzuspringen. Beide Parteien liegend, Angreifer auf Verteidiger, Verteidiger Maluswürfel da untenliegend. Defensive vs nichtliegende halbiert.
@@ -41,6 +40,8 @@ Jeder Teilangriff auf das selbe Ziel konsumiert den niedrigsten Würfel des Wurf
 (1-5) +n*20% Schaden vor Rüstung. 
 ### Schwirrendes Geschoss. 
 (angriff) Ein Vorbereitetes Geschoss lässt ein lautes Pfeiffen erklingen. Moralschaden.
+
+
 #Peitsche Todeswirbel:  
 während der wirbel aktiv ist, keine gezielten angriffe möglich
 (wenn du angegriffen wirst und mehr off hast als der angreifer def,
@@ -74,6 +75,21 @@ Rüstung wird auf den verlust durch schaden bekommen angewendet
 Schaden bekommen senkt die offensivpunkte nurnoch maximal um 1    
 ####Einschüchterne Verteidigung  
 advantage über die offence des gegners behindert ebenfalls die aktion des gegners
+
+#Axt
+passiv, sichtbar, Freie Phase zum Ändern: Entweder neutral, -1 Offensiv, +2 Defensiv oder +1 Offensiv -2 Defensiv
+## Haken
+Technik: Kein Schaden wird verursacht, freie und reflexive Wahl zwischen Defensiv und Offensiv Vorteil als malus auf das Grundergebnis des Gegners bis zum Ende der nächsten Runde.
+### Finte
+reflexiv: Senkt Offensive und Defensive um 1, ändert Technik und/oder Ziel.
+#### Kampfwurf
+Technik: Fernkampfangriff Reichweite bis Stärke &times; 3 meter, Angregriffenes Ziel verliert Angriff, Defensive 5.
+1 Resonanz mit 4+: weitere Axt kann bereit gemacht werden
+2+ Resonanz mit 4+: (Resonanz Amplitude - 1) &times; (Resonanz Frequenz) Bonusschaden 
+(Beispiele: 10 10 10 10 10 => 40 Bonusschaden, 7 7 7 8 9 => 7 Bonusschaden, 4 4 5 7 8 9 => 0 Bonusschaden, weitere axt bereit machen in allen fällen)
+##### Schwungvolle Schläge
+Technik: -2 Offensive, +2 Defensive, +5 Schaden +1 Schaden für jede Runde Schwungvolle Schläge in Folge.
+
   ___
 #Alte Konzepte/Zu verarbeiten  
 
