@@ -9,4 +9,4 @@ Weapons:
 1x Sling
 
 Relevant Perks:
-Axt5 [http://nosferatu.vampir.es/wiki/schools#axt](axe)
+[Axt5](schools#axt)
