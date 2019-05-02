@@ -15,14 +15,14 @@ tags:
 |Armbrust| XP | 0 |  30 |  Reload KK,Armbrust@5>X*2-x/3:r, Teilunterbrechbar|  
 |Kurzschleuder| 0B | 1 | 10 |  Reload 1, Unterbrechbar |  
 |Langschleuder| 0B | 2 | 40 |  Reload 1, Schwierigkeit +2, Unterbrechbar |  
-|Nahkampf| 0B | 1 | 0 |   
-  
+|Nahkampf| 0B | 1 | 0 |  
+|[Schild](schools#schild)| 5 | 0.5 | 0 |   Erhöht Defensive |   
   
 &nbsp;  
 
 # Anmerkungen  
 ##Schadenstypen  
-[sind möglichkeiten für was die waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](damage)
+[sind möglichkeiten für was die Waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](damage)
 
 
 * Kurz und Langbögen haben einen Vorteil der die Ladezeit um 1 senkt
