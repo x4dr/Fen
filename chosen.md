@@ -1,7 +1,6 @@
 title:   
 tags:   
 SHOO! stop reading! ;(
-
 Khope(d)sh
 
 Weapons:
@@ -10,4 +9,4 @@ Weapons:
 1x Sling
 
 Relevant Perks:
-Axt5 (axe)[http://nosferatu.vampir.es/wiki/schools#axt]
+Axt5 [http://nosferatu.vampir.es/wiki/schools#axt](axe)
