@@ -2,7 +2,6 @@ title: npc
 tags:   
 VORAGE der Meisterkoch (ehem VORAGE der Barbar, VORAGE Drachentöter, VORAGE Ohnegnade, VORAGE der Mächtige)
 Moruhin der Kauzige und Otis der mysteriöse Kater  
-
 Mathilda die Abenteurergilden-Empfangsdame  
 
 Odilia die Nähpartnerin von Yarat  
@@ -42,3 +41,7 @@ Kelo - Frostiger Anführer der Tantor-Eintreiber
 Baradin - Kunsthandwerker der Magiegilde in Tantor
 
 Gaius - literally zerstreuter Gelehrter
+
+Rhedin - Nysgaris' Administrator von Eisenbach
+
+Sör'n - der Sprengmeister im Eisenbacher Steinbruch
