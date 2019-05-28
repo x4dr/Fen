@@ -1,5 +1,6 @@
 title: Fechten  
 tags:   
+[TOC]
 #Fechten
 Alle Vorteile sind nur mit der Entsprechenden Waffe einzusetzen.
 ##1 Flexibilität (1, O, Beliebige Schwertartige Waffe 1, 1)
@@ -39,11 +40,11 @@ Wie Riposte, Techniken können während des Angriffs eingesetzt werden.
 ##2.1.1.1.1 Lösen (5, E, 4E, 2)
 (reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Charakter anzugreifen. Nächste Runde Offensive +3, Defensive -4
 ##3 Säbel (1, F, Säbel 1, 1)
-(passiv) der säbel kann in der selben Runde gezogen werden und angreifen, Erhöhte Schwierigkeiten durch Situationen werden um 2 gesenkt.
+(passiv) der säbel kann in der selben Runde gezogen werden und angreifen, Erhöhte Schwierigkeiten durch Umweltsituation werden um 2 gesenkt.
 ##3.1 Schnitt (2, F, 1F, 1) 
-(passiv) Säbelschaden ist [Schnittschaden](damage#c-schneiden)
+(passiv) Schnittschaden ist um die Summe der Amplituden der Resonanzen erhöht.
 ##3.1.1 Passieren (3, F, 2F,1)
-(passiv) Angegriffene Gegner bekommen keine Freie Attacke gegen den Charakter wenn er sich bewegt
+(passiv) In dieser oder letzter Runde angegriffene Gegner bekommen keine Freie Attacke gegen den Charakter wenn er sich bewegt
 ##3.1.1.1 Eintausend Schnitte(4, F, 3F, 1)
 (Technik) Offensive +5, nächste Runde Offensive -4, für alle *vollen* 3 Punkte Effektiven Schadens wird **stattdessen** eine 1 punkte Wunde ausgelöst.
 ##3.1.1.1.1 Säbelwirbel (5, F, 4F, 1)
@@ -58,4 +59,3 @@ flexibility and usually defensive
 ## 5.1.1 Binden (3, H, 2H, 1)  
 (Technik)
 Benötigt 2 Cirit wird benutzt um die andere Waffe zu binden. Reduktion der Gegnerischen Offensive und Defensive um die Hälfte der eigenen Offensive inklusive der nächsten Runde. Deaktiviert Zweihändigkeit für die Nächste Runde.
-
