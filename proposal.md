@@ -2,7 +2,6 @@ title: Vorschläge
 tags:   
 #1. Leichte Artefakte passiv
 kleine Artefakte können in der selben Runde gezogen und ausgelöst werden
-
 3.1.1.1 Sehnenschneider(4, F, 3F, 1)
 Technik - 2 Maluswürfel
 Schaden löst stattdessen eine 1 Punkte Wunde mit dem eigentlichen Schaden als Verkrüpplung, die als Ergebnismalus auf körperliche Aktionen angewendet wird. Wenn diese Wunde heilt und Verkrüpplung verursacht, wird stattdessen die verkrüpplung gesenkt.
