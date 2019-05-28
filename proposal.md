@@ -2,6 +2,7 @@ title: Vorschläge
 tags:   
 1. Leichte Artefakte (all;all) passiv
 Säbel (und Pistolen) können in der selben Runde gezogen werden und angreifen, Erhöhte Schwierigkeiten durch Umweltsituation werden um 2 gesenkt.
+
 1.2 Feste Klinge({Erde,Glas},Säbel;)
 	1.2.1.1 Scharfe Klinge passiv
 	Schnittschaden ist um die Summe der Amplituden der Resonanzen erhöht.
@@ -11,7 +12,6 @@ Säbel (und Pistolen) können in der selben Runde gezogen werden und angreifen, 
 	Offensive +5, nächste Runde Offensive -4, für alle vollen 3 Punkte Effektiven Schadens wird 	stattdessen eine 1 punkte blutende  Wunde ausgelöst.
 		1.2.1.3.[n] Sehnenschneider - Technik
 		Macht wenig Schaden, Verusacht einen dauerhafen Mali von min{n, original schaden} 			auf Körperliche Aufgaben
-
 	1.2.1.4 Klingensturm -Technik
 	3fach Angriff (verteilbar auf verschiedene Ziele)
 
