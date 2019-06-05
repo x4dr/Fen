@@ -2,7 +2,6 @@ title: Herstellung von Gegenständen.
 tags:   
 ##Schritt eins: Materialien 
 (Frage spielleiter, build spezifisch)
-
 Beispiele:
 * Kurzschwert: 0.8 kg Metall, 0.1 kg Griffmaterial (Holz/Knochen/usw)
 * Langschwert: 1.2 kg Metall, 0.1 kg Griffmaterial 
@@ -20,6 +19,15 @@ Das Projekt benötigt unterschiedliche level von Werkzeugen, je nachdem was herg
 Kleine, tragbare Sets bieten normalerweise nur recht kleine mengen an werkzeugen und bonus, während eine permanente Werkstatt mehr bietet.
 Je nach vorhandenem Werkzeug passt der Spielleiter die Parameter an.
 Wenn die Verarbeitung einfach genug ist kann auch eine Schnellverarbeitung angesagt werden, bei der es nur einen Wurf gibt, wenn die entsprechenden Vorraussetzungen/Übung vorhanden ist.
+
+| Level | Größe | Qualität |  
+| --- | --- | --- |  
+| 0 | Keine, Handarbeit oder das Werkstück selbst | Herumliegende Gegenstände |  
+| 1 | Klein, passt in eine Tasche | Improvisiert/Stümperhaft |  
+| 2 | Moderat, Kann man alleine Tragen | Kompetent |  
+| 3 | Groß, erfordert aufwand zum auf und ab bauen | Vollständig, Meisterarbeit |  
+| 4 | Kleine Werkstatt, benötigt einen Raum | Seltene oder Ungewöhnliche Ausrüstung, Perfekte grundlagen |  
+| 5 | Große Werkstatt, benötigt ein Gebäude | legendäres Werkzeug oder vergleichbar |  
 
 ### Projektparameter
 ##### Aufwand
