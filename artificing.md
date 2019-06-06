@@ -7,7 +7,6 @@ Beispiele:
 * Langschwert: 1.2 kg Metall, 0.1 kg Griffmaterial 
 * großer Rundschild: 2 kg Bretter, 0.5 kg Metall
 usw (liste sollte in eigenem artikel fortgesetzt werden)
-
 ##Schritt zwei: Fähigkeiten
 
 der Hauptwerkstoff bestimmt die Fähigkeit die genutzt wird (Holz/Metall/Textil/Konstruktion/Magiehandwerk) oder wenn es mehrere große Anteile gibt, werden diese in unterschiedliche unteraufgaben Aufgeteilt.
@@ -38,6 +37,8 @@ Ist die Gesamtzahl die erreicht werden muss.
 Ist die Anzahl der Maluswürfel auf den Crafting Wurf. Negiert durch entsprechendes Werkzeug.
 ##### Anforderungen
 Werkzeug/Werkstätten Anforderungen
+##### Möglichkeiten
+Für welche dinge es Bonuswürfel geben kann
 ##### Interval
 alle Wieviel Arbeitsstunden ein Wurf gewürfelt wird.
 ##### Widrigkeit
