@@ -19,7 +19,6 @@ Textilverarbeitung (8) -5 Aufwand (parallel)
 ###Effekte:
 Vorher anzusagen, je nach eigenschaft + Widrigkeit
 
-
 ##Chitinverstärkte Rüstung
 
 ###Material:
@@ -46,7 +45,7 @@ Kompetenz,Alchemie
 ###Material pro kg:
 Silber:1/3kg, Stahl 1/2kg, Porzellanton (1/6), Flux(1kg),  
 ###Aufwand: 
-10+5&mul; endmenge in kilogramm
+10+5&times; endmenge in kilogramm
 ###Komplexität 
 5
 ###Anforderungen:
@@ -60,7 +59,7 @@ Magische Temperaturstabilisierung (pro 5 pkt pro kg): Widrigkeitssteigerungszeit
 3 
 ###Effekte:
 Widrigkeit zum Weiterverarbeiten steigt um 1 pro runde.
-1er resonanz führt zu explosion. Aufwandsvortschritt schaden -1/m &mul;Resonanzhöhe
+1er resonanz führt zu explosion. Aufwandsvortschritt schaden -1/m &times;Resonanzhöhe
 Auch beim weiterverarbeiten
 
 ###Cirit gegenstände
@@ -94,9 +93,9 @@ Wurfmesser statt 3 schadensbonus +1 multiplikator
 ###Zutaten
 50 silber/5
 ####Paralyse
-Wurf&mul;1.5 ist Stärke, Wurf/3 - 2 Maluswürfel, bis neutralisiert, Giftwirkung -1 pro runde
+Wurf&times;1.5 ist Stärke, Wurf/3 - 2 Maluswürfel, bis neutralisiert, Giftwirkung -1 pro runde
 ####Schlaf
-Wurf&mul;1.5 ist Stärke; Effekt :
+Wurf&times;1.5 ist Stärke; Effekt :
 Giftvorteil: 1-3: -1 auf ergebnisse
 4-7: 2 Maluswürfel und -4 auf ergebnisse
 8+: Schlaf
