@@ -6,7 +6,6 @@ Beispiele:
 * Kurzschwert: 0.8 kg Metall, 0.1 kg Griffmaterial (Holz/Knochen/usw)
 * Langschwert: 1.2 kg Metall, 0.1 kg Griffmaterial 
 * großer Rundschild: 2 kg Bretter, 0.5 kg Metall
-
 usw (liste sollte in eigenem artikel fortgesetzt werden)
 
 ##Schritt zwei: Fähigkeiten
@@ -29,16 +28,21 @@ Wenn die Verarbeitung einfach genug ist kann auch eine Schnellverarbeitung anges
 | 4 | Kleine Werkstatt, benötigt einen Raum | Seltene oder Ungewöhnliche Ausrüstung, Perfekte grundlagen |  
 | 5 | Große Werkstatt, benötigt ein Gebäude | legendäres Werkzeug oder vergleichbar |  
 
+Qualität nimmt bei 1er Resonanz von 2 oder mehr um 1 ab, Resonanz von 1 erfordert eventuell Reparaturen/aufstockung
+Größe nimmt nicht ab, aber eventuell muss Ausstattung repariert werden
+
 ### Projektparameter
 ##### Aufwand
 Ist die Gesamtzahl die erreicht werden muss.
 ##### Komplexität
-Ist die Anzahl der Würfel die gewürfelt werden.
+Ist die Anzahl der Maluswürfel auf den Crafting Wurf. Negiert durch entsprechendes Werkzeug.
+##### Anforderungen
+Werkzeug/Werkstätten Anforderungen
 ##### Interval
-alle wieviel Arbeitsstunden ein wurf gewürfelt wird.
-#### Widrigkeit
+alle Wieviel Arbeitsstunden ein Wurf gewürfelt wird.
+##### Widrigkeit
 wird zwischen zwei Intervallen vom Projektfortschritt abgezogen
-#### Effekte
+##### Effekte
 Entweder feste, gewählte oder ausgewürfelte effekte für jedes Intervall
 
 ## Schritt Vier: Verarbeitung
