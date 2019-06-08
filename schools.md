@@ -15,7 +15,6 @@ Siehe [Die Kurzschwert Kampfschule](shortsword)
 # Anspringen/Umspringen
 Anspringen: Hälfte des Stärke-Springen Wurfes ist Bonusoffensive für den Angriff in der Nächsten Runde. Nutzt maximum Springen n.
 Umspringen: 6-n Bonusoffensive ausgeben um Gegner umzuspringen. Beide Parteien liegend, Angreifer auf Verteidiger, Verteidiger Maluswürfel da untenliegend. Defensive vs nichtliegende halbiert.
-
 # Meucheln
 
 ### Death from Above
@@ -110,6 +109,19 @@ reflexiv, gegnerische Offensive - Schildbonus bis Ende nächster Runde, Schildbo
 passiv, Defensivvorteil gegen einen Angegriffenen Gegner kann ausgegeben werden um den Gegner eine entsprechende Zahl in Metern nach hinten zu drücken. Wenn dort kein Platz mehr ist, bekommt er die verbleibende Zahl als Malus auf seinen nächsten Wurf.
 ##### Bollwerk
 Technik, Defensive + Schildbonus, Kein Schaden wird Verursacht, Kann alle Angriffe auf einen zusätzlichen charakter abfangen.
+
+#Kampfmanöver
+(benötigen Kampfmanöver Weisheits skill auf dem entsprechenden level; Geist-Kampfmanöver wird nur interpretiert wenn zwei taktiken/Techniken/reflexloops eine Gleichstandssituation auslösen)
+##Wache 
+Technik
+greift alles an was sich auf bewachtes ziel oder selbst zubewegt oder angreift, keine Attack of Opportunity Umgehung
+## Herausforderung 
+Reflexiv
+Ziel (das noch einen Angriff hat) erhält Möglichkeit Anwender mit dem Haupt Angriff mit +2 Offensive, oder es verliert 2 Offensive und Defensive
+## Bedrohung 
+Reflexiv, Defensive -3, 
+Ziel in Nahkampfreichweite beendet entweder die Bewegung bis ende nächster runde oder verliert 5 Defensive und wird angegriffen)
+
   ___
 #Alte Konzepte/Zu verarbeiten  
 
