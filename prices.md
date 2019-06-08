@@ -17,7 +17,6 @@ tags:
 | Rindfleisch | 50c |
 | Butter/K채se | 30c |
 | Schwebstein | 80s |  
-  
 ---
   
 |Dinge| Preis pro St체ck |
@@ -47,14 +46,14 @@ Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reicht�
 
 |R체stung| Hemnis | Schutz | Stabilit채t | Preis Pro Punkt | Anmerkung |  
 | :---|---:|---:|---:|---:|---:|   
-| Alltagskleidung| 0| 0-3 | 0 | ~ 1 s | Nicht auf Schutz ausgelegt |   
-| Gambeson | 1 | 5-15 | 3-5 | 15s | |  
-| Brigandine | 2 | 7-12 | 7-9 | 50s |  |  
-| Satz Kette, einfach | 3 | 10-18 | 10-15 | 75s | |  
-| Lamellar | 4| 12-20 | 5-15 | 90s | |
-| Satz Kette, verst채rkt | 5 | 12-20 | 12-15 | 1.5g | |  
-| Schuppen | 3 | 12-20 | 12-15 | 2.5g | |
-| Platte | 6 | 15-25 | 10-20 | 4g | Nimmt Schaden von stumpfen Waffen |  
+| Alltagskleidung| 0| 0-3 | 0 | ~ 50 c | Nicht auf Schutz ausgelegt |   
+| Gambeson | 1 | 5-15 | 3-5 | 1s | |  
+| Brigandine | 2 | 7-12 | 7-9 | 5s |  |  
+| Satz Kette, einfach | 3 | 10-18 | 10-15 | 10s | |  
+| Lamellar | 4| 12-20 | 5-15 | 15s | |
+| Satz Kette, verst채rkt | 5 | 12-20 | 12-15 | 50s | |  
+| Schuppen | 3 | 12-20 | 12-15 | 80s | |
+| Platte | 6 | 15-25 | 10-20 | 1g | Nimmt Schaden von stumpfen Waffen |  
 | Vollplatte | 7 | 18-28 | 15-25 | 6g| Nimmt Schaden von stumpfen Waffen |  
 | Schwere Platte | 8 | 20-30 | 18-28 | 9g| Nimmt Schaden von stumpfen Waffen |  
 | Drachenpanzer | 9 |  25-35 | 20-30 | 15g | Nimmt keinen Schaden von Magie |  
