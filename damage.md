@@ -24,7 +24,7 @@ Blutfluss wird durch die normale Fingerfertigkeit,Heilen Verbinden-Aktion gestop
 #P - Stechen
 Effektiver Schaden wenn größer 0 ignoriert Rüstung in Höhe des Kampfvorteils.
 #H - Hauen
-Die "normale" art anzugreifen. Bei 10er Resonanz kann eine der anderen Mundanen Schadensarten ausgesuch werden.
+Die "normale" Art anzugreifen. Bei 10er Resonanz kann eine der anderen Mundanen Schadensarten ausgesucht werden.
 #B - Stumpf
 Rüstungsschutz die Berechung effektiven Schadens halbiert.  
 Beschädigt die meisten Rüstungen nicht maßgeblich. 
