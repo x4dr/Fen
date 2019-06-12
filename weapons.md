@@ -3,6 +3,7 @@ tags:
 #Waffen
 Folgende tabelle ist obsolet  
 
+
 |Waffe | Grundschaden | Vorteilsmultiplikator | Reichweite | Bemerkung |
 |---|---|---|---|---|
 |[Kurzschwert](shortsword)| 5CPHB | 1 | 1 |   |  
