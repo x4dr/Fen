@@ -3,7 +3,6 @@ tags:
 #Waffen
 Folgende tabelle ist obsolet  
 
-
 |Waffe | Grundschaden | Vorteilsmultiplikator | Reichweite | Bemerkung |
 |---|---|---|---|---|
 |[Kurzschwert](shortsword)| 5CPHB | 1 | 1 |   |  
@@ -21,6 +20,7 @@ Folgende tabelle ist obsolet
 |Nahkampf| 0B | 1 | 0 |  
 |[Schild](schools#schild)| 5 | 0.5 | 0 |   Erhöht Defensive |   
 &nbsp;  
+
 ###Kurzschwert
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|---|---|---|---|---|---|---|---|---|---|  
