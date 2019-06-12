@@ -25,7 +25,7 @@ Folgende tabelle ist obsolet
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|---|---|---|---|---|---|---|---|---|---|  
 | [Hauen](damage#h-hauen)          | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |   
-| [Stechen]damage#p-stechen        | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 6 | 7 | 8 |   
+| [Stechen](damage#p-stechen)        | 2 | 3 | 4 | 5 | 5 | 5 | 5 | 6 | 7 | 8 |   
 | [Schneiden](weapons#c-schneiden) | 3 | 3 | 3 | 3 | 3 | 6 | 7 | 8 | 9 | 10 |   
 | [Schlagen](damage#b-stumpf)      | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6 | 7 | 7 |   
 
