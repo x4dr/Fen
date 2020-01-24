@@ -1,3 +1,3 @@
 title: Testpage  
 tags:   
-this is a test[[[specific:bows:kurzbogen:Kampfschießen]]]
+this is a test[[specific:bows:kurzbogen:Kampfschießen]]
