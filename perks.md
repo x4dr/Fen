@@ -1,55 +1,3 @@
 title: Vorteile  
 tags:   
-[TOC]
-
-##Stärke Vorteile
-
-###Erhöhte Tragekapazität n
-
-Tragekapazität +n * 5kg
-
-###Kampfgeschmiedet
-
-Bei einer 20 oder mehr auf den Durchhaltewurf wird sofort die kleinste Wunde um Ausdauer reduziert. Maximum LP/2 am Tag
-
-
-
-###Giftwiderstand n
-
-+1 * n Auf das Ergebnis des Giftwiderstandswurfes (nur bei Gift)
-
-
-
-###Argyrischer Widerstand n
-
-2 auf das Ergebnis des Giftwiderstandswurfes (nur für Argyrier)
-
-
-
-###Adrenalinschub n
-
-Sobald der erste Durchhaltewurf eines Kampfes gemacht wird +n * 2 auf alle relevanten Würfe. Sinkt um 1 pro runde bis es auf -n angekommen ist, und normalisiert sich dann mit 1 pro minute auf 0.
-
-
-
-### Übergroße Waffe (rework pending)
-
-Erlaubt es Größere Waffen als die eigene Körpergröße es erlaubt zu führen
-
-
-
-### Körperramme (rework pending)
-
-+3 off Auf Angriffe zum Niederrammen (Stärke,Waffenlos) und bis auf den def-wert des verteidigers kein widersetzen. Unterbricht. Richtet keinen Schaden an.
-
-
-
-### Unbeeindruckt 
-
-Alle Effekte die auf den Character wirken können nach belieben ans Ende der aktuellen Runde verschoben werden.
-
-
-
-### Snob X
-
-Schwierigkeiten zum beeindrucken des Charakters durch schlecht gekleidete Charaktere ist erschwert.Psychologischer Nachteil beim tragen von schlechter Ausrüstung.
+[TOC]#RegelnEs kann nur 1 attributsvorteil pro Stufe pro Kategorie genommen werden (Kraft 3 schließt Agilität 3 aus)#Stärke Vorteile##Kraft###1####erhöhte TragekapazitätTragekapazität * 1.5###2###Adrenalinschub Sobald der erste Durchhaltewurf eines Kampfes gemacht wird +5 auf alle adrenalin relevanten Würfe. Sinkt um 1 pro runde bis es bei auf -5 angekommen ist, und normalisiert sich dann mit 1 pro minute auf 0.###3###4###5##Konstitution###1####Giftwiderstand2 Bonuswürfel auf Giftwiderstandswurf (nur bei Gift)###2####KampfgeschmiedetBei einer 10er Resonanz im Durchhaltewurf wird sofort die kleinste Wunde noch nicht so reduzierte Wunde um die Resonanzgröße reduziert. ###3#### Unbeeindruckt Alle Effekte, inklusive Schaden, die auf den Character wirken können nach belieben ans Ende der aktuellen Runde verschoben werden.### 4 ###ÜberlebenswilleSobald der Charakter das erste mal mit frischen Wunden schläft/von Schaden bewusstlos werden würde, würfelt er einen Heilungswurf, der alle frischen Wunden (seit dem letzten Heilungswurf) betrifft. Alle Wunden deren Schwierigkeit übertroffen wurde heilen um 1 Punkt, wenn der Charakter nun nicht mehr bewusstlos werden würde, bleibt er bei Bewusstsein. Alle Wunden deren Schwierigkeit und größe übertroffen wurden, haben ihre Schwierigkeit um 1 Reduziert.###5##Agilität###1###2###3###4###5#Argyrische Vorteile##Argyrischer Widerstand +2 auf das Ergebnis des Giftwiderstandswurfes
