@@ -1,3 +1,3 @@
 title:   
 tags:   
-#Werte##Magie###Zauber||||-|-||Blah|[[[specific:formamagie:impello]]]|
+#Werte##Magie###Zauber||||-|-||Blah|[Impello[[specific:formamagie:forma:impello]]]|
