@@ -267,5 +267,5 @@ Schleuder
 Inspiration
 
 
-Begegnung 1
+Begegnung 
 1 groß 1 klein
