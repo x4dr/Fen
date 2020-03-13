@@ -21,6 +21,7 @@ Edelstein 15
 Edelstein 22
 Langschleuder
 1 Bronzedolch
+1 Bronzewurfmesser
 ##Rüstung
 Gambeson 2/6
 Kettenhemd Bronze 4/8
