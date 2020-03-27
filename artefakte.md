@@ -71,64 +71,50 @@ Manifestiert Rauch
 * hält sauber, trocken, unglitschig  
 * Ladung pro reinigungsarbeit, bei Kleidung wäre es 1 pro woche oder 1 pro Stunde in Matsch/Wasser 
 * 0/10/10
-### edelstein 2 
+
+### Opal der Tradition
 (9)14  
 * stimmt sich auf besitzer ein  
 * 0/10/10
-* +1 Maximum pro Woche im selben besitz.
+* +1 Maximum pro Woche im selben Besitz.
 * Qualitätsverlust bei 20 (0Q = Zerstört)
-### edelstein 3 
-(13)17  
-* bonusschaden, aktiviert über wort  
-* Wort: difrod 
-* Schaden: 1d10 
-(10 cm reichweite, nächstes ziel)
+
+### Difrod 
+* bonusschaden, aktiviert über Wort "Difrod"
+* Schaden: 1d10 (10 cm reichweite, nächstes ziel)
 * 0/40/60
 * Maximumsverlust bei 1
 * 12-(artefakt@5) ladung
-### edelstein 4
-(12)8  
-* can't touch it  
-* platz machender Puls  
 
-
-### edelstein 7
+### Flutkyanit
 (13)11  
 * 0/150/150
 * minimum output 10  
-
-### edelstein 8
-(10)14  
-* wird ziemlich durchsichtig  
-* objekt unsichtbarkeit
-* mechanisch ausgelöst
-* 10-(artefakt@5) ladung zum unsichtbar machen
-* wird sichtbar wenn die ladung alle ist
 
 ### edelstein 9
 (12)8  
 * oszilliert  
 
-### edelstein 10
+### Hassrubin
 (11)10  
 * schwarz, wenn man durchs zentrum schaut rot und zieht kraft aus echtem, finsteren hass  
 
-### edelstein 11
+### Dämmerobsidian
 (9)8  
 * dimmt oder dämmt etwas ein  
 
-### edelstein 12
+### LeidensLinse
 (10)16  
 * resoniert mit Verletzten, die in der nähe sind  
 * kann 1 energie/tag/verletztem erzeugen wenn angewendet, unterdrückt wundheilung.
 
-### edelstein 13
+### Diamantiner Kraftstein
 (14)9  
-* gibt dem träger des artefaktes, in dem er verarbeitet ist: +1 Ausdauer, verliert dann 9-(artefakt@5) Energie, 0/20/?
+* gibt dem Träger des Artefaktes, in dem er verarbeitet ist: +1 Ausdauer für einen Wurf, Nutzung 9-(artefakt@5) Energie, 0/20/?
 
-### edelstein 14
+### Knochen des üblen Omens
 (17)10  
-* wenn in erde eingegraben und nass werdend beschwört dinge, die dem letzten berührenden böses wollen (0/60/?)  
+* wenn in erde eingegraben und nass werdend beschwört dinge, die dem letzten berührten Böses wollen (0/60/?)  
 
 ### edelstein 15
 (12)18  
