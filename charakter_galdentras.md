@@ -17,8 +17,8 @@ tags: charakter Tras Aurier
 ##Bewaffnung
 Bronzehammer, Stahlhammer
 Bronze Schlagringe 
-Edelstein 15
-Edelstein 22
+SChmerzdämpferpiercing
+Wutjadestern
 Langschleuder
 1 Bronzedolch
 1 Bronzewurfmesser
