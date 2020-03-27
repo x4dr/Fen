@@ -270,3 +270,6 @@ Inspiration
 
 Begegnung 
 1 groß 1 klein
+
+Hammer 2->3
+Versagen 1
