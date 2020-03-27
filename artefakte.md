@@ -153,8 +153,8 @@ IN AVIS Säbel
 (12)13  
 * sichert/verstärkt etwas, mit dem es verbunden wird  
 * 0/20/25
-* 10-(artefakt@5) wenn stabilität überschritten wird.
-* Maximumsverlust wenn stabilität zweifach überschritten wird
+* 10-(artefakt@5) wenn Stabilität überschritten wird.
+* Maximumsverlust wenn Stabilität zweifach überschritten wird
 
 ### Friedensperle
 (14)12  
@@ -163,8 +163,9 @@ IN AVIS Säbel
 * -5 auf nahegelegene aggressive/offensive/schädigende aktionen (intention UND ergebnis)
 
 ### Wutjadestern
-(16)11  
-* wenn aktiviert, gibt unbekannten bonus auf sämtliche aggressive handlungen, erfordert nicht näher bekanntes opfer, sonst qualitätsverlust
+* Einmal Täglich: Vorraussetzung: Wut, mit Gedanken aktivieren: Dauer: 2* Einblick@5 Runden
+* Bonuswürfel auf alle Handlungen die jemand anderem Schaden
+* 1 Schaden am ende für jeden Bonuswürfel der Gewährt wurde
   
 ### Pazilazuli
 (16)15  
