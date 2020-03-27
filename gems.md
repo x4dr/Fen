@@ -1,6 +1,5 @@
-title: Gem Based Magic
-tags: magic, gems
-
+title: Gem Based Magic  
+tags: magic gems  
 This is a horrible stub!
  
 # Magical Gems
