@@ -1,5 +1,5 @@
 title: Galdentras  
-tags: charakter, Tras, Aurier  
+tags: charakter Tras Aurier  
 #Charakter
 
 |||
