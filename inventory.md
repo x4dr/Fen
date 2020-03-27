@@ -1,24 +1,7 @@
 title: Gruppeninventar  
 tags: items  
-###Goldschatz
 
-|Goldmenge|Grund|
-
-|:--|:--|
-
-|+40.000G|reden wir nicht weiter darüber...|
-
-|-150G|Kontor|
-
-|-300G|Spesen für die Gruppe|
-
-|-9,5G|Vernal-Kolonisten|
-
-|---------|-----|
-
-|39.450,5G|übrig|
-
-###Eisenbach 270 EW
+###Eisenbach 3000 EW
 
 1 Satz extrem harte Holzknochen vom Fichtenschwein  
 
@@ -28,12 +11,9 @@ Söldner 25 (wilderer-banditen)
 
 1 Kutscher+Familie
 
-###Siedlung Vernal 36 EW
-
-30 Holz (20arbeiter 10 familie)
+###Siedlung Vernal 2000 EW
 
 5 Wilderer Wächter
-
 1 Argyrier Wächter
 
 ###Inselinventar
@@ -41,87 +21,52 @@ Söldner 25 (wilderer-banditen)
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
 
 |:--|---|---|---|
-
 |Seltsamer schwarzer Tiegel|1|5,00 kg|5,00 kg|
-
 |Serisemwerkzeuge|5|1,00 kg|5,00 kg|
-
 |Abhandlung über Glashandwerk (aurisch, 35P,  Komplexität +2)|1|5,00 kg|5,00 kg|
-
 |Abhandlung über Werkstattkomplex (aurisch, 50P, Komplexität +2)|1|5,00 kg|5,00 kg|
-
-|Vernalische Riten des Sohark (aurisch, 35P, Komplexität +2)|1|5,00 kg|5,00 kg|
+|Vernalische Riten des Zoark (aurisch, 35P, Komplexität +2)|1|5,00 kg|5,00 kg|
 
 ###Gruppeninventar
 
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
-
 |:--|---|---|---|
-
 |unsichtbare Chitinplatten Rüstungsteile (20R/20H)|1|25kg|25kg|
-
 |Kettenhemd (M, spröde, fehlende Teile)|1|14,6 kg|14,60 kg|
-
 |Goop-generator|1|5,00 kg|5,00 kg|				
-
 |Bronzeknöpfe|100|0,00 kg|0,20 kg|
-
 |Pfeilspitzen (Bronze)|30|0,01 kg|0,30 kg|
-
 |Schmiedebuch (Kap.25, Leserate 21-(Bildung+Forschung))|5,00kg|5,00kg|
 
 ###Burginventar
 
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|Einzelwert|
-
 |:--|---|---|---|---|
-
 |Die Gesammelten Werke von Ranon Toren, dem Legendären Aurischen Ingeneur (aurisch, 50P)|1|15,00 kg|15,00 kg|16G 20S|
-
 |Sakral-Architektur (aurisch, 20P)|1|5,00 kg|5,00 kg|50S|
-
 |Eisennuggets|448|0,10 kg|44,80 kg|5S|
-
 |Silber|5|1,00 kg|5,00 kg||
-
 |Bronze Barren|19|1,00 kg|19,00 kg|3S|
-
 |Serisem-Legierung|40|0,10 kg|4,00 kg|
 
 ###Gruppengeld
 
 |Goldmenge|Grund|
-
 |:--|---:|
-
 |+36,3|Verkauf v. Gambeson|
-
 |-2,83G|Rüstungsreparatur|
-
 |-6G|Sindgunth|
-
 |-2G/y|Kutscher|
-
 |1,19G|3-Brüder-Loot|
-
 |29G|Spiegelloot|
-
 |1201G|Limasu-Belohnung|
-
 |-50G|Bäern-Auszahlung|
-
 |-30G|Schmiedebuch|
-
 |-100G|Holz fürs große Feuer|
-
 |-2,1G|Gambeson|
-
 |-50G|Anwalt|
-
 |-6,39G|Aufladung|
-
 |-0,6G|3 Sätze Winterräder und Beschläge
-
 |--------|---|
 
 1053,47G
