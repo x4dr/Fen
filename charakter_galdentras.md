@@ -273,3 +273,9 @@ Begegnung
 
 Hammer 2->3
 Versagen 1
+
+Fobif
+Kritische Anwendung
+
+
+Diving Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS!
