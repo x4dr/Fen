@@ -34,6 +34,7 @@ eine R[Ladung+2] (exklusive Schlagschaden),die bei der ersten 1-Resonanz Zerbric
 | [Stechen](damage#p-stechen)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
 | [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |   
 | [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 5 |  
+
 ####Besonderheiten
 reflexiv: Bei einem erfolgreichen Angriff, kann 1 Offensiv ausgegeben werden um sofort einen weiteren Angriff mit dem neuen Offensivwert auf ein Ziel in Reichweite zu machen.
 Frequenz 1 Resonanz: Amplitude Befreundete Ziele werden angegriffen, mit + 2 * Amplitude Offensive für diesen Angriff
