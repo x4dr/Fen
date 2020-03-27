@@ -1,5 +1,5 @@
 title: Gravmagie  
-tags: Bewegung, Masse, Magie  
+tags: Bewegung Masse Magie  
 Bewegungsmagie (Aspekt) 
 
 
