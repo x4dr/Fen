@@ -91,17 +91,6 @@ Manifestiert Rauch
 * can't touch it  
 * platz machender Puls  
 
-### edelstein 5
-(11)12  
-(IN AVIS)
-* zentriert (besser treffen+getroffen werden)  
-* Q15  
-
-### edelstein 6
-(13)16  
-(IN AVIS)
-* instabil, verändert zufällig energielevel bei benutzung  
-* (artefakte@5)-5 Ladung nach benutzung, -1 maximum bei 7
 
 ### edelstein 7
 (13)11  
