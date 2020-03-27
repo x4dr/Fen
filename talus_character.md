@@ -10,7 +10,7 @@ Amalkan
 ## Charakterkonzept:  
 entflohener Laborunfall
 ## XP:  
-14  
+15  
 ## Zusammensetzung:  
 60kg Federstahl
 ## Gewicht:  
@@ -20,7 +20,7 @@ entflohener Laborunfall
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]  
 ## Wunden:
-2@4 7@Grenzübertritt
+2@4 7@Grenzübertritt 3@8
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 40 -3 permanenter Schaden  
@@ -263,7 +263,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |Ledersöckchen			|8	|0,06 kg	|0,50 kg|	|
 |Eisenberg-Brosche Q15		|1	|0,10 kg	|0,10 kg|	|
 |T6 Ess. of Change		|18	|0,10 kg	|1,80 kg|	|
-|T1 Magnet			|13	|0,10 kg	|1,40 kg|	|
+|T1 Magnet			|12	|0,10 kg	|1,30 kg|	|
 |T6 Ess. of Stability		|10	|0,10 kg	|1,00 kg|	|
 |T2 gemahlene Kreide		|8	|0,10 kg	|0,80 kg|	|
 |T1 Wachs			|200	|0,01 kg	|2,00 kg|4,5K	|
@@ -284,7 +284,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10kg|	10kg||
 |Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)||||
 |Asche				|9	|0,01 kg	|0,09 kg|0K	|
-|Quartz				|6	|0,01 kg	|0,06 kg|20K	|
+|Quartz				|5	|0,01 kg	|0,05 kg|20K	|
 |gereinigte Kohle		|98	|0,01 kg |0,98 kg||
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
 |[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|||||
