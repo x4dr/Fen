@@ -116,17 +116,14 @@ Manifestiert Rauch
 (17)10  
 * wenn in erde eingegraben und nass werdend beschwört dinge, die dem letzten berührten Böses wollen (0/60/?)  
 
-### edelstein 15
-(12)18  
+### Schmerzdämpferpiercing
 * dämpfung von schmerz  
 * +5 auf durchhaltewürfe, schmerzbasierte effekte um 5 verringert
-* kein richtiger edelstein sondern artefakt
 * bindung an träger für 12-(artefakt@5) Ladung
 * 0/4/4
-* bleibt aktiv solange in 10 meter radius vom Träger.
+* bleibt aktiv solange in Kontakt mit dem Träger
 
-### edelstein 16
-(12)15  
+### Seelen Bake 
 * 0/500/500
 * keine energie kann wieder herausgeholt werden  
 * alle 100m Bewegung/6h: -1 Ladung  
@@ -134,46 +131,46 @@ Manifestiert Rauch
 * ?  
 * ?  
 
-### edelstein 17
+### Nebelquarz
 (13)16  
 * schränkt sicht ein  
 * bei aktivierung wird licht gedämpft 
 * vorallem indirektes licht
 
-### edelstein 18
+### Heilender Kristall
 (9)16  
 * heilungsbezogener effekt  
 * 0/8/10
 * 12-(artefakt@5) aktivierung während es auf einer wunde liegt, +5 auf nächsten wundheilungswurf für diese wunde
 
-### edelstein 19
-(10)16  
+### Rückkehrperle
+IN AVIS Säbel
 * man kann es nicht verlieren  
 * 0/30/30
 * wenn gebunden (12-(artefakt@5) aktiverung) erneut aktivieren (12-(artefakt@5)) und es findet innerhalb der nächsten paar stunden den weg zurück zu einem, soweit möglich
 
-### edelstein 20
+### Bernstein Kraftstein
 (12)13  
 * sichert/verstärkt etwas, mit dem es verbunden wird  
 * 0/20/25
 * 10-(artefakt@5) wenn stabilität überschritten wird.
 * Maximumsverlust wenn stabilität zweifach überschritten wird
 
-### edelstein 21
+### Friedensperle
 (14)12  
 * löst frieden aus, hält 30 punkte  
 * 0/30/35
 * -5 auf nahegelegene aggressive/offensive/schädigende aktionen (intention UND ergebnis)
 
-### edelstein 22
+### Wutjadestern
 (16)11  
 * wenn aktiviert, gibt unbekannten bonus auf sämtliche aggressive handlungen, erfordert nicht näher bekanntes opfer, sonst qualitätsverlust
   
-### edelstein 23
+### Pazilazuli
 (16)15  
 * 100 Kap. verhindert allen ausgelösten schaden bei einsetztung.  
 
-### edelstein 24
+### Götterfunke
 (13)16  
 * wenn aktiviert, zieht es die aufmerksamkeit der götter an.  
 * ???
