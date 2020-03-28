@@ -193,7 +193,7 @@ Schlagring
 [[[weapon:Schlagring]]]
 
 
-4 (Schnittschadenschaden, SCHW:6), 2 (Blutverlust, SCHW 6), 3 (Seelenentzug ), 2(Schnittschaden, SCHW 5), 4 (Feuer, SCHW: 8), 1 (Pfeil: SCHW 7), 1 (Pfeil: SCHW 7)
+4 (Schnittschadenschaden, SCHW:6), 2 (Blutverlust, SCHW 6), 3 (Seelenentzug ), 1(Schnittschaden, SCHW 5), 4 (Feuer, SCHW: 8), 1 (Pfeil: SCHW 7), 1 (Pfeil: SCHW 7)
 
 Etikette 0->1
 Ispiration 1
