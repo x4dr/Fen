@@ -24,17 +24,3 @@ eine L[Ladung] (inklusive Schlagschaden) Waffe die alle in Angriffswürfen vorko
 ## Glasssäbel
 Code weapon:säbel:R<roll+2>HSC
 eine R[Ladung+2] (exklusive Schlagschaden),die bei der ersten 1-Resonanz Zerbricht, macht wenn er Zerbricht Ladung/2 Blutungsschaden am Gegner 
-
-
-# Spezifischewaffen
-### Avis Magische Peitsche
-| Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hacken](damage#h-Hacken)        | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 |   
-| [Stechen](damage#p-stechen)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
-| [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |   
-| [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 5 |  
-
-####Besonderheiten
-reflexiv: Bei einem erfolgreichen Angriff, kann 1 Offensiv ausgegeben werden um sofort einen weiteren Angriff mit dem neuen Offensivwert auf ein Ziel in Reichweite zu machen.
-Frequenz 1 Resonanz: Amplitude Befreundete Ziele werden angegriffen, mit + 2 * Amplitude Offensive für diesen Angriff
