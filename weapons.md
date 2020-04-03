@@ -163,7 +163,7 @@ Folgende tabelle ist obsolet aber als referenz teilweise noch nützlich
 * sind in den meisten städten illegal (zumindest zu tragen, transportieren darf man sie, wenn sie eingepackt usw sind)
 * bekommen maluswürfel in gebäuden oä
 * machen mehr schaden als andere waffen
-* haben einen reichweitenvorteil (malus für einen angreifer der letzte runde nicht getroffen hat, angreifer muss sich bewegen um angreifen zu können.)
+* haben einen reichweitenvorteil (gelegenheitsangriff wenn sich jemand in reichweite bewegt, treffer bricht Bewegung ab) 
 
 # Spezifische waffen
 ### Avis Magische Peitsche
