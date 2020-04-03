@@ -193,7 +193,9 @@ Schlagring
 [[[weapon:Schlagring]]]
 
 
-3 (Seelenentzug )
+WUnden:
+3 (Seelenentzug ), 4 (Hackschaden)
+
 Etikette 0->1
 Ispiration 1
 
