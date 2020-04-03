@@ -243,7 +243,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
   
 ## [Schnellalchemie](quickalchemy)  
 [Feuersee[[specific:quickalchemy:zauber:Feuersee:-]]]  
-- mit haltbarem Feuer
+* mit haltbarem Feuer
 [Pandemonium[[specific:quickalchemy:zauber:Pandemonium:-]]]  
 [Stat. Entladung[[specific:quickalchemy:zauber:Statische Entladung:-]]]  
 [Essenz des Glücks[[specific:quickalchemy:zauber:Essenz des Glücks:-]]]  
