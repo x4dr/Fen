@@ -194,7 +194,7 @@ Schlagring
 
 
 WUnden:
-3 (Seelenentzug ), 4 (Hackschaden)
+3 (Seelenentzug ), 4 (Hackschaden), 3 (Speer), 2(Speer)
 
 Etikette 0->1
 Ispiration 1
