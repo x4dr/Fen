@@ -241,9 +241,9 @@ Perspektive 1
 
 Survival
 Kritische Anwendung 1
-2 Wochen Praxis
-1 Woche Praxis
+1 Monat Praxis
 Inspiration
+Trainer auf 4
 
 Schleichen
 6 Monate herumprobieren (2)
