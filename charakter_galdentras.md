@@ -175,6 +175,8 @@ stets betrunken
 |  Wille |  1|  
 |  Ruhm Limasu|  2|  
 
+10 Punkte Fobif
+
 ###Nachteile
 |Nachteilsname|
 |-|
@@ -277,6 +279,7 @@ Versagen 1
 
 Fobif
 Kritische Anwendung
+1 Fortschrittspunkt
 
 
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
