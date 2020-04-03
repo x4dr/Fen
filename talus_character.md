@@ -20,7 +20,7 @@ entflohener Laborunfall
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]  
 ## Wunden:
-2@4 7@Grenzübertritt 3@8
+2@4 7@Grenzübertritt 3@8 2@6 1@6
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 40 -3 permanenter Schaden  
