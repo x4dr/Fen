@@ -64,4 +64,46 @@ Zur Zeit Keine
 80 Holzfäller
 
 
+#Hudelheim
+##Bevölkerung
+460
+
+#Bockswetter
+##Bevölkerung
+1120
+
+#Pjatshoff
+##Bevölkerung
+290
+
+#Kanop
+##Bevölkerung
+380
+
+#Hakkerskamp
+##Bevölkerung
+230
+
+#Lindeshut
+##Bevölkerung
+120
+
+#Hellinggat
+##Bevölkerung
+200
+
+#Ochsenfurt
+##Bevölkerung
+50
+
+#Kanech
+##Bevölkerung
+350
+#Eisenbacher Eisenmine
+##Bevölkerung
+100
+
+#Landbevölkerung
+Bevölkerung die auf kleinen Höfen verteilt in der Region lebt
+9000
 
