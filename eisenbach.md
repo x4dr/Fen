@@ -59,9 +59,9 @@ Zur Zeit Keine
 5 Schäfer
 8 Kleinbauern
 25 Steinhauer 
-8 Erzverhütter
+2 Erzverhütter
 44 Jäger/Waldleute
-80 Holzfäller
+86 Holzfäller
 
 
 #Hudelheim
