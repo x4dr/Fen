@@ -19,7 +19,7 @@ Beispiele für Aktionen:
 **Nahkampfangriffe sind keine Aktionen** stattdessen, ist ein "Angriff" ein binden im Nahkampf.   
   
 
-## Erste Phase, die "Freie" Phase
+## Erste Phase, die **Freie** Phase
 ###Reihenfolge
 * Jeder Teilnehmer eines Kampfes sagt seine Aktion an.
 Diese Aktionen werden technisch gesehen gleichzeitig und geheim Angesagt, zum Beispiel niedergeschrieben. Effektiv muss dieses Level von Aufwand selten betrieben werden.
@@ -31,7 +31,7 @@ Diese Aktionen werden technisch gesehen gleichzeitig und geheim Angesagt, zum Be
 Nachdem die Phase abgeschlossen wurde, werden alle Aktionen **gleichzeitig** ausgeführt. Alle Parteien die in der freien Phase handeln machen hier ihren Wurf für die Runde. Nach dem Abschließen wird die freie Phase **beendet**. Schaden und andere Effekte treten zu diesem Zeitpunkt ein. 
 
 
-## Zweite Phase, die "Kampf" Phase
+## Zweite Phase, die **Nahkampf** Phase
 ### Anfang
 Am Anfang der Kampfphase können Techniken angesagt werden. Wenn nicht anders angegeben, benötigt eine Technik ein Festes Ziel auf das die Technik angewendet wird. Hierfür gelten die selben Regeln der Aktionsansage wie bei der Reihenfolgenermittlung der freien Phase. Alle, die keine Technik wählen, kämpfen flexibel.
 
