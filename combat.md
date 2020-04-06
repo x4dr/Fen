@@ -1,37 +1,47 @@
-title: Kampf
-tags: 
-
+title: Kampf  
+tags:   
 #Kampf
 Kampf besteht aus **Runden**, die aus zwei **Phasen** bestehen. Eine Runde repräsentiert etwa 5 Sekunden. Eine Minute hat 12 Runden.
-Jeder Character hat eine Aktion **pro Runde**. Und kann zusätzlich zirka 5 Sekunden sprechen oder zuhören (etwas ist erst am ende der Runde gesprochen und kann sich nur auf die nächste Runde auswirken), sich 5 meter bewegen, passiv Wahrnehmen (Feststellen ob jemand ein Schwert gezogen hat, aber nicht nach einem versteckten Gegner suchen) und ähnliche Aktivitäten durchführen.
-Es gibt nur einen einzigen Wurf pro Runde pro Charakter, der eventuell mehrfach interpretiert wird. Wenn mehrere unterschiedliche Komplexitäten Angewandt werden würde, zählt die höchste.
+Jeder Character hat eine Aktion **pro Runde**. Und kann zusätzlich zirka 5 Sekunden sprechen oder zuhören (etwas ist erst am ende der Runde gesprochen und kann sich nur auf die nächste Runde auswirken), sich 10 meter bewegen, passiv Wahrnehmen (Feststellen ob jemand ein Schwert gezogen hat, aber nicht nach einem versteckten Gegner suchen) und ähnliche Aktivitäten durchführen.
+Es gibt nur einen einzigen Wurf pro Runde pro Charakter, der eventuell mehrfach interpretiert wird. Wenn mehrere Aktionen durchgeführt werden, ergibt dies einen Malus von 2 Würfeln pro Bonusaktion. Wenn diese Maluswürfel 5 übersteigen würden, ist stattdessen keine weitere Aktion möglich.
   
 Beispiele für Aktionen:  
 * Teilnehmen im Nahkampf
+* Bewegen (10 Meter Bewegung für Halbe Aktion  + 2 * (Stärke, Rennen) Meter als volle Aktion)
+* Eine Waffe bereit machen (Halbe Aktion)
 * Fernkampfangriff/Technik einsetzen
-* Aus dem Nahkampf Rennen/Zurückziehen
-* Mechanismen bedienen
-* Suchen
+* Mechanismen bedienen (Halbe Aktion)
+* Mentale Aktionen (Halbe Aktion)
+* Zaubern
 * Alles was einen Wurf erfordert.
   
   
-**Nahkampfangriffe sind keine Aktionen** stattdessen, ist ein Angriff ein binden im Nahkampf.   
+**Nahkampfangriffe sind keine Aktionen** stattdessen, ist ein "Angriff" ein binden im Nahkampf.   
   
 
-### Erste Phase, die "Freie" Phase
-* Jeder darf seine Aktion ansagen oder passen (wenn keine Aktion mehr zur Verfügung steht)
-* Wenn alle zwei mal in folge gepasst haben wird die freie Phase *abgeschlossen*
-* Auf alle angesagten Aktionen darf in der selben Manier reagiert werden, von allen die noch eine Aktion haben.
+## Erste Phase, die "Freie" Phase
+###Reihenfolge
+* Jeder Teilnehmer eines Kampfes sagt seine Aktion an.
+Diese Aktionen werden technisch gesehen gleichzeitig und geheim Angesagt, zum Beispiel niedergeschrieben. Effektiv muss dieses Level von Aufwand selten betrieben werden.
+* Reaktionen können angesagt werden, und bieten die Möglichkeit auf jemand anderes Aktion zu reagieren. 
+* Eine Reaktion findet nach der Aktion statt auf die reagiert wird und kann sich nur auf die Aktion Beziehen (Abwarten ob sich jemand bewegt oder eine Waffe zieht zum Beispiel um diese Personen dann mit dem Bogen anzugreifen, oder sich der Situation versichern, bevor man losrennt.) Die Entscheidungsfälle müssen gleichzeitig mit der Ansage festgelegt sein.
+* Wenn Parteien aufeinander reagieren würden, unternimmt niemand eine Aktion.
  
-#####Abschluss  
+###Abschluss  
 Nachdem die Phase abgeschlossen wurde, werden alle Aktionen **gleichzeitig** ausgeführt. Alle Parteien die in der freien Phase handeln machen hier ihren Wurf für die Runde. Nach dem Abschließen wird die freie Phase **beendet**. Schaden und andere Effekte treten zu diesem Zeitpunkt ein. 
 
-### Zweite Phase, die "Kampf" Phase
-* Jeder darf seine Aktion ansagen oder passen (wenn keine Aktion mehr zur Verfügung steht)
-* Wenn alle zwei mal in folge gepasst haben wird die Kampf Phase **abgeschlossen**
-* Auf alle angesagten Aktionen darf in der selben Manier reagiert werden, von allen die noch eine Aktion haben.
+
+## Zweite Phase, die "Kampf" Phase
+### Anfang
+Am Anfang der Kampfphase können Techniken angesagt werden. Wenn nicht anders angegeben, benötigt eine Technik ein Festes Ziel auf das die Technik angewendet wird. Hierfür gelten die selben Regeln der Aktionsansage wie bei der Reihenfolgenermittlung der freien Phase. Alle, die keine Technik wählen, kämpfen flexibel.
+
+###Reihenfolge
+* Alle die in der Freien Phase "Nahkampfteilnahme" gewählt haben erhalten einen Würfelwurf mit dem Offensive, Initiative und Defensive Bestimmt werden. Vor Modifikatoren sind alle Werte gleich dem Würfelergebnis, der Rest erhält Offensive 0, Initiative 0 und Defensive 5.
+* Eine Handlung die noch nicht erfolgt ist kann reflexiv an einen beliebigen Zeitpunkt verschoben werden der zwischen dem positiven und negativen Initiativewert liegt.
+* Hohe Initiativen haben die Möglichkeiten vor anderen zu handeln oder länger zu warten ohne ihre Handlung zu verlieren.
+* Reflexive Aktionen können Spontant zu einem Beliebigen Zeitpunkt aktiviert werden, wenn ihre Vorraussetzungen erfüllt sind.
   
-  
-##### Abschluss
-Nachdem die Phase abgeschlossen wurde, wird für jeden Kampfteilnehmer der entsprechende Wurf durchgeführt und der Offensiv- und Defensivwert ermittelt. Nichtteilnehmer haben Defensive 5 und Offensive 0.  
-Dann, in der Reihenfolge der Offensivwerte, von oben nach unten, werden Angriffe durchgeführt  oder gepasst(zurückgehalten). Ein Character der gepasst hat, kann seinen Angriff vor einen anderen setzen, bei mehreren zurückgehaltenen Angriffen gilt die originale Reihenfolge. Der Charakter mit der niedrigsten Priorität kann nicht passen und muss ein Ziel (oder Inaktion) wählen. Jedes Ziel in Reichweite der Waffe kann gewählt werden. Der Defensivwert des Verteidigers wird vom Offensivwert des Angreifers abgezogen. Das Resultat ist **Kampfvorteil** (x in Waffenschadenformeln und ähnlichen Berechnungen). Wenn der Kampfvorteil negativ ist, wurde der Angriff komplett geblockt. Charaktere mit weniger als 2 Offensive können keine Angriffe ansagen.
+### Abhandlung eines Angriffes
+* Wenn als Teil einer Technik oder einer Handlung bei flexiblen Kämpfen ein Ziel angegriffen wird, wird ein Angriff abgehandelt.
+* Der Defensivwert des Verteidigers wird vom Offensivwert des Angreifers abgezogen. Das Resultat ist **Kampfvorteil**. Wenn der Kampfvorteil negativ ist, wurde dem Angriff komplett entgangen, durch blocken oder ausweichen, Glück, abstandhalten oder ähnlichem. 
+* Das Ziel eines Angriffes verliert 1 vom Grundergebnis, was alle modifizierten Werte (Offensive, Defensive und Initiative) beeinflusst.
