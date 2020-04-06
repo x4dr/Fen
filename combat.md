@@ -6,20 +6,18 @@ Jeder Character hat eine Aktion **pro Runde**. Und kann zusätzlich zirka 5 Seku
 Es gibt nur einen einzigen Wurf pro Runde pro Charakter, der eventuell mehrfach interpretiert wird. Wenn mehrere Aktionen durchgeführt werden, ergibt dies einen Malus von 2 Würfeln pro Bonusaktion. Wenn diese Maluswürfel 5 übersteigen würden, ist stattdessen keine weitere Aktion möglich.
   
 Beispiele für Aktionen:  
-* Teilnehmen im Nahkampf
-* Bewegen (10 Meter Bewegung für Halbe Aktion  + 2 * (Stärke, Rennen) Meter als volle Aktion)
-* Eine Waffe bereit machen (Halbe Aktion)
-* Fernkampfangriff/Technik einsetzen
-* Mechanismen bedienen (Halbe Aktion)
-* Mentale Aktionen (Halbe Aktion)
-* Zaubern
-* Alles was einen Wurf erfordert.
-  
+* Teilnehmen im Nahkampf  
+* Bewegen (10 Meter Bewegung für Halbe Aktion  + 2 * (Stärke, Rennen) Meter als volle Aktion)  
+* Eine Waffe bereit machen (Halbe Aktion)  
+* Fernkampfangriff/Technik einsetzen  
+* Mechanismen bedienen (Halbe Aktion)  
+* Mentale Aktionen (Halbe Aktion)  
+* Zaubern  
+* Alles was einen Wurf erfordert.  
   
 **Nahkampfangriffe sind keine Aktionen** stattdessen, ist ein "Angriff" ein binden im Nahkampf.   
-  
 
-## Erste Phase, die **Freie** Phase
+## Erste Phase, die _Freie_ Phase
 ###Reihenfolge
 * Jeder Teilnehmer eines Kampfes sagt seine Aktion an.
 Diese Aktionen werden technisch gesehen gleichzeitig und geheim Angesagt, zum Beispiel niedergeschrieben. Effektiv muss dieses Level von Aufwand selten betrieben werden.
@@ -31,7 +29,7 @@ Diese Aktionen werden technisch gesehen gleichzeitig und geheim Angesagt, zum Be
 Nachdem die Phase abgeschlossen wurde, werden alle Aktionen **gleichzeitig** ausgeführt. Alle Parteien die in der freien Phase handeln machen hier ihren Wurf für die Runde. Nach dem Abschließen wird die freie Phase **beendet**. Schaden und andere Effekte treten zu diesem Zeitpunkt ein. 
 
 
-## Zweite Phase, die **Nahkampf** Phase
+## Zweite Phase, die _Nahkampf_ Phase
 ### Anfang
 Am Anfang der Kampfphase können Techniken angesagt werden. Wenn nicht anders angegeben, benötigt eine Technik ein Festes Ziel auf das die Technik angewendet wird. Hierfür gelten die selben Regeln der Aktionsansage wie bei der Reihenfolgenermittlung der freien Phase. Alle, die keine Technik wählen, kämpfen flexibel.
 
