@@ -12,23 +12,23 @@ Empfangsdame
 ###Odilia 
 die Nähpartnerin von Yarat  
 
-###Nysgaris der Lord
-Magister von Seegard  
+###Nysgaris
+Ehemalige Königin Prekors, gestorben bei einem Handel mit einem Drachen
 
 ###Rison 
-Aurier aus der Statue  
+Verbleibender Aurischer General
 
 ###Tohrun 
 Nu'dez großer Händler (4 Schiffe, Metallspezialisierung) mit seinem Sohn Send  
 
 ###Jacun 
-einer der reichsten Bürger von Seegard  
+einer der reichsten Menschlichen Bürger von Seegard  
 
 ###Minem 
-der rhythmisch sprechende Druide aus dem Trarorischen Wald  
+ein Baum in Kanech, ehemals Druide
 
 ###Karoni Marzanna 
-Asassin for Hire
+Alternder Auftragsmord Kapitän-Ohne-Schiff ehemals aus Trarora, zur Zeit mit Etoro
   
 ###Arhnim 
 Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute  
@@ -36,29 +36,32 @@ Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute
 ###Nyxico 
 Der wohl älteste Aurier  
 
-###Nytani 
-Mysteriöse Oberin des Waisenhauses und Priesterin der Ilargia mit einer beglichenen Rechnung
+###Tani 
+Mysteriöse Oberin des Waisenhauses Seegards und Priesterin Ilargias
 
 ###Taiem 
-Mysteriöser wohlgekleideter Herr aus einer der teureren Tavernen Seegards.
+Fürst Worograds, Windschütze und Königsrabenmeister
 
-###Yamal 
-Herr des Dunkelwaldes (Banditlord zwischen der stillen Stadt und Trarora)
+###Iamal 
+Herr des Dunkelwaldes, Ehemals Bandit, Veteran als Anführer einer Sabotageeinheit, Pensionierter Kriegsheld und Baron nordöstlich von Trarora. Fan von Wegezoll.
 
 ###Rayir Lilschyz - Bandit -> Söldner -> General
-Major von Vernal (gebunden an Mü)
+Halter von Vernal
 
 ###Culbard 
-Barde mit Kristallschreinlegende
+Barde mit Kristallschreinlegende, Weit weit weit im Norden
 
 ###Kalvor 
-der Nordprekorische Warlord
+ehemals Nordprekorischer Kriegsherr, Herrscher von Vor-Kal, aktuell gefangener im Verlies von Seegard
 
 ###Teun 
 Anwalt aus Yamkor
 
-###Kelo - Frostiger Anführer der Tantor
-Eintreiber
+###Kelo 
+Frostiger Anführer der Tantor Kopfgeldjäger, Göttlich Gesegnet mit der Fähigkeit Unrecht zu erkennen und zu beseitigen
+
+###Gloria
+Fürstin von Nurako, Magieforscherin, Magiehandwerkerin, Unmagisch
 
 ###Baradin 
 Kunsthandwerker der Magiegilde in Tantor
@@ -66,7 +69,7 @@ Kunsthandwerker der Magiegilde in Tantor
 ###Gaius 
 literally zerstreuter Gelehrter
 
-###Rhedin 
+###Kalredin
 Nysgaris' Administrator von Eisenbach
 
 ###Sör'n 
@@ -76,16 +79,16 @@ der Sprengmeister im Eisenbacher Steinbruch
 Glassmacher auf Vernal
 
 ###Nirmbas 
-Roter Magiermeister und ausbilder am Königliche Institut von Limasu
+Roter Magiermeister und ausbilder am Königlichen Institut von Limasu
 
 ###Zarim 
-Metall findender verbrannter Limasuschüler
+Metall findender verbrannter Limasuschüler, Dieb, Verbrecher, Gestorben als Kriegsheld
 
 ###Toan 
-Limasu Psycho Folter Händler
+Limasu Psychofolterer, Händler
 
 ###Areen 
-Piratin von Etoro
+junge Piratin von Etoro
 
 ###Kapitän Ukst 
 Piratenkapitän von Etoro
@@ -94,16 +97,28 @@ Piratenkapitän von Etoro
 Spiegelkäpitan
 
 ###Roisin 
-"Ungeheuer" aus dem Verwunschenen Wald und Rosenberührt. Gesprochen Rosheen. Mit Cara zusammen!
+"Ungeheuer" aus dem Verwunschenen Wald und Rosenberührt. Gesprochen Rosheen. Mit Cara zusammen in Kanech.
 
 ###Iskenar
-Mitglied der Waldhüter von Istan
+Legatus der Waldhüter von Istan
 
 ###Alpia
 Archivarin/Schreiberin im Archiv Istans
 
 ###Tolix
-"General" der "Prekorischen Armee
+"General" der Prekorischen Armee
 
-###Wormos Serr
+###Worimos Serr
 Random Patrizier von Okarun
+
+### Nalyso und Gebidun
+Oberste von Limasu, seit langer Zeit die Ersten die zusammen arbeiten, anstatt gegeneinander
+
+### Linotek
+Fürstin von Trarora, Erfinder von Scherbenluft, Kriechgift, und ähnlich Entzückenden Innovationen
+
+### Ardos
+Hochmeister der Glänzenden Ritter
+
+### Feros
+Landmeister der Glänzenden Ritter eingeteilt für Eisenbach
