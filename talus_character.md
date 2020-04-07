@@ -156,7 +156,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |Instinkt|1|  
 |Suchen|1|  
 |Wissen(Gebiet)|0|  
-|Strategie|1|  
+|Strategie|2|  
 |Taktik|2|  
 |Navigation|0|  
   
