@@ -52,7 +52,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Hammer|1|  
 |Cirit|3|  
 |Rennen|2| 
-|Sprinten|s2| 
+|Sprinten|_2| 
 |Springen|2|  
 |Werfen|2|  
 |Klettern|3|  
@@ -71,8 +71,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Hitzeresistent|1|  
 |Tragekapazität|1|  
 |Kampfschule: Cirit|1|  
-|Anspringen|s3|  
-|Umspringen|s1|  
+|Anspringen|_3|  
+|Umspringen|_1|  
 |an Wänden Laufen|6|  
   
 
@@ -88,11 +88,11 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Metallverarbeitung|3|
-|Stahlmetallurgie|s2|  
+|Stahlmetallurgie|_2|  
 |Konstruktion|3|  
 |Alchemie|2|  
 |Magiehandwerk|3|  
-|Musterresonanz|s3|  
+|Musterresonanz|_3|  
 |Gemcraft|1|  
 |Akrobatik|2|  
 |Diebeshandwerk|0|  
