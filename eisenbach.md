@@ -10,6 +10,15 @@ Aurisch: 30 / 6 Haushalte
 ##Steuern
 ### Personengrundsteuern
 2700*10s = 270 Gold/Jahr
+### Traderelations:
+####Ras
+* 500 Gold Influx im Jahr, 
+* jährlicher, aber (nahezu) beliebig großer Absatzmarkt
+* Möglichkeit SerisemObjekte für 100% Gewinn zu verkaufen
+
+####Vernal: 
+* Möglichkeit 50 Gold/Monat in Serisemgegenstände umzusetzen
+
 ### Gewerbesteuern
 Zur Zeit Keine
 
