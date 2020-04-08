@@ -237,7 +237,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Schutz der Dunkelheit (Karum)||  
+|Schutz der Dunkelheit (Karum)|_1|  
 |Ruhm|_1|  
 |Ruhm (Limasu)|_2|  
   
