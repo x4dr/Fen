@@ -53,18 +53,18 @@ Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reicht�
   
 #R체stung  
 
-|R체stung| Schutz | Stabilit채t | Preis | Reparatur Pro Punkt | Anmerkung |  
+|R체stung| Schutz | Stabilit채t  | Gewicht  | Preis| Reparatur Pro Punkt | Anmerkung |  
 | :---|---:|---:|---:|---:|---:|   
-| Schwere Kleidung | 1 | 5 | 50c | 20c | Nicht auf Schutz ausgelegt |   
-| Gambeson | 4 | 1 | 1s | 40c | |  
-| Abenteurerkleidung | 2 | 7 | 10s | 1s | verschiedene Schichten, verschiedene Materialien |  
-| Brigandine | 3 | 8 | 50s | 10s | |
-| Satz Kette | 4 | 10 | 4g | 20s | |  
-| Lamellar | 4 | 12 | 5g | 30s | |
-| Satz Kette, verst채rkt | 5 | 10 | 10g | 50s | |  
-| Schuppen | 4 | 8 | 10g | 20s | |
-| Platte | 5 | 12 | 20g | 2g | Nimmt Schaden von stumpfen Waffen |  
-| Vollplatte | 6 | 15 | 30g | 4g | Nimmt Schaden von stumpfen Waffen |  
+| Schwere Kleidung | 1 | 5 | 3kg | 50c | 20c | Kleidung |   
+| Gambeson | 4 | 1 | 3kg| 1s | 40c | |  
+| Abenteurerkleidung | 2 | 7| 5kg | 10s | 1s | verschiedene Schichten, verschiedene Materialien, Kleidung |  
+| Brigandine | 3 | 8| 6kg | 50s | 10s |  |
+| Satz Kette | 4 | 10 | 10kg | 4g | 20s | |  
+| Satz Kette, verst채rkt | 5 | 10 | 13kg | 10g | 50s | |  
+| Schuppen | 4 | 10 | 10kg | 10g | 10s | |
+| Lamellar | 5 | 10| 15kg | 5g | 30s | |
+| Platte | 5 | 12| 12kg | 20g | 2g | Nimmt Schaden von stumpfen Waffen |  
+| Vollplatte | 6 | 12 | 15kg| 30g | 4g | Nimmt Schaden von stumpfen Waffen |  
 
 
 Reparatur ist: 
