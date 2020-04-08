@@ -2,7 +2,7 @@ title: Talus
 tags: character  
 # Charakter  
 ## Name:  
-Talus  
+Megatalus  
 ## Alter:  
 it's complicated
 ## Spezies:
@@ -10,22 +10,27 @@ Amalkan
 ## Charakterkonzept:  
 entflohener Laborunfall
 ## XP:  
-15  
+9  
 ## Zusammensetzung:  
 60kg Federstahl
 ## Gewicht:  
-60 kg  
+60 kg
+## Masse:
+1t  
 ## Geld:  
 0
 ## Hauptwaffe:  
-[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]  
+[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:
-2@4 7@Grenzübertritt 3@8 2@6 1@6 8@7 1@6 1@6 2@6 
+Megatalus: keine
+Talus: 2@4 3@8 2@6 1@6 8@7 1@6 1@6 2@6 
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
-40 -3 permanenter Schaden  
-Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten Körpers
+Megatalus: 8*30=240
+Talus: 40 -3 permanenter Schaden  
+Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatzteils
 ## Rüstung
+8*6R/12S - 0% Abzug bei Stumpfen Schaden, +2R auf 120° Kugelsektor wenn deployed, geschwärzt, verziert - Megatalus-Federstahlpanzer
 3R/11S - 0% Abzug bei Stumpfen Schaden, geschwärzt, geätzt (4 coolness) - natürliche Federstahlrüstung  
 6R/16S - 3R gegen Stumpfen Schaden, +2R wenn zusammengerollt, verziert - Titan-Kugelplattenrüstung  
 20R/10S - beschworen, explodiert bei Sonnenlicht - Obsidian-Kugelplattenrüstung  
@@ -43,7 +48,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |:---|----:|  
 |Hammer|1|  
 |Cirit|3|  
-|Rennen|2|  
+|Rennen|2| 
+|Sprinten|s2| 
 |Springen|2|  
 |Werfen|2|  
 |Klettern|3|  
@@ -62,8 +68,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |Hitzeresistent|1|  
 |Tragekapazität|1|  
 |Kampfschule: Cirit|1|  
-|Anspringen|3|  
-|->Umspringen|1|  
+|Anspringen|s3|  
+|Umspringen|s1|  
 |an Wänden Laufen|6|  
   
 
@@ -78,11 +84,12 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 ### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Metallverarbeitung|3|  
+|Metallverarbeitung|3|
+|Stahlmetallurgie|s2|  
 |Konstruktion|3|  
 |Alchemie|2|  
-|Magiehandwerk|2|  
-|->Musterresonanz|1|  
+|Magiehandwerk|3|  
+|Musterresonanz|s3|  
 |Gemcraft|1|  
 |Akrobatik|2|  
 |Diebeshandwerk|0|  
@@ -95,7 +102,14 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |Vorteile|Level|  
 |:---|----:|  
 |MV:Ingeneur|2|  
+|MV:Belagerungs-Ingeneur|1|  
 |MV:Feinmechanik|1|  
+|MV:Schmied|2|  
+|MV:Rüstungsschmied|1|  
+|MV:Feinschmied|1|  
+|MV:Metallgewinnung|3|  
+|MV:SM:Federstahl|1|  
+|KO:Architekt|2|  
 |AL:Titanmetallurgie|1|  
 |AL:Rekombination|1|  
 |AL:Veredelung|1|  
@@ -113,6 +127,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 ### Quellen  
 |Quellen|Level|  
 |:---|----:|  
+|Wassermagie|2|  
 |Magischer Fluss|4|  
   
 ### Konzepte  
@@ -185,6 +200,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis Ersatz des gesamten 
 |:---|----:|  
 |Handel|1|  
 |Diplomatie|1|  
+|Rhetorik|2|  
 |Lügen|1|  
 |Stil|2|  
 |Einschüchtern|2|  
