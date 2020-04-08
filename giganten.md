@@ -4,7 +4,7 @@ Vorerst megatalus spezifische Regeln:
 
 # Grundlegender Megatalus:
 
-8 Sektoren&times;30 HP, mit jeweils 3 Rüstung, 12 Widerstand (Verlorene Rüstung ist durch Ersatzteil zu reparieren)
+8 Sektoren&times;(10&times;Konstitution) HP, mit jeweils 3 Rüstung, 12 Widerstand (Verlorene Rüstung ist durch Ersatzteil zu reparieren)
 Keine Rüstungshalbierung vs Hammerschaden (Federstahl)
 
 Die 500 Kilo Grundgewicht sind ein Dünnes, inneres Skellet aus Federstahl. Dementsprechend "nur" 30&times;8 HP
