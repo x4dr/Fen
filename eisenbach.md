@@ -20,7 +20,7 @@ Zur Zeit Keine
 1 Winzerei
 4 Fleischer
 6 Tischler
-4 Tempel
+4 Tempel (Sural, Tosis, Zadu, Ateph)
 1 Färber
 3 Admin, Finanziell
 2 Fischhändler
@@ -100,7 +100,7 @@ Zur Zeit Keine
 1 Brauer
 1 Fleischer
 2 Tischler
-2 Tempel
+2 Tempel (Zadu, Glänzender)
 1 Admin, Finanziell
 2 Fischhändler
 3 Händler
@@ -129,7 +129,6 @@ Zur Zeit Keine
 1 Erzverhütter
 4 Köhler
 
-69=
 33 Kleinbauern
 36 Bauernhöfe
 
