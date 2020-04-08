@@ -82,7 +82,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:---|----:|  
 |Geschick|4|  
 |Einblick|3|  
-|Kompetenz|3|  
+|Kompetenz|5|  
   
 ### Fähigkeiten  
 |Fähigkeiten|Level|  
@@ -223,7 +223,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:---|----:|  
 |Glück|3|  
 |Mut|1|  
-|Gunst|2|  
+|Gunst|3|  
   
 ### Fähigkeiten  
 |Fähigkeiten|Level|  
