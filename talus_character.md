@@ -3,6 +3,8 @@ tags: character
 # Charakter  
 ## Name:  
 Megatalus  
+## Voller Titel:  
+Konzilfürst Megatalus von Mark Eisenbach
 ## Alter:  
 it's complicated
 ## Spezies:
@@ -12,11 +14,12 @@ entflohener Laborunfall
 ## XP:  
 9  
 ## Zusammensetzung:  
-60kg Federstahl
+Megatalus: 500kg Federstahl, 440kg Schwebstein
+Talus: 60kg Federstahl
 ## Gewicht:  
 60 kg
 ## Masse:
-1t  
+~1t  
 ## Geld:  
 0
 ## Hauptwaffe:  
