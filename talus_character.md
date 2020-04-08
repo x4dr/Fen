@@ -64,11 +64,11 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-|Giftimmun|1|  
-|Krankheitsimmun|1|  
-|Altersimmun|1|  
-|wenig Schlaf|1|  
-|Hitzeresistent|1|  
+|Giftimmun|_1|  
+|Krankheitsimmun|_1|  
+|Altersimmun|_1|  
+|wenig Schlaf|_1|  
+|Hitzeresistent|_1|  
 |Tragekapazität|1|  
 |Kampfschule: Cirit|1|  
 |Anspringen|_3|  
@@ -238,8 +238,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Vorteile|Level|  
 |:---|----:|  
 |Schutz der Dunkelheit (Karum)||  
-|Ruhm|1|  
-|Ruhm (Limasu)|2|  
+|Ruhm|_1|  
+|Ruhm (Limasu)|_2|  
   
 # Zauber  
 ## [Prozessalchemie](alchemymagic)  
