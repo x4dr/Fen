@@ -54,7 +54,7 @@ Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reicht�
 #Rüstung  
 
 |Rüstung| Schutz | Stabilität  | Gewicht  | Preis| Reparatur Pro Punkt | Anmerkung |  
-| :---|---:|---:|---:|---:|---:|   
+| :---|---:|---:|---:|---:|---:|---:|   
 | Schwere Kleidung | 1 | 5 | 3kg | 50c | 20c | Kleidung |   
 | Gambeson | 4 | 1 | 3kg| 1s | 40c | |  
 | Abenteurerkleidung | 2 | 7| 5kg | 10s | 1s | verschiedene Schichten, verschiedene Materialien, Kleidung |  
