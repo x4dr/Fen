@@ -78,13 +78,14 @@ Schwäche:
 |  Wahrnehmung | |  
 
 ###Fähigkeiten
-|Fähigkeit|Level|  
+|Fähigkeit|Level| 
+|-|-| 
 |Heilen|3|  
 |Anatomie|2|
 |Forschung|2|
 |Taktik|1|
-|Sprache Aurisch|1|
-|Schreiben Aurisch|2|
+|Sprache Aurisch|_1|
+|Schreiben Aurisch|_2|
 |Suchen|1|
     
 ##Charisma
