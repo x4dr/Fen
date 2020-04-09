@@ -121,7 +121,8 @@ tags:
 |  Gunst |  |  
 
 ###Fähigkeiten
-|Fähigkeit|Level|  
+|Fähigkeit|Level| 
+|-|-| 
 |Wille|1|  
 |Tosisbindung|1|
     
