@@ -4,9 +4,9 @@ tags:
 
 |||
 |-|-|
-|Name|| Banther
-|Spezies||
-|Alter||
+|Name|Banther| 
+|Spezies|Mensch|
+|Alter|45|
 |Größe||
 |Gewicht||
 |Haarfarbe||
