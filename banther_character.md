@@ -7,10 +7,10 @@ tags:
 |Name|Magister Banther| 
 |Spezies|Mensch|
 |Alter|45|
-|Größe||
-|Gewicht||
-|Haarfarbe||
-|Statur||
+|Größe|1,90 m|
+|Gewicht|85 kg|
+|Haarfarbe|Silberbraun|
+|Statur|Athletisch/Sehnig|
 
 ##Bewaffnung
 
