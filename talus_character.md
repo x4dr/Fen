@@ -363,7 +363,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Lügen|K|  
 |Stil|K|  
 |Tratsch|K|  
-|Kunst(Schauspiel|I|  
+|Kunst(Schauspiel)|I|  
 |||  
 |Göttliche Bindung (Demirci)|K|  
 |Göttliche Bindung (Kraoz)|KKK|  
