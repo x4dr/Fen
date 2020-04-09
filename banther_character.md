@@ -99,6 +99,7 @@ Schwäche:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
+|-|-| 
 |Rhetorik|2|  
 |Empathie|1|
 |Befehlsgewalt|1|
