@@ -55,7 +55,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|||
+|test|1|
     
 
 ##Weisheit
