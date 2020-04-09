@@ -135,13 +135,13 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ### Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
-|Prozessalchemie|4|  
-|Schnellalchemie|3|  
+|Alchemie|4|  
   
 ### Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
-|Alchemie|4|  
+|Prozessalchemie|4|  
+|Schnellalchemie|3|  
   
 ### Vorteile  
 |Vorteil|Level|  
@@ -168,6 +168,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Wissen(Kristallgeometrie)|2|  
 |Wissen(Mykier)|0|  
 |Wissen(Religion)|0|  
+|Wissen(Magiewissen)|0|  
 |Forschung|3|  
 |Studiennotizen|3|  
 |Instinkt|1|  
@@ -210,6 +211,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Empathie|1|  
 |Etiquette|0|  
 |Tratsch|0|  
+|Kunst(Schauspiel)|0|  
   
 ### Vorteil
 |||
@@ -229,6 +231,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:---|----:|  
 |Wille|1|  
 |Göttliche Bindung (Demirci)|1|  
+|Göttliche Bindung (Kraoz)|0|  
+|Göttliche Bindung (Karum)|0|  
 |Wendung|1|  
 |Begegnung|1|  
 |Fügung|2|  
@@ -322,6 +326,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 
 # Erfahrung  
 |Fähigkeit/Vorteil|gesammelt|  
+|:-|:-|  
 |Cirit 4|TTPK [Vernal, Seegard, Limasu]|  
 |Kampfmanöver 1|I|  
 |Schwerathletik 3|K|  
@@ -343,3 +348,24 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Gemcraft 1|ILLTTTTTK [Feuerinseln]|  
 |Kriegsgesang 1|ILLLTTTTP [Aurische Legion]|  
 |Segeln|P|  
+|||  
+|Prozessalchemie|S(Sonnenstein)KKKK|  
+|Schnellalchemie|KKKKK|  
+|||  
+|Wissen(Mykier)|I|  
+|Wissen(Religion)|I|  
+|Wissen(Magiewissen)|IK|  
+|Taktik|K|  
+|Strategie 2|KKKTTPPP[Bauprojekte, Limasu Forschungsprojekt]|  
+|Navigation|I|  
+|Handel|[Karawane]|  
+|Diplomatie|VK|  
+|Lügen|K|  
+|Stil|K|  
+|Tratsch|K|  
+|Kunst(Schauspiel|I|  
+|||  
+|Göttliche Bindung (Demirci)|K|  
+|Göttliche Bindung (Kraoz)|KKK|  
+|Göttliche Bindung (Karum)|IKKK|  
+|Begegnung|VVVKK|  
