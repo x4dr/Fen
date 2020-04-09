@@ -55,6 +55,7 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
+|-|-|
 |Chirugie|1|  
 |Alchemie|1| 
 
