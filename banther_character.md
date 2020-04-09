@@ -123,7 +123,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |Wille|1|  
-|Tosis Bindung|1|
+|Tosisbindung|1|
     
 
 #XP
