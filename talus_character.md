@@ -349,6 +349,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Kriegsgesang 1|ILLLTTTTP [Aurische Legion]|  
 |Segeln|P|  
 |||  
+|Magischer Fluss|SSSSSSSSS|  
 |Prozessalchemie|S(Sonnenstein)KKKK|  
 |Schnellalchemie|KKKKK|  
 |||  
