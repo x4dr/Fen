@@ -20,7 +20,11 @@ tags:
 #Details
 ##Allgemeine Erscheinung  
 
-##Hintergrund  
+##Hintergrund
+Schwäche: 
+- Hohe Achtung für das menschliche Leben
+- Blutmagiesiegel um Wunde geschlossen zu halten (5 Silber die Woche)
+  
 
 #Werte
 
@@ -36,8 +40,9 @@ tags:
 ###Fähigkeiten      
 |Fähigkeit|Level|  
 |-|-|  
-|Survival|1|
-|Panzerbrecher (Degen)|1|
+|Rennen|1|
+|Survival|3|
+|Panzerbrecher (Degen)|4|
     
 ###Vorteile  
 |Vorteil|Name|
@@ -74,8 +79,13 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
-|Heilen|1|  
-|Anatomie|1|
+|Heilen|3|  
+|Anatomie|2|
+|Forschung|2|
+|Taktik|1|
+|Sprache Aurisch|1|
+|Schreiben Aurisch|2|
+|Suchen|1|
     
 ##Charisma
 
@@ -88,26 +98,29 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
-|Rhetorik|1|  
+|Rhetorik|2|  
 |Empathie|1|
+|Befehlsgewalt|1|
+|Etikette|1|
     
 ##Magie
 
 ###Quellen
 | Quelle|  Level |    
 |-|-|
-|||
+|Blutmagie|2|
 
 ###Konzepte
 |Konzept | Level|
 |-|-|
-|||
+|Blutsymbole|1|
 
 ###Aspekte
 | Aspekt |  Level|    
-|-|-|
-|||  
-|||  
+|-|-|  
+|Lebensmagie|2|
+|Feuer|1|  
+|Illusion|1|  
 
 ###Zauber
 |Zauber|Name|
@@ -126,8 +139,10 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Level| 
 |-|-| 
-|Wille|1|  
+|Wille|3|  
 |Tosisbindung|1|
+|Begegnung|2|
+|Fügung|2|
     
 
 #XP
