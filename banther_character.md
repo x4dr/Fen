@@ -141,9 +141,10 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level| 
 |-|-| 
-|Wille|3|  
+|Wille|2|  
 |Tosisbindung|1|
 |Begegnung|2|
+|Wendung|2|
 |Fügung|2|
     
 
