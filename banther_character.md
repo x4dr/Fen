@@ -25,7 +25,8 @@ Schwäche:
 - Hohe Achtung für das menschliche Leben
 - Blutmagiesiegel um Wunde geschlossen zu halten (5 Silber die Woche)
 - Talent: Weisheit
-- Vorteile: Miltärconnections, Heilernetzwerk, Forschungsalmanach
+- Vorteile: Miltärconnections, Heilernetzwerk, Forschungsalmanach (Wenn Fachwissen angesammelt -> besser Heilung/Schaden) 
+
 
 -> Fechten
 - Flexibilität 
@@ -36,6 +37,9 @@ Schwäche:
 - Herzsucher
 - Finte
 - Parieren
+-> Kampfmanöver
+- Bedrohung
+- Wache
   
 
 
@@ -75,12 +79,20 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|
-|Chirugie|3|  
+|Chirugie|3|
+|Diagnostik|_2|
+|Foltern|_2|
+|Kräuterkunde|_2|  
+|Textilverabreitung|_2|
 |Alchemie|2| 
 |Logistik|1|
 |Reiten|1|  
 
-    
+###Vorteile  
+|Vorteil|Name|
+|-|-|
+|||
+   
 
 ##Weisheit
 
@@ -97,11 +109,19 @@ Schwäche:
 |Heilen|4|  
 |Anatomie|2|
 |Forschung|2|
+|Katalogisieren|_2|
 |Taktik|2|
+|Kampfmanöver|2|
+|Truppkoordinierung|_2|
 |Sprache Aurisch|_2|
 |Schreiben Aurisch|_3|
 |Suchen|1|
-    
+ 
+###Vorteile  
+|Vorteil|Name|
+|-|-|
+|||
+ 
 ##Charisma
 
 ###Attribute  
@@ -114,11 +134,19 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-| 
-|Rhetorik|3|  
+|Rhetorik|3|
+  
 |Empathie|1|
 |Befehlsgewalt|1|
 |Etikette|1|
-    
+|Kunst (Singen)|2|
+|Spiele|1|
+
+###Vorteile  
+|Vorteil|Name|
+|-|-|
+|||
+   
 ##Magie
 
 ###Quellen
@@ -154,6 +182,11 @@ Schwäche:
 |Illusion|Schmerz|
 |Illusion|Schmerzdämpfung|
 
+###Vorteile  
+|Vorteil|Name|
+|-|-|
+|||
+
 ##Schicksal
 
 ###Attribute
@@ -171,7 +204,12 @@ Schwäche:
 |Begegnung|2|
 |Wendung|2|
 |Fügung|2|
-    
+
+###Vorteile  
+|Vorteil|Name|
+|-|-|
+|||
+ 
 
 #XP
 [Legende[[specific:conventions:xp:kurz:-]]]
