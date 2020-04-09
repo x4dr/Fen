@@ -26,7 +26,18 @@ Schwäche:
 - Blutmagiesiegel um Wunde geschlossen zu halten (5 Silber die Woche)
 - Talent: Weisheit
 - Vorteile: Miltärconnections, Heilernetzwerk, Forschungsalmanach
+
+-> Fechten
+- Flexibilität 
+- Agressiver Ausfall
+- Ablenkungsschlag
+- Fechtstellung (3)
+- Stich
+- Herzsucher
+- Finte
+- Parieren
   
+
 
 #Werte
 
@@ -43,8 +54,9 @@ Schwäche:
 |Fähigkeit|Level|  
 |-|-|  
 |Rennen|1|
-|Survival|3|
-|Panzerbrecher (Degen)|4|
+|Survival|2|
+|Panzerbrecher (Degen)|3|
+|Dolch|1|
     
 ###Vorteile  
 |Vorteil|Name|
@@ -63,8 +75,8 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|
-|Chirugie|2|  
-|Alchemie|1| 
+|Chirugie|3|  
+|Alchemie|2| 
 |Logistik|1|
 |Reiten|1|  
 
@@ -82,12 +94,12 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level| 
 |-|-| 
-|Heilen|3|  
+|Heilen|4|  
 |Anatomie|2|
 |Forschung|2|
-|Taktik|1|
-|Sprache Aurisch|_1|
-|Schreiben Aurisch|_2|
+|Taktik|2|
+|Sprache Aurisch|_2|
+|Schreiben Aurisch|_3|
 |Suchen|1|
     
 ##Charisma
@@ -102,7 +114,7 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-| 
-|Rhetorik|2|  
+|Rhetorik|3|  
 |Empathie|1|
 |Befehlsgewalt|1|
 |Etikette|1|
@@ -112,7 +124,7 @@ Schwäche:
 ###Quellen
 | Quelle|  Level |    
 |-|-|
-|Blutmagie|2|
+|Blutmagie|3|
 
 ###Konzepte
 |Konzept | Level|
@@ -129,7 +141,18 @@ Schwäche:
 ###Zauber
 |Zauber|Name|
 |-|-|
-|||
+|Leben|Entzündung stoppen|
+|Leben|Leben erhalten|
+|Leben|Leben Kanalisieren|
+|Leben|Herz stoppen|
+|Leben|Leben Schützen|
+|-|-|
+|Feuer|Gleißende Berührung|
+|Feuer|Schutz vor Feuer|
+|-|-|
+|Illusion|Unsichtbarkeit|
+|Illusion|Schmerz|
+|Illusion|Schmerzdämpfung|
 
 ##Schicksal
 
@@ -143,7 +166,7 @@ Schwäche:
 ###Fähigkeiten
 |Fähigkeit|Level| 
 |-|-| 
-|Wille|2|  
+|Wille|3|  
 |Tosisbindung|1|
 |Begegnung|2|
 |Wendung|2|
