@@ -154,7 +154,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Licht der Erkenntnis|1|  
 |Halten des Flüchtigen Lichts|1|  
 |[Prozessalchemiezauber[[specific:talus_character:Prozessalchemie:-]]]|16|  
-|Schnellalchemiezauber|9|  
+|[Schnellalchemiezauber[[specific:talus_character:Schnellalchemie:-]]]|9|  
   
 ## Weisheit  
 ### Attribute  
@@ -266,7 +266,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 [Atemmaske[[specific:alchemymagic:zauber:Atemmaske:-]]]
 [Größere Änderung[[specific:alchemymagic:zauber::-]]]  
   
-## [Schnellalchemie](quickalchemy)  
+## Schnellalchemie  
 [Feuersee[[specific:quickalchemy:zauber:Feuersee:-]]]  
 * mit haltbarem Feuer
 [Pandemonium[[specific:quickalchemy:zauber:Pandemonium:-]]]  
