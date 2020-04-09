@@ -26,6 +26,7 @@ Schwäche:
 - Blutmagiesiegel um Wunde geschlossen zu halten (5 Silber die Woche)
 - Talent: Weisheit
 - Vorteile: Miltärconnections, Heilernetzwerk, Forschungsalmanach (Wenn Fachwissen angesammelt -> besser Heilung/Schaden) 
+- Punkte in Vorteile 6
 
 
 -> Fechten
