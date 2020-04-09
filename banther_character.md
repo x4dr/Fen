@@ -36,7 +36,8 @@ tags:
 ###Fähigkeiten      
 |Fähigkeit|Level|  
 |-|-|  
-|||
+|Survival|1|
+|Panzerbrecher (Degen)|1|
     
 ###Vorteile  
 |Vorteil|Name|
@@ -55,7 +56,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|test|1|
+
     
 
 ##Weisheit
