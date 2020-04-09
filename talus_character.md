@@ -142,10 +142,17 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:---|----:|  
 |Prozessalchemie|4|  
 |Schnellalchemie|3|  
+
+### Zauber
+|Gruppe|Gesamtanzahl|  
+|:---|----:|  
+|Prozessalchemie|16|  
+|Schnellalchemie|9|  
   
 ### Vorteile  
 |Vorteil|Level|  
 |:---|----:|  
+|Feuersee mit haltbaerem Feuer|1|  
 |in Bewegung Zaubern|2|  
 |Plötzliche Erkenntnis|2|  
 |verbessertes Kanalisieren||  
