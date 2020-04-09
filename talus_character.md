@@ -153,7 +153,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Größere Einstimmung|1|  
 |Licht der Erkenntnis|1|  
 |Halten des Flüchtigen Lichts|1|  
-|Prozessalchemiezauber|16|  
+|[Prozessalchemiezauber[[specific:talus_character:[Prozessalchemie](alchemymagic):-]]]|16|  
 |Schnellalchemiezauber|9|  
   
 ## Weisheit  
