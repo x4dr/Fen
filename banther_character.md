@@ -4,7 +4,7 @@ tags:
 
 |||
 |-|-|
-|Name|Banther| 
+|Name|Magister Banther| 
 |Spezies|Mensch|
 |Alter|45|
 |Größe||
