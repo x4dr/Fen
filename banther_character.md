@@ -55,7 +55,8 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
-|-|-|  
+|Chirugie|1|  
+|Alchemie|1| 
 
     
 
@@ -70,8 +71,8 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
-|-|-|  
-|||
+|Heilen|1|  
+|Anatomie|1|
     
 ##Charisma
 
@@ -84,8 +85,8 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
-|-|-|  
-|||
+|Rhetorik|1|  
+|Empathie|1|
     
 ##Magie
 
@@ -121,8 +122,8 @@ tags:
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
-|-|-|  
-|||
+|Wille|1|  
+|Tosis Bindung|1|
     
 
 #XP
