@@ -74,7 +74,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Anspringen|_3|  
 |Umspringen|_1|  
 |an Wänden Laufen|6|  
-  
 
 ## Können  
 ### Attribute  
@@ -319,3 +318,28 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Drachenglaskugel		|1	||||
 |Herz des Waldes		|1	||||
 |Zombiedornenbaumdorn		|1	||||
+
+
+# Erfahrung  
+|Fähigkeit/Vorteil|gesammelt|  
+|Cirit 4|TTPK [Vernal, Seegard, Limasu]|  
+|Kampfmanöver 1|I|  
+|Schwerathletik 3|K|  
+|Springen 3|VVK|  
+|Survival|VKKLT|  
+|||  
+|Metallverarbeitung 3|S(Ziritspitzen) S(Kugelplattenrüstung) TTTLP [Vernal, Limasu, Yomkar]|  
+|Metallverarbeitung|P(4/12) [Nymkor, Istan]|  
+|Stahlmetallurgie 1|TTLLP|  
+|Stahlmetallurgie 2|TTLPP|  
+|Stahlmetallurgie|TP|  
+|Konstruktion|K [Seegard]|  
+|Alchemie|K [Nordpol, Nymkor]|  
+|Magiehandwerk 3|TTTLLP [Nymkor, Vernal, Tantor, Limasu]|  
+|Musterresonanz 1|ITTLL|  
+|Musterresonanz 2|LTTTT|  
+|Musterresonanz 3|TTTXX|  
+|Schleichen|VK|  
+|Gemcraft 1|ILLTTTTTK [Feuerinseln]|  
+|Kriegsgesang 1|ILLLTTTTP [Aurische Legion]|  
+|Segeln|P|  
