@@ -24,6 +24,8 @@ tags:
 Schwäche: 
 - Hohe Achtung für das menschliche Leben
 - Blutmagiesiegel um Wunde geschlossen zu halten (5 Silber die Woche)
+- Talent: Weisheit
+- Vorteile: Miltärconnections, Heilernetzwerk, Forschungsalmanach
   
 
 #Werte
