@@ -56,8 +56,10 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|
-|Chirugie|1|  
+|Chirugie|2|  
 |Alchemie|1| 
+|Logistik|1|
+|Reiten|1|  
 
     
 
