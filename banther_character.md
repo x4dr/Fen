@@ -4,7 +4,7 @@ tags:
 
 |||
 |-|-|
-|Name||
+|Name|| Banther
 |Spezies||
 |Alter||
 |Größe||
