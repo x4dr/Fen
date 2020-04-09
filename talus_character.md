@@ -248,7 +248,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Ruhm (Limasu)|_2|  
   
 # Zauber  
-## [Prozessalchemie](alchemymagic)  
+## Prozessalchemie  
 [Biegen[[specific:alchemymagic:zauber:biegen:-]]]  
 [Morph[[specific:alchemymagic:zauber:morph:-]]]  
 [Kalcifizieren[[specific:alchemymagic:zauber:kalcifizieren:-]]]  
