@@ -50,9 +50,9 @@ Schwäche:
 ###Attribute  
 |Attribut|Level|
 |-|-|
-|Konstitution||
-|Kraft||
-|Agilität||
+|Konstitution|2|
+|Kraft|2|
+|Agilität|3|
 
 ###Fähigkeiten      
 |Fähigkeit|Level|  
@@ -72,9 +72,9 @@ Schwäche:
 ###Attribute
 |Attribut|Level|
 |-|-|
-|Geschick| |  
-|Einblick| |  
-|Kompetenz| |  
+|Geschick|2|  
+|Einblick|4|  
+|Kompetenz|3|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
@@ -99,9 +99,9 @@ Schwäche:
 ###Attribute  
 |Attribut|Level|
 |-|-|
-|  Bildung | |  
-|  Geist | |  
-|  Wahrnehmung | |  
+|  Bildung |5|  
+|  Geist |3|  
+|  Wahrnehmung |3|  
 
 ###Fähigkeiten
 |Fähigkeit|Level| 
@@ -116,6 +116,7 @@ Schwäche:
 |Sprache Aurisch|_2|
 |Schreiben Aurisch|_3|
 |Suchen|1|
+|Instinkt|0|
  
 ###Vorteile  
 |Vorteil|Name|
@@ -127,9 +128,9 @@ Schwäche:
 ###Attribute  
 |Attribut|Level|  
 |-|-|  
-|  Eindruck |  |  
-|  Durchsetzungsvermögen |  |  
-|  Sympathie |  |  
+|  Eindruck |2|  
+|  Durchsetzungsvermögen |4|  
+|  Sympathie |2|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
@@ -191,9 +192,9 @@ Schwäche:
 ###Attribute
 |Attribut|Level|  
 |-|-|  
-|  Glück |  |  
-|  Mut |  |  
-|  Gunst |  |  
+|  Glück |4|  
+|  Mut |2|  
+|  Gunst |2|  
 
 ###Fähigkeiten
 |Fähigkeit|Level| 
