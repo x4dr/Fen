@@ -142,12 +142,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:---|----:|  
 |Prozessalchemie|4|  
 |Schnellalchemie|3|  
-
-### Zauber
-|Gruppe|Gesamtanzahl|  
-|:---|----:|  
-|Prozessalchemiezauber|16|  
-|Schnellalchemiezauber|9|  
   
 ### Vorteile  
 |Vorteil|Level|  
@@ -159,6 +153,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Größere Einstimmung|1|  
 |Licht der Erkenntnis|1|  
 |Halten des Flüchtigen Lichts|1|  
+|Prozessalchemiezauber|16|  
+|Schnellalchemiezauber|9|  
   
 ## Weisheit  
 ### Attribute  
