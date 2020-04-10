@@ -3,7 +3,7 @@ tags:
 [TOC]
 ## allgemeinparty   
 
-###Münze der Unterwelt  
+###Münze der Unterwelt Avis 
 Münze nach der Diebesgilde erhalten,  
 kann tod verhindern/jemnden zurückbringen  
 Hat unkontroliert vibriert
@@ -14,18 +14,18 @@ kontrolliert vielleicht Vögel?
 ### amulett 1 (Talus)
 identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/40/50  
 
-### Füllhorn  
+### Füllhorn Avis  
 Horn eines imperialen supkult, spendet Wasser gesegnet von sural
 
-### Fernglas der Fehrnsicht
+### Fernglas der Fehrnsicht Avis
 Wenn Gehalten wird sciht gespeichert.  
 Beim durchschauen Verbraucht.  
 Gibt 1 Bonuswürfel oder Erlaubt es sehr kleine/Entfernte Dinge zusehen  
 
-### Kelins Richtungsstab  
+### Kelins Richtungsstab Avis  
 gibt plus 2 auf Vektorzauber  
 
-### Die Sturmklinge  
+### Die Sturmklinge Avis  
 Erhöht AoE Effekte wenn geschwungen. 5-facher Radius 8-fache Kosten  
 
 ### amulett 2
@@ -108,22 +108,22 @@ Manifestiert Rauch
 * resoniert mit Verletzten, die in der nähe sind  
 * kann 1 energie/tag/verletztem erzeugen wenn angewendet, unterdrückt wundheilung.
 
-### Diamantiner Kraftstein
+### Diamantiner Kraftstein 
 (14)9  
 * gibt dem Träger des Artefaktes, in dem er verarbeitet ist: +1 Ausdauer für einen Wurf, Nutzung 9-(artefakt@5) Energie, 0/20/?
 
-### Knochen des üblen Omens
+### Knochen des üblen Omens 
 (17)10  
 * wenn in erde eingegraben und nass werdend beschwört dinge, die dem letzten berührten Böses wollen (0/60/?)  
 
-### Schmerzdämpferpiercing
+### Schmerzdämpferpiercing Tras
 * dämpfung von schmerz  
 * +5 auf durchhaltewürfe, schmerzbasierte effekte um 5 verringert
 * bindung an träger für 12-(artefakt@5) Ladung
 * 0/4/4
 * bleibt aktiv solange in Kontakt mit dem Träger
 
-### Seelen Bake 
+### Seelen Bake Banther?
 * 0/500/500
 * keine energie kann wieder herausgeholt werden  
 * alle 100m Bewegung/6h: -1 Ladung  
@@ -137,7 +137,7 @@ Manifestiert Rauch
 * bei aktivierung wird licht gedämpft 
 * vorallem indirektes licht
 
-### Heilender Kristall
+### Heilender Kristall Banther?
 (9)16  
 * heilungsbezogener effekt  
 * 0/8/10
@@ -167,11 +167,11 @@ IN AVIS Säbel
 * Bonuswürfel auf alle Handlungen die jemand anderem Schaden
 * 1 Schaden am ende für jeden Bonuswürfel der Gewährt wurde
   
-### Pazilazuli
+### Pazilazuli Talus
 (16)15  
 * 100 Kap. verhindert allen ausgelösten schaden bei einsetztung.  
 
-### Götterfunke
+### Götterfunke Tras
 (13)16  
 * wenn aktiviert, zieht es die aufmerksamkeit der götter an.  
 * ???
@@ -202,8 +202,9 @@ IN AVIS Säbel
 
 ### Amulett Rot 12 
 nicht näher bestimmter Effekt auf gezauberte Zauber, verstärkt Feuer mit Feuer aus der Umgebung
+in Avis
 
-### Amulett Blau 
+### Amulett Blau Tras
 nicht näher bestimmter Effekt auf gezauberte Zauber
 ### Ring Rot
 Magiespeicher (7/?/?), selbstaufladend (Quelle:?)
@@ -211,9 +212,9 @@ Magiespeicher (7/?/?), selbstaufladend (Quelle:?)
 Magiespeicher (7/50/80), selbstaufladend (Ring Rot Ausgabe: 1)
 
 ##Burgloot
-###Kompass of Pointines  
+###Kompass of Pointines  Avis
 (10) Zeigt auf das Ziel der Karte Sollange man sich darauf befindet  
-###Karte of Pointines  
+###Karte of Pointines  Avis
 Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. Kompass kann helfen zu dem X auf der Karte zu finden  
 
 ##Waldkram
