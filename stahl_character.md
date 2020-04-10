@@ -158,8 +158,8 @@ tags: Character Swordlad
 | Sprachlich | FP Kosten Sprachen -1 |
 | Finger | 10 |
 
-(45 fplv4 ) <- Chargen Punkte
-(15xp) <- Generic
+(20 fplv4 ) <- Chargen Punkte
+(10xp) <- GenericSpent
 
 #XP
 ##Fähigkeitsxp
@@ -191,25 +191,4 @@ tags: Character Swordlad
 
 
 #Techniken
-
-	Flexibilitaet
-
-	Ausfall
-	Aggresiver Ausfall
-
-	Parieren
-	Geduld
-	Riposte
-	Verbesserte Riposte
-	Spontanes parrieren
-	Verbessertes Parrieren
-
 	Wache
-
-	Meistter des Dreifachen Weges
-
-	Langbogentraining (Quickfiring, Weitschiessen(5), Zielschiessen(4))
-
-
-(20 fplv4 ) <-> Chargen <Punkte>
-(10xp) <- GenericSpent
