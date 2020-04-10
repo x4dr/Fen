@@ -57,11 +57,14 @@ stets betrunken
 |->Takelage| 1|
 |Waffe(Hammer)| 2 |
 |Waffe(Schleuder)| 2 |
+|Schild| 1|
 |Survival| 2 |    
     
 ###Vorteile  
 |Vorteil|Name|
 |-|-|
+|Schildtraining|1|
+|Beschützen|1|
 |Unbeeindruckt|1|
 |Mimikry (Aurische Form)| 1|
 |Chitinpanzer| 1|
