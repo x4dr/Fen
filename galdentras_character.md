@@ -203,7 +203,6 @@ stets betrunken
 |Schnelle Rekonstruktion|1|
 |Wasseratmung| 1|
 |Psychische Verbindung| 1|
-|Versteckter Eingang|1|
 
 ###Nachteile
 |Nachteilsname|
