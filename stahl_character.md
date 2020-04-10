@@ -24,24 +24,24 @@ tags: Character Swordlad
 |-|-|
 | Schwerathletik | 2 |
 | Rennen | 2 |
-| Springen | 1 | V |
+| Springen | 1 |
 | Werfen | 0 |
 | Schwimmen | 0 |
 | Klettern | 1 |
 | Survival | 2 |
 | Zechen | 2 |
-| Waffe(Anderthalbhänder) | 4 |
+| Waffe(Anderthalbhänder) | 5 |
 | Waffe(Langbogen) | 3 |
-| Waffe(Dolch) | 1 |
-| Waffe(Unarmed) | 1 |
+| Waffe(Dolch) | 2 |
+| Waffe(Unarmed) | 2 |
 
 ##Können
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Geschick | 2 |
-| Einblick | 2 |
-| Kompetenz | 2 |
+| Geschick | 4 |
+| Einblick | 3 |
+| Kompetenz | 3 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -52,26 +52,27 @@ tags: Character Swordlad
 | Konstruktion | 0 |
 | Alchemie | 0 |
 | Handwerk(Swordsmith) | 2 |
-| Akrobatik | 1 |
-| Schleichen | 1 |
-| Reiten | 0 |
+| Akrobatik | 2 |
+| Schleichen | 2 |
+| Reiten | 1 |
 | Segeln | 1 |
 | Kochen | 0 |
+| Tanzen | 1 |
 
 ##Weisheit
 ###Attribute
 |Attribut|Level|
 |-|-|
-| Bildung | 2 |
-| Geist | 2 |
+| Bildung | 3 |
+| Geist | 5 |
 | Wahrnehmung | 4 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Heilen | 2 |
-| Wissen | 0 |
-| Sprache() | 2 |
+| Wissen(Geo) | 1 |
+| Sprache(Aurish) | 2 |
 | Forschung | 0 |
 | Instinkt | 2 |
 | Suchen | 2 |
@@ -79,6 +80,7 @@ tags: Character Swordlad
 | Taktik | 2 |
 | Navigation | 0 |
 | Kampfmanöver | 1 |
+| BerufAdministrator | 4 |
 
 ###Vorteile
 | Vorteil | |
@@ -89,23 +91,23 @@ tags: Character Swordlad
 ###Attribute
 |Attribut|Level|
 |-|-|
-| Eindruck | 2 |
-| Durchsetzungsvermögen | 3 |
+| Eindruck | 4 |
+| Durchsetzungsvermögen | 4 |
 | Sympathie | 3 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Handel | 0 |
-| Diplomatie | 1 |
+| Handel | 1 |
+| Diplomatie | 2 |
 | Rhetorik | 2 |
 | Lügen | 2 |
 | Stil | 2 |
 | Einschüchtern | 0 |
 | Befehlsgewalt | 2 |
-| Empathie | 1 |
-| Etikette | 0 |
-| Tratsch | 0 |
+| Empathie | 2 |
+| Etikette | 2 |
+| Tratsch | 2 |
 | Kunst | 0 |
 
 ##Schicksal
