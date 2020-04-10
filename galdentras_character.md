@@ -18,8 +18,8 @@ tags:
 Bronzehammer, Stahlhammer
 Bronze Schlagringe 
 
-###Artefakte
-SChmerzdämpferpiercing
+##Artefakte
+Schmerzdämpferpiercing
 Wutjadestern
 Langschleuder
 Amulet Blau (Geschwisterloot)
