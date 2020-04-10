@@ -7,6 +7,7 @@ tags:
 Münze nach der Diebesgilde erhalten,  
 kann tod verhindern/jemnden zurückbringen  
 Hat unkontroliert vibriert
+ Avis
 
 ###Vogelschädel des Pupenmeisters  
 kontrolliert vielleicht Vögel?
@@ -16,17 +17,21 @@ identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/
 
 ### Füllhorn  
 Horn eines imperialen supkult, spendet Wasser gesegnet von sural
+ Avis
 
 ### Fernglas der Fehrnsicht
 Wenn Gehalten wird sciht gespeichert.  
 Beim durchschauen Verbraucht.  
 Gibt 1 Bonuswürfel oder Erlaubt es sehr kleine/Entfernte Dinge zusehen  
+Avis
 
 ### Kelins Richtungsstab  
 gibt plus 2 auf Vektorzauber  
+Avis
 
 ### Die Sturmklinge  
 Erhöht AoE Effekte wenn geschwungen. 5-facher Radius 8-fache Kosten  
+Avis
 
 ### amulett 2
 identifiziert 6 more spells, strategically   
