@@ -217,6 +217,7 @@ Schwäche:
 
 #XP
 [Legende[[specific:conventions:xp:kurz:-]]]
+- 1 Punkt Begegnung
 ##Fortschrittspunkte
 |Fähigkeit | XPCode |
 |-|-|
