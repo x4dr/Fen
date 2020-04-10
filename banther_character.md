@@ -221,11 +221,15 @@ Schwäche:
 ##Zauber
 ###Leben
 ###Feuer
+[Gleißende Berührung[[specific:firemagic:gleißende berührung:-]]]
+[Schutz vor Feuer[[specific:firemagic:Schutz vor Feuer:-]]]
 ###Illusion
 [Unsichtbarkeit[[specific:illusionmagic:unsichtbarkeit:-]]]
 [Schmerz[[specific:illusionmagic:schmerz:-]]]
-[Schmerz Dämpfen[[specific:illusionmagic:schmerz dämpfen:-]]]
+[Schmerz Dämpfen[[specific:illusionmagic:schmerzdämpfung:-]]]
 ##Waffen
+Stahl Panzerbrecher
+[[[weapon:Panzerbrecher:L10HSCB]]]
 Stahldolch(L10)  
 [[[weapon:Dolch:L10HSCB]]]
 
