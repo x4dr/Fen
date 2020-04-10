@@ -55,7 +55,7 @@ stets betrunken
 |Rennen| 2 |
 |Schwerathletik|2|
 |Klettern| 2|
-|->Takelage| 1|
+|Takelage| _1|
 |Waffe(Hammer)| 2 |
 |Waffe(Schleuder)| 2 |
 |Schild| 1|
@@ -87,17 +87,17 @@ stets betrunken
 |Fähigkeit|Level|  
 |-|-|  
 |  Segeln |  2|
-|  Handwerk (Holzverarbeitung) | 2 |
-|->Möbel|2|
-|  ->Schiffsbau |  2 |
+|  HandwerkHolz | 2 |
+|Möbel|_2|
+|  Schiffsbau |  _2 |
 |  Schleichen |  2 |
 |  Singen  | 3 |  
-|->Bauchreden|1|
-|Handwerk (Brauen)|2|
-|-> Schnapsbrennen | 2|
-|Handwerk (Textilverarbeitung|1|
-|Handwerk (Quartiermeister)|3|
-|->Logistik|3|
+| Bauchreden|_1|
+|HandwerkBrauen|2|
+|Schnapsbrennen |_2|
+|HandwerkTextil|1|
+|HandwerkQuart|3|
+|Logistik|_3|
 
 ###Acquise
 |SKill|Wert|
@@ -117,10 +117,10 @@ stets betrunken
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|Wissen (Getränke)| 2| 
-|  Wissen (Handel)|  1|  
-|  ->Nahrungsmittel|  1|  
-|  ->Loot|  1|  
+|WissenGetränke| 2| 
+|  WissenHandel|  _1|  
+|  Nahrungsmittel|  _1|  
+|  Loot|  _1|  
 |  Suchen|  1|  
 |  Navigation |  1| 
 |Instinkt| 2|
