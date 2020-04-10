@@ -1,8 +1,8 @@
 title: Lebensmagie  
 tags:   
-
 #Zauber
 Diese Zauber, vorallem die beschreibungen von Mustern sind im Kontext von [Blutmagie](bloodmagic) erstellt worden. Andere Konzepte würden eine andere Interpretation haben.
+Ein Ziel das am Nahkampf teil nimmt oder sich sonstwie unruhig bewegt (Faustregel: Defensivwert wird gesetzt) ist nicht still genug um darauf Linien anzubringen.
 
 ##Entzündung stoppen
 Kosten: 4
@@ -34,7 +34,7 @@ Die Ziel**person**(effekte auf Wesen größer als Personen sind nicht garantiert
 Kosten: 3
 Zauberzeit: 0
 
-
+Ein Halbkreis wird auf Fleisch gezeichnet, wenn dieser auf dem Ziel ist ist er von den Bonuslebenspunkten geschützt, wenn nicht endet der Effekt sobald der Halbkreis gestört wurde. Die Linie leuchtet, solange der Effekt aktiv ist.
 Das Ziel mit dem eine Verbindung aufgebaut wurde erhält **Wurf**/2 Bonuslebenspunkte, die sich mit Wundgröße annulieren **nachdem** Rüstung angewandt wurde. Am Anfang Jeder Runde geht einer dieser Lebenspunkte verloren.
 
 
