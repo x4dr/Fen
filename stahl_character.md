@@ -30,10 +30,10 @@ tags: Character Swordlad
 | Klettern | 1 |
 | Survival | 2 |
 | Zechen | 2 |
-| Waffe(Anderthalbhänder) | 5 |
-| Waffe(Langbogen) | 3 |
-| Waffe(Dolch) | 2 |
-| Waffe(Unarmed) | 2 |
+| Anderthalbhänder | 5 |
+| Langbogen | 3 |
+| Dolch | 2 |
+| Unarmed | 2 |
 | Waffe Speer| 1 |
 
 ###Vorteile
@@ -69,7 +69,7 @@ tags: Character Swordlad
 | Holzverarbeitung | 0 |
 | Konstruktion | 0 |
 | Alchemie | 0 |
-| Handwerk(Swordsmith) | 2 |
+| Swordsmith | 2 |
 | Akrobatik | 2 |
 | Schleichen | 2 |
 | Reiten | 1 |
@@ -89,8 +89,8 @@ tags: Character Swordlad
 |Fähigkeit|Wert|
 |-|-|
 | Heilen | 2 |
-| Wissen(Geo) | 1 |
-| Sprache(Aurish) | 2 |
+| Geo | 1 |
+| Aurish | 2 |
 | Forschung | 0 |
 | Instinkt | 2 |
 | Suchen | 2 |
@@ -103,8 +103,8 @@ tags: Character Swordlad
 | Feudalsimus| _1 |
 | Mathe | _1 |
 | Logistic | _1 |
-| beruf(Law) | 2 |
-| Wissen (Prekor Important people| 2 |
+| Law | 2 |
+| PrekorisheImportants | 2 |
 
 ###Vorteile
 | Vorteil | |
@@ -133,7 +133,7 @@ tags: Character Swordlad
 | Etikette | 2 |
 | Tratsch | 2 |
 | Kunst | 0 |
-| Beruf(Storyteller) | 2 |
+| Storyteller | 2 |
 
 ##Schicksal
 ###Attribute
