@@ -4,7 +4,7 @@ tags:
 
 |||
 |-|-|
-|Name|Galdentras Dreckpratze|
+|Name|Galdentras Mattschimmer|
 |Spezies|Aurier|
 |Alter|30 Jahre|
 |Größe|ca. 2,10m|
