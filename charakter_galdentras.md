@@ -51,7 +51,10 @@ stets betrunken
 |-|-|
 |Unbewaffnet | 2 |
 |Zechen| 2 |
-|Rennen| 1 |
+|Rennen| 2 |
+|Schwerathletik|2|
+|Klettern| 2|
+|->Takelage| 1|
 |Waffe(Hammer)| 2 |
 |Waffe(Schleuder)| 2 |
 |Survival| 2 |    
@@ -59,7 +62,9 @@ stets betrunken
 ###Vorteile  
 |Vorteil|Name|
 |-|-|
-|Unbeeindruckt|
+|Unbeeindruckt|1|
+|Mimikry (Aurische Form)| 1|
+|Chitinpanzer| 1|
 
 ###Nachteile
 |Nachteil|Stufe|
@@ -78,12 +83,15 @@ stets betrunken
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|  Segeln |  1|
+|  Segeln |  2|
 |  Handwerk (Holzverarbeitung) | 2 |
+|->Möbel|2|
 |  ->Schiffsbau |  2 |
 |  Schleichen |  2 |
 |  Singen  | 3 |  
 |->Bauchreden|1|
+|Handwerk (Brauen)|2|
+|-> Schnapsbrennen | 2|
 |Handwerk (Textilverarbeitung|1|
 |Handwerk (Quartiermeister)|3|
 |->Logistik|3|
@@ -106,14 +114,16 @@ stets betrunken
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
+|Wissen (Getränke)| 2| 
 |  Wissen (Handel)|  1|  
 |  ->Nahrungsmittel|  1|  
 |  ->Loot|  1|  
 |  Suchen|  1|  
-|  Navigation |  1|  
+|  Navigation |  1| 
+|Instinkt| 2|
 |  Sprache (Prekorisch) |  2|
 |  Sprache (Argyrisch | 1|
-|  Sprache  (Aruisch) |3|
+|  Sprache  (Aurisch) |3|
 
 ##Charisma
 
@@ -130,7 +140,7 @@ stets betrunken
 |  Stil |  0|  
 |  Befehlsgewalt |  2|  
 |  Handel |  1|  
-|  Einschüchtern |  1|  
+|  Einschüchtern |  2|  
 | Kunst (Geschichten erzählen)| 1|
 
 ##Magie
@@ -149,15 +159,20 @@ stets betrunken
 | Aspekt |  Level|    
 |-|-|
 |   Feuer |  2|  
-|   Eis |  2|  
+|   Eis |  2|
+| Gefühle| 2|  
 
 ###Zauber
 |Zauber|Name|
 |-|-|
 || Ignis |  
 || Frigidus |  
+|Rage||
+|Ruhe||
 
-
+###Vorteile
+|-|-|
+|Leuchtendes Medium|1|
 
 ##Schicksal
 
@@ -171,16 +186,17 @@ stets betrunken
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|Göttliche Bindung (Fobif)| 1|
-|  Wille |  1|  
+|Göttliche Bindung (Fobif)| 2|
+|  Wille |  2|  
 |  Ruhm Limasu|  2|  
+|
 
 10 Punkte Fobif
 
 ###Nachteile
 |Nachteilsname|
-|-|
-|Unglücksvogel|
+|-|-|
+|Unglücksvogel| 1|
 
 
 #Inventar  
