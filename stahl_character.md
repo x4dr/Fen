@@ -21,9 +21,9 @@ tags: Character Swordlad
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
-|-|-|-|
-| Schwerathletik | 2 | (Something) |
-| Rennen | 2 | (VulkanMarathon) |
+|-|-|
+| Schwerathletik | 2 |
+| Rennen | 2 |
 | Springen | 1 | V |
 | Werfen | 0 |
 | Schwimmen | 0 |
