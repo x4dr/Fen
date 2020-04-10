@@ -6,7 +6,7 @@ tags:
 |-|-|
 |Name|Galdentras Dreckpratze|
 |Spezies|Aurier|
-|Alter|28 Jahre|
+|Alter|30 Jahre|
 |Größe|ca. 2,10m|
 |Gewicht|170kg|
 |Haarfarbe|fleckeiges creme-braun|
