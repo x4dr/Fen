@@ -42,9 +42,9 @@ stets betrunken
 ###Attribute  
 |Attribut|Level|
 |-|-|
-|Konstitution|3|
+|Konstitution|5|
 |Kraft|3|
-|Agilität| 2|
+|Agilität| 3|
 
 ###Fähigkeiten  
 |Fähigkeit|Level|
@@ -78,9 +78,9 @@ stets betrunken
 ###Attribute
 |Attribut|Level|
 |-|-|
-|Geschick| 3|  
+|Geschick| 4|  
 |Einblick| 3|  
-|Kompetenz| 4|  
+|Kompetenz| 5|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
@@ -181,9 +181,9 @@ stets betrunken
 ###Attribute
 |Attribut|Level|  
 |-|-|  
-|  Glück |  1|  
-|  Mut |  2|  
-|  Gunst |  1|  
+|  Glück |  2|  
+|  Mut |  3|  
+|  Gunst |  2|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
