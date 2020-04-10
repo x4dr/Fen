@@ -110,8 +110,8 @@ stets betrunken
 |Attribut|Level|
 |-|-|
 |  Bildung |  2|  
-|  Geist |  2|  
-|  Wahrnehmung |  2|  
+|  Geist |  3|  
+|  Wahrnehmung |  5|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
