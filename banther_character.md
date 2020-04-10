@@ -220,6 +220,11 @@ Schwäche:
 #Inventar  
 ##Zauber
 ###Leben
+[Entzündung stoppen[[specific:lifemagic:entzündung stoppen:-]]]
+[Leben erhalten[[specific:lifemagic:leben erhalten:-]]]
+[Leben kanalisieren[[specific:lifemagic:leben kanalisieren:-]]]
+[Herz stoppen[[specific:lifemagic:leben herz stoppen:-]]]
+[Leben schützen[[specific:lifemagic:leben schützen:-]]]
 ###Feuer
 [Gleißende Berührung[[specific:firemagic:gleißende berührung:-]]]
 [Schutz vor Feuer[[specific:firemagic:Schutz vor Feuer:-]]]
