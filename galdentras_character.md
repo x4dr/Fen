@@ -144,7 +144,7 @@ stets betrunken
 |  Befehlsgewalt |  2|  
 |  Handel |  1|  
 |  Einschüchtern |  2|  
-| Kunst (Geschichten erzählen)| 1|
+| Storyteller| 1|
 
 ##Magie
 
