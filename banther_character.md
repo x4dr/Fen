@@ -222,7 +222,9 @@ Schwäche:
 ###Leben
 ###Feuer
 ###Illusion
-[[[specific:illusionmagic:unsichtbarkeit]]]
+[Unsichtbarkeit[[specific:illusionmagic:unsichtbarkeit:-]]]
+[Schmerz[[specific:illusionmagic:schmerz:-]]]
+[Schmerz Dämpfen[[specific:illusionmagic:schmerz dämpfen:-]]]
 ##Waffen
 Stahldolch(L10)  
 [[[weapon:Dolch:L10HSCB]]]
