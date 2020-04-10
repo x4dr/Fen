@@ -35,6 +35,11 @@ tags: Character Swordlad
 | Waffe(Dolch) | 2 |
 | Waffe(Unarmed) | 2 |
 
+###Vorteile
+Flexibilitaet
+Ausfall
+Aggresiver Ausfall
+
 ##Können
 ###Attribute 
 |Attribut|Level|
