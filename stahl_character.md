@@ -36,19 +36,21 @@ tags: Character Swordlad
 | Waffe(Unarmed) | 2 |
 
 ###Vorteile
-Flexibilitaet
-Ausfall
-Aggresiver Ausfall 
-Parieren
-Geduld
-Riposte
-VerbesserteRiposte
-Spontanesparrieren
-VerbessertesParrieren
-DerDreifaacheweg: 19
-LangbogenQuickfiring
-Weitschiessen: 4
-Zielschiessen: 3
+|Vorteil| |
+|-|-|
+|Flexibilitaet|1|
+|Ausfall|1|
+|Aggresiver Ausfall|1| 
+|Parieren|1|
+|Geduld|1|
+|Riposte|1|
+|VerbesserteRiposte|1|
+|Spontanesparrieren|1|
+|VerbessertesParrieren |1|
+|DerDreifaacheweg| 19 |
+|LangbogenQuickfiring |1|
+|Weitschiessen| 4 |
+|Zielschiessen| 3 |
 
 ##Können
 ###Attribute 
