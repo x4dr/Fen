@@ -66,8 +66,7 @@ stets betrunken
 |Schildtraining|1|
 |Beschützen|1|
 |Unbeeindruckt|1|
-|Mimikry (Aurische Form)| 1|
-|Chitinpanzer| 1|
+
 
 ###Nachteile
 |Nachteil|Stufe|
@@ -195,6 +194,16 @@ stets betrunken
 |
 
 10 Punkte Fobif
+
+###Vorteile
+|Mimikry (Aurische Form)| 1|
+|Chitinpanzer| 1|
+|Erdheim|1|
+|Verstecktes Erdheim|1|
+|Schnelle Rekonstruktion|1|
+|Wasseratmung| 1|
+|Psychische Verbindung| 1|
+|Versteckter Eingang|1|
 
 ###Nachteile
 |Nachteilsname|
