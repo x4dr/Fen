@@ -35,6 +35,8 @@ noch einzutragen
 stets betrunken
 ##Hintergrund  
 ???
+##Wunden
+1(SCHW 6), 1 (SCHW 6), 2 (SCHW 8), 2 (SCHW 6), 3 (SCHW 8)
 
 #Werte
 
@@ -191,7 +193,7 @@ stets betrunken
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|Göttliche Bindung (Fobif)| 2|
+|Bindung Fobif| 2|
 |  Wille |  2|  
 |  Ruhm Limasu|  2|  
 |
