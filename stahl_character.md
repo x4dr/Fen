@@ -38,7 +38,17 @@ tags: Character Swordlad
 ###Vorteile
 Flexibilitaet
 Ausfall
-Aggresiver Ausfall
+Aggresiver Ausfall 
+Parieren
+Geduld
+Riposte
+VerbesserteRiposte
+Spontanesparrieren
+VerbessertesParrieren
+DerDreifaacheweg: 19
+LangbogenQuickfiring
+Weitschiessen: 4
+Zielschiessen: 3
 
 ##Können
 ###Attribute 
