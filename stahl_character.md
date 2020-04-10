@@ -179,10 +179,10 @@ tags: Character Swordlad
 
 	Wache
 
-	Der Dreifache Weg -> All but the top level Transitions
+	Meistter des Dreifachen Weges
 
 	Langbogentraining (Quickfiring, Weitschiessen(5), Zielschiessen(4))
 
 
-(45 fplv4 ) <-> Chargen <Punkte>
-(15xp) <- Generic
+(20 fplv4 ) <-> Chargen <Punkte>
+(10xp) <- GenericSpent
