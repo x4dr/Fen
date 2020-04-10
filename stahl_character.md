@@ -81,7 +81,12 @@ tags: Character Swordlad
 | Navigation | 0 |
 | Kampfmanöver | 1 |
 | BerufAdministrator | 4 |
-| _Heraldik | _1 |
+| Heraldik | _1 |
+| Feudalsimus| _1 |
+| Mathe | _1 |
+| Logistic | _1 |
+| beruf(Law) | 1 |
+| Wissen (Prekor Important people| 2 |
 
 ###Vorteile
 | Vorteil | |
@@ -110,6 +115,7 @@ tags: Character Swordlad
 | Etikette | 2 |
 | Tratsch | 2 |
 | Kunst | 0 |
+| Beruf(Storyteller) | 2 |
 
 ##Schicksal
 ###Attribute
@@ -145,21 +151,24 @@ tags: Character Swordlad
 
 |Fähigkeit|XP|
 |-|-|
-|Schwerathletik|KK|
+|Schwerathletik|K|
 |Rennen|L|
 |Springen|V|
-|Survival|K P(2/24)|
+|Survival|K P(10/24)|
 |Zechen|VK|
-|Anderthalbhänder|[vernal]K|
-|Langbogen|[vernal]KK|
-|Dolch|TTT LLL PP|
-|Waffenlos|TTT LLL PP|
+|Langbogen|[Worograd, Istan, Dinas Todol, Yon]KKL|
 |Metallverarbeitung|P???P(1/50)K|
 |Kochen|I|
-|Heilen|KP(1/24)T|
+|Heilen|KKPPVV|
+|Strategie|TTTL|
+|Taktik|TTTL|
+|Navigation|PPPP|
+|BerufAdministrator|P[Eisenbach. Worograd]V|
 |Diplomatie|K|
+|Handel|TL|
+|Rhetorik|K[Eisenbach]
 |Lügen|V|
-|Tratsch|K|
+|Befehlsgewalt|P|
 |Begegnung|KK|
 |Quelle|[karum, instabile quelle, avis]|
 
