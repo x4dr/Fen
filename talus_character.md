@@ -24,9 +24,13 @@ Talus: 60kg Federstahl
 0
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
-## Wunden:
-Megatalus: keine
-Talus: 2@4 3@8 2@6 1@6 8@7 1@6 1@6 2@6 
+## Wunden:  
+Megatalus:  
+Bein 1: [1 1 1]@7(Pfeile)  
+Bein 2: [2 2]@7(Pfeile)  
+Bein 7: [2]@7(Pfeile)  
+Bein 8: [4]@7(Pfeile)  
+Talus: 2@4 3@8 2@6 1@6 8@7 1@6 1@6 2@6  
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 Megatalus: 8*30=240
@@ -325,6 +329,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Drachenglaskugel		|1	||||
 |Herz des Waldes		|1	||||
 |Zombiedornenbaumdorn		|1	||||
+|Bronzekurzschwert		|3	|1 kg	|3 kg||
 
 
 # Erfahrung  
