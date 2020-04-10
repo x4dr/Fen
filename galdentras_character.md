@@ -56,8 +56,8 @@ stets betrunken
 |Schwerathletik|2|
 |Klettern| 2|
 |Takelage| _1|
-|Waffe(Hammer)| 2 |
-|Waffe(Schleuder)| 2 |
+|Hammer| 2 |
+|Schleuder| 2 |
 |Schild| 1|
 |Survival| 2 |    
     
