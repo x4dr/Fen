@@ -19,4 +19,10 @@ Die Unsichtbarkeit wirkt in einem Radius von 100&times;**Wurf**m um die Skizze h
 Kosten: 1
 Zauberzeit 1
 
-Der Zaubernde legt ein Ziel fest markiert an einem Körper (seinem, dem eines anderen oder einer Nachbildung) eine Wunde. Die Linien hören auf zu  Leuchten, nachdem das Ziel sie Wahrgenommen hat, oder **Wurf** auf 0 fällt. **Wurf** nimmt jede Minute um 1 ab. Das Ziel erhält **Wurf**/2 Schaden und einen Maluswürfel. Der Schaden und Maluswürfel verschwinden nach einer Minute oder wenn das Ziel ohnmächtig wird oder sich 3 Runden auf den Zustand seines Körpers konzentriert. 
+Der Zaubernde legt ein Ziel fest markiert an einem Körper (seinem, dem eines anderen oder einer Nachbildung) eine Wunde. Die Linien hören auf zu Leuchten, nachdem das Ziel sie Wahrgenommen hat, oder **Wurf** auf 0 fällt. **Wurf** nimmt jede Minute um 1 ab. Das Ziel erhält **Wurf**/2 Schaden und einen Maluswürfel. Der Schaden und Maluswürfel verschwinden nach einer Minute oder wenn das Ziel ohnmächtig wird oder sich 3 Runden auf den Zustand seines Körpers konzentriert. 
+
+## Schmerzdämpfung
+Kosten: 1
+Zauberzeit 1
+
+Der Zaubernde legt ein Ziel fest markiert an einem Körper (seinem, dem eines anderen oder einer Nachbildung) eine Wunde, die das Ziel hat. Die Linien hören auf zu  Leuchten, nachdem das Ziel sie Wahrgenommen hat, oder **Wurf** auf 0 fällt. **Wurf** nimmt jede Minute um 1 ab. Die Wunde des Ziel erhält wird für die Zwecke von Ohnmacht und Tod ignoriert. Der Effekt verschwindet Ziel ohnmächtig wird oder sich 3 Runden auf den Zustand seines Körpers konzentriert, oder **Wurf** auf 0 fällt. 
