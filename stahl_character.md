@@ -81,7 +81,7 @@ tags: Character Swordlad
 | Navigation | 0 |
 | Kampfmanöver | 1 |
 | BerufAdministrator | 4 |
-| Heraldik | _1 |
+| _Heraldik | _1 |
 
 ###Vorteile
 | Vorteil | |
