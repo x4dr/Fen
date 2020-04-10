@@ -21,6 +21,11 @@ tags:
 ##Allgemeine Erscheinung  
 
 ##Hintergrund
+- früher einfacher Soldat/Sergeant
+- Frau und Sohn bei Überfall tödlich verwundet und konnten aufgrund mangelnder Heilungskentnisse nicht gerettet werden
+- Schulung in Blutmagie/Heilung
+- damaligen Mörder aufgesucht und mittels Heilungsmagie gefoltert
+- starker Trieb alle Organismen der Welt zu katalogisieren und Heilungsmethoden zu perfektionieren
 Schwäche: 
 - Hohe Achtung für das menschliche Leben
 - Blutmagiesiegel um Wunde geschlossen zu halten (5 Silber die Woche)
