@@ -156,7 +156,7 @@ tags: Character Swordlad
 |Springen|V|
 |Survival|K P(10/24)|
 |Zechen|VK|
-|Langbogen|[Worograd, Istan, Dinas Todol, Yon]KKL|
+|Waffe(Langbogen)|[Worograd, Istan, Dinas Todol, Yon]KKL|
 |Metallverarbeitung|P???P(1/50)K|
 |Kochen|I|
 |Heilen|KKPPVV|
