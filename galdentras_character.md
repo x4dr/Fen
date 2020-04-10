@@ -200,6 +200,7 @@ stets betrunken
 |Chitinpanzer| 1|
 |Erdheim|1|
 |Verstecktes Erdheim|1|
+|Erdheim:Bewegliche Teile| 1|
 |Schnelle Rekonstruktion|1|
 |Wasseratmung| 1|
 |Psychische Verbindung| 1|
