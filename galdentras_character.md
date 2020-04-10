@@ -36,7 +36,7 @@ stets betrunken
 ##Hintergrund  
 ???
 ##Wunden
-1(SCHW 6), 1 (SCHW 6), 2 (SCHW 8), 2 (SCHW 6), 3 (SCHW 8)
+1 (SCHW 6), 2 (SCHW 8), 2 (SCHW 6), 3 (SCHW 8)
 
 #Werte
 
