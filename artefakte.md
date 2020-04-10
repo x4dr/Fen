@@ -7,31 +7,26 @@ tags:
 Münze nach der Diebesgilde erhalten,  
 kann tod verhindern/jemnden zurückbringen  
 Hat unkontroliert vibriert
- Avis
 
 ###Vogelschädel des Pupenmeisters  
 kontrolliert vielleicht Vögel?
 
-### amulett 1 
+### amulett 1 (Talus)
 identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/40/50  
 
 ### Füllhorn  
 Horn eines imperialen supkult, spendet Wasser gesegnet von sural
- Avis
 
 ### Fernglas der Fehrnsicht
 Wenn Gehalten wird sciht gespeichert.  
 Beim durchschauen Verbraucht.  
 Gibt 1 Bonuswürfel oder Erlaubt es sehr kleine/Entfernte Dinge zusehen  
-Avis
 
 ### Kelins Richtungsstab  
 gibt plus 2 auf Vektorzauber  
-Avis
 
 ### Die Sturmklinge  
 Erhöht AoE Effekte wenn geschwungen. 5-facher Radius 8-fache Kosten  
-Avis
 
 ### amulett 2
 identifiziert 6 more spells, strategically   
@@ -60,7 +55,7 @@ Hüllt in Schatten
 Manifestiert Rauch
 
 
-###staff of doing stuff 
+###staff of doing stuff (Talus)
 (12)14  
 *+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung 20/25
 
@@ -91,7 +86,7 @@ Manifestiert Rauch
 * Maximumsverlust bei 1
 * 12-(artefakt@5) ladung
 
-### Flutkyanit
+### Flutkyanit (Talus)
 (13)11  
 * 0/150/150
 * minimum output 10  
