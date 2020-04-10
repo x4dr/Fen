@@ -20,6 +20,8 @@ Bronze Schlagringe
 SChmerzdämpferpiercing
 Wutjadestern
 Langschleuder
+Amulet Blau (Geschwisterloot)
+ARing Blau (Geschwisterloot)
 1 Bronzedolch
 1 Bronzewurfmesser
 ##Rüstung
@@ -255,6 +257,8 @@ Quelle
 
 Aspekt Feuer
 Training 10 Tage
+Training 10 WOchen
+Lehrer auf 4
 
 Aspekt Eis
 Training 10 Tage
