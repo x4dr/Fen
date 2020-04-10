@@ -34,7 +34,7 @@ identifiziert 6 more spells, strategically
 ### amulett 3
 identifiziert 5 holds energy sort of unstable useable on actions   
 
-### Unsichtbarmachende Unsichtbarkeitskette
+### Unsichtbarmachende Unsichtbarkeitskette (Talus)
 333g Bronze
 "Ehrenmitglied der Attarkanischen Amalkangilde" in 2D Atteryazi
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
