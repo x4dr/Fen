@@ -79,7 +79,7 @@ stets betrunken
 ###Attribute
 |Attribut|Level|
 |-|-|
-|Geschick| 4|  
+|Geschick| 3|  
 |Einblick| 3|  
 |Kompetenz| 5|  
 
@@ -111,7 +111,7 @@ stets betrunken
 |Attribut|Level|
 |-|-|
 |  Bildung |  2|  
-|  Geist |  3|  
+|  Geist |  2|  
 |  Wahrnehmung |  5|  
 
 ###Fähigkeiten
