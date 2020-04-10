@@ -16,12 +16,12 @@ tags:
 |Exp|22|
 ##Bewaffnung
 Bronzehammer, Stahlhammer
-Bronze Schlagringe 
+Bronze Schlagringe, Langschleuder 
 
 ##Artefakte
 Schmerzdämpferpiercing
 Wutjadestern
-Langschleuder
+
 Amulet Blau (Geschwisterloot)
 Ring Blau (Geschwisterloot)
 Götterfunke
