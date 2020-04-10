@@ -170,18 +170,18 @@ Schwäche:
 ###Zauber
 |Zauber|Name|
 |-|-|
-|Leben|Entzündung stoppen|
-|Leben|Leben erhalten|
-|Leben|Leben Kanalisieren|
-|Leben|Herz stoppen|
-|Leben|Leben Schützen|
+|[Leben](lifemagic)|Entzündung stoppen|
+|[Leben](lifemagic)|Leben erhalten|
+|[Leben](lifemagic)|Leben Kanalisieren|
+|[Leben](lifemagic)|Herz stoppen|
+|[Leben](lifemagic)|Leben Schützen|
 |-|-|
-|Feuer|Gleißende Berührung|
-|Feuer|Schutz vor Feuer|
+|[Feuer](firemagic)|Gleißende Berührung|
+|[Feuer](firemagic)|Schutz vor Feuer|
 |-|-|
-|Illusion|Unsichtbarkeit|
-|Illusion|Schmerz|
-|Illusion|Schmerzdämpfung|
+|[Illusion](illusionmagic)|Unsichtbarkeit|
+|[Illusion](illusionmagic)|Schmerz|
+|[Illusion](illusionmagic)|Schmerzdämpfung|
 
 ###Vorteile  
 |Vorteil|Name|
