@@ -103,7 +103,7 @@ tags: Character Swordlad
 | Feudalsimus| _1 |
 | Mathe | _1 |
 | Logistic | _1 |
-| beruf(Law) | 1 |
+| beruf(Law) | 2 |
 | Wissen (Prekor Important people| 2 |
 
 ###Vorteile
