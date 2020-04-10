@@ -175,10 +175,8 @@ Schwäche:
 |[Leben](lifemagic)|Leben Kanalisieren|
 |[Leben](lifemagic)|Herz stoppen|
 |[Leben](lifemagic)|Leben Schützen|
-|-|-|
 |[Feuer](firemagic)|Gleißende Berührung|
 |[Feuer](firemagic)|Schutz vor Feuer|
-|-|-|
 |[Illusion](illusionmagic)|Unsichtbarkeit|
 |[Illusion](illusionmagic)|Schmerz|
 |[Illusion](illusionmagic)|Schmerzdämpfung|
@@ -220,6 +218,11 @@ Schwäche:
 |||
 
 #Inventar  
+##Zauber
+###Leben
+###Feuer
+###Illusion
+[[specific:illusionmagic:unsichtbarkeit]]
 ##Waffen
 Stahldolch(L10)  
 [[[weapon:Dolch:L10HSCB]]]
