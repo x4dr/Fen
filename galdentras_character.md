@@ -227,8 +227,8 @@ Schlagring
 [[[weapon:Schlagring]]]
 
 
-WUnden:
-3 (Seelenentzug ), 4 (Hackschaden SCHW 6), 3 (Speer SCHW 6), 2(Speer SCHW 6), 2(Speer SCHW 6), 2 (Speer SCHW 6), 1 (SCHW 6)
+Wunden:
+
 
 Etikette 0->1
 Ispiration 1
