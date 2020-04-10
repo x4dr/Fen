@@ -34,6 +34,7 @@ tags: Character Swordlad
 | Waffe(Langbogen) | 3 |
 | Waffe(Dolch) | 2 |
 | Waffe(Unarmed) | 2 |
+| Waffe Speer| 1 |
 
 ###Vorteile
 |Vorteil| |
