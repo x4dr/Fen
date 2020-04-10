@@ -9,7 +9,7 @@ Argyrisch: 50 / 6 Haushalte
 Aurisch: 30 / 6 Haushalte
 ##Steuern
 ### Personengrundsteuern
-2700*10s = 270 Gold/Jahr
+2800*10s = 280 Gold/Jahr
 ### Traderelations:
 ####Ras
 * 500 Gold Influx im Jahr, 
@@ -18,6 +18,7 @@ Aurisch: 30 / 6 Haushalte
 
 ####Vernal: 
 * Möglichkeit 50 Gold/Monat in Serisemgegenstände umzusetzen
+
 
 ### Gewerbesteuern
 Zur Zeit Keine
