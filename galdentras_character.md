@@ -17,13 +17,14 @@ tags:
 ##Bewaffnung
 Bronzehammer, Stahlhammer
 Bronze Schlagringe 
+
+###Artefakte
 SChmerzdämpferpiercing
 Wutjadestern
 Langschleuder
 Amulet Blau (Geschwisterloot)
-ARing Blau (Geschwisterloot)
-1 Bronzedolch
-1 Bronzewurfmesser
+Ring Blau (Geschwisterloot)
+Götterfunke
 ##Rüstung
 Gambeson 2/6
 Kettenhemd Bronze 4/8
