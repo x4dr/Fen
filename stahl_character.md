@@ -40,7 +40,7 @@ tags: Character Swordlad
 |Attribut|Level|
 |-|-|
 | Geschick | 4 |
-| Einblick | 3 |
+| Einblick | 2 |
 | Kompetenz | 3 |
 
 ###Fähigkeiten
@@ -97,9 +97,9 @@ tags: Character Swordlad
 ###Attribute
 |Attribut|Level|
 |-|-|
-| Eindruck | 4 |
-| Durchsetzungsvermögen | 4 |
-| Sympathie | 3 |
+| Eindruck | 3 |
+| Durchsetzungsvermögen | 3 |
+| Sympathie | 4 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -122,7 +122,7 @@ tags: Character Swordlad
 |Attribut|Level|
 |-|-|
 | Glück | 2 |
-| Mut | 2 |
+| Mut | 3 |
 | Gunst | 2 |
 
 ###Fähigkeiten
