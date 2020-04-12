@@ -309,7 +309,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Säure				|100	|0,01 kg	|1,00 kg||
 |Große Karte (wenig Details)	|1	|0,10 kg	|0,10 kg||	
 |Pinke Kistallfackel		|1	|0,20 kg 	|0,20 kg||
-|Knöchel			|13	|0,01 kg	|0,15 kg|0K	|
+|Knöchel			|43	|0,01 kg	|0,43 kg|0K	|
 |Gambeson (11/(((15R)old)),7S)	|1	|5,00 kg	|5,00 kg|	|
 |Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10kg|	10kg||
 |Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)||||
