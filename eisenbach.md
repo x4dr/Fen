@@ -69,9 +69,11 @@ Zur Zeit Keine
 6 Hirten
 3 Fischer
 8 Kleinbauern
+2 Imker
+1 Kerzenmacher
 25 Steinhauer 
 2 Erzverhütter
-44 Jäger/Waldleute
+41 Jäger/Waldleute
 72 Holzfäller
 14 Köhler
 
