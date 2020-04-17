@@ -2,6 +2,8 @@ title: Kavallerie
 tags:   
 #Kavallerie
 Umfasst in diesem Sinne Berittene und ähnliche schwere, schnelle Kämpfer.
+**NACHTEIL VON ALLGEMEIN BERITTENEM KAMPF:**
+Kurze Waffen/Einhandwaffen bekommen 2 Maluswürfel
 ##Fähigkeiten
 Reiten - oder mechanisch Equivalente Fähigkeit (für Atterkan, Aurier und Argyrier, wenn sie eine entsprechende Größe erreicht haben reicht Sprinten)
 ##Vorteile/Schule
