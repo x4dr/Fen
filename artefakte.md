@@ -128,8 +128,8 @@ Manifestiert Rauch
 * keine energie kann wieder herausgeholt werden  
 * alle 100m Bewegung/6h: -1 Ladung  
 * kann wenn voll dazu benutzt werden etwas was weniger als einen tag tot ist auf 1 HP wiederherzustellen, kostet 500 ladung und dauert einen monat.   
-* ?  
-* ?  
+* verliert nach der benutzung die hälfte des Maximum  
+* hat einen Link zu einer Quelle, Maximum kann wieder hergestellt werden, wenn die bake zur quelle gebracht wird  
 
 ### Nebelquarz
 (13)16  
