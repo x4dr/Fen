@@ -134,7 +134,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ### Quellen  
 |Quellen|Level|  
 |:---|----:|  
-|Wassermagie|2|  
+|Elixier des Lichts|2|  
 |Magischer Fluss|4|  
   
 ### Konzepte  
