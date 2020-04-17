@@ -57,7 +57,7 @@ Manifestiert Rauch
 
 ###staff of doing stuff (Talus)
 (12)14  
-*+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung 20/25
+*+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung 14/25
 
 ##dinas godol loot:  
 ###Reich verziertes kronenähnliches Ding
