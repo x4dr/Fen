@@ -81,7 +81,7 @@ Folgende tabelle ist obsolet aber als referenz teilweise noch nützlich
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 1 | 2 | 2 | 3 | 4 | 5 | 6 | 7 | 7 | 8 |    
-| [Stechen](damage#p-stechen)      |1;1|1;2|2;2|2;3|2;4|3;4|3;5|4;5|4;6|7;6|
+| [Stechen](damage#p-stechen)      | 1 |1;1|2;2|2;2|2;3|3;3|3;4|5;4|6;4|7;6|
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 1 | 2 | 2 | 3 | 4 | 5 | 6 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 5 |  
 
@@ -89,7 +89,7 @@ Folgende tabelle ist obsolet aber als referenz teilweise noch nützlich
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10|   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 | 5 | 6 |   
-| [Stechen](damage#p-stechen)      |1;0|1;1|2;1|3;1|3;2|3;3|4;3|5;4|6;4|8;4|  
+| [Stechen](damage#p-stechen)      |1;0|1;1|2;1|3;1|3;2|3;3|4;3|4;4|4;4|8;4|  
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 5 |  
 
