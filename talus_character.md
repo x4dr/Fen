@@ -20,6 +20,9 @@ Talus: 60kg Federstahl
 60 kg
 ## Masse:
 ~1t  
+## Tragkraft:  
+Kampf: 120kg  
+Reisen: 225kg  
 ## Geld:  
 0
 ## Hauptwaffe:  
