@@ -15,11 +15,11 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 (Technik) bis zu 5 meter Bewegung am Anfang der Kampfphase, nach dem Würfeln, keine freien Angriffe für die extra Bewegung, Angriff erfolgt zur normalen Initiative
 
 ### Aggressiver Ausfall
-(Technik) wie Ausfall, erhöht Offensivwert um 2, Bewegung Stattdessen 10m und senkt Defensive um 3.  
+(Technik) wie Ausfall, erhöht Offensive um 2, Bewegung Stattdessen 10m und senkt Defensive um 3.  
 
 #### Ablenkungsschlag
 
-(Technik)Kein Schaden wird verursacht, gegnerische Offensive wird um die Hälfte der eigenen Offensive gesenkt.   
+(Technik)Kein Angriff, Offensive des Ziels wird um die Hälfte der eigenen Offensive gesenkt.   
 
 ## Fechtstellung
 
@@ -31,11 +31,11 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 
 ### Finte
 
-(reflexiv) Senkt Grundergebnis um 1, ändere Technik oder Ziel.   
+(reflexiv) Senke Grundergebnis um 1, ändere Technik oder Ziel.   
 
 #### Serie
 
-(passiv)Die Länge der Aktuellen Serie von aufeinanderfolgenden Angriffen (maximum Waffenlevel) auf das Selbe Ziel wird als Schadensbonus angewendet.  
+(passiv)Die Länge der aktuellen Serie von aufeinanderfolgenden Angriffen (bis zum Maximum von Waffenlevel) auf das selbe Ziel wird als Schadensbonus angewendet.  
 
 ## Parieren
 
@@ -43,7 +43,7 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 
 ### Riposte
 
-(passiv) Wenn der erste Angreifer einer Runde 0 oder weniger Vorteil hat, kann dieser mit einem Gelegenheitsangriff angegriffen werden. 
+(passiv) Wenn der erste Angreifer auf den Anwender einer Runde 0 oder weniger Vorteil hat, kann dieser mit einem Gelegenheitsangriff angegriffen werden. 
 
 #### Geduld
 
@@ -51,7 +51,7 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
   
 ##### Perfekte Riposte
 
-Wie Riposte, Kampfvorteil ist mindestens 1.  
+Wie Riposte, Kampfvorteil wird optional zu 1.
 
 ### Spontanes Parieren
 
@@ -67,7 +67,7 @@ Wie Riposte, Kampfvorteil ist mindestens 1.
 
 ## Tödlicher Stich
 
-(passiv) Die Hälfte von Überzähliger Rüstungsdurchdringung wird als Schaden angewandt (STC)
+(passiv) Wenn die Resonanzgesamtsumme größer 8 ist, wird die  Hälfte von Überzähliger Rüstungsdurchdringung als Schaden angewandt.
 
 ### Schwirrende Klinge 
 
@@ -79,14 +79,15 @@ Wie Riposte, Kampfvorteil ist mindestens 1.
 
 ##### Lösen
 
-(reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Anwender anzugreifen. Nächste Runde Offensive +3, Defensive -4
+(reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Anwender anzugreifen. Nächste Runde Offensive +2, Defensive -4. In der nächsten freien Phase erhält das Ziel keine Gelegenheitsangriffe auf den Anwender.
 
 #Säbeltraining
 
 (passiv) der Säbel kann als sofortige, kostenlose Aktion während der freien Phase gezogen werden, 2 Maluswürfel durch Situation (Klettern, Regen, Reitend) werden ignoriert. Ein Säbel der exakt 0 effektiven Schaden verursacht, richtet eine 0 Punkte Wunde an. (Die, so sie sich nicht entzündet, automatisch beim nächsten Heilungswurf verschwindet, aber zB als blutend zählen kann.) 
-## kritischer Schnitt
 
-(passiv) Für alle 8 in der Gesamtsumme der Resonanzen kann gewählt werden den Schaden um 1 zu senken um 2 Rüstungsdurchdringung zu erhalten. Der Schaden sinkt nie unter 0.
+## Kritischer Schnitt
+
+(passiv) Für jedes vielfache von 8, das in der Gesamtsumme der Resonanzen enthalten ist, kann gewählt werden den Schaden um 1 zu senken um 2 Rüstungsdurchdringung zu erhalten. Der Schaden sinkt nie unter 0.
 
 ### Passieren
 
@@ -98,5 +99,5 @@ Wie Riposte, Kampfvorteil ist mindestens 1.
 
 ##### Säbelwirbel
 
-(Technik) Greift alle Ziele in Reichweite an
+(Technik) Greift **alle** Ziele in Reichweite an
 
