@@ -73,7 +73,7 @@ Wie Riposte, Kampfvorteil ist mindestens 1.
 
 (reflexiv) senkt defensive um 1 und verhindert alle weiteren reflexiven Aktivierungen in dieser Konfrontation
 
-#### Herzsucher (4, E, 3E | 3H, 2)  
+#### Herzsucher
 
 (Technik) erhöht Initiative und Offensive um 2, senkt Defensive um 4, senkt gegnerische Offensive um Angerichteten Schaden
 
@@ -81,10 +81,10 @@ Wie Riposte, Kampfvorteil ist mindestens 1.
 
 (reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Anwender anzugreifen. Nächste Runde Offensive +3, Defensive -4
 
-#Säbeltraining (1, F, Säbel 1, 1)
+#Säbeltraining
 
 (passiv) der Säbel kann als sofortige, kostenlose Aktion während der freien Phase gezogen werden, 2 Maluswürfel durch Situation (Klettern, Regen, Reitend) werden ignoriert. Ein Säbel der exakt 0 effektiven Schaden verursacht, richtet eine 0 Punkte Wunde an. (Die, so sie sich nicht entzündet, automatisch beim nächsten Heilungswurf verschwindet, aber zB als blutend zählen kann.) 
-## kritischer Schnitt (2, F, 1F, 1) 
+## kritischer Schnitt
 
 (passiv) Für alle 8 in der Gesamtsumme der Resonanzen kann gewählt werden den Schaden um 1 zu senken um 2 Rüstungsdurchdringung zu erhalten. Der Schaden sinkt nie unter 0.
 
