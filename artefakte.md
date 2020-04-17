@@ -88,7 +88,7 @@ Manifestiert Rauch
 
 ### Flutkyanit (Talus)
 (13)11  
-* 1/150/150
+* 0/150/150
 * minimum output 10  
 
 ### edelstein 9
