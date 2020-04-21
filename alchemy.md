@@ -60,8 +60,8 @@ Alchemisch gereinigter Kalkspat leuchtet auf, wenn er in die Richtung einer Lich
 * 28% weniger Kapazität
 
 ###Sonnenkristall
-* Brennen von Feuer selbst mit heißerem Feuer, in wesentlich hellerem Licht als Tageslicht und Hitzeresistentem Blut.
-* sammelt Sonnenlicht (12&times;Oberfläche in m² / Stunde)
+* Brennen von Feuer selbst mit heißerem Feuer, in wesentlich hellerem Tageslicht als normales Tageslicht und unter Verwendung von hitzeresistentem Blut.
+* sammelt Sonnenlicht (12&times;Oberfläche in m² / Stunde, bei mindestens 10 cm Dicke)
 * leuchtet mit Sonnenlicht und wärmt wie Sonnenlicht 
 * verliert 10% der aktuellen Ladung innerhalb von 8 Stunden ohne Sonnenlicht
 * 12% Bonuskapazität
