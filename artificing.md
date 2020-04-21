@@ -1,3 +1,240 @@
-title: Herstellung von Gegenständen.  
+title: Herstellung von Gegenständen  
 tags:   
-[TOC]#Herstellung##Schritt eins: Materialien Spezifisch nach dem Projekt müssen die entsprechenden Materialien herangeschafft werdenBeispiele:* Kurzschwert: 0.8 kg Metall, 0.1 kg Griffmaterial (Holz/Knochen/usw)* Langschwert: 1.2 kg Metall, 0.1 kg Griffmaterial * großer Rundschild: 2 kg Bretter, 0.5 kg Metallusw (liste sollte in eigenem artikel fortgesetzt werden)##Schritt zwei: FähigkeitenDer Werkstoff  bestimmt die Fähigkeit die genutzt wird (Holz/Metall/Textil/Konstruktion). Wenn es eine Komplexe tätigkeit ist, wird die entsprechende Handwerkstätigkeit genutzt. Wenn es mehrere große Anteile gibt, werden diese in unterschiedliche Unteraufgaben aufgeteilt.Je nach Komplexität und Schwierigkeit des Projektes sind unterschiedliche Level an vorteilen notwendig/empfehlenswert.##Schritt drei: WerkzeugProjektanforderungen unterscheiden sich je nach Projekt.Kleine, tragbare Sets bieten normalerweise nur recht kleine Mengen an Werkzeugen und Boni, während eine permanente, gut ausgestatte Werkstatt wesentlich mehr bietet.Je nach vorhandenem Werkzeug passt der Spielleiter die Parameter an.Wenn die Verarbeitung einfach genug ist kann auch eine Schnellverarbeitung angesagt werden, bei der es nur einen Wurf gibt, wenn die entsprechenden Vorraussetzungen erfüllt und die Vorteile vorhanden sind.| Level | Größe | Qualität |  | --- | --- | --- |  | 0 | Keine, Handarbeit oder das Werkstück selbst | Herumliegende Gegenstände |  | 1 | Klein, passt in eine Tasche | Improvisiert/Stümperhaft |  | 2 | Moderat, Kann man alleine Tragen | Kompetent |  | 3 | Groß, erfordert aufwand zum auf und ab bauen | Vollständig, Meisterarbeit |  | 4 | Kleine Werkstatt, benötigt einen Raum | Seltene oder Ungewöhnliche Ausrüstung, Perfekte grundlagen |  | 5 | Große Werkstatt, benötigt ein Gebäude | legendäres Werkzeug oder vergleichbar |  Qualität nimmt bei 1er Resonanz von 2 oder mehr um 1 ab, Resonanz von 1 erfordert Instandhaltung.Größe nimmt nicht ab, aber eventuell muss Ausstattung repariert werden### Projektparameter##### AufwandIst die Gesamtzahl die erreicht werden muss.##### KomplexitätIst die Anzahl der Maluswürfel auf den Wurf. Negiert durch entsprechendes Werkzeug und Vorteile.##### AnforderungenWerkzeug/Werkstätten Anforderungen##### MöglichkeitenFür welche dinge es Bonuswürfel geben kann##### Intervallalle wieviel Arbeitsstunden ein Wurf gewürfelt wird.##### Widrigkeitwird zwischen zwei Intervallen vom Projektfortschritt abgezogen##### EffekteEntweder feste, gewählte oder ausgewürfelte effekte für jedes Intervall## Schritt Vier: Verarbeitung### SchnellverarbeitungBei Schnellverarbeitung wird der entsprechende Wurf einmal gewürfelt.Bei Serienschnellverarbeitung werden drei würfe gemacht und der gerundete durchschnitt bezieht sich auf einen Tag bis eine Woche Arbeitszeit. Im austausch für jeweils  die eigentlichen Kosten an Materialien und Zeit von 2 Würfen (die Materialien sind dann Schrott und können Zurückgewonnen werden) kann auch weiter gewürfelt werden bis die entsprechende Qualität erreicht ist (die Ursprünglich angesetzte Arbeit ist ab dem ersten Wurf nicht mehr zu stoppen). Es gelten immer die letzten 3 Würfe.[Vorteilsidee: nfache produktion für senkung des scores um 3n]  | ergebnis | qualität | effizienz Rückgewinnung|   |---:|---:|---:|  |2-5|Schrott|0%|  |6-8|Niedrige Qualität|45%|  |9-11|Akzeptable Qualität|55%|  |12-14|Gute Qualität|70%|  |15-17|Hohe Qualtiät|85%|    |18-19|Meisterarbeit|95%|  |20|Perfektion|100%|  ### ProjektverarbeitungEinmal pro abgeschlossenes Interval wird der entsprechende Wurf des Projektes gewürfelt und das Ergebnis wird auf den erreichten Fortschritt addiert.  Wenn der benötigte Aufwand erreicht wurde, kann der Charakter sich entscheiden das Projekt zu beenden oder das Level zu erhöhen, wenn das Projekt das vorsieht.  Effekte des Levelerhöhens sind Projektspezifisch.Wenn der Fortschritt zu irgend einem Zeitpunkt unter 0 ist, scheitert das Projekt und die Materialien sind Schrott.1er Resonanz|Amplitude|Effekt||-|-||1|Werkzeug verliert 1 Zustandslevel, Fortschritt halbiert||2|Werkzeug verliert 3 Zustandslevel, Fortschritt = 0||3|Werkzeug zerstört, Werkstück vernichtet||4|Werkstatt verliert 1 Level, dann wie 3|10er Resonanz|Amplitude|Effekt||-|-||1|Fortschritt + 1||2|Fortschritt + 33% ||3|Direktes Qualitätslevel, Widrigkeit Reset||4|Entweder Legendärer Gegenstand oder |||Permanent Option auf 15 (vor dem Würfeln) bei der Schnellherstellung|Schrottrückgewinnung ist je nach material ein eigenes ProjektMengen sind immer  beliebig, solange genügend Parallelisiert werden kann und normalerweise Kompetenz-Metallverarbeitung.Bronze: Komplexität 3(Metallgewinnung) es wird immer 100% Zurückgewonnen, Wurf ist für Resonanz relevant.  Holz: Komplexität 6 Geist, holzverarbeitung,Geschick endergebnis +-2 je nach holz und schrottquelle )###Beispiel Stahl und EisenStahl und Eisen geben den selben Schrott, Analog zu 100% Erz.Schrott -> Luppe: Komplexität 5 (Metallgewinnung) Größe 3, Qualität 3, BonusMaterial 1:1 Kohle, Dauer 6h.Vorteil Metallgewinnung:Großrennofen:Bei 50 kg 1 Bonuswürfel.Verlust ist 90% wertloses, nicht schmiedbares Gusseisen.Luppe -> Eisen: Komplexität 1(Metallgewinnung), Größe 1, Qualität 1, Kraft-Metallverarbeitung, Dauer 3h pro kgVerlust 0, Qualität beschränkt weiteres arbeiten.Eisen -> Stahl: Komplexität 3(Stahlmetallurgie), Größe 4, Qualität 3, Kompetenz-Metallverarbeitung. Dauer 3h pro kg. Verlust 0, Qualität beschränkt weiteres arbeiten[Vorteilsidee: ergebnis +1 bei rückgewinnung von [MATERIAL](max 3 stufen)]  #####Beispiel: Magischer Gürtel  Materialien: Lederstreifen, Metall: 100g, Magischer Stein  Materialwahl Metall: Eisen  Materialwahl Magischer Stein: Dämpfungsverzaubertes Juwel    Fähigkeiten:  Lederstreifen zu gürtel: TextilverarbeitungEisen zu Gürtelschnalle: MetallverarbeitungEinpassen und effektübertragen des steins: MagiehandwerkGewünschter effekt: Effekt des Steins auf Träger (Vorteil)Gewünschte Aktivierung: Handlung (Vorteil)Werkzeug:Textilverarbeitung Satz Lederwerkzeuge (Ledermesser (E), Ahle(E), Lederverzierungswerkzeuge(X)), Fein +1Dorfschmiede, einfach (Amboss (E), Großer Werkzeugsatz(E+2), Mittlerer Blasebalg(ES), feine Kohle W-1)Satz Magiehandwerkszeug  (Kraftflusskondensator, Ladungsprisma, Aufnahmedämpfer, Resonanzgabel, Übersprunganreizer, Satz Fokuslinsen) Lederteil Aufwand: 10Komplexität: 4Interval: 1hWiedrigkeit: 2Effekte: Wahlweise: Kosten: 10 Fortschritt(max fortschritt danach:10): Aufwand +5 Widrigkeit +1 für eine stufe mehr Verzierungen Fingerfertigkeit, Textilverarbeitung: 4,2  Würfe:  |  |  |  |  |  |   |  |---|---|---|---|---|---|  |3 5 7 7| => 12/10| -2 |= 10/10 |=> Verzierungen| => 0/15|  |1 6 6 7| => 0+13/15| -3 |= 10/15 |=> Verzierungen| => 0/20|  |3 4 8 9| => 0+13/20| -4 |||=> 9/20|   |2 3 3 8| => 11+13/20| -4 |= 20/20| => Verzierungen| => 10/25|  |2 4 9 10| => 10+14/20| -5 |||=> 19/25 |  |2 5 5 5| => 19+10/20| -5 ||| => 24/25|  |2 5 8 10| => 24+15/20| -5 |= 34/25| Abschluss | Fertig|  # Verbreitete Magische Gegenstände* Wärmer: Kiste die den Inhalt mit Magie erwärmt (Zieltemperatur ist fest)   * Kühler: Kiste die den Inhalt mit Magie abkühlt (Zieltemperatur ist fest)  * Regenschutzmantel: Mantel der Flüssigkeiten mindestens 1 cm von sich hält  * Multibuch: (selten) Buch mit Mechanismus der den Inhalt zwischen einigen festen Einstellungen ändert.  * Feuerding: Entzündet ein Feuer.  * Musikbox: spielt magisch auf Perlen aufgenommene Lieder  * Kaltkerze: Kerze die sehr langsam, und nur unangenehm warm aber dafür Tagelang brennt.  * Zeiglicht: Geschliffener Kristall mit einem Saphir an einem ende. Aktivierung sorgt dafür, dass ein dünner Lichtstrahl bis zu 2 km sichtbar einen kleinen Punkt macht.  # Vorteilekram?
+[TOC]
+
+#Herstellung
+##Schritt eins: Materialien 
+
+Spezifisch nach dem Projekt müssen die entsprechenden Materialien herangeschafft werden
+
+Beispiele:
+
+* Kurzschwert: 0.8 kg Metall, 0.1 kg Griffmaterial (Holz/Knochen/usw)
+* Langschwert: 1.2 kg Metall, 0.1 kg Griffmaterial 
+* großer Rundschild: 2 kg Bretter, 0.5 kg Metall
+
+usw (liste sollte in eigenem artikel fortgesetzt werden)
+
+##Schritt zwei: Fähigkeiten
+
+
+Der Werkstoff  bestimmt die Fähigkeit die genutzt wird (Holz/Metall/Textil/Konstruktion). Wenn es eine Komplexe tätigkeit ist, wird die entsprechende Handwerkstätigkeit genutzt. 
+Wenn es mehrere große Anteile gibt, werden diese in unterschiedliche Unteraufgaben aufgeteilt.
+
+Je nach Komplexität und Schwierigkeit des Projektes sind unterschiedliche Level an vorteilen notwendig/empfehlenswert.
+
+
+##Schritt drei: Werkzeug
+
+Projektanforderungen unterscheiden sich je nach Projekt.
+Kleine, tragbare Sets bieten normalerweise nur recht kleine Mengen an Werkzeugen und Boni, während eine permanente, gut ausgestatte Werkstatt wesentlich mehr bietet.
+
+Je nach vorhandenem Werkzeug passt der Spielleiter die Parameter an.
+
+Wenn die Verarbeitung einfach genug ist kann auch eine Schnellverarbeitung angesagt werden, bei der es nur einen Wurf gibt, wenn die entsprechenden Vorraussetzungen erfüllt und die Vorteile vorhanden sind.
+
+
+
+| Level | Größe | Qualität |  
+| --- | --- | --- |  
+| 0 | Keine, Handarbeit oder das Werkstück selbst | Herumliegende Gegenstände |  
+| 1 | Klein, passt in eine Tasche | Improvisiert/Stümperhaft |  
+| 2 | Moderat, Kann man alleine Tragen | Kompetent |  
+| 3 | Groß, erfordert aufwand zum auf und ab bauen | Vollständig, Meisterarbeit |  
+| 4 | Kleine Werkstatt, benötigt einen Raum | Seltene oder Ungewöhnliche Ausrüstung, Perfekte grundlagen |  
+| 5 | Große Werkstatt, benötigt ein Gebäude | legendäres Werkzeug oder vergleichbar |  
+
+
+
+Qualität nimmt bei 1er Resonanz von 2 oder mehr um 1 ab, Resonanz von 1 erfordert Instandhaltung.
+
+Größe nimmt nicht ab, aber eventuell muss Ausstattung repariert werden
+
+### Projektparameter
+
+##### Aufwand
+
+Ist die Gesamtzahl die erreicht werden muss.
+
+##### Komplexität
+
+Ist die Anzahl der Maluswürfel auf den Wurf. Negiert durch entsprechendes Werkzeug und Vorteile.
+
+##### Anforderungen
+
+Werkzeug/Werkstätten Anforderungen
+
+##### Möglichkeiten
+
+Für welche dinge es Bonuswürfel geben kann
+
+##### Intervall
+
+alle wieviel Arbeitsstunden ein Wurf gewürfelt wird.
+
+##### Widrigkeit
+
+wird zwischen zwei Intervallen vom Projektfortschritt abgezogen
+
+##### Effekte
+
+Entweder feste, gewählte oder ausgewürfelte effekte für jedes Intervall
+
+
+
+## Schritt Vier: Verarbeitung
+
+### Schnellverarbeitung
+
+Bei Schnellverarbeitung wird der entsprechende Wurf einmal gewürfelt.
+| ergebnis | qualität | effizienz Rückgewinnung|   
+|---:|---:|---:|  
+|1 | Katastrophe |
+|2-4|Schrott|0%|  
+|5-7|Niedrige Qualität|33%|  
+|8-10|Akzeptable Qualität|50%|  
+|11-13|Gute Qualität|66%|  
+|14-16|Hohe Qualtiät|75%|    
+|17-19|Meisterarbeit|95%|  
+|20|Perfektion|100%|  
+
+####Serienverarbeitung
+
+Vorallem für Projekte die einfach sind oder der Charakter zuvor schon mehrfach unternommen hat, kann Serienverarbeitung angebracht sein. Serienverarbeitung funktioniert explizit nur mit kleinen Projekten.
+Bei Serienschnellverarbeitung werden drei Würfe gemacht und der gerundete Durchschnitt bezieht sich auf einen Tag bis eine Woche Arbeitszeit. Dies muss vor den Würfen festgelegt werden. 
+Im Austausch für jeweils die normalen Kosten an Materialien und doppelte Zeitkosten eines normalen Verarbeitungsschrittes, kann ein weiterer Wurf gemacht werden. Es gilt immer der Durchschnitt der letzten 3 Würfe.
+Die für die zusätzlichen Würfe aufgewendeten Materialien werden "geopfert" um einige Fehler die dem Verarbeiter aufgefallen sind auszugleichen und gehen verloren/werden zu Schrott. 
+
+##### Vorteil: Serienverarbeiter
+Kann ab Stufe 2 eines Handwerks erworben werden, mit einem Monat (4 Intervalle) Praxis in der Serienverarbeitung.
+Erlaubt, einen der 3 letzten Würfe bei der Serienverarbeitung zu ignorieren (Der Durchschnitt errechnet sich also aus den besten 3 der letzten 4 Würfe)
+
+
+
+### Projektverarbeitung
+
+Einmal pro abgeschlossenes Zeitnterval wird der entsprechende Wurf des Projektes gewürfelt und das Ergebnis wird auf den erreichten Fortschritt addiert.  
+
+Wenn der benötigte Aufwand erreicht wurde, kann der Charakter sich entscheiden das Projekt zu beenden oder das Level zu erhöhen, wenn das Projekt dies vorsieht.  
+
+Effekte des Levelerhöhens sind Projektspezifisch.
+
+Wenn der Fortschritt zu irgend einem Zeitpunkt unter 0 ist, scheitert das Projekt und die Materialien sind vergeudet oder Schrott.
+
+1er Resonanz
+
+|Amplitude|Effekt|
+|-|-|
+|1|Werkzeug verliert 1 Zustandslevel, Fortschritt halbiert|
+|2|Werkzeug verliert 3 Zustandslevel, Fortschritt = 0|
+|3|Werkzeug zerstört, Werkstück vernichtet|
+|4|Werkstatt verliert 1 Level, dann wie 3|
+
+10er Resonanz
+
+|Amplitude|Effekt|
+|-|-|
+|1|Fortschritt + 1|
+|2|Fortschritt + 33% des Maximums  |
+|3|Direktes Qualitätslevel, Widrigkeit Zurückgesetzt|
+|4|Entweder Legendärer Gegenstand oder |
+||Permanent Option auf 15 (vor dem Würfeln) bei der Schnellverarbeitung|
+
+
+
+
+Schrottrückgewinnung ist je nach material ein eigenes Projekt
+Mengen sind immer  beliebig, solange genügend Parallelisiert werden kann und normalerweise Kompetenz-Metallverarbeitung.
+
+Bronze: Komplexität 3(Metallgewinnung) es wird immer 100% Zurückgewonnen, Wurf ist für Resonanz relevant.  
+
+Holz: Komplexität 6 Geist, holzverarbeitung,Geschick endergebnis +-2 je nach holz und schrottquelle )
+
+###Beispiel Stahl und Eisen
+Stahl und Eisen geben den selben Schrott, Analog zu 100% Erz.
+Schrott -> Luppe: Komplexität 5 (Metallgewinnung) Größe 3, Qualität 3, BonusMaterial 1:1 Kohle, Dauer 6h.
+Vorteil Metallgewinnung:Großrennofen:
+Bei 50 kg 1 Bonuswürfel.
+Verlust ist 90% wertloses, nicht schmiedbares Gusseisen.
+Luppe -> Eisen: Komplexität 1(Metallgewinnung), Größe 1, Qualität 1, Kraft-Metallverarbeitung, Dauer 3h pro kg
+Verlust 0, Qualität beschränkt weiteres arbeiten.
+
+Eisen -> Stahl: Komplexität 3(Stahlmetallurgie), Größe 4, Qualität 3, Kompetenz-Metallverarbeitung. Dauer 3h pro kg. 
+Verlust 0, Qualität beschränkt weiteres arbeiten
+
+[Vorteilsidee: ergebnis +1 bei rückgewinnung von [MATERIAL](max 3 stufen)]
+
+  
+
+#####Beispiel: Magischer Gürtel  
+
+Materialien: Lederstreifen, Metall: 100g, Magischer Stein  
+
+Materialwahl Metall: Eisen  
+
+Materialwahl Magischer Stein: Dämpfungsverzaubertes Juwel  
+
+  
+
+Fähigkeiten:  
+
+Lederstreifen zu gürtel: Textilverarbeitung
+
+Eisen zu Gürtelschnalle: Metallverarbeitung
+
+Einpassen und effektübertragen des steins: Magiehandwerk
+
+Gewünschter effekt: Effekt des Steins auf Träger (Vorteil)
+
+Gewünschte Aktivierung: Handlung (Vorteil)
+
+
+
+Werkzeug:
+
+Textilverarbeitung Satz Lederwerkzeuge (Ledermesser (E), Ahle(E), Lederverzierungswerkzeuge(X)), Fein +1
+
+Dorfschmiede, einfach (Amboss (E), Großer Werkzeugsatz(E+2), Mittlerer Blasebalg(ES), feine Kohle W-1)
+
+Satz Magiehandwerkszeug  (Kraftflusskondensator, Ladungsprisma, Aufnahmedämpfer, Resonanzgabel, Übersprunganreizer, Satz Fokuslinsen) 
+
+
+
+Lederteil Aufwand: 10
+
+Komplexität: 4
+
+Interval: 1h
+
+Wiedrigkeit: 2
+
+Effekte: Wahlweise: Kosten: 10 Fortschritt(max fortschritt danach:10): Aufwand +5 Widrigkeit +1 für eine stufe mehr Verzierungen 
+
+Fingerfertigkeit, Textilverarbeitung: 4,2  
+
+Würfe:  
+
+|  |  |  |  |  |   |  
+|---|---|---|---|---|---|  
+|3 5 7 7| => 12/10| -2 |= 10/10 |=> Verzierungen| => 0/15|  
+|1 6 6 7| => 0+13/15| -3 |= 10/15 |=> Verzierungen| => 0/20|  
+|3 4 8 9| => 0+13/20| -4 |||=> 9/20|   
+|2 3 3 8| => 11+13/20| -4 |= 20/20| => Verzierungen| => 10/25|  
+|2 4 9 10| => 10+14/20| -5 |||=> 19/25 |  
+|2 5 5 5| => 19+10/20| -5 ||| => 24/25|  
+|2 5 8 10| => 24+15/20| -5 |= 34/25| Abschluss | Fertig|  
+
+
+# Verbreitete Magische Gegenstände
+
+* Wärmer: Kiste die den Inhalt mit Magie erwärmt (Zieltemperatur ist fest)   
+* Kühler: Kiste die den Inhalt mit Magie abkühlt (Zieltemperatur ist fest)  
+* Regenschutzmantel: Mantel der Flüssigkeiten mindestens 1 cm von sich hält  
+* Multibuch: (selten) Buch mit Mechanismus der den Inhalt zwischen einigen festen Einstellungen ändert.  
+* Feuerding: Entzündet ein Feuer.  
+* Musikbox: spielt magisch auf Perlen aufgenommene Lieder  
+* Kaltkerze: Kerze die sehr langsam, und nur unangenehm warm aber dafür Tagelang brennt.  
+* Zeiglicht: Geschliffener Kristall mit einem Saphir an einem ende. Aktivierung sorgt dafür, dass ein dünner Lichtstrahl bis zu 2 km sichtbar einen kleinen Punkt macht.  
+
+# Vorteile
+kram?
