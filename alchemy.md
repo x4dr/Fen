@@ -1,129 +1,105 @@
-title: Alchemy  
+title: Alchemie  
 tags: alchemy  
-#Alchemy
-hier geht es um mundane Alchemie
+#Alchemie
+hier geht es um "mundane" Alchemie
 
 ##Reinigung
-Materialien Reinigen ist ein Kompetenz-Alchemie Wurf gegen 12 und dauert eine Stunde.
-Es kann so viel gereinigt werden wie die lokale Werkstatt erlaubt. Bei Misserfolg ist das Material vergeudet
+Materialien Reinigen ist ein Kompetenz,Alchemie Wurf gegen 12 und dauert eine Stunde.
+Es kann so viel auf einmal gereinigt werden wie die lokale Werkstatt erlaubt. Bei 7 und weniger ist das Material vergeudet. 
+Es können auch Serienverarbeitung oder andere Verarbeitungsmethoden genutzt werden, siehe [Verarbeitungsregeln](artificing#schnellverarbeitung)
 
 
-## T12
-Philosophers Stone
+# Alchemische gegenstände
+## Sichtstein
+Alchemisch gereinigter Kalkspat leuchtet auf, wenn er in die Richtung einer Lichtquelle zeigt, solange irgend eine Form von des Lichtes auf ihn fällt. Benutzt vorallem zur Navigation.
 
-* ??? ... ??? ... ?!? profit.
 
-## T7
-Essence of Polymorphism - to be renamed
+# Materialien
+## einfache Rohmaterialien
 
-* made from equal parts of all T6 essences
+* Magnet
+  * selten, wird manchmal in Minen gefunden
+* Light, verschiedene
+  * schwer aufzubewahren
+  * am einfachsten direkt von der entsprechenden Lichtquelle
+* Federn
+* Luft
+  * Mischung zwischen Phlogiston und Luft
+* Wachs
+  * Fest oder Flüssig
+  * Gut Brennbar
+* Harz
+* Kalk
+* Kalkspat
+* Granit
+* Bims
+* Erde
+* Pyrit
+* Sand, verschiedene
+* Gerste, Malz, Hopfen
+* ...
 
-## T6
-Essence of Balance - Order
 
-* purify and crystalize even more stuff up the ladder
+## Komplexe Rohmaterialien
 
-Essence of Stability - Matter
+* Elektrum
+  * Legierung aus Gold und Silber
+  * Alchemisch Reines Elektrum nur aus alchemisch reinem Gold und Silber mit Wurf 13+
+* Alkohol
+  * Gereinigt mit Destillationsapparatur
+* Kreide
+* Quartzkristall
+  * Quarzsand brennen, auflösen und kristallisieren
 
-* refine BS-metal with stardust
 
-Essence of Speed - Energy
+## Alchemische Purform
 
-* conjunct Crystalized Moonlight+Crystalized Sunlight
+###Mondkristall
+* Durchsickerung von gereinigtem Eis, in massiver Kälte mit ungefrierbarem Blut.
+* sammelt Mondlicht solange es einen einzigen Mondstrahl pro Tag erhalten hat (1/Monat/30kg, kann Kristallgeometrisch Optimiert werden)
+* 1 Kapazität / 3 kg
 
-Essence of Change - eNtropy
+###Sonnenkristall
+* Brennen von Feuer selbst mit heißerem Feuer, in wesentlich hellerem Licht als Tageslicht und Hitzeresistentem Blut.
+* sammelt Sonnenlicht (Füllt sich mit 6 Stunden direktem Sonnenlicht komplett auf)
+* leuchtet mit Sonnenlicht und wärmt wie Sonnenlicht (verliert 25% Ladung pro 6 Stunden)
+* 1 Kapazität/ 2 kg
 
-## T5
-Floatstone
+###Serisem
+  * Silber, Quarz und das Horn eines jagenden Tieres, erhitzt jenseits der Temperatur von Feuer
+  * Unzerstörbar und nach dem Abkühlen unverformbar
+  * Schnelle Temperaturschwankungen oder extreme Temperaturen schwächen es
 
-* mix pumice with feathers under light from high altitude
-* alternatively, refine pieces broken from the sky
+###Ensalex 
+* Salzwasser in dem Kalk gelöst wird, erhitzt bis die Rückstände wieder flüssig werden und dann mit einem Blitz getroffen
+* Scharfkantig, hart und instabil
+* neigt dazu sich splitternd zu verteilen 
+* wasserlöslich und spektakulär sprudelnd und platzend
 
-Crystalized Sunlight
+###Strömungsmenge
+* reines Elektrum, reines Quecksilber und große Mengen reines Wasser, wiederrum gerreinigt bei Mittag bei Vollmond
+* schimmernde Flüssigkeit, die erstaunlich wenig wiegt für ihr Gewicht, Mischt sich mit nichts, formt Kugeln
+* Auf der Oberfläche sind stetig wandelnde Strömungen von Gold und Silber zu sehen, die für verschiedene Weissagungszwecke genutzt werden
 
-* calcify concentrated sunlight
+## Alchemisch Modifizierte
+###Schwebstein
+* Applikation einer mischung von Federn und Bims unter Höhenlicht verändert normalen Stein in einer Tagelangen Prozedur
+* alternativ raffiniere Stücke des Himmels
 
-Crystalized Moonlight
+### Kristallisiertes Sonnenlicht
+* kristallisiere einen gefangenen Sonnenstrahl
 
-* calcify concentrated moonlight
+### Kristallisiertes Mondlich
 
-Stardust
+* kristallisiere einen gefangenen Mondstrahl
 
-* mined from Meteorites
+### Sternenstaub
 
-## T4
-BS-metal
+* gemahlene nicht-eisen Stücke eines gefallenen Sterns
 
-* transmute Electrum, Quicksilver and pure Water
+## Mythen
+### Stein der Weisen
 
-Captured Sun/Moonlight
+* Rezept unbekannt, beliebtes Forschungsprojekt
 
-* hold sun/moonlight crystal in respective light 
 
-## T3
-
-Moonlight Crystal
-
-* infuse ice with frozen  blood of a very frostresistant northern creature
-
-Sunlight Crystal
-
-* calcinate very hot fire with copious amounts of fire and mix with blood of volcanic creature and crystalize
-
-## T2
-Electrum
-
-* alloy Gold and Silver
-
-Alcohol
-
-* ferment fermentable
-
-Chalk
-
-* purify limestone
-
-Quartzcrystal
-
-* melt sand with flux
-
-Recrystalized Rock
-
-* dissolve Granite
-
-## T1
-Magnet
-
-* mined in iron mines
-
-Light
-
-Feathers
-
-Air - separateble
-
-Beeswax - meltable, purifyable
-
-Resin - meltable
-
-(
-Limestone - purifyable
-
-Calcite - purifyable
-)
-
-Granite
-
-Pumice
-
-Topsoil - purifyable
-
-Pyrite - meltable, purifyable
-
-Sand - meltable, purifyable
-
-Barley - fermentable
-
-Malt
-
-Hops
