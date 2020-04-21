@@ -87,7 +87,8 @@ Entweder feste, gewählte oder ausgewürfelte effekte für jedes Intervall
 ### Schnellverarbeitung
 
 Bei Schnellverarbeitung wird der entsprechende Wurf einmal gewürfelt.
-| ergebnis | qualität | effizienz Rückgewinnung|   
+
+| Ergebnis | Qualität | zB Effizienz Rückgewinnung|   
 |---:|---:|---:|  
 |1 | Katastrophe |
 |2-4|Schrott|0%|  
@@ -100,7 +101,7 @@ Bei Schnellverarbeitung wird der entsprechende Wurf einmal gewürfelt.
 
 ####Serienverarbeitung
 
-Vorallem für Projekte die einfach sind oder der Charakter zuvor schon mehrfach unternommen hat, kann Serienverarbeitung angebracht sein. Serienverarbeitung funktioniert explizit nur mit kleinen Projekten.
+Vor allem für Projekte die einfach sind oder der Charakter zuvor schon mehrfach unternommen hat, kann Serienverarbeitung angebracht sein. Serienverarbeitung funktioniert explizit nur mit kleinen Projekten.
 Bei Serienschnellverarbeitung werden drei Würfe gemacht und der gerundete Durchschnitt bezieht sich auf einen Tag bis eine Woche Arbeitszeit. Dies muss vor den Würfen festgelegt werden. 
 Im Austausch für jeweils die normalen Kosten an Materialien und doppelte Zeitkosten eines normalen Verarbeitungsschrittes, kann ein weiterer Wurf gemacht werden. Es gilt immer der Durchschnitt der letzten 3 Würfe.
 Die für die zusätzlichen Würfe aufgewendeten Materialien werden "geopfert" um einige Fehler die dem Verarbeiter aufgefallen sind auszugleichen und gehen verloren/werden zu Schrott. 
@@ -178,13 +179,13 @@ Materialwahl Magischer Stein: Dämpfungsverzaubertes Juwel
 
 Fähigkeiten:  
 
-Lederstreifen zu gürtel: Textilverarbeitung
+Lederstreifen zu Gürtel: Textilverarbeitung
 
 Eisen zu Gürtelschnalle: Metallverarbeitung
 
-Einpassen und effektübertragen des steins: Magiehandwerk
+Einpassen und effekt übertragen des Steins: Magiehandwerk
 
-Gewünschter effekt: Effekt des Steins auf Träger (Vorteil)
+Gewünschter Effekt: Effekt des Steins auf Träger (Vorteil)
 
 Gewünschte Aktivierung: Handlung (Vorteil)
 
