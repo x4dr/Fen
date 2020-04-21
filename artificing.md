@@ -102,14 +102,13 @@ Bei Schnellverarbeitung wird der entsprechende Wurf einmal gewürfelt.
 ####Serienverarbeitung
 
 Vor allem für Projekte die einfach sind oder der Charakter zuvor schon mehrfach unternommen hat, kann Serienverarbeitung angebracht sein. Serienverarbeitung funktioniert explizit nur mit kleinen Projekten.
-Bei Serienschnellverarbeitung werden drei Würfe gemacht und der gerundete Durchschnitt bezieht sich auf einen Tag bis eine Woche Arbeitszeit. Dies muss vor den Würfen festgelegt werden. 
-Im Austausch für jeweils die normalen Kosten an Materialien und doppelte Zeitkosten eines normalen Verarbeitungsschrittes, kann ein weiterer Wurf gemacht werden. Es gilt immer der Durchschnitt der letzten 3 Würfe.
-Die für die zusätzlichen Würfe aufgewendeten Materialien werden "geopfert" um einige Fehler die dem Verarbeiter aufgefallen sind auszugleichen und gehen verloren/werden zu Schrott. 
+Bei Serienschnellverarbeitung wird eine Zeitspanne von einem Tag bis zu einer Woche und die entsprechenden Arbeitszeiten festgelegt, für die dann drei Würfe gemacht werden. Im Austausch für jeweils die normalen Kosten an Materialien und doppelte Zeitkosten eines normalen Verarbeitungsschrittes, kann ein weiterer Wurf gemacht werden. 
+Als Ergebnis gilt der Durchschnitt der letzten 3 Würfe.
+Die für die zusätzlichen Würfe aufgewendeten Materialien werden "geopfert" um einige Schritte die dem Verarbeiter als potentiell Fehlerhaft aufgefallen sind nachzuarbeiten und gehen verloren/werden zu Schrott. 
 
 ##### Vorteil: Serienverarbeiter
-Kann ab Stufe 2 eines Handwerks erworben werden, mit einem Monat (4 Intervalle) Praxis in der Serienverarbeitung.
-Erlaubt, einen der 3 letzten Würfe bei der Serienverarbeitung zu ignorieren (Der Durchschnitt errechnet sich also aus den besten 3 der letzten 4 Würfe)
-
+Dieser Vorteil kann ab Stufe 2 eines Handwerks für dieses Handwerk erworben werden, mit einem Monat (4 Maximaldauern) zusammenhängender Praxis in der Serienverarbeitung.
+Einer der 3 letzten Würfe bei der Serienverarbeitung darf ignoriert werden, der Durchschnitt errechnet sich also aus den besten 3 der letzten 4 Würfe.
 
 
 ### Projektverarbeitung
