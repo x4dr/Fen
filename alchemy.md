@@ -62,7 +62,7 @@ Alchemisch gereinigter Kalkspat leuchtet auf, wenn er in die Richtung einer Lich
 ###Sonnenkristall
 * Brennen von Feuer selbst mit heißerem Feuer, in wesentlich hellerem Licht als Tageslicht und Hitzeresistentem Blut.
 * sammelt Sonnenlicht (Füllt sich mit 6 Stunden direktem Sonnenlicht komplett auf)
-* leuchtet mit Sonnenlicht und wärmt wie Sonnenlicht (verliert 25% Ladung pro 6 Stunden)
+* leuchtet mit Sonnenlicht und wärmt wie Sonnenlicht (verliert 50% Ladung inherhalb von 6 Stunden)
 * 1 Kapazität/ 2 kg
 
 ###Serisem
