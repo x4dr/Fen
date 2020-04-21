@@ -1,6 +1,6 @@
 title: Gem Based Magic  
 tags: magic gems  
-This is a horrible stub!
+
  
 # Magical Gems
 ## Gem Properties
@@ -8,9 +8,10 @@ Gems have 3 Properties: Their Energy, Maximum and Quality
 
 Energy can only be between 0 and Maximum,
 Maximum can only be between 0 and Quality,
-Quality can only be lowered
+Quality can only be lowered.
 
-A gem that doesn't have its full potential realized typically has less maximum than quality.
+Energiedichte von Edelsteinen ist jeweils etwa 500 bis 2000 &times; Quadrat der kürzesten Distanz zweier gegenüberliegenden seiten in Metern ist.
+ 
 
 ## Magic Use
 
