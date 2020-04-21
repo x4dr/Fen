@@ -57,13 +57,14 @@ Alchemisch gereinigter Kalkspat leuchtet auf, wenn er in die Richtung einer Lich
 ###Mondkristall
 * Durchsickerung von gereinigtem Eis, in massiver Kälte mit ungefrierbarem Blut.
 * sammelt Mondlicht solange es einen einzigen Mondstrahl pro Tag erhalten hat (1/Monat/30kg, kann Kristallgeometrisch Optimiert werden)
-* 1 Kapazität / 3 kg
+* 28% weniger Kapazität
 
 ###Sonnenkristall
 * Brennen von Feuer selbst mit heißerem Feuer, in wesentlich hellerem Licht als Tageslicht und Hitzeresistentem Blut.
-* sammelt Sonnenlicht (Füllt sich mit 6 Stunden direktem Sonnenlicht komplett auf)
-* leuchtet mit Sonnenlicht und wärmt wie Sonnenlicht (verliert 50% Ladung inherhalb von 6 Stunden)
-* 1 Kapazität/ 2 kg
+* sammelt Sonnenlicht (12&times;Oberfläche in m² / Stunde)
+* leuchtet mit Sonnenlicht und wärmt wie Sonnenlicht 
+* verliert 10% der aktuellen Ladung innerhalb von 8 Stunden ohne Sonnenlicht
+* 12% Bonuskapazität
 
 ###Serisem
   * Silber, Quarz und das Horn eines jagenden Tieres, erhitzt jenseits der Temperatur von Feuer
