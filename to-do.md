@@ -2,6 +2,7 @@ title:
 tags:   
 [TOC]
 ##Boot notizens  
+###Autoladestation für artefakte
 ###Die 250 Blitzkristalle
 Cooler unterboden oder sonnenstein hell halten im sturm
 ###planken entchantment
@@ -9,9 +10,10 @@ Cooler unterboden oder sonnenstein hell halten im sturm
 ####Strumunsichtbarkeit
 Bantherssymbol in die esscene des schiffes einarbeiten+ crewtattoos
 ####gewichtskontrolle zur höhenmanipulation
+####Energieschnittstelle für Avis zu Energie reserven des Schiffes
 
 ##Avis Tatoos upgrade
-
+mehr kurzfristige Kapazität, verbesserte aufnahme von Ernergie direkt vom Schiff?
 
 ##Rückweg aus dem Norden
 ### Bauernbogenschützen umsiedeln  
