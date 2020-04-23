@@ -288,7 +288,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
   
 # Inventar
 ## Rucksack
-|Objekt|Stück|kg/Stk|Gesamt|Preis/Stk|  
+|Objekt|Stück|kg/Stk|kg|Preis/Stk|  
 |:-|-:|-:|-:|-:|  
 |Hammer				|1	|2,00 kg	|2,00 kg|	|
 |Rucksack			|1	|0,50 kg	|0,50 kg|	|
@@ -315,7 +315,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Pinke Kristallfackel		|1	|0,20 kg 	|0,20 kg||
 |Knöchel			|43	|0,01 kg	|0,43 kg|0K	|
 |Gambeson (11/(((15R)old)),7S)	|1	|5,00 kg	|5,00 kg|	|
-|Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10kg|	10kg||
+|Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10 kg|	10  kg||
 |Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)||||
 |Asche				|9	|0,01 kg	|0,09 kg|0K	|
 |Quartz				|5	|0,01 kg	|0,05 kg|20K	|
@@ -334,7 +334,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Herz des Waldes		|1	||||
 |Zombiedornenbaumdorn		|1	||||
 |Bronzekurzschwert		|3	|1 kg	|3 kg||
-
+|Gesamt|||||
 
 # Erfahrung  
 |Fähigkeit/Vorteil|gesammelt|  
