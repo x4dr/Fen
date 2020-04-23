@@ -2,6 +2,10 @@ title:
 tags:   
 [TOC]
 ##Boot notizens  
+###planken entchantment
+####Strumstbilisation
+####Strumunsichtbarkeit
+Bantherssymbol in die esscene des schiffes einarbeiten+ crewtattoos
 
 ##Avis Tatoos upgrade
 
@@ -13,6 +17,8 @@ Es gibt in den Chaoslanden verstreut zahlreiche festungsdörfern, mit teilweis t
 
 
 ##Craftingideen:
+###Sturnmkristall
+produziert vorzugsweise 10 energie/8h 
 ###Opferdolch mit eldesteinfassung für banther
 direktes leachen bei Verwundung  
 stil und swag
