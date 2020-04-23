@@ -2,6 +2,8 @@ title:
 tags:   
 [TOC]
 ##Boot notizens  
+###Die 250 Blitzkristalle
+Cooler unterboden oder sonnenstein hell halten im sturm
 ###planken entchantment
 ####Strumstbilisation
 ####Strumunsichtbarkeit
