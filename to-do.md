@@ -30,4 +30,4 @@ stil und swag
 ### Trinschild für Tras  
 für sie und ihn nie wieder nüchtern in den Kampf, und ins kino kommt man damit auch rein
 ### Abseilgurt
-Armschiene vom hohen Norden umarbeiten
+Armschiene vom hohen Norden umarbeiten/multiplizieren?
