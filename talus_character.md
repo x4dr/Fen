@@ -290,44 +290,44 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ## Rucksack
 |Objekt|Stück|kg/Stk|kg|Preis/Stk|  
 |:-|-:|-:|-:|-:|  
-|Hammer				|1	|2,00 kg	|2,00 kg|	|
-|Rucksack			|1	|0,50 kg	|0,50 kg|	|
-|Bauwerkzeug (Q3)		|1	|5,00 kg	|5,00 kg|	|
-|Seil				|20	|0,25 kg	|5,00 kg|	|
-|Ledersöckchen			|8	|0,06 kg	|0,50 kg|	|
-|Eisenberg-Brosche Q15		|1	|0,10 kg	|0,10 kg|	|
-|T6 Ess. of Change		|18	|0,10 kg	|1,80 kg|	|
-|T1 Magnet			|12	|0,10 kg	|1,30 kg|	|
-|T6 Ess. of Stability		|10	|0,10 kg	|1,00 kg|	|
-|T2 gemahlene Kreide		|8	|0,10 kg	|0,80 kg|	|
-|T1 Wachs			|200	|0,01 kg	|2,00 kg|4,5K	|
-|Uhrwerkkugel			|1	|0,10 kg	|0,10 kg|	|
-|Feinwerkzeug (Q3)		|1	|1,50 kg	|1,50 kg|	|
-|Alchemie-Buch (3;20;22;aurisch)|1	|1,50 kg	|1,50 kg|	|
-|Feinmech.-Buch (atteryazi)	|1	|1,50 kg	|1,50 kg|	|
-|Seilwinde St.6			|1	|2,00 kg	|2,00 kg|	|
-|T2 Phosphor			|10	|0,10 kg	|1,00 kg|	|
-|Sehne				|4	|0,10 kg	|0,40 kg|	|
-|T5 Floatstone			|195	|-0,10 kg 	|-19,50 kg|8S	|
-|25% Alkohol			|2	|0,50 kg	|1,00 kg||	
-|Säure				|100	|0,01 kg	|1,00 kg||
-|Große Karte (wenig Details)	|1	|0,10 kg	|0,10 kg||	
-|Pinke Kristallfackel		|1	|0,20 kg 	|0,20 kg||
-|Knöchel			|43	|0,01 kg	|0,43 kg|0K	|
-|Gambeson (11/(((15R)old)),7S)	|1	|5,00 kg	|5,00 kg|	|
-|Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10 kg|	10  kg||
-|Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)||||
-|Asche				|9	|0,01 kg	|0,09 kg|0K	|
-|Quartz				|5	|0,01 kg	|0,05 kg|20K	|
-|gereinigte Kohle		|98	|0,01 kg |0,98 kg||
+|Hammer				|1	|2,00 kg	|2.00 kg|	|
+|Rucksack			|1	|0,50 kg	|0.50 kg|	|
+|Bauwerkzeug (Q3)		|1	|5,00 kg	|5.00 kg|	|
+|Seil				|20	|0,25 kg	|5.00 kg|	|
+|Ledersöckchen			|8	|0,06 kg	|0.50 kg|	|
+|Eisenberg-Brosche Q15		|1	|0,10 kg	|0.10 kg|	|
+|T6 Ess. of Change		|18	|0,10 kg	|1.80 kg|	|
+|T1 Magnet			|12	|0,10 kg	|1.30 kg|	|
+|T6 Ess. of Stability		|10	|0,10 kg	|1.00 kg|	|
+|T2 gemahlene Kreide		|8	|0,10 kg	|0.80 kg|	|
+|T1 Wachs			|200	|0,01 kg	|2.00 kg|4,5K	|
+|Uhrwerkkugel			|1	|0,10 kg	|0.10 kg|	|
+|Feinwerkzeug (Q3)		|1	|1,50 kg	|1.50 kg|	|
+|Alchemie-Buch (3;20;22;aurisch)|1	|1,50 kg	|1.50 kg|	|
+|Feinmech.-Buch (atteryazi)	|1	|1,50 kg	|1.50 kg|	|
+|Seilwinde St.6			|1	|2,00 kg	|2.00 kg|	|
+|T2 Phosphor			|10	|0,10 kg	|1.00 kg|	|
+|Sehne				|4	|0,10 kg	|0.40 kg|	|
+|T5 Floatstone			|195	|-0,10 kg 	|-19.5 kg|8S	|
+|25% Alkohol			|2	|0,50 kg	|1.00 kg||	
+|Säure				|100	|0,01 kg	|1.00 kg||
+|Große Karte (wenig Details)	|1	|0,10 kg	|0.10 kg||	
+|Pinke Kristallfackel		|1	|0,20 kg 	|0.20 kg||
+|Knöchel			|43	|0,01 kg	|0.43 kg|0K	|
+|Gambeson (11/(((15R)old)),7S)	|1	|5,00 kg	|5.00 kg|	|
+|Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10 kg|	10 kg||
+|Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)|1|	||	|
+|Asche				|9	|0,01 kg	|0.09 kg|0K	|
+|Quartz				|5	|0,01 kg	|0.05 kg|20K	|
+|gereinigte Kohle		|98	|0,01 kg |0.98 kg||
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
-|[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|||||
+|[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|1|1.5 kg|1.5 kg||
 |Ersatzbein Federstahl		|0	|5 kg 	|0 kg||
 |Ersatzbein Bronze		|0	|5 kg	|0 kg||
-|Stahl Q9			|0,5	|1 kg	|0,5 kg||
-|Stahlschrott			|18,81	|1 kg 	|18,81 kg||
-|Bronzeschrott			|3,19	|1 kg 	|3,19 kg||
-|Q2 Reparaturteile		|3	|1 kg	|3 kg||
+|Stahl Q9			|0,5	|1 kg	|0.5 kg||
+|Stahlschrott			|18,81	|1 kg 	|18.81 kg||
+|Bronzeschrott			|3,19	|1 kg 	|3.19 kg||
+|Q2 Reparaturteile		|3	|1 kg	|3.00 kg||
 |Ägispähre (mechanisch ausgelöst)|||||
 |Rotwarz			|92	||||
 |Drachenglaskugel		|1	||||
