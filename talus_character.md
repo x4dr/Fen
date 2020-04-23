@@ -288,7 +288,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
   
 # Inventar
 ## Rucksack
-|Objekt|Stück|kg/Stk|kg|Preis/Stk|  
+|Objekt|Stück|kg/Stk|Gesamt|Preis/Stk|  
 |:-|-:|-:|-:|-:|  
 |Hammer				|1	|2,00 kg	|2,00 kg|	|
 |Rucksack			|1	|0,50 kg	|0,50 kg|	|
@@ -308,7 +308,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Seilwinde St.6			|1	|2,00 kg	|2,00 kg|	|
 |T2 Phosphor			|10	|0,10 kg	|1,00 kg|	|
 |Sehne				|4	|0,10 kg	|0,40 kg|	|
-|T5 Floatstone			|195	|-0,10 kg 	|-19,80 kg|8S	|
+|T5 Floatstone			|195	|-0,10 kg 	|-19,50 kg|8S	|
 |25% Alkohol			|2	|0,50 kg	|1,00 kg||	
 |Säure				|100	|0,01 kg	|1,00 kg||
 |Große Karte (wenig Details)	|1	|0,10 kg	|0,10 kg||	
