@@ -12,7 +12,7 @@ Amalkan
 ## Charakterkonzept:  
 entflohener Laborunfall
 ## XP:  
-9  
+7  
 ## Zusammensetzung:  
 Megatalus: 500kg Federstahl, 440kg Schwebstein
 Talus: 60kg Federstahl
@@ -212,7 +212,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
-|Handel|1|  
+|Handel|2|  
 |Diplomatie|1|  
 |Rhetorik|2|  
 |Lügen|1|  
@@ -371,7 +371,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Taktik|K|  
 |Strategie 2|KKKTTPPP[Bauprojekte, Limasu Forschungsprojekt]|  
 |Navigation|I|  
-|Handel|TTTTLPPP[Prekor, Okur]|  
+|Handel|TTTTLPPPX[Prekor, Okur]|  
 |Diplomatie|VK|  
 |Lügen|K|  
 |Stil|K|  
