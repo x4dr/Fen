@@ -2,6 +2,10 @@ title:
 tags:   
 [TOC]
 ##Boot notizens  
+###Bewaffnung
+####BFB
+Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in diese Kugeln können amplify effekte eingebunden werden die sich dann mit der Rampe bewegt werden können
+
 ###Autoladestation für artefakte
 ###Die 250 Blitzkristalle
 Cooler unterboden oder sonnenstein hell halten im sturm
