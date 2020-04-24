@@ -231,7 +231,7 @@ Schlagring
 
 
 Wunden:
-
+3 (SCHW 9)
 
 Etikette 0->1
 Ispiration 1
