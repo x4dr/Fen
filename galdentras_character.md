@@ -16,7 +16,7 @@ tags:
 |Exp|22|
 ##Bewaffnung
 Bronzehammer (stark beschädigt), Stahlhammer(stark beschädigt)
-Bronze Schlagringe, Langschleuder 
+Bronze Schlagringe (stark beschädigt), Langschleuder (stark beschädigt) 
 
 ##Artefakte
 Schmerzdämpferpiercing
