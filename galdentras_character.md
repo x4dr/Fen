@@ -15,7 +15,7 @@ tags:
 |Twists| produziert ständig Dreck|
 |Exp|22|
 ##Bewaffnung
-Bronzehammer, Stahlhammer
+Bronzehammer (stark beschädigt), Stahlhammer(stark beschädigt)
 Bronze Schlagringe, Langschleuder 
 
 ##Artefakte
@@ -29,7 +29,7 @@ Götterfunke
 Gambeson 2/6
 Kettenhemd Bronze 4/8
 Schwere Kette Schutz 5/7
-Kiteshield 3
+Kiteshield 3 (stark beschädigt)
 
 #Details
 ##Allgemeine Erscheinung  
@@ -231,10 +231,10 @@ Schlagring
 
 
 Wunden:
-3 (SCHW 9)
+3 (SCHW 9), 3(SCHW 9)
 
 Etikette 0->1
-Ispiration 1
+Inspiration 1
 
 Training
 
