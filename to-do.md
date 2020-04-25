@@ -2,6 +2,7 @@ title:
 tags:   
 [TOC]
 ##Boot notizens  
+Mögliche Namen Sturm-/Feuer-/Lichtbringer, dann ist Avis Käpt'n der unsterblichen und der ****bringer
 ###Bewaffnung
 ####BFB
 Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in diese Kugeln können amplify effekte eingebunden werden die sich dann mit der Rampe bewegt werden können
