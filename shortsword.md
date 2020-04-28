@@ -26,7 +26,7 @@ Wenn Schaden erhalten wurde, nehme 1 Ruinzähler um sofort einen weiteren Zusamm
 
 # Ablenken
 Technik  
-getroffene Gegner erhalten den Offensivvorteil als Malus auf ihren Offensivwert, oder als Schaden, Wahl des Gegners
+getroffene Gegner erhalten den Vorteil als Malus auf ihren Offensivwert, oder als Schaden, Wahl des Gegners
 
 ## Pressen
 reflexiv
