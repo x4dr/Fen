@@ -1,80 +1,87 @@
 title: Kurzschwert  
 tags:   
-[Hagel](shortsword#hagel) -> [Zweithand](shortsword#zweithand) -> [Waghalsigkeit](shortsword#waghalsigkeit) -> [Unvernunft](shortsword#unvernunft) -> [Wahnsinn](shortsword#wahnsinn)  
-[Hagel](shortsword#hagel) -> [Ablenken](shortsword#ablenken) -> [Pressen](shortsword#pressen) -> [Überwältigen](shortsword#Überwältigen) -> [Ausschalten](shortsword#ausschalten)  
-[Hagel](shortsword#hagel) -> [Verteidigungswirbel](shortsword#verteidigungswirbel) -> [Verbesserter Verteidigungswirbel](shortsword#verbesserterverteidigungswirbel) -> [Zerfetzender Verteidigungswirbel](shortsword#zerfetzenderverteidigungswirbel) -> [Wirbelsturm](shortsword#wirbelsturm)  
-[Überlegenheit](shortsword#Überlegenheit) -> [Rücksprung](shortsword#rücksprung) -> [Zen](shortsword#zen) -> [Klingenbiss](shortsword#klingenbiss) -> [Hinrichtung](shortsword#hinrichtung)  
-#### Hagel
+[TOC]
+Gilt vorerst für Dolche und Kurzschwerter
+
+# Hagel
 Technik 
 +2 Offensive, -1 Defensive
-#### Zweithand
-passiv 
-wenn ein Kurzschwert in der zweiten Hand geführt wird.  
-Waffenschaden ist der höhere der getragenen Waffen, Effekte beider Waffen sind aktiv.  
-+3 Offensive, -2 Defensive  
 
-#### Waghalsigkeit
+## Waghalsigkeit
 Technik  
-+3 Offensive, -2 Defensive, +0.5 Multiplikator
++3 Offensive, -2 Defensive, +1 Schaden
 
-#### Unvernunft
+### Unvernunft
 Technik
-+5 Offensive, -4 Defensive, +0.75 Multiplikator
++5 Offensive, -4 Defensive, +2 Schaden
 
 #### Wahnsinn
 Technik  
-+10 Offensive, -9 Defensive, +1 Multiplikator  
++10 Offensive, -9 Defensive, +3 Schaden
 
-#### Ablenken
+##### Ruin
+reflexiv
+Wenn Schaden erhalten wurde, nehme 1 Ruinzähler um sofort einen weiteren Zusammenstoß auszulösen. (Beide seiten Kämpfen miteinander). Ruinzähler senken das Grundergebnis um 1 und sinken mit einer Rate von 1 pro Runde.
+
+
+# Ablenken
 Technik  
-getroffene Gegner erhalten den Offensivvorteil als Malus auf ihren Offensivwert, oder als Schaden, wahl des Gegners
+getroffene Gegner erhalten den Offensivvorteil als Malus auf ihren Offensivwert, oder als Schaden, Wahl des Gegners
 
-#### Pressen
-Technik  
-wie Ablenken, Malus hält bis inklusive nächster Runde, Halbiert eigene Defensive, Offensivvorteil im Schadensfall wird ein weiteres mal addiert  
+## Pressen
+reflexiv
+Wenn ein Gegner durch Ablenken aber noch nicht durch Pressen beeinflusst ist, gebe Hälfte der eigenen Defensive aus:
+Malus hält bis Ende nächster Runde, bzw Schaden löst eine zweite Instanz aus
 
-#### Überwältigen
-passiv  
-Wenn die Offensive eines getroffenen Gegners unter 0 fällt, erhält er die Differenz zu 0 als Schaden.
+### Überwältigen
+reflexiv 
+Wenn die Offensive eines Gegners in Reichweite unter 0 ist, kann er wieder auf 0 hochgestuft werden um die Differenz in Bonusschaden auszulösen.
 
 #### Aussschalten
-Technik
-wie Pressen, Malus hält eine Runde länger, Offensivvorteil im Schadensfall wird ein weiteres mal addiert
+reflexiv
+Wenn ein Gegner durch Pressen aber noch nicht durch Ausschalten beeinflusst ist, senke aktuelles Grundergebnis auf 0:
+Malus hält bis zum Ende Übernächster Runde, bzw Schaden löst eine dritte Instanz aus.
 
-#### Verteidigungswirbel
-reflexiv, ersetzt Angriff 
-Tauscht Offensiv und Defensivwert, Projektilabwehr, Diese Runde kein Angriff. -1 Offensiv und Defensiv für jede Konsekutive Runde im Verteidigungswirbel.
+# Verteidigungswirbel
+reflexiv
+Gebe Angriff aus:
+Tausche Offensiv und Defensivwert, erhalte Projektilabwehr, 
+-1 Offensive und Defensive für jede Runde im Verteidigungswirbel innerhalb der letzten 5 Minuten.
 
-#### Verbesserter Verteidigungswirbel (3)
+## Verbesserter Verteidigungswirbel
 passiv  
-Wenn Verteidigungswirbel Eingesetzt wird, erhöht Defensive um n.
+Wenn Verteidigungswirbel Eingesetzt wird, erhöhe Defensive um 2.
 
-#### Zerfetzender Verteidigungswirbel (3)
+###Wirbelkonter
 passiv
-Angriffe auf den Charakter mit negativem Vorteil führen zu einem Punkt Schutzverlust der Rüstung des Angreifers, maximum n mal pro Runde
+Alle Angriffe auf den Anwender deren Vorteil 0 oder kleiner ist, werden sofort mit einem Bonusangriff vergolten.
 
-#### Wirbelsturm
+#### Zerfetzender Konter
 passiv
-Angriffe auf den Charakter mit negativem Vorteil führen zu einem sofortigen Gegenangriff mit dem Umgekehrten Vorteil. 
+Vorteil für Bonusangriffe durch Wirbelkonter ist immer das maximum zwischen dem normalen Vorteil und dem negativen Vorteil des Angreifers.
 
-#### Überlegenheit (1+)
+##### Blutwind
+reflexiv
+Wenn ein Bonusangriff mit einem Kurzschwert gemacht wird, kann stattdessen eine 1 Punkte Blutende direkte Wunde verursacht werden
+
+# Überlegenheit
 passiv  
-Für jede Runde im Nahkampf ohne getroffen zu werden (Treffer auf die Rüstung zählen als getroffen) erhält der Charakter eine Überlegenheitsladung. Für jede Überlegenheitsladung erhält er +1 Offensive. Ein erfolgreicher Treffer (eingehend oder ausgehend) setzt die Überlegenheitsladungen auf 0 zurück. Maximum Überlegenheitsladungen: n.  
+Für jede Runde im Nahkampf in der der Anwender Gefahr lief angegriffen zu werden, in der er nicht getroffen wurde erhält der Anwender eine Überlegenheitszähler. Jeder Überlegenheitszähler gewährt +1 Offensive. Ein erfolgreicher Treffer (eingehend oder ausgehend) setzt die Überlegenheitszähler auf 0 zurück.  
 
-#### Rücksprung
+## Rücksprung
 reflexiv  
-Kosten: Zwei Überlegenheitsladungen 
-Für die Aktuelle Runde sind keine Gelegenheitsangriffe auf den Charakter möglich. Der Charakter kann sich bis zu einer halben Bewegungsreichweite (normal 10m) rückwärts von Gegnern Weg anstatt am Nahkampf teilzunehmen
+Kosten: Zwei Überlegenheitszähler 
+Für die Aktuelle Runde sind keine Bonusangriffe auf den Charakter möglich. Der Charakter kann sich bis zu einer halben Bewegungsreichweite (normal 10m) rückwärts von Gegnern wegbewegen.
 
-#### Zen
+### Zen
 passiv  
-Nurnoch das Anrichten von Effektivem Schaden (kein eingehender Schaden und kein ausgehender Schaden der negiert wird) setzt die Überlegenheitsladungen auf 0 zurück.  
+Nurnoch das Anrichten von Schaden setzt die Überlegenheitszähler auf 0 zurück.  
 
 #### Klingenbiss
-reflexiv, ersetzt Angriff  
-Nutzt die Klinge des Schwertes um die andere Waffe zu binden. Sofortige Reduktion der Gegnerischen Offensive um die eigene Offensive. Keiner der Kontrahenten kann mit der Geblockten Waffe Schaden anrichten bis zur nächsten Runde. Die nächsten 3 Runden ist der Widerstand beider Waffen um 1 gesenkt.  
+reflexiv
+Wenn angegriffen und der eigene Angriff noch verfügbar ist, nutzt die Klinge des Schwertes um die andere Waffe zu binden. Sofortige Reduktion der Gegnerischen Offensive um die eigene Offensive. Weder Anwender noch Ziel kann bis zum Ende der Runde Angreifen. 
 
-#### Hinrichtung
+##### Hinrichtung
 Technik  
 Kosten: 5 Überlegenheitsladungen  
 +10 Offensive. Erlaubt einen weiteren Angriff mit beliebiger Technik.
