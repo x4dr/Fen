@@ -1,22 +1,46 @@
 title: Schild  
 tags:   
-#Schild
-passiv, solange das Schild in der Hand ist Schildbonus verdoppelt gegen Fernkampf
-Nur eine reflexive Schildfähigkeit kann pro Runde eingesetzt werden.
+#Schilde
+Schildgröße ist beschränkt auf Kraft+Schild.
+Überzählige Punkte werden jede Runde des Kampfes nachdem das Schild bereit gemacht wurde auf Schildreflexzähler aufaddiert, solange dieser niedriger oder gleich groß ist wie die benutzte Größe des Schildes. 
+Schildreflexzähler in Höhe der Größe des Schildes können ausgegeben werden um das Schild sofort wieder breit zumachen.
+
+
+#Schild 
+passiv
+Am Ende der Kampfphase wird das Schild bereit gemacht, sofern es am Anfang der Runde nicht bereit war. Eine Technik die mit "Schild bereit" gekennzeichnet ist erfordert, dass das Schild bereit ist und ist reflexiv und nach der Abhandlung des Angriffes ist der Schild nicht mehr bereit.
+In einem Angriff kann immer nur eine Schildfähigkeit eingesetzt werden
+
+Wenn ein Schild bereit ist und ein Treffer erhalten wird dieser auf das Schild angewandt. Dann wird der Vorteil um den Schildwert gesenkt und wenn er immernoch positiv ist wie gehabt angewandt.
+
 ## Schützen
-reflexiv, Offensiv - Schildbonus, Defensiv + Schildbonus, nächste Runde Offensiv -Schildbonus
+Schild bereit
+Offensiv - Schildbonus
+Defensiv + Schildbonus
+
 ### Aggressives Schützen
-reflexiv, Offensiv +1, Defensiv + Schildbonus, nächste Runde Defensiv -Schildbonus (effektiv 0)
+Schild bereit
+Schildbonus diesen Angriff verdoppelt
+
 ## Beschützen
-reflexiv, anstelle von Angriff, Offensive +1 -Schildbonus, Angriff auf Verbündeten stattdessen auf selbst.
+Schild bereit, anstelle von Angriff
+Defensiv + Schildbonus
+Ändert Ziel eines Angriffes stattdessen auf selbst wenn die Bewegungs und Angriffsreichweiten dies erlauben.
 ### Aggressives Beschützen
-reflexiv, anstelle von Angriff, Offensive +1, Defensive -Schildbonus (effektiv 0), Angriff auf Verbündeten stattdessen auf selbst.
+Schild bereit
+Ändert Ziel eines Angriffes stattdessen auf selbst wenn die Bewegungs und Angriffsreichweiten dies erlauben.
+
 ## Schildschlag
-reflexiv, Offensive + Schildbonus, Defensive - Schildbonus, Schildbonus ist bis zum Ende der nächsten Runde 0.
+Schild bereit
+Offensive + Schildbonus
+Defensive - Schildbonus
+
 ### Defensiver Schildschlag 
-reflexiv, gegnerische Offensive - Schildbonus bis Ende nächster Runde, Schildbonus ist bis zum Ende der nächsten Runde 0.
+Schild bereit
+gegnerische Offensive - Schildbonus
+
 
 #### Wegdrücken
-passiv, Defensivvorteil gegen einen Angegriffenen Gegner kann ausgegeben werden um den Gegner eine entsprechende Zahl in Metern nach hinten zu drücken. Wenn dort kein Platz mehr ist, bekommt er die verbleibende Zahl als Malus auf seinen nächsten Wurf.
+passiv, negativer Vorteil gegen einen Angegriffenen Gegner kann ausgegeben werden um den Gegner eine entsprechende Zahl in Metern nach hinten zu drücken. Wenn dort kein Platz mehr ist, bekommt er die verbleibende Zahl als Malus auf seinen nächsten Wurf.
 ##### Bollwerk
-Technik, Defensive + Schildbonus, Kein Schaden wird Verursacht, Kann alle Angriffe auf einen zusätzlichen charakter abfangen.
+Technik, Defensive + Schildbonus, Kein Schaden wird Verursacht, Kann alle Angriffe auf einen zusätzlichen Charakter abfangen.
