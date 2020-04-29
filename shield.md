@@ -48,7 +48,7 @@ Technik, Defensive + Schildbonus, Kein Schaden wird Verursacht, Kann alle Angrif
 
 
 #Strategie
-Die Regeln zu Schilden mögen kompliziert klingen, aber effektiv ist alles was es tut dem Schild einen Cooldown zu geben:noch Doppelte Kosten 
+Die Regeln zu Schilden mögen kompliziert klingen, aber effektiv ist alles was es tut dem Schild einen Cooldown zu geben:
 Normannenschild mit Bonus 3, Träger mit Stärke 2 und Schild 2:
 4 Schildreflex pro runde, 6 um es bereit zu machen, maximum 16
 Wenn es jede runde "normal" genutzt wird ist der Schildreflex
