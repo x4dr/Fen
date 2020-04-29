@@ -68,4 +68,23 @@ Aktuelle Offensive des Schildträgers ist um 6 gesenkt, er hat 5/16 SR.
 Am Anfang der nächsten Runde hat er nicht genug um sein Schild wieder bereit zu machen. In der Freien Phase erhält er aber 4 weitere SR, was ihn ermächtigt für 9 SR den Schild wieder bereit zu machen, wenn er dies braucht. Dann ist er aber mindestens 2 Runden Schildlos und kann wahrscheinlich für den Rest des kampfes sein Schild nicht mehr reflexiv bereit machen. 
 Wenn er diese Runde ohne Schild kämpft hat er am anfang der nächsten runde 9, macht sein Schild bereit und endet auf 7. Nicht genug für reflexivität, aber genug um die nächsten beiden Runden sein Schild zu benutzen.
 
-#Schildstats
+#Schildwerte
+## Schildmaterialien
+| Materialien    | Gewicht | Schutz   | Preis |
+|----------------|---------|----------|-------|
+| Holz           | 1x      | 1        | 1x    |
+| Holz und Leder | 1.2x    | 2        | 5x    |
+| Beschlagen     | 1.5x    | 4        | 10x   |
+| Gebändert      | 2x      | 6        | 20x   |
+| Metall         | 3x      | 8+Metall | 20x + Metallkosten |
+
+## Schildformen
+| Form           | Integrität | Bonus | Gewicht | Preis |
+|----------------|------------|-------|---------|-------|
+| Buckler        | 10         | 1     |  300g   |  10s  |
+| Dreiecksschild | 20         | 2     |  2kg    |  15s  |
+| Rundschild     | 30         | 3     |  3.5kg  |  30s  |
+| Aurierschild   | 40         | 4     |  4kg    |  50s  |
+| Turmschild     | 50         | 5     |  5kg    |  80s  |
+
+
