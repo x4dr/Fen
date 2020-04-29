@@ -6,7 +6,6 @@ Schildreflexzähler in Höhe des doppelten Schildbonuses können ausgegeben werd
 
 #Schild 
 passiv
-#Strategie
 Eine Technik die mit "Schild bereit" gekennzeichnet ist erfordert, dass das Schild bereit ist und ist reflexiv. Nach der Abhandlung des Angriffes ist der Schild nicht mehr bereit.
 In einem Angriff kann immer nur eine Schildfähigkeit eingesetzt werden.
 
