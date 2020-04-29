@@ -21,7 +21,7 @@ Technik
 
 ##### Ruin
 reflexiv
-Wenn Schaden erhalten wurde, nehme 1 Ruinzähler um sofort einen weiteren Zusammenstoß auszulösen. (Beide seiten Kämpfen miteinander). Ruinzähler senken das Grundergebnis um 1 und sinken mit einer Rate von 1 pro Runde.
+Wenn Schaden erhalten wurde, erhalte 1 Ruinzähler um sofort einen weiteren Zusammenstoß auszulösen. (Beide seiten Kämpfen miteinander). Ruinzähler senken das Grundergebnis um 1 und sinken mit einer Rate von 1 pro 6 Runden.
 
 
 # Ablenken
@@ -45,8 +45,8 @@ Malus hält bis zum Ende Übernächster Runde, bzw Schaden löst eine dritte Ins
 # Verteidigungswirbel
 reflexiv
 Gebe Angriff aus:
-Tausche Offensiv und Defensivwert, erhalte Projektilabwehr, 
--1 Offensive und Defensive für jede Runde im Verteidigungswirbel innerhalb der letzten 5 Minuten.
+Tausche Offensiv und Defensivwert, erhalte Projektilabwehr und 1 Ruinzähler.
+Ruinzähler senken das Grundergebnis um 1 und sinken mit einer Rate von 1 pro 6 Runden.
 
 ## Verbesserter Verteidigungswirbel
 passiv  
