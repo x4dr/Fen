@@ -21,7 +21,7 @@ Beschädigte Bogensehne reißt.
 3: Bogen wird beansprucht/beschädigt. Beanspruchter Bogen wird beschädigt, beschädigter Bogen bricht
 4: Bogen Bricht.  
 
-#Langbogen
+##Langbogen
 Reichweite 5m  
 Grundreichweite 10m
 [15, 20, 25, 30, 35]
@@ -29,7 +29,7 @@ Grundreichweite 10m
 [65, 70, 75, 80, 85]
 Ziehen 4, Anvisieren 4, Schießen 4
 
-#Kurzbogen
+##Kurzbogen
 Reichweite 2m
 Grundreichweite 20m
 [22, 24, 26, 28, 30]
@@ -37,16 +37,16 @@ Grundreichweite 20m
 [42, 44, 46, 48, 50]
 Ziehen 3, Anvisieren 2, Schießen 3
 
-
-## Ziehen 
+## Allgemeine Aktionen
+### Ziehen 
 Halbe Aktion 
 Kostet **Ziehen** Bogenzähler, Bogen ist gezogen. Jede runde in der der Bogen gezogen bleibt müssen erneut **Ziehen** Bogenzähler ausgegeben werden.
 Wenn Schaden erlitten wird, ist der Bogen nicht mehr gezogen.
-## Anvisieren
+### Anvisieren
 Volle Aktion
 Kostet **Anvisieren** Bogenzähler, Bogen ist anvisiert. 
 Wenn Schaden erlitten wird, ist der Bogen nicht mehr gezogen.
-## Schießen
+### Schießen
 Volle Aktion
 Kostet **Schießen** Bogenzähler, Bogen wird abgeschossen
 
