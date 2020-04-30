@@ -1,7 +1,7 @@
 title: Rüstung  
 tags:   
-
 #Rüstung
+
 |Rüstung| Schutz | Stabilität  | Gewicht  | Preis| Reparatur Pro Punkt |
 | :---|---:|---:|---:|---:|---:|---:|   
 | Schwere Kleidung | 1 | 5 | 3kg | 50c | 20c |
