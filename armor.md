@@ -56,11 +56,13 @@ Mehrere überlappende Rüstungsbänder bieten hervorragenden Schutz bei finanzie
 Farben oder eingehämmerte Muster werden erwartet, aber jemand der sich diese Rüstung leisten kann ist zwar wenn auch nicht direkt Vertrauenswürdig, augenscheinlich Reich genug um kein gemeiner Bandit zu sein.
 
 ### Halbplatte
-Eine Brustplatte, Schulterstücke und Oberschenkelrüstung kombiniert mit voller Kette sind ausweis der extrem wohlhabenden oder derer die in den Oberen Ränge der Dienste von Mächtigen Stehen. Oft ist Stil der Brustplatte genug um für alle außer die am weitesten hinter dem Walde lebenden Bewohner Prekors auszuweisen aus welcher Region jemand kommt und damit auch von wem die Investition stammt, jemanden in eine Solch teure Rüstung zu stecken. Die Abenteurer die sich solcherlei Rüstung leisten können, haben sich meist auch schon einen Namen gemacht.
+Eine Brustplatte, Schulterstücke und Oberschenkelrüstung kombiniert mit voller Kette sind Ausweis der extrem Wohlhabenden oder derer die in den oberen Ränge der Dienste von Mächtigen Stehen. Oft ist Stil der Brustplatte genug um für alle außer die am weitesten hinter dem Walde lebenden Bewohner Prekors auszuweisen aus welcher Region jemand kommt und damit auch von wem die Investition stammt, jemanden in eine Solch teure Rüstung zu stecken. Die Abenteurer die sich solcherlei Rüstung leisten können, haben sich meist auch schon einen Namen gemacht.
 
 ### Vollplatte
-Lächerliche Extravaganz die sie ist, macht diese Rüstung ihren Träger bis auf Fälle eigener Unfähigkeit quasi immun Gegen die Versuche seiner Feinde sein Leben zu verkürzen. Jeder der solch eine Rüstung trägt ist entweder schon bekannt oder wird dies allein aufgrund dieses Faktes. Die einzigen regulär auftretenden Träger von Vollplatte sind die schwere Reiterei der Glänzenden, eine Hand voll prunksüchtiger Emporkömmlinge, eine weitere Hand voll würdentragender Aushängeschilder für Leute die beweisen wollen wie viel Reichtum sie haben und einige wenige mit sehr viel Ahnung von dem was sie tun.
+Lächerliche Extravaganz die sie ist, macht diese Rüstung ihren Träger bis auf Fälle eigener Unfähigkeit quasi immun Gegen die Versuche seiner Feinde sein Leben zu verkürzen. Jeder der solch eine Rüstung trägt ist entweder schon bekannt oder wird dies allein aufgrund dieses Faktes. Die einzigen regulär auftretenden Träger von Vollplatte sind die schwere Reiterei der Glänzenden, eine Hand voll prunksüchtiger Emporkömmlinge, eine weitere Hand voll Würden tragender Aushängeschilder für Leute die beweisen wollen wie viel Reichtum sie haben und einige wenige mit sehr viel Ahnung von dem was sie tun.
 
+
+# Reparatur
 Reparatur ist: 
 50% Materialien
 50% gebühren für Arbeit und Werkzeug   
