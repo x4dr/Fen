@@ -43,8 +43,7 @@ Blutfluss wird durch Verbinden gestoppt. Verbinden nutzt Fingerfertigkeit und He
 Für jedes neuverbinden einer Wunde wird 1 Maluswürfel angerechnet, aber die Entzündungsstufe ersetzt. Neuverbinden ist nur bis zum ersten Heilungswurf möglich, danach wäre es Teil des normalen Heilen-wurfes.
 
 #P - Stechen
-Wenn der Schadenswert größer als die Rüstung ist, wird der Halbe Schadenswert als direkter Schaden angewendet.
-Schaden;Rüstungsdurchdringung 
+Stichschaden wird mit Schaden;Rüstungsdurchdringung angegeben. Rüstungsdurchdringung reduziert Rüstung bis auf ein Minimum von 0. 
 
 ##Resonanz 
 Bei Beliebiger Resonanz mit Gesamtwert höher als 15 zählt die Wunde als Blutend.
