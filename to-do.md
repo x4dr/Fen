@@ -22,6 +22,13 @@ Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in die
 ###titan verstärkte dinge
 ###Die 250 Blitzkristalle
 Cooler unterboden oder sonnenstein hell halten im sturm
+###Räume
+####Magazin
+in durstsandeinkleiden
+####Ausgehölter Schwebstein
+####Cratingbereich auf dem Dach
+###Schwebstein entchant
+####Höhenkontrolle durch sisto-boyenci
 ###planken entchantment
 ####Strumstbilisation
 ####Strumunsichtbarkeit
