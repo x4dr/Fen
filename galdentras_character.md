@@ -5,7 +5,7 @@ tags:
 |||
 |-|-|
 |Name|Galdentras Mattschimmer|
-|Spezies|Aurier|
+|Spezies|Mykier|
 |Alter|30 Jahre|
 |Größe|ca. 2,10m|
 |Gewicht|170kg|
