@@ -18,7 +18,6 @@ im die Segel oder durch rückstoßung?
 ###Bewaffnung
 ####BFB -BIG FUCKING BALISTA
 Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in diese Kugeln können amplify effekte eingebunden werden die sich dann mit der Rampe bewegt werden können
-
 ###Autoladestation für artefakte
 ###titan verstärkte dinge
 ###Die 250 Blitzkristalle
@@ -51,3 +50,7 @@ stil und swag
 für sie und ihn nie wieder nüchtern in den Kampf, und ins kino kommt man damit auch rein
 ### Abseilgurt
 Armschiene vom hohen Norden umarbeiten/multiplizieren?
+###Ensalex
+Pfeilspitzen
+Bombe 
+Bergbau
