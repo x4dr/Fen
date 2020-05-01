@@ -67,7 +67,7 @@ stets betrunken
 ###Vorteile  
 |Vorteil|Name|
 |-|-|
-|Schildtraining|1|
+|Schildschlag|1|
 |Beschützen|1|
 |Unbeeindruckt|1|
 
