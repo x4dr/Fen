@@ -226,7 +226,7 @@ Bronzehammer
 [[[weapon:Hammer:]]]
 Langschleuder
 [[[weapon:Langschleuder]]]
-Schlagring
+Schlagringe
 [[[weapon:Schlagringe]]]
 
 
