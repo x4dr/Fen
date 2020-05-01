@@ -10,6 +10,11 @@ also im moment ist mein Bild das wir ein schiff an einen großen klumpen schwebs
 Große segel an den Seiten
 Ruder die durch die drehung einen Straken wind erzeugen
 im die Segel oder durch rückstoßung?
+### Mykiererdheim ins schiff integrieren
+#### Terra-Precantatio
+#### Andocktentakel
+#### Schiffspanzerung
+#### Anbord versorgung?
 ###Bewaffnung
 ####BFB -BIG FUCKING BALISTA
 Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in diese Kugeln können amplify effekte eingebunden werden die sich dann mit der Rampe bewegt werden können
