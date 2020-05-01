@@ -29,7 +29,7 @@ Götterfunke
 Gambeson 2/6
 Kettenhemd Bronze 4/8
 Schwere Kette Schutz 5/7
-Kiteshield 3 (stark beschädigt)
+Arierschild 4 (stark beschädigt)
 
 #Details
 ##Allgemeine Erscheinung  
