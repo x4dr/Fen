@@ -227,7 +227,7 @@ Bronzehammer
 Langschleuder
 [[[weapon:Langschleuder]]]
 Schlagring
-[[[weapon:Schlagring]]]
+[[[weapon:Schlagringe]]]
 
 
 Wunden:
