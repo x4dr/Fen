@@ -139,7 +139,7 @@ Waffen bieten, auch ohne Training unterschiedliche Anwendungsmöglichkeiten.
 ##Langspeer
 ###Stellunghalten
 passiv
-Solange der Reichweitenvorteil gegeben ist, erhalte Bonusangriffsmöglichkeit auf alle die sich in Reichweite Begeben.
+Solange der Reichweitenvorteil gegeben ist, erhalte einen Gelegenheitsangriff auf alle die sich in Reichweite Begeben.
 ##Wurfmesser
 ##Langbogen
 ##Kurzbogen
