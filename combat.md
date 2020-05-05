@@ -48,7 +48,7 @@ Bewegung findet auch im Nahkampf statt, allerdings sie neigen eher dazu zu drift
 
 ###Reihenfolge
 * Alle die in der Freien Phase "Nahkampfteilnahme" gewählt haben erhalten einen Würfelwurf mit dem Offensive, Initiative und Defensive Bestimmt werden. Vor Modifikatoren sind alle Werte gleich dem Würfelergebnis, der Rest erhält Offensive 0, Initiative 0 und Defensive 5.
-* Bonusangriffe aus der freien Phase werden abgehandelt. Sofern nicht anders angegeben, kann jede Partei nur einen Bonusangriff ausführen. 
+* Bonusangriffe aus der freien Phase werden abgehandelt. 
 * Eine Handlung die noch nicht erfolgt ist kann reflexiv an einen beliebigen Zeitpunkt verschoben werden der zwischen dem positiven und negativen Initiativewert liegt.
 * Hohe Initiativen haben die Möglichkeiten vor anderen zu handeln oder länger zu warten ohne ihre Handlung zu verlieren.
 * Reflexive Aktionen können Spontan zu einem Beliebigen Zeitpunkt aktiviert werden, wenn ihre Vorraussetzungen erfüllt sind.
@@ -74,3 +74,9 @@ Angriffe repräsentieren den Fokus einer Runde zu versuchen jemanden zu verletze
 * Die Nahkampfreichweite einer Partei in der freien Phase zu verlassen gewährt allen in Reichweite einen Bonusangriff
 * Sich im Nahkampf rückwärts zu Bewegen verhindert den eigenen Angriff und gewährt die Möglichkeit für Gegner zu folgen, wenn sie nicht aus anderen Gründen daran gehindert werden. Zur Initiative des bewegenden Charakters wird ein neuer Nahkampf in geringer Entfernung geschaffen. Alle Teilnehmer des alten Nahkampfes müssen Entscheiden in welchem sie bleiben. Dies kann relativ (bei Charakter) oder absolut (alter/neuer Nahkampf) angesagt werden.
 * Wenn die Situation komplex wird müssen einzelne Positionen der Parteien aufgezeichnet werden um Entscheiden zu können, welche Partei im Nahkampf mit welcher anderen ist. Im Zweifel entscheidet der Spielleiter auf der Basis, das normaler Nahkampf mindestens einen etwa 5 meter Durchmesser Kreis abdeckt.
+
+## Bonusangriffe
+* Gelegenheitsangriffe sind Bonusangriffe die durch Bewegung provoziert wurden und unterscheiden sich sonst nicht von Bonusangriffen
+* Einen Bonusangriff erhalten meint immer eine Bonusangriffsmöglichkeit. Es Kann normalerweise nur ein Bonusangriff pro Runde gemacht werden, für den aus den Möglichkeiten gewählt werden kann.
+* einen zusätzlichen Bonusangriff auf ein Ziel erhalten heisst, dass der Bonusangriff nicht als der eine Bonusangriff pro Runde zählt. 
+* einen zusätzlichen Bonusangriff (ohne spezifiziertes Ziel) erhalten heisst, dass die Anzahl der Bonusangriffe pro Runde Steigt. Eine Bonusangriffsmöglichkeit kann nur einmal angegriffen werden, Mehrere Möglichkeiten auf das selbe Ziel können allerdings getrennt wahrgenommen werden.
