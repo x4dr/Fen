@@ -3,6 +3,23 @@ tags:
 [TOC]
 
 
+
+# Berserk
+==> Durchhaltebonus kann positiv sein?
+## An des Todes Tür 
+ Bonus auf Schaden wenn die Restlebenspunkte 1/4 unterschreiten
+==> riskant aber machbar. 5+7.5*Konstitution damit das mit Bonusleben skaliert
+==> Bonusschadenhöhe ist wichtig
+### Tee mit dem Tod
+ Bonus auf Schadensresistenz bei einstelligen Restlebenspunkte
+==> Resonanzsummenschwelle verhindert schaden, je niedriger die lebenspunkte desto einfacher ist verbleibende lebenspunkte?
+
+
+
+
+# Abgelehnt ... vorerst?
+
+
 1.5 Pistolen [all; Pistole]
 1.5.1 Zweitwaffen passiv
 Das führen einer Pistole im Nahkampf als Zweitwaffe erzeugt keine Maluswürfel
@@ -19,10 +36,3 @@ das Zielen der pistole im Kampf
 das Nachladen im Kampf , 
 ====> 1.5.4 Einhändiges Nachladen unter Druck
 Technik: kein Angriff wird gemacht, defensive -5 (pistole), Kompetenz+Pistole interpretation des Kampfwurfes als Nachladefortschritt (Siehe Armbrüste, zielwert ~30)
-
-
-1Berserk
-1.1 An des Todes Tür 
- Bonus auf Schaden wenn die Restlebenspunkte 1/4 unterschreiten
-1.1.1 Tee mit dem Tod
- Bonus auf Schadensresistenz bei einstelligen Restlebenspunkte
