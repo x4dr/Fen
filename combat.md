@@ -72,4 +72,5 @@ Angriffe repräsentieren den Fokus einer Runde zu versuchen jemanden zu verletze
 ## Zurückziehen
 * Wer nicht weiter kämpfen möchte muss dafür sorgen, dass keine weiteren Gegner in Reichweite sind.
 * Die Nahkampfreichweite einer Partei in der freien Phase zu verlassen gewährt allen in Reichweite einen Bonusangriff
-* Sich im Nahkampf rückwärts zu Bewegen verhindert den eigenen Angriff und gewährt die Möglichkeit für Gegner zu folgen, wenn sie nicht aus anderen Gründen daran gehindert werden.
+* Sich im Nahkampf rückwärts zu Bewegen verhindert den eigenen Angriff und gewährt die Möglichkeit für Gegner zu folgen, wenn sie nicht aus anderen Gründen daran gehindert werden. Zur Initiative des bewegenden Charakters wird ein neuer Nahkampf in geringer Entfernung geschaffen. Alle Teilnehmer des alten Nahkampfes müssen Entscheiden in welchem sie bleiben. Dies kann relativ (bei Charakter) oder absolut (alter/neuer Nahkampf) angesagt werden.
+* Wenn die Situation komplex wird müssen einzelne Positionen der Parteien aufgezeichnet werden um Entscheiden zu können, welche Partei im Nahkampf mit welcher anderen ist. Im Zweifel entscheidet der Spielleiter auf der Basis, das normaler Nahkampf mindestens einen etwa 5 meter Durchmesser Kreis abdeckt.
