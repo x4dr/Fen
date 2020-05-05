@@ -2,8 +2,14 @@ title: Kampf
 tags:   
 #Kampf
 Kampf besteht aus **Runden**, die aus zwei **Phasen** bestehen. Eine Runde repräsentiert etwa 5 Sekunden. Eine Minute hat 12 Runden.
-Jeder Character hat eine Aktion **pro Runde**. Und kann zusätzlich zirka 5 Sekunden sprechen oder zuhören (etwas ist erst am ende der Runde gesprochen und kann sich nur auf die nächste Runde auswirken), sich 10 meter bewegen, passiv Wahrnehmen (Feststellen ob jemand ein Schwert gezogen hat, aber nicht nach einem versteckten Gegner suchen) und ähnliche Aktivitäten durchführen.
-Es gibt nur einen einzigen Wurf pro Runde pro Charakter, der eventuell mehrfach interpretiert wird. Wenn mehrere Aktionen durchgeführt werden, ergibt dies einen Malus von 2 Würfeln pro Bonusaktion. Wenn diese Maluswürfel 5 übersteigen würden, ist stattdessen keine weitere Aktion möglich.
+Jeder Character hat eine Aktion **pro Runde**. Und kann zusätzlich:
+* zirka 5 Sekunden sprechen oder zuhören (etwas ist erst am Ende der Runde gesprochen und kann sich normalerweise nur auf die nächste Runde auswirken. "Runter!" rufe oder ähnliches können eine Ausnahme darstellen)
+* sich 10 meter bewegen 
+* passiv Wahrnehmen (Feststellen ob jemand ein Schwert gezogen hat, aber nicht nach einem versteckten Gegner suchen)
+* Bonusangriffe festlegen, wenn die Vorraussetzungen erfüllt sind
+* ähnliche Aktivitäten durchführen.
+
+Es gibt soweit möglich nur einen einzigen Wurf pro Runde pro Charakter, der eventuell mehrfach interpretiert wird. Wenn mehrere Aktionen durchgeführt werden, ergibt dies einen Malus von 2 Würfeln pro Bonusaktion. Wenn diese Maluswürfel 5 übersteigen würden, ist stattdessen keine weitere Aktion möglich.
   
 Beispiele für Aktionen:  
 
@@ -18,7 +24,7 @@ Beispiele für Aktionen:
 * Zaubern  
 * Alles was einen Wurf erfordert.  
   
-**Nahkampfangriffe sind keine Aktionen** stattdessen, ist ein "Angriff" ein binden im Nahkampf.   
+**Nahkampfangriffe sind keine Aktionen** stattdessen, ist ein "Angriff" ein binden im Nahkampf. 
 
 ## Erste Phase, die *Freie* Phase
 ###Reihenfolge
@@ -37,14 +43,20 @@ Nachdem die Phase abgeschlossen wurde, werden alle Aktionen **gleichzeitig** aus
 ### Anfang
 Am Anfang der Kampfphase können Techniken angesagt werden. Wenn nicht anders angegeben, benötigt eine Technik ein Festes Ziel auf das die Technik angewendet wird. Hierfür gelten die selben Regeln der Aktionsansage wie bei der Reihenfolgenermittlung der freien Phase. Alle, die keine Technik wählen, kämpfen flexibel.
 
+#### Bewegung
+Bewegung findet auch im Nahkampf statt, allerdings sie neigen eher dazu zu driften, als absichtlich in eine Richtung zu navigieren. Absichtliche Bewegung im Nahkampf muss zum Anfang der Nahkampfphase angesagt werden, gewährt keinen normalen Angriff ist auf halbe Grundreichweite (5m) und in eine Richtung ohne anderen Nahkampfteilnehmer beschränkt. Andere Parteien können bis auf das sie sich nur in eine Richtung bewegen können, ohne Einschränkungen folgen. Offensive und Defensive werden weiterhin normal angewendet, es werden auch rollenspieltechnisch Angriffe vollzogen, Regeltechnisch liegt der Fokus dieser Runde aber nicht darauf, anzugreifen.
+
 ###Reihenfolge
 * Alle die in der Freien Phase "Nahkampfteilnahme" gewählt haben erhalten einen Würfelwurf mit dem Offensive, Initiative und Defensive Bestimmt werden. Vor Modifikatoren sind alle Werte gleich dem Würfelergebnis, der Rest erhält Offensive 0, Initiative 0 und Defensive 5.
+* Bonusangriffe aus der freien Phase werden abgehandelt. Sofern nicht anders angegeben, kann jede Partei nur einen Bonusangriff ausführen. 
 * Eine Handlung die noch nicht erfolgt ist kann reflexiv an einen beliebigen Zeitpunkt verschoben werden der zwischen dem positiven und negativen Initiativewert liegt.
 * Hohe Initiativen haben die Möglichkeiten vor anderen zu handeln oder länger zu warten ohne ihre Handlung zu verlieren.
-* Reflexive Aktionen können Spontant zu einem Beliebigen Zeitpunkt aktiviert werden, wenn ihre Vorraussetzungen erfüllt sind.
+* Reflexive Aktionen können Spontan zu einem Beliebigen Zeitpunkt aktiviert werden, wenn ihre Vorraussetzungen erfüllt sind.
   
 ### Abhandlung eines Angriffes
-* Wenn als Teil einer Technik oder einer Handlung bei flexiblen Kämpfen ein Ziel angegriffen wird, wird ein Angriff abgehandelt.
+Angriffe repräsentieren den Fokus einer Runde zu versuchen jemanden zu verletzen. Ein Angriff kann rollenspieltechnisch einen bis dutzende einzelne Schläge, Tritte, Hiebe usw umfassen.
+
+* Wenn als Teil einer Technik, eines Bonusangriffes oder einer Handlung bei flexiblen Kämpfen ein Ziel angegriffen wird, wird ein Angriff abgehandelt.
 * Der Defensivwert des Verteidigers wird vom Offensivwert des Angreifers abgezogen. Das Resultat ist **Kampfvorteil**. Wenn der Kampfvorteil negativ ist, wurde dem Angriff komplett entgangen, durch blocken oder ausweichen, Glück, abstandhalten oder ähnlichem. 
 * Das Ziel eines Angriffes verliert 1 vom Grundergebnis, was alle modifizierten Werte (Offensive, Defensive und Initiative) beeinflusst.
 
@@ -56,3 +68,8 @@ Am Anfang der Kampfphase können Techniken angesagt werden. Wenn nicht anders an
 * 2 Maluswürfel wenn Verbündete im Nahkampf mit dem Ziel sind, 1-Resonanz trifft diese. (mit +4 pro Höhe der 1 Resonanz)
 * Fernkampf kann mit 2 Maluswürfeln gegen ein Ziel eingesetzt werden, dass sich im Nahkampf mit dem Anwender befindet (Resonanzen in diesem Fall bedeuten die normale Beschädigung der Waffe), effektiv werden die meisten Fernkampf Lade/Zielprozesse unterbrochen wenn der Schütze getroffen wird, inklusive die in der folgenden Freien Phase, bei Waffen die in der selben Freien Phase schießen in der sie vorbereitet werden. Defensive ist 5.
 * Für alle 10 Meter die sich das Ziel bewegt hat, -1 vom Ergebnis, die Entfernung ist allerdings die für den Schützen günstigste die das Ziel im laufe der Runde des Schusses inne hatte.
+
+## Zurückziehen
+* Wer nicht weiter kämpfen möchte muss dafür sorgen, dass keine weiteren Gegner in Reichweite sind.
+* Die Nahkampfreichweite einer Partei in der freien Phase zu verlassen gewährt allen in Reichweite einen Bonusangriff
+* Sich im Nahkampf rückwärts zu Bewegen verhindert den eigenen Angriff und gewährt die Möglichkeit für Gegner zu folgen, wenn sie nicht aus anderen Gründen daran gehindert werden.
