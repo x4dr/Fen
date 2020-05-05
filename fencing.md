@@ -43,7 +43,7 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 
 ### Riposte
 
-(passiv) Wenn der erste Angreifer auf den Anwender einer Runde 0 oder weniger Vorteil hat, kann dieser mit einem Gelegenheitsangriff angegriffen werden. 
+(passiv) Wenn der erste Angreifer auf den Anwender einer Runde 0 oder weniger Vorteil hat, kann dieser mit einem Bonusangriff angegriffen werden. 
 
 #### Geduld
 
@@ -79,7 +79,7 @@ Wie Riposte, Kampfvorteil wird optional zu 1.
 
 ##### Lösen
 
-(reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Anwender anzugreifen. Nächste Runde Offensive +2, Defensive -4. In der nächsten freien Phase erhält das Ziel keine Gelegenheitsangriffe auf den Anwender.
+(reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Anwender anzugreifen. Nächste Runde Offensive +2, Defensive -4. In der nächsten freien Phase erhält das Ziel keine Bonusangriffe durch Bewegung auf den Anwender.
 
 #Säbeltraining
 
@@ -91,7 +91,7 @@ Wie Riposte, Kampfvorteil wird optional zu 1.
 
 ### Passieren
 
-(passiv) Ziele die seit dem Beginn der letzten Runde angegriffen wurden erhalten keine Gelegenheitsangriffe gegen den Charakter.
+(passiv) Ziele die seit dem Beginn der letzten Runde angegriffen wurden erhalten keine Bonusangriffe gegen den Charakter.
 
 #### Eintausend Schnitte
 
