@@ -1,26 +1,8 @@
 title: Waffen  
-tags:   
+tags: Weapon rules  
 [TOC]  
 
 #Waffen
-Folgende tabelle ist obsolet aber als referenz teilweise noch nützlich
-
-
-|Waffe | Grundschaden | Vorteilsmultiplikator | Reichweite | Bemerkung |
-|---|---|---|---|---|
-|[Kurzschwert](shortsword)| 1CPHB | 1 | 1 |   |  
-|[Langschwert](longsword)| 3CPHB | 1 | 2 |   |  
-|Dolch|       0CP | 2 | 0  |   |  
-|Hammer| 4 | 0B | 1 | Reload 3-KK |   
-|Kampfaxt | 10CHB | 1 | 0 | -3 Def |
-|[Kurzbogen](bows#shortbow)| 8P | 1 | 20 |   Reload 1, Unterbrechbar|  
-|[Langbogen](bows#longbow)| 12P | 1 | 50 |   Reload 2, Unterbrechbar|  
-|Armbrust| XP | 0 |  30 |  Reload KK,Armbrust@5>X*2-x/3:r, Teilunterbrechbar|  
-|Kurzschleuder| 0B | 1 | 10 |  Reload 1, Unterbrechbar |  
-|Langschleuder| 0B | 2 | 40 |  Reload 1, Schwierigkeit +2, Unterbrechbar |  
-|Nahkampf| 0B | 1 | 0 |  
-|[Schild](schools#schild)| 5 | 0.5 | 0 | Erhöht Defensive |
-
 ###Kurzschwert
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -143,6 +125,27 @@ Folgende tabelle ist obsolet aber als referenz teilweise noch nützlich
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 |   
 
 
+# Waffeneigenschaften
+Waffen bieten, auch ohne Training unterschiedliche Anwendungsmöglichkeiten.
+##Kurzschwert
+##Langschwert
+##Dolch
+##Hammer
+##Schlagringe
+##Axt
+##Säbel
+##Panzerbrecher
+##Kurzspeer
+##Langspeer
+###Stellunghalten
+passiv
+Solange der Reichweitenvorteil gegeben ist, erhalte Bonusangriffsmöglichkeit auf alle die sich in Reichweite Begeben.
+##Wurfmesser
+##Langbogen
+##Kurzbogen
+##Langschleuder
+##Kurzschleuder
+
  
 
 # Anmerkungen  
@@ -162,8 +165,9 @@ Folgende tabelle ist obsolet aber als referenz teilweise noch nützlich
 * müssen daher meistens geholt werden bevor man sie benutzen kann (eine runde zum waffe vom rucksack abschnallen/vom wagen nehmen/hinrennen usw PLUS die runde zum bereit machen)
 * sind in den meisten städten illegal (zumindest zu tragen, transportieren darf man sie, wenn sie eingepackt usw sind)
 * bekommen maluswürfel in gebäuden oä
-* machen mehr schaden als andere waffen
-* haben einen reichweitenvorteil (gelegenheitsangriff wenn sich jemand in reichweite bewegt, treffer bricht Bewegung ab) 
+* machen meist mehr schaden als andere waffen
+* haben einen Reichweitenvorteil: Solange nicht in der letzten Runde mit 0 oder mehr Vorteil im Nahkampf Angegriffen: 1 Bonuswürfel
+
 
 # Spezifische waffen
 ### Avis Magische Peitsche
