@@ -23,6 +23,7 @@ Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in die
 ###Die 250 Blitzkristalle
 Cooler unterboden oder sonnenstein hell halten im sturm
 ###Räume
+Coole Komunikations röhren
 ####Magazin
 ###planken entchantment
 ####Strumstbilisation
