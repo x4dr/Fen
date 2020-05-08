@@ -30,7 +30,7 @@ Reisen: 225kg
 ## Wunden:  
 Megatalus:  
 Bein 1: [1 1 1]@7(Pfeile)  
-Bein 2: [2 2]@7(Pfeile)  
+Bein 2: [2 2]@7(Pfeile) [7]@6(Dolch)  
 Bein 7: [2]@7(Pfeile)  
 Bein 8: [4]@7(Pfeile)  
 Talus: 2@4 3@8 2@6 1@6 8@7 1@6 1@6 2@6  
@@ -334,6 +334,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Herz des Waldes		|1	||||
 |Zombiedornenbaumdorn		|1	||||
 |Bronzekurzschwert		|3	|1 kg	|3 kg||
+|Flutkyanit (als Phiole)(13)11 14/150/150 min Out 10|1	|0.20 kg	|0.20 kg||
 |Gesamt|||||
 
 # Erfahrung  
