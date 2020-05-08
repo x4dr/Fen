@@ -23,7 +23,7 @@ Zauberzeit: 1
 Es wird eine Lange linie an einem Arm des Zaubernden angebracht, von der Hand zum Körper hin.
 Eine Wunde mit der eine Verbindung hergestellt wurde (Person berührt, von gebundener Klinge ausgelöst) wird um **Wurf**/3 Vergrößert und der Zaubernde erhält den angerichteten Schaden an Lebensenergie.
 
-##Leben Herz stoppen
+##Herz stoppen
 Kosten: 6
 Zauberzeit: 2
 
