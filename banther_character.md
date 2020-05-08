@@ -224,6 +224,13 @@ Schwäche:
 |||
 
 #Inventar  
+- Opal der Tradition (jede Woche +1 auf Maximum)
+- Almanach:
+-> Grundwissen Atterkan
+
+# Alchemierezepte
+- Atterkan Lähmungsgift/Antidot (Lähmungswiderstand gegen 5 nötig)
+
 ##Zauber
 ###Leben
 [Entzündung stoppen[[specific:lifemagic:entzündung stoppen:-]]]
