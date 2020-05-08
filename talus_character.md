@@ -334,7 +334,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Herz des Waldes		|1	||||
 |Zombiedornenbaumdorn		|1	||||
 |Bronzekurzschwert		|3	|1 kg	|3 kg||
-|Flutkyanit (als Phiole)(13)11 14/150/150 min Out 10|1	|0.20 kg	|0.20 kg||
+|Flutkyanit (als Phiole)(13)11 14/150/150 minimum Outpu 10	|1	|0.20 kg	|0.20 kg||
 |Gesamt|||||
 
 # Erfahrung  
