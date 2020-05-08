@@ -15,7 +15,7 @@ tags:
 |Twists| produziert ständig Dreck|
 |Exp|22|
 ##Bewaffnung
-Bronzehammer (stark beschädigt), Stahlhammer(stark beschädigt)
+Bronzehammer (stark beschädigt),
 Bronze Schlagringe (stark beschädigt), Langschleuder (stark beschädigt) 
 
 ##Artefakte
@@ -121,7 +121,7 @@ stets betrunken
 |Fähigkeit|Level|  
 |-|-|  
 |WissenGetränke| 2| 
-|  WissenHandel|  1|  
+|  WissenHandel|  _1|  
 |  Nahrungsmittel|  _1|  
 |  Loot|  _1|  
 |  Suchen|  1|  
