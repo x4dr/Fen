@@ -121,7 +121,7 @@ stets betrunken
 |Fähigkeit|Level|  
 |-|-|  
 |WissenGetränke| 2| 
-|  WissenHandel|  _1|  
+|  WissenHandel|  1|  
 |  Nahrungsmittel|  _1|  
 |  Loot|  _1|  
 |  Suchen|  1|  
