@@ -8,7 +8,7 @@ Münze nach der Diebesgilde erhalten,
 kann tod verhindern/jemnden zurückbringen  
 Hat unkontroliert vibriert
 
-###Vogelschädel des Pupenmeisters  
+###Vogelschädel des Puppenmeisters  
 kontrolliert vielleicht Vögel?
 
 ### amulett 1 (Talus)
