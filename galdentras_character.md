@@ -275,7 +275,6 @@ Beleidigen
 Kritische Anwendung (1)
 
 Holzverarbeitung
-Anwendung 1
 Praxis 1 Woche
 Inspiration 1
 Perspektive 1
