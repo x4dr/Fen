@@ -277,8 +277,9 @@ Kritische Anwendung (1)
 Holzverarbeitung
 Anwendung 1
 Praxis 1 Woche
-Inspiration
+Inspiration 1
 Perspektive 1
+Kritische Anwendung 1
 
 Survival
 Kritische Anwendung 1
