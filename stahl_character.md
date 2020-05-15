@@ -189,6 +189,7 @@ tags: Character Swordlad
 |Befehlsgewalt|P|
 |Begegnung|KK|
 |Quelle|[karum, instabile quelle, avis]|
+|Instinkt | K|
 
 
 #Techniken
