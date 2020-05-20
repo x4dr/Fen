@@ -8,4 +8,4 @@ this is a test
 [[specific:artefakte:magisches feuerzeug]]
 
 #testarmor
-[[armor:lamellar:Nlustige <>rüstung des testens,W x*1000 + 5,titan]]
+[[armor:lamellar:titan,Nlustige <>rüstung des testens,W x*1000 + 5]]
