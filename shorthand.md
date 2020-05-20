@@ -6,4 +6,4 @@ Innerhalb dieser Sektion sind kurzerklärungen für die Automation abgelegt. Än
 ##Armor
 |Abkürzung|"Bedeutung"|
 |---|---
-|Titan | W x/2, K 0, R 0 |
+|Titan |NTitan-<>, W x/2, K 0, R 0 |
