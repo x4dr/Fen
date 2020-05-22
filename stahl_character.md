@@ -190,6 +190,7 @@ tags: Character Swordlad
 |Begegnung|KK|
 |Quelle|[karum, instabile quelle, avis]|
 |Instinkt | K|
+|Law| M|
 
 
 #Techniken
