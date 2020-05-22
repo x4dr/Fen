@@ -174,7 +174,7 @@ tags: Character Swordlad
 |Springen|V|
 |Survival|K P(10/24)|
 |Zechen|VK|
-|Waffe(Langbogen)|[Worogra][Istan][Dinas Godol][Yon]KKKL|
+|Waffe(Langbogen)|[Trarora][Worogra][Istan][Dinas Godol][Yon]KKKL|
 |Metallverarbeitung|P???P(1/50)K|
 |Kochen|I|
 |Heilen|KKPPVV|
