@@ -142,6 +142,7 @@ Schwäche:
 |Fähigkeit|Level|  
 |-|-| 
 |Rhetorik|3|
+|Handeln|1|
 |Empathie|1|
 |Befehlsgewalt|1|
 |Etikette|1|
