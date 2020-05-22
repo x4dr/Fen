@@ -174,14 +174,14 @@ tags: Character Swordlad
 |Springen|V|
 |Survival|K P(10/24)|
 |Zechen|VK|
-|Waffe(Langbogen)|[Trarora][Worogra][Istan][Dinas Godol][Yon]KKKL|
+|Waffe(Langbogen)|[Tantor][Worogra][Istan][Dinas Godol][Yon]KKKL|
 |Metallverarbeitung|P???P(1/50)K|
 |Kochen|I|
 |Heilen|KKPPVV|
 |Strategie|TTTL|
 |Taktik|TTTL|
 |Navigation|PPPP|
-|BerufAdministrator|P[Eisenbach. Worograd]V|
+|BerufAdministrator|P[Eisenbach. Worograd, Trarora]MV|
 |Diplomatie|K|
 |Handel|TL|
 |Rhetorik|K[Eisenbach]
