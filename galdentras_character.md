@@ -13,7 +13,7 @@ tags:
 |Statur|stämmig, dick|
 |Augen|schwarz|
 |Twists| produziert ständig Dreck|
-|Exp|22|
+|Exp|20|
 ##Bewaffnung
 Bronzehammer (stark beschädigt),
 Bronze Schlagringe (stark beschädigt), Langschleuder (stark beschädigt) 
@@ -90,7 +90,7 @@ stets betrunken
 |Fähigkeit|Level|  
 |-|-|  
 |  Segeln |  2|
-|  HandwerkHolz | 2 |
+|  HandwerkHolz | 3 |
 |Möbel|_2|
 |  Schiffsbau |  _2 |
 |  Schleichen |  2 |
@@ -211,6 +211,7 @@ stets betrunken
 |Wasseratmung| 1|
 |Psychische Verbindung| 1|
 |Chitinpanzer|1|
+|Connections Tantor (Holz)|1|
 
 ###Nachteile
 |Nachteilsname|
@@ -275,11 +276,7 @@ Beleidigen
 Kritische Anwendung (1)
 
 Holzverarbeitung
-Anwendung 1
-Praxis 1 Woche
-Inspiration 1
-Perspektive 1
-Kritische Anwendung 1
+
 
 Survival
 Kritische Anwendung 1
