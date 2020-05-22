@@ -24,7 +24,7 @@ Talus: 60kg Federstahl
 Kampf: 120kg  
 Reisen: 225kg  
 ## Geld:  
-0
+9s
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
