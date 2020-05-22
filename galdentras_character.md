@@ -15,8 +15,8 @@ tags:
 |Twists| produziert ständig Dreck|
 |Exp|20|
 ##Bewaffnung
-Bronzehammer (stark beschädigt),
-Bronze Schlagringe (stark beschädigt), Langschleuder (stark beschädigt) 
+Bronzehammer ,
+Bronze Schlagringe , Langschleuder  
 
 ##Artefakte
 Schmerzdämpferpiercing
@@ -29,7 +29,7 @@ Götterfunke
 Gambeson 2/6
 Kettenhemd Bronze 4/8
 Schwere Kette Schutz 5/7
-Aurierschild 4 (stark beschädigt)
+Aurierschild 4
 
 #Details
 ##Allgemeine Erscheinung  
