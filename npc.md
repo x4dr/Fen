@@ -125,3 +125,6 @@ Landmeister der Glänzenden Ritter eingeteilt für Eisenbach
 
 ### Uskin
 Nachtpatroullie in der Nähe von Tantor. Anti Gaius
+
+### Chitur Askur
+Meisterchirurg in Tantor
