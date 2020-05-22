@@ -228,6 +228,7 @@ Schwäche:
 - Opal der Tradition (jede Woche +1 auf Maximum)
 - Almanach:
 -> Grundwissen Atterkan
+-> Tantor Minenparasit
 
 # Alchemierezepte
 - Atterkan Lähmungsgift/Antidot (Lähmungswiderstand gegen 5 nötig)
