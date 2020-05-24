@@ -46,7 +46,7 @@ tags:
 | Seil | 30k | 1kg |
 | Ziehstein | 2s | 10g |
 | Sehne | 50k | 10g |
-| 1ha Fruchtbares land | 2au |  200000t |
+| Fruchtbares Land | 2au |  200000t |
 
 #Details
 ##Seil
@@ -54,9 +54,10 @@ tags:
 ##Drachenglas
 10 Punkte, zerfällt nach Gebrauch zu Quartzsand
 
+##Fruchtbares Land
+1 ha, kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro ha pro Jahr.   
 
-Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro ha pro Jahr.   
-
+#Dienstleistungen
 |Dienstleistungen | Preis |  
 | :--- | ---: |  
 | Aufladen | 5s/Punkt |  
