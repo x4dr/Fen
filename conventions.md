@@ -21,6 +21,7 @@ S - Entsprechende Tat(Gesellenstück bis Legendäre Tat)
 [[[info]]] fügt ausklappbar ein
 [name[[info]]] fügt ausklappbar mit extra überschrift ein
 info hat folgende optionen
+
 * weapon:waffenname:waffenmods
 * armor:rüstungsname:rüstungsmods
 * specific:seite:specificselektor
