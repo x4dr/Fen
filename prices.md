@@ -21,9 +21,11 @@ tags:
 | Titan | 150s |  1kg|
 | Phosphor | 30s |1kg|
 | Wachs | 10 c |1kg|
+| Säure | 15s | 1kg |
+| Quartzsand | 2.80s | 1 kg |
 | Methyl-Ethyl 50% | 50 c |1kg|
-| Brot| 15c| 1kg|
-| Bier| 10c| 500g |
+| Brot| 5c| 1kg|
+| Bier| 3c| 500g |
 | Huhn| 50c| 600g|
 | Hase| 1s| 1500g|
 | Schaf| 10s| 80kg |
@@ -33,9 +35,21 @@ tags:
 | Eisen Waffe| 1g | 1kg |
 | Stahl Waffe| 10g | 1kg |
 | Bronze Pfeil| 4c | 20g |
-| Pferd | 5g-100g |  500kg|
-| Handwerkszeug Q2 | 5s | 5kg|
-| 1ha Fruchtbares land | 1-2 g |  200000t |
+| Arbeitspferd | 10g | 800kg|
+| Rennpferd | 50g |  450kg|
+| Prestigepferd | 100g |  600kg|
+| Handwerkszeug Q1 | 1s | 1kg|
+| Handwerkszeug Q2 | 5s | 3kg|
+| Handwerkszeug Q3 | 30s|8kg|
+| Handwerkszeug Q4 | 1.5au|10kg|
+| Handwerkszeug Q5 | 20au|15kg|
+| Seil | 30c | 1kg |
+| Ziehstein | 2s | 10g |
+| Sehne | 50c | 10g |
+| 1ha Fruchtbares land | 2au |  200000t |
+
+##Seil
+10 meter
 
 
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro ha pro Jahr.   
