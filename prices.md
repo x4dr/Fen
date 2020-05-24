@@ -12,7 +12,7 @@ tags:
 | Stahl  | 50s |1kg|
 | Silber | 1g  |  1kg|
 | Gold | 100g |  1kg|
-| Drachenglas( 10pt) | 30s |  1kg|
+| Drachenglas | 30s |  1kg|
 | Salz | 20c |  1kg|
 | Rindfleisch | 50c |1kg|
 | Butter/Käse | 30c |1kg|
@@ -48,8 +48,11 @@ tags:
 | Sehne | 50c | 10g |
 | 1ha Fruchtbares land | 2au |  200000t |
 
+#Details
 ##Seil
-10 meter
+10 Meter
+##Drachenglas
+10 Punkte, zerfällt nach Gebrauch zu Quartzsand
 
 
 Das Fruchtbare Land kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro ha pro Jahr.   
