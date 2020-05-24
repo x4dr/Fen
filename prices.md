@@ -1,6 +1,6 @@
 title: Preise  
 tags:   
-|Material | Preis | Gewicht |
+|Name | Preis | Gewicht |
 |:---|---:|---: |
 | Weizen | 4k | 1kg|  
 | Mehl | 5k |  1kg|
