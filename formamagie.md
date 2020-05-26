@@ -214,7 +214,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 
 ###Leuchtradius
 Leuchtradius beschreibt die Distanz auf die Normal ohne Abzüge (für Dunkelheit) Wahrgenommen werden kann.
-Alle angefangenen 50% darüber sind jeweils 1 Maluswürfel für Dunkelheit. Überzählige Maluswürfel in diesem Fall werden in diesem Fall zu 1en und dem Wurf hinzugefügt. 1 Resonanz sind nicht unbedingt Halluzinationen, sondern, so fern sie für die Situation überhaupt relevant sind, repräsentieren eher Unruhe über die Abwesenheit von Information oder zukünftige Unaufmerksamkeit durch unterreizte Sinne. 
+Für jede zusätzliche Hälfte des Leuchtradius darüber sind jeweils 1 Maluswürfel für Dunkelheit. Überzählige Maluswürfel in diesem Fall werden in diesem Fall zu 1en und dem Wurf hinzugefügt. 1 Resonanz sind nicht unbedingt Halluzinationen, sondern, so fern sie für die Situation überhaupt relevant sind, repräsentieren eher Unruhe über die Abwesenheit von Information oder zukünftige Unaufmerksamkeit durch unterreizte Sinne. 
 
 ### Modifikatoren  
 
