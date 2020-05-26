@@ -204,10 +204,10 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 
 |Modifikation|Handlung|Wirkung|Kosten|
 |---|---|---|---|
-|Leuchte | Dreifache widerholung und umkreisen einer Kugelform mit den Händen | Stationäres Licht, Konzentration 1/Stunde | 10 Minuten |
-|Laterne | wie Laterne, plus Halter mit Inschrift | Stationäres Licht im Halter, abnehmend pro Stunde | Benötigt stationären Halter, 10 Minuten 5 Instabilität|
-|Lampe | Licht auf den Halter legen und festdrücken | Licht im portablen Halter, abnehmend pro 30 min | Benötigt portablen Halter, 1 Minute, 5 Instabilität |
-|Farbiges Licht| aussprechen der Farbe | Farbiges Licht | - |
+|Leuchte | stetige Widerholung und umkreisen einer Kugelform mit den Händen | Stationäres Licht, Konzentration 1/Stunde | 10 Minuten |
+|Laterne | wie leuchte, umkreise Form ist stationärer Halter mit entsprechender Vorbereitung (12+ bei der Herstellung; 5+ kg) | Licht im stationären Halter, abnehmend pro Stunde | Benötigt stationären Halter, 10 Minuten 5 Instabilität|
+|Lampe | Wie Laterne, Halter ist kleiner (1+kg) und 16+ | Licht im portablen Halter, abnehmend pro 30 min | Benötigt portablen Halter, 1 Minute, 5 Instabilität |
+|Farbiges Licht| aussprechen der Farbe als adjektiv zu lux | Farbiges Licht | - |
 
   
 ##Terra  
