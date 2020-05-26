@@ -202,7 +202,8 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 
 ### Magische Lichtstärke
 |Effektstärke |Helligkeit| leuchtradius |
-|0 | glimmender Punkt, gibt kein Licht ab, aber ist sichtbar, nach einer Minute dunkelheit | 0 |
+|--- |---|---|
+|0 | glimmender Punkt, gibt kein Licht ab, aber ist sichtbar, innerhalb einer Minute vollständig dunkel | 0 |
 |1-5| Kerzenflamme |  1-2 m |
 |6-10| Fackel |  3-5 m |
 |11-12| Lampe | 8-12 m |
