@@ -200,21 +200,8 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Dauer|abnehmend, pro minute|  
 |Wurfmodifikator| (richtet selbst keinen Schaden an)|  
 
-### Magische Lichtstärke
-|Effektstärke |Helligkeit| leuchtradius |
-|--- |---|---|
-|0 | glimmender Punkt, gibt kein Licht ab, aber ist sichtbar, innerhalb einer Minute vollständig dunkel | 0 |
-|1-5| Kerzenflamme |  1-2 m |
-|6-10| Fackel |  3-5 m |
-|11-12| Lampe | 8-12 m |
-|13-15| Leuchtet einen mittelgroßen Raum sehr gut aus, direktes Anschauen unangenehm| 18-30 m |
-|16-17| Flutlicht |40-80m
-|18-19| Tageslicht in 10 m umkreis | 150-300m |
-|20| Tageslicht scheint auf alles in Sichtweite | - |
-
-###Leuchtradius
-Leuchtradius beschreibt die Distanz auf die Normal ohne Abzüge (für Dunkelheit) Wahrgenommen werden kann.
-Für jede zusätzliche Hälfte des Leuchtradius darüber sind jeweils 1 Maluswürfel für Dunkelheit. Überzählige Maluswürfel in diesem Fall werden in diesem Fall zu 1en und dem Wurf hinzugefügt. 1 Resonanz sind nicht unbedingt Halluzinationen, sondern, so fern sie für die Situation überhaupt relevant sind, repräsentieren eher Unruhe über die Abwesenheit von Information oder zukünftige Unaufmerksamkeit durch unterreizte Sinne. 
+[[[specific:home:Lichtstärke]]]
+[[[specific:home:Leuchtradius]]]
 
 ### Modifikatoren  
 
