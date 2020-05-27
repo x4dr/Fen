@@ -117,10 +117,10 @@ siehe [Schild](shield)
 (benötigen Kampfmanöver Weisheits skill auf dem entsprechenden level; Geist-Kampfmanöver wird nur interpretiert wenn zwei taktiken/Techniken/reflexloops eine Gleichstandssituation auslösen)
 ##Wache 
 Technik
-greift alles an was sich auf bewachtes ziel oder selbst zubewegt oder angreift, keine Attack of Opportunity Umgehung
+2 Zusätzliche Bonusangriffe, Bonusangriffsmöglichkeit auf alles was die bewachte Person (kann auch selbst sein, um zB eine Tür zu blockieren) Angreifen will (oder personal Space betreten). Angriffe können nicht Umgangen werden (zB passieren o.ä.)
 ## Herausforderung 
 Reflexiv
-Ziel (das noch einen Angriff hat) erhält Möglichkeit Anwender mit dem Haupt Angriff mit +2 Offensive, oder es verliert 2 Offensive und Defensive
+Ziel (das noch einen Angriff hat) erhält Möglichkeit Anwender mit dem Haupt Angriff mit +2 Offensive anzugreifen, oder es verliert 2 Offensive und Defensive. Kann aktive Angriffe unterbrechen.
 ## Bedrohung 
 Reflexiv, auch in freier Phase, Defensive -3, 
 Ziel in Nahkampfreichweite beendet entweder die Bewegung bis ende nächster runde oder verliert 5 Defensive und wird angegriffen)
