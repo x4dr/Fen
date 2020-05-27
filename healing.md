@@ -92,7 +92,7 @@ Haben einen Reserve HP Pool (der nur relevant wird bei mehreren Verletzungen) de
 
 Mykier können sich in eine Heilungstrance versetzen, in der sie sich rasant Heilen können. Das Eintreten in die Heilungstrance benötigt eine Runde, solange sie in der Heilungstrance sind haben sie 4 Maluswürfel auf alles außer Heilung. Diese Maluswürfel nehmen mit einer Rate von 1/Runde ab, nachdem die Heilungstrance (als Aktion) beendet wird.
 
-In der Trance haben sie die Möglichkeit als Aktion einen Heilungswurf für eine spezifische Wunde zu machen. Das Ergebnis - Wundschwierigkeit ist um wie viele Punkte die Wunde in dieser Runde heilt. Wenn das Ergebnis negativ ist, heilt stattdessen nichts.
+In der Trance haben sie die Möglichkeit als Aktion einen Heilungswurf für eine spezifische Wunde zu machen. 1 + Das Ergebnis - Wundschwierigkeit ist um wie viele Punkte die Wunde in dieser Runde heilt. Wenn das Ergebnis negativ ist, heilt stattdessen nichts.
 
 Modifikatoren:
 
@@ -113,7 +113,7 @@ Heilungswürfe müssen nicht gemacht werden (zum Beispiel bei Maluswürfeln), ab
 
 |Amplitude|Effekt|  
 |:-|:-|  
-|0| Die differenz zur Wundschwierigkeit (falls Schwierigkeit größer) vergrößert die Wunde stattdessen. Sie kann heute nicht weiter heilen. |
+|0| Die Differenz zur Wundschwierigkeit (falls Schwierigkeit größer) vergrößert die Wunde stattdessen. Sie kann heute nicht weiter heilen. |
 |1| Verliere einen Fortschrittspunkt vom aktuellen Level von einer zufälligen Fähigkeit bis die Wunde verheilt ist.  Dann wie 0.|
 |2| Wie 1, Permanenter FP verlust |  
 |3| wie 2, Werfe eine Münze und für jedes mal Zahl eine weitere Münze. Die Endanzahl der Münzen ist wie viele verschiedene Fähigkeiten beeinflusst sind. |  
