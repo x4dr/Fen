@@ -34,9 +34,24 @@ Es gibt keine Physik. Jeder Effekt ist durch die unten genannten Regeln nur da a
 |11-12| Lampe | 8-12 m |
 |13-15| Leuchtet einen mittelgroßen Raum sehr gut aus, direktes Anschauen unangenehm| 18-30 m |
 |16-17| Flutlicht |40-80m
-|18-19| Tageslicht in 10 m umkreis | 150-300m |
-|20| Tageslicht scheint auf alles in Sichtweite | - |
+|18-19| Taghell in 10 m umkreis | 150-300m |
+|20| Taghell alles in Sichtweite | - |
 
 ### Leuchtradius
 Leuchtradius beschreibt die Distanz auf die Normal ohne Abzüge (für Dunkelheit) Wahrgenommen werden kann.
 Für jede zusätzliche Hälfte des Leuchtradius darüber sind jeweils 1 Maluswürfel für Dunkelheit. Überzählige Maluswürfel in diesem Fall werden in diesem Fall zu 1en und dem Wurf hinzugefügt. 1 Resonanz sind nicht unbedingt Halluzinationen, sondern, so fern sie für die Situation überhaupt relevant sind, repräsentieren eher Unruhe über die Abwesenheit von Information oder zukünftige Unaufmerksamkeit durch unterreizte Sinne. 
+
+## Gravitation
+### Fallschaden
+Fallschaden ist Umstandsabhängiug:
+Fallhöhe: 2 meter, 4 meter, 8 meter, 16 meter, 32 meter
+Fallhöhe: 50, 100, 150, 200, 250
+Kollision: Vorteilhaft, Gut, Normal, Schlecht, schrecklich
+Technik: Wurfergebnis/Qualität des Fallens 18, 15, 12, 8, 5
+
+Umstände die günstiger sind als das linkeste Element ihrer Liste werden mit 0 Berechnet.
+Umstände die ungünstiger sind als das rechteste Element ihrer Liste sind eine automatische 10
+
+Alle anderen sind Selektoren auf den selben Wurf. Fallschaden ist im allgemeinen Schlagschaden, kann aber je nach Untergrund aber auch ganz oder teilweise Bluten. Jeder Umstand macht eine eigene Wunde, Fallhöhe machen gemeinsam eine Wunde.
+
+### Flug
