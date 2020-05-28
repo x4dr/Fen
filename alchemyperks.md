@@ -87,17 +87,17 @@ Wenn alle 3 Bilder von Entropie aus dem Deck entfernt sind, Können Zauberkosten
 Wann immer eine Entropiekarte abgelegt wird, kann diese entfernt werden, um zwei (oder alle) Karten aus der Hand unter das Deck zu legen und zwei Karten zu ziehen.
 
 ## Elementare Leichtigkeit
-Wenn alle Asse aus dem Deck entfernt sind löst das Entfernen einer weiteren Karte Erleuchtung für die nächsten 10 Minuten aus. Neues entfernen frischt lediglich die Dauer auf. Erleuchtung kann reflexiv in ein Licht der Erkenntnis umgewandelt werden.
+Wenn alle Asse aus dem Deck entfernt sind löst das Entfernen einer weiteren Karte **Erleuchtung** für die nächsten 10 Minuten aus. Neues Entfernen frischt lediglich die Dauer auf. Erleuchtung kann reflexiv in ein Licht der Erkenntnis umgewandelt werden.
 
 ### Strömende Konzentration
 Wenn erleuchtet und das Zaubern eines Zaubers der diese Quelle nutzt durch einen erfolgreichen Angriff auf den Zaubernden unterbrochen werden würde, hat dieser die Möglichkeit eine beliebige Handkarte zu **entfernen**, die Zauberlänge um 1 zu erhöhen und nicht unterbrochen zu werden. Ohne Handkarte kann dieser Effekt nicht gewählt werden.
 
 ### Lodernde Verdichtung
-Wenn erleuchtet und wenn die Anzahl der nicht entfernten Karten kleiner oder gleich 13 ist, sinken alle Zauberzeiten dieser Quelle auf 0.
+Wenn erleuchtet und wenn die Anzahl der nicht entfernten Karten kleiner oder gleich 13 ist, sinken alle Zauberzeiten von einem Zauber der mindestens eine dieser Karten nutzt (also nicht Verwehende Verstärkungskarten) auf 0.
 
 ### Verwehende Verstärkung
-Während Erleuchtung werden aus der Hand, dem Deck oder dem Ablagestapel (durch andere Effekte) entfernte Karten  (auch die die die Erleuchtung auslöste) in einen neuen Stapel gelegt von dem aus sie ein weiteres mal zum Zaubern benutzt werden können.
-Der Entfernungszeitpunkt ist nach wie vor der erste, allerdings können sie für Dedikationen genutzt werden. Dedikationen dieser Karten enden, sobald die Erleuchtung endet.
+Während Erleuchtung werden aus der Hand, dem Deck oder dem Ablagestapel (durch andere Effekte) entfernte Karten  (auch die, die die Erleuchtung auslöste) in einen neuen Stapel gelegt von dem aus sie ein weiteres mal zum Zaubern benutzt werden können.
+Der Entfernungszeitpunkt ändert sich nicht, Es wird mit entfernten Karten gezaubert. Diese Karten können für Dedikationen genutzt werden, wenn sie die anderen Anforderungen erfüllen, aber die Dedikationen dieser Karten enden sobald die Erleuchtung endet.
 
 ### Beständige Bemächtigung
-Wenn erleuchtet wird das nächste mal, wenn das Deck leer ist und versucht wird eine Karte zu ziehen, der Ablagestapel und die Hand ins Deck gemischt. Das Ziehen fällt aus und die Erleuchtung endet. 
+Wenn erleuchtet wird das nächste mal, wenn das Deck leer ist und versucht wird eine Karte zu ziehen, der Ablagestapel und die Hand ins Deck gemischt bevor gezogen wird. Die Erleuchtung endet.
