@@ -34,11 +34,11 @@ Für jede 2 die als Teil eines Zaubers (nicht Aufrechterhaltung oder abwerfen) a
 Die größere Einstimmung kann erreicht werden, in dem man sich in einen tranceartigen Zustand begibt, dies benötigt eine volle Aktion. Sie wird unterbrochen, wenn ein Treffer erlitten wird. Während die größere Einstimmung aktiv ist, kann jederzeit die oberste Karte des Decks angesehen werden.
 
 ### Licht der Erkenntnis
-5 Stufen. Quelle und Stufe dieses Vorteils werden als volle Aktion gewürfelt um bei einem Ergebnis von 10 oder mehr Erkenntnis zu erlangen. Bei Misserfolg wird eine Karte aus dem Ablagestapel (alternativ aus dem Deck, alternativ aus der Hand) entfernt. Erkenntnis bezieht sich auf die Mystische Realität der Situation und eine Erkenntnis gleichzeitig kann ausgegeben werden um einen Bonuswürfel auf relevante Würfe zu erhalten.
-Erkenntnis verschwindet am Ende der nächsten Runde.
+5 Stufen. Quelle und Stufe dieses Vorteils werden als volle Aktion gewürfelt um bei einem Ergebnis von 10 oder mehr Erkenntnis zu erlangen. Bei Misserfolg wird eine Beliebige Karte aus dem Ablagestapel (alternativ die oberste aus dem Deck, alternativ eine beliebige aus der Hand) **entfernt**. Erkenntnis bezieht sich auf die Mystische Realität der Situation und eine Erkenntnis gleichzeitig kann ausgegeben werden um einen Bonuswürfel auf Würfe zu erhalten, bei denen tiefe meditative Klarheit über mystische Zusammenhänge von Vorteil sind.
+Erkenntnis verringert sich mit dem Ende der nächsten Runde um 1.
 
 #### Halten des Flüchtigen Lichtes
-5 Stufen. Wenn Aktionen unternommen werden die mit der Quelle oder der Quelle nutzenden Magie, oder relevante andere Aktivitäten zusammenhängen, verfällt die Erkenntnis nicht am Ende der Runde.
+5 Stufen. Wenn Aktionen unternommen werden die mit der Quelle oder der Quelle nutzenden Magie, oder relevantnen andere Aktivitäten zusammenhängen, sink am Ende der Runde die Erkenntnis nicht.
 Maximal so viel Erkenntnis kann gleichzeitig gehalten werden wie die Stufe von halten des Flüchtigen Lichts.
 
 #### Verstehen der neuen Möglichkeiten
@@ -60,25 +60,44 @@ Erkenntnis kann ausgegeben werden um eine Karte für jede Stufe von Planung des 
 Zauberzeit kann für verdoppelte Materialkosten und einen Maluswürfel [um 1 verkürzt](magic#0) werden.
 
 ### Verbessertes Beschleunigte Reaktion
-Beschleunigte Reaktion kann zwei mal auf einen Zauber angewendet werden für insgesamt vierfache Kosten und 2 Maluswürfel.
+Beschleunigte Reaktion kann erneut einen Zauber angewendet werden für insgesamt vierfache Kosten Materialkosten und 2 Maluswürfel. Die Zauberzeit wird halbiert und abgerundet oder um 2 gesenkt (wahl des Zaubernden), alle Prozesse die Zeit brauchen laufen doppelt so schnell, Aufrechterhaltungskosten sind verdoppelt (und werden häufiger fällig). 
 
 ## Stimulierte Meditation
-wenn alle 3 Bilder von Energie aus dem Deck entfernt sind, wird ein zweiter Stapel für entfernte Karten eröffnet, von dem **jeweils** eine Karte per Meditation zurückgewonnen werden kann. Der Aktuelle Stapel von entfernten Karten wird gemischt und dann auf die zwei Stapel aufgeteilt. Zukünftig entfernte Karten werden zufällig verteilt. Wenn eins oder mehr der Bilder von Energie ins Deck nicht mehr entfernt sind, werden beide Stapel zusammengelegt.
+Wenn alle 3 Bilder von Energie aus dem Deck entfernt sind, wird ein zweiter Stapel für entfernte Karten eröffnet, von dem **jeweils** eine Karte per Meditation zurückgewonnen werden kann. Der Aktuelle Stapel von entfernten Karten wird gemischt und dann zufällig auf die zwei Stapel aufgeteilt. Zukünftig entfernte Karten werden zufällig verteilt. Wenn eins oder mehr der Bilder von Energie nicht mehr entfernt sind, werden beide Stapel zusammengelegt.
 
 ### Energetische Stimulation
 Wann immer eine Energiekarte abgelegt wird, kann diese entfernt werden, um eine entfernte, niedrigerwertige Karte unter das Deck zu legen.
 
 ## Fundierte Alchemie
 Wenn alle 3 Bilder von Materie aus dem Deck entfernt sind, sind Anforderungen an Materialkomponenten gezehntelt oder können durch verwandte Stoffe ersetzt werden (Sand statt Ton, Fett statt Wachs usw).
+
 ### Gefestigtes Fundament
 Wann immer eine Materiekarte abgelegt wird, kann diese entfernt werden, um eine beliebige abgelegte Karte oben auf das Deck zu legen.
 
 ## Ausgleichende Anwendung
 Wenn alle 3 Bilder von Ordnung aus dem Deck entfernt sind, kann pro Zauber eine Handkarte einen anderen Magietyp bereitstellen.
+
 ### Geordneter Ausgleich
 Wann immer eine Ordnungskarte abgelegt wird, kann diese entfernt werden, um eine Karte zu ziehen.
 
 ## Kreative Forschung
 Wenn alle 3 Bilder von Entropie aus dem Deck entfernt sind, Können Zauberkosten irgendwann während des Zauberns oder der Dauer des Zaubers bezahlt werden. Scheitert dies, wird Rückkopplung in Höhe der Hälfte der Summe der Energieanforderungen des Zaubers erlitten und eventuell verbleibende Zaubereffekte werden Rückgängig gemacht.
+
 ### Wilde Kreativität
-Wann immer eine Entropiekarte abgelegt wird, kann diese entfernt werden, um zwei Karten aus der Hand unter das Deck zu legen und zwei Karten zu ziehen.
+Wann immer eine Entropiekarte abgelegt wird, kann diese entfernt werden, um zwei (oder alle) Karten aus der Hand unter das Deck zu legen und zwei Karten zu ziehen.
+
+## Elementare Leichtigkeit
+Wenn alle Asse aus dem Deck entfernt sind löst das Entfernen einer weiteren Karte Erleuchtung für die nächsten 10 Minuten aus. Neues entfernen frischt lediglich die Dauer auf. Erleuchtung kann reflexiv in ein Licht der Erkenntnis umgewandelt werden.
+
+### Strömende Konzentration
+Wenn erleuchtet und das Zaubern eines Zaubers der diese Quelle nutzt durch einen erfolgreichen Angriff auf den Zaubernden unterbrochen werden würde, hat dieser die Möglichkeit eine beliebige Handkarte zu **entfernen**, die Zauberlänge um 1 zu erhöhen und nicht unterbrochen zu werden. Ohne Handkarte kann dieser Effekt nicht gewählt werden.
+
+### Lodernde Verdichtung
+Wenn erleuchtet und wenn die Anzahl der nicht entfernten Karten kleiner oder gleich 13 ist, sinken alle Zauberzeiten dieser Quelle auf 0.
+
+### Verwehende Verstärkung
+Während Erleuchtung werden aus der Hand, dem Deck oder dem Ablagestapel (durch andere Effekte) entfernte Karten  (auch die die die Erleuchtung auslöste) in einen neuen Stapel gelegt von dem aus sie ein weiteres mal zum Zaubern benutzt werden können.
+Der Entfernungszeitpunkt ist nach wie vor der erste, allerdings können sie für Dedikationen genutzt werden. Dedikationen dieser Karten enden, sobald die Erleuchtung endet.
+
+### Beständige Bemächtigung
+Wenn erleuchtet wird das nächste mal, wenn das Deck leer ist und versucht wird eine Karte zu ziehen, der Ablagestapel und die Hand ins Deck gemischt. Das Ziehen fällt aus und die Erleuchtung endet. 
