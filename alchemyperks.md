@@ -38,7 +38,7 @@ Die größere Einstimmung kann erreicht werden, in dem man sich in einen trancea
 Erkenntnis verringert sich mit dem Ende der nächsten Runde um 1.
 
 #### Halten des Flüchtigen Lichtes
-5 Stufen. Wenn Aktionen unternommen werden die mit der Quelle oder der Quelle nutzenden Magie, oder relevantnen andere Aktivitäten zusammenhängen, sink am Ende der Runde die Erkenntnis nicht.
+5 Stufen. Wenn Aktionen unternommen werden die mit der Quelle oder der Quelle nutzenden Magie oder relevantnen anderen Aktivitäten zusammenhängen, sinkt am Ende der Runde die Erkenntnis nicht.
 Maximal so viel Erkenntnis kann gleichzeitig gehalten werden wie die Stufe von halten des Flüchtigen Lichts.
 
 #### Verstehen der neuen Möglichkeiten
@@ -60,7 +60,7 @@ Erkenntnis kann ausgegeben werden um eine Karte für jede Stufe von Planung des 
 Zauberzeit kann für verdoppelte Materialkosten und einen Maluswürfel [um 1 verkürzt](magic#0) werden.
 
 ### Verbessertes Beschleunigte Reaktion
-Beschleunigte Reaktion kann erneut einen Zauber angewendet werden für insgesamt vierfache Kosten Materialkosten und 2 Maluswürfel. Die Zauberzeit wird halbiert und abgerundet oder um 2 gesenkt (wahl des Zaubernden), alle Prozesse die Zeit brauchen laufen doppelt so schnell, Aufrechterhaltungskosten sind verdoppelt (und werden häufiger fällig). 
+Beschleunigte Reaktion kann erneut auf einen Zauber angewendet werden für insgesamt vierfache Materialkosten und 2 Maluswürfel. Die Zauberzeit wird halbiert und abgerundet oder um 2 gesenkt (Wahl des Zaubernden), alle Prozesse die Zeit brauchen laufen doppelt so schnell ab, Aufrechterhaltungskosten sind verdoppelt (und werden häufiger fällig). 
 
 ## Stimulierte Meditation
 Wenn alle 3 Bilder von Energie aus dem Deck entfernt sind, wird ein zweiter Stapel für entfernte Karten eröffnet, von dem **jeweils** eine Karte per Meditation zurückgewonnen werden kann. Der Aktuelle Stapel von entfernten Karten wird gemischt und dann zufällig auf die zwei Stapel aufgeteilt. Zukünftig entfernte Karten werden zufällig verteilt. Wenn eins oder mehr der Bilder von Energie nicht mehr entfernt sind, werden beide Stapel zusammengelegt.
