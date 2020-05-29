@@ -22,6 +22,7 @@ tags:
 | Phosphor | 30s |1kg|
 | Wachs | 10k |1kg|
 | Säure | 15s | 1kg |
+| Öl | 5s | 1kg |
 | Quartzsand | 2.80s | 1 kg |
 | Methyl-Ethyl 50% | 50k |1kg|
 | Brot| 5k| 1kg|
