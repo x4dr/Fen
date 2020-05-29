@@ -23,21 +23,20 @@ Talus: 60kg Federstahl
 ## Tragkraft:  
 Kampf: 120kg  
 Reisen: 225kg  
+Minitalus:
+Kampf: 24kg
+Reisen: 45kg
 ## Geld:  
 9s
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
-Megatalus:  
-Bein 1: [1 1 1]@7(Pfeile)  
-Bein 2: [2 2]@7(Pfeile) [7]@6(Dolch)  
-Bein 7: [2]@7(Pfeile)  
-Bein 8: [4]@7(Pfeile)  
-Talus: 2@4 3@8 2@6 1@6 8@7 1@6 1@6 2@6  
+Megatalus: keine  
+Talus: keine  
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 Megatalus: 8*30=240
-Talus: 40 -3 permanenter Schaden  
+Talus: 40 -2 permanenter Schaden  
 Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatzteils
 ## Rüstung
 8*6R/12S - 0% Abzug bei Stumpfen Schaden, +2R auf 120° Kugelsektor wenn deployed, geschwärzt, verziert - Megatalus-Federstahlpanzer
@@ -337,7 +336,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Stahl Q9			|0.5	|1.00 kg	|0.50 kg|
 |Bronzeschrott			|3.19	|1.00 kg 	|3.19 kg|
 |Q2 Reparaturteile		|3	|1.00 kg	|3.00 kg|
-|Bronzekurzschwert		|3	|1 kg	|3 kg|
+|Bronzekurzschwert		|3	|1.00 kg	|3.00 kg|
 |Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|5.00 kg|
 |Feinmech.-Buch (atteryazi)	|1	|1.50 kg	|1.50 kg|
 |Gesamt||||
