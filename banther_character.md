@@ -14,7 +14,12 @@ tags:
 
 ##Bewaffnung
 
+- Panzerbrecher
+- Dolch (Blutmagie)
+
 ##Rüstung
+
+- Abenteurerausrüstung
 
 
 #Details
@@ -225,6 +230,7 @@ Schwäche:
 |||
 
 #Inventar  
+
 - Opal der Tradition (jede Woche +1 auf Maximum)
 - Almanach:
 -> Grundwissen Atterkan
