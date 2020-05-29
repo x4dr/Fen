@@ -130,6 +130,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |MH:Identifizieren|1|  
 |MH:Mechanisch Aktivierung|2|  
 |GE:Perfekte Gemgranate (normale Explosion)||  
+|MH:verzauberbare Bronzelampe (6h, 1kg Bronze)||
 |KO:Architekt|2|  
   
 ## Magie  
@@ -292,7 +293,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Hammer				|1	|2.00 kg	|2.00 kg|	|
 |Rucksack			|1	|0.50 kg	|0.50 kg|	|
 |Bauwerkzeug (Q3)		|1	|5.00 kg	|5.00 kg|	|
-|Seil				|20	|0.25 kg	|5.00 kg|	|
+|Seil				|50m	|0.10 kg	|5.00 kg|	|
 |Ledersöckchen			|8	|0.06 kg	|0.50 kg|	|
 |Eisenberg-Brosche Q15		|1	|0.10 kg	|0.10 kg|	|
 |T6 Ess. of Change		|18	|0.10 kg	|1.80 kg|	|
@@ -327,6 +328,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Herz des Waldes		|1	||||
 |Zombiedornenbaumdorn		|1	||||
 |Flutkyanit (als Phiole)(13)11 14/150/150 minimum Outpu 10	|1	|0.20 kg	|0.20 kg||
+|Hübsche verzauberbare Bronzelampe|1	|1.00 kg	|1.00 kg||
 |Gesamt|||||
 
 ##Zwischengelagert
