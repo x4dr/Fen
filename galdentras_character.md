@@ -15,8 +15,8 @@ tags:
 |Twists| produziert ständig Dreck|
 |Exp|20|
 ##Bewaffnung
-Bronzehammer ,
-Bronze Schlagringe , Langschleuder  
+Bronzehammer,
+Bronze Schlagringe, Langschleuder  
 
 ##Artefakte
 Schmerzdämpferpiercing
@@ -89,13 +89,13 @@ stets betrunken
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|  Segeln |  2|
-|  HandwerkHolz | 3 |
+|Segeln |  2|
+|HandwerkHolz | 3 |
 |Möbel|_2|
-|  Schiffsbau |  _2 |
-|  Schleichen |  2 |
-|  Singen  | 3 |  
-| Bauchreden|_1|
+|Schiffsbau |  _2 |
+|Schleichen |  2 |
+|Singen  | 3 |  
+|Bauchreden|_1|
 |HandwerkBrauen|2|
 |Schnapsbrennen |_2|
 |HandwerkTextil|1|
@@ -113,48 +113,48 @@ stets betrunken
 ###Attribute  
 |Attribut|Level|
 |-|-|
-|  Bildung |  2|  
-|  Geist |  2|  
-|  Wahrnehmung |  5|  
+|Bildung |  2|  
+|Geist |  2|  
+|Wahrnehmung |  5|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
 |WissenGetränke| 2| 
-|  WissenHandel|  _1|  
-|  Nahrungsmittel|  _1|  
-|  Loot|  _1|  
-|  Suchen|  1|  
-|  Navigation |  1| 
+|WissenHandel|  _1|  
+|Nahrungsmittel|  _1|  
+|Loot|  _1|  
+|Suchen|  1|  
+|Navigation |  1| 
 |Instinkt| 2|
-|  Sprache (Prekorisch) |  2|
-|  Sprache (Argyrisch | 1|
-|  Sprache  (Aurisch) |3|
+|Sprache (Prekorisch) |  2|
+|Sprache (Argyrisch | 1|
+|Sprache  (Aurisch) |3|
 
 ##Charisma
 
 ###Attribute  
 |Attribut|Level|  
 |-|-|  
-|  Eindruck |  2|  
-|  Durchsetzungsvermögen |  2|  
-|  Sympathie |  2|  
+|Eindruck |  2|  
+|Durchsetzungsvermögen |  2|  
+|Sympathie |  2|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
-|  Stil |  0|  
-|  Befehlsgewalt |  2|  
-|  Handel |  1|  
-|  Einschüchtern |  2|  
-| Storyteller| 1|
+|Stil |  0|  
+|Befehlsgewalt |  2|  
+|Handel |  1|  
+|Einschüchtern |  2|  
+|Storyteller| 1|
 
 ##Magie
 
 ###Quellen
 | Quelle|  Level|    
 |-|-|
-|  Alkohol |  3|  
+|Alkohol |  3|  
 
 ###Konzepte
 |Konzept | Level|
@@ -164,16 +164,16 @@ stets betrunken
 ###Aspekte
 | Aspekt |  Level|    
 |-|-|
-|   Feuer |  2|  
-|   Eis |  2|
-| Gefühle| 2|  
+|Feuer |  2|  
+|Eis |  2|
+|Gefühle| 2|  
 
 ###Zauber
 |Zauber|Name|
 |-|-|
-|| Ignis |  
+||Ignis |  
 ||Brennende Waffe|
-|| Frigidus |  
+||Frigidus |  
 ||Frostwaffe|
 |Rage||
 |Ruhe||
@@ -187,17 +187,17 @@ stets betrunken
 ###Attribute
 |Attribut|Level|  
 |-|-|  
-|  Glück |  2|  
-|  Mut |  3|  
-|  Gunst |  2|  
+|Glück |  2|  
+|Mut |  3|  
+|Gunst |  2|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
 |Bindung Fobif| 2|
-|  Wille |  2|  
-|  Ruhm Limasu|  2|  
-|
+|Wille |  2|  
+|Ruhm Limasu|  2|  
+
 
 10 Punkte Fobif
 
