@@ -19,7 +19,8 @@ tags:
 | Schwebstein | 80s |  1kg|
 | Rutil | 10s |  1kg|
 | Titan | 150s |  1kg|
-| Phosphor | 30s |1kg|
+| Phosphor | 30s | 1kg|
+| Kreide | 2s | 1kg |
 | Wachs | 10k |1kg|
 | Säure | 15s | 1kg |
 | Öl | 5s | 1kg |
@@ -54,6 +55,9 @@ tags:
 10 Meter
 ##Drachenglas
 10 Punkte, zerfällt nach Gebrauch zu Quartzsand
+## Kreide
+kleine Kreidestücke
+für 50% extra in verschiedenen farben
 
 ##Fruchtbares Land
 1 ha, kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro ha pro Jahr.   
