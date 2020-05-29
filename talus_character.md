@@ -316,7 +316,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10.0 kg|10.0 kg||
 |Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)|1|	||	|
 |Asche				|9	|0.01 kg	|0.09 kg|0K	|
-|Quartz				|5	|0.01 kg	|0.05 kg|20K	|
+|Quartz				|4	|0.01 kg	|0.05 kg|20K	|
 |gereinigte Kohle		|98	|0.01 kg |0.98 kg||
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
 |[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|1|1.5 kg|1.5 kg||
