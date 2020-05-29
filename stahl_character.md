@@ -91,6 +91,7 @@ tags: Character Swordlad
 | Heilen | 2 |
 | Geo | 1 |
 | Aurish | 2 |
+| Altaurisch | 2 |
 | Forschung | 0 |
 | Instinkt | 2 |
 | Suchen | 2 |
