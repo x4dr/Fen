@@ -329,6 +329,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Zombiedornenbaumdorn		|1	||||
 |Flutkyanit (als Phiole)(13)11 14/150/150 minimum Outpu 10	|1	|0.20 kg	|0.20 kg||
 |Hübsche verzauberbare Bronzelampe|1	|1.00 kg	|1.00 kg||
+|verschlüsselte Alchemistenschriftstücke aus den Höhlen Tantors|||||
 |Gesamt|||||
 
 ##Zwischengelagert
