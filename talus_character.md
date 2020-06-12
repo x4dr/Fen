@@ -301,6 +301,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |T6 Ess. of Stability		|10	|0.10 kg	|1.00 kg|	|
 |T2 gemahlene Kreide		|8	|0.10 kg	|0.80 kg|	|
 |T1 Wachs			|200	|0.01 kg	|2.00 kg|4,5K	|
+|Jod				|5	|0.01 kg	|0.05 kg|3S	|
 |Uhrwerkkugel			|1	|0.10 kg	|0.10 kg|	|
 |Feinwerkzeug (Q3)		|1	|1.50 kg	|1.50 kg|	|
 |Alchemie-Buch (3;20;22;aurisch)|1	|1.50 kg	|1.50 kg|	|
