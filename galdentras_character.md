@@ -219,7 +219,8 @@ stets betrunken
 |Unglücksvogel| 1|
 
 
-#Inventar  
+#Inventar
+10kg Chitinplatten  
 ##Waffen
 Stahlhammer  
 [[[weapon:Hammer:R10B]]]
