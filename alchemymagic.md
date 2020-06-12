@@ -296,7 +296,7 @@ Recorking it regenerates it within 1 hour.
 ### Durstsand
 **Ordnung 17 Materie 10+ **
 1:1 Salt+Sand, at most 10kg each, results in equal parts Durstsand and destilled Water.
-Durstsand destroys Water and Runden into regular sand when wet.
+Durstsand destroys Water and turns into regular sand when wet.
 when ingested, kills a person within 10-30 minutes unless enough Water is drunk
 dries up skin when touched
 risk of blindness
