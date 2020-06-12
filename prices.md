@@ -24,6 +24,7 @@ tags:
 | Wachs | 10k |1kg|
 | Säure | 15s | 1kg |
 | Öl | 5s | 1kg |
+| Jod| 3g | 1kg |
 | Quartzsand | 2.80s | 1 kg |
 | Methyl-Ethyl 50% | 50k |1kg|
 | Brot| 5k| 1kg|
@@ -49,6 +50,7 @@ tags:
 | Ziehstein | 2s | 10g |
 | Sehne | 50k | 10g |
 | Fruchtbares Land | 2au |  200000t |
+
 
 #Details
 ##Seil
