@@ -3,9 +3,9 @@ tags:
 [TOC] 
 
 # Der dreifache Weg
-nur mit zweihändigen Schwertern möglich
+Alle Vorteile des dreifachen weges sind nur mit einem ausgerüsteten zweihändigen Schwert möglich.
 
-Haltungen werden ausgelöst, nur eine Haltung kann gleichzeitig aktiv sein. Boni und Mali einer Haltung beginnen mit der freien Phase.
+Haltungen werden reflexiv eingenommen, nur eine Haltung kann gleichzeitig aktiv sein. Boni und Mali einer Haltung beginnen mit der freien Phase.
 
 ##Haltungen
 
@@ -20,8 +20,13 @@ Eine beliebige Resonanz löst einen automatischen Treffer für jede Stufe der Re
 
 ###Defensive Haltung
 passiv
--2 Offensive, +3 Defensive
-Der Anwender erhält für jeden Angriff auf ihn einen Wut-Zähler. Für jede Runde außerhalb eines Kampfes verliert er einen Wutzähler. Jeder Treffer des Anwenders auf andere verbraucht einen Wutzähler. Aller Hack-Schaden ist um die Anzahl der Wutzähler erhöht.
+-5 Offensive, +4 Defensive
+Halbierte Bewegungsreichweite, Defensive gilt im Fernkampf
+Der Anwender erhält für jeden Angriff auf ihn einen Wut-Zähler. 
+####Wutzähler 
+Für jede Runde außerhalb eines Kampfes geht ein Wutzähler verloren. 
+Aller angerichteter Hack-Schaden ist um die Anzahl der Wutzähler erhöht.
+Nachdem der Schaden erhöht wurde, geht eine Wutzähler verloren.
 
 ###Halbschwert Haltung
 passiv
@@ -34,12 +39,12 @@ passiv
 Nach jedem Erfolgreichen Angriff ist für den Preis von 1 Offensive ein extra Angriff auf ein anderes Ziel in reichweite möglich
 Bewegungsreichweite ist halbiert.
 
-###Absolute Verteidigung
+###Projezierte Verteidigung
 passiv
--7 Offensive +5 Defensive
-Defensive nimmt nach einem erlittenen Angriff nicht mehr ab.
-Defensive gilt im Fernkampf
-Bewegung ist nicht möglich.
+Bewegungsreichweite ist 0
+Jedes mal wenn ein Ziel in Reichweite eine aggressive Handlung auf ein Ziel das nicht ausschließlich der Anwender selbst ist ausführt erhält der Anwender einen zusätzlichen Bonusangriff auf dieses Ziel. Der Bonusangriff wird vor der Handlung des Ziels abgehandelt.
+Der normale Angriff muss, sofern er gemacht wird, bei Initiative 0 stattfinden auf ein Ziel das vorher in der freien Phase für alle sichtbar ausgewählt wird. Nach dem der normale Angriff erfolgt ist, werden statt zusätzlichen Bonusangriffe nur normale Bonusangriffe generiert.
+
 
 ###Taktisches Ausmanövrieren
 passiv
@@ -77,8 +82,8 @@ Wechsel zu Aggressive Haltung
 
 ### Eskalation des Schmerzes
 reflexiv, Vorraussetzung: Defensive Haltung
-Wenn 1 oder mehr Schaden erhalten wurde:
-Wechsel zu Absolute Verteidigung
+Wenn ein verbündetes Ziel in Reichweite erfolgreich angegriffen wurde.
+Wechsel zu Projezierter Verteidigung
 
 ###Tritt
 Technik, Vorraussetzung: Halbschwert Haltung (und ein Ziel mit weniger als doppeltem Gewicht)
