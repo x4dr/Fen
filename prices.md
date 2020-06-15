@@ -12,6 +12,7 @@ tags:
 | Stahl  | 50s |1kg|
 | Silber | 1g  |  1kg|
 | Gold | 100g |  1kg|
+| Quecksilber | 25g | 1kg |
 | Drachenglas | 30s |  1kg|
 | Salz | 20k |  1kg|
 | Rindfleisch | 50k |1kg|
