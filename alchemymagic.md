@@ -361,11 +361,17 @@ Wenn die Flasche geöffnet ist macht sie etwa 5 Minuten lang ein langsam abnehme
 Wenn die Flasche verschlossen ist, hört das Geräusch auf und sie regeneriert sich innerhalb von einer Stunde.
 
 ### Durstsand
-Zauberzeit: 1h
-Dedikation: 1 Ordnung
+**Zauberzeit**: 1h
+**Dedikation**: 1 Ordnung
 1:1 Salz und Sand, jeweils maximal 10 kg, resultiert in gleichen Teilen Durstsand und destilliertem Wasser.
 1 kg Durstsand vereinigt sich mit 1 kg Wasser zu 1 kg normalem Sand. 
 Wenn Durstsand verzehrt wird besteht Verdurstungsgefahr, es sei denn es wird Wasser nach getrunken.
 Nachdem die Dedikation beendet wurde, bleibt der Effekt bestehen, aber der Durstsand nimmt langsam Luftfeuchtigkeit auf.
+
+### Dedizierter Fokus
+**Zauberzeit**: 1 Minute
+**Dedikation**: 1
+Es können bis zu **Wurf**/3 abgelegte Karten ins Deck zurückgenommen werden.
+Wenn die Dedikation Endet fällt der nächste Quellwurf um Karten ins Deck zurückzunehmen aus.
 
 
