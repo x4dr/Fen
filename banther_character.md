@@ -72,6 +72,7 @@ Schwäche:
 |Survival|2|
 |Panzerbrecher (Degen)|3|
 |Dolch|1|
+|Schwerathletik|0|
     
 ###Vorteile  
 |Vorteil|Name|
