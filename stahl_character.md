@@ -192,6 +192,7 @@ tags: Character Swordlad
 |Quelle|[karum, instabile quelle, avis]|
 |Instinkt | K|
 |Law| M|
+|_KrautKunde| IT |
 
 
 #Techniken
