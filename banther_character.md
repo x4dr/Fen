@@ -231,7 +231,7 @@ Schwäche:
 |Begegnung|[Harika]|
 |Lebensmagie|K|
 |Tosisbindung|[Tosistempel]|
-|Tosisbindung|K|
+|Rhetorik|K|
 
 #Inventar  
 
