@@ -179,6 +179,7 @@ stets betrunken
 |Ruhe||
 
 ###Vorteile
+|Vorteil|Name|
 |-|-|
 |Leuchtendes Medium|1|
 
