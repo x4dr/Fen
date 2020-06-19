@@ -223,11 +223,12 @@ Schwäche:
 
 #XP
 [Legende[[specific:conventions:xp:kurz:-]]]
-- 1 Punkt Begegnung
 ##Fortschrittspunkte
 |Fähigkeit | XPCode |
 |-|-|
-|||
+|Schwerathletik|V|
+|Begegnung|[Harika]|
+|Lebensmagie|K|
 
 #Inventar  
 
