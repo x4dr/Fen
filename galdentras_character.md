@@ -169,14 +169,14 @@ stets betrunken
 |Gefühle| 2|  
 
 ###Zauber
-|Zauber|Name|
-|-|-|
-||Ignis|  
-||Brennende Waffe|
-||Frigidus|  
-||Frostwaffe|
-|Rage||
-|Ruhe||
+|Zauber|
+|-|
+|Ignis|  
+|Brennende Waffe|
+|Frigidus|  
+|Frostwaffe|
+|Rage|
+|Ruhe|
 
 ###Vorteile
 |Vorteil|Name|
