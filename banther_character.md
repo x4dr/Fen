@@ -230,6 +230,7 @@ Schwäche:
 |Schwerathletik|V|
 |Begegnung|[Harika]|
 |Lebensmagie|K|
+|Tosisbindung|[Tosistempel]|
 
 #Inventar  
 
