@@ -6,7 +6,7 @@ Eine Klinge kann innerhalb einer Stunde blutmagisch gebunden werden. Dies hebt d
 
 Schaden, der mit der gebundenen Klinge verursacht wurde kann mit einem Wurf auf Quelle in Lebensenergie umgewandelt werden, wobei die gewonnene Lebensenergie der Schaden &times; Ergebnis des Quellwurfes / 5 ist. Diese steht dann als Energie für Zauber für etwa eine Stunde zur Verfügung.
 
-Ein Edelstein kann ebenfalls gebunden werden. Magie zwischen Edelstein und freier Lebensenergie zu transferieren hat Verluste von (10 - Ergebnis eines Quellwurfes)*10% und benötigt eine Runde, ist aber eine Freie Aktion.
+Ein Edelstein kann ebenfalls gebunden werden. Lebensenergie in den gebundenen Stein zu transferieren hat eine Effizienz von Ergebnis/10 und benötigt eine Runde, ist aber eine Freie Aktion.
 
 
 #Konzept Blutsymbole
