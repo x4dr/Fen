@@ -203,6 +203,7 @@ stets betrunken
 
 ###Vorteile
 |-|-|
+|Name|Stufe|
 |Mimikry (Aurische Form)| 1|
 |Chitinpanzer| 1|
 |Erdheim|1|
