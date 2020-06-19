@@ -129,5 +129,8 @@ Nachtpatroullie in der Nähe von Tantor. Anti Gaius
 ### Chitur Askur
 Meisterchirurg in Tantor
 
+### Jirt
+Krämer den Banther auf dem Weg zum Tosistempel begleitet hat
+
 ### Engiss 
 "Wunderheiler" getroffen im Untergrunddorf Dubok. Mit Mord gedroht und dann progressiv paranoia verstärkt. Hat sich heraus eskotieren um nicht im Schlaf getötet zu werden. 
