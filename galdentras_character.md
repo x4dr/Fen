@@ -170,13 +170,13 @@ stets betrunken
 
 ###Zauber
 |Zauber|
-|-|
-|Ignis|  
-|Brennende Waffe|
-|Frigidus|  
-|Frostwaffe|
-|Rage|
-|Ruhe|
+|-|-|
+|Ignis||  
+|Brennende Waffe||
+|Frigidus||  
+|Frostwaffe||
+|Rage||
+|Ruhe||
 
 ###Vorteile
 |Vorteil|Name|
