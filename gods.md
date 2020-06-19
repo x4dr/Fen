@@ -78,12 +78,16 @@ Vor allem in Menschlich dominierten Städten gewinnt Der Glänzende immer mehr A
 ### Gunst
 #### Pool
 1 Pro Stufe in einer stabilen, ordnenden Hierarchie
+
 #### Huldigen
 Recht und Ordnung verbreiten, das Gesetz durchsetzen, Reinheit beschützen, Ehrenvoll gegen die Feinde der Zivilisation Kämpfen
+
 #### Verärgern
-sich der Ordnung wiedersetzen, Chaos stiften, Reinheit beschmutzen, Zivilisation bekämpfen
+sich der Ordnung wiedersetzen, Magie Benutzen, Reinheit beschmutzen, Zivilisation untergraben
+
 #### Segen
 Wissen über Missetaten, eine Aura von Ruhe und Besinnung, Göttliche Heilung, Stärke, Willenskraft, Schutz vor Magie, Schutz vor Fernkampf
+
 #### Fluch
 schlechtes Gewissen
 ____
@@ -101,12 +105,15 @@ Vereinzelte Sekten, Mystiker, Hexen, stark mit ihrer Weiblichkeit verbundene Fra
 ### Gunst
 #### Pool
 Monatliche Durchführung von Riten bei einem Schrein -> Minimum von Stufe des Schreins und Stufe der Bindung.
+
 #### Huldigen
 Die Welt Mysteriös halten, Verstehen, einsame Orte aufsuchen, die Toten Ehren, Behinderungen natürlicher Kreisläufe entgegenwirken, die Tiefen suchen
 #### Verärgern
-Sich den Natürlichen Kreisläufen Widersetzen, tiefes Wasser aufwühlen, Demystifizierung, die Suche aufgeben
+Sich den Natürlichen Kreisläufen Widersetzen, tiefes Wasser aufwühlen, Demystifizierung, die Suche aufgeben.
+
 #### Segen
 Einblicke, Wasser, Tiefen, Kreisläufe an einen Punkt ihres Kreislaufes setzen, Eingriffe
+
 #### Fluch
 Wasser, Eingriffe ins Schicksal, wichtige ungelöste Mysterien
 _______
