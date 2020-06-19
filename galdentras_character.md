@@ -219,6 +219,8 @@ stets betrunken
 |Unglücksvogel| 1|
 
 
+#Wunden
+
 #Inventar
 10kg Chitinplatten  
 ##Waffen
@@ -232,8 +234,7 @@ Schlagringe
 [[[weapon:Schlagringe]]]
 
 
-Wunden:
-0(Schw 9), 2 (SCHW 5)
+
 
 Etikette 0->1
 Inspiration 1
