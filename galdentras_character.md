@@ -233,7 +233,7 @@ Schlagringe
 
 
 Wunden:
-3 (SCHW 9), 1(SCHW 9)
+0(Schw 9), 2 (SCHW 5)
 
 Etikette 0->1
 Inspiration 1
