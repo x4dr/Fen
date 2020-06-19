@@ -202,8 +202,9 @@ stets betrunken
 10 Punkte Fobif
 
 ###Vorteile
+|Vorteilsname|
 |-|-|
-|Name|Stufe|
+
 |Mimikry (Aurische Form)| 1|
 |Chitinpanzer| 1|
 |Erdheim|1|
