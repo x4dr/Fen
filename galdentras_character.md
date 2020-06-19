@@ -171,9 +171,9 @@ stets betrunken
 ###Zauber
 |Zauber|Name|
 |-|-|
-||Ignis |  
+||Ignis|  
 ||Brennende Waffe|
-||Frigidus |  
+||Frigidus|  
 ||Frostwaffe|
 |Rage||
 |Ruhe||
