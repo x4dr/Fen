@@ -182,16 +182,17 @@ Schwäche:
 ###Zauber
 |Zauber|Name|
 |-|-|
-|Entzündung stoppen|[Leben[[specific:lifemagic:Entzündung stoppen]]]|
-|Leben erhalten|[Leben[[specific:lifemagic:Leben erhalten]]]|
-|Leben Kanalisieren|[Leben[[specific:lifemagic:Leben Kanalisieren]]]|
-|Herz stoppen|[Leben[[specific:lifemagic:Herz stoppen]]]|
-|Leben Schützen|[Leben[[specific:lifemagic:Leben Schützen]]]|
-|Gleißende Berührung|[Feuer[[specific:firemagic:Gleißende Berührung]]]|
-|Schutz vor Feuer|[Feuer[[specific:firemagic:Schutz vor Feuer]]]|
-|Unsichtbarkeit|[Illusion[[specific:illusionmagic:Unsichtbarkeit]]]|
-|Schmerz|[Illusion[[specific:illusionmagic:Schmerz]]]|
-|Schmerzdämpfung|[Illusion[[specific:illusionmagic:Schmerzdämpfung]]]|
+|Entzündung stoppen|[Leben[[specific:lifemagic:Entzündung stoppen:-]]]|
+|Leben erhalten|[Leben[[specific:lifemagic:Leben erhalten:-]]]|
+|Leben Kanalisieren|[Leben[[specific:lifemagic:Leben Kanalisieren:-]]]|
+|Herz stoppen|[Leben[[specific:lifemagic:Herz stoppen:-]]]|
+|Leben Schützen|[Leben[[specific:lifemagic:Leben Schützen:-]]]|
+|Gleißende Berührung|[Feuer[[specific:firemagic:Gleißende Berührung:-]]]|
+|Schutz vor Feuer|[Feuer[[specific:firemagic:Schutz vor Feuer:-]]]|
+|Unsichtbarkeit|[Illusion[[specific:illusionmagic:Unsichtbarkeit:-]]]|
+|Schmerz|[Illusion[[specific:illusionmagic:Schmerz:-]]]|
+|Schmerzdämpfung|[Illusion[[specific:illusionmagic:Schmerzdämpfung:-]]]|
+
 
 
 ###Vorteile  
