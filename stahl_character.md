@@ -160,10 +160,11 @@ tags: Character Swordlad
 | Sprachlich | FP Kosten Sprachen -1 |
 | Finger | 10 |
 
+
+#XP
 (20 fplv4 ) <- Chargen Punkte
 (10xp) <- GenericSpent
 
-#XP
 ##Fähigkeitsxp
 
 [Legende[[specific:conventions:xp:kurz:-]]]
