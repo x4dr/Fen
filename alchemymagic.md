@@ -271,7 +271,7 @@ Um Festzustellen, ob Material schon multipliziert ist muss eine Untersuchung in 
 Halbierung des Originalmaterials pro 1 Resonanz.
 
 ### Projektion 
-**Materialkomponente** 10g Fokusmaterial
+**Materialkomponenten**: 10g Fokusmaterial
 **Zauberzeit**: 1 Woche
 **Dedikation**: 144
 
@@ -281,7 +281,7 @@ Das entstehende Material ist synthetisch und lässt sich mit einem Wahrnehmung,A
 ### Auftrieb
 **Materialkomponenten**: 100g gereinigter Schwebstein
 **Zauberzeit**: 1 Stunde
-**Dedikation** 1 Ordnung
+**Dedikation**: 1 Ordnung
 
 Schwebstein wird zur Paste des wahren Schwebsteins verarbeitet.
 Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
@@ -336,7 +336,7 @@ Schmeckt sanft nach Gabelblume und lindert Durchfall leicht.
 **Materialkomponenten**:  Rotwarz
 **Zauberzeit**: 1 Stunde
 **Dauer**: 6 mal **Wurf** Minuten, halb solang wenn nass
-**Dedikation: **: 3Entropie/Stück 
+**Dedikation**: 3Entropie/Stück 
 
 Die grellrote Paste, die dieser Prozess produziert kann auf Stoff verteilt werden um eine Atemmaske herzustellen, die den Träger fast immun gegen Atemgifte macht und ihn befähigt unter Wasser zu atmen.
 Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, während die Farbe sich von Rot über Gelb nach Grau verändert bevor die Maske aufhört zu funktionieren. Es wird eine Maske pro Rotwarz produziert.
