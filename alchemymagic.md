@@ -40,8 +40,8 @@ Rückkopplung verursacht sofortiges entfernen von Handkarten (Reihenfolge vom Za
 Um Karten vom Ablagestapel zurück ins Deck zu transferieren kann **meditiert* werden. Nach **8 Stunden** die entspannt und insichgekehrt verbracht werden, wird der ablage stapel gemischt und  die **Quelle** obersten Karten ins Deck transferiert. 
 Außerdem kann eine der Karten mit dem niedrigsten Wert, die zur Zeit **entfernt** sind ins Deck zurückgelegt werden.
 
-# Zauber
-## Anmerkungen
+
+### Anmerkungen
 Für Verdopplung der Dedikation bei Verdreifachung des Materials gilt folgende Tabelle:
 
 | Vielfaches | Dedikation |
@@ -60,8 +60,7 @@ Werte dazwischen können linear interpoliert oder geschätzt werden
 
 Die meisten Zauber in dieser Sektion verstärken Alchemische Eigenschaften von Stoffen. Die Zauberzeiten sind die für den Prozess. Das Anwenden benötigt meist eine Runde nachdem die Stoffe bereit gemacht sind, kann aber je nach Situation auch länger benötigen.
 
-##Beschreibungen
-
+#Zauber
 ### Biegewachs
 **Materialkomponenten**:  10g gereinigtes Wachs. 
 **Zauberzeit**: 1 Stunde
