@@ -3,9 +3,9 @@ tags: magic alchemy
 [TOC]
 # Alchemische Einstimmung
 ## Grundlegende Definition
-**Quelle:** Einstimmung in die Magischen Flüsse des Universums (Kartendeck)  
-**Konzept:** Alchemische Magie, die Manipulation von Natürlichen Prozessen und das hervorrufen von komplett eigenen, mit Hilfe von Reagenzien
-**Aspekt:** Prozessalchemie, [Schnellalchemie](quickalchemy)
+**Quelle**: Einstimmung in die Magischen Flüsse des Universums (Kartendeck)  
+**Konzept**: Alchemische Magie, die Manipulation von Natürlichen Prozessen und das hervorrufen von komplett eigenen, mit Hilfe von Reagenzien
+**Aspekt**: Prozessalchemie, [Schnellalchemie](quickalchemy)
 ## Mechaniken
 ###[Vorteile](alchemyperks)
 ### Magische Einstimmung
@@ -42,7 +42,7 @@ Außerdem kann eine der Karten mit dem niedrigsten Wert, die zur Zeit **entfernt
 
 # Zauber
 ## Anmerkungen
-Für verdopplung der Dedikation bei Verdreifachung des Materials gilt folgende Tabelle
+Für Verdopplung der Dedikation bei Verdreifachung des Materials gilt folgende Tabelle:
 
 | Vielfaches | Dedikation |
 |---|---|
@@ -56,21 +56,20 @@ Für verdopplung der Dedikation bei Verdreifachung des Materials gilt folgende T
 |1360| 95 |
 |2187| 128|
 
-Werte dazwischen können linear Interpoliert oder geschätzt werden
+Werte dazwischen können linear interpoliert oder geschätzt werden
 
 Die meisten Zauber in dieser Sektion verstärken Alchemische Eigenschaften von Stoffen. Die Zauberzeiten sind die für den Prozess. Das Anwenden benötigt meist eine Runde nachdem die Stoffe bereit gemacht sind, kann aber je nach Situation auch länger benötigen.
 
 ##Beschreibungen
 
 ### Biegewachs
-**Materie 4+ Ordnung 3+ Entropie 3+**, 
-**Materialkomponente**: 10g gereinigtes Wachs. 
-**Zauberzeit**: 1h
+**Materialkomponenten**:  10g gereinigtes Wachs. 
+**Zauberzeit**: 1 Stunde
 **Dauer**: 1 Tag pro kg
-**Aufrechterhaltung**: 2 Materie/Runde
 **Dedikation**: 1 Materie
+
 Verzaubert das Wachs seine Biegsamkeit übertragen zu können, währenddessen wird es milchig durchsichtig mit perlmuttartig schimmernden strukturen innen. 
-Für jede Verdreifachung des Gewichtes muss die Dedikation verdoppelt werden.
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
 Das Wachs wird auf das Zielobjekt aufgebracht und dann wird versucht das Zielobjekt zu verbiegen.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Erlaubt es, 1 kg (pro 10g Wachs) Material zu verbiegen. Tiefe der Biegsamkeit ist durch die Dicke des Wachses und das Gewicht des Materials bestimmt. Biegsamkeit des betroffenen Materials ist ähnlich zu handgeknetetem Wachs, aber Dicke des Materials kann nicht wesentlich geändert werden, noch schwächt das Wachs das Material gegen Reißen oder Schneiden. Das Wachs zieht während der Anwendung ins Material ein und ist danach verbraucht.
@@ -87,7 +86,7 @@ Effekte:
 
 
 ### Morph
-**Materialkomponente**: 10g Gold oder 1kg gereinigter Ton; Wärm/Kühlgerätschaften
+**Materialkomponenten**: 10g Gold oder 1kg gereinigter Ton; Wärm/Kühlgerätschaften
 **Zauberzeit**: 1 Stunde
 **Dedikation**: 1 Entropie
 **Anwendung**: 10 minuten-6 Stunden
@@ -98,8 +97,8 @@ Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Zielobjekt wird nach Anwendung formbar, Hitze erhöht die Formbarkeit und Kälte verfestigt das Material. Ohne Hitze dauert der Prozess 6 Stunden, ohne Kälte bleibt das Material für die Restliche Dauer des Zaubers formbar. Es werden **Wurf** Liter Material beeinflusst. Wenn der Effekt einen Monat angehalten hat, wird die Form permanent, ansonsten kehrt das Material langsam in die ursprüngliche Konfiguration zurück.
 
 ### Kalzifizieren
-**Materialkomponent** Zermahlener gereinigter Kalk
-**Zauberzeit**: 1h
+**Materialkomponenten**: Zermahlener gereinigter Kalk
+**Zauberzeit**: 1 Stunde
 **Dedikation**: 10 Entropie, 5 Materie
 
 Der zermahlene Kalk wird aufgebracht, bei Werfen werden alle in einem etwa *5 Meter* Radius, Kreisdrittel bzw soweit wie der Kalk sich ausbreitet betroffen.
@@ -113,7 +112,7 @@ Der Effekt bleibt erhalten bis betroffene Nass werden. 1L Wasser negiert einen R
 Dauer wird für jede für jede Resonanzstufe verdoppelt. (maximum 64 Runden)
 
 ### Kalzinieren
-**Materialkomponente**: 10g gereinigter Phosphor
+**Materialkomponenten**: 10g gereinigter Phosphor
 **Zauberzeit**: 1Stunde
 **Dedikation**: 18 Energie
 
@@ -126,24 +125,24 @@ Ein Ziel kann nur einmal gleichzeitig Kalziniert werden. Bei entsprechend große
 
 
 ### Lösen
-**Materialkomponente**: 10 ml Säure pro kg
+**Materialkomponenten**: 10 ml Säure pro kg
 **Zauberzeit**: 1 Stunde
 **Dedikation**: Entropie
 
 Die Säure wird magisch verstärkt um Auflösungseigenschaften zu verbessern.
-Für jede Verdreifachung des Gewichtes muss die Dedikation verdoppelt werden.
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
 Die Säure wird aus dem Während des Zaubers präparierten Behältnisses entweder über das Zielobjekt oder in die Zielflüssigkeit gegossen.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Dort wo die Säure sich mit einer anderen Flüssigkeit vermengt, löst sie Material mit einer Rate von 500g/Runde für **Wurf-5** Runden auf. Zusätzliche Säure verlängert den Effekt.
 Die Lösung am Ende des Effekts ist übersättigt und verhält sich entsprechend.
 
 ### Separation
-**Materialkomponente**: 10g gereinigte Kohle pro kg
+**Materialkomponenten**: 10g gereinigte Kohle pro kg
 **Zauberzeit**: 1 Stunde
-**Dedikation**: Ordnung
-
+**Dedikation**: 1 Ordnung
 
 Die trennende Eigenschaft der gereinigten Kohle wird erhöht.
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
 Die Kohle wird in das Material eingearbeitet, aufgetragen oder eingemischt.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Trennt Material voneinander. **500g/Runde** wird verarbeitet, 2 Runden pro 10g Kohle.
@@ -154,8 +153,8 @@ Trennt Material voneinander. **500g/Runde** wird verarbeitet, 2 Runden pro 10g K
 * 16-20 Sauertstoff und Eisen
 
 ### Konjunktion
-**Zauberzeit** : 1 Runde
-**Dedikation** : 10
+**Zauberzeit**: 1 Runde
+**Dedikation**: 10
 
 Eine Substanz wird auf eine andere Angewendet.
 Vermischt Substanzen mit **Wurf** als Richtlinie, wie eng sie vermischt sind. **500g/Runde**. Effekt wird bleibt nur dann Permanent wenn das ergebnis Stabil ist. Besonders Instabile Konjunktionen können mehr Dedikation erfordern.
@@ -167,12 +166,11 @@ Vermischt Substanzen mit **Wurf** als Richtlinie, wie eng sie vermischt sind. **
 
 
 ### Putrefizierung
-**Materialkomponente**: 10g verrotendes (3+ Tage alt) Fleisch
-**Zauberzeit: 6 Stunden**
+**Materialkomponenten**:  10g verrotendes (3-10 Tage alt) Fleisch
+**Zauberzeit**: 6 Stunden
 **Dedikation**: 1 Ordnung 1 Entropie
 
 Ausbreitende Verrottung wird gebündelt und verstärkt.
-Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Das nach der Verarbeitung mumifizierte Fleisch wird in Kontakt mit verrottbarem Material gebracht.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Organisches Material beginnt zu verrotten, wird schwarz und verflüssigt sich teilweise. Der Effekt breitet sich verlangsamend aus, solange die Dedikation aufrechterhalten wird.
@@ -181,11 +179,12 @@ Rüstung kann umgangen werden in dem bei der Anwendung ein Kampfvorteil vom Dopp
 
 
 ### Gerinnung
-**Materialkomponente**: 10g gereinigtes Glutin
-**Zauberzeit**:1 Runde
+**Materialkomponenten**:  10g gereinigtes Glutin
+**Zauberzeit**: 1 Runde
 **Dedikation**: 8
 
-Die Verdickende Wirkung des Glutin
+Die Verdickende Wirkung des Glutin wird verstärkt und ausgeweitet.
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
 Flüssigkeit verdickt sich bis zur Festigkeit mit einer Rate von 1000 L oder 1m³ pro Minute, eine Minute lang pro 10g Glutin.
 
 | Wurf | Festigkeit |  
@@ -197,21 +196,23 @@ Flüssigkeit verdickt sich bis zur Festigkeit mit einer Rate von 1000 L oder 1m�
 |15-18| stabil|
 |19-20| steinhart|
 
-Die Dedikation kann verdoppelt werden um für die Dauer der Dedikation bestehen zu bleiben.
 Am Ende des Zaubers verflüssigt sich das betroffene Material mit derselben Rate wieder.
 
 
 ### Zibation
-**Zauberzeit**: Vorerst 1 
-Dedikation: Nach Ziel
-Erlaubt das hinzufügen einer Zutat, Komponente oder sonstigen Aspektbeeinflussenden Substanz in ein bestehendes Material, zum Beispiel zum Nachbessern von Zaubertränken oder Einfügen einer Aktivierung in ein Bestehendes Artefakt.
-Das Ergebnis benutzt den niedrigeren Wurf zwischen Zauberwurf und Originalwurf, oder es Schlägt ganz fehl, wenn der Originale Wurf höher war.
+**Zauberzeit**: Vorerst 1 Runde
+**Dedikation**: Nach Ziel
+
+Erlaubt das Hinzufügen einer Zutat, Komponente oder sonstigen Aspektbeeinflussenden Substanz in ein bestehendes Material, zum Beispiel zum Nachbessern von Zaubertränken oder Einfügen einer Aktivierung in ein Bestehendes Artefakt.
+Das Ergebnis benutzt den niedrigeren Wurf zwischen Zauberwurf und Originalwurf. Zibation kann auch komplett fehlschlagen, wenn der Originale Wurf höher als der Zauberwurf war.
 
 ### Sublimation
-** Materialkomponente**: 10g Jod
+**Materialkomponenten**: 10g Jod
 **Dedikation**: 1 Energie
-**Zauberzeit: 1 Minute**
+**Zauberzeit**: 1 Minute
 
+Die Fähigkeit von Jod einfach zu Luft zu werden wird übertragbar gemacht.
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
 Im Verlauf einer Minute verwandelt sich 1kg Zielmaterial in ein Gas, ohne seine Temperatur zu ändern. Das Volumen ändert sich drastisch. Es bleibt Gas für die Dauer der Dedikation.
 **Wurf** zeigt, welcher Anteil eines Objektes sublimiert werden kann. 
 
@@ -224,15 +225,15 @@ Ein Objekt das Teilweise Sublimiert wurde kann bis zum Ende der Dedikation kein 
 Am Ende der Dedikation verwandelt sich das Material in Feststoff zurück, wo immer es ist, also in sehr feinen Staub.
 
 ### Fermentation
-**Materialkomponente**: gereinigte Hefe
-**Zauberzeit: 2 Runden**
+**Materialkomponenten**:  gereinigte Hefe
+**Zauberzeit**: 2 Runden
 **Dedikation**: 1 Entropie
 
-Das mit der Hefe in Kontakt gekommene Zielmaterial beginnt zu fermentieren, je höher der Wurf, desto schneller beziehungsweise mehr. Lebensmittel werden haltbarer, Geschmack ist schlechter als natürliche Methoden, aber Essbar.
+Das mit der Hefe in Kontakt gekommene Zielmaterial beginnt zu fermentieren, je höher der Wurf, desto schneller beziehungsweise mehr. Lebensmittel werden haltbarer, Geschmack ist meist schlechter als natürliche Methoden, aber durchaus Essbar, equivalent Brauwurf 5.
 Stärke oder Zuckerhaltige Materialien entwickeln Alkohol, Milch wird zu Buttermilch/Joghurt
 Alkoholmaximum ist 10%.
 
-Volumen wird von Wurf abgezogen, das Ergebnis ist die Geschwindigkeit. Wenn das Volumen den Wurf übertrifft, scheitert der Zauber und kann 3 Monate nicht auf dasselbe Ziel wiederholt werden.
+Volumen wird von Wurf abgezogen, das Ergebnis ist die Geschwindigkeit. Wenn das Volumen den Wurf übertrifft, scheitert der Zauber und kann 3 Monate nicht auf das selbe Ziel wiederholt werden.
 
 | Wurf | Volumen | Geschwindigkeit |
 |---|---|---|
@@ -245,19 +246,21 @@ Volumen wird von Wurf abgezogen, das Ergebnis ist die Geschwindigkeit. Wenn das 
 |20| ...Viel| 1 Runde |
 
 ### Exaltieren
-**Materialkomponente**: 10g vorbereitetes Silber
+**Materialkomponenten**: 10g vorbereitetes Silber
 **Zauberzeit**: 1 Minute
 **Dedikation**: 1 Energie
 
 Konzentriert die Eigenschaften einer Gewöhnlichen Einheit Materials. Volumen und Gewicht wird Multipliziert mit **Wurf** und geteilt durch 25, Stärke und alchemisch relevante Eigenschaften des werden erhöht, was zu verstärkter, alchemisch purer Form führt. 
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
 Exaltierte Materialien zählen als alchemisch gereinigt.
 Beispiele: Superflüssiges Wasser, Komprimierter Brennstoff, Alkohol über 100%, Extrem magnetische Ziehsteine
 Am Ende des Effektes verlieren Exaltierte Materialien die meisten ihrer gewünschten Eigenschaften.
 
 ### Multiplikation
-Materialkomponente: gereinigtes Quecksilber
+**Materialkomponenten**:  gereinigtes Quecksilber
 **Zauberzeit**: 1h
 **Dedikation**: 10
+
 Das Quecksilber wird mit dem Zielmaterial gemischt. 
 Ein Anteil Zielmaterial verwandelt **Wurf**-5 Anteile Quecksilber in eine Kopie von sich selbst, Original und Erweiterung sind recht Gleichmäßig vermischt, überzähliges Quecksilber verdampft und verschwindet. Am Ende des Effekts verwandelt sich der Multiplizierte Anteil des Materials zurück in Quecksilber, was die meisten Feststoffe Löchrig und mit kleinen Quecksilbereinschlüssen zurücklässt.
 
@@ -271,17 +274,19 @@ Halbierung des Originalmaterials pro 1 Resonanz.
 ### Projektion 
 **Materialkomponente** 10g Fokusmaterial
 **Zauberzeit**: 1 Woche
-Dedikation: 144
+**Dedikation**: 144
 
 1 kg des Zielmaterials, soweit alchemisch ähnlich, verwandelt sich im Laufe des Zaubers in **Wurf**/20 kg Fokusmaterial. Bei Ende des Effekts, verwandelt es sich zurück in das Zielmaterial, ohne weitere Masse zu verlieren. Dieser Effekt endet erst, wenn ALLE dedizierten Karten zurückgewonnen wurden.
+Das entstehende Material ist synthetisch und lässt sich mit einem Wahrnehmung,Alchemie Wurf gegen 16 als solches erkennen. Diese Schwelle wird auf alle Alchemiewürfe angewendet
 
 ### Auftrieb
-**Materie 5+ Energie 10+**, Materialkomponente: 100g gereinigter Schwebstein
+**Materialkomponenten**: 100g gereinigter Schwebstein
 **Zauberzeit**: 1 Stunde
-**Dedikation** 5 Energie
+**Dedikation** 1 Ordnung
 
 Schwebstein wird zur Paste des wahren Schwebsteins verarbeitet.
-Dort wo die paste auf das Material aufgebracht wird, wird es leichter. Am Ende des Effektes nimmt das Gewicht wieder zu, bis es nach einer Stunde das Originalgewicht erreicht hat.
+Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
+Dort wo die Paste auf das Material aufgebracht wird, wird es leichter. Am Ende des Effektes nimmt das Gewicht wieder zu, bis es nach einer Stunde das Originalgewicht erreicht hat.
 
 |Wurf|Gewichtsreduktion/Effekt|
 |---|---|
@@ -296,18 +301,18 @@ Dort wo die paste auf das Material aufgebracht wird, wird es leichter. Am Ende d
 | 19-20 | 5000g |
 
 ### Knallpulver
-**Zauberzeit: 1 minute** Materialkomponente: 10+ Staubpilz
-**Dedikation:** 1/100g;  
+**Zauberzeit**: 1 minute
+**Materialkomponenten**: 10+ Staubpilz
+**Dedikation**: 1/100g
 
 Nach achtsamer Verarbeitung kann dieses unbeständige, glitzernde graue Pulver einen lauten Knall, helles Licht und viel Rauch produzieren, sobald es zu stark erschüttert oder komprimiert wird.
 Es werden etwa 10g pro Staubpilz produziert, eine beliebige Menge weiterer Staubpilze kann mitverarbeitet werden. Für alle angefangenen 100 Gramm wird eine Karte dediziert.
 Als Pulverhaufen ist der Knall 1 meter pro benutztem Gramm zu hören. Der Rauch hat einen Radius von 10 cm pro gramm. Es findet keine Explosion statt. Alle Charaktere die im Rauch stehen, erhalten 2 Maluswürfel, Alle Charaktere die in den inneren 10% der Hörweite Stehen erhalten weiterhin eine Runde lang halbierte Ergebnisse durch den Lichtblitz und Lärm.
 
 ### Schreipulver
-**Materie 9+ Entropie 9**
-
-**Zauberzeit: 1 Stunde** Materialkomponente: 10+ Düsterwurz
-**Dedikation:** 1/100g;  
+**Zauberzeit**: 1 Stunde 
+**Materialkomponenten**:  10+ Düsterwurz
+**Dedikation**: 1/100g
 
 Nach langer, intensitätsarmer Verarbeitung, ist dieses sehr schwarze Pulver dazu in der Lage, einen langen, lauten, Schreiähnlichen Lärm zu verursachen, wenn es von Licht beschienen wird.
 
@@ -318,8 +323,9 @@ Tageslicht erschöpft das Pulver innerhalb von 10 Minuten von sehr lautem Lärm,
 
 ### Griffpulver
 **Zauberzeit**: 1 Stunde
-**Materialkomponente**: Gabelblumen
-**Dedikation:** 7 Ordnung/100g;  
+**Materialkomponenten**: Gabelblumen
+**Dedikation**: 7 Ordnung/100g;  
+
 Dieses klebrige, bunte Pulver (die genaue Farbe kommt auf die Blütenblätter an) macht greifen und Klettern einfach.
 Pro Gabelblume werden etwa **Wurf** Gramm produziert, aber beliebige Mengen können gleichzeitig verarbeitet werden, alle angefangenen 100 Gramm erhöhen die Notwendige Dedikation um 7. 
 Das Pulver Gewährt 2 Bonuswürfel zum Klettern wo guter Griff Notwendig ist, kann Dinge zusammenkleben solange sie nur gegeneinander verschoben werden anstatt auseinander gezogen zu werden, gibt +5 auf relevante Werte wenn es um Entwaffnung oder ähnliches geht.
@@ -328,18 +334,18 @@ Wasserverteibend, und hat vorrang vor Öl, Schleim oder ähnlichen Effekten.
 Schmeckt sanft nach Gabelblume und lindert Durchfall leicht.
 
 ### Atemmaske
-**Materialkomponente**: Rotwarz
-** Zauberzeit**: 1 Stunde
-** Dauer: 6 mal **Wurf** Minuten, halb solang wenn nass**
-** Dedikation: ** 3Entropie/Stück;  
+**Materialkomponenten**:  Rotwarz
+**Zauberzeit**: 1 Stunde
+**Dauer**: 6 mal **Wurf** Minuten, halb solang wenn nass
+**Dedikation: **: 3Entropie/Stück 
+
 Die grellrote Paste, die dieser Prozess produziert kann auf Stoff verteilt werden um eine Atemmaske herzustellen, die den Träger fast immun gegen Atemgifte macht und ihn befähigt unter Wasser zu atmen.
 Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, während die Farbe sich von Rot über Gelb nach Grau verändert bevor die Maske aufhört zu funktionieren. Es wird eine Maske pro Rotwarz produziert.
 
 ### Leuchtpulver
-**Energie 16+ Materie 11**
-
-**Zauberzeit: 1 hour** Materialkomponente: 10+ Schimmerpilz
-**Dedication:** 1Energie/100g;  
+**Zauberzeit**: 1 Stunde
+**Materialkomponenten**: 10+ Schimmerpilz
+**Dedikation**: 1Energie/100g;  
 
 Nach einer Stunde heftigem aufheizen, abkühlen, mischen und wiederaufheizen, gibt dieses feine, schimmernde, leicht durchsichtige Pulver einen schwaches aber merkliches leuchten ab.
 Während es leicht von Tageslicht überwältigt wird, ist es hell genug um dabei lesen zu können und Beschränkt den Malus für Dunkelheit an Punkten die 5 meter oder weniger von insgesamt 10 Gramm entfernt sind auf 1.
@@ -347,8 +353,9 @@ Unter Luftabschluss hört es auf zu Leuchten und in Sonnenlicht oder während es
 Kreaturen die Leuchtpulver eingeatmet oder eingenommen haben, leiden für etwa eine Minute pro Gramm an leichten Halluzinationen (2 Maluswürfel auf Instinktwürfe und andere unkonzentrierte Tätigkeiten) und können die Blutgefäße von anderen Kreaturen unter dem Einfluss von Leuchtpulver als schwach schillernde leicht wabernde Linien bis etwa 20 Meter durch alle andere Materialien sehen.
 
 ### Schnellfackel
-**Zauberzeit: 3 Runden (nur die letzte ist Zaubern)** 
-Materialkomponenten: 1 Stock, 50g Wachs, 10g Phosphor/Stück
+**Zauberzeit**: 3 Runden (nur die letzte ist Zaubern)
+**Zauberkosten**: 1 Energie
+**Materialkomponenten**: 1 Stock, 50g Wachs, 10g Phosphor/Stück
 
 Fackel mit Wachsbedecktem Ende. Wenn die Wachschicht gebrochen wird, entzündet sich die Fackel sofort und Brennt auf Lichtstufe 10 für 30 Minuten&times;**Wurf**
 Die Produzierten Fackeln werden nach 3 Tagen inaktiv und entzünden sich nicht mehr von selbst und brennen etwa 3 minuten, wenn extern Entzündet.
@@ -361,8 +368,10 @@ Wenn die Flasche geöffnet ist macht sie etwa 5 Minuten lang ein langsam abnehme
 Wenn die Flasche verschlossen ist, hört das Geräusch auf und sie regeneriert sich innerhalb von einer Stunde.
 
 ### Durstsand
-**Zauberzeit**: 1h
+**Zauberzeit**: 1 Stunde
 **Dedikation**: 1 Ordnung
+**Materialkomponenten**: Salz, Sand
+
 1:1 Salz und Sand, jeweils maximal 10 kg, resultiert in gleichen Teilen Durstsand und destilliertem Wasser.
 1 kg Durstsand vereinigt sich mit 1 kg Wasser zu 1 kg normalem Sand. 
 Wenn Durstsand verzehrt wird besteht Verdurstungsgefahr, es sei denn es wird Wasser nach getrunken.
@@ -371,7 +380,8 @@ Nachdem die Dedikation beendet wurde, bleibt der Effekt bestehen, aber der Durst
 ### Dedizierter Fokus
 **Zauberzeit**: 1 Minute
 **Dedikation**: 1
+
 Es können bis zu **Wurf**/3 abgelegte Karten ins Deck zurückgenommen werden.
-Wenn die Dedikation Endet fällt der nächste Quellwurf um Karten ins Deck zurückzunehmen aus.
+Wenn die Dedikation endet, fällt der nächste Quellwurf um Karten ins Deck zurückzunehmen aus.
 
 
