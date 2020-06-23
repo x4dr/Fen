@@ -22,7 +22,7 @@ Der Anwender hat die Möglichkeit, beliebige Karten abzulegen um diesen Zauber a
 
 ### Feuersee
 **Zauberkosten**: 5 Energie 5 Entropie 
-**Materialkomponente**: 100ml+ Alkohol (mindestens 20%)  
+**Materialkomponenten**: 100ml+ Alkohol (mindestens 20%)  
 **Zauberzeit**: 1 Runde (Zauberwurf ist Werfen Wurf) 
 **Dauer**: 5 Runden
 
