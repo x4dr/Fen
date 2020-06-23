@@ -360,6 +360,7 @@ Fackel mit Wachsbedecktem Ende. Wenn die Wachschicht gebrochen wird, entzündet 
 Die Produzierten Fackeln werden nach 3 Tagen inaktiv und entzünden sich nicht mehr von selbst und brennen etwa 3 minuten, wenn extern Entzündet.
 
 ### Schreiflasche
+
 Dies ist kein zu lernender Zauber, es ist die Kombination aus Leuchtpulver und Schreipulver in einer undurchsichtigen Flasche.
 
 Wenn die Flasche geöffnet ist macht sie etwa 5 Minuten lang ein langsam abnehmendes Schreiendes geräusch, dass allen in der direkten Umgebung 3 Maluswürfel verleiht
