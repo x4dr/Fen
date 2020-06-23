@@ -131,7 +131,7 @@ Ein Ziel kann nur einmal gleichzeitig Kalziniert werden. Bei entsprechend große
 ### Lösen
 **Materialkomponenten**: 10 ml Säure pro kg
 **Zauberzeit**: 1 Stunde
-**Dedikation**: Entropie
+**Dedikation**: 1 Entropie
 
 Die Säure wird magisch verstärkt um Auflösungseigenschaften zu verbessern.
 Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
@@ -172,7 +172,7 @@ Vermischt Substanzen mit **Wurf** als Richtlinie, wie eng sie vermischt sind. **
 ### Putrefizierung
 **Materialkomponenten**:  10g verrotendes (3-10 Tage alt) Fleisch
 **Zauberzeit**: 6 Stunden
-**Dedikation**: 1 Ordnung 1 Entropie
+**Dedikation**: 1 Ordnung, 1 Entropie
 
 Ausbreitende Verrottung wird gebündelt und verstärkt.
 Das nach der Verarbeitung mumifizierte Fleisch wird in Kontakt mit verrottbarem Material gebracht.
@@ -205,8 +205,8 @@ Am Ende des Zaubers verflüssigt sich das betroffene Material mit derselben Rate
 
 ### Zibation
 **Zauberzeit**: Vorerst 1 Runde
-**Dedikation**: Nach Ziel
 
+**Dedikation**: Nach Ziel
 Erlaubt das Hinzufügen einer Zutat, Komponente oder sonstigen Aspektbeeinflussenden Substanz in ein bestehendes Material, zum Beispiel zum Nachbessern von Zaubertränken oder Einfügen einer Aktivierung in ein Bestehendes Artefakt.
 Das Ergebnis benutzt den niedrigeren Wurf zwischen Zauberwurf und Originalwurf. Zibation kann auch komplett fehlschlagen, wenn der Originale Wurf höher als der Zauberwurf war.
 
@@ -315,20 +315,18 @@ Als Pulverhaufen ist der Knall 1 meter pro benutztem Gramm zu hören. Der Rauch 
 
 ### Schreipulver
 **Zauberzeit**: 1 Stunde 
-**Materialkomponenten**:  10+ Düsterwurz
-**Dedikation**: 1/100g
+**Materialkomponenten**: 10 Düsterwurz
+**Dedikation**: 1
 
 Nach langer, intensitätsarmer Verarbeitung, ist dieses sehr schwarze Pulver dazu in der Lage, einen langen, lauten, Schreiähnlichen Lärm zu verursachen, wenn es von Licht beschienen wird.
-
-After slow, low Energie processing, this very black powder will produce a long screech like that of an angry cat for as long as it is exposed to Light.
-Es werden etwa 10g pro Düsterwurz produziert, eine beliebige Menge weiterer Düsterwurzen kann mitverarbeitet werden. Für alle angefangenen 100 Gramm wird eine Karte dediziert.
+Es werden **Wurf**g pro Düsterwurz produziert, eine beliebige Menge weiterer Düsterwurzen kann mitverarbeitet werden. Für alle angefangenen 10 Düsterwurz wird eine Karte dediziert.
 Das Pulver kann mit Wasser zu einer Paste gemischt werden und auf Objekte aufgetragen werden.
 Tageslicht erschöpft das Pulver innerhalb von 10 Minuten von sehr lautem Lärm, aber nach einer Stunde in absoluter Dunkelheit ist es Regeneriert.
 
 ### Griffpulver
 **Zauberzeit**: 1 Stunde
 **Materialkomponenten**: Gabelblumen
-**Dedikation**: 7 Ordnung/100g
+**Dedikation**: 7 Ordnung
 
 Dieses klebrige, bunte Pulver (die genaue Farbe kommt auf die Blütenblätter an) macht greifen und Klettern einfach.
 Pro Gabelblume werden etwa **Wurf** Gramm produziert, aber beliebige Mengen können gleichzeitig verarbeitet werden, alle angefangenen 100 Gramm erhöhen die Notwendige Dedikation um 7. 
@@ -341,7 +339,7 @@ Schmeckt sanft nach Gabelblume und lindert Durchfall leicht.
 **Materialkomponenten**:  Rotwarz
 **Zauberzeit**: 1 Stunde
 **Dauer**: 6 mal **Wurf** Minuten, halb solang wenn nass
-**Dedikation**: 3 Entropie/Stück 
+**Dedikation**: 3 Entropie
 
 Die grellrote Paste, die dieser Prozess produziert kann auf Stoff verteilt werden um eine Atemmaske herzustellen, die den Träger fast immun gegen Atemgifte macht und ihn befähigt unter Wasser zu atmen.
 Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, während die Farbe sich von Rot über Gelb nach Grau verändert bevor die Maske aufhört zu funktionieren. Es wird eine Maske pro Rotwarz produziert.
@@ -349,11 +347,13 @@ Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, 
 ### Leuchtpulver
 **Zauberzeit**: 1 Stunde
 **Materialkomponenten**: 10+ Schimmerpilz
-**Dedikation**: 1 Energie/100g
+**Dedikation**: 1 Energie
 
 Nach einer Stunde heftigem aufheizen, abkühlen, mischen und wiederaufheizen, gibt dieses feine, schimmernde, leicht durchsichtige Pulver einen schwaches aber merkliches leuchten ab.
-Während es leicht von Tageslicht überwältigt wird, ist es hell genug um dabei lesen zu können und Beschränkt den Malus für Dunkelheit an Punkten die 5 meter oder weniger von insgesamt 10 Gramm entfernt sind auf 1.
-Unter Luftabschluss hört es auf zu Leuchten und in Sonnenlicht oder während es nicht leuchtet, sieht es lediglich wie durchsichtiger Perlmuttstaub aus.
+Es werden **Wurf**g pro Schimmerpil produziert, eine beliebige Menge weiterer Schimmerpilze kann mitverarbeitet werden. Für alle angefangenen 10 Schimmerpilze wird eine Karte dediziert.
+Während es leicht von Tageslicht überstahlt wird, ist es hell genug um dabei lesen zu können und Beschränkt den Malus für Dunkelheit an Punkten die 5 meter oder weniger von insgesamt 10 Gramm entfernt sind auf 1.
+Unter Luftabschluss hört es auf zu leuchten und in Sonnenlicht oder während es nicht leuchtet, sieht es lediglich wie durchsichtiger Perlmuttstaub aus.
+
 Kreaturen die Leuchtpulver eingeatmet oder eingenommen haben, leiden für etwa eine Minute pro Gramm an leichten Halluzinationen (2 Maluswürfel auf Instinktwürfe und andere unkonzentrierte Tätigkeiten) und können die Blutgefäße von anderen Kreaturen unter dem Einfluss von Leuchtpulver als schwach schillernde leicht wabernde Linien bis etwa 20 Meter durch alle andere Materialien sehen.
 
 ### Schnellfackel
