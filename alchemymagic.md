@@ -27,11 +27,16 @@ Materialkomponenten sind zwingend notwendig um einen Zauber auszuführen und wer
 ### Konzentration
 Benötigt eine [halbe Aktion](combat#kampf), kann nur einmal pro Runde ausgeführt werden und zieht eine Karte.
 
+### Magiemischung
+Die Notwendige Magiemischung für die Zauberkosten und Dedikation.
+Die Summe der Kartenwertigkeiten innerhalb einer Magiesorte muss gleich oder höher sein als die entsprechende Wertigkeit in der Anforderung der Magiemischung. Wenn in der Magiemischung keine Magiesorte angegeben ist, kann sie durch beliebige Kombination von Magiesorten erfüllt werden.
+
 ### Dedikation
 **Dedikation** wählt die höchsten Verfügbaren aus den eingesetzten Karten, wenn keine davon die Ansprüche erfüllen, die höchsten aus der Hand und ansonsten oben vom Deck. Gleichstand wird beliebig vom Zauberer aufgelöst.
 **Dedizierte** Karten sind ihren Effekten zuzuordnen aber gelten sonst als entfernt.
 Dedizierte Karten haben eine Verbindung mit ihrem Effekt, wenn eine dedizierte Karte zurück ins Deck gelangt endet der Effekt. Das Ende des Effekts hat allerdings keine Auswirkung auf die Karten.
-**Anspruch** Ist die Summe der Kartenwertigkeiten, optional mit Kartenfarbe, die erfüllt werden muss. Es werden alle Karten dediziert die den Anspruch zumindest teilweise erfüllen. Karten die vom Deck aufgedeckt werden, die den Anspruch nicht erfüllen werden abgelegt.
+**Anspruch** Es werden alle eingesetzten Karten dediziert die den Anspruch zumindest teilweise erfüllen. Karten die während dem Zahlen der Dedikation vom Deck aufgedeckt werden, die den Anspruch nicht erfüllen werden abgelegt.
+
 
 ### Rückkopplung
 Rückkopplung verursacht sofortiges entfernen von Handkarten (Reihenfolge vom Zauberer bestimmt), wenn die Hand leer ist, werden oben Karten vom Deck entfernt, wenn das Deck leer ist, wird der Ablagestapel gemischt und Karten zufällig von dort entfernt.
