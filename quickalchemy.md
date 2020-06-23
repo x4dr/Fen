@@ -187,4 +187,11 @@ Wurf bei auslösen der Falle.
 **Materialkomponenten**: divers
 **Zauberzeit**: 0
 
-Materialkomponente wird auf Objekt angewandt. Objekt ändert sich. Wurf hat einfluss. Komponente hat Einfluss. Effekte oft temporär. Überschuss hat Einfluss. Dedikation?  
+Materialkomponente wird auf Objekt angewandt. Objekt ändert sich, je nach Komponente. Die Effekte sind größtenteils temporär.
+
+### Größere Änderung
+**Zauberkosten**: 10 Entropie
+**Materialkomponenten**: divers
+**Zauberzeit**: 0
+
+Materialkomponente wird auf Objekt angewandt. Objekt ändert sich mehr, je nach Komponente. Die Effekte sind oft temporär.
