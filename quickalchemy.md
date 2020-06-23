@@ -6,7 +6,6 @@ Zauber der Schnellalchemie sind eher für direkte Situationen bzw "im Affekt" zu
 Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der gleichen) eine ingredienz die ein Stück bildet bis zu 5 Meter zielsicher geworfen werden kann. Mehr benötigt ein entsprechendes Wurfedium (zum beispiel flacon/säckchen für pulver) und einen Fingerfertigkeit-Werfen wurf.  (**Wurf&times;2**=>meter).  
 
 ## Zauber  
-
 ### Magie Zurückreißen
 **Zauberzeit**: 0
 
