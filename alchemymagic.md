@@ -19,7 +19,7 @@ Im Französichen Deck sind Karten wie folgt zugeordnet:
 Karo- **O**rdnung | Kreuz - **M**aterie | Herz - **E**nergie | Pik - e**N**tropie
 Eine Karte liefert exakt ihren Wert in exakt ihrer Magiesorte.
 
-Alchemischezauber benötigen eine Gewisse **Magiemischung*, eine **Zauberzeit** und eine **Materialkomponente**.
+Alchemische Zauber benötigen eine Gewisse **Magiemischung**, eine **Zauberzeit** und eine **Materialkomponente**.
 Karten die benutzt worden sind, werden **abgelegt**.
 Karten werden **gezogen**, wenn der Charakter sich **Konzentriert**. 
 Materialkomponenten sind zwingend notwendig um einen Zauber auszuführen und werden, soweit nicht weiter beschrieben, mit dem Ziel in Verbindung gebracht. Mundane [Alchemie](alchemy) wird benutzt um Materialkomponenten zu reinigen.
@@ -34,7 +34,7 @@ Dedizierte Karten haben eine Verbindung mit ihrem Effekt, wenn eine dedizierte K
 **Anspruch** Ist die Summe der Kartenwertigkeiten, optional mit Kartenfarbe, die erfüllt werden muss. Es werden alle Karten dediziert die den Anspruch zumindest teilweise erfüllen. Karten die vom Deck aufgedeckt werden, die den Anspruch nicht erfüllen werden abgelegt.
 
 ### Rückkopplung
-Rückkopplung verursacht sofortiges entfernen von Handkarten (Reihenfolge vom Zauberer bestimmt), wenn die Hand leer ist, werden oben Karten vom Deck entfernt, wenn das Deck leer ist, wird der Ablagestapel gemischt und Karten von dort entfernt.
+Rückkopplung verursacht sofortiges entfernen von Handkarten (Reihenfolge vom Zauberer bestimmt), wenn die Hand leer ist, werden oben Karten vom Deck entfernt, wenn das Deck leer ist, wird der Ablagestapel gemischt und Karten zufällig von dort entfernt.
 
 ### Meditation
 Um Karten vom Ablagestapel zurück ins Deck zu transferieren kann **meditiert* werden. Nach **8 Stunden** die entspannt und insichgekehrt verbracht werden, wird der ablage stapel gemischt und  die **Quelle** obersten Karten ins Deck transferiert. 
