@@ -259,7 +259,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ## Prozessalchemie  
 [Biegen[[specific:alchemymagic:zauber:biegen:-]]]  
 [Morph[[specific:alchemymagic:zauber:morph:-]]]  
-[Kalcifizieren[[specific:alchemymagic:zauber:kalcifizieren:-]]]  
+[Kalzifizieren[[specific:alchemymagic:zauber:kalzifizieren:-]]]  
 [Calcination[[specific:alchemymagic:zauber:Kalzinieren:-]]]  
 [Sublimation[[specific:alchemymagic:zauber:Sublimation:-]]]  
 [Separation[[specific:alchemymagic:zauber:Separation:-]]]  
