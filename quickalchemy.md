@@ -21,12 +21,13 @@ Der Anwender hat die Möglichkeit, beliebige Karten abzulegen um diesen Zauber a
 * 20: sofort (zur not mit einem Knall)
 
 ### Feuersee
-Energie 5+ Entropie 5+, Materialkomponente 100ml+ Alkohol (mindestens 20%)  
-Zauberzeit: 1 Runde (Zauberwurf ist Werfen Wurf) 
-Dauer: 5 Runden
+**Zauberkosten**: 5 Energie 5 Entropie 
+**Materialkomponente**: 100ml+ Alkohol (mindestens 20%)  
+**Zauberzeit**: 1 Runde (Zauberwurf ist Werfen Wurf) 
+**Dauer**: 5 Runden
+
 Fläche: 1m2 / L (Radius:Volumen; 1 Person:0.1L; 0.5m:0.8L; 1m:3.2L; 2m:12.6L, 2.5m:19.7L)
 Verändert eine Portion Alkohol(beliebig groß) zu Flüssigfeuer, dass wenn die Kontaktfläche zu Luft groß genug ist, Feuer fängt. Wird nach Ablauf der Dauer inert und verliert etwa die Hälfte des Volumens.
-
 
 Der Alkohol wird verschüttet, oder in einem zerbrechlichen Gefäß geworfen. Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird. Der Feuersee brennt für die nächsten **Wurf** Minuten. Bei Aufschlag und dann am Ende jeder Runde nach der ersten wird Wurf/3 [Feuerschaden](damage#feuer) verursacht.   
   
@@ -41,12 +42,10 @@ Reagenzanforderungen: 50% oder mehr Wasser bzw nichtbrennbare Stoffe im Alkohol
 Durchmesser ist 5m bei 0.5-5L und 10m bei 5-80L, ab 80L gelten wieder normale Flächen.
 Schaden ist Wurf/4, Dauer ist Wurf/2 Runden.
 
-
 Vorteil: haltbares Feuer  
 Reagenzanforderungen: Alchemisch Gereinigte Reagenz.  
 Beim Zaubern kann Dediziert werden, das Flüssigfeuer bleibt für die Dauer der Dedikation funktionsfähig.
 
-  
 Vorteil: klebriges Feuer  
 Alle, die von der ersten Schadensinstanz erfasst wurden, werden mindestens Wurf/3 Runden beeinflusst, unabhängig davon ob sie im Wirkungsbereich bleiben. (Sie können immernoch gelöscht werden). 
 Reagenzanforderungen: Seife im Alkohol.  
@@ -57,10 +56,10 @@ Reagenzanforderungen: Schwefel im Alkohol.
 
 
 ### Pandemonium 
-Entropie 11+ ?20, Materialkomponente: eine speziell angefertigte (Ziel 17, Stahl, 100g) Kugel aus Uhrwerk.  
-
-Zauberzeit: 3 Runden  
-Dauer: 1 Runde.  
+**Zauberkosten**: 11 Entropie 20 ?
+**Materialkomponenten**: eine speziell angefertigte (Ziel 17, Stahl, 100g) Kugel aus Uhrwerk.  
+**Zauberzeit**: 3 Runden  
+**Dauer**: 1 Runde.  
 
 Bei Aufschlag wird ein Gebiet zufälliger Transmutationen erzeugt, das Zusammensetzungen ändert, 
 explosionen auslöst und zufällige Alchemische Prozesse anstößt. Jede Runde wird **Wurf** Schaden an allen Entitäten im Wirkungsbereich verursacht. Zustand aller Gegenstände sinkt um 1.   
@@ -77,9 +76,9 @@ Zusätzliche Dauer.
   
   
 ### Statische Entladung
-Ordnung 5+ Energie 5+, Materialkomponente: kleiner Ziehstein (10g)  
-  
-Zauberzeit: 3 Runden  
+**Zauberkosten**: 5 Ordnung 5 Energie
+**Materialkomponenten**: kleiner Ziehstein (10g)  
+**Zauberzeit**: 3 Runden  
   
 Eine **Ladung** pro 4 Energie.  
 Ziehstein wird geworfen, von ihm aus spring ein Blitz auf das nächstgelegene Metallene Objekt. 
@@ -93,18 +92,18 @@ Zusätzliche Ladungen
   
   
 ### Ordnen
-Ordnung 5+, Materialkomponente: Salz (10g)  
-
-Zauberzeit: 0  
+**Zauberkosten**: 5 Ordnung 
+**Materialkomponenten**: Salz (10g)  
+**Zauberzeit**: 0 Runden
 
 Ordnet das Worauf das Salz angewendet wird. Höhere Würfe Ordnen mehr. Beispiele: Stapel Papier 
-(Reihenfolge, 2^(**Wurf**-5) Blätter), Sand/Wasser (glätten, **Wurf**-5 m^2), Spuren ( verwischen **Wurf** -5 m). Wenn Ziel Person ist, wirkt **Wurf**-5 Verwirrungseffekten/Panik und Kreativität usw entgegen.  
+(Reihenfolge, 2^(**Wurf**-5) Blätter), Sand/Wasser (glätten, **Wurf**-5 m^2), Spuren (verwischen **Wurf**-5 m). Wenn Ziel Person ist, wirkt **Wurf**-5 Verwirrungseffekten/Panik und Kreativität usw entgegen.  
 
 ### Gefrieren
-Ordnung 3+, Materie 3+, Materialkomponente: Quarzkristall(e) (10g)  
-  
-Zauberzeit: 0  
-Dauer: Konzentration 1/Dedikation 1  
+**Zauberkosten**: 3 Ordnung, 4 Materie 
+**Materialkomponenten**: 10g Quarzkristall(e) 
+**Zauberzeit**: 0  
+**Dauer**: Konzentration 1/Dedikation 1  
   
 Medium gefriert am Berührungspunkt mit dem/den Kristallen, bis zu **Wurf**-8 m Radius (beinflusst von Reinheitsgrad des Mediums und der relativen Größe des Korns).  
 Wenn reiner Quartzsand verwendet wird, gilt jedes Korn Einzeln. 
@@ -112,44 +111,48 @@ Als Waffe im Kampf mit Waffenlos zu gebrauchen macht bei Kontakt mit Schleimhäu
 Bei Ende kehrt alles in den Vorherigen Zustand zurück. Selbst bei Dedikation gelten normale Schmelzprozesse. Effekt ist eher Kristalliserung und Entzieht nur begrenzte Mengen Energie. Funktioniert am besten mit reinen Materialien.
 
 ### Magnetisieren
-Ordnung 3+, Energie 3+, Kupfer (~10g)
-Das Kupfer wird um das Objekt gelegt. Das Objekt erhält eine Magnetische Stärke von **Wurf**. Nichtmetallene Objekte dritteln das Ergebnis. Die magnetische Stärke wird als Bonus zum treffen mit metallenen Waffen addiert (offensiv) und senkt das Ergebnis um Metall vom magnetischen Objekt zu entfernen, was sich im Kampf durch Grundwurfsenkung bemerkbar macht, wenn versucht wird die Waffe weiter zu benutzen. die Senkung überschreibt den etwaigen Bonus für die Runde. Magnetische Stärke sinkt jede runde um 1. Ansonsten ist das Objekt für die Dauer in allen anderen sinnen ebenfalls magnetisch.
+**Zauberkosten**: 3 Ordnung, 3 Energie
+**Materialkomponenten**: 10g Kupfer 
+**Zauberzeit**: 0  
+
+Das Kupfer wird um das Objekt gelegt. Das Objekt erhält eine Magnetische Stärke von **Wurf**. Nichtmetallene Objekte dritteln das Ergebnis. Die magnetische Stärke wird als Bonus zum treffen mit metallenen Waffen addiert (offensiv) und senkt das Ergebnis um Metall vom magnetischen Objekt zu entfernen, was sich im Kampf durch Grundwurfsenkung bemerkbar macht, wenn versucht wird die Waffe weiter zu benutzen. die Senkung überschreibt den etwaigen Bonus für die Runde. Magnetische Stärke sinkt jede Runde um 1. Ansonsten ist das Objekt für die Dauer in allen anderen Sinnen ebenfalls magnetisch.
 
 ### Essenz des Glücks
-Ordnung 3+, Entropie 3+, Materialkomponente: Knöchel (10g)  
-  
-Zauberzeit: 0  
+**Zauberkosten**: 3 Ordnung, 3 Entropie
+**Materialkomponenten**: 1 Mittelhandknöchel einer Person
+**Zauberzeit**: 0  
 
-Stellt **Wurf**/4 Würfel bereit die bis zum Ende nächster Runde als bonus/maluswürfel frei verteilt werden können auf Aktionen die in Physischem Kontakt mit dem Knöchel begangen werden.  
+Stellt **Wurf**/4 Würfel bereit die bis zum Ende nächster Runde als Bonus-/Maluswürfel frei auf Aktionen die in Physischem Kontakt mit dem Knochen oder knochenberührenden Personen begangen werden verteilt werden können.  
 
 ### Härten
-Materie 5+, Materialkomponente: gereinigter, vorbereiteter Stahl (10g)  
+**Zauberkosten**: 5 Materie
+**Materialkomponenten**: 10g gereinigter, vorbereiteter Stahl
+**Zauberzeit**: 0  
   
-Zauberzeit: 0  
-  
-Stahl wird in das Objekt gedrückt. Es verschmilzt damit und bietet **Wurf**/4 extra Stabilität/Schadensreduktion (im Falle von Rüstungen beides), die jede Runde um 1 abnimmt.  
+Stahl wird in das Objekt gedrückt. Es verschmilzt damit und bietet **Wurf**/4 extra Stabilität/Schadensreduktion (im Falle von Rüstungen beides) für die nächsten **Wurf** Runden
 
 ### Beschleunigen
-Materie 3+, Energie 3+, Materialkomponente: Sehne (40+cm, frisch oder verarbeitet), Projektil  
-
-Zauberzeit: 1 (erster Wurf Anvisieren)  
+**Zauberkosten**: 3 Materie, 3 Energie
+**Materialkomponenten**: Sehne (40+cm, frisch oder verarbeitet), Projektil  
+**Zauberzeit**: 1 (erster Wurf Anvisieren)  
 
 Bei Beginn des Zauber wird die Sehne Konsumiert, was das behandelte Objekt eine runde Schweben lässt. Danach bewegt es sich auf geradem weg vom Schwerpunkt des Zauberer weg und macht **Wurf** Schaden am ersten Hindernis, das es Trifft. Anvisieren mit Wahrnehmung,Bogen(o.ä) oder für einen Maluswürfel mit Wahrnehmung,Schnellalchemie.  
 
 ### Verfall
-Materie 3+, Entropie 3+, Materialkomponente: Asche (Staub funktioniert auch mit 2 Maluswürfeln) (10g)  
+**Zauberkosten**: 3 Materie, 3 Entropie
+**Materialkomponenten**: 10g Asche (Staub funktioniert auch mit 2 Maluswürfeln)
+**Zauberzeit**: 0  
+**Dauer**: Konzentration/Dedikation  
 
-Zauberzeit: 0  
-Dauer: Konzentration/Dedikation  
-Objekt auf das die Asche aufgebracht wird (dort wo die Asche aufgebracht wird) altert um **Wurf**-5 Jahre. Multiple Applikationen nehmen nur den höchsten. Bei Ende des Zaubers wird der Effekt umgekehrt, nicht aber Dinge die in der Zwischenzeit geschehen sind. Rüstungen verlieren 1 Rüstungsschutz und 1 Stabilität pro zwei Jahre, Waffen 1 Grundschaden pro drei Jahre.  
+Objekt auf das die Asche aufgebracht wird (dort wo die Asche aufgebracht wird) altert um **Wurf**-5 Jahre. Bei mehreren Applikationen zählt nur das höchste Ergebnis. Bei Ende des Zaubers wird der Effekt umgekehrt, nicht aber Dinge die in der Zwischenzeit geschehen sind. Rüstungen verlieren 1 Rüstungsschutz und 1 Stabilität pro drei Jahre, Waffen 1 Grundschaden pro drei Jahre.  
 
 ### Statischer Schlag
-Energie 5+, Materialkomponente: Leitendes Medium (normalerweise metall; 10g)  
+**Zauberkosten**: 5 Energie
+**Materialkomponenten**: 10g Metall
+**Zauberzeit**: 0  
+**Dauer**: 1 Runde, dann 2 Energie/Runde Aufrechterhaltung
 
-Zauberzeit: 0  
-Dauer: 1 Runde, Aufrechterhalten: 3 Energie / Runde  
-
-Nächster Kontakt außerhalb des Zaubernden der Materialkomponente verursacht **Wurf/2** Blitzschaden.  
+Nächster Kontakt außerhalb des Zaubernden der Materialkomponente verursacht **Wurf**&times;2/3 Blitzschaden.  
 
 7-Resonanz:  
 50% Bonusschaden pro  
@@ -161,10 +164,11 @@ Nächster Kontakt außerhalb des Zaubernden der Materialkomponente verursacht **
 4: Wurf = 15, dann 2  
 
 ### Destabilisieren
-Energie 3+, Entropie 3+, Ordnung 0+ Materialkomponente: Irgend etwas destabilisierbares etwa 100g (explosiv/komplex)  
-  
-Zauberzeit: 1  
-Dauer: 1, Aufrechterhalten: 1 Ordnung / Minute
+**Zauberkosten**: 3 Energie, 3 Entropie
+**Materialkomponenten**: 100g destabilisierbares Material (explosiv/komplex)
+**Zauberzeit**:1 
+**Dauer**: 1, dann 1 Ordnung / Minute Aufrechterhalten
+ 
 Radius: 5m
 **Innerer Schaden** ist **Wurf**/3 Feuerschaden 
 **Äußerer Schaden** ist **Wurf**/3 Schlagschaden
@@ -179,8 +183,8 @@ Aufrechterhaltung wir zu 1 Ordnung/Stunde, aber Karten die per Aufrechterhalung 
 Wurf bei auslösen der Falle.
 
 ### Änderung
-Entropie 5+ Materialkomponente: Verschiedene Komponenten haben verschiedene Wirkungen.  
-
-Zauberzeit: 0  
+**Zauberkosten**: 5 Entropie
+**Materialkomponenten**: divers
+**Zauberzeit**: 0
 
 Materialkomponente wird auf Objekt angewandt. Objekt ändert sich. Wurf hat einfluss. Komponente hat Einfluss. Effekte oft temporär. Überschuss hat Einfluss. Dedikation?  
