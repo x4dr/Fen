@@ -9,7 +9,7 @@ tags: magic alchemy
 ## Mechaniken
 ###[Vorteile](alchemyperks)
 ### Magische Einstimmung
-Das Magische Potential des Charakters ist abgebildet durch ein 52 Karten Deck ( Werte 2,3,4,5,6,7,8,9,10,10,10,10,1/11 je nach wunsch) abgebildet.
+Das Magische Potential des Charakters ist abgebildet durch ein 52 Karten Deck ( Werte 2,3,4,5,6,7,8,9,10,10,10,10,1/11 je nach Wunsch) abgebildet.
 
 Das **Handkartenlimit** ist 5, Wenn dieses überschritten wird, wird als Teil der Aktion die eine Karte zur Hand hinzugefügt hat, eine andere ausgesucht und **abgelegt**. Manche zauber Erfordern **dedikation** von Karten.
 **Abgelegt**e Karten werden auf den **Ablagestapel** gelegt.
@@ -88,12 +88,12 @@ Effekte:
 **Materialkomponenten**: 10g Gold oder 1kg gereinigter Ton; Wärm/Kühlgerätschaften
 **Zauberzeit**: 1 Stunde
 **Dedikation**: 1 Entropie
-**Anwendung**: 10 minuten-6 Stunden
 
 Der Ton oder das Gold werden verzaubert ihre Formbarkeit übertragen zu können. Es ist bis auf eine erhöhte Formbarkeit keine Veränderung am Material festzustellen.
-Die Materialkomponente wird  großflächig auf das Ziel aufgetragen.
+Die Materialkomponente wird großflächig auf das Ziel aufgetragen.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
-Zielobjekt wird nach Anwendung formbar, Hitze erhöht die Formbarkeit und Kälte verfestigt das Material. Ohne Hitze dauert der Prozess 6 Stunden, ohne Kälte bleibt das Material für die Restliche Dauer des Zaubers formbar. Es werden **Wurf** Liter Material beeinflusst. Wenn der Effekt einen Monat angehalten hat, wird die Form permanent, ansonsten kehrt das Material langsam in die ursprüngliche Konfiguration zurück.
+Zielobjekt wird nach Anwendung formbar, Hitze erhöht die Formbarkeit um eine Beliebige Form im Rahmen der Möglichkeiten des Materials und der Werkzeuge in 10 Minuten zu erreichen und Kälte verfestigt das Material. Ohne Hitze dauert der Prozess mindestens 6 Stunden, ohne Kälte bleibt das Material für die Restliche Dauer des Zaubers formbar. Spezielle Formen die jenseits einfacher handgeformter Geometrien sind, können einen weiteren Wurf erfordern.
+Es werden **Wurf** Liter Material beeinflusst. Wenn der Effekt einen Monat angehalten hat, wird die Form permanent, ansonsten kehrt das Material langsam in die ursprüngliche Konfiguration zurück.
 
 ### Kalzifizieren
 **Materialkomponenten**: Zermahlener gereinigter Kalk
@@ -323,7 +323,7 @@ Tageslicht erschöpft das Pulver innerhalb von 10 Minuten von sehr lautem Lärm,
 ### Griffpulver
 **Zauberzeit**: 1 Stunde
 **Materialkomponenten**: Gabelblumen
-**Dedikation**: 7 Ordnung/100g;  
+**Dedikation**: 7 Ordnung/100g
 
 Dieses klebrige, bunte Pulver (die genaue Farbe kommt auf die Blütenblätter an) macht greifen und Klettern einfach.
 Pro Gabelblume werden etwa **Wurf** Gramm produziert, aber beliebige Mengen können gleichzeitig verarbeitet werden, alle angefangenen 100 Gramm erhöhen die Notwendige Dedikation um 7. 
@@ -336,7 +336,7 @@ Schmeckt sanft nach Gabelblume und lindert Durchfall leicht.
 **Materialkomponenten**:  Rotwarz
 **Zauberzeit**: 1 Stunde
 **Dauer**: 6 mal **Wurf** Minuten, halb solang wenn nass
-**Dedikation**: 3Entropie/Stück 
+**Dedikation**: 3 Entropie/Stück 
 
 Die grellrote Paste, die dieser Prozess produziert kann auf Stoff verteilt werden um eine Atemmaske herzustellen, die den Träger fast immun gegen Atemgifte macht und ihn befähigt unter Wasser zu atmen.
 Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, während die Farbe sich von Rot über Gelb nach Grau verändert bevor die Maske aufhört zu funktionieren. Es wird eine Maske pro Rotwarz produziert.
@@ -344,7 +344,7 @@ Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, 
 ### Leuchtpulver
 **Zauberzeit**: 1 Stunde
 **Materialkomponenten**: 10+ Schimmerpilz
-**Dedikation**: 1Energie/100g;  
+**Dedikation**: 1 Energie/100g
 
 Nach einer Stunde heftigem aufheizen, abkühlen, mischen und wiederaufheizen, gibt dieses feine, schimmernde, leicht durchsichtige Pulver einen schwaches aber merkliches leuchten ab.
 Während es leicht von Tageslicht überwältigt wird, ist es hell genug um dabei lesen zu können und Beschränkt den Malus für Dunkelheit an Punkten die 5 meter oder weniger von insgesamt 10 Gramm entfernt sind auf 1.
