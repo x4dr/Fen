@@ -224,8 +224,8 @@ stets betrunken
 
 #Wunden
 
-10 (Schw 5)
-(28Punkte)
+6 (Schw 5)
+(24Punkte)
 
 #Inventar
 10kg Chitinplatten  
