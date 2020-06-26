@@ -223,6 +223,8 @@ stets betrunken
 
 
 #Wunden
+
+10 (Schw 5)
 (28Punkte)
 
 #Inventar
