@@ -22,21 +22,37 @@ Der Umgesprungene wirft den Umspringenden ab, wenn Offensiv ODER Defensivvorteil
 
 # Dolch
 ## Level 1: Verzögerte Bewegung  
-reflexiv: Wenn in dieser runde weniger als 5 meter Bewegungsreichweite ausgegeben wurde haben, kann für alle 2 meter verbleibende Reichweite 1 meter bewegt werden, -5 defensive.
+reflexiv: Wenn in dieser Runde weniger als 5 Meter Bewegungsreichweite ausgegeben wurde haben, kann für alle 2 Meter verbleibende Reichweite 1 meter bewegt werden, -5 defensive.
+
 ## Level 2: Hechten  
 reflexiv: Waffenreichweiten Malus kann ignoriert werden, -5 Defensive
 
+## Level 3: Winkelzug
+reflexiv: Bonusangriff auf den aktuellen Angreifer. Bei Erfolg wird kein Schaden verursacht, sondern der Offensivwert des Angreifers um den eigenen Offensivwert gesenkt. *Nächste* Runde kann kein normaler Angriff gemacht werden. 
+
+## Level 4: Zu viel des Bösen
+passiv: Für jede Offensivvorteilsstufe von mehr als 10 wird 1 auf den Schaden addiert.
+
+## Level 5: Der beste Plan
+Technik: Es wird kein Angriff gemacht während das Ziel abgeschätzt wird. Der Anwender sagt vorraus, was das Ziel tun wird. Wenn das Ziel die spezifische Handlung durchführt wird der aktuelle Kampfvorteil des Anwenders gegen das Ziel verdoppelt.
+
+
 # Meucheln
 ## Level 1: Vipernschlag  
-passiv: Nach erfolgreichem Angriff kann sich, ohne Gelegenheitsangriff des Zieles, bewegt werden (mit normaler bewegung in der nächsten freien Phase).
+passiv: Nach erfolgreichem Angriff kann sich, ohne Gelegenheitsangriff des Zieles, bewegt werden (mit normaler Bewegung in der nächsten freien Phase).
 
-##Level 2: Hinterrücks  
+## Level 2: Hinterrücks  
 Ein Ziel, dass sich des Angreifers nicht bewusst ist hat defensive -5.
 
-##Level 3: Death from Above
+## Level 3: Death from Above
 Technik: Muss von mindestens mit eigenem Fußlevel über Kopflevel des Ziels ausgeführt werden. Angriff bekommt 3 Bonuswürfel.
 Bei Fernkampfangriffen muss es ein 45° winkel Schuss nach unten sein und gewährt nur einen Bonuswürfel.
 
+## Level 4: Todeswind
+passiv: Wenn in der letzten Runde Schaden angerichtet wurde, kann nach dem Angriff bewegt werden.
+
+## Level 5: Sanfter Schlaf
+passiv: Ziele haben einen Maluswürfel auf Durchhaltewürfe für jede Wunde des Anwenders die sie haben, die noch nicht behandelt worden ist.
 
 # Schleuder : Indirektes Feuer
 Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
