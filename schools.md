@@ -34,7 +34,7 @@ reflexiv: Bonusangriff auf den aktuellen Angreifer. Bei Erfolg wird kein Schaden
 passiv: Für jede Offensivvorteilsstufe von mehr als 10 wird 1 auf den Schaden addiert.
 
 ## Level 5: Der beste Plan
-Technik: Es wird kein Angriff gemacht während das Ziel abgeschätzt wird. Der Anwender sagt vorraus, was das Ziel tun wird. Wenn das Ziel die spezifische Handlung durchführt wird der aktuelle Kampfvorteil des Anwenders gegen das Ziel verdoppelt.
+Technik: Es wird kein Angriff gemacht während das Ziel abgeschätzt wird. Der Anwender sagt vorraus, was das Ziel tun wird. Wenn das Ziel die spezifische Handlung durchführt wird der aktuelle Kampfvorteil des Anwenders gegen das Ziel verdoppelt. Es kann immer nur ein "Der beste Plan" gleichzeitig aktiv sein.
 
 
 # Meucheln
