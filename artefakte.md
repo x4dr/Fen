@@ -295,4 +295,4 @@ Wachhalte Kralle => macht 3 Schaden Schwierigkeit 5 (auch beim rausziehen) und g
 ## Istan
 Todesblickkästchen
 
-4x Wandelselementarherzen
+4x Wandelselementarherzen (avis hat nicht direkt dips aber bitte bescheid sagen wenn verwendet)
