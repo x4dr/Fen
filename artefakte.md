@@ -224,7 +224,7 @@ Herz des Waldes x2
 * Qualität 30
 * ermöglicht Vereinigung von Tier und Pflanze
 
-### Nysgaris-Erbstücke
+## Nysgaris-Erbstücke
 ### Zauberstab 
 (17)
 * richtiger Gedanke löst es aus
