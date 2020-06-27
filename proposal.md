@@ -39,9 +39,19 @@ Effekt ersetzen durch:
 Avis kann seine runde damit seinen Willen zu fokusieren wie er es für das Wirken einer Forma tun würde, die energie aber anstat in eine Form(a) zugießen^^ in das Tatoo lenkt was...
 1. ...@Quelle viel Energie in das Tattoo lädt oder,
 2. ...ein Wurf @quelle alle n Punkte lädt es das Tattoo um 1 überschüssige Punkte gehen verloren wenn das fokussieren endet
+3. ...Tattoo lädt sich um einen festen Wert
 Der Zauberwurf triggert wie gewoht die Tabelle und kostet Belastung
 1. Proportional zu der geladenen Energie
 2. 1 pro Runde 
+3. durch einen Quellwurf determiniert
+
+1. ist relativ nahe wie es aktuell ist und schnell genug um nützlich zu sein
+2. slow an delibered eher das standert verfahren der weißen Stadt aber einfach zu ballancen
+3. eher wie ein permanenter Prekantio effekt auf mir selbst wo ich kontrolieren muss damit das tattoo nicht zu stark an mir reißt.
+###Edelstein 2
+braucht ein strakes rework, vielleicht sogar ganz streichen kp was man damit anstellen soll
+###Geordenete Magie schnittstelle
+jenachdem wie das edelstein eins rework ausfällt könnte ich mich durchaus dazu überreden lassen, dass auf Denn sonnen/Mondstein zu beschränken
 # Abgelehnt ... vorerst?
 
 
