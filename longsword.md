@@ -44,6 +44,20 @@ zwischen +3 Offensive, -3 Defensive oder -3Offensive, +3Defensive entschieden we
 
 ##Übergänge
 
+###Grundhaltung Einnehmen
+* => Grundhaltung
+
+reflexiv
+Wechsel zu Grundhaltung, andere Waffenschulen sind nicht zugänglich
+
+###Verlassen
+* =>
+
+Wechsel aus allen Haltungen, andere Waffenschulen sind wieder zugänglich
+
+reflexiv
+Wechsel zu Grundhaltung
+
 ###Verteidigen
 Grundhaltung => Defensive Haltung
 
