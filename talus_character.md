@@ -32,7 +32,7 @@ Reisen: 45kg
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
 Megatalus: keine  
-Talus: keine  
+Talus: 4(Fallschaden)  
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 Megatalus: 8*30=240
