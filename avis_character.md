@@ -76,11 +76,13 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Akrobatik|3|  
-|Diebeshandwerk|1|  
+|Diebeshandwerk|2|  
 |Schleichen|2|  
 |Kochen|3|  
 |Piratenkapitän|3|   
 |Schiffe lenken|2|  
+|Brauen|1|  
+|Kräuter Kunde|2|  
 
   
 ###Vorteile  
@@ -91,37 +93,50 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |D.f.A|1|  
 |Taschendieb|1|  
 |Battleflips|1|  
+|mehr Artefakte|2|  
 
 ##Magie  
 ###Quellen  
 |Quellen|Level|  
 |:---|----:|  
 |Verstandt|4|  
-|Tatoo|1|  
+|Tatoo|2|  
   
 ###Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
 |Worte der Macht|5|  
-  
+|Verbiegung der Wirklichkeit|1|  
+###Aspekte  
+|:---|----:|  
+|Wetter|3|  
+|Verzerrung|2,6|  
 ###Forma  
 |Forma|Level|  
 |:---|----:|  
 |Lux|4|  
-|Impello|3|  
 |Ignes|4|  
-|persona|3| 
+|Impello|3|  
+|persona|3|  
+|Fulgur|3|  
 |sisto|2|  
-|Fulgur|2|  
 |meta|2|  
-|Disruptio|	2|
+|Disruptio|2|
 |Terra 	|2|
 |Stabilis	|2|
 |praecantatio|	2| 
-|tutela|2|   
+|tutela|2|  
+###Zauber   
+|:---|----:|  
 |Lake of fire|1|  
 |Move earth|1|  
-  
+|Windböhe|1|  
+|Sturmruf|1|    
+|Blitzschlag|1|  
+|Nebelbank|1|  
+|Verstärken|1|  
+|Reflektieren|1|  
+|Unsibarkeit|1|  
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
@@ -129,6 +144,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Reinheit Ignis	|2|
 |Reinheit Impello| 	2|
 |Reinheit Persona	|2|
+|Reinheit anderen	|7|
 |Bewegung Zaubern	|3|
 |Schnell Zaubern	|1|
 |Starke Winde	|1|
@@ -142,10 +158,6 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Mehr Kraft| 	1|
 |Mehr Geschwindigkeit| 	1|
 
-  
-###Aspekte  
-|Aspekte|Level|  
-|:---|----:|  
    
 ##Weisheit  
 ###Attribute  
@@ -162,7 +174,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Instinkt|2|  
 |Taktik|2|  
 |Philisophie|2|  
-|Wissen(Magie)|1|  
+|Wissen(Magie)|2|  
+|Wissen(Kreaturen)|2,5|  
+|Wissen(Fliegen)|2|  
 |Strategie|0|  
 |Empathie|1| 
 |Brauen|1| 
@@ -203,15 +217,18 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Lügen|2|  
 |Stil|2|  
 |Begeistern&führeb|2|  
-|Handel|0|  
+|Handel|2|  
 |Singen|2|  
-|Etiquette|0|  
+|Etiquette|1|  
 |Tratsch|2|  
+|Empathie|1|  
+|Rhetorik|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
-  
+|Angeben(Stil)|1|  
+|Okysas verschlungende Zunge|1|    
 ##Schicksal  
 ###Attribute  
 |Attribute|Level|  
