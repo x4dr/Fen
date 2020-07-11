@@ -113,7 +113,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Aspekt|Level|
 |:---|----:|  
 |Wetter|3|  
-|Verzerrung|2,6|  
+|Verzerrung|2|  
 
 ###Forma  
 |Forma|Level|  
@@ -260,10 +260,20 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Sprachtalent|	1|
 |Glückspilz	|1|
 
-  
 ###Talente  
 |Talente|Level|  
 |:---|----:|  
 |Taggen|1|  
 |Angeben|1|  
+
+
+#XP
+##Fähigkeitsxp
+
+[Legende[[specific:conventions:xp:kurz:-]]]
+
+|Fähigkeit|XP|
+|-|-|
+|Verzerrung|??????|
+
   
