@@ -110,6 +110,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Verbiegung der Wirklichkeit|1|  
 
 ###Aspekte  
+|Aspekt|Level|
 |:---|----:|  
 |Wetter|3|  
 |Verzerrung|2,6|  
