@@ -18,6 +18,7 @@ Seemannsgarn Wettermagie?  Befehlsgewalt Navigation
 [[specific:artefakte:burgloot:Karte of Pointines]]  
 [[specific:artefakte:allgemeinparty:Füllhorn]]  
 [[specific:artefakte:allgemeinparty:Münze der Unterwelt]]  
+
 ##Tattoo
 ### edelstein 5
 (11)12  
@@ -107,10 +108,12 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |:---|----:|  
 |Worte der Macht|5|  
 |Verbiegung der Wirklichkeit|1|  
+
 ###Aspekte  
 |:---|----:|  
 |Wetter|3|  
 |Verzerrung|2,6|  
+
 ###Forma  
 |Forma|Level|  
 |:---|----:|  
@@ -126,7 +129,9 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Stabilis	|2|
 |praecantatio|	2| 
 |tutela|2|  
+
 ###Zauber   
+|Zauber|Schule|
 |:---|----:|  
 |Lake of fire|1|  
 |Move earth|1|  
@@ -137,6 +142,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Verstärken|1|  
 |Reflektieren|1|  
 |Unsibarkeit|1|  
+
 ###Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
