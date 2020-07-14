@@ -61,7 +61,7 @@ Manifestiert Rauch
 
 ##dinas godol loot:  
 ###Reich verziertes kronenähnliches Ding
-[Sie Hier](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg)
+[Siehe Hier](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg)
 (10)11  
 *Verzauberung für verbesserte Sinne
 *Ladung pro minute aktivität
@@ -258,11 +258,14 @@ Herz des Waldes x2
 10 Wenn Vorraussetzung erfüllt, macht dem Ziel Lähmungs-Maluswürfel für eine Runde
 
 ### Kerzenleuchter  
-11 beschwört 3 lichtkugeln, die bis 10 meter weggetragen werden können.  
+11 beschwört 3 lichtkugeln, die bis 10 meter weggetragen werden können. 
+ 
 ### Schneemaske 
 13 Verschleiert benutzer im Schnee und gewährt Wärmesicht
+
 ### Großrubin
 8 literally nur ein Magiespeicher (150+)
+
 ### Größenveränderbares Schild
 16 erschafft und vernichtet materie während es größer und kleiner wird. (100, benutzt 10-artefakt pro aktivierung)
 
