@@ -54,25 +54,22 @@ passiv: Wenn in der letzten Runde Schaden angerichtet wurde, kann nach dem Angri
 ## Level 5: Sanfter Schlaf
 passiv: Ziele haben einen Maluswürfel auf Durchhaltewürfe für jede Wunde des Anwenders die sie haben, die noch nicht behandelt worden ist.
 
-# Schleuder : Indirektes Feuer
+# Schleuder
 Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
 ## Kurzschleudertraining:
 Nachladen ist eine Dauer 0 Freiphasenaktion, solange sich entsprechende Geschosse am Charakter befinden (nur für Kurzschleudern) und kann mit Feuern in der Selben Runde kombiniert werden.
 ### Abprallender Schuss
 erlaubt das Reflektieren des Geschosses an Gegenständen. Einfallswinkel=ausfallswinkel, Treffschwierigkeit steigt um 1, Schaden wird halbiert.
 ### Ablenkender Schuss
-ein Treffer, der komplett von Rüstung negiert wird, unterbricht als ob er 1 Punkt schaden angerichtet hätte. (nur für Kurzschleudern)
+passiv: Kurzschleuder: Ein Treffer, auch wenn er komplett von Rüstung negiert wird, unterbricht Aktionen der Freien Phase, wenn diese über das Ende der Freien Phase hinaus bestehen würden. (nur für Kurzschleudern). Würfe die erst in der Kampfphase begangen werden, erhalten stattdessen einen Maluswürfel
 #### Sturm 
-n:(1-5) erlaubt bis zu n Schleuder Angriffe pro Runde. Jeder Angriff senkt den Schaden aller diese Runde gefeuerten Geschosse um 1 und erhöht die Schwierigkeit um die Anzahl der Verschiedenen ziele)
+Erlaubt bis zu 3 Schleuder Angriffe pro Runde. Jeder Angriff senkt den Schaden aller diese Runde gefeuerten Geschosse um 1, Wurfergebnis ist um die Anzahl der Ziele gesenkt.
 ##### Schwirrender Sturm
-(angriff) Vorbereitete Geschosse lassen ein lautes Pfeiffen ertönen, während sie fliegen. Bis zum Ende der Freien Phase nächste Runde sind sämtliche Aktionen in Hörweite die auf länger als kurze Reichweite angewendet werden um 1 Erschwert (Kumulativ pro Geschoss). Charaktere die Schwirrender Sturm erwarten können eine Mut,Wahrnehmung Interpretation ihres Wurfes Durchführen. Wenn dieser wert höher ist als der Angriffswurf von Schwirrender Sturm, kann der Effekt Ignoriert Werden. Jede Runde unter dem Einfluss gibt einen +1 Bonus auf die Widerstandsinterpretation.
+Technik: Vorbereitete Geschosse lassen ein lautes pfeiffen ertönen, während sie fliegen. Bis zum Ende der Freien Phase der nächsten Runde sind sämtliche Aktionen aller die es nicht schon gewöhnt sind (dem effekt 1+ Stunde ausgesetzt gewesen) in Hörweite werden um 1 Erschwert (Kumulativ pro Geschoss).
 ##### Gefüllte Luft
-Jeder Teilangriff auf das selbe Ziel konsumiert den niedrigsten Würfel des Wurfes. Schaden ist beschränkt auf den Schaden des niedrigsten Treffers.
+passiv: Angriffe auf ein Ziel senken dessen Würfelergebnisse diese Runde um 2.
 ## Langschleudertraining
 (1-5) +n*20% Schaden vor Rüstung. 
-### Schwirrendes Geschoss. 
-(angriff) Ein Vorbereitetes Geschoss lässt ein lautes Pfeiffen erklingen. Moralschaden.
-
 
 #Todeswirbel:  
 Alles nur in der Todeswirbelhaltung möglich
