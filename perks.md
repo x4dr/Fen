@@ -41,7 +41,7 @@ Alle Effekte, inklusive Schaden, die auf den Character wirken können nach belie
 
 ### 4 
 #### Überlebenswille
-Sobald der Charakter das erste mal mit frischen Wunden schläft/von Schaden bewusstlos werden würde, würfelt er einen Heilungswurf, der alle frischen Wunden (seit dem letzten Heilungswurf) betrifft. Alle Wunden deren Schwierigkeit übertroffen wurde heilen um 1 Punkt, wenn der Charakter nun nicht mehr bewusstlos werden würde, bleibt er bei Bewusstsein. Alle Wunden deren Schwierigkeit und größe übertroffen wurden, haben ihre Schwierigkeit um 1 Reduziert.
+Sobald der Charakter das erste mal mit frischen Wunden schläft/von Schaden bewusstlos werden würde, würfelt er einen Heilungswurf, der alle frischen Wunden (seit dem letzten Heilungswurf) betrifft. Alle Wunden deren Schwierigkeit übertroffen wurde heilen um 1 Punkt, wenn der Charakter nun nicht mehr bewusstlos werden würde, bleibt er bei Bewusstsein. Alle Wunden deren Schwierigkeit und Größe übertroffen wurden, haben ihre Schwierigkeit um 1 Reduziert und hören auf zu bluten.
 ###5
 #### Unerschöpflich.
 Erschöpfung die nicht gewürfelt wird kann mit einem Konstitutionswurf gegen 5 ignoriert werden. Bei Erfolg hat der nächste Erschöpfungswurf bis zur Entsprechenden Rast einen Maluswürfel, aber keine Erschöpfungsmali werden angewendet.
