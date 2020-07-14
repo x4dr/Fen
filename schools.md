@@ -115,7 +115,7 @@ Schaden bekommen senkt die Offensive nurnoch maximal um 1
 #Axt
 passiv, sichtbar, IMMER, Freie Phase zum Ändern: -1 Offensiv, +1 Defensiv oder +1 Offensiv -1 Defensiv
 ## Haken
-Technik: Kein Schaden wird verursacht, freie und reflexive Wahl zwischen Defensiv und Offensiv Vorteil als Malus auf das Grundergebnis des Gegners bis zum Ende der nächsten Runde.
+Technik: Kein Schaden wird verursacht, freie und reflexive Wahl zwischen Defensiv vs Defensiv oder Offensiv vs Offensiv Vorteil als Malus auf das Grundergebnis des Gegners bis zum Ende der nächsten Runde.
 ### Ausholen
 Technik: Halbiert Defensive, Verdoppelt angerichteten Schaden
 #### Kampfwurf
