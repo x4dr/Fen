@@ -74,7 +74,7 @@ passiv: Angriffe auf ein Ziel senken dessen Würfelergebnisse diese Runde um 2.
 #Todeswirbel:  
 Alles nur in der Todeswirbelhaltung möglich
 passiv: Bis auf Gelegenheitsangriffe keine gezielten Angriffe möglich. Offensive fängt bei 0 an, überträgt sich zwischen Runden und wird jede Runde um den gewürfelten Wert erhöht (bis zum Maximum des neuen Würfelwurfes, wenn der Wert vorher schon höher war, bleibt er)
-Reflexiv: Greife angreifer an.
+Reflexiv: Greife Angreifer an.
 passiv: Bewegungsreichweite 0
 passiv: Verringere nach jedem Angriff Offensive um 5
 passiv: Verringere wenn der Anwender getroffen wurde Offensive um den eingehenden Schaden.
@@ -89,9 +89,9 @@ passiv: Bewegungsreichweite 5m/r
 ### Nachstellen
 passiv: Bewegungsreichweite 15m/r
 ##Unterdrückungsfeuer
-reflexiv: Greife Beliebiges Ziel in Reichweite mit Offensive +5 an, bei Treffer wird 0 Schaden verursacht und Ziel erhält nächste Runde 1 Maluswürfel. Stapelbar.
+passiv: erfolgreich angegriffene Ziele erhalten nächste Runde 1 Maluswürfel. Stapelbar.
 ### Entwaffnende Unterdrückung
-passiv: Ziele von Unterdrückungsfeuer sind in der nächsten Runde bei 1er Resonanz Entwaffnet
+passiv: Ziele von Unterdrückungsfeuer sind in der nächsten Runde bei 1er Resonanz entwaffnet
 ## Lenkende Kontrolle
 reflexiv: Ein Ziel in Reichweite, dass etwas anderes tut als den Anwender anzugreifen verliert 5 Defensive.
 ### Erdrückende Kontrolle
