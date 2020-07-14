@@ -84,6 +84,14 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 3 | 4 | 4 | 5 | 5 | 5 | 6 |   
 | [Schlagen](damage#b-stumpf)      | 3 | 3 | 3 | 4 | 4 | 4 | 5 | 5 | 5 | 7 |  
 
+###Peitsche 
+| Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Hacken](damage#h-Hacken)        | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 |   
+| [Stechen](damage#p-stechen)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+| [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |   
+| [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 5 |  
+
 ###Wurfmesser
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -171,12 +179,7 @@ Solange der Reichweitenvorteil gegeben ist, erhalte einen Gelegenheitsangriff au
 
 # Spezifische waffen
 ### Avis Magische Peitsche
-| Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hacken](damage#h-Hacken)        | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 |   
-| [Stechen](damage#p-stechen)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
-| [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |   
-| [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 5 |  
+ Wie Peitsche
 
 ####Besonderheiten
 reflexiv: Bei einem erfolgreichen Angriff, kann 1 Offensive ausgegeben werden um sofort einen weiteren Angriff mit dem neuen Offensivwert auf ein Ziel in Reichweite zu machen, das diese Runde noch nicht angegriffen wurde.
