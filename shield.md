@@ -20,7 +20,7 @@ Defensiv + Schildbonus
 
 ### Aggressives Schützen
 Schild bereit
-Schildbonus diesen Angriff verdoppelt
+Schildbonus zählt diesen Angriff doppelt, Schild nimmt doppelten Schaden
 
 ## Beschützen
 Schild bereit, anstelle von Angriff
@@ -42,17 +42,16 @@ gegnerische Offensive - Schildbonus
 
 
 #### Wegdrücken
-passiv, negativer Vorteil gegen einen Angegriffenen Gegner kann ausgegeben werden um den Gegner eine entsprechende Zahl in Metern nach hinten zu drücken. Wenn dort kein Platz mehr ist, bekommt er die verbleibende Zahl als Malus auf seinen nächsten Wurf.
+passiv, differenz zwischen eigener Defensive und Offensive des Angegriffenen Gegners kann genutzt werden um den Gegner eine entsprechende Zahl in Metern nach hinten zu drücken. Wenn dort kein Platz mehr ist, bekommt er die verbleibende Distanz in Metern stattdessen als Malus auf seinen nächsten Wurf.
 ##### Bollwerk
-Technik, Defensive + Schildbonus, Kein Schaden wird Verursacht, Kann alle Angriffe auf einen zusätzlichen Charakter abfangen.
-
+Technik, Anstelle von Angriff, Anwender kann beliebige Angriffe auf das Ziel auf sich umleiten, solange er die möglichkeit hat sich zwischen den Angreifer und das Ziel zu bringen.
 
 #Strategie
 Die Regeln zu Schilden mögen kompliziert klingen, aber effektiv ist alles was es tut dem Schild einen Cooldown zu geben:
 Normannenschild mit Bonus 3, Träger mit Stärke 2 und Schild 2:
 4 Schildzähler pro runde, 6 um es bereit zu machen, maximum 16
 Wenn es jede runde "normal" genutzt wird ist der Schildzähler
-16[-6+4]=14,12,10,8,6,4 => 6 Runden durchgehende Benutzung
+16[-6+4]=14,12,10,8,6,4 => 6 Runden dZahlurchgehende Benutzung
 ab diesem Zeitpunkt kann es nur noch in 2/3 Runden bereit gemacht werden.
 Um sich besonders Stark zu schützen kann zum Beispiel reflexiv Schützen aktiviert werden.
 Schützen steigert Defensive, dies gilt für den Rest der Runde, der Schildbonus gilt bis zum rest des Angriffes.
