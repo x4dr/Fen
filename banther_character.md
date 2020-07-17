@@ -241,7 +241,7 @@ Schwäche:
 - Almanach:
 -> Grundwissen Atterkan
 -> Tantor Minenparasit
--> Höhlen Troglodyte Viecher
+-> Höhlen Troglodyte Viecher/ Skizze und Knochen von lebendem Exemplar
 
 # Alchemierezepte
 - Atterkan Lähmungsgift/Antidot (Lähmungswiderstand gegen 5 nötig)
