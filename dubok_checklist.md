@@ -1,3 +1,8 @@
 title: Dubok Checklist  
 tags:   
--> Jero informioeren troglodyte beziehung zu starten
+##Todo
+* Yero Informieren Höhlenvolkbeziehung zu starten
+* Das Bodenlose Loch
+* Das Verzweigte Höhlensystem
+
+##Done
