@@ -24,6 +24,7 @@ Baliste mit längerer Rampe auf der der Bolzen zahlreiche Kugeln passiert in die
 Cooler unterboden oder sonnenstein hell halten im sturm
 ###Räume
 Coole Komunikations röhren
+####Medbay
 ####Magazin
 ###planken entchantment
 ####Strumstbilisation
