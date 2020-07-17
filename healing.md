@@ -69,7 +69,7 @@ nach der Schlacht auf dem Schlachtfeld zwischen Tod und Fliegen, oder bei einem 
 Versorgung von Wunden und Krankheiten. Grundlegende Werkzeuge (zu denen auch grundlegende medizinische Kräuter, Verbände, Nadel und Faden usw zählen) sind vorraussetzung sofern angebracht.
 Ergebnisse unter 5 werden als maluswürfel auf den nächsten Wundheilungswurf angewandt.
 Wahrnehmung, Heilung kann benutzt werden um die Qualität einer Versorgung einzuschätzen.
-Ein Heiler kann einen Patienten erneut Versorgen, aber ersetzt das Ergebnis. 
+Ein anderer Heiler kann einen Patienten erneut Versorgen, aber ersetzt das Ergebnis. 
 
 |Wurf|Effekt|
 |-:|:-|
