@@ -5,9 +5,9 @@ tags:
 # Prozessvorteile
 ## Geordnetes Arbeiten
 In einem Alchemielabor von mindestens Qualität 2 und Größe 2, kann für Dedikation eine beliebige Kombination von Karten aus dem gesamten Deck herangezogen werden.
-## Überordnung
-In einem Alchemielabor von mindestens Qualität 3 und Größe 2, kann für Dedikation eine beliebige Kombination von Karten aus dem Ablagestapel verwendet werden.
 ## Totalordnung
+In einem Alchemielabor von mindestens Qualität 3 und Größe 2, kann für Dedikation eine beliebige Kombination von Karten aus dem Ablagestapel verwendet werden.
+## Wohlordnung
 In einem Alchemielabor von mindestens Qualität 4 und Größe 2, kann für Dedikation eine beliebige Kombination aus allen Karten verwendet werden, die nicht zur Zeit dediziert sind, wenn die Zauberzeiten verzehnfacht werden.
 
 
