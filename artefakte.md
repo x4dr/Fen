@@ -298,7 +298,7 @@ Wachhalte Kralle => macht 3 Schaden Schwierigkeit 5 (auch beim rausziehen) und g
 ## Istan
 Todesblickkästchen
 ## Unter Tantor
-###GeisterLaterne
+###Geisterflamme
 Schiffslaterne die ein Licht wie von wasser reflektiert wird Lichtstufe 10
 ##Wandelselementarherzen x4
 (avis hat nicht direkt dips aber bitte bescheid sagen wenn verwendet)
