@@ -300,4 +300,5 @@ Todesblickkästchen
 ## Unter Tantor
 ###GeisterLaterne
 Schiffslaterne die ein Licht wie von wasser reflektiert wird Lichtstufe 10
-4x Wandelselementarherzen (avis hat nicht direkt dips aber bitte bescheid sagen wenn verwendet)
+##Wandelselementarherzen x4
+(avis hat nicht direkt dips aber bitte bescheid sagen wenn verwendet)
