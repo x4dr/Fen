@@ -223,7 +223,7 @@ stets betrunken
 
 
 #Wunden
-1 (SCHW 6), 1 (SCHW 6), 37 (SCHW 6)
+1 (SCHW 4), 1 (SCHW 4), 37 (SCHW 4)
 (18Punkte)
 
 #Inventar
