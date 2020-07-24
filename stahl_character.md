@@ -194,6 +194,7 @@ tags: Character Swordlad
 |Instinkt | K|
 |Law| M|
 |_KrautKunde| IT |
+|segeln|V|
 
 
 #Techniken
