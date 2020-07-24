@@ -342,7 +342,7 @@ Schmeckt sanft nach Gabelblume und lindert Durchfall leicht.
 **Dedikation**: 3 Entropie
 
 Die grellrote Paste, die dieser Prozess produziert kann auf Stoff verteilt werden um eine Atemmaske herzustellen, die den Träger fast immun gegen Atemgifte macht und ihn befähigt unter Wasser zu atmen.
-Die Dauer fängt mit dem ersten Atemzug an und läuft dann unaufhaltsam weiter, während die Farbe sich von Rot über Gelb nach Grau verändert bevor die Maske aufhört zu funktionieren. Es wird eine Maske pro Rotwarz produziert.
+Die Dauer fängt mit dem ersten Atemzug an (Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.) und läuft dann unaufhaltsam weiter, während die Farbe sich von Rot über Gelb nach Grau verändert bevor die Maske aufhört zu funktionieren. Es wird eine Maske pro Rotwarz und dedikation produziert, der Prozess kann aber in Maßen parallelisiert werden
 
 ### Leuchtpulver
 **Zauberzeit**: 1 Stunde
