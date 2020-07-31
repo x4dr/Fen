@@ -332,6 +332,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Hübsche verzauberbare Bronzelampe|1	|1.00 kg	|1.00 kg||
 |verschlüsselte Alchemistenschriftstücke aus den Höhlen Tantors|||||
 |Rezept: Duboker Silberspiegel|1	||||
+|Knochen des ersten Wächters|||||
 |Gesamt|||||
 
 ##Zwischengelagert
