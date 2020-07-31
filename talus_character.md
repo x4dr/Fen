@@ -354,7 +354,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Kampfmanöver 1|I|  
 |Schwerathletik 3|K|  
 |Springen 3|VVK|  
-|Survival|VKKLT|  
+|Survival|VKKKLT|  
 |||  
 |Metallverarbeitung 3|S(Ziritspitzen) S(Kugelplattenrüstung) TTTLP [Vernal, Limasu, Yomkar]|  
 |Metallverarbeitung|P(4/12) [Nymkor, Istan]|  
