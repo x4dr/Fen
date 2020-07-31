@@ -132,6 +132,7 @@ stets betrunken
 |Sprache  (Aurisch) |3|
 
 ###Extrastuff
+|Stuff|Name|
 |-|-|
 |Is Malk or something|0|
 
