@@ -223,7 +223,7 @@ stets betrunken
 
 
 #Wunden
-1 (SCHW 4, sekt Instinkt um 1), 1 (SCHW 4), 21 (SCHW 4)
+1 (SCHW 4), 21 (SCHW 4)
 (12Punkte)
 
 #Inventar
