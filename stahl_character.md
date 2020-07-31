@@ -174,7 +174,7 @@ tags: Character Swordlad
 |Schwerathletik|K|
 |Rennen|L|
 |Springen|V|
-|Survival|KK P(10/24)|
+|Survival|KKK P(10/24)|
 |Zechen|VK|
 |Waffe(Langbogen)|[Tantor][Worogra][Istan][Dinas Godol][Yon]KKKL|
 |Metallverarbeitung|P???P(1/50)K|
