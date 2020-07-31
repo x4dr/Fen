@@ -131,6 +131,10 @@ stets betrunken
 |Sprache (Argyrisch | 1|
 |Sprache  (Aurisch) |3|
 
+###Extrastuff
+|-|-|
+|Is Malk or something|0|
+
 ##Charisma
 
 ###Attribute  
