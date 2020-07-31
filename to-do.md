@@ -15,7 +15,10 @@ produziert vorzugsweise 10 energie/8h
 direktes leachen bei Verwundung  
 stil und swag
 ### Trinschild für Tras  
-für sie und ihn nie wieder nüchtern in den Kampf, und ins kino kommt man damit auch rein
+für sie und ihn nie wieder nüchtern in den Kampf, und ins kino 
+kommt man damit auch rein
+### Disruptio-Hammer
+you get what you pay for
 ### Abseilgurt
 Armschiene vom hohen Norden umarbeiten/multiplizieren?
 ###Ensalex
