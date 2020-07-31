@@ -300,5 +300,7 @@ Todesblickkästchen
 ## Unter Tantor
 ###Geisterflamme
 Schiffslaterne die ein Licht wie von wasser reflektiert wird Lichtstufe 10
+### Headband of light
+Headband vom ersten gefallenden Wächter, kann genutz werden um extreme Heavy Amor zu tragen oder einen extrem stylischen Halo zutragen
 ##Wandelselementarherzen x4
 (avis hat nicht direkt dips aber bitte bescheid sagen wenn verwendet)
