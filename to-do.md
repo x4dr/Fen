@@ -3,6 +3,9 @@ tags:
 [TOC]
 ##Boot notizens  
 Mögliche Namen Sturm-/Feuer-/Lichtbringer, dann ist Avis Käpt'n der unsterblichen und der ****bringer
+### Außenverkleidung
+Beschläge aus Titan
+Unsichbarkeits chitin an der aus dem hohen Norden
 ###Modifikatoren Schwebstein
 also im moment ist mein Bild das wir ein schiff an einen großen klumpen schwebstein hängen
 ####Zisterne im STein/durch den stein
