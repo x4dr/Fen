@@ -1,5 +1,5 @@
 title: Dubok Checklist  
-tags:  cheklist  
+tags: checklist  
 ##Todo
 * Yero Informieren Höhlenvolkbeziehung zu starten
 * Das Bodenlose Loch
