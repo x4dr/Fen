@@ -4,16 +4,16 @@ tags:
 
 | Rüstung            | Schutz | Stabilität | Gewicht  | Preis| Reparatur Pro Punkt |
 | :---               |-------:|-----------:|---------:|-----:|--------------------:|
-| Schwere Kleidung   |      1 |          5 |      3kg |  50c | 20c |
+| Schwere Kleidung   |      1 |          5 |      3kg |  50k | 20k |
 | Gambeson           |      4 |          1 |      3kg |  10s |  2s | 
 | Abenteurerkleidung |      2 |          7 |      5kg |  15s |  1s |
 | Brigandine         |      3 |          8 |      6kg |  50s | 10s | 
-| Kettenrüstung      |      4 |         10 |     10kg |   4g | 20s | 
-| Vollkette          |      5 |         10 |     13kg |  10g | 50s |
-| Schuppen           |      4 |         10 |     10kg |  10g | 10s |
-| Lamellar           |      5 |         10 |     15kg |   5g | 30s |
-| Platte             |      5 |         12 |     12kg |  20g |  2g | 
-| Vollplatte         |      6 |         12 |     15kg |  30g |  4g |
+| Kettenrüstung      |      4 |         10 |     10kg |   4a | 20s | 
+| Vollkette          |      5 |         10 |     13kg |  10a | 50s |
+| Schuppen           |      4 |         10 |     10kg |  10a | 10s |
+| Lamellar           |      5 |         10 |     15kg |   5a | 30s |
+| Platte             |      5 |         12 |     12kg |  20a |  2a | 
+| Vollplatte         |      6 |         12 |     15kg |  30a |  4a |
 
 Material macht für Rüstungen bis auf Preis kaum einen Unterschied: Eisen und Bronze sind etwa gleich hart und Stahl bietet einige Anpassungsmöglichkeiten, muss aber von einem Schmied mit den entsprechenden Fähigkeiten und dem Material repariert werden und lohnt sich deswegen finanziell kaum.
 
