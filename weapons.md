@@ -46,7 +46,7 @@ tags: Weapon rules
 ###Axt
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hacken](damage#h-Hacken)        | 3 | 3 | 3 | 4 | 4 | 5 | 7 | 9 | 11 | 14 |   
+| [Hacken](damage#h-Hacken)        | 2 | 2 | 2 | 3 | 3 | 4 | 7 | 8 | 10 | 14 |   
 | [Stechen](damage#p-stechen)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 1 | 2 | 3 | 4 | 4 | 5 | 6 | 
 | [Schlagen](damage#b-stumpf)      | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 5 | 
