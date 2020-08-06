@@ -24,4 +24,5 @@ auch nicht|0|
 ## Bag of Sackcloth
 |Name|Anzahl|Gewicht|Preis|
 |:----|-----:|------:|----:|
-|Seil | 5 |||
+| Seil | 5 |||
+| Glitzerklumpen | 10 | 5kg | 38s|
