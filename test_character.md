@@ -26,3 +26,11 @@ auch nicht|0|
 |:----|-----:|------:|----:|
 | Seil | 5 |||
 | Glitzerklumpen | 10 | 5kg | 38s|
+
+#XP
+
+[Konventionen[[specific:conventions:xp:kurz:-]]]
+
+|Name|Erfahrung|
+|-|-|
+|nein| K |
