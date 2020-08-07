@@ -25,9 +25,7 @@ auch nicht|0|
 |Name|Anzahl|Gewicht|Preis|
 |:----|-----:|------:|----:|
 | Seil | 5 |||
-| Glitzerklumpen | 10 | 5kg | 38s|
-
-#XP
+| Glitzerklumpen | 10 | 5kg | 38s|#XP
 
 [Konventionen[[specific:conventions:xp:kurz:-]]]
 
