@@ -48,6 +48,7 @@ tags:
 | Handwerkszeug Q4 | 1.5a |10kg|
 | Handwerkszeug Q5 | 20a |15kg|
 | Seil | 30k | 1kg |
+| Hammer | 1s | 1.2kg|
 | Ziehstein | 2s | 10g |
 | Sehne | 50k | 10g |
 | Fruchtbares Land | 2a |  200000t |
