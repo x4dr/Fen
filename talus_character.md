@@ -354,7 +354,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Kampfmanöver 1|I|  
 |Schwerathletik 3|K|  
 |Springen 3|VVK|  
-|Survival|VKKKLT|  
+|Survival|VKKKLT [Dubok]|  
 |||  
 |Metallverarbeitung 3|S(Ziritspitzen) S(Kugelplattenrüstung) TTTLP [Vernal, Limasu, Yomkar]|  
 |Metallverarbeitung|P(4/12) [Nymkor, Istan]|  
@@ -362,7 +362,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Stahlmetallurgie 2|TTLPP|  
 |Stahlmetallurgie|TP|  
 |Konstruktion|K [Seegard]|  
-|Alchemie|K [Nordpol, Nymkor]|  
+|Alchemie|K [Nordpol, Nymkor, Dubok]|  
 |Magiehandwerk 3|TTTLLP [Nymkor, Vernal, Tantor, Limasu]|  
 |Musterresonanz 1|ITTLL|  
 |Musterresonanz 2|LTTTT|  
