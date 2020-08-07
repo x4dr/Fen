@@ -374,7 +374,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Segeln|P|  
 |||  
 |Magischer Fluss|SSSSSSSSS|  
-|Prozessalchemie|S(Sonnenstein)KKKK|  
+|Prozessalchemie|S (Sonnenstein)KKKK|  
 |Schnellalchemie|KKKKK|  
 |||  
 |Wissen(Mykier)|I|  
