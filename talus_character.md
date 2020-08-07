@@ -356,7 +356,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Springen 3|VVK|  
 |Survival|VKKKLT [Dubok]|  
 |||  
-|Metallverarbeitung 3|S(Ziritspitzen) S(Kugelplattenrüstung) TTTLP [Vernal, Limasu, Yomkar]|  
+|Metallverarbeitung 3|S (Ziritspitzen) S (Kugelplattenrüstung) TTTLP [Vernal, Limasu, Yomkar]|  
 |Metallverarbeitung|P(4/12) [Nymkor, Istan]|  
 |Stahlmetallurgie 1|TTLLP|  
 |Stahlmetallurgie 2|TTLPP|  
