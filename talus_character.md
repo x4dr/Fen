@@ -188,6 +188,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Strategie|2|  
 |Taktik|2|  
 |Navigation|0|  
+|Handel|1|
   
 ### Sprachen  
 |Sprache|Level|  
