@@ -383,7 +383,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Taktik|K|  
 |Strategie 2|KKKTTPPP[Bauprojekte, Limasu Forschungsprojekt]|  
 |Navigation|I|  
-|Handel|TTTTLPPP[Prekor, Okur]|  
+|Handel 1|TTTTLPPP[Prekor, Okur]|  
 |Diplomatie|VK|  
 |Lügen|K|  
 |Stil|K|  
