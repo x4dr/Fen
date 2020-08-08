@@ -1,5 +1,5 @@
 title: Endworld  
-tags: template  
+tags: template character  
 # Character  
 ##Name
 Blank

@@ -1,5 +1,5 @@
 title: Talus  
-tags: character  
+tags: character character  
 # Charakter  
 ## Name:  
 Megatalus  

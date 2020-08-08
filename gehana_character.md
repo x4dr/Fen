@@ -1,5 +1,5 @@
 title: Gehana  
-tags:  
+tags: character  
 
 
 Name:  

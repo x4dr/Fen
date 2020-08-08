@@ -1,5 +1,5 @@
 title: Stahl von Schwertwacht  
-tags: Character Swordlad  
+tags: Character Swordlad character  
 #Charakter
 |Detail|Wert|
 |-|-|

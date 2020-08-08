@@ -1,5 +1,5 @@
 title: Rainher  
-tags:  
+tags: character  
 
 
 Name:  

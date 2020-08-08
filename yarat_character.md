@@ -1,5 +1,5 @@
 title: Yarat  
-tags:   
+tags:  character  
 Voller Name: Yarat den-Istek
 
 

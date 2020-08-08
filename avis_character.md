@@ -1,5 +1,5 @@
 title: Avis  
-tags: Avis  
+tags: Avis character  
 #Charakter
 ##Name
 

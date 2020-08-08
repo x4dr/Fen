@@ -1,5 +1,5 @@
 title:   
-tags:   
+tags:  character  
 #Character
 ##name
 test

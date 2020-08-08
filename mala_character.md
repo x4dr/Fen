@@ -1,5 +1,5 @@
 title: Mala  
-tags: Mala  
+tags: Mala character  
 Name: Mala  
 
 Alter:  25  
