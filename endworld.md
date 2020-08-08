@@ -5,7 +5,7 @@ tags: template character
 Blank
 ##Concept
 This is a "Blank" example sheet to be copied and filled in
-in your specific, character sheet named yourname_character
+in your specific, character sheet named yourname
 Later it can be rendered with /ewsheet/yourname 
 ##Player
 Blank
