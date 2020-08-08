@@ -38,5 +38,5 @@ auch nicht|0|
 
 |Name|Erfahrung|
 |-|-|
-|auch nich| K [Dubok] |
+| auch nich | K [Dubok] |
 
