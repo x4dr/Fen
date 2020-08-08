@@ -1,11 +1,42 @@
-title: Testpage  
-tags:   
-this is a test
+title:   
+tags:  character  
+#Character
+##name
+test
+   einrückung
 
-[[[specific:bows:Kampfschießen]]]
+## Größe
 
-####Feufeu
-[[specific:artefakte:magisches feuerzeug]]
+Ja
 
-#testarmor
-[[armor:lamellar:titan,Nlustige <>rüstung des testens,W x*1000 + 5]]
+# Werte
+## Stärke
+### Attribute
+|s|3|
+-|-
+nein|0
+
+### Fähigkeiten
+|x|y|
+|-|-
+auch nicht|0|
+
+
+
+# Inventar
+
+## Bag of Sackcloth
+|Name|Anzahl|Gewicht|Preis|
+|:----|-----:|------:|----:|
+| Seil | 5 |||
+| Glitzerklumpen | 10 | 5kg | 38s|
+
+
+#XP
+
+[Konventionen[[specific:conventions:xp:kurz:-]]]
+
+|Name|Erfahrung|
+|-|-|
+| auch nich | K [Dubok] |
+
