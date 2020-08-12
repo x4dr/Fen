@@ -78,22 +78,14 @@ jenachdem wie das edelstein eins rework ausfällt könnte ich mich durchaus dazu
 
 
 
-# Abgelehnt ... vorerst?
+# dramatisches craften
 
+1er Resonanzen in der Planungsphaseprojekt (Gilt für dieses Item für den Charakter soweit sinnvoll in der geschichte):
 
-1.5 Pistolen [all; Pistole]
-1.5.1 Zweitwaffen passiv
-Das führen einer Pistole im Nahkampf als Zweitwaffe erzeugt keine Maluswürfel
-====> tut es auch so nicht: Technik: feuert die Pistole als Nahkampfangriff (inklusive Defensivwert)
-1.5.1.1Quick shot -technik
-erlaubt das feuern im Nahkampf, 1 malus würfel
-====> reflexiv anstelle von angriff: defensive wird 5, greift ziel mit der pistole an
-1.5.1.1.2 ablenkender Schnellschuss
-====> reflexiv: angerichteter Schaden wird 0+Effekt, greift ziel mit der pistole an, getroffenes Ziel verliert angriff und wird abgelenkt 
-1.5.1.1.1 Auf die Lücke warten -Technik
-das Zielen der pistole im Kampf
-====> Technik: Kein angriff wird gemacht, Pistole zielt
-1.5..1.1.1.1 -Technik
-das Nachladen im Kampf , 
-====> 1.5.4 Einhändiges Nachladen unter Druck
-Technik: kein Angriff wird gemacht, defensive -5 (pistole), Kompetenz+Pistole interpretation des Kampfwurfes als Nachladefortschritt (Siehe Armbrüste, zielwert ~30)
+Es dauert Wesentlich länger als erwartet (2x,10x,50x, 250x)
+Werkzeug unzureichend: muss erweitert werden mit (Q2-5) um weitercraften zu können
+Projekt benötigt jemanden weiteren mit Craftskill für zuarbeit
+Prototyping/Innovation muss passieren: Widrigkeit 5+, Ziel 100+
+Qualität verringert
+zusätzliche exotische Ressource benötigt
+Nein, aber [dramatische kosten]
