@@ -195,6 +195,8 @@ tags: Character Swordlad character
 |Law| M|
 |_KrautKunde| IT |
 |segeln|V|
+|Klettern|M|
+
 
 
 #Techniken
