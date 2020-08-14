@@ -18,7 +18,7 @@ Ja
 ### Attribute
 |s|3|
 -|-
-nein|0
+nein|3
 
 ### Fähigkeiten
 |x|y|
