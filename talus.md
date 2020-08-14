@@ -380,7 +380,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Wissen(Mykier)|I|  
 |Wissen(Religion)|I|  
 |Wissen(Magiewissen)|IK|  
-|Wissen(Geologie)|I|
+|Wissen(Geologie)|IK|
 |Taktik|K|  
 |Strategie 2|KKKTTPPP[Bauprojekte, Limasu Forschungsprojekt]|  
 |Navigation|I|  
