@@ -25,6 +25,11 @@ doch|4
 |-|-
 auch nicht|0|
 
+## Schwäche
+### Attribute
+asdasd|dasdasdasd
+|-|-|
+19283|2|
 
 
 # Inventar
