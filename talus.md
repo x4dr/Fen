@@ -1,5 +1,5 @@
 title: Talus  
-tags: character character  
+tags: character  
 # Charakter  
 ## Name:  
 Megatalus  
@@ -289,63 +289,63 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
   
 # Inventar
 ## Rucksack
-|Objekt|Stück|kg/Stk|kg|Preis/Stk|  
-|:-|-:|-:|-:|-:|  
-|Hammer				|1	|2.00 kg	|2.00 kg|	|
-|Rucksack			|1	|0.50 kg	|0.50 kg|	|
-|Bauwerkzeug (Q3)		|1	|5.00 kg	|5.00 kg|	|
-|Seil				|50m	|0.10 kg	|5.00 kg|	|
-|Ledersöckchen			|8	|0.06 kg	|0.50 kg|	|
-|Eisenberg-Brosche Q15		|1	|0.10 kg	|0.10 kg|	|
-|T6 Ess. of Change		|18	|0.10 kg	|1.80 kg|	|
-|T1 Magnet			|12	|0.10 kg	|1.30 kg|	|
-|T6 Ess. of Stability		|10	|0.10 kg	|1.00 kg|	|
-|T2 gemahlene Kreide		|8	|0.10 kg	|0.80 kg|	|
-|T1 Wachs			|172	|0.01 kg	|1.72 kg|4,5K	|
-|Jod				|4	|0.01 kg	|0.04 kg|3S	|
-|Uhrwerkkugel			|1	|0.10 kg	|0.10 kg|	|
-|Feinwerkzeug (Q3)		|1	|1.50 kg	|1.50 kg|	|
-|Alchemie-Buch (3;20;22;aurisch)|1	|1.50 kg	|1.50 kg|	|
-|Seilwinde St.6			|1	|2.00 kg	|2.00 kg|	|
-|T2 Phosphor			|10	|0.10 kg	|1.00 kg|	|
-|Sehne				|4	|0.10 kg	|0.40 kg|	|
-|T5 Floatstone			|195	|-0.10 kg 	|-19.5 kg|8S	|
-|25% Alkohol			|2	|0.50 kg	|1.00 kg||	
-|Säure				|100	|0.01 kg	|1.00 kg||
-|Große Karte (wenig Details)	|1	|0.10 kg	|0.10 kg||	
-|Pinke Kristallfackel		|1	|0.20 kg 	|0.20 kg||
-|Knöchel			|49	|0.01 kg	|0.49 kg|0K	|
-|Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10.0 kg|10.0 kg||
-|Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)|1|	||	|
-|Asche				|9	|0.01 kg	|0.09 kg|0K	|
-|gereinigtes Quartz		|404	|0.01 kg	|4.04 kg|20K	|
-|gereinigte Kohle		|98	|0.01 kg |0.98 kg||
+|Name|Anzahl|Gewicht|Preis|  
+|:-|-:|-:|-:|  
+|Hammer				|1	|2.00 kg	|	|
+|Rucksack			|1	|0.50 kg	|	|
+|Bauwerkzeug (Q3)		|1	|5.00 kg	|	|
+|Seil				|5	|0.10 kg	|	|
+|Ledersöckchen			|8	|0.06 kg	|	|
+|Eisenberg-Brosche Q15		|1	|0.10 kg	|	|
+|T6 Ess. of Change		|18	|0.10 kg	|	|
+|T1 Magnet			|12	|0.10 kg	|	|
+|T6 Ess. of Stability		|10	|0.10 kg	|	|
+|T2 gemahlene Kreide		|8	|0.10 kg	|	|
+|T1 Wachs			|172	|0.01 kg	|	|
+|Jod				|4	|0.01 kg	|3S	|
+|Uhrwerkkugel			|1	|0.10 kg	|	|
+|Feinwerkzeug (Q3)		|1	|1.50 kg	|	|
+|Alchemie-Buch (3;20;22;aurisch)|1	|1.50 kg	|	|
+|Seilwinde St.6			|1	|2.00 kg	|	|
+|T2 Phosphor			|10	|0.10 kg	|	|
+|Sehne				|4	|0.10 kg	|	|
+|T5 Floatstone			|195	|-0.10 kg 	|8S	|
+|25% Alkohol			|2	|0.50 kg	|	|	
+|Säure				|100	|0.01 kg	|	|
+|Große Karte (wenig Details)	|1	|0.10 kg	|	|	
+|Pinke Kristallfackel		|1	|0.20 kg 	|	|
+|Knöchel			|49	|0.01 kg	|0K	|
+|Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10.0 kg|	|
+|Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)|1|	|	|
+|Asche				|9	|0.01 kg	|0K	|
+|gereinigtes Quartz		|404	|0.01 kg	|20K	|
+|gereinigte Kohle		|98	|0.01 kg	|	|
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
 |[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|1|1.5 kg|1.5 kg||
-|Ersatzbein Federstahl		|0	|5.00 kg 	|0.00 kg||
-|Ersatzbein Bronze		|0	|5.00 kg	|0.00 kg||
-|Ägispähre (mechanisch ausgelöst)|||||
-|Rotwarz			|92	||||
-|Drachenglaskugel		|1	||||
-|Herz des Waldes		|1	||||
-|Zombiedornenbaumdorn		|1	||||
-|Flutkyanit (als Phiole)(13)11 14/150/150 minimum Outpu 10	|1	|0.20 kg	|0.20 kg||
-|Hübsche verzauberbare Bronzelampe|1	|1.00 kg	|1.00 kg||
-|verschlüsselte Alchemistenschriftstücke aus den Höhlen Tantors|||||
-|Rezept: Duboker Silberspiegel|1	||||
-|Knochen des ersten Wächters|||||
-|Gesamt|||||
+|Ersatzbein Federstahl		|0	|5.00 kg 	|	|
+|Ersatzbein Bronze		|0	|5.00 kg	|	|
+|Ägispähre (mechanisch ausgelöst)|	|		|	|
+|Rotwarz			|92	|		|	|
+|Drachenglaskugel		|1	|		|	|
+|Herz des Waldes		|1	|		|	|
+|Zombiedornenbaumdorn		|1	|		|	|
+|Flutkyanit (als Phiole)(13)11 14/150/150 minimum Outpu 10	|1	|0.20 kg	|	|
+|Hübsche verzauberbare Bronzelampe|1	|1.00 kg	|	|
+|verschlüsselte Alchemistenschriftstücke aus den Höhlen Tantors||||
+|Rezept: Duboker Silberspiegel|1	|||
+|Knochen des ersten Wächters||||
+|Gesamt||||
 
 ##Zwischengelagert
-|Objekt|Stück|kg/Stk|kg|
+|Name|Anzahl|Gewicht|Preis|  
 |:-|-:|-:|-:|
-|Stahlschrott			|18.81	|1.00 kg 	|18.81 kg|
-|Stahl Q9			|0.5	|1.00 kg	|0.50 kg|
-|Bronzeschrott			|3.19	|1.00 kg 	|3.19 kg|
-|Q2 Reparaturteile		|3	|1.00 kg	|3.00 kg|
-|Bronzekurzschwert		|3	|1.00 kg	|3.00 kg|
-|Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|5.00 kg|
-|Feinmech.-Buch (atteryazi)	|1	|1.50 kg	|1.50 kg|
+|Stahlschrott			|18.81	|1.00 kg 	|	|
+|Stahl Q9			|0.5	|1.00 kg	|	|
+|Bronzeschrott			|3.19	|1.00 kg 	|	|
+|Q2 Reparaturteile		|3	|1.00 kg	|	|
+|Bronzekurzschwert		|3	|1.00 kg	|	|
+|Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|	|
+|Feinmech.-Buch (atteryazi)	|1	|1.50 kg	|	|
 |Gesamt||||
 
 # Erfahrung  
