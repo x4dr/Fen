@@ -317,7 +317,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Knöchel			|49	|0.01 kg	|0K	|
 |Titan-Kugelplattenrüstung (6R,16S,3 Hammerwiederstand, +2R wenn zusammengerollt, verzeirung ?)|1	|10.0 kg|	|
 |Obsidian-Kugelplattenrüstung (20R, 10S) (20kg)|1|	|	|
-|Asche				|9	|0.01 kg	|0K	|
+|Asche				|8	|0.01 kg	|0K	|
 |gereinigtes Quartz		|404	|0.01 kg	|20K	|
 |gereinigte Kohle		|98	|0.01 kg	|	|
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
