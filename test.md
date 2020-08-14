@@ -19,7 +19,7 @@ Ja
 |s|3|
 -|-
 nein|3
-
+doch|4
 ### Fähigkeiten
 |x|y|
 |-|-
