@@ -180,7 +180,7 @@ tags: Character Swordlad character
 |Metallverarbeitung|P???P(1/50)K|
 |Kochen|I|
 |Heilen|KKPPVV|
-|Strategie|TTTL|
+|Strategie|TTMTL|
 |Taktik|TTTL|
 |Navigation|PPPP|
 |BerufAdministrator|P[Eisenbach. Worograd, Trarora]MV|
