@@ -13,7 +13,7 @@ tags: character
 |Statur|stämmig, dick|
 |Augen|schwarz|
 |Twists| produziert ständig Dreck|
-|Exp|20|
+|Exp|21|
 ##Bewaffnung
 Bronzehammer,
 Bronze Schlagringe, Langschleuder  
