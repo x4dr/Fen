@@ -201,3 +201,12 @@ tags: Character Swordlad character
 
 #Techniken
 	Wache
+
+#Inventar
+
+##Auf Reisen
+
+|Name|Anzahl|Gewicht|Preis|
+|---|---|---|---|
+|Titan|40|||
+|Schicksalspochen| 1 | | |
