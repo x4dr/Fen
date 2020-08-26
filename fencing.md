@@ -8,7 +8,7 @@ Alle Vorteile sind nur mit der entsprechenden Waffe einzusetzen, wenn keine ange
 In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 
 # Flexibilität
-(passiv) Für jede Kampfphase kann vor den Würfen entschieden werden einmalig entweder Offensive oder Defensive um 1 zu senken ohne Initiative anzupassen. Wenn dies getan wurde können im rest der Runde einmalig Offensive, Defensive oder Initiative um 1 erhöht werden.
+(passiv) Für jede Kampfphase kann vor den Würfen entschieden werden das Grundergebnis um 1 zu senken. Wenn dies getan wurde können im Rest der Runde reflexiv 2 mal eins von Offensive, Defensive oder Initiative um 1 erhöht werden.
 
 ##Ausfall
 
@@ -23,11 +23,11 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 
 ## Fechtstellung
 
-(passiv) Initiativeerhöhung von Flexibilität ist um 1 erhöht.  
+(passiv) Flexibilität kann ein drittes mal angewendet werden.  
 
 ### Meisterhafte Fechtstellung
 
-(passiv) Initiativeerhöhung von Flexibilität ist um 3 erhöht.  
+(passiv) Das erste mal in einer Runde wenn ein Wert durch Flexibilität erhöht wird, der noch nicht so erhöht wurde, wird er um 1 mehr erhöht.
 
 ### Finte
 
