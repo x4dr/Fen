@@ -337,6 +337,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |verschlüsselte Alchemistenschriftstücke aus den Höhlen Tantors||||
 |Rezept: Duboker Silberspiegel|1	|||
 |Knochen des ersten Wächters||||
+|Sterneneisen|2|1.00kg||
 |Gesamt||||
 
 ##Zwischengelagert
