@@ -3,9 +3,6 @@ tags: character
 # Charakter  
 ## Name:  
 Megatalus  
-## Shame:
-Karten dedizieren für Atemmasken 8 und 4 Entropie!
-2 kilo göttliches eisen
 ## Voller Titel:  
 Konzilfürst Megatalus von Mark Eisenbach
 ## Alter:  
