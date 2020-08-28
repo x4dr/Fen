@@ -335,6 +335,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Rezept: Duboker Silberspiegel|1	|||
 |Knochen des ersten Wächters||||
 |Sterneneisen|2|1.00kg||
+|Stabilisierte Kälte|6|1.00 kg||
 |Gesamt||||
 
 ##Zwischengelagert
