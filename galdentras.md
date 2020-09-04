@@ -130,6 +130,7 @@ stets betrunken
 |Sprache (Prekorisch) |  2|
 |Sprache (Argyrisch | 1|
 |Sprache  (Aurisch) |3|
+|Sprache (Mykisch) |1|
 
 ###Extrastuff
 |Stuff|Name|
