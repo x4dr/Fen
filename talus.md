@@ -325,7 +325,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Ersatzbein Federstahl		|0	|5.00 kg 	|	|
 |Ersatzbein Bronze		|0	|5.00 kg	|	|
 |Ägispähre (mechanisch ausgelöst)|	|		|	|
-|Rotwarz			|92	|		|	|
+|Rotwarz			|90	|		|	|
 |Drachenglaskugel		|1	|		|	|
 |Herz des Waldes		|1	|		|	|
 |Zombiedornenbaumdorn		|1	|		|	|
