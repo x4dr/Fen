@@ -9,4 +9,4 @@ wird als feind der wahren zivilisation bezeichnet
 Der erste Waechter ist gefallen (von 6) (Aka skelett ist putt)
 
 
-
+Ist glanzwaechter!
