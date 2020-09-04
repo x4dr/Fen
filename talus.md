@@ -322,8 +322,10 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |gereinigte Kohle		|98	|0.01 kg	|	|
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
 |[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|1|1.5 kg|1.5 kg||
-|Ersatzbein Federstahl		|0	|5.00 kg 	|	|
-|Ersatzbein Bronze		|0	|5.00 kg	|	|
+|Q7 Ersatzteil Federstahl	|2	|1 kg		|	|  
+|Q10 Ersatzteil Federstahl	|3	|1 kg		|	|  
+|Ersatzbein Federstahl		|0	|10.00 kg 	|	|
+|Ersatzbein Bronze		|0	|10.00 kg	|	|
 |Ägispähre (mechanisch ausgelöst)|	|		|	|
 |Rotwarz			|89	|		|	|
 |Drachenglaskugel		|1	|		|	|
@@ -339,7 +341,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 ##Zwischengelagert
 |Name|Anzahl|Gewicht|Preis|  
 |:-|-:|-:|-:|
-|Stahlschrott			|18.81	|1.00 kg 	|	|
+|Stahlschrott			|13.81	|1.00 kg 	|	|
 |Stahl Q9			|0.5	|1.00 kg	|	|
 |Bronzeschrott			|3.19	|1.00 kg 	|	|
 |Q2 Reparaturteile		|3	|1.00 kg	|	|
