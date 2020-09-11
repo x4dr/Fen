@@ -42,7 +42,7 @@ Dedizierte Karten haben eine Verbindung mit ihrem Effekt, wenn eine dedizierte K
 Rückkopplung verursacht sofortiges entfernen von Handkarten (Reihenfolge vom Zauberer bestimmt), wenn die Hand leer ist, werden oben Karten vom Deck entfernt, wenn das Deck leer ist, wird der Ablagestapel gemischt und Karten zufällig von dort entfernt.
 
 ### Meditation
-Um Karten vom Ablagestapel zurück ins Deck zu transferieren kann **meditiert** werden. Nach **8 Stunden** die entspannt und insichgekehrt verbracht werden, wird der ablage stapel gemischt und  die **Quelle** obersten Karten ins Deck transferiert. 
+Um Karten vom Ablagestapel zurück ins Deck zu transferieren kann **meditiert** werden. Nach **8 Stunden** die entspannt und insichgekehrt verbracht werden, wird der Ablagestapel gemischt und die **Quelle** obersten Karten ins Deck transferiert. 
 Außerdem kann eine der Karten mit dem niedrigsten Wert, die zur Zeit **entfernt** sind ins Deck zurückgelegt werden.
 
 
