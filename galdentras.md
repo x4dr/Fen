@@ -39,6 +39,8 @@ stets betrunken
 ##Hintergrund  
 ???
 ##Wunden
+3 (Schw 9), 2 (SChw 4)
+(-3 Punkte)
 #Werte
 
 ##Stärke  
@@ -228,9 +230,6 @@ stets betrunken
 |Unglücksvogel| 1|
 
 
-#Wunden
-3 (Schw 9), 2 (SChw 4)
-(-3 Punkte)
 
 #Inventar
 10kg Biolumiscent Chitinstreifen  
