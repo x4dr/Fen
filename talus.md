@@ -309,7 +309,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Seilwinde St.6			|1	|2.00 kg	|	|
 |T2 Phosphor			|10	|0.10 kg	|	|
 |Sehne				|4	|0.10 kg	|	|
-|T5 Floatstone			|114	|-0.10 kg 	|8S	|
+|T5 Floatstone			|113	|-0.10 kg 	|8S	|
 |25% Alkohol			|2	|0.50 kg	|	|	
 |Säure				|100	|0.01 kg	|	|
 |Große Karte (wenig Details)	|1	|0.10 kg	|	|	
