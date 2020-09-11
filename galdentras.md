@@ -232,7 +232,7 @@ stets betrunken
 (-3 Punkte)
 
 #Inventar
-10kg Chitinplatten  
+10kg Biolumiscent Chitinstreifen  
 ##Waffen
 Stahlhammer  
 [[[weapon:Hammer:R10B]]]
