@@ -229,6 +229,7 @@ stets betrunken
 
 
 #Wunden
+3 (Schw 9)
 (-3 Punkte)
 
 #Inventar
