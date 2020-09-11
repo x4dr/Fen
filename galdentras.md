@@ -40,7 +40,8 @@ stets betrunken
 ???
 ##Wunden
 3 (Schw 9), 2 (SChw 4)
-(-3 Punkte)
+(Pool:-3 Punkte)
+
 #Werte
 
 ##Stärke  
