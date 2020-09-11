@@ -296,6 +296,7 @@ Holzverarbeitung
 Survival
 Kritische Anwendung 1
 1 Monat Praxis
+3 Wochen Praxis
 Inspiration
 Trainer auf 4
 
