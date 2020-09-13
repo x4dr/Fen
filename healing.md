@@ -84,8 +84,9 @@ Nach der Abhandlung des Entzündungsschadens, wird in der Reihenfolge der höchs
 
 ##Argyrier
 Der Heilungswurf eines Argyriers erhöht die aktuelle Heilungskraft.
-Sofern die Schwierigkeit einer Wunde kleiner ist als das aktuelle Heilungskraft, wird die Schwierigkeit davon abgezogen und die entsprechende Wunde heilt um 1. Dies wiederholt sich so lange, bis keine Wunde mehr betroffen ist.
-Wenn der Argyrier keine Wunden hat, fällt die aktuelle Heilungskraft jeden Tag um 1, bis auf 0.
+Zuerst werden Entzündungen abgehandelt, in dem solange die Heilungskraft größer als 1 ist, die Heilungskraft um 2 und Entzündungsstufe der kleinsten entzündeten Wunde um 1 reduziert wird.
+Solange die Schwierigkeit einer Wunde kleiner ist als die aktuelle Heilungskraft, wird die Schwierigkeit von der Heilungskraft abgezogen und die Wunde heilt um 1.
+Wenn ein Argyrier keine Wunden hat, fällt die aktuelle Heilungskraft auf 0.
    
 ##Mykier  
 Haben einen Reserve HP Pool (der nur relevant wird bei mehreren Verletzungen) der Zelldichte symbolisiert (den Charakteren nicht bekannt). Konstitution Reserve HP pro Woche werden generiert, während Hunger und Durst anderthalb mal abgedeckt sind. Das maximum für BonusHp ist Konstitution*5+5. 
