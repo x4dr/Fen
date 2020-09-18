@@ -365,7 +365,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Stahlmetallurgie 2|TTLPP|  
 |Stahlmetallurgie|TP|  
 |Konstruktion|K [Seegard]|  
-|Alchemie|K [Nordpol, Nymkor, Dubok]|  
+|Alchemie|KK [Nordpol, Nymkor, Dubok]|  
 |Magiehandwerk 3|TTTLLP [Nymkor, Vernal, Tantor, Limasu]|  
 |Musterresonanz 1|ITTLL|  
 |Musterresonanz 2|LTTTT|  
@@ -377,7 +377,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |||  
 |Magischer Fluss|SSSSSSSSS|  
 |Prozessalchemie|S (Sonnenstein)KKKK|  
-|Schnellalchemie|KKKKK|  
+|Schnellalchemie|KKKKKK|  
 |||  
 |Wissen(Mykier)|I|  
 |Wissen(Religion)|I|  
