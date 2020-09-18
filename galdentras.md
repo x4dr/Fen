@@ -292,10 +292,6 @@ Training 10 Tage
 Kritische Anwendung
 
 Fobif 
-Kritische Anwendung 1
-(2 Kneipenschlägereien)
-1 Punkt Bonus
-1 Punkt Chaos
 
 Beleidigen
 Kritische Anwendung (1)
@@ -337,10 +333,18 @@ Begegnung
 
 Hammer 2->3
 Versagen 1
+Kritische Anwendung 1
 
 Fobif
 Kritische Anwendung
 1 Fortschrittspunkt
+Kritische Anwendung 1
+(2 Kneipenschlägereien)
+1 Punkt Bonus
+1 Punkt Chaos
+
+Unbewaffnet
+Kritische Anwendung 1
 
 
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
