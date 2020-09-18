@@ -217,8 +217,6 @@ stets betrunken
 |Ruhm Limasu|  2|  
 
 
-10 Punkte Fobif
-
 ###Vorteile
 |Vorteil|Name|
 |-|-|
