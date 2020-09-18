@@ -383,7 +383,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Wissen(Religion)|I|  
 |Wissen(Magiewissen)|IK|  
 |Wissen(Geologie)|IK|
-|Taktik|K|  
+|Taktik|KK|  
 |Strategie 2|KKKTTPPP[Bauprojekte, Limasu Forschungsprojekt]|  
 |Navigation|I|  
 |Handel 1|TTTTLPPP[Prekor, Okur]|  
@@ -397,3 +397,4 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Göttliche Bindung (Kraoz)|KKK|  
 |Göttliche Bindung (Karum)|IKKK|  
 |Begegnung|VVVKK|  
+
