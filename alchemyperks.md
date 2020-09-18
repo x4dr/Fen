@@ -44,7 +44,7 @@ Für jede 2 die als Teil eines Zaubers (nicht Aufrechterhaltung oder abwerfen) a
 Die größere Einstimmung kann erreicht werden, in dem man sich in einen tranceartigen Zustand begibt, dies benötigt eine volle Aktion. Sie wird unterbrochen, wenn ein Treffer erlitten wird. Während die größere Einstimmung aktiv ist, kann jederzeit die oberste Karte des Decks angesehen werden.
 
 ### Licht der Erkenntnis
-5 Stufen. Quelle und Stufe dieses Vorteils werden als volle Aktion gewürfelt um bei einem Ergebnis von 10 oder mehr Erkenntnis zu erlangen. Bei Misserfolg wird eine Beliebige Karte aus dem Ablagestapel (alternativ die oberste aus dem Deck, alternativ eine beliebige aus der Hand) **entfernt**. Erkenntnis bezieht sich auf die Mystische Realität der Situation und eine Erkenntnis gleichzeitig kann ausgegeben werden um einen Bonuswürfel auf Würfe zu erhalten, bei denen tiefe meditative Klarheit über mystische Zusammenhänge von Vorteil sind.
+5 Stufen. Quelle und Stufe dieses Vorteils werden als volle Aktion gewürfelt um bei einem Ergebnis von 10 oder mehr Erkenntnis zu erlangen. Bei Misserfolg wird eine Beliebige Karte aus dem Ablagestapel (wenn dies nicht möglich ist, die oberste aus dem Deck, wenn dies nicht möglich ist eine beliebige aus der Hand) **entfernt**. Erkenntnis bezieht sich auf die Mystische Realität der Situation und eine Erkenntnis gleichzeitig kann ausgegeben werden um einen Bonuswürfel auf Würfe zu erhalten, bei denen tiefe meditative Klarheit über mystische Zusammenhänge von Vorteil sind.
 Erkenntnis verringert sich mit dem Ende der nächsten Runde um 1.
 
 #### Halten des Flüchtigen Lichtes
