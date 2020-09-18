@@ -181,7 +181,7 @@ tags: Character Swordlad character
 |Kochen|I|
 |Heilen|KKPPVV|
 |Strategie|TTMTL|
-|Taktik|TTTL|
+|Taktik|TTTLK|
 |Navigation|PPPPK|
 |BerufAdministrator|P[Eisenbach. Worograd, Trarora]MV|
 |Diplomatie|K|
