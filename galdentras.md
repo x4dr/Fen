@@ -291,7 +291,6 @@ Aspekt Eis
 Training 10 Tage
 Kritische Anwendung
 
-Fobif 
 
 Beleidigen
 Kritische Anwendung (1)
@@ -336,9 +335,8 @@ Versagen 1
 Kritische Anwendung 1
 
 Fobif
-Kritische Anwendung
+Kritische Anwendung 3
 1 Fortschrittspunkt
-Kritische Anwendung 1
 (2 Kneipenschlägereien)
 1 Punkt Bonus
 1 Punkt Chaos
