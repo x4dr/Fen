@@ -502,3 +502,13 @@ A 12: sehr gute Wärmesicht (3 Bonuswürfel für relevante Wahrnehmnung)
 A 16: perfekte Wärmesicht (Autoerfolg)
 
 
+## Höhlenspinnengift
+
+A 0: überwältigende Schärfe
+A 5: brennender Funkenatem und leuchtende Augen, Alle Gebräueffekte innerhalb von 5 Runden
+A 8: 3 Maluswürfel durch Überwältigung
+A 10: Magic pulses (artefakte, aktionen usw)
+A 13: unkontrollierte Effekte (30-40-30 positiv/neutral/negativ)
+A 15: Triggert Drachenpfeffer-Magisches Event (einmal pro char)
+A 18: semikontrollierte Effekte (40-40-20)
+A 20: Kontrollierte Effekte (60-30-10)
