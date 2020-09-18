@@ -85,7 +85,7 @@ Keine Gelegenheitsangriffe auf Anwender, Volle Bewegungsreichweite, normaler Hac
 Wechsel zu Grundhaltung.
 
 ### Umkehren
-Defensive Haltung => Grundhaltung
+Defensive Haltung => Aggressive Haltung
 
 Hackangriff wird bis ans ende der Runde Verzögert.
 Zusammen mit dem Angriff tauschen Offensive und Defensive.
