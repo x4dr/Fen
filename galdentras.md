@@ -81,6 +81,7 @@ stets betrunken
 |Schildschlag|1|
 |Beschützen|1|
 |Unbeeindruckt|1|
+|Berserkergang|1|
 
 
 ###Nachteile
