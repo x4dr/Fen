@@ -483,14 +483,14 @@ K 8: Extreme Schmerzen (jede Runde Durchhaltewurf, bis zum Gesamtergebnis von 30
 
 K 15: Durchhaltewürfe verursachen Amplitude*(10-Frequenz) Schwierigkeit 1 Schaden, Ohnmächtige Opfer Sterben innerhalb von 24 Stunden
 
-A 0: Kribbelndes sich ausbreitendes Gefühl, im Verlauf von 1 Minute eintretende Blindheit (alle 2 Minuten 1 Maluswürfel). Blindheit lässt über eine Zeitdauer nach die der Gesamtblindheit und eintritt entspricht.
-Bei Anwendung wird Giftwiderstand Gewürfelt:
+A 0: Kribbelndes sich ausbreitendes Gefühl, im Verlauf von Minuten eintretende Blindheit (alle jede Minute 1 Maluswürfel, ab 6 Maluswürfel ist keine sicht mehr möglich). Blindheit lässt im selben Tempo am ende der Wirkungszeit nach. Die Dauer der Sicht ist normalerweise 24 Stunden. 
+Giftwiderstandswurfergebnis:
 1-4: 5-Wurf Punkte Schwierigkeit 10 Wunde, die Blind macht
-5: Blind für die Dauer
+5: Blind für die Dauer der Sicht
 6: Blind für 10 Minuten
 7: Blind für 1 Minute
-8: Blindheit nur bis 3 Maluswürfel, Dauer 0
-9: Blindheit nur bis 1 Maluswürfel, Dauer 0
+8: Blindheit nur bis 3 Maluswürfel
+9: Blindheit nur bis 1 Maluswürfel
 10: keine Adversen Effekte
 
 A 5: begrenzte Wärmesicht (starke Kontraste notwendig)
