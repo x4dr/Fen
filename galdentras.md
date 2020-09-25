@@ -246,7 +246,7 @@ stets betrunken
 10kg Biolumiscent Chitinstreifen  
 ##Waffen
 Schwerer Bronzehammer  (Symbole: Fobif, Eisenbach)
-[[weapon:Schwerer Hammer]]
+[[weapon:Hammer: L24B]]
 
 
 
