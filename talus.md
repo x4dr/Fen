@@ -344,10 +344,17 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Stahlschrott			|13.81	|1.00 kg 	|	|
 |Stahl Q9			|0.5	|1.00 kg	|	|
 |Bronzeschrott			|0.19	|1.00 kg 	|	|
+|Bronzeknöpfe			|100	|0.002 kg	|	|
+|Pfeilspitzen (Bronze)		|30	|0.015 kg	|	|
 |Q2 Reparaturteile		|3	|1.00 kg	|	|
 |Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|	|
+|Artefaktboot			|1	|		|	|
+|Goop-generator			|1	|5.00 kg	|	|
 |Feinmech.-Buch (atteryazi)	|1	|1.50 kg	|	|
+|Schmiedebuch (4;25;21;aurisch)	|1	|		|	|
+|Zaubertrankalmanach vom Nordpol|1	|		|	|
 |Gesamt||||
+
 
 
 # Erfahrung  
