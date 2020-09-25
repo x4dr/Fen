@@ -245,8 +245,8 @@ stets betrunken
 #Inventar
 10kg Biolumiscent Chitinstreifen  
 ##Waffen
-Stahlhammer  
-[[[weapon:Hammer:R10B]]]
+Schwerer Bronzehammer  (Symbole: Fobif, Eisenbach)
+[[[weapon:Schwerer Hammer]]]
 
 
 
