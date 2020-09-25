@@ -247,16 +247,11 @@ stets betrunken
 ##Waffen
 Stahlhammer  
 [[[weapon:Hammer:R10B]]]
-Bronzehammer
-[[[weapon:Hammer:]]]
-Langschleuder
-[[[weapon:Langschleuder]]]
-Schlagringe
-[[[weapon:Schlagringe]]]
 
 
 
 
+##
 Etikette 0->1
 Inspiration 1
 
@@ -282,11 +277,13 @@ Quelle
 1 Generischer Punkt
 1 Punkt aus Artefaktdetonation
 1 natürlich (Avisverstrahlung)
+1 Drachenpfefferschnaps
 
 Aspekt Feuer
 Training 10 Tage
-Training 10 WOchen
-Lehrer auf 4
+Training 10 Wochen
+Lehrer auf 4: 1
+
 
 Aspekt Eis
 Training 10 Tage
