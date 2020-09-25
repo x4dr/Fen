@@ -15,7 +15,7 @@ tags: character
 |Twists| produziert ständig Dreck|
 |Exp|26|
 ##Bewaffnung
-Bronzehammer,
+
 Bronze Schlagringe, Langschleuder  
 
 ##Artefakte
