@@ -345,7 +345,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Stahl Q9			|0.5	|1.00 kg	|	|
 |Bronzeschrott			|0.19	|1.00 kg 	|	|
 |Bronzeknöpfe			|100	|0.002 kg	|	|
-|Pfeilspitzen (Bronze)		|30	|0.015 kg	|	|
+|Pfeilspitzen (Bronze)		|30	|0.01 kg	|	|
 |Q2 Reparaturteile		|3	|1.00 kg	|	|
 |Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|	|
 |Artefaktboot			|1	|6.00 kg	|	|
