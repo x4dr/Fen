@@ -351,8 +351,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Artefaktboot			|1	|		|	|
 |Goop-generator			|1	|5.00 kg	|	|
 |Feinmech.-Buch (atteryazi)	|1	|1.50 kg	|	|
-|Schmiedebuch (4;25;21;aurisch)	|1	|10.00 kg	|	|
-|Zaubertrankalmanach vom Nordpol|1	|10.00 kg	|	|
+|Schmiedebuch (4;25;21;aurisch)	|1	|5.00 kg	|	|
+|Zaubertrankalmanach vom Nordpol|1	|5.00 kg	|	|
 |Gesamt||||
 
 
