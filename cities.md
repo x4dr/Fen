@@ -41,6 +41,9 @@ Zoark geweiht, Magier, Wissenschaftler, Philosophen, Westlichste Stadt
 ##Ormnar
 Ezit geweiht, Hauptstadt, Hof, Diplomatie, Handelsimperium
 
+##Temnur
+Kraoz geweiht, südöstlichste Stadt der inneren 4, aus dem Boden gestampft
+
 #Feuerinseln
 ##Kalei
 Handelsbasis, besteht größenteils aus Handelsschiifen mit Brücken, ein paar Gebäude auf dem Festland, ein paar geysiere, Aurische, Argyrische und Menschliche Händler
