@@ -245,7 +245,7 @@ stets betrunken
 #Inventar
 10kg Biolumiscent Chitinstreifen  
 ##Waffen
-Schwerer Bronzehammer  (Symbole: Fobif, Eisenbach), gibt -3 auf Defensive
+Schwerer Bronzehammer  (Symbole: Fobif, Eisenbach) (Ynteus-Protection), gibt -3 auf Defensive
 [[weapon:Hammer: L24B]]
 
 
