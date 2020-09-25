@@ -348,7 +348,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Pfeilspitzen (Bronze)		|30	|0.015 kg	|	|
 |Q2 Reparaturteile		|3	|1.00 kg	|	|
 |Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|	|
-|Artefaktboot			|1	|		|	|
+|Artefaktboot			|1	|6.00 kg	|	|
 |Goop-generator			|1	|5.00 kg	|	|
 |Feinmech.-Buch (atteryazi)	|1	|1.50 kg	|	|
 |Schmiedebuch (4;25;21;aurisch)	|1	|5.00 kg	|	|
