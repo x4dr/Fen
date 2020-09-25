@@ -41,7 +41,8 @@ stets betrunken
 ##Wunden
 19 (SCHW:5),
 
-(Pool:-10 Punkte)
+(Pool:0 Punkte)
+
 
 
 
