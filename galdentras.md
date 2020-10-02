@@ -39,9 +39,10 @@ stets betrunken
 ##Hintergrund  
 ???
 ##Wunden
-19 (SCHW:5),
+14 (SCHW:5),
 
 (Pool:0 Punkte)
+
 
 
 
