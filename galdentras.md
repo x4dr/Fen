@@ -245,6 +245,7 @@ stets betrunken
 
 #Inventar
 10kg Biolumiscent Chitinstreifen  
+20Liter Bier
 ##Waffen
 Fobifscher Amtshammer von Eisenbach  (Symbole: Fobif, Eisenbach) (Ynteus-Protection), gibt -3 auf Defensive
 [[weapon:Hammer: L24B]]
