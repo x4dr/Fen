@@ -137,3 +137,6 @@ Krämer den Banther auf dem Weg zum Tosistempel begleitet hat
 
 ###Kosura
 Tosis Hohepriester
+
+### Akis
+Stahlmeister Schmied in Yomkar, freund des Talus
