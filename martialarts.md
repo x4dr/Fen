@@ -75,6 +75,7 @@ Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und De
 Technik  
 
 +4 Offensive, -2 Defensive, Offensive kann um 1 gesenkt werden um direkt eine weiteren Angriff zu erhalten. Halbiert Angerichteten Schaden nach Rüstung.
+ Defensive des Ziels sinkt erst am Ende des Gesamtangriffes, um 1 insgesamt.
 
 
 
@@ -235,7 +236,7 @@ Runden im Ohnmachtsbereich wird zu Schadensbonus, JEDER angreifer wird passiv an
 
 ##### Pressen
 
-reflexiv
+reflexiv, einmal pro Runde
 
 +1 Offensive, -2 Defensive, +3 Schaden, Gegner erhält einen Bonusangriff auf den Anwender.
 
@@ -253,7 +254,7 @@ Beendet aktuellen Angriff diese Runde. Defensive wird 8. Nächste Runde +3 Offen
 
 Technik  
 
-+Schaden in höhe der höchsten Resonanz, +2 Offensive, -3 Defensive, Wenn Schaden angerichtet wurde, kann können Offensive und Defensive um 2 gesenkt werden um den Angriff auf das Selbe ziel zu wiederholen.
++Schaden in höhe der höchsten Resonanz, +2 Offensive, -3 Defensive, Wenn Schaden angerichtet wurde, kann können Offensive und Defensive um 2 gesenkt werden um den Angriff auf das Selbe ziel zu wiederholen.  Defensive des Ziels sinkt erst am Ende des Gesamtangriffes, um 1 insgesamt.
 
 
 
