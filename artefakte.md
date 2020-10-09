@@ -38,7 +38,7 @@ identifiziert 5 holds energy sort of unstable useable on actions
 333g Bronze
 "Ehrenmitglied der Attarkanischen Amalkangilde" in 2D Atteryazi
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
-8/15/20 (12-Wurf)
+7/15/20 (12-Wurf)
 
 ###Magisches Feuerzeug  
 15/15
