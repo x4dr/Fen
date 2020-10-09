@@ -296,7 +296,7 @@ Wenn Waffenloser Schaden verursacht wurde, erhöhe Defensive um die Menge des Sc
 
 ##### Unausweichlicher Angriff
 
-reflexiv (waffenunabhängig)  
+reflexiv, einmal pro Runde (waffenunabhängig)  
 
 Erhöht offensive um 5. Gegnerische Rüstung wird ignoriert. Ausgelöster Schaden kann 1 nicht überschreiten.  
 
@@ -306,7 +306,7 @@ Erhöht offensive um 5. Gegnerische Rüstung wird ignoriert. Ausgelöster Schade
 
 reflexiv (waffenunabhängig)  
 
-Senkt Defensive um 5. Eigene Rüstung wird ignoriert. Bekommener Schaden kann 1 nicht überschreiten. Form wird zum nächstniedrigeren Initiativewärt gewechselt.
+Senkt Defensive um 5. Eigene Rüstung wird ignoriert. Eingehender Schaden kann 1 nicht überschreiten. Form wird zum nächsten Initiativewärt gewechselt.
 
 
 
