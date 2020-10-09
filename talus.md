@@ -12,7 +12,7 @@ Amalkan
 ## Charakterkonzept:  
 entflohener Laborunfall
 ## XP:  
-15  
+16  
 ## Zusammensetzung:  
 Megatalus: 500kg Federstahl, 440kg Schwebstein
 Talus: 60kg Federstahl
