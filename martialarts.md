@@ -111,7 +111,13 @@ passiv  (waffenunabhängig)
 
 +3 Defensive, +5 Offensive, gilt nur wenn sich mindestens 50% der Bewegungsreichweite bewegt wurde.
 
+##### Blitzschlag
 
+Technik(waffenunabhängig)  
+
+Initiative +10, Es muss frühstmöglich gehandelt werden
+Wechsele auf eine andere Technik mit dem selben Ziel. 
+Am Ende der Runde, wechsle die Haltung.
 
 ##### Projektil fangen
 
@@ -120,13 +126,6 @@ reflexiv
 Wenn ein Fernkampfangriff durch Defensive verhindert wurde, oder die Defensive die Offensive eines Nahkampfangriffes, dessen Projektil sich zu irgend einem Zeitpunkt nach abschuss und vor Ankunft innerhalb von einem Meter Radius um den Charakter befindet, überschreitet wird das Projektil gefangen und ist für den nächsten Angriff bereit gemacht (sofern eine Hand frei ist; das Projektil ist nur für die aktuelle Runde mit Waffenlos zu gebrauchen). Das beinhaltet kein zurückschleudern o.ä.
 
 Das Projektil muss dabei leicht genug sein um gefangen werden zu können. Bonusschaden hängt vom Projektil ab.   
-
-Pfeil: 5  
-
-Wurfmesser: 2, Multiplikator = 2  
-
-Stein: 2
-
 
 
 ##### Rolle
