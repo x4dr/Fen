@@ -32,25 +32,26 @@ Technik
 
 Der Charakter nimmt eine der verfügbaren Haltungen ein. Wenn keine Haltung spezifiert wird, geht der Charakter in Grundhaltung und erhält eine Reaktion auf einen kommenden Angriff entweder seine Offensive um 3 zu senken und zu Kontern, oder seine Defensive um 3 zu steigern. Beim Ändern der Haltung können Verständnis, Gefühl und Bewusstsein der eingenommenen Haltung neu belegt werden.  
 
+Der Normale Waffenlose Schaden ist 0 mit einem Vorteilsmultiplikator von 0.5 (schaden wird aufgerundet)
+
 #### Kampfhaltung  
 
 passiv (waffenunabhängig)
 
-+3 Schaden  
++2 Schaden  
 
 ##### Hammerschläge
 
 passiv  
 
-+5 Schaden, -1 Multiplikator, Schaden zählt als Stumpf 
-
++2 Schaden, Grundmultiplikator wird 0, Schaden zählt als Stumpf 
 
 
 ##### Präzision
 
 passiv  
 
--2 Schaden, +1 Multiplikator, Schaden zählt als Durchdringend
+-5 Schaden, +1 Multiplikator, Schaden zählt als Stichchschaden, Durchdringung ist Vorteil
 
 
 
@@ -58,13 +59,12 @@ passiv
 
 reflexiv (waffenunabhängig)
 
-Ändert den Aktuellen Angriff, bei Erfolg wird kein Schaden angerichtet, aber das Ziel stürzt zu Boden.  
-
+Ändert den Aktuellen Angriff, Kein Schaden wird verursacht, Offensive des Ziels wird diese Runde um eigene Offensive reduziert, wenn diese unter 0 fällt, fällt das Ziel zu Boden.
 
 
 ##### Aufs Ganze
 
-reflexiv
+Technik, am Anfang der Freien Phase anzusagen
 
 Verdoppelt den mit dem aktuellen Angriff angerichteten Schaden. Offensive und Defensive fallen diese Runde auf 0 während kein Angriff bereit ist.
 
@@ -82,13 +82,13 @@ Technik
 
 Technik  
 
-Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 fällt und nich sprechen kann.
+Kampfvorteil über 5 führt dazu, dass die Offensive und Defensive des Ziels den Rest der Runde (nach Schaden) auf 0 fällt und es nicht sprechen kann.
 
 
 
 #### Lufthaltung  
 
-(waffenunabhängig)  
+passiv (waffenunabhängig)  
 
 Defensive zählt gegen Projektile. Bewegung löst keine Gelegenheitsangriffe aus.
 
@@ -98,9 +98,9 @@ Defensive zählt gegen Projektile. Bewegung löst keine Gelegenheitsangriffe aus
 
 passiv  (waffenunabhängig)  
 
-Bei Resonanz kann sofort in die Lufthaltung gewechselt werden, wenn Unbeständigkeit teil dieser ist. Nach einem Wechsel auf diese Weise +Defensive in Höhe der Summe aller Resonanzen bis zum Ende der nächsten Runde.  
+Bei beliebiger Resonanz kann sofort in die Lufthaltung gewechselt werden, wenn Unbeständigkeit teil dieser ist. Nach einem Wechsel auf diese Weise +Defensive in Höhe der Summe aller Resonanzen bis zum Ende der nächsten Runde.  
 
-+2 Defensive, Wenn getroffen ändert sich die Kampfhaltung sofort.
++2 Defensive, Wenn  der Anwender getroffen wird, nimmt er sofort eine andere Haltung ein.
 
 
 
@@ -108,7 +108,7 @@ Bei Resonanz kann sofort in die Lufthaltung gewechselt werden, wenn Unbeständig
 
 passiv  (waffenunabhängig)  
 
-+3 Defensive, +5 Offensive. Wenn sich mindestens 50% der Bewegungsreichweite bewegt wurde.
++3 Defensive, +5 Offensive, gilt nur wenn sich mindestens 50% der Bewegungsreichweite bewegt wurde.
 
 
 
@@ -134,7 +134,7 @@ reflexiv (waffenunabhängig)
 
 Wenn ein Nahkampfangriff durch Defensive verhindert wurde, bewegt sich der Charakter sofort um 2 Meter. 
 
-Wnenn Fallschaden erleidet werden würde und genug Platz für eine Rolle ist, wird dieser halbiert.
+Wenn Fallschaden erleidet werden würde und genug Platz für eine Rolle ist, wird dieser halbiert.
 
 
 
@@ -142,7 +142,7 @@ Wnenn Fallschaden erleidet werden würde und genug Platz für eine Rolle ist, wi
 
 Technik (waffenunabhängig)  
 
-erlaubt eine Interpretation von Stärke,Athletik um einen Sprung durchzuführen, nachdem ein nicht-erschwerter Angriff oder eine andere Aktion erfolgen kann. Resultat ist eine Serie von 3 bis Sprüngen abgeschlossen mit einem größeren Sprung die eine Distanz in metern in Höhe der Interpretation zurücklegen.  
+erlaubt eine Interpretation von Stärke,Athletik um einen Sprung durchzuführen, nachdem ein nicht-erschwerter Angriff oder eine andere Aktion erfolgen kann. Resultat ist eine Serie von 3  Sprüngen abgeschlossen mit einem größeren Sprung die eine Distanz in metern in Höhe der Interpretation zurücklegen.  
 
 
 
@@ -153,10 +153,9 @@ Technik (waffenunabhängig)
 erlaubt es nach einem Angriff die restliche Bewegungsweite der Runde zurückzulegen.
 
 
-
 #### Erdhaltung  
 
-5 Rüstung, 1en zählen als 2en. (waffenunabhängig)
+3 Rüstung (oder die getragene), 1en zählen als 2en. (waffenunabhängig)
 
 
 
@@ -164,7 +163,7 @@ erlaubt es nach einem Angriff die restliche Bewegungsweite der Runde zurückzule
 
 passiv(waffenunabhängig)  
 
-+1 Rüstung, Bewegungs/unterbrechungseffekte funktionieren eine Stufe/50% Schlechter
++1 Rüstung, Alle Formen von Betäubung/Verschiebung/Kontrolle auf dem Character werden halbiert
 
 
 
@@ -206,9 +205,9 @@ Technik
 
 Kein Angriff wird gemacht, stattdessen wird sich auf das Verteidigen und gegen Angriffe stämmen konzentriert.  
 
-Defensive -5 Rüstung +10.  
+Defensive -5 Rüstung +8.  
 
-Alle versuche den Charakter zu bewegen müssen Defensive+Rüstung Übertreffen. Gegnerische Nahkampfangriffe senken Defensive nicht.
+Alle versuche den Charakter zu bewegen müssen Defensive+Rüstung Übertreffen. Gegnerische Nahkampfangriffe senken Kampfwerte nicht.
 
   
 
@@ -218,11 +217,7 @@ Alle versuche den Charakter zu bewegen müssen Defensive+Rüstung Übertreffen. 
 
 passiv (waffenunabhängig)
 
-+1 Offensive. Der einmal pro Runde kann ein Angreifer reflexiv angegriffen werden. (Schaden wenn generische Defensive kleiner als die Offensive des Charakters ist. In jedem Fall nimmt gegnerische Defensive um 1 ab)  
-
- 
-
-
++1 Offensive. Einmal pro Runde kann ein Angreifer auf den Anwender reflexiv angegriffen werden. Vorteile über 10 addieren je 1 Schaden.
 
 ##### Aggression
 
@@ -231,20 +226,18 @@ passiv
 +3 Offensive, Eine Kampfrunde ohne Schaden angerichtet zu haben wechselt die Haltung mit Ende der Runde.
 
 
-
 ##### Rache
 
 passiv (waffenunabhängig)
 
-Runden im Ohnmachtsbereich wird zu Schadensbonus, JEDER angreifer wird passiv angegriffen. Jeder Runde über der Ohnmachtsschwelle erzeugt eine weitere 1 Punkte Erschöpfungswunde, Ohnmacht ist unmöglich.
-
+Runden im Ohnmachtsbereich wird zu Schadensbonus, JEDER angreifer wird passiv angegriffen. Jeder Runde über der Ohnmachtsschwelle erzeugt eine weitere 1 Punkte Erschöpfungswunde (Schwierigkeit 2), Ohnmacht ist unmöglich.
 
 
 ##### Pressen
 
 reflexiv
 
-+1 Offensive, -2 Defensive, +3 Schaden, Gegner kann einen passiven Gegenangriff machen.
++1 Offensive, -2 Defensive, +3 Schaden, Gegner erhält einen Bonusangriff auf den Anwender.
 
 
 
@@ -260,7 +253,7 @@ Beendet aktuellen Angriff diese Runde. Defensive wird 8. Nächste Runde +3 Offen
 
 Technik  
 
-+(größte Resonanz) Multiplikator, +2 Offensive, -3 Defensive, Wenn Schaden angerichtet wurde, kann können Offensive und Defensive um 2 gesenkt werden um den Angriff auf das Selbe ziel zu wiederholen.
++Schaden in höhe der höchsten Resonanz, +2 Offensive, -3 Defensive, Wenn Schaden angerichtet wurde, kann können Offensive und Defensive um 2 gesenkt werden um den Angriff auf das Selbe ziel zu wiederholen.
 
 
 
@@ -268,7 +261,7 @@ Technik
 
 Technik  
 
-Jeder Selektor erhält einen Würfel fest zugewiesen, der jeweils einmal pro Stufe der Waffe/des Attributes als reflexive Aktion neu gewürfelt werden kann. Kein Zurücknehmen von Würfen. Defensive wird halbiert. Angerichteter und Bekommer Schaden wird verdoppelt.
+Es werden zwei Würfel gewürfelt, deren Summe das Würfelergebnis ist. Jeder dieser Würfel kann jeweils einmal pro Stufe der Waffe/des Attributes als reflexive Aktion neu gewürfelt werden kann. Kein Zurücknehmen von Würfen. Defensive wird halbiert. Angerichteter und Bekommer Schaden wird verdoppelt.
 
 
 
@@ -286,7 +279,7 @@ passiv (waffenunabhängig)
 
 passiv (waffenunabhängig)  
 
-Wann immer erfolgreich verteidigt wurde, kann der Charakter einen Gegenangriff machen der auf 1 Schaden beschränkt ist, einen Defensivpunkt zurückgewinnen, oder sofort die Haltung ändern.
+Nachdem ein Eingehender Angriff abgehandelt wurde, kann der Anwender einen automatisch treffenden Gegenangriff machen der 1 Schaden macht, das Senken seines Kamfwertes verhindern, oder sofort die Haltung ändern.
 
 
 
@@ -294,9 +287,9 @@ Wann immer erfolgreich verteidigt wurde, kann der Charakter einen Gegenangriff m
 
 passiv (waffenunabhängig)  
 
-Wenn Schaden genommen wurde, erhöhe Offensive um diese Menge für den Rest der Aktuellen Runde.
+Wenn Schaden genommen wurde, erhöhe Offensive um die Menge des Schadens für den Rest der Aktuellen Runde.
 
-Wenn Waffenloser Schaden verursacht wurde, erhöhe Defensive um diese Menge für den Rest der Aktuellen Runde.
+Wenn Waffenloser Schaden verursacht wurde, erhöhe Defensive um die Menge des Schadens für den Rest der Aktuellen Runde.
 
 
 
@@ -304,7 +297,7 @@ Wenn Waffenloser Schaden verursacht wurde, erhöhe Defensive um diese Menge für
 
 reflexiv (waffenunabhängig)  
 
-Erhöht offensive um 5. Gegnerische Rüstung wird ignoriert. Asgelöster Schaden kann 1 nicht überschreiten.  
+Erhöht offensive um 5. Gegnerische Rüstung wird ignoriert. Ausgelöster Schaden kann 1 nicht überschreiten.  
 
 
 
@@ -312,7 +305,7 @@ Erhöht offensive um 5. Gegnerische Rüstung wird ignoriert. Asgelöster Schaden
 
 reflexiv (waffenunabhängig)  
 
-Senkt Defensive um 5. Eigene Rüstung wird ignoriert. Bekommener Schaden kann 1 nicht überschreiten. Änderung der Form nach dem aktuellen Schritt.
+Senkt Defensive um 5. Eigene Rüstung wird ignoriert. Bekommener Schaden kann 1 nicht überschreiten. Form wird zum nächstniedrigeren Initiativewärt gewechselt.
 
 
 
@@ -338,7 +331,7 @@ Technik (waffenunabhängig)
 
 Defensive +5 Offensive -5
 
-Defensive -1 für jede Anwendung von Fließender Schritt in diesem Kampf
+Defensive -1 für jede Runde in Wasserhaltung
 
 
 
@@ -349,7 +342,6 @@ Technik (waffenunabhängig)
 Defensive -5 Offensive +5, Offensive/3 Angriffe werden gemacht.
 
 Defensive -1, Offensive +1 für jede Anwendung von Tosender Fluss in diesem Kampf
-
 
 
 
