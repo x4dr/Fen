@@ -313,7 +313,7 @@ Senkt Defensive um 5. Eigene Rüstung wird ignoriert. Eingehender Schaden kann 1
 
 Technik  
 
-Für jeden gelandeten Treffer in diesem Kampf, Schaden +1
+Für jeden gelandeten Treffer auf Gegner in diesem Kampf, Schaden +1
 
 
 
@@ -337,7 +337,7 @@ Defensive -1 für jede Runde in Wasserhaltung
 
 ##### Tosender Fluss
 
-Technik (waffenunabhängig)
+Technik 
 
 Defensive -5 Offensive +5, Offensive/3 Angriffe werden gemacht.
 
