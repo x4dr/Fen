@@ -75,6 +75,14 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 5 |  
 
+###Langspeer
+| Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10|   
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Hacken](damage#h-Hacken)        | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 6 | 6 | 8 |   
+| [Stechen](damage#p-stechen)      |2;2|2;3|2;4|3;4|4;4|4;5|4;6|5;5|5;6|8;8|  
+| [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 3 | 4 | 4 | 5 | 5 | 5 | 6 |   
+| [Schlagen](damage#b-stumpf)      | 3 | 3 | 3 | 4 | 4 | 4 | 5 | 5 | 5 | 7 |  
+
 
 ###Kurzschleuder
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
