@@ -9,10 +9,14 @@ bisher ist nur ein kurzer scribble über [Aurier](aurier) verfügbar aber das so
 
 Sie wohnen hier, bis sie einen Besseren Platz finden. Der rest ist in [Kampf](combat) [Heilung](healing) [Charaktererstellung](3d10f) oder ähnlichen orten. Die können hier auch gerne von dir hinzugefügt werden.
 
+## Lebenspunkte
+10+10*Ausdauer HP
+
 #Tragekapazität
 ##Reisen
 
 (Konstitution&times;2+Körperkraft)&times; 5 kg für unbehindertes Reisen, setzt entsprechende Rucksäcke und Taschen vorraus Jede Überschreitung um (Konstitution&times;2+Körperkraft) &times; 2 kg, erteilt eines Maluswürfel auf Körperliche Aktivitäten und erfordert einen Konstitution-Schwerathletik Wurf (15+ ist 100% Reisegeschwindikeit)
+
 ##Kämpfen
 
 (Konstitution+Körperkraft)&times;4 kg für Unbehindertes Kämpfen, darüber gibt es einen Maluswürfel für alle angefangenen (Konstitution+Körperkraft)&times;2 kg
