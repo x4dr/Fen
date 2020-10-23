@@ -83,3 +83,10 @@ Farben/Nacht/Tagblindheit, mangelnde Tiefensicht, Schwerhörigkeit, Geruchsunemp
 In Temperaturen unter ungefähr 15 Grad 1 Maluswürfel, weitere Maluswürfel alle 5 Grad. Kleidung reduziert entsprechend ihrer Dicke, aber nicht mehr als um die hälfte. Maluswürfel steigen um 1 pro Stunde außerhalb wärmerer Regionen
 ###Spezifische Anforderung
 Nahrung die zwar verfügbar aber nicht allgegenwärtig ist, zum Beispiel spezifische Kräuter, Mineralien, Salzwasser, Schwefeldämpfe oder ähnliches. Nach der ersten Woche (modifiziert für seltenheit/"normalheit" der Anforderunt) ohne erfüllte Anforderung 1 Maluswürfel und dann jeweils nach doppelt so lange, einen weiteren (1,3,7,15, 31, 63 wochen).
+
+
+
+
+# Allgemeine Vorteile
+##Sprinten
+bonuswürfel beim rennen, -1 pro runde die gerannt wird, resettet 1 pro runde, minimum -0.
