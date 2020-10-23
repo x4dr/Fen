@@ -383,7 +383,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Kriegsgesang 1|ILLLTTTTP [Aurische Legion]|  
 |Segeln|P|  
 |||  
-|Magischer Fluss|SSSSSSSSS|  
+|Magischer Fluss|SSSSSSSSSS|  
 |Prozessalchemie|S (Sonnenstein)KKKK|  
 |Schnellalchemie|KKKKKK|  
 |||  
@@ -405,4 +405,5 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Göttliche Bindung (Kraoz)|KKK|  
 |Göttliche Bindung (Karum)|IKKK|  
 |Begegnung|VVVKK|  
+
 
