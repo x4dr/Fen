@@ -210,3 +210,8 @@ tags: Character Swordlad character
 |---|---|---|---|
 |Titan|40|||
 |Schicksalspochen| 1 | | |
+|SerisemSchwert|1|||
+|langbogen |1 | | |
+|magic Dolch 1 | 1| | |
+| Dosen Agyrier gift (Paralyse)| 6| | |
+| Bronzeshod Gauntlet |1 | | |
