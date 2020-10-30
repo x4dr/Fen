@@ -60,6 +60,24 @@ Maximal 1 Aktivierung pro Stunde.
 ###5
 
 
+#Atterkanische Vorteile
+Ein Atterkan wächst stetig, wird stetig besser, aber schwerer und ist irgendwann außer stande sich zu bewegen.
+
+##Panzer 
+Atterkan sind gut geschützt und heilen schnell aber selten
+###Panzerdicke
+Rüstungsschutz
+###Panzerhärte
+Rüstungswiderstand
+
+##Gift
+### Veschiedene effekte (Todo)
+nahezu beliebige gifte möglich, injizieren oder gespuckt, kann nicht natürlich geändert werden, nur verstärkt
+
+##Seide
+### Verschiedene effekte
+2 sorten seide, meist klebrig und stabile, spezialisierungen möglich, webtechniken möglich
+
 
 
 
