@@ -2,6 +2,8 @@ title: Oneshot Infiltrator
 tags:   
 # Infiltrator
 
+3 Schaden
+
 ## Körperlich
 
 ### Attribute
