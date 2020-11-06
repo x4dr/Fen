@@ -7,7 +7,6 @@ Choose one of these characters and claim it in discord
 [Fighter](ew_fighter_example)
 [Tech](ew_tech_example)
 [Leader](ew_face_example)
-[Assassin](ew_assassin_example)
 
 # Base Template
 
@@ -43,7 +42,7 @@ Choose one of these characters and claim it in discord
 |Irreführung|0|  
 |Rhetorik|0|  
 |Befehlen|0|  
-|Kontrolle|0|  
+|Etiquette|0|  
 
 ##Mental
 
