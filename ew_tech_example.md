@@ -8,8 +8,8 @@ tags:
 |Name|Wert|
 |-|-|
 |Fitness|1|  
-|Geschick|1|  
-|Agilität|1|  
+|Geschick|2|  
+|Agilität|2|  
 
 ### Fähigkeiten
 |Name|Wert|
@@ -17,9 +17,9 @@ tags:
 |Kraftakt|0|  
 |Beinarbeit|1|  
 |Survival|1|  
-|Acrobatik|1|  
-|Präzision|1|  
-|Waffen|0|  
+|Acrobatik|0|  
+|Präzision|2|  
+|Waffen|2|  
 
 ## Sozial
 
