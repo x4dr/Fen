@@ -38,7 +38,7 @@ tags:
 |Irreführung|0|  
 |Rhetorik|0|  
 |Kontrolle|3|  
-|Rethorik|0|
+|Etiquette|0|
 
 ##Mental
 
