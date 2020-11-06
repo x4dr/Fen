@@ -16,7 +16,7 @@ tags:
 |-|-|
 |Kraftakt|3|  
 |Beinarbeit|2|  
-|Survival|3|  
+|Survival|0|  
 |Acrobatik|1|  
 |Präzision|0|  
 |Waffen|2|  
