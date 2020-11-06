@@ -6,12 +6,14 @@ tags:
 
 ### Attribute
 |Name|Wert|
+|-|-|
 |Fitness|1|  
 |Geschick|1|  
 |Agilität|1|  
 
 ### Fähigkeiten
 |Name|Wert|
+|-|-|
 |Kraftakt|0|  
 |Beinarbeit|1|  
 |Survival|1|  
@@ -23,12 +25,14 @@ tags:
 
 ### Attribute
 |Name|Wert|
+|-|-|
 |Durchsetzungvermögen|1|  
 |Eindruck|1|  
 |Sympathie|1|  
 
 ###Fähigkeiten
 |Name|Wert|
+|-|-|
 |Handel|0|  
 |Diplomatie|1|  
 |Irreführung|1|  
@@ -40,12 +44,14 @@ tags:
 
 ### Attribute
 |Name|Wert|
+|-|-|
 |Wahrnehmung|0|  
 |Geist|4|  
 |Wissen|3|  
 
 ### Fähigkeiten
 |Name|Wert|
+|-|-|
 |Medizin|1|  
 |Forschung|3|  
 |Instinkt|1|  
@@ -57,12 +63,14 @@ tags:
 
 ### Attribute
 |Name|Wert|
+|-|-|
 |Kompetenz|2|  
 |Theorie|3|  
 |Einblick|2|  
 
 ### Fähigkeiten
 |Name|Wert|
+|-|-|
 |Computer|2|  
 |Biotech|0|  
 |Nanotech|0|
