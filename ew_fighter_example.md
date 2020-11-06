@@ -1,4 +1,4 @@
-title:   
+title: Big Laddy  
 tags:   
 # Fighter
 
