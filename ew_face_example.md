@@ -58,3 +58,24 @@ tags:
 |Suchen|1|  
 |Taktik|0|  
 |Navigation|0|  
+
+##Tech
+
+### Attribute
+|Name|Wert|
+|-|-|
+|Kompetenz|1|  
+|Theorie|1|  
+|Einblick|1|  
+
+### Fähigkeiten
+|Name|Wert|
+|-|-|
+|Computer|1|  
+|Biotech|0|  
+|Nanotech|0|
+|Engineer|1|  
+|Defense|0|  
+|Offense|0|  
+|Utility|1|  
+|Recon|1|
