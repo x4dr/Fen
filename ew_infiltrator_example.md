@@ -2,7 +2,7 @@ title: Oneshot Infiltrator
 tags:   
 # Infiltrator
 
-3 Schaden
+2 Schaden
 
 ## Körperlich
 
