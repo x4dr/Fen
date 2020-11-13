@@ -245,7 +245,7 @@ stets betrunken
 
 
 #Inventar
-10kg Biolumiscent Chitinstreifen  
+8kg Biolumiscent Chitinstreifen  (Meisterhaft, 15)
 20Liter Bier
 ##Waffen
 Fobifscher Amtshammer von Eisenbach  (Symbole: Fobif, Eisenbach) (Ynteus-Protection), gibt -3 auf Defensive
@@ -347,3 +347,4 @@ Kritische Anwendung 1
 
 
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
+
