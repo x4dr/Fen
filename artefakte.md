@@ -5,7 +5,7 @@ tags:
 
 ### Lichtplattenboot
 20/20/25
-Einblick Wurf * 2.4 Stunden betrieb pro 10 Ladungen
+Einblick Wurf * 2.4 Stunden, kostet eine Ladung
 
 ### Münze der Unterwelt Avis 
 Münze nach der Diebesgilde erhalten,  
