@@ -3,12 +3,16 @@ tags:
 [TOC]
 ## allgemeinparty   
 
-###Münze der Unterwelt Avis 
+### Lichtplattenboot
+20/20/25
+Einblick Wurf * 2.4 Stunden betrieb pro 10 Ladungen
+
+### Münze der Unterwelt Avis 
 Münze nach der Diebesgilde erhalten,  
 kann tod verhindern/jemnden zurückbringen  
 Hat unkontroliert vibriert
 
-###Vogelschädel des Puppenmeisters  
+### Vogelschädel des Puppenmeisters  
 kontrolliert vielleicht Vögel?
 
 ### amulett 1 (Talus)
