@@ -1,7 +1,6 @@
 title:   
 tags:   
 
-
-specific:npc:karoni marzanna
+[specific:npc:karoni marzanna]
 
 The Boysssss
