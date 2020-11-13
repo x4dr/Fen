@@ -502,7 +502,7 @@ A 12: sehr gute Wärmesicht (3 Bonuswürfel für relevante Wahrnehmnung)
 A 16: perfekte Wärmesicht (Autoerfolg)
 
 
-## Höhlenspinnengift
+## Drachenpfeffer
 
 A 0: überwältigende Schärfe
 A 5: brennender Funkenatem und leuchtende Augen, Alle Gebräueffekte innerhalb von 5 Runden
