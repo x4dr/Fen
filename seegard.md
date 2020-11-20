@@ -12,6 +12,41 @@ Da aber nicht aller Reichtum dieser Stadt nur in den Händen der Herrschenden li
 
 Nach dem Tod [Nysgaris](nysgaris)' zeigten sich allerdings Risse in ihrem Plan. Keine Partei ist stark genug um zu regieren, die Stadt selbst zu stark um von außen erobert zu werden, so sehr sie doch richtungslos vor sich hin mäandert und eine Partei nach der anderen erstarkt, Anspruch auf den Thron erhebt und schließlich untergraben und entmachtet wird. Weiterhin ist das Königreich noch um mehrere Millionen Goldmünzen verschuldet, was ein Problem ist von dem vielerseits erwartet wird, das ein wahrer Nachfolger [Nysgaris](nysgaris)' es löst.
 
+###Parteien
+
+#### Die Glänzenden
+
+Ordenshochmeister Ardos ist nach den bestehenden Diplomatischen Verträgen der Ranghöhste und hat das schlagkräftigste Militär und Tempel in den meisten Siedlungen
+
+#### Jacun
+
+Der reichste Bewohner Seegards, der es als Mensch geschafft hat, reicher als alle Aurier zu werden.
+
+#### Die Flotte
+
+Mit ihrem de-facto besitzer Admiral Nyored.
+
+#### Die Händler
+
+Der Anführer der Händlergilde Tohrun, erhebt Anspruch auf den Thron der größten bekannten Handelsstadt, unterstützt aber zur Zeit den Admiral
+
+#### Die Abenteurergilde
+
+Mathilda, als ehemals stellvertretende Leiterin der Abenteurergilde, hat sie nun in ihrem Besitz und sieht sich als vormaliges Mitglied von Nysgaris engerem Kreis und ihr direkter Nachfolger als Besitzerin der Abenteurergilde dazu gezwungen zu Versuchen Nysgaris Pläne und Überzeugungen gegen die anderen Anwärter umzusetzen.
+Tani, deren Waisenhaus unabhängig ist, hat sich Mathilda angeschlossen.
+
+#### Nurako und Worograd
+
+Die Stadthalter der nächstgelegenen Städte müssen ihre eigenen Ziele, die Stabilität des Königreiches und Nysgaris Ziele abwägen bevor sie Entscheidungen treffen, aber bilden einen gemeinsamen Block.
+
+#### Limasu 
+
+Die Beiden Stadhalter dieser Stadt der Magie, unterstützen General Rison, als fähigen vertrauenswürden und Ehrenvollen Aurier der alten Schule, der stark und schlau genug ist um die kommenden Probleme zu lösen und Limasu ihre einstige Freiheit zurückzugeben.
+
+#### Trarora
+
+Das ferne Trarora unterstützt die legitimen Ansprüche von Baron Iamal als rechtmäßigen Nachfolger Nysgaris' da Nysgaris einen größeren gefallen ausgeprochen hat, der noch nicht eingelöst wurde und Iamal Trarora großzügig unterstützt.
+
 ## Geographie
 
 Seegard liegt auf beiden Seiten der eingefassten Bucht der Mündung des Flusses Patok ins [aurische Meer](aurisches meer). 
