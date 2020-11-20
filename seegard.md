@@ -24,7 +24,7 @@ Der reichste Bewohner Seegards, der es als Mensch geschafft hat, reicher als all
 
 #### Die Flotte
 
-Mit ihrem de-facto besitzer Admiral Nyored.
+Mit ihrem de-facto besitzer Admiral Nyored, hat die Unterstützng der meisten lokalen Aurischen Häuser und individuen, was allerdings nicht mehr allein reicht um die Stadt zu kontrollieren
 
 #### Die Händler
 
@@ -41,11 +41,11 @@ Die Stadthalter der nächstgelegenen Städte müssen ihre eigenen Ziele, die Sta
 
 #### Limasu 
 
-Die Beiden Stadhalter dieser Stadt der Magie, unterstützen General Rison, als fähigen vertrauenswürden und Ehrenvollen Aurier der alten Schule, der stark und schlau genug ist um die kommenden Probleme zu lösen und Limasu ihre einstige Freiheit zurückzugeben.
+Die Beiden Stadhalter dieser Stadt der Magie, unterstützen General Rison, als fähigen vertrauenswürden und Ehrenvollen Aurier der alten Schule, der stark und schlau genug ist um die kommenden Probleme zu lösen und Limasu ihre einstige Freiheit zurückzugeben. Durch Risons taten in der Vergangenheit hat er den Respekt der Aurier gewonnen, die nich Nyored unterstützen und ist damit ein legitimer Anwärter.
 
 #### Trarora
 
-Das ferne Trarora unterstützt die legitimen Ansprüche von Baron Iamal als rechtmäßigen Nachfolger Nysgaris' da Nysgaris einen größeren gefallen ausgeprochen hat, der noch nicht eingelöst wurde und Iamal Trarora großzügig unterstützt.
+Das ferne Trarora unterstützt die legitimen Ansprüche von Baron Iamal als rechtmäßigen Nachfolger Nysgaris' da Nysgaris einen größeren gefallen ausgeprochen hat, der noch nicht eingelöst wurde und Iamal Trarora großzügig unterstützt. Sie sind sich bewusst, dass sie selbst keine großen Chancen haben Iamal auf den Thron zu bringen, aber kennen auch den Wert ihren politischen Gewichtes. Viele Menschen der Stadt sind sehr positiv gegenüber einem Kandidaten aus einfachem Hintergrund gestimmt.
 
 ## Geographie
 
