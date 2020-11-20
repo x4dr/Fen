@@ -230,28 +230,26 @@ Herz des Waldes x2
 
 ## Nysgaris-Erbstücke
 ### Zauberstab 
-(17)
-* richtiger Gedanke löst es aus
-* 15 magie / runde
-* Gedankenkontrolle
-* kein eignes magiereservoir
+* Große Magie Kosten
+* GedanklicheÖffnung Symmetrie  
+* Geordnete Magie   
+
 ### Auge
-(8)
-* zur Benutzung ist Blutkontakt notwendig
+* Weiterhin Mysteriös
+* zur Benutzung ist Blutkontakt notwendig  
+
 ### Halskette 
-(11)
-* Gedacht für durchfluss großer Mengen Magie
+* Verhindert Magic-Burn-Out durch zu große Energiemenge 
+
 ### Schlüssel 
-(10)
-* öffnet etwas (magisch)
-* metaphysisch / sychisch
+* Accesses Magic (Einblick Wurf &times; 10 %Efficiency) 
+* 1-Resonanz &times; Benutzungen in der letzten Stune = Permanent Existence Damage
+ 
 ### Anhänger (Pyramidenförmig) 
-(12)
-* kein Magiereservoir
-* telepathie
+Zielgerichtete Telepathie ohne empfänger auf der anderen Seite
+
 ### Waage
-(6)
-* wenn aktiviert kommt da magische energie raus
+große Mengen Magie vs schlechte Konsequenzen
 
 ## Argyrisches Loot
 
