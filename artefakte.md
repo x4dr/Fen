@@ -3,6 +3,11 @@ tags:
 [TOC]
 ## allgemeinparty   
 
+### Schicksalspochen 
+0/50/50
+Bei Resonanz kann die Ladung ausgegeben werden um 11-Resonanz Würfel zu erhalten die im Rest der Szene in beliebige Würfe eingesetzt werden können. 
+
+
 ### Lichtplattenboot
 20/20/25
 Einblick Wurf * 2.4 Stunden, kostet eine Ladung
