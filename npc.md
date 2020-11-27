@@ -123,6 +123,9 @@ Hochmeister der Glänzenden Ritter
 ### Feros
 Landmeister der Glänzenden Ritter eingeteilt für Eisenbach
 
+### Lukidos
+Landmeister der Glänzenden Ritter eingeteilt für Seegard
+
 ### Uskin
 Nachtpatroullie in der Nähe von Tantor. Anti Gaius
 
