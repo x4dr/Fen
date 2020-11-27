@@ -35,7 +35,7 @@ Aurierschild 4
 ##Allgemeine Erscheinung  
 noch einzutragen
 ##Besonderheiten  
-stets betrunken
+stets betrunken, 3 Gunstpunkte Fobif
 ##Hintergrund  
 ???
 ##Wunden
