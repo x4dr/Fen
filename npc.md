@@ -146,3 +146,6 @@ Stahlmeister Schmied in Yomkar, freund des Talus
 
 ### Cernak
 Culbards Kontakt in Ormnar
+
+### Kelgarik
+Aurischer Hauptmann der Stadtwache von Seegard
