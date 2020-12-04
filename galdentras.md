@@ -39,9 +39,10 @@ stets betrunken, 3 Gunstpunkte Fobif
 ##Hintergrund  
 ???
 ##Wunden
-14 (SCHW:5),
+8 Armbrust, 7 Dolch, 6 Explosion
 
 (Pool:0 Punkte)
+
 
 
 
