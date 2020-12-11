@@ -39,9 +39,10 @@ stets betrunken, 3 Gunstpunkte Fobif
 ##Hintergrund  
 ???
 ##Wunden
-8 Armbrust, 7 Dolch, 6 Explosion
+8 Armbrust, 4 Dolch
 
-(Pool:0 Punkte)
+(Pool:9 Punkte)
+ 48/60
 
 
 
