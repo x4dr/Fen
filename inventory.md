@@ -1,6 +1,5 @@
 title: Gruppeninventar  
 tags: items  
-
 ###Eisenbach 3000 EW
 
 1 Satz extrem harte Holzknochen vom Fichtenschwein  
@@ -49,24 +48,4 @@ Söldner 25 (wilderer-banditen)
 |Bronze Barren|19|1,00 kg|19,00 kg|3S|
 |Serisem-Legierung|40|0,10 kg|4,00 kg|
 
-###Gruppengeld
-
-|Goldmenge|Grund|
-|:--|---:|
-|+36,3|Verkauf v. Gambeson|
-|-2,83G|Rüstungsreparatur|
-|-6G|Sindgunth|
-|-2G/y|Kutscher|
-|1,19G|3-Brüder-Loot|
-|29G|Spiegelloot|
-|1201G|Limasu-Belohnung|
-|-50G|Bäern-Auszahlung|
-|-30G|Schmiedebuch|
-|-100G|Holz fürs große Feuer|
-|-2,1G|Gambeson|
-|-50G|Anwalt|
-|-6,39G|Aufladung|
-|-0,6G|3 Sätze Winterräder und Beschläge
-|--------|---|
-
-1053,47G
+2 Kaesten Nachtlegionspulver
