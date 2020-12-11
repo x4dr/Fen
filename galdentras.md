@@ -42,7 +42,8 @@ stets betrunken, 3 Gunstpunkte Fobif
 5 Armbrust, 8 Armbrust, 7 Armbrust, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 3 Wutjadestern
 
 (Pool:-1 Punkte)
- 8/60
+ 5/60
+
 
 
 
