@@ -39,10 +39,11 @@ stets betrunken, 3 Gunstpunkte Fobif
 ##Hintergrund  
 ???
 ##Wunden
-5 Armbrust, 8 Armbrust, 7 Armbrust
+5 Armbrust, 8 Armbrust, 7 Armbrust, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert, 4 Kurzschwert
 
 (Pool:-1 Punkte)
- 40/60
+ 8/60
+
 
 
 
