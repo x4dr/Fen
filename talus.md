@@ -31,7 +31,7 @@ Reisen: 45kg
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
-Megatalus: Bein1 (3,1(6)1(9)3(8)3(4)) bein2 (1(9)3(4)4(6)) bein3 (1,2(9)) bein4 (1,3(9)) bein5 (2(9)) bein6 (2(9))
+Megatalus: Bein1 (3,1(6)1(9)3(8)3(4)) bein2 (1(9)3(4)4(6)1,1(6)) bein3 (1,2(9)) bein4 (1,3(9)) bein5 (2(9)) bein6 (2(9))
 Talus: 7(4) 1(4) 3(Avis' Mark, 9) (Repair Token Dubok)
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
