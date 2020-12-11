@@ -91,6 +91,8 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Beschützen|1|
 |Unbeeindruckt|1|
 |Berserkergang|1|
+|An des Todes Tür|1|
+|Tee mit Gevatter Tod|1|
 
 
 ###Nachteile
