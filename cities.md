@@ -38,11 +38,12 @@ Stadt im Schatten, ein paar Tage Nordöstlich des Passes aber ein gutes stück s
 Ein Mond und Tausen Sterne Himmel
 Alte Archivstadt, Holzbasiert, Heimat der Waldlegion
 
-
 ##Yonn
 Mondauge Himmel
 starke segregation zwischen oberstadt und understadt, gigantischer wasserfall, heimat der tag und nachtlegionen
 
+##Silath
+Abgrundhoher Himmel
 
 #Chaoslande
 ## Strittin 
