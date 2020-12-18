@@ -1,8 +1,16 @@
 title:   
 tags:   
-Die Königswahl
+[TOC]
 
-#Für Stahl
+# Das Königreich
+base income ~3000/month or 36000/year
+800: Taxbase Seegard (80% efficiency)
+800: Trade Seegard (50% efficiency)
+
+700: Tax rest of Prekor (10% efficiency)
+700: Trade rest of Prekor (10% )
+
+# Die Königswahl Für Stahl
 ## Nurako Worograd
  * Ende der Zeit überstehen
 
@@ -21,6 +29,12 @@ Die Königswahl
  * 10000 Truppen für den Thron dafür, dass Trarora keinen zwölft zahlt bis zum Ende der Zeit.
 
 
+## Jacun
+ * ermordet
+ * hatte an synkretisierung verschiedener magien herumgespielt
 
+## Flotte
+ * 500a pro monat für grundlegende instandhaltung
+ * further stuff to be discussed at a later date
 
 
