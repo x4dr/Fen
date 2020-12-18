@@ -37,4 +37,9 @@ base income ~3000/month or 36000/year
  * 500a pro monat für grundlegende instandhaltung
  * further stuff to be discussed at a later date
 
+## Handelsgilde
+ * Legislative (keine judikative) für gildenrelevante Aktivitäten (handel kartell legislative)
+ * bauen handel härter aus, steigern Seegard Trade stark und Prekor tax stark 
+ * senken trade efficiency slightly (mehr geld und macht für die händlergilde, mehr geld fürs königreich)
+
 
