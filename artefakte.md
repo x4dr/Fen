@@ -174,7 +174,7 @@ IN AVIS Säbel
 ### Wutjadestern
 * Einmal Täglich: Vorraussetzung: Wut, mit Gedanken aktivieren: Dauer: 2* Einblick@5 Runden
 * Bonuswürfel auf alle Handlungen die jemand anderem Schaden
-* 1 Schaden am ende für jeden Bonuswürfel der Gewährt wurde
+* 1 Schaden (gegen 5, alle auf eine Wunde) am Ende für jeden Bonuswürfel der Gewährt wurde
   
 ### Pazilazuli Talus
 (16)15  
