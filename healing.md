@@ -170,21 +170,9 @@ Wenn nach der Verrechnung mit Bonuswürfeln noch Maluswürfel angewendet werden 
 
 
 ##Amalkan
-Wenn genug Ersatzteile oder Reparaturteile und Zeit vorhanden sind, kann ein Reparaturwurf gemacht werden (Geschick,Metallverarbeitung), 1 Maluswürfel, wenn sich selbst repariert wird, Wissen(Amalkan) als Bonuswürfel. Eine Wunde benötigt ein Komplexität-[Wundschwierigkeit] Reparaturteil, 1 Stunde Arbeit und einen Wurf von [Wundgröße] um um 1 Reduziert zu werden. Nichterfolgreiche Würfe verschwenden Zeit. 
+Wenn genug [Ersatzteile oder Reparaturteile](crafting#atterkan ersatzteile) vorhanden sind, kann ein Reparaturwurf mit Geschick,Metallverarbeitung gemacht werden, 1 Maluswürfel, wenn sich selbst repariert wird, Wissen(Amalkan) als Bonuswürfel. Eine Wunde benötigt ein Komplexität [Wundschwierigkeit] Reparaturteil, 10 Minuten Arbeit (plus Transport der Teile) und einen Wurf von 5+[Wundgröße] um um 1 Reduziert zu werden. Nichterfolgreiche Würfe machen das Reparaturteil zu Schrott (Würfe können ignoriert werden, wenn stattdessen 3 Stunden aufgewand werden.) Erfolgreicher Austausch eines Teils liefert Schrott des selben Gewichts.
 
-Frequenz 1 Resonanz:
-
-|Amplitude|Effekt|  
-|:-|-|  
-|1 | Reparaturteile Schrott |  
-|2 | Wunde um 1 erhöht; wie bei 1 |  
-|3 | Wundschwierigkeit um 1 erhöht; wie bei 2|  
-|4 | Wundschwierigkeit wird 20; wie bei 3 |  
-
-Reparaturteile wiegen 1kg und benötigen in der [Schnellfertigung](artificing#schnellverarbeitung) 1 Stunde und einen Wurf von 5 + Zielkomplexität. 
-In der langsamen Verarbeitung Benötigen sie Aufwand 20+Zielkomplexität, Dauer von 3h, und haben eine Widrigkeit von 0, die jeden Wurf um 1 Steigt.  
-
-Ersatzteile wiegen 10 kg, werden hergestellt wie Reparaturteile der Komplexität 10 mit verdreifachter Dauer und sind in der Lage eine beliebige Wunde komplett zu heilen. Der Wurf benötigt stattdessen eine 5, um alles wieder richtig zu Verbinden.
+Ersatzteile schließen eine Wunde vollständig und benötigen stattdessen nur einen Wurf von 5, aber 12 Stunden Arbeit. 
 
 
 #Behandlung
