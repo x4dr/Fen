@@ -69,3 +69,5 @@ Durchbrüche können zwischen Charakteren übertragen werden, dabei zählt der �
 Grundlagensammlungen zählen als valides Dokument für alle Projekte in ihrem Feld. Eine Grundlagensammlung ist thematisch immer höchstens so breit wie eine Fähigkeit.
 
 Um eine Grundlagensammlung anzulegen wird für jede Stufe ein unterschiedliches Dokument im Feld der Grundlagensammlung benötigt. Die maximale Stufe ist die geringste Stufe aller beteiligten Dokumente.
+
+Um das wichtige Wissen zu filtern und die Dichte so zu erhöhen, dass die Grundlagensammlung nur etwa den selben Platz einnimt wie andere Dokumente ist ein Grundlagenforschungsprojekt notwendig. Notwenidge Durchbrüche sind 10+Stufe der Grundlagensammlung. Die Grundlagensammlung selbst muss noch einmal niedergeschrieben werden.
