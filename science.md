@@ -10,13 +10,18 @@ Um ein Forschungsprojekt zu starten, muss der Charakter dieses Projekt auswähle
 
 Durchbrüche zu einem Projekt werden erwirkt, wenn eine Zehnerresonanz von 2 oder mehr bei der Anwendung der relevanten Fähigkeit erzielt wird (es sei denn diese spezifische Anwendung wurde vor kurzem auf diese Weise schon einmal durchgeführt), relevante Erkenntnisse in der Welt errungen wurden oder Experimentation mit der Fähigkeit  betrieben wird. 
 
+
 ## Experimentation
 Um Durchbrüche zu erzielen, wird für jede volle Woche Experimentation Geist und die entsprechende Fähigkeit gewürfelt und das Ergebnis auf den aktuellen Forschungsfortschritt aufaddiert. 
 Jedesmal, wenn das Ergebnis 10+Zahl der Forschungswürfe seit Auswahl des Projektes + Durchbrüche übertrifft, wird der Forschungsfortschritt um den Schwellwert gesenkt und ein weiterer Durchbruch vermerkt. 
 
+## Dokumente
 ### Niederschreiben
-Das Ergebnis des Bildungs, Forschungswurfes ist die Qualität der Notiz, die Anzahl der Durchbrüche ist die Quantität. Die Quantität bestimmt die Ausmaße des Dokumentes und die Zeit es Niederzuschreiben.
-Mehrere Forscher können gemeinsam Niederschreiben, wenn sie die selbe Menge an Durchbrüchen haben. Das Ergebnis berechnet sich dann aus dem Durchschnitt ihrer Würfe und die Zeit teilt sich Gleichmäßig auf.
+Das Ergebnis des Bildungs, Forschungswurfes ist die Qualität des Dokuments, die Anzahl der Durchbrüche ist die Quantität. Die Quantität bestimmt die Ausmaße des Dokumentes und die Zeit es Niederzuschreiben.
+Mehrere Forscher können gemeinsam Niederschreiben, wenn sie die selbe Menge an Durchbrüchen haben. Das Ergebnis ist das niedrigste aller beteiligten Würfe und die Zeit teilt sich Gleichmäßig auf. Ein Wurf muss nicht eingebracht werden, aber beeinflusst die verbleibende Zeit nur, wenn er eingebracht wird.
+Ein Wurf ist für mindestens eine Woche und höchstens ein Jahr.
+
+Um 
 
 Die Notizen sind spezifisch für das Projekt und nicht übertragbar. Für alles weitere siehe Grundlagensammlung
 
@@ -39,7 +44,10 @@ Forschungsnotizen erlauben jemandem mit Bildung+Forschung Durchbrüche zu erlang
 
 Das Ergebnis des Bildungs, Forschungswurfes (modifiziert mit Bonus- oder Maluswürfeln, je nach Qualität des Materials) ist der Fortschritt der in einer Studiensitzung erzielt wurde.
 Die maximale Anzahl der Sitzungen ist gegeben durch die Quantität.
-Die Dauer einer Sitzung hat Einfluss auf weitere Würfe. Alle außer schnellem und langsamen Lesen müssen als Vorteile erlent werden.
+Die Dauer einer Sitzung hat Einfluss auf weitere Würfe. 
+
+
+Alle außer schnellem und langsamen Lesen müssen als Vorteile erlent werden.
 
 |Methode|Dauer|Effekt|
 |-|-|-|
@@ -52,3 +60,12 @@ Die Dauer einer Sitzung hat Einfluss auf weitere Würfe. Alle außer schnellem u
 
 Die Fortschritt wird aufaddiert und liefert, geteilt durch 15 (im Standardfall), Durchbrüche.
 Das Lesen einer spezifischen Quelle kann zu jedem Zeitpunkt verworfen und neu begonnen werden, durch diese Quelle erwirkte Durchbrüche sind in diesem Fall ebenfalls verworfen.
+
+### Didaktik
+Durchbrüche können zwischen Charakteren übertragen werden, dabei zählt der übertragende Charakter als Dokument mit Quantität seiner aktuellen Durchbrüche, Qualität 0 (negativ modifiziert von evtl sprachbarierren, positiv modifiziert von interpersoneller Synergie oder Didaktischen Vorteilen)
+
+### Grundlagensammlung
+
+Grundlagensammlungen zählen als valides Dokument für alle Projekte in ihrem Feld. Eine Grundlagensammlung ist thematisch immer höchstens so breit wie eine Fähigkeit.
+
+Um eine Grundlagensammlung anzulegen wird für jede Stufe ein unterschiedliches Dokument im Feld der Grundlagensammlung benötigt. Die maximale Stufe ist die geringste Stufe aller beteiligten Dokumente.
