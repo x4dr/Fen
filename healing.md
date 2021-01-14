@@ -170,7 +170,7 @@ Wenn nach der Verrechnung mit Bonuswürfeln noch Maluswürfel angewendet werden 
 
 
 ##Amalkan
-Wenn genug [Ersatzteile oder Reparaturteile](crafting#atterkan ersatzteile) vorhanden sind, kann ein Reparaturwurf mit Geschick,Metallverarbeitung gemacht werden, 1 Maluswürfel, wenn sich selbst repariert wird, Wissen(Amalkan) als Bonuswürfel. Eine Wunde benötigt ein Komplexität [Wundschwierigkeit] Reparaturteil, 10 Minuten Arbeit (plus Transport der Teile) und einen Wurf von 5+[Wundgröße] um um 1 Reduziert zu werden. Nichterfolgreiche Würfe machen das Reparaturteil zu Schrott (Würfe können ignoriert werden, wenn stattdessen 3 Stunden aufgewand werden.) Erfolgreicher Austausch eines Teils liefert Schrott des selben Gewichts.
+Wenn genug [Ersatzteile oder Reparaturteile](crafting#atterkan-ersatzteile) vorhanden sind, kann ein Reparaturwurf mit Geschick,Metallverarbeitung gemacht werden, 1 Maluswürfel, wenn sich selbst repariert wird, Wissen(Amalkan) als Bonuswürfel. Eine Wunde benötigt ein Komplexität [Wundschwierigkeit] Reparaturteil, 10 Minuten Arbeit (plus Transport der Teile) und einen Wurf von 5+[Wundgröße] um um 1 Reduziert zu werden. Nichterfolgreiche Würfe machen das Reparaturteil zu Schrott (Würfe können ignoriert werden, wenn stattdessen 3 Stunden aufgewand werden.) Erfolgreicher Austausch eines Teils liefert Schrott des selben Gewichts.
 
 Ersatzteile schließen eine Wunde vollständig und benötigen stattdessen nur einen Wurf von 5, aber 12 Stunden Arbeit. 
 
