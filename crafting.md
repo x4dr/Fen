@@ -43,11 +43,14 @@ Titan Erz oder Schrott senkt das Ergebnis um eine Kategorie
 
 Das Ergebnis sind Verarbeitungsfertige Barren. Der einzige andere Verlust der auftreten kann ist wenn diese Barren zu Schrott werden. Alle gegenstände die nahezu ausschließlich aus dem Metall bestehen können als Schrott verarbeitet werden. 
 
-###Atterkan Ersatzteile
+###Amalkan Ersatzteile
+Anforderung: Schmiede Größe 1 Qualität 2
+
 
 ####Reparaturteil
 Material: 1kg beliebiges Metall 
 Dauer: 1h
+Bonuswürfel bei Qualität [3,4,5]
 
 |Ergebnis | Konversion |
 |-|-|
@@ -63,12 +66,22 @@ Material: 10kg beliebiges Metall
 Dauer: 4h
 Aufwand: 30
 Widrigkeit: +4h verarbeitungszeit (4,8,12)
+Bonuswürfel bei Größe [3,4,5]
 
 1 Resonanz 1: Fortschritt halbiert
 mehr als 1: Teil Schrott
 
 10 Resonanz 1: Fortschritt +10
 mehr als 1: Teil Fertig
+
+####Reparatur an der Schmiede
+Material: 1kg beliebiges Metall pro Schadenspunkt der Wunde
+Dauer: Schadenspunkte Stunden 
+
+Es 3 Würfe gemacht. Für 1 kg des Metalls (die zu Schrott werden) und 1h können weitere Würfe gemacht werden.
+Wenn der Durchschnitt der letzten 3 Würfe größer oder gleich 5+Wundschwierigkeit ist, ist die gesamte Wunde geheilt. 
+
+Output: 1kg Schrott pro Input
 
 ##Holz
 
