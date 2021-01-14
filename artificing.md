@@ -3,33 +3,16 @@ tags:
 [TOC]
 
 #Herstellung
-##Schritt eins: Materialien 
-
-Spezifisch nach dem Projekt müssen die entsprechenden Materialien herangeschafft werden
-
-Beispiele:
-
-* Kurzschwert: 0.8 kg Metall, 0.1 kg Griffmaterial (Holz/Knochen/usw)
-* Langschwert: 1.2 kg Metall, 0.1 kg Griffmaterial 
-* großer Rundschild: 2 kg Bretter, 0.5 kg Metall
-
-usw (liste sollte in eigenem artikel fortgesetzt werden)
-
-##Schritt zwei: Fähigkeiten
+##Plan
+Die Details über das Projekt kommen von einem Plan, der entweder in jemandes Kopf oder auf irgendwo aufgeschrieben [existiert](crafting). Vielleicht muss er auch erst [erforscht](science) werden.
 
 
-Der Werkstoff  bestimmt die Fähigkeit die genutzt wird (Holz/Metall/Textil/Konstruktion). Wenn es eine Komplexe tätigkeit ist, wird die entsprechende Handwerkstätigkeit genutzt. 
-Wenn es mehrere große Anteile gibt, werden diese in unterschiedliche Unteraufgaben aufgeteilt.
+Der Plan detailliert welche Vorraussetzungen, Materialien und Fähigkeiten benötigt werden, wann welche Würfe gemacht werden und wie die Ergebnisse skalieren.
 
-Je nach Komplexität und Schwierigkeit des Projektes sind unterschiedliche Level an vorteilen notwendig/empfehlenswert.
+## Werkzeug
 
-
-##Schritt drei: Werkzeug
-
-Projektanforderungen unterscheiden sich je nach Projekt.
-Kleine, tragbare Sets bieten normalerweise nur recht kleine Mengen an Werkzeugen und Boni, während eine permanente, gut ausgestatte Werkstatt wesentlich mehr bietet.
-
-Je nach vorhandenem Werkzeug passt der Spielleiter die Parameter an.
+Anforderungen unterscheiden sich je nach Projekt.
+Kleine, tragbare Sets bieten normalerweise nur recht kleine Mengen an Werkzeugen, während eine permanente, gut ausgestatte Werkstatt wesentlich mehr bietet.
 
 Wenn die Verarbeitung einfach genug ist kann auch eine Schnellverarbeitung angesagt werden, bei der es nur einen Wurf gibt, wenn die entsprechenden Vorraussetzungen erfüllt und die Vorteile vorhanden sind.
 
@@ -46,63 +29,27 @@ Wenn die Verarbeitung einfach genug ist kann auch eine Schnellverarbeitung anges
 
 
 
-Qualität nimmt bei 1er Resonanz von 2 oder mehr um 1 ab, Resonanz von 1 erfordert Instandhaltung.
+Qualität der Werkstatt nimmt bei 1er Resonanz von 2 oder mehr um 1 ab, Resonanz von 1 erfordert Instandhaltung.
 
-Größe nimmt nicht ab, aber eventuell muss Ausstattung repariert werden
+Größe nimmt nicht ab, aber eventuell muss Ausstattung repariert werden.
 
-### Projektparameter
-
-##### Aufwand
-
-Ist die Gesamtzahl die erreicht werden muss.
-
-##### Komplexität
-
-Ist die Anzahl der Maluswürfel auf den Wurf. Negiert durch entsprechendes Werkzeug und Vorteile.
-
-##### Anforderungen
-
-Werkzeug/Werkstätten Anforderungen
-
-##### Möglichkeiten
-
-Für welche dinge es Bonuswürfel geben kann
-
-##### Intervall
-
-alle wieviel Arbeitsstunden ein Wurf gewürfelt wird.
-
-##### Widrigkeit
-
-wird zwischen zwei Intervallen vom Projektfortschritt abgezogen
-
-##### Effekte
-
-Entweder feste, gewählte oder ausgewürfelte effekte für jedes Intervall
-
-
-
-## Schritt Vier: Verarbeitung
-
-### Schnellverarbeitung
-
-Bei Schnellverarbeitung wird der entsprechende Wurf einmal gewürfelt.
 
 | Ergebnis | Qualität | zB Effizienz Rückgewinnung|   
 |---:|---:|---:|  
-|1 | Katastrophe |
+|1 | Katastrophe | |
 |2-4|Schrott|0%|  
 |5-7|Niedrige Qualität|33%|  
 |8-10|Akzeptable Qualität|50%|  
 |11-13|Gute Qualität|66%|  
 |14-16|Hohe Qualtiät|75%|    
-|17-19|Meisterarbeit|95%|  
+|17-19|Meisterwerk|95%|  
 |20|Perfektion|100%|  
 
 ####Serienverarbeitung
 
 Vor allem für Projekte die einfach sind oder der Charakter zuvor schon mehrfach unternommen hat, kann Serienverarbeitung angebracht sein. Serienverarbeitung funktioniert explizit nur mit kleinen Projekten.
-Bei Serienschnellverarbeitung wird eine Zeitspanne von einem Tag bis zu einer Woche und die entsprechenden Arbeitszeiten festgelegt, für die dann drei Würfe gemacht werden. Im Austausch für jeweils die normalen Kosten an Materialien und doppelte Zeitkosten eines normalen Verarbeitungsschrittes, kann ein weiterer Wurf gemacht werden. 
+
+Bei Serienverarbeitung wird eine Zeitspanne von einem Tag bis zu einer Woche und die entsprechenden Arbeitszeiten festgelegt, für die dann drei Würfe gemacht werden. Im Austausch für jeweils die normalen Kosten an Materialien und doppelte Zeitkosten eines normalen Verarbeitungsschrittes, kann ein weiterer Wurf gemacht werden. 
 Als Ergebnis gilt der Durchschnitt der letzten 3 Würfe.
 Die für die zusätzlichen Würfe aufgewendeten Materialien werden "geopfert" um einige Schritte die dem Verarbeiter als potentiell Fehlerhaft aufgefallen sind nachzuarbeiten und gehen verloren/werden zu Schrott. 
 
@@ -110,59 +57,6 @@ Die für die zusätzlichen Würfe aufgewendeten Materialien werden "geopfert" um
 Dieser Vorteil kann ab Stufe 2 eines Handwerks für dieses Handwerk erworben werden, mit einem Monat (4 Maximaldauern) zusammenhängender Praxis in der Serienverarbeitung.
 Einer der 3 letzten Würfe bei der Serienverarbeitung darf ignoriert werden, der Durchschnitt errechnet sich also aus den besten 3 der letzten 4 Würfe.
 
-
-### Projektverarbeitung
-
-Einmal pro abgeschlossenes Zeitnterval wird der entsprechende Wurf des Projektes gewürfelt und das Ergebnis wird auf den erreichten Fortschritt addiert.  
-
-Wenn der benötigte Aufwand erreicht wurde, kann der Charakter sich entscheiden das Projekt zu beenden oder das Level zu erhöhen, wenn das Projekt dies vorsieht.  
-
-Effekte des Levelerhöhens sind Projektspezifisch.
-
-Wenn der Fortschritt zu irgend einem Zeitpunkt unter 0 ist, scheitert das Projekt und die Materialien sind vergeudet oder Schrott.
-
-1er Resonanz
-
-|Amplitude|Effekt|
-|-|-|
-|1|Werkzeug verliert 1 Zustandslevel, Fortschritt halbiert|
-|2|Werkzeug verliert 3 Zustandslevel, Fortschritt = 0|
-|3|Werkzeug zerstört, Werkstück vernichtet|
-|4|Werkstatt verliert 1 Level, dann wie 3|
-
-10er Resonanz
-
-|Amplitude|Effekt|
-|-|-|
-|1|Fortschritt + 1|
-|2|Fortschritt + 33% des Maximums  |
-|3|Direktes Qualitätslevel, Widrigkeit Zurückgesetzt|
-|4|Entweder Legendärer Gegenstand oder |
-||Permanent Option auf 15 (vor dem Würfeln) bei der Schnellverarbeitung|
-
-
-
-
-Schrottrückgewinnung ist je nach material ein eigenes Projekt
-Mengen sind immer  beliebig, solange genügend Parallelisiert werden kann und normalerweise Kompetenz-Metallverarbeitung.
-
-Bronze: Komplexität 3(Metallgewinnung) es wird immer 100% Zurückgewonnen, Wurf ist für Resonanz relevant.  
-
-Holz: Komplexität 6 Geist, holzverarbeitung,Geschick endergebnis +-2 je nach holz und schrottquelle )
-
-###Beispiel Stahl und Eisen
-Stahl und Eisen geben den selben Schrott, Analog zu 100% Erz.
-Schrott -> Luppe: Komplexität 5 (Metallgewinnung) Größe 3, Qualität 3, BonusMaterial 1:1 Kohle, Dauer 6h.
-Vorteil Metallgewinnung:Großrennofen:
-Bei 50 kg 1 Bonuswürfel.
-Verlust ist 90% wertloses, nicht schmiedbares Gusseisen.
-Luppe -> Eisen: Komplexität 1(Metallgewinnung), Größe 1, Qualität 1, Kraft-Metallverarbeitung, Dauer 3h pro kg
-Verlust 0, Qualität beschränkt weiteres arbeiten.
-
-Eisen -> Stahl: Komplexität 3(Stahlmetallurgie), Größe 4, Qualität 3, Kompetenz-Metallverarbeitung. Dauer 3h pro kg. 
-Verlust 0, Qualität beschränkt weiteres arbeiten
-
-[Vorteilsidee: ergebnis +1 bei rückgewinnung von [MATERIAL](max 3 stufen)]
 
   
 
