@@ -1,0 +1,50 @@
+title: Wissenschaft  
+tags:   
+
+#Das finden von Wissen
+Zauber, Baupläne und ähnliches werden entweder aus Büchern oder von anderen gelernt, oder erforscht.
+## Lernen
+Wissen über einen Zauber/Plan/ähnliches kann innerhalb von normalerweise 2 Wochen vermittelt werden. Spezielle umstände können diesen Wert stark beeinflussen.
+
+## Forschung
+Um ein Forschungsprojekt zu starten, muss der Charakter dieses Forschungsprojekt starten. Ein Charakter kann nur ein Forschungsprojekt gleichzeitig aktiv haben, um ein weiteres zu beginnen, muss das alte aufgegeben werden, Durchbrüche gehen dabei verloren.
+Ein Weg um Durchbrüche zu erhalten, ist sie aufzuschreiben, dabei müssen mit Bildung und Forschung Forschungsnotizen in form eines Dokumentes angefertigt werden. 
+
+### Niederschreiben
+Das Ergebnis des Bildungs, Forschungswurfes ist die Qualität der Notiz, die Anzahl der Durchbrüche ist die Quantität. Die Quantität bestimmt die Ausmaße des Dokumentes und die Zeit es Niederzuschreiben.
+Mehrere Forscher können gemeinsam Niederschreiben, wenn sie die selbe Menge an Durchbrüchen haben. Das Ergebnis berechnet sich dann aus dem Durchschnitt ihrer Würfe und die Zeit teilt sich Gleichmäßig auf.
+
+Die Notizen sind spezifisch für das Projekt und nicht übertragbar. Für alles weitere siehe Grundlagensammlung
+
+|Quantität|Ausmaße| Zeit |
+|-|-|-|
+|1| Zettel | 1 Stunde |
+|2| Zettelsammlung | 8 Stunden |
+|3| Stapel | 3x8Stunden |
+|6| Buch| 2 Wochen |
+|10| Foliant (5kg+)| 5 Jahre |
+|15| Bücherregal| 200 Jahre|
+|20| Bibliothek| 1000Jahre |
+|25| große Bibliothek | 15000jahre |
+|30| Gebäude | 50000 Jahre |
+
+Qualität ist (Ergebnis des Wurfes - 11)/2, dies sind Bonus bzw Maluswürfel beim Lesen der Notizen.
+
+### Lesen
+Forschungsnotizen erlauben jemandem mit Bildung+Forschung Durchbrüche zu erlangen. Multiple Forschungsnotizen können genutzt werden, wenn sie unterschiedliches Wissen relativ zueinander beinhalten, aber das selbe Projekt betreffen und die nutzbare Quantität aller weiteren Notizen sinkt um die Hälfte der aktiven Durchbrüche (gerundet am Ende).
+
+Das Ergebnis des Bildungs, Forschungswurfes (modifiziert mit Bonus- oder Maluswürfeln, je nach Qualität des Materials) ist der Fortschritt der in einer Studiensitzung erzielt wurde.
+Die maximale Anzahl der Sitzungen ist gegeben durch die Quantität.
+Die Dauer einer Sitzung hat Einfluss auf weitere Würfe.
+
+|Methode|Dauer|Effekt|
+|-|-|-|
+| Überfliegen (Vorteil)| 5 minuten | -5 auf weitere Würfe, kumulativ|
+| Schnelles Lesen | 3 Stunden | -2 auf weitere Würfe, kumulativ |
+| Langsames Lesen | 8 Stunden | -1 auf weitere Würfe, kumulativ |
+| Schnelles Studium | 3 Tage | -3 auf alle Würfe |
+| Studium | 1 Woche | |
+| Detailliertes Studium | 1 Monat | +1 auf alle Würfe |
+
+Die Fortschritt wird aufaddiert und liefert, geteilt durch 15 (im Standardfall), Durchbrüche.
+Das Lesen einer spezifischen Quelle kann zu jedem Zeitpunkt verworfen und neu begonnen werden, durch diese Quelle erwirkte Durchbrüche sind in diesem Fall ebenfalls verworfen.
