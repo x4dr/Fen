@@ -357,6 +357,9 @@ Kritische Anwendung 3
 Unbewaffnet
 Kritische Anwendung 1
 
+Mykisch
+1 Versagen
 
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
+
 
