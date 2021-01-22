@@ -336,6 +336,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |verschlüsselte Alchemistenschriftstücke aus den Höhlen Tantors||||
 |Rezept: Duboker Silberspiegel|1	|||
 |Inspiration für Rezept: Stabilisierte Kälte|1|||
+|Muster: Reaktionär||||
 |Gesamt||||
 
 ##Zwischengelagert
