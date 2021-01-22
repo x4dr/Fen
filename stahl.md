@@ -183,7 +183,7 @@ tags: Character Swordlad character
 |Strategie|TTMTL|
 |Taktik|TTTLK|
 |Navigation|PPPPK|
-|BerufAdministrator|P[Eisenbach. Worograd, Trarora]MV|
+|BerufAdministrator|P[Eisenbach. Worograd, Trarora, Seegard]MV|
 |Diplomatie|K|
 |Handel|TL|
 |Rhetorik|K[Eisenbach]
