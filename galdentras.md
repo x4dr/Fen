@@ -209,10 +209,12 @@ stets betrunken, 3 Gunstpunkte Fobif
 |-|-|
 |Ignis|1|  
 |Brennende Waffe|1|
+|Gleißende Berührung|1|
 |Frigidus|1|  
 |Frostwaffe|1|
 |Rage|1|
 |Ruhe|1|
+|Schmerz|1|
 
 ###Vorteile
 |Vorteil|Name|
