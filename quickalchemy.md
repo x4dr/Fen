@@ -79,7 +79,7 @@ Zusätzliche Dauer.
 **Materialkomponenten**: kleiner Ziehstein (10g)  
 **Zauberzeit**: 3 Runden  
   
-Eine **Ladung** pro 4 Energie.  
+Eine **Ladung** pro 4 Energie auf der Hand.  
 Ziehstein wird geworfen, von ihm aus spring ein Blitz auf das nächstgelegene Metallene Objekt. 
   
 Von da aus wird das nächstgelegene Ziel ausgesucht. Es erhält einen Schlag und erleidet **Ladung**+(**Wurf**-8) Schaden. Dann geht eine Ladung verloren. Wiederhole bis Ladung kleiner 0 ist. Es wird soweit möglich immer ein weitere Ziel angesprungen, bevorzugt entlang von metallenen Gegenständen, ansonsten Luftlinie bei Entfernungen über 20 Metern durch Luft geht eine Ladung im Transit verloren und löst 1 Feedback aus. Ziele werden nicht zweimal getroffen. Wenn sich keine Ziele mehr in Reichweite aufhalten, 1 Rückkopplung pro übriger Ladung.
