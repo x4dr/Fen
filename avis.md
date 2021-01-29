@@ -113,7 +113,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Aspekt|Level|
 |:---|----:|  
 |Wetter|3|  
-|Verzerrung|2|  
+|Verzerrung|3|  
 
 ###Forma  
 |Forma|Level|  
