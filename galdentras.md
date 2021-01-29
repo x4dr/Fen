@@ -343,10 +343,7 @@ Inspiration
 Begegnung 
 1 groß 1 klein
 
-Hammer 2->3
-Versagen 1
-Kritische Anwendung 1
-3 Monate
+
 
 Fobif
 Kritische Anwendung 3
@@ -355,14 +352,13 @@ Kritische Anwendung 3
 1 Punkt Bonus
 1 Punkt Chaos
 
-Unbewaffnet
-Kritische Anwendung 1
-3 Monate Training
+
 
 Mykisch
 1 Versagen
 
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
+
 
 
 
