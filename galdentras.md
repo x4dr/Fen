@@ -129,7 +129,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Schnapsbrennen |_2|
 |HandwerkTextil|1|
 |HandwerkQuart|3|
-|Logistik|_3|
+|Logistik|3|
 
 ###Acquise
 |SKill|Wert|
