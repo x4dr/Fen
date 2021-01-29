@@ -298,8 +298,7 @@ Quelle
 1 Drachenpfefferschnaps
 
 Aspekt Feuer
-Training 10 Tage
-Training 10 Wochen
+Training 3
 Lehrer auf 4: 1
 
 
@@ -370,6 +369,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
