@@ -346,6 +346,7 @@ Begegnung
 Hammer 2->3
 Versagen 1
 Kritische Anwendung 1
+3 Monate
 
 Fobif
 Kritische Anwendung 3
@@ -356,10 +357,12 @@ Kritische Anwendung 3
 
 Unbewaffnet
 Kritische Anwendung 1
+3 Monate Training
 
 Mykisch
 1 Versagen
 
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
+
 
 
