@@ -207,12 +207,12 @@ stets betrunken, 3 Gunstpunkte Fobif
 ###Zauber
 |Zauber|
 |-|-|
-|Ignis||  
-|Brennende Waffe||
-|Frigidus||  
-|Frostwaffe||
-|Rage||
-|Ruhe||
+|Ignis|1|  
+|Brennende Waffe|1|
+|Frigidus|1|  
+|Frostwaffe|1|
+|Rage|1|
+|Ruhe|1|
 
 ###Vorteile
 |Vorteil|Name|
