@@ -353,6 +353,9 @@ Kritische Anwendung 3
 1 Punkt Bonus
 1 Punkt Chaos
 
+Wille
+Perspektive (Etoro, Piraten)
+Praxis 3 monate
 
 
 Mykisch
@@ -365,5 +368,6 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
