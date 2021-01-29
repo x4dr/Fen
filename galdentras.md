@@ -357,6 +357,7 @@ Kritische Anwendung 3
 Wille
 Perspektive (Etoro, Piraten)
 Praxis 3 monate
+Folter 2
 
 
 Mykisch
@@ -369,6 +370,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
