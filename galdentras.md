@@ -361,5 +361,9 @@ Mykisch
 Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (Argyrier Nurako)
 
 
+Perspektiven: 
+Hammer (Nixiko, Piraten, Stadtwache)
+Schild (Nixiko, Piraten, Stadtwache)
+Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
 
 
