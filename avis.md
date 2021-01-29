@@ -107,7 +107,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Konzepte|Level|  
 |:---|----:|  
 |Worte der Macht|5|  
-|Verbiegung der Wirklichkeit|1|  
+|Verbiegung der Wirklichkeit|2|  
 
 ###Aspekte  
 |Aspekt|Level|
@@ -120,9 +120,10 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |:---|----:|  
 |Lux|4|  
 |Ignes|4|  
-|Impello|3|  
+|Impello|4|  
+|Fulgur|4|  
 |persona|3|  
-|Fulgur|3|  
+|nimis|2|
 |sisto|2|  
 |meta|2|  
 |Disruptio|2|
