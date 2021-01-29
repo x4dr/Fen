@@ -149,3 +149,6 @@ Culbards Kontakt in Ormnar
 
 ### Kelgarik
 Aurischer Hauptmann der Stadtwache von Seegard
+
+### Czarodji
+Rauchmagier der Rauchflotte
