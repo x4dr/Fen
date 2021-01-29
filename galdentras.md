@@ -79,16 +79,17 @@ stets betrunken, 3 Gunstpunkte Fobif
 ###Fähigkeiten  
 |Fähigkeit|Level|
 |-|-|
-|Unbewaffnet | 2 |
+|Unbewaffnet | 3 |
 |Zechen| 2 |
 |Rennen| 2 |
 |Schwerathletik|2|
 |Klettern| 2|
 |Takelage| _1|
-|Hammer| 2 |
+|Hammer| 3 |
 |Schleuder| 2 |
-|Schild| 1|
-|Survival| 2 |    
+|Schild| 2|
+|Survival| 2 |
+|Schwimmen|1|    
     
 ###Vorteile  
 |Vorteil|Name|
