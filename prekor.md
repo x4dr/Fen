@@ -16,11 +16,25 @@ tags:
 | Trarora   | 65000  |  8410   |      8.3%     |   5    | 12          |  0           | 12      | 14297a |  1192a |
 | Limasu    | 70000  |  8790   |      8.3%     |   3    |  8          |  0           | 15      |  9669a |   806a |
 | Worograd  | 18300  |  2300   |      33%      |   2    |  4          |  0           |  8      |  1380a |   456a |
+| Glanzburg | 40000  |  5000   |      8.3%     |   3    |  4          |  0           | 16      |  3500a |   292a |
 | Eisenbach |  2700  |   332   |     100%      |   1    |  2          |  0           | 18      |   100a |   100a |
 |Stille Stadt|10000  |  1250   |      0%       |   2    |  1          |  0           |  0      |   375a |     0s |
 | Unnamed   | 10000  |  1325   |      8.3%     |   1    |  1          |  0           |  0      |   265a |    22a | 
 | Unnamed   | 10000  |  1325   |      8.3%     |   1    |  1          |  0           |  0      |   265a |    22a | 
-| Gesamt    |301050  | 31182   |               |        |             |              |         | 48496a | 19586a |
+
+
+
+
+#
+##
+##
+#
+#
+#
+#####
+########
+
+
 
 Landbevölkerung ist mit mindestens dem zwöft des zwölft besteuert (0.7%)
 
@@ -58,6 +72,9 @@ Aurisch: 4500 / 900 Haushalte
 ###Stille Stadt
 Bevölkerung:
 Menschlich: 10000 Personen / 1250 Haushalte
+
+###Glanzburg 
+Bevölkerung: 40000 Personen / 5000 Haushalte 
 
 ###Unnamed City
 Bevölkerung:
