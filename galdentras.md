@@ -276,6 +276,9 @@ Inspiration 1
 
 Training
 
+Unbewaffnet
+Kritische Anwendung 1
+
 Klettern 2->
 Meisterstück
 
@@ -372,6 +375,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
