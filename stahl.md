@@ -163,7 +163,7 @@ tags: Character Swordlad character
 
 #XP
 (20 fplv4 ) <- Chargen Punkte
-(10xp) <- GenericSpent
+(13xp) <- GenericSpent
 
 ##Fähigkeitsxp
 
@@ -201,6 +201,7 @@ tags: Character Swordlad character
 
 #Techniken
 	Wache
+        Kings Execution
 
 #Inventar
 
