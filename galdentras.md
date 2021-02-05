@@ -296,6 +296,7 @@ Quelle
 1 Punkt aus Artefaktdetonation
 1 natürlich (Avisverstrahlung)
 1 Drachenpfefferschnaps
+1 Sturm
 
 Aspekt Feuer
 Training 3
@@ -348,7 +349,7 @@ Begegnung
 
 
 Fobif
-Kritische Anwendung 3
+Kritische Anwendung 4
 1 Fortschrittspunkt
 (2 Kneipenschlägereien)
 1 Punkt Bonus
@@ -370,6 +371,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 

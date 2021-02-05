@@ -190,7 +190,7 @@ tags: Character Swordlad character
 |Lügen|V|
 |Befehlsgewalt|P|
 |Begegnung|KK|
-|Quelle|[karum, instabile quelle, avis]|
+|Quelle|[karum, instabile quelle, avis, avis, sturm]|
 |Instinkt | K|
 |Law| M|
 |_KrautKunde| IT |
