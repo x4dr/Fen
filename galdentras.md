@@ -39,8 +39,10 @@ stets betrunken, 3 Gunstpunkte Fobif
 ##Hintergrund  
 ???
 ##Wunden
+18 (Kurzschwert)
 
- 60/60
+42/60
+
 
 
 
