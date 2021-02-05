@@ -6,7 +6,7 @@ tags:
 
 ##Städte
 
-* Einkommensformel:  Haushalte &times; 10 Silber &times; ( Reichtum + Infrastruktur + Steuerschraube) &times;
+* Einkommensformel:  Haushalte &times; 10 Silber &times; ( Reichtum + Infrastruktur + Steuerschraube)
 
 
 |   Stadt   |Bewohner|Haushalte|Steuereffizienz|Reichtum|Infrastruktur|Steuerschraube|Loyalität| Brutto |  Netto |
