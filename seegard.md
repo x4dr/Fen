@@ -18,10 +18,6 @@ Nach dem Tod [Nysgaris](nysgaris)' zeigten sich allerdings Risse in ihrem Plan. 
 
 Ordenshochmeister Ardos ist nach den bestehenden Diplomatischen Verträgen der Ranghöhste und hat das schlagkräftigste Militär und Tempel in den meisten Siedlungen
 
-#### Jacun
-
-Der reichste Bewohner Seegards, der es als Mensch geschafft hat, reicher als alle Aurier zu werden.
-
 #### Die Flotte
 
 Mit ihrem de-facto besitzer Admiral Nyored, hat die Unterstützng der meisten lokalen Aurischen Häuser und individuen, was allerdings nicht mehr allein reicht um die Stadt zu kontrollieren
