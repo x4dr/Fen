@@ -184,7 +184,7 @@ tags: Character Swordlad character
 |Taktik|TTTLK|
 |Navigation|PPPPK|
 |BerufAdministrator|P[Eisenbach. Worograd, Trarora, Seegard]MV|
-|Diplomatie|K|
+|Diplomatie|KK|
 |Handel|TL|
 |Rhetorik|K[Eisenbach]
 |Lügen|V|
