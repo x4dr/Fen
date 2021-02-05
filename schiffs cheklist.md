@@ -36,3 +36,4 @@ Coole Komunikations röhren
 Bantherssymbol in die esscene des schiffes einarbeiten+ crewtattoos
 ####gewichtskontrolle zur höhenmanipulation
 ####Energieschnittstelle für Avis zu Energie reserven des Schiffes
+####verbesserte Karabiner lines
