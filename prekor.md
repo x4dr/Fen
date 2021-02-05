@@ -9,18 +9,18 @@ tags:
 * Einkommensformel:  Haushalte &times; 10 Silber &times; ( Reichtum + Infrastruktur + Steuerschraube) &times;
 
 
-|   Stadt   |Bewohner|Haushalte|Steuereffizienz|Reichtum|Infrastruktur|Steuerschraube|Loyalität| Brutto | Netto |
-|-----------|-------:|--------:|---------------|--------|-------------|--------------|--------:|-------:| --------: |
+|   Stadt   |Bewohner|Haushalte|Steuereffizienz|Reichtum|Infrastruktur|Steuerschraube|Loyalität| Brutto |  Netto |
+|-----------|-------:|--------:|---------------|--------|-------------|--------------|--------:|-------:| -----: |
 | Seegard   | 97050  | 12281   |      80%      |   6    | 10          |  0           | 10      | 19650a | 15720a |
-| Eisenbach |  2700  |   332   |     100%      |   1    |  2          |  0           | 18      |   100a |   100a |
-| Worograd  | 18300  |  2300   |      33%      |   2    |  4          |  0           |  8      |  1380a |   456a |
 | Okarun    | 28000  |  3495   |      33%      |   4    |  7          |  0           | 14      |  3845a |  1268a |
-| Limasu    | 70000  |  8790   |      8.3%     |   3    |  8          |  0           | 15      |  9669a |   806a |
 | Trarora   | 65000  |  8410   |      8.3%     |   5    | 12          |  0           | 12      | 14297a |  1192a |
-| Stille Stadt| 10000|  1250   |      0%       |   2    |  1          |  0           |  0      |   375a |     0s |
+| Limasu    | 70000  |  8790   |      8.3%     |   3    |  8          |  0           | 15      |  9669a |   806a |
+| Worograd  | 18300  |  2300   |      33%      |   2    |  4          |  0           |  8      |  1380a |   456a |
+| Eisenbach |  2700  |   332   |     100%      |   1    |  2          |  0           | 18      |   100a |   100a |
+|Stille Stadt|10000  |  1250   |      0%       |   2    |  1          |  0           |  0      |   375a |     0s |
 | Unnamed   | 10000  |  1325   |      8.3%     |   1    |  1          |  0           |  0      |   265a |    22a | 
 | Unnamed   | 10000  |  1325   |      8.3%     |   1    |  1          |  0           |  0      |   265a |    22a | 
-| Gesamt    |        |         |               |        |             |              |         |        |        |
+| gesamt    |        |         |               |        |             |              |         |        |        |
 
 Landbevölkerung ist mit mindestens dem zwöft des zwölft besteuert (0.7%)
 
