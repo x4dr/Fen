@@ -1,7 +1,7 @@
-title:   
+title: Foki  
 tags:   
 Die Herrschaft von Prekor
-#Fokuses
+#Foki
 ##Infrastructure
  * faster movements
  * better taxes
@@ -27,6 +27,7 @@ Die Herrschaft von Prekor
    * grand magic
  * Linotek 
    * general warcrimes
+ * Establish the College of Assassins
 
 ##Diplomacy
  * Argyrier 
