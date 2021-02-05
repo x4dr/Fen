@@ -33,9 +33,9 @@ Die Herrschaft von Prekor
  * Argyrier 
    * Feuerinseln
    * Dschungel    
-     * 2. Jahr: Wurf 17 peace and solidarity (1:1 match on efforts against the shadow)
+     * 2.Jahr: Wurf 17 peace and solidarity (1:1 match on efforts against the shadow)
  * Konföderation   
-     * 2. Jahr: Wurf 17 befriend with flying ships for military support
+     * 2.Jahr: Wurf 17 befriend with flying ships for military support
  * Drachen
 	* Karum
 	* Serech
