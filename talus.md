@@ -31,7 +31,7 @@ Reisen: 45kg
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
-Megatalus: Bein1: 4(6) Bein 7: 3(Avis' Mark, 9)
+Megatalus: Bein1: 4,2,(6) Bein 7: 3(Avis' Mark, 9)
 Talus: 3(Avis' Mark, 9)
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
