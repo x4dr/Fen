@@ -20,7 +20,7 @@ tags:
 |Stille Stadt|10000  |  1250   |      0%       |   2    |  1          |  0           |  0      |   375a |     0s |
 | Unnamed   | 10000  |  1325   |      8.3%     |   1    |  1          |  0           |  0      |   265a |    22a | 
 | Unnamed   | 10000  |  1325   |      8.3%     |   1    |  1          |  0           |  0      |   265a |    22a | 
-| Gesamt    |301050  | 31182   |               |        |             |              |         |        |        |
+| Gesamt    |301050  | 31182   |               |        |             |              |         | 48496a | 19586a |
 
 Landbevölkerung ist mit mindestens dem zwöft des zwölft besteuert (0.7%)
 
