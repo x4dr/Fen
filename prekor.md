@@ -77,7 +77,43 @@ Aurisch: 1000 / 200 Haushalte
 
 
 
-Trade: 1000 
+## Handel
+
+Durch den erweiterten Einfluss der Handelsgilde erweitern sie den Reichtum der Prekorischen Städte langsam
+Geld generiert hängt vom Gesamtreichtum von allen in Handelsdistanz ab
+Gesamteinkommen der Handelsgilde: etwa 10000a/Jahr
+
+## Kosten
+### Armee
+Zur verfügung gestellte Truppen: 
+10000 gemischte Infantrie+Engineering von Trarora
+2000 schwere Kavallerie der glänzenden
+50 Blutmagier von Limasu
+
+Selbst ausgehoben 10000 leichte Infantrie
+Täglicher Sold: 1s
+
+==> Tägliche Kosten von 100 gold
+
+Tägliche versorgungskosten, Reparaturen, medical, campfollowers direct pay: 1s
+Logistisches Gewicht: 10*3t+10*5t+2*20t =  120t / tag = 600 Ochsenkarren (oder equivalent) pro weg pro 15 km 
+==> 1200 Ochsenkarren pro 15km entfernung (50s pro tag)
+
+==> Tägliche Supplykosten von 120t * 0.2s/kg = 240 Gold
+
+==> Tägliche kosten von 0.5 Gold/15km vom nächsten Depot 
+
+
+#### Logistik
+|Typ|Gewicht/tag|Kapazität|strat. Geschwindigkeit|
+|---|-----------|---------|----------------------|
+|Leichte Infantrie| 3kg | 30 kg | 25km |
+|Mittlere Infantrie| 5kg | 30 kg | 25km |
+|Schwere Kavallerie| 20kg | 60 kg | 80km |
+|Ochsenkarren | 20kg (oder grasen) |200kg | 20km(oder 15) |
+
+Army supplies Mischung aus Weizen(4k), Brot(5k), Rindfleisch(50k), Bier(6k), Bronze(300k), Eisen (2000k), Stahl(5000k), Salz(20k)
+==> Ungefähr 20 Kupfer pro Kilo im Durchschnitt
 
 # Die Königswahl Für Stahl
 ## Nurako Worograd
