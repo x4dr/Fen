@@ -96,7 +96,7 @@ Täglicher Sold: 1s
 ==> Tägliche Kosten von 100 gold
 
 Tägliche versorgungskosten, Reparaturen, medical, campfollowers direct pay: 1s
-Logistisches Gewicht: 10*3t+10*5t+2*20t =  120t / tag = 600 Ochsenkarren (oder equivalent) pro weg pro 15 km 
+Logistisches Gewicht: 10&times;3t+10&times;5t+2&times;20t =  120t / tag = 600 Ochsenkarren (oder equivalent) pro weg pro 15 km 
 ==> 1200 Ochsenkarren pro 15km entfernung (50s pro tag)
 
 ==> Tägliche Supplykosten von 120t * 0.2s/kg = 240 Gold
