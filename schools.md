@@ -28,7 +28,7 @@ reflexiv: Wenn in dieser Runde weniger als 5 Meter Bewegungsreichweite ausgegebe
 reflexiv: Waffenreichweiten Malus kann ignoriert werden, -5 Defensive
 
 ## Level 3: Winkelzug
-reflexiv: Bonusangriff auf den aktuellen Angreifer. Bei Erfolg wird kein Schaden verursacht, sondern der Offensivwert des Angreifers um den eigenen Offensivwert gesenkt. *Nächste* Runde kann kein normaler Angriff gemacht werden. 
+reflexiv: Konsumiert Bonusangriff. Der eigene Offensivwert wird ausgegeben um den Offensivwert des Angreifers um zu senken. *Nächste* Runde kann kein normaler Angriff gemacht werden. 
 
 ## Level 4: Zu viel des Bösen
 passiv: Für jede Offensivvorteilsstufe von mehr als 10 wird 1 auf den Schaden addiert.
