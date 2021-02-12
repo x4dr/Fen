@@ -4,6 +4,12 @@ tags:
 
 # Das Königreich
 
+## Schulden
+6000 an Häuser Seegards
+3000 an Glanzburg
+1000 Limasu
+1000 Trarora
+
 ##Städte
 
 * Einkommensformel:  Haushalte &times; 10 Silber &times; ( Reichtum + Infrastruktur + Steuerschraube)
