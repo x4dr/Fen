@@ -364,6 +364,8 @@ Perspektive (Etoro, Piraten)
 Praxis 3 monate
 Folter 2
 
+Schild 2->3
+Kritische ANwendung 1
 
 Mykisch
 1 Versagen
@@ -375,6 +377,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
