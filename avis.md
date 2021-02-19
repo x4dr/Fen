@@ -231,6 +231,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Tratsch|2|  
 |Empathie|1|  
 |Rhetorik|1|  
+|Beleidigen|1|  
   
 ###Vorteile  
 |Vorteile|Level|  
