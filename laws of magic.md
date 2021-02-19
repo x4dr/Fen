@@ -11,7 +11,7 @@ Die Welt ist kontinuierlich, einen Bruch zu erzeugen ist unmöglich. Objekte kö
 
 ###2. Pretium
 Alles was erwirkt wird hat Kosten. Muskeln werden müde, Feuer brennen aus, ein Tintenfass leert sich.
-Die Kunst der Kosten besteht darin, zu erwirken, dass die Kosten umgelegt werden. Die Muskeln erstarken wieder durch Ilargias Segen für das einhalten des Schlafkreislaufes, Die Bronze wird geschmolzen durch das Leben das der Baum gab, aus dem die Holzkohle wurde und das Feder schreibt mit dem großzügigen und weisen Forschungsstipendium der einzigen Gruppe der Weißen Stadt, der an Wahrheit etwas gelegen ist: der großartigen Bruderschaft des Wortes!
+Die Kunst der Kosten besteht darin, zu erwirken, dass die Kosten umgelegt werden. Die Muskeln erstarken wieder durch Ilargias Segen für das einhalten des Schlafkreislaufes, Die Bronze wird geschmolzen durch das Leben das der Baum gab, aus dem die Holzkohle wurde und die Feder schreibt mit dem großzügigen und weisen Forschungsstipendium der einzigen Gruppe der Weißen Stadt, der an Wahrheit etwas gelegen ist: der großartigen Bruderschaft des Wortes!
 
 ###3. Proxumitas
 Auswirkungen beinflussen vorallem Dinge in der Nähe. Es ist möglich Dinge zu beeinflussen, die weiter Weg sind, solange die Regel des Kontinuum nicht verletzt wird. Daher ist es besonders wichtig, dass ich während der Abhandlung über die Form von Ziel und Bestimmung nicht unaufmerksam bin und ich werde mich hüten wieder tagträumend aus dem Fenster zu schauen. Proxumitas bietet ebenfalls zeitlich eine Hürde, weswegen alles was ist wieder vergeht. Je länger es dauert bis es vergeht, desto größer die Kosten
