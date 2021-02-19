@@ -361,6 +361,7 @@ Kritische Anwendung 4
 1 Punkt Chaos
 
 Wille
+Kritische Anwendung (Rodis Juice)
 Perspektive (Etoro, Piraten)
 Praxis 3 monate
 Folter 2
@@ -378,6 +379,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
