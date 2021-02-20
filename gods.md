@@ -210,6 +210,17 @@ Rückwärts oder Vorwärtsdrehen von Prozessen, zum Beispiel Alterung, Heilung, 
 #### Fluch
 Rückwärts oder Vorwärtsdrehen von Prozessen, Verrotten lassen von Besitztümern, Albträume.
 _______
+##Rodis
+Ein Weidenbaum in Nordprekor
+### Philosophie
+Scheint das Land und seine Bewohner wichtig zu finden
+### Anhänger
+### Gunst
+#### Huldigen
+#### Verärgern
+#### Segen
+#### Fluch
+_______
 ##Kraoz
 aurische Gottheit für Physische Macht (Stärke)
 ### Philosophie
