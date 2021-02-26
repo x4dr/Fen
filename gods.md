@@ -220,6 +220,19 @@ Scheint das Land und seine Bewohner wichtig zu finden
 #### Verärgern
 #### Segen
 #### Fluch
+
+_______
+##Arkemitoz
+Originale Schutzgottheit der Aurier
+### Philosophie
+### Anhänger
+### Gunst
+Schutz
+#### Huldigen
+#### Verärgern
+#### Segen
+#### Fluch
+
 _______
 ##Kraoz
 aurische Gottheit für Physische Macht (Stärke)
