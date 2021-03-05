@@ -10,6 +10,10 @@ tags:
 1000 Limasu
 1000 Trarora
 
+## Eingesetzte Regierung für Schinbark
+(versprochen)
+Trarora
+
 ##Städte
 
 * Einkommensformel:  Haushalte &times; 10 Silber &times; ( Reichtum + Infrastruktur + Steuerschraube)
