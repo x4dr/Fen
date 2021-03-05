@@ -189,7 +189,7 @@ tags: Character Swordlad character
 |Rhetorik|K[Eisenbach]
 |Lügen|V|
 |Befehlsgewalt|P|
-|Begegnung|KK|
+|Begegnung|KKK|
 |Quelle|[karum, instabile quelle, avis, avis, sturm]|
 |Instinkt | K|
 |Law| M|
