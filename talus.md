@@ -307,10 +307,10 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Feinwerkzeug (Q3)		|1	|1.50 kg	|	|
 |Alchemie-Buch (3;20;22;aurisch)|1	|1.50 kg	|	|
 |Seilwinde St.6			|1	|2.00 kg	|	|
-|T2 Phosphor			|10	|0.10 kg	|	|
+|T2 Phosphor			|9	|0.10 kg	|	|
 |Sehne				|4	|0.10 kg	|	|
 |T5 Floatstone			|93	|-0.10 kg 	|8S	|
-|25% Alkohol			|2	|0.50 kg	|	|	
+|25% Alkohol			|1	|0.50 kg	|	|	
 |Säure				|100	|0.01 kg	|	|
 |Große Karte (wenig Details)	|1	|0.10 kg	|	|	
 |Pinke Kristallfackel		|1	|0.20 kg 	|	|
@@ -344,8 +344,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:-|-:|-:|-:|
 |Stahlschrott			|13.81	|1.00 kg 	|	|
 |Stahl Q9			|0.5	|1.00 kg	|	|
-|Bronzeschrott			|0.19	|1.00 kg 	|	|
-|Bronzeknöpfe			|100	|0.002 kg	|	|
 |Pfeilspitzen (Bronze)		|30	|0.01 kg	|	|
 |Q2 Reparaturteile		|3	|1.00 kg	|	|
 |Gambeson (11/(((15R)old)),7S)	|1	|5.00 kg	|	|
