@@ -152,3 +152,6 @@ Aurischer Hauptmann der Stadtwache von Seegard
 
 ### Czarodji
 Rauchmagier der Rauchflotte
+
+### Oma Käthe
+Eichholz Großmutter mit einem Magischen Kessel und geheimen Rezepten
