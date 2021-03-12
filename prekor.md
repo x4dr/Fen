@@ -11,8 +11,13 @@ tags:
 1000 Trarora
 
 ## Eingesetzte Regierung für Schinbark
-(versprochen)
-Trarora
+
+Trarora Leute ins 4. Schild und niedriger
+
+Keine Angriffskriege, 
+Subvention der Befestigungsanlagen (100 gold im Jahr)
+Keine Contributions
+15000 trainierte leute marcher Lord
 
 ##Städte
 
