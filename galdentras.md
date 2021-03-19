@@ -174,7 +174,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 ###Attribute  
 |Attribut|Level|  
 |-|-|  
-|Eindruck |  2|  
+|Eindruck |  3|  
 |Durchsetzungsvermögen |  2|  
 |Sympathie |  2|  
 
