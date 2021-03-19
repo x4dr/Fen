@@ -186,6 +186,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Handel |  1|  
 |Einschüchtern |  2|  
 |Storyteller| 1|
+|Aurischer Kriegsgesang|2
 
 ##Magie
 
