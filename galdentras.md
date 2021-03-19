@@ -360,7 +360,7 @@ Kritische Anwendung 4
 1 Punkt Bonus
 1 Punkt Chaos
 
-Wille
+Wille 2->3
 Kritische Anwendung (Rodis Juice)
 Perspektive (Etoro, Piraten)
 Praxis 3 monate
@@ -379,6 +379,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
