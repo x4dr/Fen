@@ -26,12 +26,12 @@ Wenn Schaden erhalten wurde, erhalte 1 Ruinzähler um sofort einen weiteren Zusa
 
 # Ablenken
 Technik  
-getroffene Gegner erhalten den Offensiv-Offensiv Vorteil als Malus auf ihren Offensivwert, oder als Schaden, Wahl des Gegners
+getroffene Gegner erhalten den Offensiv-Offensiv Vorteil als Malus auf ihren Offensivwert bis ans ende der nächsten Runde, oder als Schaden, Wahl des Gegners
 
 ## Pressen
 reflexiv
 Wenn ein Gegner durch Ablenken aber noch nicht durch Pressen beeinflusst ist, gebe Hälfte der eigenen Defensive aus:
-Malus hält bis Ende nächster Runde, bzw Schaden löst eine zweite Instanz aus
+Malus hält eine Runde länger, bzw Schaden löst eine zweite Instanz aus, wahl des Gegners
 
 ### Überwältigen
 reflexiv 
