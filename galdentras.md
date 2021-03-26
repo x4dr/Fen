@@ -246,8 +246,8 @@ stets betrunken, 3 Gunstpunkte Fobif
 |-|-|
 |Mimikry (Aurische Form)| 1|
 |Chitinpanzer| 1|
-|Erdheimzauber|1|
 |Erdheim|1|
+|Erdheimzauber|1|
 |Verstecktes Erdheim|1|
 |Erdheim:Bewegliche Teile| 1|
 |Schnelle Rekonstruktion|1|
