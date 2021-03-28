@@ -15,7 +15,7 @@ Aurisch: 122 / 20 Haushalte
 6 Meister
 ### Mine 
 4 Meister
-### Einkommen:
+### Einkommen
 Volumen: Gesamtwert der waren,
 Profit: in Eisenbach bleibendes Geld
 * Lufthandel: Volumen 500 Gold, Profit 25 Gold ++
@@ -27,12 +27,12 @@ Profit: in Eisenbach bleibendes Geld
 * Burg: Profit 100 Gold
 * Gastgewerbe: Profit 100 Gold
 
-### Ausgaben:
+### Ausgaben
 * Erzimport: 50 Gold
 * Steuern: 330 Gold
 * Nahrung: 75 Gold
 
-##Industrien:
+##Industrien
 12 Bäcker
 6 Brauer
 3 Distellerie
