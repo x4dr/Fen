@@ -3,79 +3,101 @@ tags:
 [TOC]
 
 #Eisenbach
+approx 15 nach
 ##Bevölkerung:
-Menschlich: 2620 Personen / 320 Haushalte
-Argyrisch: 50 / 6 Haushalte
-Aurisch: 30 / 6 Haushalte
-##Steuern
-### Personengrundsteuern
-2800*10s = 280 Gold/Jahr
-### Traderelations:
-####Ras
-* 500 Gold Influx im Jahr, 
-* jährlicher, aber (nahezu) beliebig großer Absatzmarkt
-* Möglichkeit SerisemObjekte für 100% Gewinn zu verkaufen
+Menschlich: 8612 Personen / 1060 Haushalte
+Argyrisch: 187 / 22 Haushalte
+Aurisch: 122 / 20 Haushalte
+##Wirtschaftlich
+### Metallgilde
+50 Meister 
+### Steinbruch
+6 Meister
+### Mine 
+4 Meister
+### Einkommen:
+Volumen: Gesamtwert der waren,
+Profit: in Eisenbach bleibendes Geld
+* Lufthandel: Volumen 500 Gold, Profit 25 Gold ++
+* Landhandel: Volumen 1000 Gold, Profit 100 Gold
+* Metallgilde: Profit 150 Gold
+* Webergilde: Profit 25 Gold
+* Stein: Profit 50 Gold
+* Holz: Profit 50 Gold
+* Burg: Profit 100 Gold
+* Gastgewerbe: Profit 100 Gold
 
-####Vernal: 
-* Möglichkeit 50 Gold/Monat in Serisemgegenstände umzusetzen
-
-
-### Gewerbesteuern
-Zur Zeit Keine
+### Ausgaben:
+* Erzimport: 50 Gold
+* Steuern: 330 Gold
+* Nahrung: 75 Gold
 
 ##Industrien:
-4 Bäcker
-2 Brauer
-1 Distellerie
-1 Winzerei
-4 Fleischer
-6 Tischler
-4 Tempel (Sural, Tosis, Zadu, Ateph)
-1 Färber
-3 Admin, Finanziell
-2 Fischhändler
-1 Gießerei
-8 Händler (davon 1 Gewürzhändler, 1 Ras Großhändler, 1 Schwerlasthändler)
-14 Gasthäuser/Gaststätten 
-5 Lederhandwerker
-4 Müller (davon 1 Sägemühle)
-5 Töpfer
-19 Schreiber
+12 Bäcker
+6 Brauer
+3 Distellerie
+3 Winzerei
+12 Fleischer
+18 Tischler
+5 Tempel (Sural, Tosis, Zadu, Ateph, Glänzender)
+30 Priester
+3 Färber
+10 Admin, Finanziell
+3 Fischhändler
+3 Gießerei
+30 Händler (davon 1 Gewürzhändler, 1 Großhändler, 1 Schwerlasthändler)
+43 Gasthäuser/Gaststätten 
+15 Lederhandwerker
+15 Müller (davon 2 Sägemühlen, 3 Industriemühlen)
+12 Töpfer
+55 Schreiber
 7 Schmiede
-1 Gerber
-25 Stoffhandwerker
+1 Gravierer
+56 Metallgilde Meister
+173 Metallgilde Gesellen
+2 Gerber
+2 Stoffhandwerker
+17 Webergilde Meister
+70 Webergilde Gesellen
 1 Pferdehändler
-1 Badehaus
+3 Badehäuser
 2 Ställe
-1 Bordell
-1 Seiler
+5 Bordelle
+6 Seiler
 3 Kräuterläden
-2 Barbiere/Bader
-2 Alchemisten
-1 Maler
-1 Dachdecker
-3 Pfeilmacher
-1 Glitzer(Goldschmied/Juwelenhändler/Magiehandwerker)
-1 Heiler(magisch)
-2 Heiler(mundan)
-4 Stadtwache
-1 Wetterseher
-2 Ratgeber(aka Magier)
-1 Totengräber
-1 Botenpunkt
-1 Anwesen
-3 Flößer
-2 Waldhüter
+5 Barbiere/Bader
+4 Alchemisten
+2 Maler
+3 Dachdecker
+7 Munitionierer
+4 Glitzer(Goldschmied/Juwelenhändler/Magiehandwerker)
+6 Heiler(magisch)
+5 Heiler(mundan)
+15 Stadtwache
+30 Garnison
+2 Wetterseher
+3 Ratgeber(aka Magier)
+2 Totengräber
+7 Botenpunkt
+8 Anwesen
+12 Flößer
+5 Waldhüter
 6 Hirten
 3 Fischer
-8 Kleinbauern
-2 Imker
-1 Kerzenmacher
-25 Steinhauer 
-2 Erzverhütter
-41 Jäger/Waldleute
+32 Kleinbauern
+10 Imker
+4 Kerzenmacher
+70 Steinhauer 
+7 Erzverhütter
+31 Jäger/Waldleute
 72 Holzfäller
 14 Köhler
+25 Falkner
+2 Wagenbauer
+3 Barden
+10 Maurer
+17 Reiniger
+8 Arbeitslose
 
 
 #Hudelheim
