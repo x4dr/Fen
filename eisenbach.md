@@ -39,8 +39,7 @@ Profit: in Eisenbach bleibendes Geld
 3 Winzerei
 12 Fleischer
 18 Tischler
-5 Tempel (Sural, Tosis, Zadu, Ateph, Glänzender)
-30 Priester
+35 Geistliche (Sural, Tosis, Zadu, Ateph, Glänzender)
 3 Färber
 10 Admin, Finanziell
 3 Fischhändler
