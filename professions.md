@@ -1,89 +1,94 @@
 title:   
 tags:   
-Administration
+#Professionsregister
+## Vor Null
+###Administration  
+
 * Bürokratie
-Alchemie
-Anwesen
+
+###Alchemie
+###Anwesen
 * Landverwaltung
 * Steueramt
 * Amt
-Bäcker
-Badehäuser
+###Bäcker
+###Badehäuser
 * Betrieb/Instandhaltung/Gastwirtschaft
-Barbiere/Bader
+###Barbiere/Bader
 * Frisuren, Zähne, Furunkel
-Barden
+###Barden
 * interregionale Nachrichten, Unterhaltung, Musik
-Bordelle
-Botenpunkt
+###Bordelle
+###Botenpunkt
 * Post
-Brauer
-Dachdecker
-Distellerie
+###Brauer
+###Dachdecker
+###Distellerie
 * Alkohol und Alchemie
-Erzverhütter
-Falkner
+###Erzverhütter
+###Falkner
 * Pferdegroße Kaiserfalken
-Färber
-Fischer
-Fischhändler
-Fleischer
-Flößer
+###Färber
+###Fischer
+###Fischhändler
+###Fleischer
+###Flößer
 * Logistik, vorallem Flussabwärts
-Garnison
+###Garnison
 * stationierte Soldaten
-Gasthäuser/Gaststätten
-Gerber
-Gießer
+###Gasthäuser/Gaststätten
+###Gerber
+###Gießer
 * Metallguss
-Glitzer
+###Glitzer
 * Schmuck, Juwelen, Geordnete Magie, MagieHandwerk
-Gravierer
+###Gravierer
 * Verzierungen und Musterresonanz
-Händler
-Heiler
+###Händler
+###Heiler
 * Lebensmagie (am leben erhalten, Entzündungen reduzieren, Blutfluss stoppen)
-Heiler(mundan)
-Hirten
-Holzfäller
-Imker
-Jäger/Waldleute
-Kerzenmacher
+* Mundane Heilungsmethoden (Operationen, Wundersorgung, Pflege, Medizin)
+###Hirten
+###Holzfäller
+###Imker
+###Jäger/Waldleute
+###Kerzenmacher
 * Kerzenmagie
-Kleinbauern
-Köhler
-Kräuterläden
-Lederhandwerker
-Maler
-Maurer
-Metallgilde
+###Kleinbauern
+###Köhler
+###Kräuterläden
+###Lederhandwerker
+###Maler
+###Maurer
+###Metallgilde
 * Alle Metallgilden Aufgaben (Erzverhüttung, Metallverarbeitung, Gravieren, Ingenieurskunst)
-Müller
-Munitionierer
+###Müller
+###Munitionierer
 * Pfeilmacher mit Geheimnissen für besondere Munition
-Pferdehändler
-Priester
-Ratgeber 
+###Pferdehändler
+###Priester
+###Ratgeber 
 * Zauberei
-Reiniger
+###Reiniger
 * Straßen, Sickergruben, Müll
-Schmiede
-Schreiber
-Seiler
-Stadtwache
-Ställe
-Steinhauer
-Stoffhandwerker
-Tempel
+###Schmiede
+###Schreiber
+###Seiler
+###Stadtwache
+###Ställe
+###Steinhauer
+###Stoffhandwerker
+###Tempel
 * Spezifisch die Nichtpriester
-Tischler
-Töpfer
-Totengräber
-Wagenbauer
-Waldhüter
-Webergilde
+###Tischler
+###Töpfer
+###Totengräber
+###Wagenbauer
+###Waldhüter
+* Befrieden des Waldes, Schutz vor Monstern
+###Webergilde
 * Alle Webergilden Aufgaben (Design, Mode, Stoffhandwerk, Verwaltung von Stoffhandwerksassets, Investition und Diversifizierung in interessante Bereiche)
-Wetterseher
+###Wetterseher
 * Wetterzauberer
-Winzerei
+###Winzerei
 * Wein
