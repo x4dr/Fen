@@ -155,3 +155,9 @@ Rauchmagier der Rauchflotte
 
 ### Oma Käthe
 Eichholz Großmutter mit einem Magischen Kessel und geheimen Rezepten
+
+### Die Aschehexe
+Tochter von Oma Käthe und mächtige, amoralische Hexe
+
+### Tiait 
+Weiterer Representant der originalen Waldhüter von Istan
