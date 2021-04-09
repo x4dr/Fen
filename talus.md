@@ -383,7 +383,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |||  
 |Magischer Fluss|SSSSSSSSSSSSS|  
 |Prozessalchemie|S (Sonnenstein)KKKK|  
-|Schnellalchemie|KKKKKK|  
+|Schnellalchemie|KKKKKKK|  
 |||  
 |Wissen(Mykier)|I|  
 |Wissen(Religion)|I|  
@@ -405,6 +405,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Göttliche Bindung (Kraoz)|KKK|  
 |Göttliche Bindung (Karum)|IKKK|  
 |Begegnung|VVVKK|  
+
 
 
 
