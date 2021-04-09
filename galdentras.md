@@ -41,7 +41,8 @@ stets betrunken, 3 Gunstpunkte Fobif
 ##Wunden
 
 
-60/60
+54/60
+6 (hammer)
 
 
 
