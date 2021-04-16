@@ -217,7 +217,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 
 |Typ|Art|  
 |:---|:----|  
-|Wirkung|  Erzeugt Erde |   
+|Wirkung| Erzeugt Erde |   
 |Reichweite| Körper|  
 |Dauer|Sofort|  
 |Wurfmodifikator| 1|  
@@ -248,6 +248,8 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Dauer| abnehmend |  
 |Tickrate| |  
 |Wurfmodifikator| 1|  
+
+Als Modifikator auf andere Effekte sorgt es für Verbindung und Konversion von Energie
   
 #Weitere Zauber
 Beispiele
