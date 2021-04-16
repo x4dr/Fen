@@ -250,6 +250,26 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Wurfmodifikator| 1|  
 
 Als Modifikator auf andere Effekte sorgt es für Verbindung und Konversion von Energie
+
+##Inanis
+
+|Typ|Art|  
+|:---|:----|  
+|Wirkung| Leere, Vermindert etwas, 1/6 Wurf in Permanentem Schaden |  
+|Reichweite| Berührung |  
+|Dauer| sofort |  
+|Wurfmodifikator| 1/6 |  
+
+##Plenus
+
+
+|Typ|Art|  
+|:---|:----|  
+|Wirkung| vermehrt etwas, füllt etwas |  
+|Reichweite| Berührung |  
+|Tickrate| |  
+|Wurfmodifikator| Special: BonusSelektor|  
+
   
 #Weitere Zauber
 Beispiele
@@ -265,6 +285,7 @@ Beispiele
 |Lux-Ignis|erschafft Feuer das heller brennt als normales Feuer und sich ansonsten mundan verhält. Tickrate: 0, Dauer: Konzentration|  
 |Lux-Persona|ersetzt Zaubernden durch Persona-Ziel |  
 |Lux-Disruptio|	Blendgranate **Wurf** von visuellen Handlungsergebnissen abgezogen, halbierend jede Runde (abrunden) |  
+|Lux-Inanis|wirft Schatten statt licht |  
 |||  
 |Impello-Sisto|Verringert die Energie einer berührten Bewegung |  
 |Impello-Fulgur|lenkt einen Blitz (Projektil)|  
@@ -274,6 +295,7 @@ Beispiele
 |Impello-Terra|Sandstrahl (Behindert Ziel wenn es sich auf den Zauber zubewegt: Bewegungsreichweite-**Wurf**, +**Wurf**/5 Komplexität)|  
 |Impello-Persona|Gibt einer Person den Vektor gleichmäßig (Modifikator 1)|  
 |Impello-Disruptio|Druckwelle (Kugelförmig, inklusive Zauberer) **Wurf**/2 Schlagschaden -1/3m |  
+|Impello-Inanis|Konzentration, Inanis wird 1m/Runde weiter Projeziert (bzw bis es durch ein objekt durch ist), c.a. 10cm durchmesser|
 |||  
 |Sisto-Fulgur|Ladung die Stoppt|   
 |Sisto-Meta|Stoppt alle Bewegung von einem Zielobjekt.|  
@@ -282,6 +304,7 @@ Beispiele
 |Sisto-Terra|Stabilisiert Sand/Stein/Erde|  
 |Sisto-Persona|Behindert eine Person|  
 |Sisto-Disruptio|Stabilisert ein Objekt gegen Zerbrechen, Tickrate: Stunde, Bonuskosten: 1 jedes mal wenn Objekt schaden erleiden Würde.|  
+|Sisto-Inanis|Konzentration, Hält ein Loch oder eine Abwesendheit an, als ob sie nicht da wäre (fehlendes stuhlbein)|
 |||  
 |Fulgur-Meta|erschafft Ladung am Zielort|  
 |Fulgur-Tutela|trifft jede Runde das nächste nicht ausgenommene (Biegung) Ziel in Reichweite |  
@@ -289,17 +312,20 @@ Beispiele
 |Fulgur-Terra|erzeugt Glas|  
 |Fulgur-Persona|Ladung entsteht an der Person|  
 |Fulgur-Diruptio|entlädt die Ladung um den Zauberer herum|  
+|Fulgur-Inanis| Inanis Stattdessen 1/4 Schaden |
 |||  
 |Ignis-Terra|Funken (Steigen weit nach oben) |  
 |Ignis-Tutela|Wurf/6 Feuerschaden pro Runde auf alles in Reichweite, abnehmend|  
 |Ignis-Persona|Hüllt Kreatur in Flammen **Wurf**/2 schaden (Single Target Ignis, sofort) |  
 |Ignis-Meta|erzeugt Feuer am Ziel|  
 |Ignis-disruptio| Flammenexplosion **Wurf**/4 Schaden (5m radius, sofort)|  
+|Ignis-Inanis| Konzentration, Feuer, das alle Materialien verbrennen kann|
 |||  
 |Terra-Tutela|Dünne Kugel aus Erde Formt sich|  
 |Terra-Persona|macht Person dreckig|  
 |Terra-Meta|erzeugt Sand am Ziel|  
 |Terra-disruptio|Sandexplosion|  
+|Terra-Inanis| Erzeugt Klumpen von tintenschwarzer Leere, die bei Berührung mit irgendwas den Inanis effekt auslösen. An Frischer Luft Abnehmend|
 |||  
 |:---|:---|     
 |Lux-Stabilis|physische Lichtkugel, Dauer Konzentration 1/Stunde|  
@@ -312,8 +338,9 @@ Beispiele
 |Ignis-Stabilis|Löschresistentes Feuer|  
 |Persona-Stabilis|Schützt Kreatur vor Änderung; 1/Minute |  
 |Disruptio-Stabilis|Ziel Explodiert und Teile bleiben in der Luft Schweben. Konzentration 1/Runde|  
+|Inanis-Stabilis|Füllresistente Leere|
 |||
-|Lux-Praecantatio|magisches Licht. Konzentration 1/Runde|  
+|Lux-Praecantatio|Verhält sich wie Licht für Sicht und Energie, Zählt aber nicht als Licht. Konzentration 1/Runde|  
 |Impello-Praecantatio|Beeinflusst vor allem geladene Gegenstände|  
 |Sisto-Praecantatio|Hält einen Effekt an/auf, abnehmend, +2 Rückkopplungsrisiko|  
 |Fulgur-Praecantatio|Blitz erhält 5 Schaden und wird gehalten, und kann jede Runde als freie Aktion um 1 Schaden für 1 Instabilität erhöht werden bis zum maximum von **Wurf**. Konzentrationsunterbrechung und Würfe unter 5 lösen Rückkopplung 3 aus. Wenn keine Erhöhung erfolgt, löst der Zauber aus, wie normal|  
@@ -324,3 +351,4 @@ Beispiele
 |Persona-Praecantatio|Verbindet mit einer Person|  
 |Disruptio-Praecantatio|Magischer Gegenstand verbraucht **Wurf** mehr Ladung, abnehmend |  
 |Praecantatio- Stabilis|Wie Praecantatio, Konzentration 1/Stunde|  
+|Inanis-Praecantatio| leert spezifisch energie |
