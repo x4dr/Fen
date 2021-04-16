@@ -304,7 +304,7 @@ Rennen
 Quelle
 1 Generischer Punkt
 1 Punkt aus Artefaktdetonation
-1 natürlich (Avisverstrahlung)
+2 natürlich (Avisverstrahlung)
 1 Drachenpfefferschnaps
 1 Sturm
 
@@ -384,6 +384,7 @@ Perspektiven:
 Hammer (Nixiko, Piraten, Stadtwache)
 Schild (Nixiko, Piraten, Stadtwache)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
