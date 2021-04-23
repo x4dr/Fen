@@ -71,6 +71,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 
 
 
+
 #Werte
 
 ##Stärke  
