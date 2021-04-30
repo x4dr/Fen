@@ -80,7 +80,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Attribut|Level|
 |-|-|
 |Konstitution|5|
-|Kraft|3|
+|Kraft|4|
 |Agilität| 3|
 
 ###Fähigkeiten  
