@@ -26,10 +26,8 @@ Amulet Blau (Geschwisterloot)
 Ring Blau (Geschwisterloot)
 Götterfunke
 ##Rüstung
-Gambeson 2/6
-Kettenhemd Bronze 4/8
-Schwere Kette Schutz 5/7
-Aurierschild 4
+Armbrust +3
+Turmschild 5/50
 
 #Details
 ##Allgemeine Erscheinung  
