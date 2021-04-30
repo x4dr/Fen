@@ -94,7 +94,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Takelage| _1|
 |Hammer| 3 |
 |Schleuder| 2 |
-|Schild| 2|
+|Schild| 3|
 |Survival| 2 |
 |Schwimmen|1|    
     
