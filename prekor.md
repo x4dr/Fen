@@ -26,7 +26,7 @@ Keine Contributions
 
 |   Stadt   |Bewohner|Haushalte|Steuereffizienz|Reichtum|Infrastruktur|Steuerschraube|Loyalität| Brutto |  Netto |
 |-----------|-------:|--------:|---------------|--------|-------------|--------------|--------:|-------:| -----: |
-| Seegard   | 97050  | 12281   |      80%      |   6    | 10          |  0           | 10      | 19650a | 15720a |
+| Seegard   | 97050  | 12281   |      80%      |   6    | 11          |  0           | 10      | 19172a | 15842a |
 | Okarun    | 28000  |  3495   |      33%      |   4    |  7          |  0           | 14      |  3845a |  1268a |
 | Trarora   | 65000  |  8410   |      8.3%     |   5    | 12          |  0           | 12      | 14297a |  1192a |
 | Limasu    | 70000  |  8790   |      8.3%     |   3    |  8          |  0           | 15      |  9669a |   806a |
