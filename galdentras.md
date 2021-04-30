@@ -103,6 +103,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |-|-|
 |Schildschlag|1|
 |Beschützen|1|
+|Aggressives Beschützen|1|
 |Unbeeindruckt|1|
 |Berserkergang|1|
 |An des Todes Tür|1|
