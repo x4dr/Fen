@@ -96,7 +96,9 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Schleuder| 2 |
 |Schild| 3|
 |Survival| 2 |
-|Schwimmen|1|    
+|Schwimmen|1|
+|Springen|1|
+|Armbrust|1|    
     
 ###Vorteile  
 |Vorteil|Name|
