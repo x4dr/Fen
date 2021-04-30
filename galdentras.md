@@ -26,7 +26,6 @@ Amulet Blau (Geschwisterloot)
 Ring Blau (Geschwisterloot)
 Götterfunke
 ##Rüstung
-Armbrust +3
 Turmschild 5/50
 
 #Details
