@@ -16,7 +16,9 @@ tags: character
 |Exp|22|
 ##Bewaffnung
 
-Bronze Schlagringe, Langschleuder , Armbrust +3, Fobifscher Amtshammer
+Langschleuder
+Armbrust +3
+Fobifscher Amtshammer
 
 ##Artefakte
 Schmerzdämpferpiercing
