@@ -373,8 +373,7 @@ Perspektive (Etoro, Piraten)
 Praxis 3 monate
 Folter 2
 
-Schild 2->3
-Kritische ANwendung 1
+
 
 Mykisch
 1 Versagen
@@ -384,8 +383,9 @@ Divine Quest: PUNCH COWARDLY LIZARD IDIOT COWARD PEOPLE THINGS... COWARDS!!!!! (
 
 Perspektiven: 
 Hammer (Nixiko, Piraten, Stadtwache)
-Schild (Nixiko, Piraten, Stadtwache)
+Schild (Nixiko, Piraten, Stadtwache, Aurier der anderen Seite)
 Unbewaffnet (Kneipenschläger Eisenbach, Nixiko, Piraten)
+
 
 
 
