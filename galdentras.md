@@ -274,10 +274,10 @@ stets betrunken, 3 Gunstpunkte Fobif
 20Liter Bier
 ##Waffen
 Fobifscher Amtshammer von Eisenbach  (Symbole: Fobif, Eisenbach) (Ynteus-Protection), gibt -3 auf Defensive
-[[weapon Hammer: L24B]]
+[[weapon:Hammer: L24B]]
 
 Armbrust 
-[[weapon Langbogen: L30H]]
+[[weapon:Langbogen: L30H]]
 
 
 
