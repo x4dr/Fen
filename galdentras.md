@@ -25,7 +25,6 @@ Schmerzdämpferpiercing
 Wutjadestern
 
 Amulet Blau (Geschwisterloot)
-Ring Blau (Geschwisterloot)
 Götterfunke
 ##Rüstung
 Turmschild 5/50
