@@ -95,11 +95,11 @@ tags: Character Swordlad character
 | Forschung | 0 |
 | Instinkt | 2 |
 | Suchen | 2 |
-| Strategie | 2 |
-| Taktik | 2 |
+| Strategie | 3 |
+| Taktik | 3 |
 | Navigation | 0 |
 | Kampfmanöver | 1 |
-| BerufAdministrator | 4 |
+| BerufAdministrator | 5 |
 | Heraldik | _1 |
 | Feudalsimus| _1 |
 | Mathe | _1 |
@@ -125,11 +125,11 @@ tags: Character Swordlad character
 |-|-|
 | Handel | 1 |
 | Diplomatie | 2 |
-| Rhetorik | 2 |
+| Rhetorik | 3 |
 | Lügen | 2 |
 | Stil | 2 |
 | Einschüchtern | 0 |
-| Befehlsgewalt | 2 |
+| Befehlsgewalt | 3 |
 | Empathie | 2 |
 | Etikette | 2 |
 | Tratsch | 2 |
@@ -180,13 +180,10 @@ tags: Character Swordlad character
 |Metallverarbeitung|P???P(1/50)K|
 |Kochen|I|
 |Heilen|KKPPVV|
-|Strategie|TTMTLK|
-|Taktik|TTTLK|
 |Navigation|PPPPK|
 |BerufAdministrator|P[Eisenbach. Worograd, Trarora, Seegard]MV|
 |Diplomatie|KK|
 |Handel|TL|
-|Rhetorik|K[Eisenbach]
 |Lügen|V|
 |Befehlsgewalt|P|
 |Begegnung|KKK|
