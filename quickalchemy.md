@@ -9,7 +9,6 @@ Angenommen ist dass für nicht direkt Kampfbezogene zwecke (wie messer und der g
 ### Magie Zurückreißen
 **Zauberzeit**: 0
 
-Dieser Zauber kann nur begonnen werden, wenn er seit der letzten 
 Der Anwender kann keinen Zauber beginnen, bis Magie Zurückreißen beendet ist. 
 Der Anwender hat die Möglichkeit, beliebige Karten abzulegen um diesen Zauber aufzuladen. Sobald 12 oder mehr Karten abgelegt wurden, kann eine beliebige entfernte Karte, dediziert oder nicht, in die Hand genommen werden. Falls eine Dedikation beendet wird, kann der Anwender je nach **Wurf** wählen, wie abrupt das Effektende eintritt. Falls das Effektende aufgehalten wird, ist der Wurf ebenfalls die Stärke mit der der Effekt beendet wird.
 
