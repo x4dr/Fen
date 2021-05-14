@@ -117,7 +117,7 @@ tags: Character Swordlad character
 |Attribut|Level|
 |-|-|
 | Eindruck | 3 |
-| Durchsetzungsvermögen | 3 |
+| Durchsetzungsvermögen | 4 |
 | Sympathie | 4 |
 
 ###Fähigkeiten
