@@ -206,7 +206,7 @@ Am Ende des Zaubers verflüssigt sich das betroffene Material mit derselben Rate
 ### Zibation
 **Zauberzeit**: Vorerst 1 Runde
 
-**Dedikation**: Nach Ziel
+**Dedikation**: Nach Ziel (Ordnung für Magie, Entropie für Gebräu, Materie für Materialien, Energie für Effekte)
 Erlaubt das Hinzufügen einer Zutat, Komponente oder sonstigen Aspektbeeinflussenden Substanz in ein bestehendes Material, zum Beispiel zum Nachbessern von Zaubertränken oder Einfügen einer Aktivierung in ein Bestehendes Artefakt.
 Das Ergebnis benutzt den niedrigeren Wurf zwischen Zauberwurf und Originalwurf. Zibation kann auch komplett fehlschlagen, wenn der Originale Wurf höher als der Zauberwurf war.
 
