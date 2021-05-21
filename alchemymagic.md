@@ -402,5 +402,6 @@ Zutaten werden gemischt, für jedes zusätzliches Hinzufügen von gereinigter Ho
 Wurf wird aufgeteilt zwischen Verdünnung und Schaden (Schadens-eingeteilte punkte / 4 = Schaden pro Runde)
 Nach einer Minute erlöscht das Feuer (oder brennt weiter, solang noch dedizierte Materie nutzbar ist)
 Verdünnung erlaubt das resultierende Gemisch zu strecken, um den Faktor der eingeteilten Punkte.
-Silathisches Feuer, wenn effizient verteilt, deckt 3.3 quadratmeter pro kilogramm ab.
+Silathisches Feuer, wenn effizient verteilt, deckt 3.3m² pro kilogramm ab.
+
 
