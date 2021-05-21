@@ -26,7 +26,7 @@ tags: Character Swordlad character
 | Rennen | 2 |
 | Springen | 1 |
 | Werfen | 0 |
-| Schwimmen | 0 |
+| Schwimmen | 1 |
 | Klettern | 1 |
 | Survival | 2 |
 | Zechen | 2 |
@@ -163,7 +163,7 @@ tags: Character Swordlad character
 
 #XP
 (20 fplv4 ) <- Chargen Punkte
-(13xp) <- GenericSpent
+(18xp) <- GenericSpent
 
 ##Fähigkeitsxp
 
