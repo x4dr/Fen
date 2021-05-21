@@ -12,7 +12,7 @@ Amalkan
 ## Charakterkonzept:  
 entflohener Laborunfall
 ## XP:  
-17  
+16  
 ## Zusammensetzung:  
 Megatalus: 500kg Federstahl, 440kg Schwebstein
 Talus: 60kg Federstahl
@@ -125,6 +125,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |AL:Serisem-Rezept||  
 |AL:Serisem-Zubereitung|1|  
 |AL:zusätzliche Zutat|1|  
+|AL:große Mengen|1|  
 |MH:Wiederaufladen|1|  
 |MH:Zerlegen|1|  
 |MH:Konstruktion|1|  
