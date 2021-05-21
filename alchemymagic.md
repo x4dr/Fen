@@ -397,6 +397,10 @@ Wenn die Dedikation endet, fällt der nächste Quellwurf um Karten ins Deck zur�
 
 Zutaten werden gemischt, für jedes zusätzliches Hinzufügen von gereinigter Holzkohle und Dedikation von 1 Materie, verhindert sich einmal das Verlöschen des Feuers. Feuer das theoretisch gelöscht werden müsste, explodiert stattdessen und halbiert sich, der Rest wird gewaltätig verschleudert.
 
-Wurf wird aufgeteilt zwischen verdünnung und Schaden (Schadens-eingeteilte punkte / 4 = Schaden pro Runde)
+
+
+Wurf wird aufgeteilt zwischen Verdünnung und Schaden (Schadens-eingeteilte punkte / 4 = Schaden pro Runde)
 Nach einer Minute erlöscht das Feuer (oder brennt weiter, solang noch dedizierte Materie nutzbar ist)
+Verdünnung erlaubt das resultierende Gemisch zu strecken, um den Faktor der eingeteilten Punkte.
+Silathisches Feuer, wenn effizient verteilt, deckt 3.3 quadratmeter pro kilogramm ab.
 
