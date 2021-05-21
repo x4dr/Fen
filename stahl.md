@@ -26,7 +26,7 @@ tags: Character Swordlad character
 | Rennen | 2 |
 | Springen | 1 |
 | Werfen | 0 |
-|- Schwimmen | 1 |
+| Schwimmen | 1 |
 | Klettern | 1 |
 | Survival | 2 |
 | Zechen | 2 |
