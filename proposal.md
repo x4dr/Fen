@@ -9,7 +9,8 @@ tags:
 ## An des Todes Tür 
  Bonus auf Schaden wenn die Restlebenspunkte 1/4 unterschreiten
 ==> riskant aber machbar. 5+7.5*Konstitution damit das mit Bonusleben skaliert
-==> Bonusschadenhöhe ist wichtig
+==> Bonusschadenhöhe ist verbleibende lebenspunkte / schaden 
+==> 60*0.75 =  15 ===> jeder punkt über 45 ist 1/15 mehr schaden (45 ist 1/15, 59/60 => 100% Bonusschaden)
 ### Tee mit dem Tod
  Bonus auf Schadensresistenz bei einstelligen Restlebenspunkte
 ==> Resonanzsummenschwelle verhindert schaden, je niedriger die lebenspunkte desto einfacher ist verbleibende lebenspunkte?
