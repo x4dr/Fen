@@ -27,8 +27,7 @@ Wutjadestern
 Amulet Blau (Geschwisterloot)
 Götterfunke
 ##Rüstung
-Turmschild 5/50 -20
-
+Turmschuld 11/50
 #Details
 ##Allgemeine Erscheinung  
 noch einzutragen
