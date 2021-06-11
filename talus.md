@@ -141,6 +141,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |MH:Mechanisch Aktivierung|2|  
 |GE:Perfekte Gemgranate (normale Explosion)||  
 |MH:verzauberbare Bronzelampe (6h, 1kg Bronze)||
+|MH:kinetic dampening Artefakt||  
 |KO:Architekt|2|  
   
 ## Magie  
