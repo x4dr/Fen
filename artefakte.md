@@ -7,6 +7,11 @@ tags:
 0/50/50
 Bei Resonanz kann die Ladung ausgegeben werden um 11-Resonanz Würfel zu erhalten die im Rest der Szene in beliebige Würfe eingesetzt werden können. 
 
+### Heilungsamulett
+20/20/20
+Umfunktioniertes Taglegion Heilrüstungsanteil. Aktivierung kostet 12-Einblick Ladung, hält einen Tag, danach wird eine Ladung pro Tag zum Aufrechterhalten benötigt. Es deaktiviert sich wenn es abgelegt wird oder sonstig magisch damit interagiert wird.
+Solange es aktiv ist 1 Bonuswürfel auf Heilung/Tag.
+
 
 ### Lichtplattenboot
 20/20/25
@@ -27,7 +32,7 @@ identifiziert 8 sponge amulett, can reproduce any spell (in immediate range) 40/
 Horn eines imperialen supkult, spendet Wasser gesegnet von sural
 
 ### Fernglas der Fehrnsicht Avis
-Wenn Gehalten wird sciht gespeichert.  
+Wenn Gehalten wird sicht gespeichert.  
 Beim durchschauen Verbraucht.  
 Gibt 1 Bonuswürfel oder Erlaubt es sehr kleine/Entfernte Dinge zusehen  
 
@@ -37,10 +42,10 @@ gibt plus 2 auf Vektorzauber
 ### Die Sturmklinge Avis  
 Erhöht AoE Effekte wenn geschwungen. 5-facher Radius 8-fache Kosten  
 
-### amulett 2
+### Amulett 2
 identifiziert 6 more spells, strategically   
 
-### amulett 3
+### Amulett 3
 identifiziert 5 holds energy sort of unstable useable on actions   
 
 ### Unsichtbarmachende Unsichtbarkeitskette (Talus)
