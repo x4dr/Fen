@@ -37,8 +37,9 @@ stets betrunken, 3 Gunstpunkte Fobif
 ???
 ##Wunden
 
-5 (Biss), 4 (Biss) x (-1 Fortschritt Rennen), 3 (Biss) x (-1 Fortschritt Feuer), 3 (Biss), 3 (Biss), 2 (Wutjadestern), 3 (Feuerschutz), 5 (Armbrustbolzen), 2 (Hammer)
-33/60
+
+60/60
+
 
 
 
