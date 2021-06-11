@@ -32,7 +32,7 @@ Reisen: 45kg
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
 Gigatalus: Bein1: 5 schaden diff 4, 7 schaden diff 6
-Bein2: 2x10 Manaburn diff 10, 3 schaden diff 7
+Bein2: 1x10 Manaburn diff 10, 3 schaden diff 7
 Bein3: 2x10 Manaburn diff 10
 Bein4: 2x10 Manaburn diff 10
 Bein5: 2x10 Manaburn diff 10
