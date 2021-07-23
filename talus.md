@@ -40,7 +40,7 @@ Bein6: 2x10 Manaburn diff 10
 Bein7: 2x10 Manaburn diff 10
 Bein8: 2x10 Manaburn diff 10
 Megatalus: Bein1: 4,2,(6) Bein 7: 3(Avis' Mark, 9)
-Talus: 3(Avis' Mark, 9)
+Talus: 3(Avis' Mark, 9), 28 (Sand)
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 Megatalus: 8*30=240
