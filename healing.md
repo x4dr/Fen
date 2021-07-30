@@ -48,7 +48,7 @@ Getragen werden oder auf Wagen fahren tut Wunden und der Gesundheit nicht gut. D
 Reisen in denen man eine Tätigkeit vollführt (wandern, klettern, rudern), zählt auch als Transport!
 
 ### Tätigkeit
-Ob Körperlich, Handwerklich, Mental or Sozial. Selbst Magie kann Anstrengend sein und die Heilung verkomplizieren!
+Ob Körperlich, Handwerklich, Mental or Sozial. Selbst Magie kann Anstrengend sein und die Heilung verkomplizieren.
 Die meisten Mentalen und Sozialen tätigkeiten sind leicht, aber verzweifeltes Forschen oder stressreiche verhandlungen können ebenfalls mittel oder anstrengend sein.
 
 ### Krankenhaus
