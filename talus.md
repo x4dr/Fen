@@ -32,7 +32,8 @@ Reisen: 45kg
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
 Gigatalus:
-Megatalus: Bein1: 4,2,(6) Bein 7: 3(Avis' Mark, 9)
+Megatalus: Bein1: 4,2,(6) 13x2 Bein 7: 3(Avis' Mark, 9)
+vordere hälfte je 13 diff2
 Talus: 3(Avis' Mark, 9)
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
