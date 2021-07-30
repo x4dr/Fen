@@ -24,7 +24,7 @@ Fobifscher Amtshammer
 Schmerzdämpferpiercing
 Wutjadestern
 
-Amulet Blau (Geschwisterloot)
+Amulett Blau (Geschwisterloot) (Beschädigt)
 Götterfunke
 ##Rüstung
 Turmschild 11/50
