@@ -3,7 +3,6 @@ tags:
 [TOC]
 
 # Wunden 
-
 ## Schwierigkeit
 Wunden haben eine Schwierigkeit. Diese hängt vom Waffentyp ab:  
 Fäuste - 2
