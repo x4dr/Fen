@@ -19,6 +19,7 @@ Plasmabrand - 10
 modifiziert von Medizin, Umgebung, Bettruhe usw
 Überzählige Bonus bzw Maluswürfel zählen als 10 bzw 1 respektive.
 
+
 ##Entzündung
 Eine Wunde kann mehrere Stufen von Entzündung haben. Wunden werden idR mit Entzündungsstufe 0 geschaffen, können aber sich aber durch Magie, Techniken oder Pech bei der Wundheilung entzünden.
 Einmal am Tag (direkt vor dem Wundheilungswurf, wenn einer gemacht wird) erhöht sich die Größe jeder Wunde um ihre Entzündungsstufe.
