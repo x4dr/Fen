@@ -110,7 +110,7 @@ Betroffene fühlen einen stumpfen Schmerz, während ihr Körper versteinert.
 Alles im Wirkungsbereich härtet aus und wird mit einer weißen Schicht überzogen.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Die nächsten **Wurf**/2 Runden, erhalten alle betroffenen **kumulative** -1 auf alle bewegungsbasierten Handlungen, 10% Reduktion der Bewegungsreichweite und 1 Rüstung.
-Der Effekt bleibt erhalten bis betroffene Nass werden. 1L Wasser negiert einen Runde Versteinerung.
+Der Effekt bleibt erhalten bis betroffene Nass werden. 1L Wasser negiert eine Runde Versteinerung.
 
 2-Resonanz:
 Dauer wird für jede für jede Resonanzstufe verdoppelt. (maximum 64 Runden)
