@@ -250,7 +250,7 @@ Volumen wird von Wurf abgezogen, das Ergebnis ist die Geschwindigkeit. Wenn das 
 |20| ...Viel| 1 Runde |
 
 ### Exaltieren
-**Materialkomponenten**: 10g vorbereitetes Silber
+**Materialkomponenten**: 10g gereinigtes Silber
 **Zauberzeit**: 1 Minute
 **Dedikation**: 1 Energie
 
