@@ -42,6 +42,9 @@ Alte Archivstadt, Holzbasiert, Heimat der Waldlegion
 Mondauge Himmel
 starke segregation zwischen oberstadt und understadt, gigantischer wasserfall, heimat der tag und nachtlegionen
 
+##Dämmerhafen
+Militärbasis, größtenteils unbesetzt, zur Reparatur der Dämmerung errichtet, weit
+
 ##Silath
 Abgrundhoher Himmel
 
