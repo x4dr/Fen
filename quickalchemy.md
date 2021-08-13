@@ -38,7 +38,7 @@ Der Alkohol wird verschüttet, oder in einem zerbrechlichen Gefäß geworfen. Di
 Effekt: Verdampfungsmischung (automatisch)
 Reagenzanforderungen: 50% oder mehr Wasser bzw nichtbrennbare Stoffe im Alkohol
 Durchmesser ist 5m bei 0.5-5L und 10m bei 5-80L, ab 80L gelten wieder normale Flächen.
-Schaden ist Wurf/4, Dauer ist Wurf/2 Runden.
+Dauer ist Wurf/2 Runden.
 
 Vorteil: haltbares Feuer  
 Reagenzanforderungen: Alchemisch Gereinigte Reagenz.  
