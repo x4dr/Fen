@@ -37,8 +37,9 @@ stets betrunken, 3 Gunstpunkte Fobif
 ???
 ##Wunden
 
-3 (Armbrust), 4 (Armbrust), 4 (Armbrust)
-50/60
+7 (Schw 7)
+53/60
+
 
 
 
