@@ -135,7 +135,7 @@ Ein Ziel kann nur einmal gleichzeitig Kalziniert werden. Bei entsprechend große
 
 Die Säure wird magisch verstärkt um Auflösungseigenschaften zu verbessern.
 Für jede Verdreifachung des Gewichtes ist eine Verdopplung der Dedikation notwendig.
-Die Säure wird aus dem Während des Zaubers präparierten Behältnisses entweder über das Zielobjekt oder in die Zielflüssigkeit gegossen.
+Die Säure wird aus dem während des Zaubers präparierten Behältnisses entweder über das Zielobjekt oder in die Zielflüssigkeit gegossen.
 Dies ist der Zeitpunkt an dem der Zauberwurf gemacht wird.
 Dort wo die Säure sich mit einer anderen Flüssigkeit vermengt, löst sie Material mit einer Rate von 500g/Runde für **Wurf-5** Runden auf. Zusätzliche Säure verlängert den Effekt.
 Die Lösung am Ende des Effekts ist übersättigt und verhält sich entsprechend.
