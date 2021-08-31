@@ -134,7 +134,7 @@ Stahl wird in das Objekt gedrückt. Es verschmilzt damit und bietet **Wurf**/4 e
 **Materialkomponenten**: Sehne (40+cm, frisch oder verarbeitet), Projektil  
 **Zauberzeit**: 1 (erster Wurf Anvisieren)  
 
-Bei Beginn des Zauber wird die Sehne Konsumiert, was das behandelte Objekt eine runde Schweben lässt. Danach bewegt es sich auf geradem weg vom Schwerpunkt des Zauberer weg und macht **Wurf** Schaden am ersten Hindernis, das es Trifft. Anvisieren mit Wahrnehmung,Bogen(o.ä) oder für einen Maluswürfel mit Wahrnehmung,Schnellalchemie.  
+Bei Beginn des Zauber wird die Sehne Konsumiert, was das behandelte Objekt eine runde Schweben lässt. Danach bewegt es sich auf geradem weg vom Schwerpunkt des Zauberer weg und macht **Wurf** Schaden am ersten Hindernis, das es trifft. Anvisieren mit Wahrnehmung,Bogen(o.ä) oder für einen Maluswürfel mit Wahrnehmung,Schnellalchemie.  
 
 ### Verfall
 **Zauberkosten**: 3 Materie, 3 Entropie
