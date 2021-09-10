@@ -47,6 +47,14 @@ Militärbasis, größtenteils unbesetzt, zur Reparatur der Dämmerung errichtet,
 
 ##Silath
 Abgrundhoher Himmel
+große sklavenbasierte metropole mit "weisen" 
+
+##Akh-Antargat
+Abgrundhoher Himmel/Im Berg
+Untergrund Stadt in der alles gut und toll ist, jeder ist wohlhabend, niemand hungert.
+
+##Akh-Satta
+Der Gipfel
 
 #Chaoslande
 ## Strittin 
