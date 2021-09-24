@@ -179,7 +179,7 @@ Ersatzteile schließen eine Wunde vollständig und benötigen stattdessen nur ei
 
 ##Operation
 (Geschick,Heilung)
-Kann von Charakteren mit Medicus Vorteil genutzt werden um einen Heilungsversuch bei einer spezifischen, operierbaren Wunde zu machen. Die Größe des Eingriffes beschränkt den Wurf nach oben und kann frei gewählt werden. Das Ergebnis des Wurfes wird von der Wunde abgespalten (originale Wunde kann auf 0 sinken) und Schwierigkeit -2. Dann wird eine neue Wunde mit der Größe des Eingriffes und Schwierigkeit 5 angewendet. Wunden die auf diese Art behandelt oder erzeugt wurden, können nicht wieder operiert werden.  
+Kann von Charakteren mit Medicus Vorteil genutzt werden um einen Heilungsversuch bei einer spezifischen, operierbaren Wunde zu machen. Die Größe des Eingriffes beschränkt den Wurf nach oben und kann frei gewählt werden. Das Ergebnis des Wurfes wird von der Wunde abgespalten (originale Wunde kann auf 0 sinken) und Schwierigkeit -2. Dann wird eine neue Wunde mit der Größe des Eingriffes und Schwierigkeit 5 angewendet. Wunden die auf diese Art behandelt oder erzeugt wurden, können nicht wieder operiert werden, bis die Operationswunde verheilt ist.  
 
 ##Wundversorgung
 (Kompetenz, Heilung)
