@@ -9,6 +9,12 @@ bisher ist nur ein kurzer scribble über [Aurier](aurier) verfügbar aber das so
 
 Sie wohnen hier, bis sie einen Besseren Platz finden. Der rest ist in [Kampf](combat) [Heilung](healing) [Charaktererstellung](3d10f) oder ähnlichen orten. Die können hier auch gerne von dir hinzugefügt werden.
 
+##Selektoren
+Ein Selektor wählt einen Wert aus einem Wurf, in aufsteigender Reihenfolge geordnet, anhand seines eigenen Wertes aus.
+Der Selektor "1" wählt den niedrigsten würfel aus, "2" den zweitniegrigsten und so weiter.
+Der Selektor "0" wähl keinen würfel aus (ein wert von 0)
+Selektoren mit einem Wert höher als die Anzahl der würfel, wählen stattdessen den höchsten Würfel aus.
+
 ## Lebenspunkte
 10+10*Ausdauer HP
 
