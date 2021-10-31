@@ -6,6 +6,7 @@ tags:
 "Magie" in diesem Sinne gibt es nicht, der Begriff existiert als nützliches Wort beim Hineinschauen in die Welt. Die Charactere die diese Fähigkeiten betreiben würden sie als Künste, Spezielle Handwerke, besondere Talente, tips und tricks oder mundane, wenn auch spezialisierte Ausübung ihrer allgemeinen Tätigkeiten Ansehen.
 
 Diese "Tätigkeiten" teilen häufig sich in 3 Teile: Quelle, Konzept und Aspekt. um etwas zu bewirken werden sie kombiniert.
+
 ##Quelle
 Quelle stellt auf eine Art oder die Andere die Möglichkeit bereit etwas zu bewirken. Innen wie außen, um großen zu bewirken muss irgend eine Form von Preis gezahlt werden.
 Die Quelle wirkt sich thematisch auf die Art und Weise aus, auf die das Konzept angewand wird - und färbt damit potentiell auch die Effekte, aber hauptsächlich ist die Frage, die ein Quellwurf beantwortet ob oder wieviel von der gewünschten Handlung ausgeführt werden kann.
@@ -44,4 +45,29 @@ Geordnete Magie nutzt direkt Energie in einem hohen Verabeitungs- und Abstraktio
 Halbgeordnete Quellen sind Quellen wie oben, nur dass sie in der Lage sind ihre Energie höher zu abstrahieren und aufzubereiten, sodass sie als geordnete Magie zur Verfügung steht. Sie unterliegen meist mehr einschränkungen als ihre "wilden" Gegenstücke.
 
 ##Konzept
+Konzepte sind die art und Weise auf die oder mit denen Effekte Erzielt werden. Sie haben alle Eigenheiten die sie voneinander Abgrenzen, Spielmechanisch dienen sie alle dazu, den Weg von Quelle zum Ziel zu überbrücken.
+
+Grundlegend haben alle Konzepte:
+* deutlich sichtbare und dem Konzept zuordenbare Handlungen (auch für Laien nur schwer mit alltäglichen Aktionen zu verwechseln)
+* direkte zuordenbarkeit zwischen Aktion und Effekt (meist Licht)
+* Geräuschliche Komponenten, meistens Sprache
+* Zeitanforderungen je nach Effekt im Bereich 1-5 Runden
+* Effekte die in der Größenordnung etwa die Arbeit einer ausgestatteten, vorbereiteten Person entsprechen
+
+Modifizierungen daran können auftreten, im Allgemeinen werden verschiedene Stärken und Schwächen gegeneinander ausgetauscht:
+* Stilles Zaubern
+* Unauffälliges Zaubern
+* Größe/Dauer der Effekte
+* Materialkomponenten
+* Einschränkungen der Ziele
+* Einschränkungen der Effekte
+* Konterbarkeit/Bedingungen der Effekte
+* Höhere oder niedrigere Anforderungen an das Quellergebnis
+
+Beispiele:
+* Bardenlied: kann mit einfacher Musik verwechselt werden, nur Illusionen und ähnliches, betrifft nur Hörer. nicht offensichtlich, benötigt eine passende Melodie, Dauer ist Dauer der Handlung
+* Feuerspucker: nur Cone/Area-attacks, keine Zauberzeit
+* große Alchemie: Effekte sind Objektgebunden, Effekte sind mächtiger als normal, Materialanforderungen pro Zauber, kann und muss Vorbereitet werden, Hohe Dauer/Permanenz
+
+
 ##Aspekt
