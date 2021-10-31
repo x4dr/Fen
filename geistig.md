@@ -2,6 +2,12 @@ title: Vorteile und Fähigkeiten der Geistigen Attribute
 tags:   
 [TOC]
 
+#Attribute
+
+Konzentration ist für sofortige, konzentrierte aktionen gedacht
+Disziplin für passiven kram, Drills und längerfristige sachen bzw wehrt sich disziplin gegen unterbrechung
+Flow ist eine mischung aus improvisation/in der zone sein, intuition und erfahrung, meistens die kurzfristigen, unterbrechbaren aktionen
+
 #Magie
 
 "Magie" in diesem Sinne gibt es nicht, der Begriff existiert als nützliches Wort beim Hineinschauen in die Welt. Die Charactere die diese Fähigkeiten betreiben würden sie als Künste, Spezielle Handwerke, besondere Talente, tips und tricks oder mundane, wenn auch spezialisierte Ausübung ihrer allgemeinen Tätigkeiten Ansehen.
@@ -92,3 +98,16 @@ Diese möglichkeiten dieser Aspekte sind nicht ansatzweise komplett sondern vers
 * Beschwören: Berührbare Wand, echtes Wasser, 
 * Erde: Berührbare Wand, Permanenz, Bewegen und Manipulieren von Erde
 
+# Anderes
+Dringend Ideen gesucht!
+
+##Ansätze
+Ignorieren von Müdigkeit/Wachbleiben/Erschöpfung zurücksetzen
+Heilung geht auch nach dem tod weiter, kann potentiell wiederbeleben, wenn genug vom körper übrig ist
+Unbeeindruckt (effekte treten erst später ein/graduell ein)
+Mimicry (akzente, gesten, angewohnheiten kopieren)
+Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
+Telepathie (je nach level und oder wurf irgendwas zwischen ungesprochenen empathischen mitteilungen von gefühlen bis hin zu wirklicher telepathie fähigkeit)
+
+##Brainstrom
+Players are free to add stuff here
