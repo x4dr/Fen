@@ -111,3 +111,12 @@ Telepathie (je nach level und oder wurf irgendwas zwischen ungesprochenen empath
 
 ##Brainstrom
 Players are free to add stuff here
+
+
+Manu: Einbindung der Spiritouchedvorteile durch Staminrelatedwürfe. Eventuell Augmentierung von normalen Angriffen durch Kanalisieren der Magie durch den Körper (Stamina-Würfe?) System nach einem Elektrischen Stromkreis -> Überladung (schlechte Würfe) kann zu Schaden am Zaubernden führen. 
+
+Flow+Quelle -> Stamina+Aspekt+Skill?
+
+Manu: Einbindung der Spiritouchedvorteile durch Staminrelatedwürfe. Eventuell Augmentierung von normalen Angriffen durch Kanalisieren der Magie durch den Körper (Stamina-Würfe?) System nach einem Elektrischen Stromkreis -> Überladung (schlechte Würfe) kann zu Schaden am Zaubernden führen. 
+
+Flow+Quelle -> Stamina+Aspekt+Skill?
