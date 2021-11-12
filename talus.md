@@ -33,7 +33,7 @@ Reisen: 45kg
 ## Wunden:  
 Gigatalus:
 Megatalus: Bein1: 5(4) Bein 7: 5(4),3(Avis' Mark, 9)
-Talus: 3(Avis' Mark, 9), 2(kurzschwert)
+Talus: 3(Avis' Mark, 9), 2,2(kurzschwert)
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
 ## HP  
 Megatalus: 8*30=240
