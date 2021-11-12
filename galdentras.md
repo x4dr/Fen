@@ -37,8 +37,10 @@ stets betrunken, 3 Gunstpunkte Fobif
 ???
 ##Wunden
 
-7 (Pfeil)
-53/60
+3 (Verbrennung 9), 3 (Verbrennung 9)
+
+54/60
+
 
 
 
