@@ -31,7 +31,7 @@ Reisen: 45kg
 ## Hauptwaffe:  
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
 ## Wunden:  
-Gigatalus: Bein1: 1,1,2,3,4,5(8), Bein2: 1,1,6(8), 2 Feuercounter jeweils, sonst 1 Feuercounter +1 Feuerschaden auf alle Teile
+Gigatalus: Bein1: 1,1,2,3,4,5,6(8), Bein2: 1,1,6,3(8), 2 Feuercounter jeweils, sonst 1 Feuercounter +2 Feuerschaden auf alle nicht vorderen beine
 Megatalus: Bein1: 5(4) Bein 7: 5(4),3(Avis' Mark, 9)
 Talus: 3(Avis' Mark, 9), 2,2(kurzschwert)
 Fängt bei Stress an zu leuchten, verursacht Feedback bei Berührung von Magiern und bekommt die Hälfte davon  
