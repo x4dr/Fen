@@ -37,9 +37,10 @@ stets betrunken, 3 Gunstpunkte Fobif
 ???
 ##Wunden
 
-3 (Markierung), 1 (Obsidianscherbe), 1 (Wutjadestern), 1 (Stich), 5 (Stich)
+3 (Markierung), 1 (Obsidianscherbe), 1 (Wutjadestern), 1 (Stich), 5 (Stich), 7 (SChnitt), 7 (SChnitt)
 
-49/60
+35/60
+
 
 
 
