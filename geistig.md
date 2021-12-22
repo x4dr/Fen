@@ -55,13 +55,13 @@ Geordnete Magie nutzt direkt Energie in einem hohen Verabeitungs- und Abstraktio
 Halbgeordnete Quellen sind Quellen wie oben, nur dass sie in der Lage sind ihre Energie höher zu abstrahieren und aufzubereiten, sodass sie als geordnete Magie zur Verfügung steht. Sie unterliegen meist mehr einschränkungen als ihre "wilden" Gegenstücke.
 
 ##Konzept
-Konzepte sind die art und Weise auf die oder mit denen Effekte Erzielt werden. Sie haben alle Eigenheiten die sie voneinander Abgrenzen, Spielmechanisch dienen sie alle dazu, den Weg von Quelle zum Ziel zu überbrücken.
+Konzepte sind die Art und Weise auf die oder mit denen Effekte erzielt werden. Sie haben alle Eigenheiten die sie voneinander Abgrenzen, Spielmechanisch dienen sie aber alle dazu, den Weg von Quelle zum Ziel zu überbrücken.
 
 Grundlegend haben alle Konzepte:
 
 * deutlich sichtbare und dem Konzept zuordenbare Handlungen (auch für Laien nur schwer mit alltäglichen Aktionen zu verwechseln)
-* direkte zuordenbarkeit zwischen Aktion und Effekt (meist Licht)
-* Geräuschliche Komponenten, meistens Sprache
+* direkte Zuordenbarkeit zwischen Aktion und Effekt (meist Licht)
+* geräuschliche Komponenten, meistens Sprache
 * Zeitanforderungen je nach Effekt im Bereich 1-5 Runden
 * Effekte die in der Größenordnung etwa die Arbeit einer ausgestatteten, vorbereiteten Person entsprechen
 
