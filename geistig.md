@@ -4,9 +4,9 @@ tags:
 
 #Attribute
 
-Konzentration ist für sofortige, konzentrierte aktionen gedacht
-Disziplin für passiven kram, Drills und längerfristige sachen bzw wehrt sich disziplin gegen unterbrechung
-Flow ist eine mischung aus improvisation/in der zone sein, intuition und erfahrung, meistens die kurzfristigen, unterbrechbaren aktionen
+* **Konzentration** ist für sofortige, konzentrierte Aktionen und das Ausblenden von Ablenkungen
+* **Disziplin** für passive, stetig aktive Effekte, Drills und Längerfristiges bzw gegen Unterbrechung
+* **Flow** ist eine Mischung aus Improvisation/in der "Zone" sein, Intuition und Erfahrung, meistens die kurzfristigen, unterbrechbaren Aktionen oder kontinuierliche Tätigkeiten
 
 #Magie
 
@@ -22,6 +22,7 @@ Die Quelle wirkt sich thematisch auf die Art und Weise aus, auf die das Konzept 
 Quellen können dabei grob in Gruppen eingeteilt werden die ähnlichen Spielmechaniken folgen. Eine Quelle die in keine dieser Gruppen passt ist lediglich die Entdeckung einer neuen Gruppe :)
 
 ### Verbrauchen
+
 Diese Quellen nutzen eine endliche Ressource, normalerweise in der Umwelt als "Hebel" um darauf Effekte aufzubauen. Zentral ist, dass alles jeweils nur einmal ausgenutzt werden kann. Die Konzepte und Objekte, die die Ressource darstellen, müssen dabei nicht unbedingt physisch verschwinden, sind aber nicht für weitere verwendungen brauchbar. Je nachdem wie relativ "groß" die genutzte Ressource ist können notwendige wWrfe nach oben und unten Skalieren
 
 Beispiele:
@@ -54,7 +55,8 @@ Geordnete Magie nutzt direkt Energie in einem hohen Verabeitungs- und Abstraktio
 
 Halbgeordnete Quellen sind Quellen wie oben, nur dass sie in der Lage sind ihre Energie höher zu abstrahieren und aufzubereiten, sodass sie als geordnete Magie zur Verfügung steht. Sie unterliegen meist mehr einschränkungen als ihre "wilden" Gegenstücke.
 
-##Konzept
+## Konzept
+
 Konzepte sind die Art und Weise auf die oder mit denen Effekte erzielt werden. Sie haben alle Eigenheiten die sie voneinander Abgrenzen, Spielmechanisch dienen sie aber alle dazu, den Weg von Quelle zum Ziel zu überbrücken.
 
 Grundlegend haben alle Konzepte:
@@ -85,8 +87,9 @@ Beispiele:
 * Rituale: Benötigen Signifikante Zeiten (Stunden bis Tage), wenig Energiekosten
 
 
-##Aspekt
-Aspekte sind Gruppierungen/Thematiken für die Erreichten Effekte. Um einen Effekt zu Erzeugen der in einem Apekt liegt, kann der Aspekt direkt angewendet werden. Speziellere Effekte, Kombinationen und alles mit spezielleren Regeln sind einzelne Vorteile die extra erworben werden müssen.
+## Aspekt
+
+Aspekte sind Gruppierungen/Thematiken für die Erreichten Effekte. Um einen Effekt zu Erzeugen der in einem Aspekt liegt, kann der Aspekt direkt angewendet werden. Speziellere Effekte, Kombinationen und alles mit spezielleren Regeln sind einzelne Vorteile die extra erworben werden müssen.
 
 
 Beispiele:
@@ -98,10 +101,39 @@ Diese möglichkeiten dieser Aspekte sind nicht ansatzweise komplett sondern vers
 * Beschwören: Berührbare Wand, echtes Wasser, 
 * Erde: Berührbare Wand, Permanenz, Bewegen und Manipulieren von Erde
 
+ 
+### Anwendung
+
+Es gibt mehrere Wege um mit einem Aspekt einen Effekt zu erzielen:
+
+* Erst mit Quelle und Konzept (und einem passenden Attribut, je nach energiebereitstellender Handlung) die Energie bereitstellen, dann mit dem Aspekt und einer relevanten Fähigkeit (meistens der relevante Beruf, oder wenn dieser nicht applikabel ist, die Handlung die mit dem Effekt am meisten zu tun hat)
+* Erst mit Quelle und relevanter Fähigkeit (in diesem Falle spezifisch auf die energiebereitstellende Handlung) die Energie bereitstellen und dann mit Aspekt und Konzept den Effekt erzielen.
+* Geordnete Magie, solange sie zur Verfügung steht, überspringt den ersten Schritt (und der Wurf, bestimmt ebenfalls die Menge der Energie)
+
+
+Dabei wird nach dem Bereitstellen der Energie entschieden, ob die Energie genug ist, falls der Effekt nicht mit geringen Energiemengen skalieren kann.
+Der Wurf für den Effekt ist eher ein Lenken und Nutzen der Energie.
+
+Beispiel: 
+
+* Das Erleuchten eines ganzen Raumes könnte eine 8 im Quellwurf erfordern aber mit 3 im Effektwurf schon erfolg haben
+* Telekinese um ein Schloss zu knacken, kann nur 5 im Quellwurf erfordern, aber mindestens eine 16 im Effektwurf
+
+#### Erlernt
+
+Erlernte Aktionen, können die Anforderungen festsetzen und ein verlässliches Werkzeug sein.
+Eine explizit erlernte Aktion mit vordefinierter Reichweite, Durchführungszeit, Quellanforderung und Effektbeschreibung, kann dann an den Aspekt "gehängt" werden.
+
+Beispiel:
+* Die oben genannte Telekineseaktion könnte formalisiert werden mit 3 Runden Zeitanforderung, Berührungsreichweite, einer Quellanforderung von 5 und dann den selben Effekt auf die Tür haben wie ein Dietrich der mit dem Effektwurf angewendet wurde.
+
+
+
 # Anderes
 Dringend Ideen gesucht!
 
-##Ansätze
+## Ansätze
+
 Ignorieren von Müdigkeit/Wachbleiben/Erschöpfung zurücksetzen
 Heilung geht auch nach dem tod weiter, kann potentiell wiederbeleben, wenn genug vom körper übrig ist
 Unbeeindruckt (effekte treten erst später ein/graduell ein)
@@ -109,7 +141,8 @@ Mimicry (akzente, gesten, angewohnheiten kopieren)
 Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
 Telepathie (je nach level und oder wurf irgendwas zwischen ungesprochenen empathischen mitteilungen von gefühlen bis hin zu wirklicher telepathie fähigkeit)
 
-##Brainstrom
+## Brainstrom
+
 Players are free to add stuff here
 
 
