@@ -132,16 +132,76 @@ Beispiel:
 # Anderes
 Dringend Ideen gesucht!
 
+## Mystische Fähigkeiten
+STC name
+General deal: you get a major mystical perk per level
+
+### Übernatürliches Durchhalten
+
+**Stufe 1** 
+Schlaf kann verzögert werden. Alle 24 Stunden ein Wurf mit Disziplin, Übernatürliches Durchhalten und der Hauptfähigkeit der Situation (Kontrolle, Suchen, Survival, Authorität, Navigation ...). Jeder folgende Wurf ist um 1 Erschwert (kumulativ). Eine Nacht Schlaf setzt die Erschwernis auf 0 zurück.
+
+
+4 und weniger: Müdigkeit setzt ein
+Bei 5-7: Nächster Wurf ist in der nächsten Szene
+8-11: Müdigkeit bleibt vorerst aus.
+12-15: Müdigkeit bleibt vorerst aus und die Erschwernis ändert sich nicht
+16-19: Müdigkeit bleibt vorerst aus und die Erschwernis wird um 1 gesenkt (minimum 0)
+20: Müdigkeit bleibt vorerst aus und die Erschwernis wird 0. 
+
+
+Wenn die Erschwernis bei einer 20 schon 0 war, können die nächsten Würfe übersprungen Werden (Eine Woche im Schlaf fall, einen Tag für Erschöpfung und Eine Szene/Stunde für Wundmali)
+
+**Stufe 2**
+Die Mechanik kann auch auf Erschöpfung (immer Szenen, bzw Stundenweise)  und Wundmali (Rundenweise) angewendet werden.
+
+**Stufe 3**
+Die Mechanik kann genutzt werden um dem Tod zu entgehen, egal wie verletzt man ist.
+Wenn der Körper nicht in der Lage wäre weiterzufunktionieren, wird er bewusstlos, aber das "Schlafen" in diesem Fall wäre Tod.
+Um das Bewusstsein wieder zu erlangen muss der Körper wieder in Funktionsfähigen Zustand kommen (zum Beispiel wieder zusammengesetzt werden und zusammenheilen)
+
+### Unbeeindruckt
+
+**Stufe 1**
+Verschiebt die Allgemeinen Effekte des Angegriffenwerdens auf das Ende der Runde (-1 aufs Wurfergebnis, wunden ...)
+Verschiebt Trunkenheit, Müdigkeit, Übelkeit und Ähnliches auf das Ende der Szene.
+
+**Stufe 2**
+verschiebt alles was kein explizit sofortiger effekt ist (inklusive Unterbrechungen bei Handlungen durch Schaden)
+
+**Stufe 3**
+Verschiebt alle Beeinflussungen die irgendwie verschiebbar sind (Techniken, Effekte, sofortige Handlung) zumindest auf das Ende der eigenen Aktion.
+
+### Telepathie
+
+**Stufe 1**
+Mit einer Verbindung (Berührung bzw zB Persönlicher Gegenstand auf Sichtreichweite) kann mental kommuniziert werden, die angesprochene Person weiß, dass jemand mit ihr spricht und kann die selbe telepathische wiedererkennen, aber nicht unbedingt feststellen wer spricht.
+
+**Stufe 2**
+Verbindung ist einfacher (Sichtreichweite oder Persönlicher Gegenstand auf "in der Nähe")
+
+**Stufe 3**
+Stärkere Verbindungen erhöht Reichweite, es ist möglich andere Personen mit "zusammenzuschalten" und die Verbindung zu verlassen.
+
+### Ewigkeit
+
+**Stufe 1**
+Aktionen und Werke neigen dazu weniger vom Zahn der Zeit beeinflusst zu sein: ein balanciertes Objekt fällt nicht von alleine um, zubereitetes Essen wird langsamer Schlecht, 
+
+**Stufe 2**
+Abnutzung und Verschleiß sind seltener(?)
+
+**Stufe 3**
+Alterung Hält an solange Entspannt und bei voller Gesundheit(?)
+
+
 ## Ansätze
 
-Ignorieren von Müdigkeit/Wachbleiben/Erschöpfung zurücksetzen
-Heilung geht auch nach dem tod weiter, kann potentiell wiederbeleben, wenn genug vom körper übrig ist
 Unbeeindruckt (effekte treten erst später ein/graduell ein)
 Mimicry (akzente, gesten, angewohnheiten kopieren)
 Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
-Telepathie (je nach level und oder wurf irgendwas zwischen ungesprochenen empathischen mitteilungen von gefühlen bis hin zu wirklicher telepathie fähigkeit)
 
-## Brainstrom
+## Brainstorm
 
 Players are free to add stuff here
 
