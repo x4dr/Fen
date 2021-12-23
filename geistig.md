@@ -183,21 +183,37 @@ Verbindung ist einfacher (Sichtreichweite oder Persönlicher Gegenstand auf "in 
 **Stufe 3**
 Stärkere Verbindungen erhöht Reichweite, es ist möglich andere Personen mit "zusammenzuschalten" und die Verbindung zu verlassen.
 
-### Ewigkeit
+### Geheimnisses des Ewigen Werks
 
 **Stufe 1**
-Aktionen und Werke neigen dazu weniger vom Zahn der Zeit beeinflusst zu sein: ein balanciertes Objekt fällt nicht von alleine um, zubereitetes Essen wird langsamer Schlecht, 
+Aktionen und Werke neigen dazu weniger vom Zahn der Zeit beeinflusst zu sein: ein balanciertes Objekt fällt nicht von alleine um, zubereitetes Essen wird langsamer Schlecht. Für einen FP, ist das Objekt komplett unbeeinflusst (Ein Gemälde, dass niemals verblasst)
 
 **Stufe 2**
-Abnutzung und Verschleiß sind seltener(?)
+Abnutzungs und Verschleißfreie Produkte. Für einen FP wird ein Verbrauchsprodukt "endlos" (Ein Trank der mit Wasser aufgefüllt werden kann und dann einen Tag später wieder volle Wirksamkeit hat, ein Pinsel der Farbe hält, bis er ausgewaschen wird ...)
 
 **Stufe 3**
-Alterung Hält an solange Entspannt und bei voller Gesundheit(?)
+Ein Schritt unter Unzerstörbare Produkte, die "einzige Schwäche" ist jeweils eine recht absichtliche Art und Weise der Zerstörung. Ein Gebäude würde Erdbeben und Stürme überstehen, könnte aber immernoch abgerissen werden, ein Brief wäre unbeeindruckt von den Elementen, könnte aber immernoch Zerissen werden. Für einen FP ist ein Werk für alle weltlichen Mächte unzerstörbar.
+
+**Vorteil**
+Richtige Handhabe:
+Ein Gegenstand kann den Effekt eines ausgegebenen FPs haben, solange es selbst verwendet wird. (Gemälde in der Wohnstätte, Trank im Eigengebrauch, Unzerstörbare Rüstung selbst tragen)
+Ein Gegenstand kann beliebig so "Gebunden" werden, aber erst nach einem Jahr erneut gebunden werden, nach dem er ersetzt wurde.
+Vorteil kann mehrfach genommen werden.
+
+### Spurenlos
+
+**Stufe 1**
+Keine Fingerabdrücke oder Fußspuren werden hinterlassen
+
+**Stufe 2**
+Ermöglicht es selbst ausgelöste Geräusche komplett zu unterdrücken (knirschender schnee, quiteschende Türen), Erlaubt es zu gehen ohne das jemand den exakten Zeitpunkt feststellen kann (Batman-Effekt, solange es einen Ausweg gibt)
+
+**Stufe 3** 
+Erschwert sämtliche Aufspürversuche über spuren und indirekte Hinweise (Gerüchte, Recherche, Aufspürungsmagie, Spurenlesen ... aber nicht "jedes Versteck im Raum durchsuchen" )
 
 
 ## Ansätze
 
-Unbeeindruckt (effekte treten erst später ein/graduell ein)
 Mimicry (akzente, gesten, angewohnheiten kopieren)
 Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
 
@@ -205,11 +221,13 @@ Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
 
 Players are free to add stuff here
 
-
+### Einbindung der Spiritouchedvorteile
 Manu: Einbindung der Spiritouchedvorteile durch Staminrelatedwürfe. Eventuell Augmentierung von normalen Angriffen durch Kanalisieren der Magie durch den Körper (Stamina-Würfe?) System nach einem Elektrischen Stromkreis -> Überladung (schlechte Würfe) kann zu Schaden am Zaubernden führen. 
 
-Flow+Quelle -> Stamina+Aspekt+Skill?
+Flow+Quelle -> Stamina,Aspekt+Skill?
 
-Manu: Einbindung der Spiritouchedvorteile durch Staminrelatedwürfe. Eventuell Augmentierung von normalen Angriffen durch Kanalisieren der Magie durch den Körper (Stamina-Würfe?) System nach einem Elektrischen Stromkreis -> Überladung (schlechte Würfe) kann zu Schaden am Zaubernden führen. 
+Maric: Es gibt so viele Spirittouched Vorteile, die meisten davon wären eher disziplin als Fitness (ehemals Stamina und Kraft getrennt, jetzt zusammengelegt), bzw flow und Konzentration, bzw Wille oder Schicksal.
 
-Flow+Quelle -> Stamina+Aspekt+Skill?
+Magie durch den Körper kanalisieren klingt eher nach nem magiekonzept für mich. Gibt aber nichts einzuwenden kram wie "atemtechnik" als quelle und "Waffenlose angriffe" als konzept zu handhaben und zauber zu etablieren die einen einzigen wurf für quellwurf, zauberwurf und den waffenlosen angriff nutzen
+
+was das dann für schwächen hat müsste man sich aber auch angucken
