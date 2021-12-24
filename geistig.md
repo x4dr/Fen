@@ -214,8 +214,28 @@ Erschwert sämtliche Aufspürversuche über spuren und indirekte Hinweise (Gerü
 
 ## Ansätze
 
+Designziel: Zwischenraum zwischen "Magischen" Effekten und anderen skills füllen
+
 Mimicry (akzente, gesten, angewohnheiten kopieren)
 Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
+Subsistence (survive on very little for very long)
+Unnatural sense (smell, zoom eyes?)
+Dementation3 (Hallo Tricky)
+Telekinese
+Doublejumpyness (slowfall/push off air/...)
+animal communion
+Spideysense
+Elemental Affinity (proto/refined spirittouched?)
+increased healing
+decreased wound severity
+eidetic memory
+timestop (including own body)
+some sort of find object intuition thing (mom, where is... ? meme)
+partyhard (increased effectiveness of drugs/projects to nearby)
+Restoration (clean stuff up, fix things at higher level)
+Empathetic connection
+
+
 
 ## Brainstorm
 
