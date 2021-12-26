@@ -216,6 +216,11 @@ Erschwert sämtliche Aufspürversuche über spuren und indirekte Hinweise (Gerü
 
 Designziel: Zwischenraum zwischen "Magischen" Effekten und anderen skills füllen
 
+
+
+Wechselhaftes Glück (resonanzen haben größeren einfluss, bewegen die geschichte nach vorne wenn möglich)
+Improvisierte Geschosse (Gambit style, whooo, vielleicht auch die power das dinge eher so funktionieren wie man erwartet?)
+
 Mimicry (akzente, gesten, angewohnheiten kopieren)
 Serenity (emotionale balance bewahren, rational agieren, potentiell bedenkzeit)
 Subsistence (survive on very little for very long)
@@ -225,9 +230,11 @@ Telekinese
 Doublejumpyness (slowfall/push off air/...)
 animal communion
 Spideysense
+Cosmic Place (Gefühl für Ströme des Kosmos, Eigenschaften des Himmels, Einmischung von Göttern usw)
+Wettersinn (inklusive gefühl für elementare kräfte auf höheren leveln)
 Elemental Affinity (proto/refined spirittouched?)
-increased healing
-decreased wound severity
+increased healing 
+decreased wound severity (weniger schwer heilbares)
 eidetic memory
 timestop (including own body)
 some sort of find object intuition thing (mom, where is... ? meme)
