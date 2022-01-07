@@ -27,7 +27,7 @@ https://media.discordapp.net/attachments/400773361778688000/425024742173442049/p
 
 Hamus: Fischt gerne
 
-Kharl: KV Alchimist, Agyrier, hat Bluuf
+Kharl: KV Alchimist, Agyrier, hat Bluus
 
 Kobalt: KV Stahl
 
