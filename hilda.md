@@ -1,5 +1,14 @@
 title: Hilda  
 tags:   
+Mögliche Skills:
+Navigation
+Kräuterkunde
+Magie/ Artefakte
+Überzeugen, Authorität
+Wahrnehmung, Suchen
+
+
+
 KM: Brunhilde
 KV: Gunnar
 Brüder: Erwin, Alois, Siegfried
