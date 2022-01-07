@@ -23,7 +23,7 @@ Quellen können dabei grob in Gruppen eingeteilt werden die ähnlichen Spielmech
 
 ### Verbrauchen
 
-Diese Quellen nutzen eine endliche Ressource, normalerweise in der Umwelt als "Hebel" um darauf Effekte aufzubauen. Zentral ist, dass alles jeweils nur einmal ausgenutzt werden kann. Die Konzepte und Objekte, die die Ressource darstellen, müssen dabei nicht unbedingt physisch verschwinden, sind aber nicht für weitere verwendungen brauchbar. Je nachdem wie relativ "groß" die genutzte Ressource ist können notwendige wWrfe nach oben und unten Skalieren
+Diese Quellen nutzen eine endliche Ressource, normalerweise in der Umwelt als "Hebel" um darauf Effekte aufzubauen. Zentral ist, dass alles jeweils nur einmal ausgenutzt werden kann. Die Konzepte und Objekte, die die Ressource darstellen, müssen dabei nicht unbedingt physisch verschwinden, sind aber nicht für weitere verwendungen brauchbar. Je nachdem wie relativ "groß" die genutzte Ressource ist können notwendige Würfe nach oben und unten Skalieren
 
 Beispiele:
 
