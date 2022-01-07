@@ -7,4 +7,5 @@ Brüder: Erwin, Alois, Siegfried
 Eltern: Bäckerei
 viel beschäftigt
 
-Tante Gwendolin hat Kräuterladen
+Tante Gwendolin 
+hat Kräuterladen
