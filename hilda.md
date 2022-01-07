@@ -11,6 +11,8 @@ Wahrnehmung, Suchen
 1 womit ich mich im nächsten Jahr beschäftige
 
 
+
+
 KM: Brunhilde
 KV: Gunnar
 Brüder: Erwin, Alois, Siegfried
