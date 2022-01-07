@@ -22,3 +22,12 @@ https://media.discordapp.net/attachments/400773361778688000/837788233492070440/m
 
 Östliche Inseln
 https://media.discordapp.net/attachments/400773361778688000/425024742173442049/prekor.png?width=832&height=468
+
+
+Hamus: Fischt gerne
+
+Kharl: KV Alchimist, Agyrier
+
+Kobalt: KV Stahl
+
+Ragin: KV Graveur
