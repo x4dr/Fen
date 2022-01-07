@@ -1,3 +1,5 @@
 title: Hilda  
 tags:   
-Zeug zum Merken
+KM: Brunhilde
+KV: Gunnar
+Brüder: Erwin, Alois, Siegfried
