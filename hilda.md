@@ -7,6 +7,8 @@ Magie/ Artefakte
 Überzeugen, Authorität
 Wahrnehmung, Suchen
 
+1/5 was ich heute erfolgt habe
+1 womit ich mich im nächsten Jahr beschäftige
 
 
 KM: Brunhilde
