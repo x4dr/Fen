@@ -46,6 +46,7 @@ Beispiele:
 Quellen dieser Form bestehen meist aus kurz bis mittelfristigem Ansammeln, potentiell unter Vorraussetzungen, stehen dann aber nach Belieben zur Verfügung. Mit mehr Einschränkungen können sie einer umständlichen Nutzen-Quelle ähneln, machen dies aber meist durch schnellere wiederholbarkeit und weniger Einschränkungen der Gesamtmenge der nutzbaren Quelle wieder Wett. Die Haupteinschränkung hierbei liegt darin, Zeit und/oder Ressourcen Aufwenden zu müssen und die relativ geringe Maxima zu erreichen.
 
 Beispiele:
+
 * Stillstand: Bloßes stillstehen und Sammeln, beziehungsweise der Moment des Endes dieser Meditation kann genutzt werden
 * Konsumieren: Je nach Quelle kann auch der Konsum eines mehr oder weniger speziellen Gutes genutzt werden. ("Zaubertrank", spezifische Quellzuträgliche Drogen, andere Ressourcen)
 * Vorbereiten: langfristigste der Sammeln quelle, grenzt sie stark an Nutzen: Eine beschränkte Menge von Aktionen oder Teilen wird Vorbereitet um sie Später auszuführen
