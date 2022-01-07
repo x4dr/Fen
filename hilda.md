@@ -42,3 +42,11 @@ kletter super
 Kobalt: KV Stahl
 
 Ragin: KV Graveur, hat Messer
+
+
+Svenja:
+Glitzerin
+
+
+Odus:
+Müllersohn, Wassermühle
