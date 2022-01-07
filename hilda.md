@@ -24,11 +24,20 @@ https://media.discordapp.net/attachments/400773361778688000/837788233492070440/m
 https://media.discordapp.net/attachments/400773361778688000/425024742173442049/prekor.png?width=832&height=468
 
 
-Hilda: hat Umhängetasche
+Hilda: 
+hat Umhängetasche, 
+Artefaktenkugel, leuchtet mit Blitzen darin
 
-Hamus: Fischt gerne, hat Angst vor Gefahren, schlecht im Klettern
+Hamus: 
+Fischt gerne, 
+hat Angst vor Gefahren, 
+schlecht im Klettern
 
-Kharl: KV Alchimist, Agyrier, hat Bluus, kletter super
+Kharl: 
+KV Alchimist, 
+Agyrier, 
+hat Bluus, 
+kletter super
 
 Kobalt: KV Stahl
 
