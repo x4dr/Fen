@@ -17,8 +17,8 @@ https://media.discordapp.net/attachments/400773361778688000/696130272441401444/E
 
 Karte von Prekor
 https://media.discordapp.net/attachments/400773361778688000/696362396201255012/bigprekor.png?width=832&height=468
+https://media.discordapp.net/attachments/400773361778688000/837788233492070440/map.png?width=529&height=468
 
 Östliche Inseln
 https://media.discordapp.net/attachments/400773361778688000/425024742173442049/prekor.png?width=832&height=468
 height=468
-https://media.discordapp.net/attachments/400773361778688000/837788233492070440/map.png?width=529&height=468
