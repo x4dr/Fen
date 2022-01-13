@@ -87,5 +87,9 @@ tags:
 
 #Inventar
 
+|Name|Anzahl|Gewicht|Preis|
+|---|---|---|---|
+|||||
+
 ##Ausrüstung
 
