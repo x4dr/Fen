@@ -37,6 +37,8 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Überzeugen|0|
+|Empathie|0|
+
 
 
 ##Mental
@@ -87,6 +89,7 @@ tags: character
 |Fähigkeit/Vorteil|gesammelt|
 |:-|:-|
 |Überzeugen|S|
+|Empathie|S|
 
 
 #Inventar
