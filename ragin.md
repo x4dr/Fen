@@ -86,6 +86,7 @@ tags: character
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |Survival|S|
+|Fußarbeit|S|
 
 #Inventar
 
