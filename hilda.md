@@ -3,9 +3,9 @@ tags: character
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | TestCharakter|
-|Alter | 999 |
-|Größe|12cm|
+|Name | Hilda|
+|Alter | 7 |
+|Größe|121cm|
 |usw|joa|
 |...|?|
 
