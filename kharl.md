@@ -37,7 +37,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+
 
 
 ##Mental
@@ -52,7 +52,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+
 
 
 ##Können
@@ -67,7 +67,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+
 
 ##Mystisch
 ###Attribute 
@@ -81,7 +81,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+
 
 
 #Fortschritt
