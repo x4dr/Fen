@@ -3,9 +3,9 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | TestCharakter|
+|Name | Kharl|
 |Alter | 8 |
-|Größe|125cm|
+|Größe|115cm|
 |Schuppenfarbe|Grün|
 |Zweitfarbe|Gold|
 |Tattoo| |
