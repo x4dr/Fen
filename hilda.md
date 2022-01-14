@@ -66,7 +66,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Kräuterkunde|1|
 
 ##Mystisch
 ###Attribute 
@@ -84,6 +84,8 @@ tags: character
 
 
 #Fortschritt
+
+
 
 #Inventar
 
