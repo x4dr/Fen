@@ -1,5 +1,5 @@
 title:   
-tags:   
+tags: character  
 # Charakter  
 ## Name:  
 Megatalus  
