@@ -1,5 +1,5 @@
 title: Kharl  
-tags:   
+tags: character  
 #Charakter
 |Detail|Inhalt|
 |-|-|
