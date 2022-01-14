@@ -3,7 +3,7 @@ tags:
 Mögliche Skills:
 Navigation
 Kräuterkunde
-Magie/ Artefakte
+Magische Artefakte
 Überzeugen, Authorität
 Suchen
 
