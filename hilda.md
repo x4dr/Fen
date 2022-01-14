@@ -175,3 +175,4 @@ Talking points:
 - Kräuter
 - Tarotkarten?
 - Hexen Fähigkeiten von Pratchett
+- Wo steht Schicksal, Gunst, Wille?
