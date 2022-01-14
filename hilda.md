@@ -2,8 +2,8 @@ title: Hilda
 tags:   
 Mögliche Skills:
 Navigation
-Kräuterkunde
-Überzeugen, Authorität
+Kräuterkunde (1)
+Überzeugen (1/5), Authorität
 Suchen
 
 1/5 was ich heute erfolgt habe
