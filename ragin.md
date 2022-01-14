@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Survival | 1 |
+| Rennen | 1 |
 
 ##Sozial
 ###Attribute 
