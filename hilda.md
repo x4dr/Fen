@@ -172,5 +172,5 @@ Was kannst du damit tun?
 
 Talking points:
 - Kräuter
-- Tarotkarten
+- Tarotkarten?
 - Hexen Fähigkeiten von Pratchett
