@@ -104,6 +104,7 @@ Navigation
 Kräuterkunde (1)
 Überzeugen (1/5), Authorität
 Suchen
+Lesen
 
 1/5 was ich heute erfolgt habe
 1 womit ich mich im nächsten Jahr beschäftige
