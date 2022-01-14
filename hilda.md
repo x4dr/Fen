@@ -168,3 +168,9 @@ Magie: drei Fragen
 Woher kommt sie?
 Wie wirkst du sie?
 Was kannst du damit tun?
+
+
+Talking points:
+- Kräuter
+- Tarotkarten
+- Hexen Fähigkeiten von Pratchett
