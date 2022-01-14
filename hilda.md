@@ -85,6 +85,15 @@ tags: character
 |Beispiel|0|
 
 
+##Narrativ
+###Attribute 
+|Attribut|Level|
+|-|-|
+| Schicksal | 1 |
+| Gunst | 1 |
+| Wille | 1 |
+
+
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|
 |:-|:-|
