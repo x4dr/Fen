@@ -163,3 +163,8 @@ Glitzerin
 
 Odus:
 Müllersohn, Wassermühle
+
+Magie: drei Fragen
+Woher kommt sie?
+Wie wirkst du sie?
+Was kannst du damit tun?
