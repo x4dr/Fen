@@ -150,9 +150,11 @@ Agyrier,
 hat Bluus, 
 kletter super
 
-Kobalt: KV Stahl
+Kobalt: 
+KV Stahl
 
-Ragin: KV Graveur, hat Messer
+Ragin: 
+KV Graveur, hat Messer
 
 
 Svenja:
