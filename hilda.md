@@ -36,7 +36,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Überzeugen|0|
 
 
 ##Mental
@@ -84,7 +84,9 @@ tags: character
 
 
 #Fortschritt
-
+|Fähigkeit/Vorteil|gesammelt|
+|:-|:-|
+|Überzeugen|S|
 
 
 #Inventar
