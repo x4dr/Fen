@@ -1,5 +1,5 @@
 title: Hilda  
-tags:   
+tags: character  
 #Charakter
 |Detail|Inhalt|
 |-|-|
