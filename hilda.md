@@ -113,7 +113,7 @@ Suchen
 
 KM: Brunhilde
 KV: Gunnar
-Brüder: Erwin, Alois, Siegfried
+Brüder: Erwin, Alois, Siegfried, Kolja (Nikolai)
 
 Eltern: Bäckerei
 viel beschäftigt
