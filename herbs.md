@@ -3,7 +3,7 @@ tags:
 [TOC]
 
 # Zutatenwissen
-Zutaten sind nicht so allgemein bekannt wie es zu erwarten wären. Die meisten sind nur denen bekannt die sich spezifisch und langjährig mit ihrer Anwendung beschäftigen. Wenn eine neue Zutat oder ein unbekannter Effekt angetroffen wird, kann Zutatenwissen gewürfelt werden.
+Zutaten sind nicht so allgemein bekannt, wie es zu erwarten wären. Die meisten sind nur denen bekannt, die sich spezifisch und langjährig mit ihrer Anwendung beschäftigen. Wenn eine neue Zutat oder ein unbekannter Effekt angetroffen wird, kann Zutatenwissen gewürfelt werden.
 
 Der **Zutatenwissenswurf** ist einmalig pro Zutat, kann aber mit entsprechenden Experimenten oder Wissensquellen wiederholt oder ersetzt werden.
 
@@ -42,7 +42,7 @@ Es wird 1 Gebräu je nach Vektor produziert (Vorteile können auch das erhöhen)
 
 ##Düsterwurz 
 
-Düsterwurz ist ein relativ häufiges Kraut, das man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.  
+Düsterwurz ist ein relativ häufiges Kraut, welches man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.  
 
 **Beschreibung:** Insgesamt bis zu 20 cm hoch. Dunkelgrüne, dreieckige Blätter mit glattem Rand, die maximal handgroß werden. Die Blätter sind rings um einen einzelnen Stängel angeordnet, der eine Ähre kleiner kreuzblütiger Blüten besitzt. Die Blüten sind in der Regel hellblau, können auf alkalischen Böden aber auch weiß werden. Sie blühen nur nach Sonnenuntergang und besitzen eine Geruch, der an Wein erinnert. Die Blätter haben einen schwachen bitteren Geschmack.  
 
@@ -71,9 +71,9 @@ A 19: Vektor: Kontaktgift, Haltbarkeit: 1 Jahr
 
 ##Gabelblume
 
-Gabelblumen sind robuste, weit verbreitete Wildblumen, nahezu überall zu finden sind. Zusätzlich zu der gelben Wildvariante gibt es auch zahlreiche Zuchtvarianten in unterschiedlichsten Farben, die als Zierpflanze in ganz Prekor beliebt sind. Gabelblumen haben keine eigene Heilwirkung, werden aber gern verschiedenen Präperaten zugesetzt, um Konsistenz und Haltbarkeit zu verbessern.  
+Gabelblumen sind robuste, weit verbreitete Wildblumen, welche nahezu überall zu finden sind. Zusätzlich zu der gelben Wildvariante gibt es auch zahlreiche Zuchtvarianten in unterschiedlichsten Farben, die als Zierpflanze in ganz Prekor beliebt sind. Gabelblumen haben keine eigene Heilwirkung, werden aber gern verschiedenen Präperaten zugesetzt, um Konsistenz und Haltbarkeit zu verbessern.  
 
-**Beschreibung:** Mehrjährige Staude, sehr kompakter Wuchs, bis zu 40 cm hoch. Dicht verästelte, nicht verholzte Stängel, die an den Blattansätzen verdickt und rötlich gefärbt sind. Die Blätter sind klein, oval, fleischig und von hellegröner Farbe mit einem dunkelroten Rand nahe des Stiels.  
+**Beschreibung:** Mehrjährige Staude, sehr kompakter Wuchs, bis zu 40 cm hoch. Dicht verästelte, nicht verholzte Stängel, die an den Blattansätzen verdickt und rötlich gefärbt sind. Die Blätter sind klein, oval, fleischig und von hellegrüner Farbe mit einem dunkelroten Rand nahe des Stiels.  
 
 Gabelblumen blühen vom Frühjahr bis in den Herbst und in großer Anzahl. Sie formen dichte Dolden röhrenförmiger Blüten mit einem langen, an der Spitze gegabelten Stempel. Dieser gibt der Pflanze ihren Namen. Sie haben nur einen schwach süßlichen Duft.  
 
@@ -130,7 +130,7 @@ K 18: Vektor: Auflösbares Pulver (30 L), Haltbarkeit 10 Jahre
 ##Ziegenblume
 ~50k 
  
-K 0: 1 Maluswürfel bei mehr als 3 Runden aktivität in folge
+K 0: 1 Maluswürfel bei mehr als 3 Runden Aktivität infolge
 
 K 7: Einsschlafhilfe
 
@@ -206,7 +206,7 @@ A 15: Gift richtet einmalig drei Ticks Schaden sofort an.
 
 ~50k  
 
-K 8: löst fieber aus  
+K 8: löst Fieber aus  
 
 K 10: Versorgung +1  
 
@@ -227,11 +227,11 @@ A 18: Schaden stattdessen W
 ~50k  
 A/K 0: Prickelndes Gefühl
 
-K 8: Taubheit für -2 auf Agilität und Fingerfertigkeits würfe, +5 zu allen versuchen schmerz zu widerstehen
+K 8: Taubheit für -2 auf Agilitäts- und Fingerfertigkeitswürfe, +5 zu allen Versuchen Schmerz zu widerstehen
 
 K 12: Heilung +1, Operation +3  
 
-K 15: Lähmung anstelle von Taubheit: -W auf Körperliche und Können Würfe, Kein Schmerzempfinden mehr, autoerfolg bei allen durchhaltewürfen 1d10d10 Stunden  
+K 15: Lähmung anstelle von Taubheit: -W auf körperliche und Könnenwürfe, kein Schmerzempfinden mehr, Autoerfolg bei allen Durchhaltewürfen 1d10d10 Stunden  
 
 A 7: W - 3  
 
@@ -307,7 +307,7 @@ K 0: Halluzinationen -1
 
 K 8: Operation +5  
 
-K 12: Halluzinationen stattdessen -W und bettlägerig/fieberwahn   
+K 12: Halluzinationen stattdessen -W und bettlägerig/Fieberwahn   
 
 K 16: Verhindert Tod für Wirkungsdauer  
 
@@ -329,7 +329,7 @@ K 8: Abführend
 
 K 12: Krämpfe (2 Maluswürfel)
 
-K 14: +10 Giftwiderstand, tickrate aller gifte 1h   
+K 14: +10 Giftwiderstand, tickrate aller Gifte 1h   
 
 A 0 : W -10  
 
@@ -345,11 +345,11 @@ A 16: stattdessen W +10
 
 K 0: 1 Maluswürfel Bildung
 
-K 12: 1 Bonuswürfel Geist, Schwächt Immunsystem (-5 auf Giftwiderstand, 1-3 Resonieren gemeinsam bei Wundheilungswürfen, mindestens ein Wurf)  
+K 12: 1 Bonuswürfel Geist, schwächt Immunsystem (-5 auf Giftwiderstand, 1-3 Resonieren gemeinsam bei Wundheilungswürfen, mindestens ein Wurf)  
 
 A 0: Gift zischt und blubbert an der Luft
 
-A 12: Verdoppelt W von Intravenösen Giften  
+A 12: Verdoppelt W von intravenösen Giften  
 
 A 14: W damage per tick (1 stunde)  
 
@@ -365,9 +365,9 @@ K 0: Klebrig
 
 K 10: Heilung +1  
 
-K 15: Nach 7 Tagen Täglicher Anwendung und Bettruhe halbiert Schwierigkeit von Permanenten Wunden (solange wie es weiter angewendet wird)  
+K 15: Nach 7 Tagen täglicher Anwendung und Bettruhe halbiert Schwierigkeit von permanenten Wunden (solange wie es weiter angewendet wird)  
 
-K 19: nach 2 Monaten täglicher Anwendung und Bettruhe, halbiert Schwierigkeit von Permanenten erneut (solange wie es weiter angewendet wird)  
+K 19: nach 2 Monaten täglicher Anwendung und Bettruhe, halbiert Schwierigkeit von permanenten erneut (solange wie es weiter angewendet wird)  
 
 A 0: Körpertemperatur fällt
 
@@ -384,7 +384,7 @@ A 17: Durchhaltewurf +10 für 1h, Ohnmachtsschwelle vervierfacht für 1h (aufger
 
 ~30s  
 
-K 0: unglaublich Bitter und Übelriechend
+K 0: unglaublich Bitter und übelriechend
 
 K 10: 1d10 Schaden  
 
@@ -405,14 +405,14 @@ A 20: W steigt um angerichteten Schaden, Tickrate verlängert sich um 100% des A
 
 ## Lügenkresse
 
-Ein Kraut das der normalen Gartenkresse täuschend ähnlich sieht und für lLien nur an den Blüten unterschieden werden kann, zeichnet es sich durch einen ähnlichen, leicht scharfen Geschmack aus, der aber nach einiger Zeit einen fürchterlich bitteren Nachgeschmack hinterlässt.
+Ein Kraut, welches der normalen Gartenkresse täuschend ähnlich sieht und für Laien nur an den Blüten unterschieden werden kann, zeichnet es sich durch einen ähnlichen, leicht scharfen Geschmack aus, der aber nach einiger Zeit einen fürchterlich bitteren Nachgeschmack hinterlässt.
 
-K 0: nach 1d10 Stunden ein langanhaltender konzentrationsbrechender Nachgeschmack
+K 0: nach 1d10 Stunden ein langanhaltender, konzentrationsbrechender Nachgeschmack
 
 K 5: überdeckt und neutralisiert andere Geschmäcker und Gerüche, macht es ohne spezifische Suche nahezu unmöglich andere Zutaten zu entdecken
 K 8: Bis zum Eintreten des Nachgeschmacks 1 Bonuswürfel auf Lügenwürfe, danach 1 Maluswürfel während der Bitterkeit
 K 12: Bis zum Eintreten des Nachgeschmacks 1 Bonuswürfel auf Empathiewürfe, danach 1 Maluswürfel während der Bitterkeit
-K 16: erhöhung aller Bonus und Maluswürfel die durch das Gebräu ausgelöst wurden um 1
+K 16: Erhöhung aller Bonus- und Maluswürfel, die durch das Gebräu ausgelöst wurden um 1
 
 A 0: Trank sieht matschig braun aus und riecht und schmeckt Lügenkresse-bitter.
 
@@ -430,11 +430,11 @@ A 16: Bei einem identifikationswurf von weniger als 8 wird keinerlei Information
 
 ~1s
 
-In tiefen Höhlen unter Tantor, jenseits des Dorfes Dubok, wächst der Duboker Höhlenpilz. Frisch ist er am stärksten, etwa einen Tag nach dem er geschnitten wurde verliert er seine Potenz, aber nach mindestens einem Monat Trocknung erhält er die Hälfte davon Zurück. (Effekte sind frisch angegeben)
+In tiefen Höhlen unter Tantor, jenseits des Dorfes Dubok, wächst der Duboker Höhlenpilz. Frisch ist er am stärksten, etwa einen Tag nach dem er geschnitten wurde, verliert er seine Potenz, aber nach mindestens einem Monat Trocknung erhält er die Hälfte davon zurück. (Effekte sind frisch angegeben)
 
 K 0: Produkt und Einnehmender leuchten leicht in Dunkelheit
 
-K 5: die Zweite Dosis innerhalb von 24 Stunden führt zu Benommenheit und Schläfrigkeit (2 Maluswürfel auf Weisheit und Stärke Kategorien)
+K 5: die zweite Dosis innerhalb von 24 Stunden führt zu Benommenheit und Schläfrigkeit (2 Maluswürfel auf Weisheit und Stärke Kategorien)
 
 K 8: 1 Bonuswürfel auf Einblickwürfe zum Einsetzen/Aktivieren von Magie
 
