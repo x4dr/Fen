@@ -22,6 +22,8 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|1|
+|Fußarbeit|0|
+|Meucheln|0|
 
 ##Sozial
 ###Attribute 
