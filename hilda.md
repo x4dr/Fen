@@ -33,13 +33,11 @@ tags: character
 | Sympathie | 1 |
 | Eindruck | 1 |
 
-
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Überzeugen|0|
 |Empathie|1|
-
+|Überzeugen|0|
 
 
 ##Mental
@@ -49,7 +47,6 @@ tags: character
 | Wahrnehmung | 1 |
 | Bildung | 1 |
 | Geist | 1 |
-
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -66,11 +63,11 @@ tags: character
 | Praxis | 1 |
 | Einblick | 1 |
 
-
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Kräuterkunde|1|
+
 
 ##Mystisch
 ###Attribute 
@@ -79,7 +76,6 @@ tags: character
 | Konzentration | 1 |
 | Disziplin | 1 |
 | Flow | 1 |
-
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -121,7 +117,7 @@ Suchen
 Lesen
 
 1/5 was ich heute erfolgt habe
-1 womit ich mich im nächsten Jahr beschäftige
+2 womit ich mich im nächsten Jahr beschäftige
 
 
 
