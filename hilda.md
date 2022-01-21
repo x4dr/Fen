@@ -97,8 +97,8 @@ tags: character
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|
 |:-|:-|
-|Überzeugen|S|
-|Empathie|S|
+|Überzeugen|2/5|
+|Empathie|1/5|
 
 
 #Inventar
