@@ -189,7 +189,7 @@ Meister Marten
 
 
 Rote Robe:
-Kuroff
+K(u)roff
 
 
 Sokol: Falkenreiter
