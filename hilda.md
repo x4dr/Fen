@@ -37,7 +37,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Überzeugen|0|
-|Empathie|0|
+|Empathie|1|
 
 
 
@@ -53,7 +53,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Instinkt|1|
 
 
 ##Können
