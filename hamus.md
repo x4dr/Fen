@@ -20,7 +20,7 @@ tags: Hamus Charakter
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Rennen|1|
 
 
 ##Sozial
@@ -77,7 +77,7 @@ tags: Hamus Charakter
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Spurenlos|1|
 
 
 #Fortschritt
