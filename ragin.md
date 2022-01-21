@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Rennen | 1 |
+|Rennen|1|
 
 ##Sozial
 ###Attribute 
@@ -35,7 +35,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Unauffällig|1|
 
 
 ##Mental
@@ -50,7 +50,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Suchen|1|
 
 
 ##Können
@@ -87,6 +87,7 @@ tags: character
 |:-|:-|  
 |Survival|S|
 |Fußarbeit|S|
+|Meucheln|S|
 
 #Inventar
 
