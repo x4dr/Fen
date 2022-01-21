@@ -173,6 +173,9 @@ KV Graveur, hat Messer
 Svenja:
 Glitzerin
 
+Lyeom:
+Zauberer, Glitzerer
+
 
 Odus:
 Müllersohn, Wassermühle
