@@ -183,3 +183,6 @@ Meisterin Elke (erhält Dolch von Limasurobe)
 Meister Marten (potentiell Hilfe?)
 
 
+Rote Robe:
+Kuroff
+
