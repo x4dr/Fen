@@ -177,14 +177,14 @@ Glitzerin
 Odus:
 Müllersohn, Wassermühle
 
+
+Eisengilde:
+Meisterin Elke (erhält Dolch von Limasurobe) 
+Meister Marten (potentiell Hilfe?)
+
+
 Magie: drei Fragen
 Woher kommt sie?
 Wie wirkst du sie?
 Was kannst du damit tun?
 
-
-Talking points:
-- Kräuter
-- Tarotkarten?
-- Hexen Fähigkeiten von Pratchett
-- Wo steht Schicksal, Gunst, Wille?
