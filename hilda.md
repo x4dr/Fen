@@ -183,7 +183,7 @@ Müllersohn, Wassermühle
 
 Eisengilde:
 Meisterin Elke (erhält Dolch von Limasurobe) 
-Meister Marten (potentiell Hilfe?)
+Meister Marten 
 
 
 Rote Robe:
