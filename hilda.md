@@ -161,7 +161,7 @@ Kharl:
 KV Alchimist, 
 Agyrier, 
 hat Bluus, 
-kletter super
+klettert super
 
 Kobalt: 
 KV Stahl
@@ -182,9 +182,4 @@ Eisengilde:
 Meisterin Elke (erhält Dolch von Limasurobe) 
 Meister Marten (potentiell Hilfe?)
 
-
-Magie: drei Fragen
-Woher kommt sie?
-Wie wirkst du sie?
-Was kannst du damit tun?
 
