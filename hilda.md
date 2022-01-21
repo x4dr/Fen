@@ -21,7 +21,8 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Rennen|0|
+|Klettern|0|
 
 
 ##Sozial
@@ -54,6 +55,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Instinkt|1|
+|Suchen|0|
 
 
 ##Können
