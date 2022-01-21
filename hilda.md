@@ -186,3 +186,6 @@ Meister Marten (potentiell Hilfe?)
 Rote Robe:
 Kuroff
 
+
+Sokol: Falkenreiter
+Isban: Aurier, Teil der Stadtwache
