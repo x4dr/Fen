@@ -24,10 +24,14 @@ Verringert Bewegungsreichweite je nach schwere um ein bis neun Zehntel, meist um
 
 ## Mittlere Wunden
 
-mittlere Wunden stellen größere Einschränkungen dar und benötigen Tage bis Wochen um vollständig zu Heilen
+mittlere Wunden stellen längerfirstige Einschränkungen dar und benötigen Tage bis Wochen um vollständig zu Heilen
 
 ### Gehirnerschütterung
 
 Wird meistens begleitet von Kurzzeitiger Ohnmacht gefolgt von Übelkeit und (zumindest in Fen) allgemeinen Orientierungs und Koordinationsstörungen (1-3 Maluswürfel)
 
-[...]
+### Quetschung
+
+### Bruch
+
+### Schnitt
