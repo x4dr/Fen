@@ -190,16 +190,24 @@ Meisterin Elke (erhält Dolch von Limasurobe)
 Meister Marten 
 
 
+Munitionierer
+Jakob: Geselle, schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+
+
 Wachen
 Sokol: Falkenreiter,Schwertwächter
 Isban: Aurier, Seher, Teil der Stadtwache, kann Bilder aus Kopf übertragen
 Tom: Stadtwächter bei Botenpunkt
 
 
+Schenken
+Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+
+
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Qual: Geselle, schuldet mir sein leben
+Qual: Geselle, schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
