@@ -3,9 +3,9 @@ tags: character
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | Kharl|
+|Name | Kharl Ghila|
 |Alter | 9 |
-|Größe|135cm|
+|Größe|125cm|
 |Schuppenfarbe|Grün|
 |Zweitfarbe|Gold|
 |Tattoo| |
@@ -89,7 +89,7 @@ tags: character
 
 
 #Fortschritt
-1/5 Alchemie
+2/5 Alchemie
 1/5 Irreführung
 #Inventar
 
@@ -98,4 +98,10 @@ tags: character
 |||||
 
 ##Ausrüstung
+
+##Familie
+Vater: Godeberth
+Mutter: Estrid
+Älterer Bruder: Asgher
+Ältere Schwester: Ernesta
 
