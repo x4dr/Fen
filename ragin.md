@@ -81,7 +81,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Gifte|0|
+|Beispiel|0|
 
 
 #Fortschritt
