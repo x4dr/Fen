@@ -120,6 +120,11 @@ Lesen
 
 
 
+Hilda: 
+hat Umhängetasche, 
+Artefaktenkugel, leuchtet mit Blitzen darin
+arbeitet Schuld bei Isban und Çırak
+
 
 KM: Brunhilde
 KV: Gunnar
@@ -145,9 +150,7 @@ https://media.discordapp.net/attachments/400773361778688000/837788233492070440/m
 https://media.discordapp.net/attachments/400773361778688000/425024742173442049/prekor.png?width=832&height=468
 
 
-Hilda: 
-hat Umhängetasche, 
-Artefaktenkugel, leuchtet mit Blitzen darin
+
 
 Hamus: 
 Fischt gerne, 
@@ -167,22 +170,21 @@ Ragin:
 KV Graveur, hat Messer
 
 
-Svenja:
-Glitzerin
-Ostteil Nordstadt
+Onus:
+Müllersohn, Wassermühle
 
-Lyeom:
-Zauberer, Glitzerer
-Besserer Teil der Stadt
 
+Glitzerin/ Glitzerer
+Svenja: Ostteil Nordstadt
+Lyeom: Zauberer, Besserer Teil der Stadt
+
+
+Zauberer
 K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläufer?
 
 
+Heiler
 Çırak: Attakan, magischer Heiler, plappert viel, kann energetische Tränke brauen
-
-
-Onus:
-Müllersohn, Wassermühle
 
 
 Eisengilde
@@ -191,11 +193,11 @@ Meister Marten
 
 
 Munitionierer
-Jakob: Geselle, schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Jakob: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Wachen
-Sokol: Falkenreiter,Schwertwächter
+Sokol: Falkenreiter, Schwertwächter
 Isban: Aurier, Seher, Teil der Stadtwache, kann Bilder aus Kopf übertragen
 Tom: Stadtwächter bei Botenpunkt
 
@@ -207,7 +209,7 @@ Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Verg
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Qual: Geselle, schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Qual: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
