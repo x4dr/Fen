@@ -52,7 +52,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Instinkt|1|
-|Suchen|0|
+|Suchen|1|
 
 
 ##Können
@@ -67,6 +67,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Kräuterkunde|1|
+|Heilen|1|
 
 
 ##Mystisch
@@ -80,7 +81,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Scrying|1|
 
 
 ##Narrativ
