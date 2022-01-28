@@ -178,7 +178,7 @@ Besserer Teil der Stadt
 K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläufer?
 
 
-Çırak: Attakan, magischer Heiler, plappert viel
+Çırak: Attakan, magischer Heiler, plappert viel, kann energetische Tränke brauen
 
 
 Onus:
