@@ -198,7 +198,7 @@ Tom: Stadtwächter bei Botenpunkt
 
 Händler
 Ras: Händlerimperium 
-Olinde: Händlerin
+Olinde: Händlerin von Ras Händlerimperium
 
 
 Diebe
