@@ -78,7 +78,8 @@ tags: Hamus Charakter
 |Fähigkeit|Wert|
 |-|-|
 |Spurenlos|1|
-
+|Spinnensin|0|
+|etwas mit Wahrnehmung|0|
 
 #Fortschritt
 
