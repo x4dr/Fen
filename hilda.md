@@ -196,6 +196,7 @@ Tom: Stadtwächter bei Botenpunkt
 
 Händler
 Ras: Händlerimperium 
+Olinde: Händlerin
 
 Dieb:
 Mal: stiftete Hamus zum Stehlen an
