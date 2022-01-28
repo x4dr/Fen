@@ -188,13 +188,14 @@ Meisterin Elke (erhält Dolch von Limasurobe)
 Meister Marten 
 
 
-
+Wachen:
 Sokol: Falkenreiter,Schwertwächter
 Isban: Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
+Tom: Stadtwächter bei Botenpunkt
 
-Stadtwächter bei Botenpunkt:
-Tom
 
+Händler
+Ras: Händlerimperium 
 
 Dieb:
 Mal: stiftete Hamus zum Stehlen an
