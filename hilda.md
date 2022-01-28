@@ -175,24 +175,22 @@ Lyeom:
 Zauberer, Glitzerer
 Besserer Teil der Stadt
 
-Rote Robe:
-K(u)roff: aus Limasu, Blutmagier, doppelter Agent? Überläuger?
+K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläuger?
 
 
-Çırak: Attakan
+Çırak: Attakan, magischer Heiler
 
 
-
-Odus:
+Onus:
 Müllersohn, Wassermühle
 
 
-Eisengilde:
+Eisengilde
 Meisterin Elke (erhält Dolch von Limasurobe) 
 Meister Marten 
 
 
-Wachen:
+Wachen
 Sokol: Falkenreiter,Schwertwächter
 Isban: Aurier, Seher, Teil der Stadtwache, kann Bilder aus Kopf übertragen
 Tom: Stadtwächter bei Botenpunkt
@@ -202,5 +200,6 @@ Händler
 Ras: Händlerimperium 
 Olinde: Händlerin
 
-Dieb:
+
+Diebe
 Mal: stiftete Hamus zum Stehlen an
