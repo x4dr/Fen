@@ -4,7 +4,7 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Kharl|
-|Alter | 8 |
+|Alter | 9 |
 |Größe|115cm|
 |Schuppenfarbe|Grün|
 |Zweitfarbe|Gold|
@@ -23,7 +23,6 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Akrobatik|1|
-|Werfen|1|
 |Werfen|1|
 
 
@@ -71,6 +70,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Tierzähmung|1|
 
 
 ##Mystisch
