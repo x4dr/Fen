@@ -175,7 +175,7 @@ Lyeom:
 Zauberer, Glitzerer
 Besserer Teil der Stadt
 
-K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläuger?
+K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläufer?
 
 
 Çırak: Attakan, magischer Heiler
