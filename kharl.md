@@ -24,6 +24,8 @@ tags: character
 |-|-|
 |Akrobatik|1|
 |Werfen|1|
+|Kontrolle|1|
+
 
 
 ##Sozial
@@ -38,7 +40,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-
+|Irreführung|1|
 
 
 
@@ -85,7 +87,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-
+|Spurenlos|1|
 
 
 #Fortschritt
