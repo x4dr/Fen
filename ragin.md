@@ -23,7 +23,8 @@ tags: character
 |-|-|
 |Messa|1|
 |Rennen|1|
-|Fußarbeit|0|
+|Akrobatik|1|
+|Fußarbeit|1|
 |Meucheln|0|
 
 ##Sozial
