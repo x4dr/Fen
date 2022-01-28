@@ -175,6 +175,9 @@ Lyeom:
 Zauberer, Glitzerer
 Besserer Teil der Stadt
 
+Rote Robe:
+K(u)roff: aus Limasu, Blutmagier, doppelter Agent? Überläuger?
+
 
 Odus:
 Müllersohn, Wassermühle
@@ -184,9 +187,6 @@ Eisengilde:
 Meisterin Elke (erhält Dolch von Limasurobe) 
 Meister Marten 
 
-
-Rote Robe:
-K(u)roff: aus Limasu, Blutmagier, doppelter Agent? Überläuger?
 
 
 Sokol: Falkenreiter,Schwertwächter
