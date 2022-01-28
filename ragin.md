@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Noif|1|
+|Messa|1|
 |Rennen|1|
 |Fußarbeit|0|
 |Meucheln|0|
