@@ -87,7 +87,7 @@ tags: Hamus character
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
-|||||
+|pugna|Placidus |||
 
 ##Ausrüstung
 
