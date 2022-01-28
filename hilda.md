@@ -111,8 +111,7 @@ tags: character
 
 Mögliche Skills:
 Navigation
-Kräuterkunde (1)
-Überzeugen (1/5), Authorität
+Überzeugen (2/5), Authorität
 Suchen
 Lesen
 
