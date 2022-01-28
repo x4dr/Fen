@@ -23,6 +23,8 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Akrobatik|1|
+|Werfen|1|
+|Werfen|1|
 
 
 ##Sozial
