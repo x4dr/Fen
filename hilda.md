@@ -194,3 +194,7 @@ Isban: Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
 
 Stadtwächter bei Botenpunkt:
 Tom
+
+
+Dieb:
+Mal: stiftete Hamus zum Stehlen an
