@@ -22,7 +22,6 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|0|
-|Klettern|0|
 
 
 ##Sozial
