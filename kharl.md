@@ -104,6 +104,6 @@ tags: character
 #Familie
 Vater: Godeberth
 Mutter: Estrid
-Älterer Bruder: Asgher
+Älterer Bruder: Asgher (Modell: Gilaechse)
 Ältere Schwester: Ernesta
 
