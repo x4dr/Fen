@@ -194,7 +194,7 @@ Meister Marten
 
 Wachen:
 Sokol: Falkenreiter,Schwertwächter
-Isban: Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
+Isban: Aurier, Seher, Teil der Stadtwache, kann Bilder aus Kopf übertragen
 Tom: Stadtwächter bei Botenpunkt
 
 
