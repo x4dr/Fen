@@ -199,6 +199,7 @@ Tom: Stadtwächter bei Botenpunkt
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
+Qual: Geselle, schuldet mir sein leben
 
 
 Diebe
