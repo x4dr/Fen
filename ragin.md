@@ -67,7 +67,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Gifte|1|
 
 ##Mystisch
 ###Attribute 
@@ -81,7 +81,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Gifte|1|
 
 
 #Fortschritt
