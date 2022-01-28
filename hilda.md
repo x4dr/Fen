@@ -186,7 +186,7 @@ Meister Marten
 
 
 Rote Robe:
-K(u)roff
+K(u)roff: aus Limasu, Blutmagier, doppelter Agent? Überläuger?
 
 
 Sokol: Falkenreiter,Schwertwächter
