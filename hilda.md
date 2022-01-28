@@ -179,6 +179,10 @@ Rote Robe:
 K(u)roff: aus Limasu, Blutmagier, doppelter Agent? Überläuger?
 
 
+Çırak: Attakan
+
+
+
 Odus:
 Müllersohn, Wassermühle
 
