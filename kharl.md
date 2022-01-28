@@ -5,7 +5,7 @@ tags: character
 |-|-|
 |Name | Kharl|
 |Alter | 9 |
-|Größe|115cm|
+|Größe|135cm|
 |Schuppenfarbe|Grün|
 |Zweitfarbe|Gold|
 |Tattoo| |
