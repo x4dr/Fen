@@ -191,3 +191,6 @@ K(u)roff: aus Limasu, Blutmagier, doppelter Agent? Überläuger?
 
 Sokol: Falkenreiter,Schwertwächter
 Isban: Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
+
+Stadtwächter bei Botenpunkt:
+Tom
