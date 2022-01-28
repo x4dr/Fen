@@ -189,5 +189,5 @@ Rote Robe:
 K(u)roff
 
 
-Sokol: Falkenreiter
-Isban: Aurier, Teil der Stadtwache
+Sokol: Falkenreiter,Schwertwächter
+Isban: Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
