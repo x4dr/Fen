@@ -95,7 +95,7 @@ tags: character
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|
 |:-|:-|
-|Überzeugen|2/5|
+|Überzeugen|3/5|
 |Empathie|1/5|
 
 
