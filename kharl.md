@@ -39,6 +39,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Tierzähmung|1|
 
 
 
@@ -54,6 +55,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Tierzähmung|1|
 
 
 
