@@ -90,6 +90,7 @@ tags: character
 |Survival|S|
 |Fußarbeit|S|
 |Meucheln|S|
+|Gifte|S|
 
 #Inventar
 
