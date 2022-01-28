@@ -169,9 +169,11 @@ KV Graveur, hat Messer
 
 Svenja:
 Glitzerin
+Ostteil Nordstadt
 
 Lyeom:
 Zauberer, Glitzerer
+Besserer Teil der Stadt
 
 
 Odus:
