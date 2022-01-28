@@ -1,5 +1,5 @@
 title: Hamus  
-tags: Hamus Charakter  
+tags: Hamus character  
 #Charakter
 |Detail|Inhalt|
 |-|-|
