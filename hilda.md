@@ -204,7 +204,7 @@ Tom: Stadtwächter bei Botenpunkt
 
 
 Bäcker:
-Bäckertocher Linda
+Bäckertochter Linda
 
 Schenken
 Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
