@@ -191,7 +191,7 @@ Geselle Jakob: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift 
 
 Wachen
 Sokol: Falkenreiter, Schwertwächter
-Isban: Seher, Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
+Isban: Seher, Aurier, hat mit Stadtwache zu tun, kann Bilder aus Kopf übertragen
 Tom: Stadtwächter bei Botenpunkt
 
 
