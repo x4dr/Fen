@@ -107,24 +107,16 @@ tags: character
 |||||
 
 ##Ausrüstung
+Umhängetasche, 
+Artefaktenkugel, leuchtet mit Blitzen darin
 
-
-
-Mögliche Skills:
-Navigation
-Überzeugen (2/5), Authorität
-Suchen
-Lesen
 
 1/5 was ich heute erfolgt habe
 2 womit ich mich im nächsten Jahr beschäftige
 
 
 
-Hilda: 
-hat Umhängetasche, 
-Artefaktenkugel, leuchtet mit Blitzen darin
-arbeitet Schuld bei Isban und Çırak
+arbeitet Schuld bei Isban und Çırak ab
 
 
 KM: Brunhilde
