@@ -21,6 +21,8 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|1|
+|Kontrolle|1|
+|Schleuder|1|
 
 
 ##Sozial
@@ -50,7 +52,7 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Suchen|1|
 
 ##Können
 ###Attribute 
