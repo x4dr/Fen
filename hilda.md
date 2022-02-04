@@ -203,6 +203,9 @@ Isban: Seher, Aurier, Teil der Stadtwache, kann Bilder aus Kopf übertragen
 Tom: Stadtwächter bei Botenpunkt
 
 
+Bäcker:
+Bäckertocher Linda
+
 Schenken
 Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
