@@ -91,8 +91,8 @@ tags: character
 
 
 #Fortschritt
-2/5 Alchemie
-1/5 Irreführung
+3/5 Alchemie
+2/5 Irreführung
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
