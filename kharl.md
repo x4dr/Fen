@@ -5,7 +5,7 @@ tags: character
 |-|-|
 |Name | Kharl Ghila|
 |Alter | 11 |
-|Größe|142cm|
+|Größe|151cm|
 |Schuppenfarbe|Grün|
 |Zweitfarbe|Gold|
 |Tattoo| |
