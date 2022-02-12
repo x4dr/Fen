@@ -76,6 +76,9 @@ tags:
 | Praxis | 4 |
 | Einblick | 1 |
 
+###Fähigkeiten
+|Fähigkeit|Wert|
+|-|-|
 |Beruf Schmied | 2 |
 |Beruf Überlandreisender | 1 |
 |Schmelzen | 1 |
@@ -86,12 +89,6 @@ tags:
 |Musterresonanz | 1 |
 |Singender Hammer | 1 |
 |Tarnen | 1 |
-
-
-###Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Gifte|0|
 
 ##Mystisch
 ###Attribute 
