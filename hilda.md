@@ -98,6 +98,7 @@ tags: character
 |:-|:-|
 |Überzeugen|3/5|
 |Empathie|1/5|
+|Irrefühung|1/5|
 
 
 #Inventar
@@ -111,8 +112,6 @@ Umhängetasche,
 Artefaktenkugel, leuchtet mit Blitzen darin
 
 
-1/5 was ich heute erfolgt habe
-2 womit ich mich im nächsten Jahr beschäftige
 
 
 
