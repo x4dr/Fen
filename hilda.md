@@ -167,7 +167,11 @@ KV Graveur, hat Messer
 
 
 Onus:
-Müllersohn, Wassermühle
+Müllerssohn, Wassermühle
+Bande:
+Nolunt (nicht helle)
+Dischof (Händlerstochter)
+Imlus (Argyrier, very edgy)
 
 
 Glitzerin/ Glitzerer
