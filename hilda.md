@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Rennen|0|
+|Rennen|1|
 
 
 ##Sozial
@@ -53,6 +53,7 @@ tags: character
 |-|-|
 |Instinkt|1|
 |Suchen|1|
+|Navigation|1|
 
 
 ##Können
@@ -81,7 +82,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Erden|1|
+|Erden|0|
 |Fokus|1|
 |Scrying|1|
 
@@ -100,6 +101,7 @@ tags: character
 |:-|:-|
 |Überzeugen|3/5|
 |Empathie|1/5|
+|Erden|1/5|
 
 
 #Inventar
