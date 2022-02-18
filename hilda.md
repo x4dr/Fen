@@ -113,7 +113,7 @@ tags: character
 ##Ausrüstung
 Umhängetasche 
 Artefaktenkugel, leuchtet mit Blitzen darin
-ein riesenfangzahn, mit runen bedeckt
+ein riesenfangzahn; mit runen bedeckt, diese sind noch zu entschlüsseln; Isbans Scrying: damit wurde Gewalt gemacht und es wurde in Angst vergraben
 
 
 noch 3 Vorteile ausdenken
