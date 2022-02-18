@@ -4,8 +4,8 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Hilda|
-|Alter | 10 |
-|Größe|144cm|
+|Alter | 9 |
+|Größe|138cm|
 |usw|joa|
 |...|?|
 
@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Rennen|1|
+|Rennen|0|
 
 
 ##Sozial
@@ -37,8 +37,7 @@ tags: character
 |-|-|
 |Empathie|1|
 |Überzeugen|0|
-|Irreführung|0|
-|Tratsch|1|
+|Tratsch|0|
 
 
 ##Mental
@@ -54,7 +53,6 @@ tags: character
 |-|-|
 |Instinkt|1|
 |Suchen|1|
-|Navigation|1|
 
 
 ##Können
@@ -83,8 +81,6 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Erden|1|
-|Fokus|1|
 |Scrying|1|
 
 
@@ -102,7 +98,6 @@ tags: character
 |:-|:-|
 |Überzeugen|3/5|
 |Empathie|1/5|
-|Irrefühung|1/5|
 
 
 #Inventar
@@ -112,15 +107,13 @@ tags: character
 |||||
 
 ##Ausrüstung
-Umhängetasche 
+Umhängetasche, 
 Artefaktenkugel, leuchtet mit Blitzen darin
-ein Riesenfangzahn:
-     mit Runen bedeckt, diese sind noch zu entschlüsseln (kann es nicht lesen: Swenja, Isban); alte Runen aus den Chaoslanden
-     Isbans Scrying: damit wurde Gewalt gemacht und es wurde in Angst vergraben
-     Hexe Mathilda: wahrscheinlich von einem Bär, verleihte seinem Hersteller physische Kraft und Konstitution, Fokuswerkzeug nicht selbst magisch
 
 
-noch 3 Vorteile ausdenken
+1/5 was ich heute erfolgt habe
+2 womit ich mich im nächsten Jahr beschäftige
+
 
 
 arbeitet Schuld bei Isban und Çırak ab
@@ -171,11 +164,7 @@ KV Graveur, hat Messer
 
 
 Onus:
-Müllerssohn, Wassermühle
-Bande:
-Nolunt (nicht helle)
-Dischof (Händlerstochter)
-Imlus (Argyrier, very edgy)
+Müllersohn, Wassermühle
 
 
 Glitzerin/ Glitzerer
@@ -210,20 +199,14 @@ Bäcker:
 Bäckertochter Linda
 
 Schenken
-Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Geselle Qual: untersteht Olinde, schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Qual: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
 Mal: stiftete Hamus zum Stehlen an
-
-
-Aus Karawane:
-
-Runleif
-Hexe Mathilda
