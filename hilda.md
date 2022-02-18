@@ -116,11 +116,13 @@ Riesenfangzahn mit Runen bedeckt;
 
 
 1/5 was ich heute erfolgt habe
-2 womit ich mich im nächsten Jahr beschäftige
+
+3 Vorteile noch ausdenken/ vergeben
 
 
 
 arbeitet Schuld bei Isban und Çırak ab
+lernt Erden von Hexe Mathilda
 
 
 KM: Brunhilde
