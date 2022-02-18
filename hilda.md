@@ -173,6 +173,7 @@ Onus: Müllersohn, Wassermühle
 Bande
 Nolunt: dumm aber haut rum
 Dischof: Händlerstochter
+Imlus: Argyrier, very edgy
 
 
 Glitzerin/ Glitzerer
@@ -213,7 +214,7 @@ Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftun
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Geselle Qual: Geselle von Olinde; schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Qual: untersteht Olinde; schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
