@@ -81,6 +81,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Fokus|1|
 |Scrying|1|
 
 
