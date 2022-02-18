@@ -4,7 +4,7 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Hilda|
-|Alter | 9 |
+|Alter | 10 |
 |Größe|138cm|
 |usw|joa|
 |...|?|
