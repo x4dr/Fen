@@ -109,6 +109,10 @@ tags: character
 ##Ausrüstung
 Umhängetasche, 
 Artefaktenkugel, leuchtet mit Blitzen darin
+Riesenfangzahn mit Runen bedeckt;
+     Runen können nicht gelesen werden von Swenja und Isban
+     Isban: diese Gegenstand hat mit Gewalt zu tun und wurde mit Angst vergraben
+     Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
 
 
 1/5 was ich heute erfolgt habe
@@ -163,8 +167,10 @@ Ragin:
 KV Graveur, hat Messer
 
 
-Onus:
-Müllersohn, Wassermühle
+Onus: Müllersohn, Wassermühle
+Bande
+Nolunt: dumm aber haut rum
+Dischof: Händlerstochter
 
 
 Glitzerin/ Glitzerer
@@ -205,7 +211,7 @@ Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftun
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Geselle Qual: Geselle von Oline; schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Qual: Geselle von Olinde; schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
@@ -214,7 +220,5 @@ Mal: stiftete Hamus zum Stehlen an
 
 
 Aus Karawane:
-
 Runleif
-
 Hexe Mathilda: Narben über dem ganzen Körper, kann Magie
