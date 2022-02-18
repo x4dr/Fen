@@ -58,6 +58,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Taktik|1|
 
 
 
