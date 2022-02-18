@@ -210,3 +210,11 @@ Geselle Qual: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (
 
 Diebe
 Mal: stiftete Hamus zum Stehlen an
+
+
+
+Aus Karawane:
+
+Runleif
+
+Hexe Mathilda: Narben über dem ganzen Körper, kann Magie
