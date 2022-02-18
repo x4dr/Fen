@@ -38,6 +38,7 @@ tags: character
 |Empathie|1|
 |Überzeugen|0|
 |Irreführung|0|
+|Tratsch|1|
 
 
 ##Mental
