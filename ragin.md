@@ -7,7 +7,7 @@ tags: character
 |Alter | 12 |
 |Größe|150-ish cm|
 |usw|joa|
-|...|?|
+|Charakterkonzept|Fast Assassin|
 
 #Werte
 ##Physisch
