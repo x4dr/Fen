@@ -3,9 +3,9 @@ tags:
 [TOC]
 
 # Zutatenwissen
-Zutaten sind nicht so allgemein bekannt, wie es zu erwarten wären. Die meisten sind nur denen bekannt, die sich spezifisch und langjährig mit ihrer Anwendung beschäftigen. Wenn eine neue Zutat oder ein unbekannter Effekt angetroffen wird, kann Zutatenwissen gewürfelt werden.
+Zutaten sind nicht so allgemein bekannt, wie es zu erwarten wäre. Die meisten sind nur denen bekannt, die sich spezifisch und langjährig mit ihrer Anwendung beschäftigen. Wenn eine neue Zutat oder ein unbekannter Effekt angetroffen wird, kann Zutatenwissen gewürfelt werden.
 
-Der **Zutatenwissenswurf** ist einmalig pro Zutat, kann aber mit entsprechenden Experimenten oder Wissensquellen wiederholt oder ersetzt werden.
+Der **Zutatenwissenswurf** ist einmalig pro Zutat, kann aber mit entsprechenden Experimenten oder Wissensquellen wiederholt und verbessert werden.
 
  * Inspektionsmöglichkeit Kurzer Blick: 3 Maluswürfel
  * Indirekte Interaktion: 2 Maluswürfel
@@ -19,12 +19,11 @@ Der **Zutatenwissenswurf** ist einmalig pro Zutat, kann aber mit entsprechenden 
 
 ##Anmerkungen
 
-Kräuterkunde: K  
 
-Alchemie: A  
+Effekte über Zeit werden stündlich angewendet, mit dem ersten eine Stunde nach Einnahme
+Gegengift: Erlaubt das neutralisieren eines Effekts je nach ähnlichkeit des Gebräus mit unterschiedlichen würfen
 
-Normale Tickrate ist 1 Stunde.
-Gegengift: senkt die Wirkungsstufe eines Giftes um W/Anzahl der Zutaten des Zielgiftes pro gleicher Zutat.
+
 
 Ein Effekt ist erst bekannt/kann benutzt werden, wenn das entsprechende Ergebnis neben der Abkürzung bei dem spezifischen Wurf erreicht wurde.  
 
@@ -424,7 +423,11 @@ A 12: Farbe oder Geschmack des Trankes sind durch hinzufügen der entsprechenden
 
 A 16: Bei einem identifikationswurf von weniger als 8 wird keinerlei Informationen Gewonnen, ansonsten ist die einzig herausfindbare Information Lügenkresse
 
-# Kräuter und Zutaten der Duboker Höhlen
+# Kräuter und Zutaten der Duboker Höhlen 
+
+##Wanderkappe 
+
+Hier und dort und überall, vorallem an feuchten, dunklen stelen, kann man ab und zu eine Wanderkappe finden. Ab und zu meint ab und zu, denn so mancher Pilzsammler wandte sich für einen Moment ab, nur um festzustellen, dass er den Pilz nicht wiederfinden konnte.
 
 ##Leuchtpilz
 
