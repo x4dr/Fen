@@ -69,7 +69,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Gifte|0|
+|Gifte|1|
 
 ##Mystisch
 ###Attribute 
