@@ -23,7 +23,7 @@ tags: Hamus character
 |Rennen|1|
 |Kontrolle|1|
 |Schleuder|1|
-
+|Faustkampf|1|
 
 ##Sozial
 ###Attribute 
