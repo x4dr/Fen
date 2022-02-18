@@ -3,7 +3,7 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | TestCharakter|
+|Name | Kobalt|
 |Alter | 11 |
 |Größe|120cm|
 |usw|joa|
@@ -21,7 +21,8 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Fusarbeit|1|
+|Acrobatics|1|
 
 
 ##Sozial
@@ -36,7 +37,8 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Befragung|1|
+|Irrefuehrung|1|
 
 
 ##Mental
@@ -51,7 +53,10 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Forschung|1|
+|Ermitteln|1|
+|Mathematik|1|
+|Arcana|1|
 
 
 ##Können
@@ -80,7 +85,8 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Chaos|1|
+|Geordnet|1|
 
 
 #Fortschritt
