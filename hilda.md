@@ -37,6 +37,7 @@ tags: character
 |-|-|
 |Empathie|1|
 |Überzeugen|0|
+|Irreführung|0|
 |Tratsch|1|
 
 
@@ -101,6 +102,7 @@ tags: character
 |:-|:-|
 |Überzeugen|3/5|
 |Empathie|1/5|
+|Irreführung|1/5|
 |Erden|1/5|
 
 
