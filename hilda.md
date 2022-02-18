@@ -217,3 +217,9 @@ Geselle Qual: untersteht Olinde, schuldet mir sein Leben wg. chemikalischer Verg
 
 Diebe
 Mal: stiftete Hamus zum Stehlen an
+
+
+Aus Karawane:
+
+Runleif
+Hexe Mathilda
