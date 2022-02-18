@@ -115,7 +115,7 @@ Umhängetasche,
 Artefaktenkugel, leuchtet mit Blitzen darin
 
 
-
+noch 3 Vorteile ausdenken
 
 
 arbeitet Schuld bei Isban und Çırak ab
@@ -207,7 +207,7 @@ Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Verg
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Geselle Qual: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Qual: untersteht Olinde, schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
