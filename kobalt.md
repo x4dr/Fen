@@ -90,6 +90,15 @@ tags:
 
 
 #Fortschritt
+Tratsch 1/5
+Rennen: 2/5
+Survival: 1/5
+Magic Crafting 1/5
+
+
+#Vorteile
+Lesen
+Schreiben
 
 #Inventar
 
