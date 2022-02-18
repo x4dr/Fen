@@ -81,7 +81,7 @@ tags: Hamus character
 |-|-|
 |Spurenlos|1|
 |Spinnensin|0|
-|etwas mit Wahrnehmung|0|
+|Atemtechnik|0|
 
 #Fortschritt
 
