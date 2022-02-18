@@ -77,6 +77,8 @@ tags: character
 |-|-|
 |Tierzähmung|1|
 |Fallensteller|1|
+|Alchemie|1|
+|Alchemie|1|
 
 
 ##Mystisch
