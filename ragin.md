@@ -4,8 +4,8 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Ragin |
-|Alter | 9 |
-|Größe|100-ish cm|
+|Alter | 12 |
+|Größe|150-ish cm|
 |usw|joa|
 |...|?|
 
