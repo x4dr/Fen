@@ -82,7 +82,7 @@ tags: Hamus character
 |-|-|
 |Spurenlos|1|
 |Gefahrensin|1|
-|Atemtechnik|0|
+|Atemtechnik|1|
 
 #Fortschritt
 
