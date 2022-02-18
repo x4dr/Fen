@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Rennen|0|
+|Rennen|1|
 
 
 ##Sozial
@@ -53,6 +53,7 @@ tags: character
 |-|-|
 |Instinkt|1|
 |Suchen|1|
+|Navigation|1|
 
 
 ##Können
