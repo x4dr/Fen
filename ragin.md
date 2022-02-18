@@ -93,7 +93,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Schattenschritt|1|
 
 
 #Fortschritt
