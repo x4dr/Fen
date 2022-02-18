@@ -40,6 +40,10 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Unauffällig|1|
+|Lügen|1|
+
+|Lügen|1|
+
 
 
 ##Mental
