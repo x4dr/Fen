@@ -199,13 +199,13 @@ Bäcker:
 Bäckertochter Linda
 
 Schenken
-Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Händler
 Ras: Händlerimperium 
 Olinde: Händlerin von Ras Händlerimperium
-Geselle Qual: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Geselle Qual: Geselle von Oline; schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Diebe
