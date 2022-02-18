@@ -73,6 +73,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Tierzähmung|1|
+|Fallensteller|1|
 
 
 ##Mystisch
