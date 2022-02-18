@@ -111,8 +111,9 @@ tags: character
 |||||
 
 ##Ausrüstung
-Umhängetasche, 
+Umhängetasche 
 Artefaktenkugel, leuchtet mit Blitzen darin
+ein riesenfangzahn, mit runen bedeckt
 
 
 noch 3 Vorteile ausdenken
