@@ -80,7 +80,7 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Spurenlos|1|
-|Spinnensin|0|
+|Spinnensin|1|
 |Atemtechnik|0|
 
 #Fortschritt
