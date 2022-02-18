@@ -24,7 +24,7 @@ tags:
 |Messer|2|
 |Kraft|2|
 |Widerstand|1|
-|Speer 1|1|
+|Speer|1|
 |Fußarbeit|1|
 |Rennen | 1|
 |Kontrolle | 1|
