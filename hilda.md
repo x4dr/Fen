@@ -201,7 +201,7 @@ Bäcker:
 Bäckertochter Linda
 
 Schenken
-Barkeeper vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
+Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
 Händler
