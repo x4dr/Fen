@@ -53,6 +53,7 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Suchen|1|
+|Instinkt|1|
 
 ##Können
 ###Attribute 
