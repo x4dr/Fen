@@ -26,6 +26,8 @@ tags: character
 |Akrobatik|1|
 |Fußarbeit|1|
 |Meucheln|0|
+|Survival|0|
+|Survival|0|
 
 ##Sozial
 ###Attribute 
