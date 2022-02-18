@@ -25,6 +25,8 @@ tags: character
 |Akrobatik|1|
 |Werfen|1|
 |Kontrolle|1|
+|Zechen|1|
+
 
 
 
