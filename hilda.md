@@ -111,7 +111,7 @@ Umhängetasche,
 Artefaktenkugel, leuchtet mit Blitzen darin
 Riesenfangzahn mit Runen bedeckt;
      Runen können nicht gelesen werden von Swenja und Isban
-     Isban: diese Gegenstand hat mit Gewalt zu tun und wurde mit Angst vergraben
+     Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
 
 
