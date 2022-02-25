@@ -99,6 +99,7 @@ tags: character
 #Fortschritt
 4/5 Alchemie
 2/5 Irreführung
+175 Stil
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
