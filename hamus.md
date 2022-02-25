@@ -86,7 +86,7 @@ tags: Hamus character
 |Spurenlos|1|
 |Gefahrensin|1|
 |Atemtechnik|0|
-
+|Zielsicher|0|
 #Fortschritt
 
 #Inventar
