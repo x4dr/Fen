@@ -100,7 +100,7 @@ tags: character
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|
 |:-|:-|
-|Überzeugen|3/5|
+|Überzeugen|4/5|
 |Empathie|1/5|
 |Irreführung|1/5|
 |Erden|1/5|
