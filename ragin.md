@@ -109,8 +109,8 @@ tags: character
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |Zeug||||
-|||||
 
 ##Ausrüstung
 
 ##Notizen
+
