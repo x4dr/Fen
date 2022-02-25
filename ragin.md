@@ -41,8 +41,8 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Unauffällig|1|
-|Lügen|1|
+|Irreführung|1|
+|(refunded Wildcard)|1|
 
 |Lügen|1|
 
