@@ -42,8 +42,6 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Irreführung|1|
-|(refunded Wildcard)|1|
-
 |Lügen|1|
 
 
