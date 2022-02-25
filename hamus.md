@@ -67,6 +67,9 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Fischer|1|
+|Mechanik|0|
+|Infiltrator|0|
+|Diebeshandwerl|0|
 
 ##Mystisch
 ###Attribute 
