@@ -101,7 +101,7 @@ tags: character
 |:-|:-|  
 |Survival|SS|
 |Fußarbeit|S|
-|Meucheln|S|
+|Meucheln|SS|
 |Gifte|S|
 
 #Inventar
