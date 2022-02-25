@@ -62,9 +62,7 @@ tags: character
 |-|-|
 |Suchen|1|
 |Instinkt|1|
-|Instinkt|1|
-|Instinkt|1|
-|Instinkt|1|
+|Wissen(Gravur)|1|
 
 
 ##Können
