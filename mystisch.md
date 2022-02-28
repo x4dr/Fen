@@ -213,6 +213,24 @@ Ermöglicht es selbst ausgelöste Geräusche komplett zu unterdrücken (knirsche
 Erschwert sämtliche Aufspürversuche über spuren und indirekte Hinweise (Gerüchte, Recherche, Aufspürungsmagie, Spurenlesen ... aber nicht "jedes Versteck im Raum durchsuchen" )
 
 
+### Zielsicher
+
+**Stufe 1**
+1 Punkt der genutzt werden kann um Anstelle zu würfeln, eine beliebige physisch zielbare Handlung (Werfen, Schießen, ...) mit dem mindestmaß an Erfolg zu absolvieren.
+Für Trickshots (nicht direkt Kampfrelevant) sind die Anforderungen auf "theoretisch machbar" reduziert. 
+Schlafen füllt alle Punkte wieder auf.
+
+Spielleiter Option: Wurf als 6,7,8,9,10 annehmen (Maluswürfel dann 5-1)
+
+**Stufe 2**
++ 1 Punkt. 1 Punkt kann nach dem Würfeln verwendet werden, um stattdessen neu zu würfeln
+Eine Zielen-basierte 1-er Resonanz mit negativen Konsequenzen füllt einen Punkt wieder auf
+
+
+**Stufe 3** 
++ 1 Punkt. 1 Punkt kann genutzt werden um sämtliche Bonus und Maluswürfel eines Wurfes (durch Umwelt und aufgeteilte Aktionen) einer entsprechend gezielten Handlung zu ignorieren.
+Beliebige 1-er Resonanzen bei allen Handlungen des Charakters füllen einen Punkt auf
+
 ## Ansätze
 
 Designziel: Zwischenraum zwischen "Magischen" Effekten und anderen skills füllen
