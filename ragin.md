@@ -96,7 +96,7 @@ tags: character
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |Survival|SS|
-|Fußarbeit|S|
+|Fußarbeit|SS|
 |Meucheln|SS|
 |Gifte|S|
 
