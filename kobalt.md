@@ -94,6 +94,7 @@ Tratsch 1/5
 Rennen: 3/5
 Survival: 1/5
 Magic Crafting 1/5
+Suchen 1/5
 
 
 #Vorteile
