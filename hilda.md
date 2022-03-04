@@ -103,7 +103,7 @@ tags: character
 |Überzeugen|4/5|
 |Empathie|1/5|
 |Irreführung|1/5|
-|Erden|1/5|
+|Erden|2/5|
 
 
 #Inventar
