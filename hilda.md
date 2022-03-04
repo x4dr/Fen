@@ -193,6 +193,7 @@ K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläufer?
 
 Heiler
 Çırak: Attakan, magischer Heiler, plappert viel, kann energetische Tränke brauen
+Kasimir: Sehr dubios, nicht so gut
 
 
 Eisengilde
