@@ -235,3 +235,7 @@ Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
 Hexe Mathilda: Narben über dem ganzen Körper, lehrt Hilda Erden/ Verbinden
 Dagnar: Händler aus Trarora, wohlhabend, hat bei 2 G um 1 G & 80 S beschissen, unehrlich
+
+
+Aghdar:
+graue Person, Wegediebin, aber soweit trustworthy
