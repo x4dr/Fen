@@ -26,8 +26,7 @@ tags: character
 |Akrobatik|1|
 |Fußarbeit|1|
 |Meucheln|0|
-|Survival|0|
-|Survival|0|
+|Survival|1|
 
 ##Sozial
 ###Attribute 
@@ -42,8 +41,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Irreführung|1|
-|Lügen|1|
-
+|Etiquette|1|
 
 
 ##Mental
