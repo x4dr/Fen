@@ -39,6 +39,7 @@ tags: character
 |Überzeugen|0|
 |Irreführung|0|
 |Tratsch|1|
+|Handel| 1 |
 
 
 ##Mental
