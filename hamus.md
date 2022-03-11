@@ -4,7 +4,7 @@ tags: Hamus character
 |Detail|Inhalt|
 |-|-|
 |Name | Hamus|
-|Alter | 9,5 |
+|Alter | 10,5 |
 |Größe| 99 cm|
 
 
@@ -20,7 +20,7 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Rennen|1|
+|Rennen|2|
 |Kontrolle|1|
 |Schleuder|1|
 |Standhalten|1|
@@ -88,7 +88,7 @@ tags: Hamus character
 |-|-|
 |Spurenlos|2|
 |Gefahrensin|1|
-|Atemtechnik|0|
+|Atemtechnik|1|
 |Zielsicher|0|
 #Fortschritt
 
@@ -99,4 +99,6 @@ tags: Hamus character
 |pugna|Placidus |||
 
 ##Ausrüstung
-
+Skill Zugänge:
+Mal: con artist/dinge Ausspähen
+Raben dude: Spy shit / viele Botengänge 
