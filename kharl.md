@@ -69,7 +69,7 @@ tags: character
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
-| Praxis | 1 |
+| Praxis | 2 |
 | Einblick | 1 |
 
 
