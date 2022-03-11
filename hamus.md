@@ -68,9 +68,11 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Fischer|1|
+|Unauffällig|1|
 |Mechanik|0|
 |Infiltrator|0|
 |Diebeshandwerl|0|
+
 
 ##Mystisch
 ###Attribute 
@@ -84,7 +86,7 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Spurenlos|1|
+|Spurenlos|2|
 |Gefahrensin|1|
 |Atemtechnik|0|
 |Zielsicher|0|
