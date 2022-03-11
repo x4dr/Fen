@@ -23,6 +23,7 @@ tags:
 |-|-|
 |Fusarbeit|1|
 |Acrobatics|1|
+|Kontrolle|1|
 
 
 ##Sozial
@@ -57,6 +58,8 @@ tags:
 |Ermitteln|1|
 |Mathematik|1|
 |Arcana|1|
+|Suchen|1|
+|Naturphil|1|
 
 
 ##Können
@@ -71,7 +74,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Kalligraphie|1|
 
 ##Mystisch
 ###Attribute 
@@ -90,7 +93,7 @@ tags:
 
 
 #Fortschritt
-Tratsch 1/5
+Tratsch 2/5
 Rennen: 3/5
 Survival: 1/5
 Magic Crafting 1/5
