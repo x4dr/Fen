@@ -78,7 +78,7 @@ tags: character
 |-|-|
 |Tierzähmung|1|
 |Fallensteller|1|
-|Alchemie|1|
+|Alchemie|2|
 |Survival|1|
 |Kochen|1|
 
@@ -100,7 +100,6 @@ tags: character
 |Wettersinn|1|
 
 #Fortschritt
-4/5 Alchemie
 2/5 Irreführung
 1/5 Stil
 #Inventar
