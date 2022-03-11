@@ -36,8 +36,8 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Empathie|1|
-|Überzeugen|0|
-|Irreführung|0|
+|Überzeugen|1|
+|Irreführung|1|
 |Tratsch|1|
 |Handel| 1 |
 
