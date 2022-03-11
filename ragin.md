@@ -27,6 +27,8 @@ tags: character
 |Fußarbeit|1|
 |Meucheln|0|
 |Survival|1|
+|Kraft|1|
+
 
 ##Sozial
 ###Attribute 
@@ -59,6 +61,7 @@ tags: character
 |Suchen|1|
 |Instinkt|1|
 |Wissen(Gravur)|1|
+|Wissen(Wald)|1|
 
 
 ##Können
