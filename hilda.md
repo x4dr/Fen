@@ -35,8 +35,8 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Empathie|1|
 |Tratsch|1|
+|Empathie|1|
 |Überzeugen|1|
 |Handel| 1 |
 |Irreführung|1|
