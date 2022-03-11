@@ -60,6 +60,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Taktik|1|
+|Wetter|1|
 
 
 
