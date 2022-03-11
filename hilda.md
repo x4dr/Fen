@@ -36,10 +36,10 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Empathie|1|
-|Überzeugen|1|
-|Irreführung|1|
 |Tratsch|1|
+|Überzeugen|1|
 |Handel| 1 |
+|Irreführung|1|
 
 
 ##Mental
