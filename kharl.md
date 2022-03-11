@@ -81,7 +81,6 @@ tags: character
 |Alchemie|1|
 |Survival|1|
 |Kochen|1|
-|Rennen|1|
 
 
 ##Mystisch
