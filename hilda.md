@@ -234,4 +234,4 @@ Mal: stiftete Hamus zum Stehlen an
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
 Hexe Mathilda: Narben über dem ganzen Körper, lehrt Hilda Erden/ Verbinden
-Dagnar: Händler, wohlhabend, scammer
+Dagnar: Händler, wohlhabend, hat um 1 G & 80 S
