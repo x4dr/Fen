@@ -60,7 +60,6 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Taktik|1|
-|Wetter|1|
 
 
 
@@ -98,7 +97,7 @@ tags: character
 |-|-|
 |Mystic Alchemy|1|
 |Spurenlos|1|
-
+|Wettersinn|1|
 
 #Fortschritt
 4/5 Alchemie
