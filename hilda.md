@@ -83,7 +83,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Erden|0|
+|Erden|1|
 |Fokus|1|
 |Scrying|1|
 
