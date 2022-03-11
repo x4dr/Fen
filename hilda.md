@@ -238,4 +238,4 @@ Dagnar: Händler aus Trarora, wohlhabend, hat bei 2 G um 1 G & 80 S (90%) beschi
 
 
 Aghdar:
-graue Person, Wegediebin, aber soweit trustworthy
+graue Person, Wegediebin, aber soweit trustworthy; jetzt im Dienst der Rabenleute/ Taiems Leute
