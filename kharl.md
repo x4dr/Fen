@@ -24,7 +24,7 @@ tags: character
 |-|-|
 |Akrobatik|1|
 |Werfen|1|
-|Kontrolle|2|
+|Kontrolle|1|
 |Zechen|1|
 
 
@@ -81,6 +81,7 @@ tags: character
 |Alchemie|1|
 |Survival|1|
 |Kochen|1|
+|Rennen|1|
 
 
 ##Mystisch
