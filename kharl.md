@@ -30,6 +30,7 @@ tags: character
 
 
 
+
 ##Sozial
 ###Attribute 
 |Attribut|Level|
@@ -78,7 +79,7 @@ tags: character
 |Tierzähmung|1|
 |Fallensteller|1|
 |Alchemie|1|
-|Alchemie|1|
+|Survival|1|
 
 
 ##Mystisch
@@ -93,6 +94,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Mystic Alchemy|1|
 |Spurenlos|1|
 
 
