@@ -28,3 +28,8 @@ Prototyping/Innovation muss passieren: Widrigkeit 5+, Ziel 100+
 Qualität verringert
 zusätzliche exotische Ressource benötigt
 Nein, aber [dramatische kosten]
+
+
+
+# Kräuterideen
+
