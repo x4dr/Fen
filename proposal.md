@@ -32,4 +32,23 @@ Nein, aber [dramatische kosten]
 
 
 # Kräuterideen
+Aguria: strengthening the clarity of visions
+Brimlock: warming effect, saves suffering from hypothermia
+Butterdale: cure all manner of skin rashes
+Candlewood: protections against afflictions of the mind
+Common Trouse: against eye strain
+Daisy Dock: grant courage
+Demmel: calm anxiety
+Devil's Nightrap: if ingested as a seed it will cause a slow agonising death and the plant will grow out of the body once deceased
+Dranthium: elevates mind and awareness, but causes addiction
+Elderphinium: antidote against Dendra's Miasma
+Eyebright: sight in little light/ semi darkness (a little bit light nessecary)
+Farmer's Worry: grant great strength for a short time period at the expense of severe fatigue once the effect has worn off
+Forest Camphry: sporific effect
+
+Relief in emtional issues: grant courage, ease anxiety
+
+
+For visuals: 
+https://www.gamepretty.com/strange-horticulture-plant-id-guide-77-77/
 
