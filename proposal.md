@@ -41,10 +41,19 @@ Daisy Dock: grant courage
 Demmel: calm anxiety
 Devil's Nightrap: if ingested as a seed it will cause a slow agonising death and the plant will grow out of the body once deceased
 Dranthium: elevates mind and awareness, but causes addiction
-Elderphinium: antidote against Dendra's Miasma
+Elderphinium: antidote against "Dendra's Miasma"
+Embersoul: protective properties -> whatever that means
 Eyebright: sight in little light/ semi darkness (a little bit light nessecary)
 Farmer's Worry: grant great strength for a short time period at the expense of severe fatigue once the effect has worn off
-Forest Camphry: sporific effect
+Feverkis: energy boost for several hours
+Forest Camphry: soporific effect
+Gandyroot: against digestive troubles
+Gilded Dendra: poison, lips and veins turn black as the blood succumbs to "Dendra's Miasma", painful way to die
+Henchuk: causes memomry loss to amnesia
+Hopheart: pain relief
+Jaconb's Worth: helps to find lost people and things
+Lady of Summer: aids with conditions of memory deterioration associated with old age
+Lemon Dandy: cure afflictions of the heart
 
 Relief in emtional issues: grant courage, ease anxiety
 
