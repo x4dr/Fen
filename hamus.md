@@ -106,7 +106,7 @@ tags: Hamus character
 
 ##Ausrüstung
 Puzzle box
-2,5 Silber
+2,75 Silber
 Skill Zugänge:
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
