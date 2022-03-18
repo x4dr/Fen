@@ -121,6 +121,8 @@ Riesenfangzahn mit Runen bedeckt;
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
 
 
+#Notizen
+
 1/5 was ich heute erfolgt habe
 
 3 Vorteile noch ausdenken/ vergeben
