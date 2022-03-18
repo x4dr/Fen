@@ -233,7 +233,7 @@ Mal: stiftete Hamus zum Stehlen an
 
 
 Außerhalb:
-Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan
+Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
       Kapi: Türwächter Harikas
 
 
