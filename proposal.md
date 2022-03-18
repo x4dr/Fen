@@ -81,7 +81,12 @@ St. John's Poppy: improve hearing ability
 Storian: highly poisonous resulting in insanity and then death
 Swiftsnare: once ensnared it is impossible to extricate oneself without help
 Thum: fragrance in soaps and candels
-
+Twilight Lepiota: dark magic
+Widow's Woe: induce fear
+Wild Cole: tonic for those suffering the effects of having druck too much the night before
+Winterbore: effective insect repellent
+Witch Phygg: ease symptoms of infection
+Worryless: ease anxiety
 
 
 
