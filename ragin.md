@@ -100,6 +100,7 @@ tags: character
 |Fußarbeit|SS|
 |Meucheln|SSS|
 |Gifte|S|
+|Wächter|S|
 
 #Inventar
 
@@ -108,6 +109,12 @@ tags: character
 |Zeug||||
 
 ##Ausrüstung
+
+|Name|Anzahl|Gewicht|Preis|
+|---|---|---|---|
+|Überlandbotenrucksack|1|5kg||
+|Ragins Messa|1|0.5kg||
+|Fackel|1|||
 
 ##Notizen
 
