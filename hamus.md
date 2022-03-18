@@ -57,6 +57,7 @@ tags: Hamus character
 |Instinkt|1|
 |Ermitteln|1|
 |Balistik|0|
+|Gassenwissen|0|
 ##Können
 ###Attribute 
 |Attribut|Level|
