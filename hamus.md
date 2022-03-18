@@ -102,6 +102,8 @@ tags: Hamus character
 |pugna|Placidus |||
 
 ##Ausrüstung
+Puzzle box
+2,5 Silber
 Skill Zugänge:
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
