@@ -95,8 +95,9 @@ tags: Hamus character
 
 #Inventar
 
+
 |Name|Anzahl|Gewicht|Preis|
-|---|---|---|---|
+|Feuerkugeln|5|250g|5k|
 |pugna|Placidus |||
 
 ##Ausrüstung
