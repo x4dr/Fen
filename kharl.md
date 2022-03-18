@@ -102,6 +102,7 @@ tags: character
 #Fortschritt
 2/5 Irreführung
 1/5 Stil
+1/5 Autorität
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
