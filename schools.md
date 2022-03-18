@@ -1,6 +1,7 @@
 title: Kampfschulen  
 tags:   
 [TOC]
+
 Code hinter Fahigkeitsname (da wo er eingeführt wurde) ist:  
 (Level, Linie, Bedingungen, Kosten)  
 * Level: welches Level von Fortschrittspunkten der Verbundenen Fähigkeit ausgegeben werden muss
