@@ -24,6 +24,8 @@ tags: Hamus character
 |Kontrolle|1|
 |Schleuder|1|
 |Standhalten|1|
+|Bogen|0|
+|Fußarbeit|0|
 
 ##Sozial
 ###Attribute 
@@ -73,7 +75,8 @@ tags: Hamus character
 |Unauffällig|1|
 |Mechanik|0|
 |Infiltrator|0|
-|Diebeshandwerl|0|
+|Diebeshandwerk|0|
+|Survival|0|
 
 
 ##Mystisch
