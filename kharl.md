@@ -109,7 +109,7 @@ tags: character
 |||||
 
 ##Ausrüstung
-Flint and Steel, 2 Sätze Feuchtfeuer (alchemistisch), Beißwolken (gegen Monster, braucht Wurf) 
+Flint and Steel, 2 Sätze Feuchtfeuer (alchemistisch), Beißwolken (gegen Monster, braucht Wurf), 5 Ölkugeln
 
 #Familie
 Vater: Godeberth
