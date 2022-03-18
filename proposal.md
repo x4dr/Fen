@@ -54,6 +54,8 @@ Hopheart: pain relief
 Jaconb's Worth: helps to find lost people and things
 Lady of Summer: aids with conditions of memory deterioration associated with old age
 Lemon Dandy: cure afflictions of the heart
+Lesser Merrydock: drain a person's mental faculties rendering them slow and incomprehending
+
 
 Relief in emtional issues: grant courage, ease anxiety
 
