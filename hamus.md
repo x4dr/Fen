@@ -37,7 +37,8 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Empathie|0|
+|Tratsch|0|
 
 
 ##Mental
