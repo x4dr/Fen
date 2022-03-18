@@ -55,7 +55,9 @@ Jaconb's Worth: helps to find lost people and things
 Lady of Summer: aids with conditions of memory deterioration associated with old age
 Lemon Dandy: cure afflictions of the heart
 Lesser Merrydock: drain a person's mental faculties rendering them slow and incomprehending
-
+Lisle of Neptune: force a person to tell the truth
+Liverstone: paralysing abilities
+Long Verecund: believed to lift curses
 
 Relief in emtional issues: grant courage, ease anxiety
 
