@@ -232,6 +232,9 @@ Diebe
 Mal: stiftete Hamus zum Stehlen an
 
 
+Außerhalb:
+Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan
+
 
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
