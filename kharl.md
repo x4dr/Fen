@@ -103,6 +103,7 @@ tags: character
 2/5 Irreführung
 1/5 Stil
 1/5 Autorität
+1/5 Tierzähmung
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
