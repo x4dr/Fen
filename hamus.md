@@ -61,6 +61,7 @@ tags: Hamus character
 |Ermitteln|1|
 |Balistik|0|
 |Gassenwissen|0|
+|Layouts|0|
 ##Können
 ###Attribute 
 |Attribut|Level|
