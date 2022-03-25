@@ -103,7 +103,8 @@ tags: Hamus character
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|5|250g|5k|
-|pugna|Placidus |||
+|Durchhalte Kette||||
+|pugna|Placidus|||
 
 ##Ausrüstung
 Puzzle box
@@ -111,3 +112,4 @@ Puzzle box
 Skill Zugänge:
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
+
