@@ -124,9 +124,8 @@ Riesenfangzahn mit Runen bedeckt;
 
 #Notizen
 
-1/5 was ich heute erfolgt habe
-
-3 Vorteile noch ausdenken/ vergeben
+Objectives:
+Zylinder von Hyrika unterm Baum Minem in Kanach vergraben bis Ende des Sommers
 
 
 
