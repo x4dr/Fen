@@ -98,7 +98,7 @@ tags: character
 |:-|:-|  
 |Survival|SSS|
 |Fußarbeit|SS|
-|Meucheln|SSS|
+|Meucheln|SSSS|
 |Gifte|S|
 |Wächter|S|
 
