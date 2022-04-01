@@ -101,6 +101,7 @@ tags: character
 |Meucheln|SSSS|
 |Gifte|S|
 |Wächter|S|
+|Wissen(Kulturen)|S|
 
 #Inventar
 
