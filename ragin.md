@@ -78,6 +78,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Gifte|1|
+|Beruf(Geheimagent)|1|
 
 ##Mystisch
 ###Attribute 
