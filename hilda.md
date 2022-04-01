@@ -56,6 +56,7 @@ tags: character
 |Instinkt|1|
 |Suchen|1|
 |Navigation|1|
+|Magiewissen|1|
 
 
 ##Können
