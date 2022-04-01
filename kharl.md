@@ -26,6 +26,7 @@ tags: character
 |Werfen|1|
 |Kontrolle|1|
 |Zechen|1|
+|Widerstehen|1|
 
 
 
