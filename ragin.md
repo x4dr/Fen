@@ -62,6 +62,7 @@ tags: character
 |Instinkt|1|
 |Wissen(Gravur)|1|
 |Wissen(Wald)|1|
+|Wissen(Kulturen)|0|
 
 
 ##Können
