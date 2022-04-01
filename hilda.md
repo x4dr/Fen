@@ -125,7 +125,7 @@ Riesenfangzahn mit Runen bedeckt;
 #Notizen
 
 aktuelle Objectives:
-Zylinder von Hyrika unterm Baum Minem in Kanach vergraben bis Ende des Sommers
+Zylinder von Harika unterm Baum Minem in Kanach vergraben bis Ende des Sommers
 
 
 
