@@ -113,7 +113,7 @@ tags: Hamus character
 Puzzle box
 2,75 Silber
 Skill Zugänge:
-Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln/ generelle sozial
+Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _auf dem Kopf lesen/ generelle sozial
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
 
