@@ -58,6 +58,7 @@ tags: character
 |Suchen|1|
 |Navigation|1|
 |Magiewissen|1|
+|Waldwissen|1|
 
 
 ##Können
@@ -71,8 +72,8 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Kräuterkunde|1|
 |Heilen|1|
+|Kräuterkunde|1|
 |Garten|1|
 
 
