@@ -230,8 +230,13 @@ Konstantin: Wachtmeister, haben ihn geholfen den Turm von Dieben zu befreien (Ge
 Tom: Stadtwächter bei Botenpunkt
 
 
+Rabenleute:
+Aghdar: ehemalige Wegediebin, aber trustworthy; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
+
+
 Bäcker:
 Bäckertochter Linda
+
 
 Schenken
 Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
@@ -247,7 +252,10 @@ Diebe
 Mal: stiftete Hamus zum Stehlen an
 
 
+Außerhalb:
 
+Aus Kanech:
+Irzan: Druide/ Magier
 
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
@@ -255,5 +263,3 @@ Hexe Mathilda: Narben über dem ganzen Körper, lehrt Hilda Erden/ Verbinden
 Dagnar: Händler aus Trarora, wohlhabend, hat bei 2 G um 1 G & 80 S (90%) beschissen, unehrlich
 
 
-Aghdar:
-graue Person, ehemalige Wegediebin, aber trustworthy; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
