@@ -93,6 +93,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Schattenschritt|1|
+|Unnatural sense|1|
 
 
 #Fortschritt
