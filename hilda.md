@@ -71,6 +71,7 @@ tags: character
 |-|-|
 |Kräuterkunde|1|
 |Heilen|1|
+|Garten|1|
 
 
 ##Mystisch
