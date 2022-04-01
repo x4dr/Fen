@@ -124,13 +124,28 @@ Riesenfangzahn mit Runen bedeckt;
 
 #Notizen
 
-Objectives:
+aktuelle Objectives:
 Zylinder von Hyrika unterm Baum Minem in Kanach vergraben bis Ende des Sommers
 
 
 
-arbeitet Schuld bei Isban und Çırak ab
-lernt Erden von Hexe Mathilda
+arbeitete Schuld bei Isban und Çırak ab
+lernte Erden von Hexe Mathilda
+
+Lehrling bei Harika
+Hütte in der Nähe von Harikas Turm gebaut
+     mit Tisch + Stuhl, Ofen-Herd-Kombi, eingezogene Ebene zum Schlafen
+     4 Menschen können gecrampt darin schlafen
+     daneben mit Reisig eingefriedet ein kleiner Garten
+
+
+Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
+hat Spinnennetzturm im Wald
+diverse Magie zu lernen
+      Kapi: Türwächter Harikas
+      Arabuluka: Unterhändler, Bediensteter
+
+
 
 
 KM: Brunhilde
@@ -232,10 +247,6 @@ Diebe
 Mal: stiftete Hamus zum Stehlen an
 
 
-Außerhalb:
-Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
-      Kapi: Türwächter Harikas
-      Arabuluka: Unterhändler, Bediensteter
 
 
 Aus Karawane:
