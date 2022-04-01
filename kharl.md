@@ -44,7 +44,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Irreführung|1|
-
+|Tratsch|1|
 
 
 ##Mental
@@ -105,7 +105,7 @@ tags: character
 |Zutaten|1|
 ###Aspekt
 |-|-|
-|Testpulver|1|
+|Buff|1|
 
 #Fortschritt
 2/5 Irreführung
