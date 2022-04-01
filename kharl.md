@@ -112,7 +112,8 @@ tags: character
 |||||
 
 ##Ausrüstung
-Flint and Steel, 2 Sätze Feuchtfeuer (alchemistisch), Beißwolken (gegen Monster, braucht Wurf), 4 Ölkugeln, Ausdauerkette
+Flint and Steel, 2 Sätze Feuchtfeuer (alchemistisch), Beißwolken (gegen Monster, braucht Wurf), 4 Ölkugeln, Ausdauerkette(cracked), 1 Alchemie Luutbox
+
 
 
 
