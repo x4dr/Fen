@@ -22,6 +22,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|1|
+|Standhalten|1|
 
 
 ##Sozial
