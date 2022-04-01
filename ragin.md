@@ -44,6 +44,8 @@ tags: character
 |-|-|
 |Irreführung|1|
 |Etiquette|1|
+|Handel|1|
+|Tratsch|1|
 
 
 ##Mental
@@ -93,7 +95,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Schattenschritt|1|
-|Unnatural sense|1|
+|EyEsOfDaRkNeSs|1|
 
 
 #Fortschritt
