@@ -95,9 +95,17 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Mystic Alchemy|1|
 |Spurenlos|1|
 |Wettersinn|1|
+###Konzept
+|-|-|
+|MystAlc|1|
+###Quelle
+|-|-|
+|Zutaten|1|
+###Aspekt
+|-|-|
+|Testpulver|1|
 
 #Fortschritt
 2/5 Irreführung
