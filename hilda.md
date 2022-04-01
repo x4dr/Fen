@@ -103,7 +103,7 @@ tags: character
 |:-|:-|
 |Empathie|1/5|
 |Irreführung|1/5|
-|Erden|3/5|
+|Erden|4/5|
 |Survival|1/5|
 
 
