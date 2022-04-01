@@ -105,6 +105,7 @@ tags: character
 1/5 Autorität
 1/5 Tierzähmung
 1/5 Etikette
+1/5 Kochen
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
