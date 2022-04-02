@@ -112,7 +112,7 @@ tags: character
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
-|Zeug||||
+|Letter of Introduction von Harika||||
 
 ##Ausrüstung
 
