@@ -99,12 +99,15 @@ tags: character
 |Spurenlos|1|
 |Wettersinn|1|
 ###Konzept
+|Fähigkeit|Wert|
 |-|-|
 |MystAlc|1|
 ###Quelle
+|Fähigkeit|Wert|
 |-|-|
 |Zutaten|1|
 ###Aspekt
+|Fähigkeit|Wert|
 |-|-|
 |Buff|1|
 
