@@ -59,7 +59,7 @@ tags:
 |Mathematik|1|
 |Arcana|2|
 |Suchen|1|
-|Naturphil|1|
+|Naturphilosophie|1|
 
 
 ##Können
