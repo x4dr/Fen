@@ -202,6 +202,8 @@ Nolunt: dumm aber haut rum
 Dischof: Händlerstochter
 Imlus: Argyrier, very edgy
 
+Eisenbach:
+Statthalter: Kalredin
 
 Glitzerin/ Glitzerer
 Svenja: Ostteil Nordstadt
@@ -253,12 +255,12 @@ Geselle Qual: untersteht Olinde; schuldet mir sein Leben wg. chemikalischer Verg
 
 
 Diebe
-Mal: stiftete Hamus zum Stehlen an
+Mal: stiftet Hamus zum Stehlen an
 
 
 Außerhalb:
 
-Aus Kanech: Hippiedorf, chillig, mit Natur verbunden
+Kanech: Hippiedorf, chillig, mit Natur verbunden
 Irzan: Druide/ Magier
 Minem: Magischer Baum, wir haben Zylinder mit Botschaft zwischen seinen Wurzeln vergraben
 
