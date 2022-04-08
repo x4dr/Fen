@@ -114,8 +114,8 @@ tags: character
 #Vorteile
 |Vorteil|gesammelt|
 |:-|:-|
-|Heilen|1|
-|Kräuter|2|
+|Akquisepunkt Heilen|1|
+|Akquisepunkt Kräuter|2|
 
 
 #Inventar
