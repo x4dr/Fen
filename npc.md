@@ -70,7 +70,7 @@ Kunsthandwerker der Magiegilde in Tantor
 literally zerstreuter Gelehrter
 
 ###Kalredin
-Nysgaris' Administrator von Eisenbach
+Stahls Administrator/Stadhalter von Eisenbach
 
 ###Sör'n 
 der Sprengmeister im Eisenbacher Steinbruch
