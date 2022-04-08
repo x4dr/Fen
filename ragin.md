@@ -107,6 +107,7 @@ tags: character
 |Gifte|S|
 |Wächter|S|
 |Wissen(Kulturen)|S|
+|Akrobatik|S|
 
 #Inventar
 
