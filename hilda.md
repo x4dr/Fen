@@ -260,7 +260,7 @@ Außerhalb:
 
 Aus Kanech: Hippiedorf, chillig, mit Natur verbunden
 Irzan: Druide/ Magier
-Minem: Magischer Baum
+Minem: Magischer Baum, wir haben Zylinder mit Botschaft zwischen seinen Wurzeln vergraben
 
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
