@@ -57,7 +57,7 @@ tags:
 |Forschung|1|
 |Ermitteln|1|
 |Mathematik|1|
-|Arcana|1|
+|Arcana|2|
 |Suchen|1|
 |Naturphil|1|
 
