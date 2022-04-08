@@ -258,8 +258,9 @@ Mal: stiftete Hamus zum Stehlen an
 
 Außerhalb:
 
-Aus Kanech:
+Aus Kanech: Hippiedorf, chillig, mit Natur verbunden
 Irzan: Druide/ Magier
+Minem: Magischer Baum
 
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
