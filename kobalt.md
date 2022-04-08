@@ -84,14 +84,14 @@ tags:
 | Konzentration | 1 |
 | Disziplin | 1 |
 | Flow | 1 |
-| Floating Konzept | 1 |
-| Floating Aspekt | 1 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Chaos|1|
 |Geordnet|1|
+| Floating Konzept | 1 |
+| Floating Aspekt | 1 |
 
 
 #Fortschritt
