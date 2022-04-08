@@ -103,12 +103,19 @@ tags: character
 
 
 #Fortschritt
-|Fähigkeit/Vorteil|gesammelt|
+|Fähigkeit|gesammelt|
 |:-|:-|
 |Empathie|1/5|
 |Irreführung|1/5|
 |Erden|4/5|
 |Survival|1/5|
+
+
+#Vorteile
+|Vorteil|gesammelt|
+|:-|:-|
+|Heilen|1|
+|Kräuter|2|
 
 
 #Inventar
