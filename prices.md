@@ -42,7 +42,7 @@ tags:
 | Arbeitspferd| 10a | 800kg|
 | Rennpferd   | 50a |  450kg|
 | Prestigepferd | 100a |  600kg|
-| Basic Ration | 35k | 1kg |
+| Basic Ration | 30k | 1kg |
 | Foraged Ration | 10k | 1kg |
 | Fancy Ration | 50k | 1kg |
 | Handwerkszeug Q1 | 1s | 1kg|
