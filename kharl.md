@@ -112,7 +112,7 @@ tags: character
 |Buff|1|
 
 #Fortschritt
-2/5 Irreführung
+3/5 Irreführung
 1/5 Stil
 1/5 Autorität
 1/5 Tierzähmung
