@@ -50,7 +50,7 @@ Wurf ist bezüglich der Umgebung, also Wildnis -> Survival, Bergig -> Widerstand
 eine Kletterpartie könnte Kraft Akrobatik sein, als beispiel
 
 es sind normalerweise zwei etappen pro tag möglich mit einer kleinen Reiseaktion morgens und mittags und 2 kleinen bzw einer großen reiseaktion abends.
-Bei einem Gewaltmarsch können alle Reiseaktionen und Erschöpfung gegen eine dritte Etappe getauscht werden.
+Bei einem Gewaltmarsch können zwei große Reiseaktionen (bzw die beiden kleinen und die große) und Erschöpfung gegen eine dritte Etappe getauscht werden. Alternativ kann eine Reiseetappe gegen zwei große Reiseaktionen getauscht werden.
 
 kleine Reiseaktionen:
 Sammeln, Navigieren, Planen, Erkunden, Ausruhen (-1 Erschöpfung 1x pro Tag)
