@@ -94,6 +94,7 @@ tags: character
 |Leben|1|
 |Fokus|2|
 |Scrying|1|
+|First Sight|1|
 
 
 ##Narrativ
