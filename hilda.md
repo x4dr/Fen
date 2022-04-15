@@ -5,7 +5,7 @@ tags: character
 |-|-|
 |Name | Hilda|
 |Alter | 13 |
-|Größe| 148cm |
+|Größe| 152cm |
 |usw|joa|
 |...|?|
 
@@ -109,6 +109,7 @@ tags: character
 |Irreführung|1/5|
 |Erden|4/5|
 |Survival|1/5|
+|Geschichtenerzählen|1/5|
 
 
 #Vorteile
