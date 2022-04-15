@@ -120,6 +120,7 @@ tags: character
 1/5 Tierzähmung
 1/5 Etikette
 1/5 Kochen
+(Gesamt +1 auf Alchemie)
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
