@@ -31,7 +31,7 @@ tags: character
 |-|-|
 | Durchsetzungsvermögen | 1 |
 | Sympathie | 1 |
-| Eindruck | 1 |
+| Eindruck | 2 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
