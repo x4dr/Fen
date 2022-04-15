@@ -85,7 +85,7 @@ tags: character
 |-|-|
 | Konzentration | 1 |
 | Disziplin | 1 |
-| Flow | 1 |
+| Flow | 2 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
