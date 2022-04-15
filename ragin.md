@@ -101,7 +101,7 @@ tags: character
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
-|Survival|SSS|
+|Survival|SSSS|
 |Fußarbeit|SS|
 |Meucheln|SSSS|
 |Gifte|S|
