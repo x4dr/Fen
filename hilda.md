@@ -89,6 +89,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Erden|1|
+|Leben|1|
 |Fokus|2|
 |Scrying|1|
 
