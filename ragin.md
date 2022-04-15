@@ -50,7 +50,7 @@ tags: character
 |Handel|1|
 |Tratsch|1|
 |Authorität|1|
-|Authorität|1|
+|Empathie|1|
 
 
 ##Mental
