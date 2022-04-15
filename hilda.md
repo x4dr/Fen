@@ -212,6 +212,9 @@ Imlus: Argyrier, very edgy
 Eisenbach:
 Statthalter: Kalredin
 
+Tempel des Glänzenden:
+Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im Tempel kennen lernen
+
 Glitzerin/ Glitzerer
 Svenja: Ostteil Nordstadt
 Lyeom: Zauberer, Besserer Teil der Stadt
