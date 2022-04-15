@@ -67,6 +67,7 @@ tags: character
 |-|-|
 |Suchen|1|
 |Instinkt|1|
+|Taktik|1|
 |Wissen(Gravur)|1|
 |Wissen(Wald)|1|
 |Wissen(Kulturen)|0|
