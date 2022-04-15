@@ -93,6 +93,14 @@ tags:
 | Floating Konzept | 1 |
 | Floating Aspekt | 1 |
 
+##Können
+###Attribute 
+|Attribut|Level|
+|-|-|
+| Wille | 4 |
+| Gunst | 2 |
+| Schicksal | 4 |
+
 
 #Fortschritt
 Tratsch 2/5
