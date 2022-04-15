@@ -61,7 +61,8 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Taktik|1|
-
+|Forschen|1|
+|Wissen - Elemente|1|
 
 
 
