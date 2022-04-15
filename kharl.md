@@ -110,7 +110,8 @@ tags: character
 ###Aspekt
 |Fähigkeit|Wert|
 |-|-|
-|Buff|1|
+|Stärkung|1|
+|Schwächung|1|
 
 #Fortschritt
 4/5 Irreführung
