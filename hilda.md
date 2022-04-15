@@ -36,9 +36,10 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Tratsch|1|
-|Empathie|1|
+|Autorität|1|
 |Überzeugen|1|
+|Empathie|1|
+|Tratsch|1|
 |Handel| 1 |
 |Irreführung|1|
 
@@ -59,6 +60,7 @@ tags: character
 |Navigation|1|
 |Magiewissen|1|
 |Waldwissen|1|
+|Kreaturenwissen|1|
 
 
 ##Können
