@@ -93,7 +93,7 @@ tags:
 | Floating Konzept | 1 |
 | Floating Aspekt | 1 |
 
-##Können
+##Schiksal
 ###Attribute 
 |Attribut|Level|
 |-|-|
