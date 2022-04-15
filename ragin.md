@@ -28,6 +28,8 @@ tags: character
 |Meucheln|0|
 |Survival|1|
 |Kraft|1|
+|Klettern|1|
+|Klettern|1|
 
 
 ##Sozial
