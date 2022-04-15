@@ -105,7 +105,7 @@ tags:
 #Fortschritt
 Tratsch 2/5
 Rennen: 3/5
-Survival: 1/5
+Widerstand: 2/5
 Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 1/5
