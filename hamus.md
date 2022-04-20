@@ -79,8 +79,8 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Fischer|1|
-|Unauffällig|1|
-|Infiltrator|0|
+|Unauffällig|2|
+|Infiltrator|1|
 |Diebeshandwerk|0|
 |Survival|0|
 
