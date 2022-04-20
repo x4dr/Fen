@@ -64,7 +64,8 @@ tags: Hamus character
 |Balistik|1|
 |Gassenwissen|1|
 |Layouts|0|
-|Mechanik|0|
+|Mechanik|1
+|
 
 ##Können
 ###Attribute 
