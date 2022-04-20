@@ -61,8 +61,8 @@ tags: Hamus character
 |Suchen|1|
 |Instinkt|1|
 |Ermitteln|1|
-|Balistik|0|
-|Gassenwissen|0|
+|Balistik|1|
+|Gassenwissen|1|
 |Layouts|0|
 |Mechanik|0|
 
