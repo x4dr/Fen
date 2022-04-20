@@ -77,7 +77,6 @@ tags: Hamus character
 |-|-|
 |Fischer|1|
 |Unauffällig|1|
-|Mechanik|0|
 |Infiltrator|0|
 |Diebeshandwerk|0|
 |Survival|0|
