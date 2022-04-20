@@ -14,7 +14,7 @@ tags: Hamus character
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
-| Agilität | 1 |
+| Agilität | 2 |
 | Geschick | 1 |
 
 ###Fähigkeiten
