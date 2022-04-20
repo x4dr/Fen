@@ -98,6 +98,7 @@ tags: Hamus character
 |Gefahrensin|1|
 |Atemtechnik|1|
 |Zielsicher|0|
+|Tiergefährte|0|
 #Fortschritt
 
 #Inventar
