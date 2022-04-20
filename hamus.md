@@ -24,7 +24,7 @@ tags: Hamus character
 |Kontrolle|1|
 |Schleuder|1|
 |Standhalten|1|
-|Bogen|0|
+|Bogen|1|
 |Fußarbeit|0|
 |Springen|0|
 |Akrobatik|0|
