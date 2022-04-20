@@ -27,6 +27,7 @@ tags: Hamus character
 |Bogen|0|
 |Fußarbeit|0|
 |Springen|0|
+|Akrobatik|0|
 
 ##Sozial
 ###Attribute 
