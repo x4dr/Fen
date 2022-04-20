@@ -100,8 +100,9 @@ tags: Hamus character
 |Spurenlos|2|
 |Gefahrensin|1|
 |Atemtechnik|1|
+|Tiergefährte|1|
 |Zielsicher|0|
-|Tiergefährte|0|
+
 #Fortschritt
 
 #Inventar
