@@ -121,6 +121,7 @@ tags: character
 1/5 Tierzähmung
 1/5 Etikette
 1/5 Kochen
+1/5 Wissen-Elemente
 (Gesamt +1 auf Alchemie)
 #Inventar
 
