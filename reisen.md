@@ -38,6 +38,8 @@ Eine Küche kann zum haltbarmachen/vorbereiten von Rationen genutzt werden.
 
 Kochen benötigt Eine Ration an Zutaten pro Person die mit isst, Bei einem einzigen Typ Zutat gibt es einen Maluswürfel, 3 bzw 5 Zutatentypen geben jeweils einen Bonuswürfel
 
+|Wurfergebnis | Effekt |
+|---:|---|
 | 1-2 | Runiert die Hälfte aller Zutaten 
 | 5-7 | Die Mahlzeit schmeckt besser als die Rohzutaten, 1 Erschöpfung wird ausgeglichen |
 | 8-10 | +1/5 Bonusration pr Zutat oder 1 Bonuswürfel auf die nächste Erschöpfungsaktion in 24h |
