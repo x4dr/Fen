@@ -141,6 +141,10 @@ Riesenfangzahn mit Runen bedeckt;
 
 #Notizen
 
+aktuelle Objektive:
+- Bericht zu Ausdauerketten abgeben
+- Fragen zu Hildus: Wieso will er Harika töten? Woher kommt er? Wie können wir ihn auf unsere Seite bringen?
+
 vergangene Objectives:
 Mine untersuchen, ob Zeug unterschlagen wird
 Zylinder von Harika unterm Baum Minem in Kanech vergraben bis Ende des Sommers
