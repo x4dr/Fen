@@ -130,7 +130,7 @@ tags: character
 |||||
 
 ##Ausrüstung
-Umhängetasche, 
+Umhängetasche
 Artefaktenkugel, leuchtet mit Blitzen darin
 Riesenfangzahn mit Runen bedeckt;
      Runen können nicht gelesen werden von Swenja und Isban
@@ -142,7 +142,7 @@ Riesenfangzahn mit Runen bedeckt;
 
 vergangene Objectives:
 Mine untersuchen, ob Zeug unterschlagen wird
-Zylinder von Harika unterm Baum Minem in Kanach vergraben bis Ende des Sommers
+Zylinder von Harika unterm Baum Minem in Kanech vergraben bis Ende des Sommers
 
 
 
@@ -154,7 +154,6 @@ Hütte in der Nähe von Harikas Turm gebaut
      mit Tisch + Stuhl, Ofen-Herd-Kombi, eingezogene Ebene zum Schlafen
      4 Menschen können gecrampt darin schlafen
      daneben mit Reisig eingefriedet ein kleiner Garten
-
 
 Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
 hat Spinnennetzturm im Wald
@@ -209,17 +208,22 @@ Ragin:
 KV Graveur, hat Messer
 
 
+
 Onus: Müllersohn, Wassermühle
 Bande
 Nolunt: dumm aber haut rum
 Dischof: Händlerstochter
 Imlus: Argyrier, very edgy
 
+
+
 Eisenbach:
 Statthalter: Kalredin
 
+
 Tempel des Glänzenden:
 Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet
+
 
 Glitzerin/ Glitzerer
 Svenja: Ostteil Nordstadt
@@ -283,6 +287,6 @@ Minem: Magischer Baum, wir haben Zylinder mit Botschaft zwischen seinen Wurzeln 
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
 Hexe Mathilda: Narben über dem ganzen Körper, lehrt Hilda Erden/ Verbinden
-Dagnar: Händler aus Trarora, wohlhabend, hat bei 2 G um 1 G & 80 S (90%) beschissen, unehrlich
+Dagnar: Händler aus Trarora, wohlhabend, hat bei 2 G um 1 G & 80 S (90%) beschissen, unehrlich; bekam durch uns eine Steuerprüfung
 
 
