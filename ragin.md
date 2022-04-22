@@ -114,6 +114,9 @@ tags: character
 |Wächter|S|
 |Wissen(Kulturen)|S|
 |Akrobatik|S|
+|Suchen|S|
+
+|Suchen|S|
 
 #Inventar
 
