@@ -90,8 +90,11 @@ tags:
 |-|-|
 |Chaos|1|
 |Geordnet|1|
-| Floating Konzept | 1 |
-| Floating Aspekt | 1 |
+| Konzept: Runic Assembly Language | 1 |
+| Aspekt: Assembly Runen | 1 |
+| Konzept: Chaos Casting | 1 |
+| Aspekt: Arkan | 1 |
+| Aspekt: Blitz | 1 |
 
 ##Schiksal
 ###Attribute 
