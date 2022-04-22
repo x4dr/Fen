@@ -144,6 +144,7 @@ Riesenfangzahn mit Runen bedeckt;
 aktuelle Objektive:
 - Bericht zu Ausdauerketten abgeben
 - Fragen zu Hildus: Wieso will er Harika töten? Woher kommt er? Wie können wir ihn auf unsere Seite bringen?
+- lila Pilz
 
 vergangene Objectives:
 Mine untersuchen, ob Zeug unterschlagen wird
