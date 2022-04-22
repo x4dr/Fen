@@ -75,7 +75,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Kalligraphie|1|
-|Wizard|1|
+|Wizard|2|
 
 ##Mystisch
 ###Attribute 
