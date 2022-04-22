@@ -82,7 +82,8 @@ tags: character
 |Fallensteller|1|
 |Alchemie|2|
 |Survival|1|
-|Kochen|1|
+|Kochen|2|
+
 
 
 ##Mystisch
