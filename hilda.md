@@ -158,6 +158,7 @@ Hütte in der Nähe von Harikas Turm gebaut
 Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
 hat Spinnennetzturm im Wald
 diverse Magie zu lernen
+      Zihin: zweit größte Spinne im Turm
       Kapi: Türwächter Harikas
       Arabuluka: Unterhändler, Bediensteter
 
