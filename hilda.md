@@ -140,7 +140,8 @@ Riesenfangzahn mit Runen bedeckt;
 
 #Notizen
 
-aktuelle Objectives:
+vergangene Objectives:
+Mine untersuchen, ob Zeug unterschlagen wird
 Zylinder von Harika unterm Baum Minem in Kanach vergraben bis Ende des Sommers
 
 
@@ -218,7 +219,7 @@ Eisenbach:
 Statthalter: Kalredin
 
 Tempel des Glänzenden:
-Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im Tempel kennen lernen
+Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet
 
 Glitzerin/ Glitzerer
 Svenja: Ostteil Nordstadt
