@@ -110,10 +110,11 @@ tags: character
 |Fähigkeit|gesammelt|
 |:-|:-|
 |Empathie|1/5|
+|Überzeugen|1/5|
 |Irreführung|1/5|
+|Geschichtenerzählen|1/5|
 |Erden|4/5|
 |Survival|1/5|
-|Geschichtenerzählen|1/5|
 
 
 #Vorteile
