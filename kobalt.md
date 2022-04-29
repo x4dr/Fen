@@ -117,6 +117,7 @@ Fusarbeit: 1/5
 #Vorteile
 Lesen
 Schreiben
+Geheimsprache
 
 #Inventar
 
