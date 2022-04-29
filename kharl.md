@@ -49,9 +49,10 @@ tags: character
 |-|-|
 |Irreführung|1|
 |Tratsch|1|
-
-
-##Mental
+###Vorteil
+|Fähigkeit|Wert|
+|-|-|
+|Zeichensprache|1|##Mental
 ###Attribute 
 |Attribut|Level|
 |-|-|
