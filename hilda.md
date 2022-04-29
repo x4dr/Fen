@@ -142,9 +142,9 @@ Riesenfangzahn mit Runen bedeckt;
 
 #Notizen
 
-aktuelle Objektive:
+aktuelle Objektives:
 - Bericht zu Ausdauerketten abgeben
-- Fragen zu Hildus: Wieso will er Harika töten? Woher kommt er? Wie können wir ihn auf unsere Seite bringen?
+- Fragen zu Hildus: Wieso will er Harika töten? Woher kommt er? Wie können wir ihn auf unsere Seite bringen? 
 - lila Pilz
 
 vergangene Objectives:
