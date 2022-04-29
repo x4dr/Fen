@@ -30,9 +30,11 @@ tags: character
 
 
 
-
-
-##Sozial
+###Vorteile
+|-|-|
+|Argyrische Regeneration|1|
+|Klettersohlen|1|
+|Hydrophobe Haut|1|##Sozial
 ###Attribute 
 |Attribut|Level|
 |-|-|
