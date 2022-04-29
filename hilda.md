@@ -144,8 +144,14 @@ Riesenfangzahn mit Runen bedeckt;
 
 aktuelle Objektives:
 - Bericht zu Ausdauerketten abgeben
-- Fragen zu Hildus: Wieso will er Harika töten? Woher kommt er? Wie können wir ihn auf unsere Seite bringen? 
+- Fragen zu Hildus: 
 - lila Pilz
+Hildus: 
+- erkannte Harikas Namen; aber wollte sie erst töten, als er sie gesehen hat
+- Wieso will er Harika töten? no plan
+- Woher kommt er? 172 Tage aus dem Osten, wie viele Kilometer auch immer; reicht nicht bis Silaf
+- Wie können wir ihn auf unsere Seite bringen? Harika sagt geht, dauert aber
+
 
 vergangene Objectives:
 Mine untersuchen, ob Zeug unterschlagen wird
