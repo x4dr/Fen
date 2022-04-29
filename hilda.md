@@ -109,6 +109,7 @@ tags: character
 #Fortschritt
 |Fähigkeit|gesammelt|
 |:-|:-|
+|Hexe|1/5|
 |Empathie|1/5|
 |Überzeugen|1/5|
 |Irreführung|1/5|
