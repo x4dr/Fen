@@ -27,15 +27,13 @@ tags: character
 |Kontrolle|1|
 |Zechen|1|
 |Widerstehen|2|
-
-
-
 ###Vorteile
 |Fähigkeit|Wert|
 |-|-|
 |Argyrische Regeneration|1|
 |Klettersohlen|1|
 |Hydrophobe Haut|1|##Sozial
+
 ###Attribute 
 |Attribut|Level|
 |-|-|
