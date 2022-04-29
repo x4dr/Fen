@@ -128,9 +128,7 @@ tags: character
 (Gesamt +1 auf Alchemie)
 #Inventar
 
-|Name|Anzahl|Gewicht|Preis|
-|---|---|---|---|
-|||||
+1 Probe Holzwolf
 
 ##Ausrüstung
 Flint and Steel, 1 Satz Feuchtfeuer (alchemistisch), Beißwolken (gegen Monster, braucht Wurf), 4 Ölkugeln, Ausdauerkette(cracked), 1 Alchemie Luutbox
