@@ -110,7 +110,7 @@ tags: Hamus character
 
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
-|Feuerkugeln|5|250g|5k|
+|Feuerkugeln|2|250g|5k|
 |Berstein Herz||||
 |pugna|Placidus|||
 
@@ -121,4 +121,5 @@ Skill Zugänge:
 Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _auf dem Kopf lesen/ generelle sozial
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
+
 
