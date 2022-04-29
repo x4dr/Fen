@@ -143,8 +143,7 @@ Riesenfangzahn mit Runen bedeckt;
 #Notizen
 
 aktuelle Objektives:
-- Bericht zu Ausdauerketten abgeben
-- Fragen zu Hildus: 
+- Mysterium Hildus 
 - lila Pilz
 Hildus: 
 - erkannte Harikas Namen; aber wollte sie erst töten, als er sie gesehen hat
@@ -154,8 +153,9 @@ Hildus:
 
 
 vergangene Objectives:
-Mine untersuchen, ob Zeug unterschlagen wird
-Zylinder von Harika unterm Baum Minem in Kanech vergraben bis Ende des Sommers
+- Bericht zu Ausdauerketten abgeben
+- Mine untersuchen, ob Zeug unterschlagen wird
+- Zylinder von Harika unterm Baum Minem in Kanech vergraben bis Ende des Sommers
 
 
 
@@ -164,8 +164,10 @@ lernte Erden von Hexe Mathilda
 
 Lehrling bei Harika
 Hütte in der Nähe von Harikas Turm gebaut
+     3mx3m groß
+     mit Holzschindeln gedeckt
      mit Tisch + Stuhl, Ofen-Herd-Kombi, eingezogene Ebene zum Schlafen
-     4 Menschen können gecrampt darin schlafen
+     5 Menschen können gecrampt darin schlafen
      daneben mit Reisig eingefriedet ein kleiner Garten
 
 Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
