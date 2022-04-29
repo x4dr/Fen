@@ -170,7 +170,10 @@ Hütte in der Nähe von Harikas Turm gebaut
      5 Menschen können gecrampt darin schlafen
      daneben mit Reisig eingefriedet ein kleiner Garten
 
-Harika: Hexe im Wald, 1,5 Tagesreisen entfernt, Atakan 70 Jahre alt
+Harika: 
+Hexe im Wald, 1,5 Tagesreisen entfernt 
+Atakan 70 Jahre alt
+12m Durchmesser
 hat Spinnennetzturm im Wald
 diverse Magie zu lernen
       Zihin: zweit größte Spinne im Turm
