@@ -111,7 +111,7 @@ tags: Hamus character
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|5|250g|5k|
-|Durchhalte Kette||||
+|Berstein Herz||||
 |pugna|Placidus|||
 
 ##Ausrüstung
