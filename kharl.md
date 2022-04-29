@@ -31,6 +31,7 @@ tags: character
 
 
 ###Vorteile
+|Fähigkeit|Wert|
 |-|-|
 |Argyrische Regeneration|1|
 |Klettersohlen|1|
