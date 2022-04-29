@@ -144,7 +144,9 @@ Riesenfangzahn mit Runen bedeckt;
 
 aktuelle Objektives:
 - Mysterium Hildus 
-- lila Pilz
+Pilze:
+- lila Pilz (reicht für eine Dosis)
+- durchsichtige Glitzerpilze
 Hildus: 
 - erkannte Harikas Namen; aber wollte sie erst töten, als er sie gesehen hat
 - Wieso will er Harika töten? no plan
@@ -172,8 +174,7 @@ Hütte in der Nähe von Harikas Turm gebaut
 
 Harika: 
 Hexe im Wald, 1,5 Tagesreisen entfernt 
-Atakan 70 Jahre alt
-12m Durchmesser
+Atakan 70 Jahre alt, 12m Durchmesser, 100 Tonnen schwer
 hat Spinnennetzturm im Wald
 diverse Magie zu lernen
       Zihin: zweit größte Spinne im Turm
