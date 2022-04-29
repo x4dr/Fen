@@ -65,7 +65,7 @@ tags: Hamus character
 |Gassenwissen|1|
 |Mechanik|1|
 |Layouts|0|
-
+|Taktik|0|
 
 ##Können
 ###Attribute 
