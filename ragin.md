@@ -115,8 +115,7 @@ tags: character
 |Wissen(Kulturen)|S|
 |Akrobatik|S|
 |Suchen|S|
-
-|Suchen|S|
+|Zeichensprache|S|
 
 #Inventar
 
