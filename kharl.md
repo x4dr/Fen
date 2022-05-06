@@ -35,7 +35,6 @@ tags: character
 |Hydrophobe Haut|1|
 
 ##Sozial
-
 ###Attribute 
 |Attribut|Level|
 |-|-|
@@ -51,7 +50,9 @@ tags: character
 ###Vorteil
 |Fähigkeit|Wert|
 |-|-|
-|Zeichensprache|1|##Mental
+|Zeichensprache|1|
+##Mental
+
 ###Attribute 
 |Attribut|Level|
 |-|-|
