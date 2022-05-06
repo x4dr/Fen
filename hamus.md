@@ -28,6 +28,7 @@ tags: Hamus character
 |Fußarbeit|0|
 |Springen|0|
 |Akrobatik|0|
+|Kraft|0|
 
 ##Sozial
 ###Attribute 
