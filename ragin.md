@@ -103,6 +103,13 @@ tags: character
 |Schattenschritt|1|
 |EyEsOfDaRkNeSs|1|
 
+##Schicksal
+###Attribute 
+|Attribut|Level|
+|-|-|
+| Schicksal | 4 |
+| Gunst | 4 |
+| Wille | 2 |
 
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
@@ -116,7 +123,6 @@ tags: character
 |Akrobatik|S|
 |Suchen|S|
 |Zeichensprache|S|
-|Okysa|S|
 |Okysa|S|
 #Inventar
 
