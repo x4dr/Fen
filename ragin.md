@@ -116,7 +116,8 @@ tags: character
 |Akrobatik|S|
 |Suchen|S|
 |Zeichensprache|S|
-
+|Okysa|S|
+|Okysa|S|
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
