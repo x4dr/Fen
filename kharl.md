@@ -43,7 +43,6 @@ tags: character
 | Sympathie | 1 |
 | Eindruck | 1 |
 
-
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
