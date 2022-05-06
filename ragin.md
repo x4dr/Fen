@@ -111,6 +111,11 @@ tags: character
 | Gunst | 4 |
 | Wille | 2 |
 
+###Fähigkeiten
+|Fähigkeit|Wert|
+|-|-|
+|Okysa|0|
+
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
