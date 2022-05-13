@@ -25,7 +25,7 @@ tags: character
 |Rennen|1|
 |Akrobatik|1|
 |Fußarbeit|1|
-|Meucheln|0|
+|Meucheln|1|
 |Survival|1|
 |Kraft|1|
 |Werfen|1|
