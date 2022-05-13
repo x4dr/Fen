@@ -143,6 +143,11 @@ Riesenfangzahn mit Runen bedeckt;
 #Notizen
 
 aktuelle Objektives:
+Kornspeicher:
+- wurde manipuliert: man kann von außen in die Einfülluke einsteigen oder Korn vergiften oder Stadt in Brandsetzen
+- überwachen: Angriff hinterhalten, aufhalten und Übeltäter gefangen nehmen
+- sinnvolle Verbesserungen beim Stadthalter durchbringen: eine Art Kripo einrichten, um derartige Sabotageaktionen und Kriminalität aufzuklären; kritische Infrastruktur überwachen
+
 Pilze:
 - lila Pilz (reicht für eine Dosis)
 - durchsichtige Glitzerpilze
