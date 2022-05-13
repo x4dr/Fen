@@ -143,11 +143,10 @@ Riesenfangzahn mit Runen bedeckt;
 #Notizen
 
 aktuelle Objektives:
-- Mysterium Hildus 
 Pilze:
 - lila Pilz (reicht für eine Dosis)
 - durchsichtige Glitzerpilze
-Hildus: 
+Mysterium Hildus: 
 - erkannte Harikas Namen; aber wollte sie erst töten, als er sie gesehen hat
 - Wieso will er Harika töten? no plan
 - Woher kommt er? 172 Tage aus dem Osten, wie viele Kilometer auch immer; reicht nicht bis Silaf
@@ -160,9 +159,6 @@ vergangene Objectives:
 - Zylinder von Harika unterm Baum Minem in Kanech vergraben bis Ende des Sommers
 
 
-
-arbeitete Schuld bei Isban und Çırak ab
-lernte Erden von Hexe Mathilda
 
 Lehrling bei Harika
 Hütte in der Nähe von Harikas Turm gebaut
@@ -182,17 +178,19 @@ diverse Magie zu lernen
       Arabuluka: Unterhändler, Bediensteter
 
 
+arbeitete Schuld bei Isban und Çırak ab
+lernte Erden von Hexe Mathilda
+
+
 
 
 KM: Brunhilde
 KV: Gunnar
 Brüder: Erwin, Alois, Siegfried, Kolja (Nikolai)
 
-Eltern: Bäckerei
-viel beschäftigt
+Eltern: Bäckerei, viel beschäftigt
 
-Tante Gwendolin 
-hat Kräuterladen
+Tante Gwendolin, hat Kräuterladen
 
 
 Eisenbach Karte
@@ -260,7 +258,7 @@ Kasimir: Sehr dubios, nicht so gut
 
 
 Eisengilde
-Meisterin Elke (erhält Dolch von Limasurobe) 
+Meisterin Elke (erhielt Dolch von Limasurobe) 
 Meister Marten 
 
 
@@ -272,13 +270,13 @@ Wachen
 Sokol: Falkenreiter, Schwertwächter
 Isban: Seher, Aurier, hat mit Stadtwache zu tun, kann Bilder aus Kopf übertragen
 Stadtwache:
-Konstantin: Wachtmeister, haben ihn geholfen den Turm von Dieben zu befreien (Gefallen)
+Konstantin: Wachtmeister, haben ihm geholfen den Turm von Dieben zu befreien (Gefallen)
 Tom: Stadtwächter bei Botenpunkt
 Gunter & Anton: Trottel
 
 
 Rabenleute:
-Aghdar: ehemalige Wegediebin, aber trustworthy; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
+Aghdar: ehemalige Wegediebin, aber grau; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
 
 
 Bäcker:
