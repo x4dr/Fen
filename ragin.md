@@ -121,7 +121,7 @@ tags: character
 |:-|:-|  
 |Survival|SSSS|
 |Fußarbeit|SSS|
-|Meucheln|SSSS|
+|Meucheln|SSSSS|
 |Gifte|S|
 |Wächter|S|
 |Wissen(Kulturen)|S|
