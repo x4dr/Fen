@@ -16,7 +16,7 @@ tags: character
 |-|-|
 | Konstitution | 1 |
 | Agilität | 2 |
-| Geschick | 1 |
+| Geschick | 2 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
