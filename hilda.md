@@ -117,7 +117,7 @@ tags: character
 |Geschichtenerzählen|1/5|
 |Erden|4/5|
 |Survival|1/5|
-
+Voller FP Überzeugen 11.03.
 
 #Vorteile
 |Vorteil|gesammelt|
