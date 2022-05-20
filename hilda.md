@@ -285,6 +285,9 @@ Rabenleute:
 Aghdar: ehemalige Wegediebin, aber grau; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
 
 
+Abenteurer:
+Haita: Bogenschütze, kann gut Spuren verfolgen, hat uns Kram ausgelöst gegen 50 Kupfer
+
 Bäcker:
 Bäckertochter Linda
 
