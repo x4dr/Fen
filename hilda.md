@@ -286,6 +286,10 @@ Aghdar: ehemalige Wegediebin, aber grau; jetzt im Dienst der Rabenleute/ Taiems 
 
 
 Abenteurer:
+Gruppe 1: ist in den Wachtturm eingebrochen
+Tajana
+
+Gruppe 2: wurde von der Kabale sabotiert
 Haita: Bogenschütze, kann gut Spuren verfolgen, Ragin hat ihn in die Kniekehle gestochen mit einem Messer
 Kapparall: hat uns Kram ausgelöst gegen 50 Kupfer
 Kollegen: Taita, Tumra
