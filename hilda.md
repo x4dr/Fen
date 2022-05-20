@@ -265,6 +265,7 @@ Kasimir: Sehr dubios, nicht so gut
 Eisengilde
 Meisterin Elke (erhielt Dolch von Limasurobe) 
 Meister Marten 
+Atakan Meister Adalet
 
 
 Munitionierer
