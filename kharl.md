@@ -135,7 +135,8 @@ tags: character
 ##Ausrüstung
 Flint and Steel, 1 Satz Feuchtfeuer (alchemistisch), Beißwolken (gegen Monster, braucht Wurf), 4 Ölkugeln, Ausdauerkette(cracked), 1 Alchemie Luutbox
 
-
+##
+Instantshot: erdminze, norwood, kerzholz
 
 
 
