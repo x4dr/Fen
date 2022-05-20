@@ -286,7 +286,9 @@ Aghdar: ehemalige Wegediebin, aber grau; jetzt im Dienst der Rabenleute/ Taiems 
 
 
 Abenteurer:
-Haita: Bogenschütze, kann gut Spuren verfolgen, hat uns Kram ausgelöst gegen 50 Kupfer
+Haita: Bogenschütze, kann gut Spuren verfolgen, Ragin hat ihn in die Kniekehle gestochen mit einem Messer
+Kapparall: hat uns Kram ausgelöst gegen 50 Kupfer
+Kollegen: Taita, Tumra
 
 Bäcker:
 Bäckertochter Linda
