@@ -127,6 +127,8 @@ tags: character
 1/5 Kochen
 1/5 Wissen-Elemente
 1/5 Tratsch
+1/5 Alchemie
+1/5 Akrobatik
 (Gesamt +1 auf Alchemie)
 #Inventar
 
