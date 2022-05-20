@@ -121,6 +121,7 @@ Voller FP Überzeugen 11.03.
 #Vorteile
 |Vorteil|gesammelt|
 |:-|:-|
+|Shillsharing |1|
 |Akquisepunkt Heilen|1|
 |Akquisepunkt Kräuter|2|
 
