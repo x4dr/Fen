@@ -118,6 +118,9 @@ tags: character
 |Stärkung|1|
 |Schwächung|1|
 
+#Wunden
+1 Wunde SLIGHTLY LESS REAL
+
 #Fortschritt
 4/5 Irreführung
 1/5 Stil
