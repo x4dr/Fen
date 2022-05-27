@@ -297,6 +297,9 @@ Haita: Bogenschütze, kann gut Spuren verfolgen, Ragin hat ihn in die Kniekehle 
 Kapparall: hat uns Kram ausgelöst gegen 50 Kupfer
 Kollegen: Taita, Tumra
 
+Bauer:
+Alfred
+
 Bäcker:
 Bäckertochter Linda
 
