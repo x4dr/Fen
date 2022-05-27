@@ -107,8 +107,11 @@ tags: Hamus character
 
 #Vorteile:
 |Name|Stufe|Beschreibung|
-|-|l|-|
-
+|-|-|-|
+|Aurisch schreiben/lesen|1||
+|Aurisch sprechen|1||
+|Gebärendsprache|1||
+|Nebengassen|1|Umwege durch Nebenwege verlieren keine Zeit|
 #Fortschritt
 
 #Inventar
