@@ -102,8 +102,8 @@ tags: character
 |Attribut|Level|
 |-|-|
 | Schicksal | 1 |
-| Gunst | 1 |
-| Wille | 1 |
+| Gunst | 4 |
+| Wille | 5 |
 
 
 #Fortschritt
