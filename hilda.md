@@ -111,7 +111,7 @@ tags: character
 |:-|:-|
 |Hexe|1/5|
 |Empathie|3/5|
-|Überzeugen|1/5|
+|Überzeugen|2/5|
 |Irreführung|1/5|
 |Geschichtenerzählen|1/5|
 |Erden|4/5|
