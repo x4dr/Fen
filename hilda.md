@@ -263,10 +263,11 @@ Heiler
 Kasimir: Sehr dubios, nicht so gut
 
 
-Eisengilde
+Metallgilde
 Meisterin Elke (erhielt Dolch von Limasurobe) 
 Meister Marten 
 Atakan Meister Adalet
+Alrik: Geselle
 
 
 Munitionierer
