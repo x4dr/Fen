@@ -113,6 +113,7 @@ Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 1/5
 Aspekt: Arkan 1/5
+Konzept: Chaos Casting 1/5
 
 
 #Vorteile
