@@ -288,6 +288,9 @@ Rabenleute:
 Aghdar: ehemalige Wegediebin, aber grau; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
 
 
+Boten:
+Berit: Botenmeister
+
 Abenteurer:
 Gruppe 1: ist in den Wachtturm eingebrochen
 Tajana
