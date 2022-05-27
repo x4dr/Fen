@@ -105,6 +105,10 @@ tags: Hamus character
 |Tiergefährte|1|
 |Zielsicher|0|
 
+#Vorteile:
+|Name|Stufe|Beschreibung|
+|-|l|-|
+
 #Fortschritt
 
 #Inventar
