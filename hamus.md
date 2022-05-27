@@ -111,7 +111,7 @@ tags: Hamus character
 |Aurisch schreiben/lesen|1||
 |Aurisch sprechen|1||
 |Gebärendsprache|1||
-|Nebengassen|1|Umwege durch Nebenwege verlieren keine Zeit|
+|Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
 
 #Fortschritt
 
