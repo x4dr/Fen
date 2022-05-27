@@ -263,6 +263,10 @@ Heiler
 Kasimir: Sehr dubios, nicht so gut
 
 
+Isban: Seher, Aurier, hat mit Stadtwache zu tun, kann Bilder aus Kopf übertragen
+Nyskurni: Mitbewohner von Isban
+
+
 Metallgilde
 Meisterin Elke (erhielt Dolch von Limasurobe) 
 Meister Marten 
@@ -274,9 +278,9 @@ Munitionierer
 Geselle Jakob: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
-Wachen
+Schwertwächter:
 Sokol: Falkenreiter, Schwertwächter
-Isban: Seher, Aurier, hat mit Stadtwache zu tun, kann Bilder aus Kopf übertragen
+
 Stadtwache:
 Konstantin: Meister der Wache, haben ihm geholfen den Turm von Dieben zu befreien (Gefallen)
 Sybille: fähig, Armbrustschützin
