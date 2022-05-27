@@ -90,11 +90,11 @@ tags:
 |-|-|
 |Chaos|1|
 |Geordnet|1|
-| Konzept: Runic Assembly Language | 1 |
-| Aspekt: Assembly Runen | 1 |
-| Konzept: Chaos Casting | 1 |
-| Aspekt: Arkan | 1 |
-| Aspekt: Blitz | 1 |
+| KonzeptRunicAssemblyLanguage | 1 |
+| AspektAssembly Runen | 1 |
+| KonzeptChaosCasting | 1 |
+| AspektArkan | 1 |
+| AspektBlitz | 1 |
 
 ##Schiksal
 ###Attribute 
@@ -112,7 +112,7 @@ Widerstand: 3/5
 Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 1/5
-Aspekt: Arkan
+Aspekt: Arkan 1/5
 
 
 #Vorteile
