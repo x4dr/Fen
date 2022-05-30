@@ -142,7 +142,7 @@ Flint and Steel, 1 Satz Feuchtfeuer (alchemistisch), 2 Ölkugeln, Ausdauerkette(
 
 
 #Rezepte
-Instantshot: erdminze, norwood, kerzholz
+Schnapsdrossler: erdminze, norwood, kerzholz
 
 
 
