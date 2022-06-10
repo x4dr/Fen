@@ -75,7 +75,7 @@ Spezifischer Wurf (Waldwissen bzw Kräuterkunde):
 
 ### Reisefortschritt
 
-Gesamtentfernung ist entweder in Tagen geschätzt oder in "Fortschritt", Fortschritt entspricht etwa 2*5*Tagesreisen
+Gesamtentfernung ist entweder in Tagen geschätzt oder in "Fortschritt", Fortschritt entspricht etwa 2&mul;5&mul;Tagesreisen
 Die Entfernung enthält die "normale" Reisezeit plus infrastruktur usw, 6 Tage entspricht einer variablen kilometer anzahl mit allen Faktoren außer der Leistung der Reisenden schon eingerechnet.
 
 Fortschritt einer Etappe ist der geringste Fortschritt (Wurfergebnis der Etappe) zwischen den Teilnehmern und hat ein normales maximum von 5, danach wird weiterer Fortschritt nurnoch 2:1 umgesetzt (7 -> 6 ... 20 -> 13)
