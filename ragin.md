@@ -120,7 +120,7 @@ tags: character
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |Survival|SSSS|
-|Fußarbeit|SSSS|
+|Fußarbeit|SSSSS|
 |Meucheln|SSSSS|
 |Gifte|S|
 |Wächter|S|
