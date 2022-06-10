@@ -24,7 +24,7 @@ tags: character
 |Messa|1|
 |Rennen|1|
 |Akrobatik|1|
-|Fußarbeit|1|
+|Fußarbeit|2|
 |Meucheln|1|
 |Survival|1|
 |Kraft|1|
