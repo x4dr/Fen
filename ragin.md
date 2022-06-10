@@ -129,6 +129,9 @@ tags: character
 |Suchen|S|
 |Zeichensprache|S|
 |Okysa|SS|
+|Schattenschritt|S|
+
+|Schattenschritt|S|
 
 #Inventar
 
