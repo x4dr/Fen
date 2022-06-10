@@ -123,6 +123,8 @@ Geheimsprache
 
 #Inventar
 
+M<agisher Wanderstein fuer ausdauer
+
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |||||
