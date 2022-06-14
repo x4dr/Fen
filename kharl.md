@@ -66,7 +66,7 @@ tags: character
 |-|-|
 |Taktik|1|
 |Forschen|1|
-|Wissen - Elemente|1|
+|Elementarwissen|1|
 
 
 
