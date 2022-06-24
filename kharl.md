@@ -138,7 +138,8 @@ tags: character
 1 Probe Holzwolf
 
 ##Ausrüstung
-Flint and Steel, 1 Satz Feuchtfeuer (alchemistisch), 2 Ölkugeln, 1 Alchemie Luutbox
+Flint and Steel, 1 Satz Feuchtfeuer (alchemistisch), 1 Ölkugeln, 1 Alchemie Luutbox
+
 
 
 
