@@ -112,6 +112,7 @@ tags: Hamus character
 |Aurisch sprechen|1||
 |Gebärendsprache|1||
 |Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
+|Lesen in schlechten Bedingungen|1|siehe title|
 
 #Fortschritt
 
