@@ -120,8 +120,8 @@ tags: Hamus character
 
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
-|Feuerkugeln|1|250g|5k|
-|Berstein Herz||||
+|Feuerkugeln|0|250g|5k|
+|||||
 |pugna|Placidus|||
 
 ##Ausrüstung
@@ -131,6 +131,8 @@ Skill Zugänge:
 Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _auf dem Kopf lesen/ generelle sozial
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
+Berstein Herz: erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen
+
 
 
 
