@@ -24,7 +24,7 @@ tags:
 |Fusarbeit|1|
 |Acrobatics|1|
 |Kontrolle|1|
-
+|Widerstand|1|
 
 ##Sozial
 ###Attribute 
@@ -108,7 +108,7 @@ tags:
 #Fortschritt
 Tratsch 2/5
 Rennen: 3/5
-Widerstand: 4/5
+Widerstand: 5/5
 Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 1/5
