@@ -45,7 +45,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Irreführung|1|
+|Irreführung|2|
 |Tratsch|1|
 ###Vorteil
 |Fähigkeit|Wert|
