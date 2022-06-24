@@ -103,7 +103,7 @@ tags: Hamus character
 |Gefahrensin|1|
 |Atemtechnik|1|
 |Tiergefährte|1|
-|Zielsicher|0|
+|Zielsicher|1|
 
 #Vorteile:
 |Name|Stufe|Beschreibung|
