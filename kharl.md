@@ -122,7 +122,6 @@ tags: character
 1 Wunde SLIGHTLY LESS REAL
 
 #Fortschritt
-4/5 Irreführung
 1/5 Stil
 1/5 Autorität
 1/5 Tierzähmung
@@ -132,7 +131,7 @@ tags: character
 1/5 Tratsch
 2/5 Alchemie
 1/5 Akrobatik
-(Gesamt +1 auf Alchemie)
+(Gesamt +1 auf Alchemie, +1 auf Irreführung)
 #Inventar
 
 1 Probe Holzwolf
