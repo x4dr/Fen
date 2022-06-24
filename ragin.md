@@ -130,8 +130,7 @@ tags: character
 |Zeichensprache|S|
 |Okysa|SS|
 |Schattenschritt|S|
-
-|Schattenschritt|S|
+|Widerstehen|S|
 
 #Inventar
 
