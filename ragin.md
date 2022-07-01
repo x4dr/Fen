@@ -4,7 +4,7 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Ragin |
-|Alter | 15 |
+|Alter | 16 |
 |Größe|170-ish cm|
 |usw|joa|
 |Charakterkonzept|Fast Assassin|
@@ -118,6 +118,7 @@ tags: character
 
 #Vorteile
 Zeichensprache
+Adrenalinflut
 
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
