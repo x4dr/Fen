@@ -50,7 +50,7 @@ tags: character
 |-|-|
 | Wahrnehmung | 2 |
 | Bildung | 1 |
-| Geist | 1 |
+| Geist | 2 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
