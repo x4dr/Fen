@@ -36,7 +36,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Autorität|1|
+|Autorität|2|
 |Überzeugen|1|
 |Empathie|1|
 |Tratsch|1|
@@ -95,6 +95,7 @@ tags: character
 |Fokus|2|
 |Scrying|1|
 |First Sight|1|
+|Eidetisches Gedächtnis|1|
 
 
 ##Narrativ
