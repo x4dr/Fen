@@ -59,8 +59,8 @@ tags: character
 |Suchen|1|
 |Navigation|1|
 |Magiewissen|1|
-|Waldwissen|1|
-|Kreaturenwissen|1|
+|Waldwissen|2|
+|Kreaturenwissen|2|
 
 
 ##Können
