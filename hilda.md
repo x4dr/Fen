@@ -312,6 +312,9 @@ Alfred
 Bäcker:
 Bäckertochter Linda
 
+Müller:
+Malignius: Vater von Onus
+
 
 Schenken
 Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
