@@ -82,7 +82,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Tierzähmung|1|
+|Tierzähmung|2|
 |Fallensteller|1|
 |Alchemie|2|
 |Survival|1|
