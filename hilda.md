@@ -122,6 +122,7 @@ Voller FP Überzeugen 11.03.
 #Vorteile
 |Vorteil|gesammelt|
 |:-|:-|
+|Zeichensprach |kommunizieren ohne Laute|
 |Skillsharing |Fähigkeiten & Wissen von anderen auch beim Zaubern nutzen können|
 |Akquisepunkt Heilen|1|
 |Akquisepunkt Kräuter|2|
