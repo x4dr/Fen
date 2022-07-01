@@ -96,7 +96,7 @@ tags:
 | KonzeptRunicAssemblyLanguage | 1 |
 | AspektAssembly Runen | 1 |
 | KonzeptChaosCasting | 2 |
-| AspektArkan | 1 |
+| AspektArkan | 5 |
 | AspektBlitz | 1 |
 
 ##Schiksal
