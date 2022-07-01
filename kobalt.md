@@ -40,6 +40,7 @@ tags:
 |-|-|
 |Befragung|1|
 |Irrefuehrung|1|
+|Fast Talk|1|
 
 
 ##Mental
@@ -60,6 +61,7 @@ tags:
 |Arcana|2|
 |Suchen|1|
 |Naturphilosophie|1|
+|Analyse|1|
 
 
 ##Können
@@ -93,7 +95,7 @@ tags:
 |Geordnet|1|
 | KonzeptRunicAssemblyLanguage | 1 |
 | AspektAssembly Runen | 1 |
-| KonzeptChaosCasting | 1 |
+| KonzeptChaosCasting | 2 |
 | AspektArkan | 1 |
 | AspektBlitz | 1 |
 
