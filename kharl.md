@@ -41,6 +41,7 @@ tags: character
 | Durchsetzungsvermögen | 1 |
 | Sympathie | 1 |
 | Eindruck | 1 |
+| Etikette|1|
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
