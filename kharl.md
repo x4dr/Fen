@@ -41,13 +41,13 @@ tags: character
 | Durchsetzungsvermögen | 1 |
 | Sympathie | 1 |
 | Eindruck | 1 |
-| Etikette|1|
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Irreführung|2|
 |Tratsch|1|
+| Etikette|1|
 ###Vorteil
 |Fähigkeit|Wert|
 |-|-|
