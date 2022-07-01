@@ -109,6 +109,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |MystAlc|1|
+|Körperinfusion|1|
 ###Quelle
 |Fähigkeit|Wert|
 |-|-|
