@@ -48,7 +48,7 @@ tags:
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 1 |
-| Bildung | 1 |
+| Bildung | 2 |
 | Geist | 2 |
 
 
@@ -85,7 +85,7 @@ tags:
 |Attribut|Level|
 |-|-|
 | Konzentration | 2 |
-| Disziplin | 1 |
+| Disziplin | 2 |
 | Flow | 1 |
 
 ###Fähigkeiten
@@ -96,7 +96,7 @@ tags:
 | KonzeptRunicAssemblyLanguage | 1 |
 | AspektAssembly Runen | 1 |
 | KonzeptChaosCasting | 2 |
-| AspektArkan | 5 |
+| AspektArkan | 1 |
 | AspektBlitz | 1 |
 
 ##Schiksal
