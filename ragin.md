@@ -102,6 +102,7 @@ tags: character
 |-|-|
 |Schattenschritt|1|
 |EyEsOfDaRkNeSs|1|
+|Okysa|0|
 
 ##Schicksal
 ###Attribute 
@@ -114,7 +115,6 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Okysa|0|
 
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
