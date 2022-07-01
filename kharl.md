@@ -75,7 +75,7 @@ tags: character
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Theorie | 1 |
+| Theorie | 2 |
 | Praxis | 2 |
 | Einblick | 1 |
 
