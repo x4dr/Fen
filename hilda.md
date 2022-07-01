@@ -58,8 +58,8 @@ tags: character
 |Instinkt|1|
 |Suchen|1|
 |Navigation|1|
-|Magiewissen|1|
-|Waldwissen|2|
+|Magiewissen|2|
+|Waldwissen|1|
 |Kreaturenwissen|2|
 
 
