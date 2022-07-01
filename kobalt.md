@@ -40,7 +40,7 @@ tags:
 |-|-|
 |Befragung|1|
 |Irrefuehrung|1|
-|Fast Talk|1|
+|FastTalk|1|
 
 
 ##Mental
