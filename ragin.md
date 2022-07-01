@@ -29,8 +29,7 @@ tags: character
 |Survival|1|
 |Kraft|1|
 |Werfen|1|
-|Widerstehen|0|
-
+|Widerstehen|1|
 
 
 ##Sozial
@@ -86,6 +85,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Gifte|1|
+|Musterresonanz|1|
 |Agent|1|
 
 ##Mystisch
@@ -100,9 +100,9 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Schattenschritt|1|
+|Schattenschritt|2|
 |EyEsOfDaRkNeSs|1|
-|Okysa|0|
+|Okysa|1|
 
 ##Schicksal
 ###Attribute 
@@ -115,6 +115,9 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+
+#Vorteile
+Zeichensprache
 
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
