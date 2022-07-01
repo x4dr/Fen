@@ -76,6 +76,7 @@ tags:
 |-|-|
 |Kalligraphie|1|
 |Wizard|2|
+|MagieHandwerk|1|
 
 ##Mystisch
 ###Attribute 
