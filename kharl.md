@@ -121,7 +121,7 @@ tags: character
 |Schwächung|1|
 
 #Wunden
-1 Wunde SLIGHTLY LESS REAL
+
 
 #Fortschritt
 1/5 Stil
