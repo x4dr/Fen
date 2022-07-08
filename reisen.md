@@ -11,14 +11,14 @@ Kosten/Gewicht sind pro Tag pro Person
 |Typ|Haltbarkeit|Kosten| Gewicht| Bemerkung |
 |-|-|-|-|-|
 |Brot| 7d | 5k | 1kg | Nur Brot führt zu Erschöpfung |
-|Zwieback| 1y | 10k | 0.8kg ||
-|Nüsse| 2y |  50k | 0.3kg ||
+|Zwieback| 1y | 10k | 0.8kg | |
+|Nüsse| 2y |  50k | 0.3kg | |
 |Fisch/Fleisch| 3d | 50k | 0.75kg | Bonus würfel zum Kochen |
 |Salzfleisch| 10y | 80k| 0.6kg| Muss stundenlang gewaschen werden |
-|Speck| 1y | 40k | 0.4 kg||
-|Früchte | 3d | 10k | 1.5kg ||
-|Gemüse | 2w | 5k | 1.5kg ||
-|Käse| 3m | 30k | 0.6kg ||
+|Speck| 1y | 40k | 0.4 kg| |
+|Früchte | 3d | 10k | 1.5kg | |
+|Gemüse | 2w | 5k | 1.5kg | |
+|Käse| 3m | 30k | 0.6kg | |
 |FertigRation| 7d | 50k | 0.5 | Stellt Erschöpfung wieder her, kann unterwegs gegessen werden|
 
 ##Nahrhaftigkeit
