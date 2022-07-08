@@ -141,19 +141,25 @@ Riesenfangzahn mit Runen bedeckt;
      Runen können nicht gelesen werden von Swenja und Isban
      Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
+Pilze:
+- lila Pilz (reicht für eine Dosis)
+- durchsichtige Glitzerpilze
 
 
 #Notizen
 
 aktuelle Objektives:
+- Was macht die Müllergilde? Ist das rechtens?
+- Aufgetauchtes Haus in der Nähe von Hakkerskamp
+
+
+vergangene Objectives:
 Kornspeicher:
 - wurde manipuliert: man kann von außen in die Einfülluke einsteigen oder Korn vergiften oder Stadt in Brandsetzen
 - überwachen: Angriff hinterhalten, aufhalten und Übeltäter gefangen nehmen
 - sinnvolle Verbesserungen beim Stadthalter durchbringen: eine Art Kripo einrichten, um derartige Sabotageaktionen und Kriminalität aufzuklären; kritische Infrastruktur überwachen
 
-Pilze:
-- lila Pilz (reicht für eine Dosis)
-- durchsichtige Glitzerpilze
+
 Mysterium Hildus: 
 - erkannte Harikas Namen; aber wollte sie erst töten, als er sie gesehen hat
 - Wieso will er Harika töten? no plan
@@ -161,7 +167,6 @@ Mysterium Hildus:
 - Wie können wir ihn auf unsere Seite bringen? Harika sagt geht, dauert aber
 
 
-vergangene Objectives:
 - Bericht zu Ausdauerketten abgeben
 - Mine untersuchen, ob Zeug unterschlagen wird
 - Zylinder von Harika unterm Baum Minem in Kanech vergraben bis Ende des Sommers
