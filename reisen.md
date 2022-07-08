@@ -4,7 +4,7 @@ tags:
 
 #Reisen
 
-##Proviant:
+##Proviant
 
 Kosten/Gewicht sind pro Tag pro Person
 
