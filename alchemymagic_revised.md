@@ -4,7 +4,7 @@ tags:
 # Alchemische Einstimmung
 ## Grundlegende Definition
 **Quelle**: Einstimmung in die Magischen Flüsse des Universums   
-**Konzept**: Alchemische Magie, die Manipulation von Natürlichen Prozessen und das Hervorrufen von komplett eigenen, mit Hilfe von Reagenzien
+**Konzept**: Alchemische Magie, die Manipulation von natürlichen Prozessen und das Hervorrufen von komplett eigenen, mit Hilfe von Reagenzien
 **Aspekt**: Prozessalchemie, [Schnellalchemie](quickalchemy)
 ## Mechaniken
 ###[Vorteile](alchemyperks)
