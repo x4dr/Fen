@@ -48,7 +48,7 @@ tags: character
 |Etiquette|1|
 |Handel|1|
 |Tratsch|1|
-|Authorität|1|
+|Autorität|1|
 |Empathie|1|
 
 
