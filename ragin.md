@@ -29,7 +29,7 @@ tags: character
 |Survival|1|
 |Kraft|1|
 |Werfen|1|
-|Widerstehen|1|
+|Widerstehen|10|
 
 
 ##Sozial
