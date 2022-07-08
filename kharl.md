@@ -133,6 +133,7 @@ tags: character
 1/5 Tratsch
 2/5 Alchemie
 1/5 Akrobatik
+1/5 FAllensteller
 (Gesamt +1 auf Alchemie, +1 auf Irreführung)
 #Inventar
 
