@@ -44,7 +44,7 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Empathie|0|
-|Tratsch|0|
+|Tratsch|1|
 |Ettiquette|1|
 
 
@@ -64,9 +64,9 @@ tags: Hamus character
 |Instinkt|1|
 |Ermitteln|1|
 |Balistik|1|
-|Gassenwissen|1|
+|Gassenwissen|2|
 |Mechanik|1|
-|Layouts|0|
+|Layouts|1|
 |Taktik|0|
 
 ##Können
@@ -100,7 +100,7 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Spurenlos|2|
-|Gefahrensin|1|
+|Gefahrensin|2|
 |Atemtechnik|1|
 |Tiergefährte|1|
 |Zielsicher|1|
