@@ -4,7 +4,7 @@ tags: Hamus character
 |Detail|Inhalt|
 |-|-|
 |Name | Hamus|
-|Alter | 12,5 |
+|Alter | 13,5 |
 |Größe| 99 cm|
 
 
