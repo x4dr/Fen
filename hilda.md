@@ -90,10 +90,10 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Erden|1|
-|Leben|1|
-|Fokus|2|
-|Scrying|1|
+|Erden Q|1|
+|Fokus K|2|
+|Leben A|1|
+|Scrying A|1|
 |First Sight|1|
 |Eidetisches Gedächtnis|1|
 
