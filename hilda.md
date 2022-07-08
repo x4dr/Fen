@@ -91,9 +91,9 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Erden Quelle|1|
-|Fokus K|2|
-|Leben A|1|
-|Scrying A|1|
+|Fokus Konzept|2|
+|Leben Aspekt|1|
+|Scrying Aspekt|1|
 |First Sight|1|
 |Eidetisches Gedächtnis|1|
 
