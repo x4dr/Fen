@@ -52,7 +52,7 @@ tags: Hamus character
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Wahrnehmung | 2 |
+| Wahrnehmung | 3 |
 | Bildung | 1 |
 | Geist | 1 |
 
