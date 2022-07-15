@@ -124,6 +124,7 @@ PerfektChaos 1/5
 Lesen
 Schreiben
 Geheimsprache
+ReadEverywhere
 
 #Inventar
 
