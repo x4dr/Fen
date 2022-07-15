@@ -114,11 +114,12 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Zutaten|1|
-###Aspekte
+###Aspekt
 |Fähigkeit|Wert|
 |-|-|
 |Stärkung|1|
 |Schwächung|1|
+
 
 
 #Wunden
