@@ -74,7 +74,7 @@ tags:
 |-|-|
 | Theorie | 2 |
 | Praxis | 4 |
-| Einblick | 2 |
+| Einblick | 1 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
