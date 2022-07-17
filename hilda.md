@@ -114,7 +114,7 @@ tags: character
 |Empathie|3/5|
 |Überzeugen|2/5|
 |Irreführung|1/5|
-|Geschichtenerzählen|1/5|
+|Geschichtenerzählen|2/5|
 |Erden|4/5|
 |Survival|1/5|
 Voller FP Überzeugen 11.03.
