@@ -162,19 +162,20 @@ Raum im Haus von Malginus:
 - Wasabi-Sinnesblocker bei illegitimem Zugang; Der Wasabi-Effekt verhindern, dass man von außen sehen kann, was mit dem Kreis gemacht wird. Der Wasabi-Effekt führt auch dazu, dass keine Informationen von Innen nach Außen gehen
 - Brokrat-Tapete, Loot: kleines Stück Brokrat-Tapete; Tapete ist Teil des Wasabi-Effekts und gesegnet = bekommt Energie von außen, divine bullshit; Das Stück Tapete ist immer noch aktiv: wenn man etwas damit umschließt, ist der Effekt aktiv
 
+
 Aufgetauchtes Haus in der Nähe von Hakkerskamp
 Haupthaus
 - Keller: 1. Ebene Patroullien mit leuchtenden Augen, ohne Leben, große schwarze Formen (auch Ragin sieht nichts, obwohl er durch Dunkelheit sehen kann), keine Lebewesen, manifestierte Energie, kein eigener Wille, nicht Instinkt getrieben, Wesen im Keller sind nicht Zeit-, Schatten- oder Erdelementare; bewachen Quelle der Macht
 - Keller: Zugang zu 2. Ebene verschlossen, dort Quelle von Macht
-- Versteckter Raum: Loot Kästchen und Fallen, die mit Mordgelüsten installiert wurden
+- versteckter Raum: Loot Kästchen und Fallen, die mit Mordgelüsten installiert wurden
 - das ominöse Haus assembled sich langsam wieder; Tunnel des Kellers wachsen um Millimeter; Ameisen und Holzwürmer in den Balken des Anwesens sterben
 - die "Quelle der Macht" ist ein Tag später im 3. UG
 - Malignus stand im 1. UG, seinen Stab in die Erde gestoßen, starrte in die Dunkelheit und die Dunkelheit starrte zurück
-Turm: Belos-Tempel
+Turm: Belos-Tempel (Belos = Drache!)
 3. OG: Voll mit Schriftrollen und Tontafeln
 2. OG: Altar, verrostete Metallscheibe
 1. OG: Unverständliche Gerätschaften, einige große Linsen
-EG: Schreibtisch, Weapons rack, Armour, überreste eine hölzernen Möbels 
+EG: Schreibtisch, Weapons rack, Armour, Überreste eine hölzernen Möbels 
 
 
 vergangene Objectives:
