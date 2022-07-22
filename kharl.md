@@ -131,7 +131,7 @@ tags: character
 1/5 Tierzähmung
 1/5 Etikette
 1/5 Kochen
-3/5 Elementarwissen
+4/5 Elementarwissen
 1/5 Tratsch
 2/5 Alchemie
 1/5 Akrobatik
