@@ -148,6 +148,7 @@ Adrenalinflut
 |---|---|---|---|
 |Überlandbotenrucksack|1|5kg||
 |Ragins Messa|1|0.5kg||
+|Aurier Messa|1|0.5kg||
 |Fackel|1|||
 
 ##Notizen
