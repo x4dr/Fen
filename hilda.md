@@ -157,10 +157,21 @@ aktuelle Objektives:
 Müllergilde
 Raum im Haus von Malginus:
 - eingebrannter Kreis, 2m Durchmesser 
-- fancy Stühle, sehr aufgeräumter Raum insgesamt 
+- 12-15 fancy Stühle, sehr aufgeräumter Raum insgesamt 
 - verschlossene Dokumentenschatullen
 - Wasabi-Sinnesblocker bei illegitimem Zugang; Der Wasabi-Effekt verhindern, dass man von außen sehen kann, was mit dem Kreis gemacht wird. Der Wasabi-Effekt führt auch dazu, dass keine Informationen von Innen nach Außen gehen
 - Brokrat-Tapete, Loot: kleines Stück Brokrat-Tapete; Tapete ist Teil des Wasabi-Effekts und gesegnet = bekommt Energie von außen, divine bullshit; Das Stück Tapete ist immer noch aktiv: wenn man etwas damit umschließt, ist der Effekt aktiv
+- Es treffen sich in dem Saal viele spitzzüngige Menschen -> nicht nette, gehobene Gesellschaft; plus eine charismatische Person, bei deren Eintreten alle verstummen
+- Freie Bauern: Die Müllersgilde macht Take-overs. Offerieren Kredit für Menschen in Not, übernehmen sie dann in die Gilde. Versichern gegen Ausfall. Sind keine Macht des Bösen, sondern zentralisieren. Vorteil: Stabile Preise, stabiler Supply, zentrale Organisation, Großkoordination.
+Wo das nächste Mal ansetzen: 
+Wieso hat die Müllersgilde gute Qualität? (keine Ratten, keine Käfer im Mehl)
+- Todesnebel aus dem aufgetauchtem Haus nahe Hakkerskamp
+Wieso setzen sich mit Küchengilde auseinander und was machen sie da?
+Welcher Gott unterstützt sie?
+Was zum fick passiert in diesem Raum?
+Wer nimmt daran teil? 
+Wofür ist dieser Kreis da?
+Wieso ist es so derart geheim?
 
 
 Aufgetauchtes Haus in der Nähe von Hakkerskamp
