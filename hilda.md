@@ -123,7 +123,7 @@ Voller FP Überzeugen 11.03.
 |Vorteil|gesammelt|
 |:-|:-|
 |Erden im Wald |Bonuswürfel bei Erden im Wald|
-|Zeichensprach |kommunizieren ohne Laute|
+|Zeichensprache |kommunizieren ohne Laute|
 |Skillsharing |Fähigkeiten & Wissen von anderen auch beim Zaubern nutzen können|
 |Akquisepunkt Medkit|2|
 |Akquisepunkt Kräuter|2|
