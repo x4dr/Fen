@@ -84,7 +84,7 @@ tags: Hamus character
 |Unauffällig|2|
 |Infiltrator|1|
 |Diebeshandwerk|0|
-|Survival|0|
+|Apraisal|0|
 
 
 ##Mystisch
