@@ -12,7 +12,7 @@ Praktische Anwendung
 |||||
 
 
-Mental/ Mystisch
+Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
