@@ -8,9 +8,10 @@ Mental/ Mystisch
 |-|-|-|-|
 |"Sehen"|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
-|Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
-|Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+|Flüche|Long Verecund|believed to lift curses|Bonus|
 |Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
+|Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+|Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
 |||||
 
 
