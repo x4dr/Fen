@@ -31,7 +31,7 @@ Ailment/ Heilen
 ||Jubellicht|katzenartige Nachtsicht|Bonus|
 |Knochen, Schwellungen|Wallblatt|heilt Knochen, Prellungen, Zerrungen und Verstauchungen|Bonus|
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
-|||||
+|Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 |||||
 
 
@@ -42,3 +42,10 @@ Schaden & Gifte
 ||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
 |Gift|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
+|Erinnerung|Zedrach|schwächt Erinnerungsvermögen|Bonus|
+
+
+
+
+
+
