@@ -40,4 +40,5 @@ Schaden & Gifte
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 ||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
-||Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
+|Gift|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
+||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
