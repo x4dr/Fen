@@ -41,6 +41,7 @@ Emotionen
 |-|-|-|-|
 |Beruhigen|Kerzholz|beruhigt den Geist, stabilisiert Emotionen, schottet innen von außenwelt ab|Bonus|
 ||Erdminze|beruhigt und klärt|Bonus|
+||Phennet|reduce anxiety|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 ||Mountain Astory|promotes an aura of confidence and persuasiveness|Bonus|
@@ -57,8 +58,10 @@ Ailments/ Körperlich Heilen
 ||Jubellicht|katzenartige Nachtsicht|Bonus|
 |Knochen, Schwellungen|Wallblatt|heilt Knochen, Prellungen, Zerrungen und Verstauchungen|Bonus|
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
-|Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
+||Phennet|ease gastric distress (Magen)|Bonus|
 |Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
+|Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
+|Erkältung|Poliscus|cure coughs and sore throats|Bonus|
 |||||
 
 
