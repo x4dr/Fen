@@ -9,6 +9,7 @@ Praktische Anwendung
 |Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
 ||Jubellicht|katzenartige Nachtsicht|Bonus|
 |Feuer|Kerzholz|lange Brenndauer|Bonus|
+|Luftfilter|Palliance|help to filter toxins from the surrounding air|Bonus|
 |||||
 
 
@@ -31,6 +32,7 @@ Mental/ kognitiv
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
 ||Maiden's Sorrow|prevent mind from wandering, providing a focusing effect|Bonus|
 |Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+|Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
 |||||
 
 
@@ -42,6 +44,7 @@ Emotionen
 ||Erdminze|beruhigt und klärt|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
+||Mountain Astory|promotes an aura of confidence and persuasiveness|Bonus|
 |||||
 
 
@@ -57,10 +60,11 @@ Ailments/ Körperlich Heilen
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 |Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
+|Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
 |||||
 
 
-Schaden & Gifte
+Schaden zufügen & Gifte
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
@@ -72,6 +76,7 @@ Schaden & Gifte
 ||Buttertal|der Rest der Pflanze ist sehr haut/schleimhaut reizend wenn zerstoßen, rötung, jucken und bläschen|Bonus|
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
+||Pennybell|hallucinagenic properties, highly addictive and can lead to sickness and death|Bonus|
 |||||
 
 
