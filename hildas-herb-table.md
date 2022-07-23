@@ -19,8 +19,8 @@ Emotionen
 |-|-|-|-|
 |Beruhigen|Kerzholz|beruhigt den Geist, stabilisiert emotionen, schottet innen von außenwelt ab|Bonus|
 ||Erdminze|beruhigt und klärt|Bonus|
-|Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
+|Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 |Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
 |||||
 
@@ -47,7 +47,7 @@ Schaden & Gifte
 |Gift|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
-|Lesser Merrydock||||
+||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
 |||||
 
 
