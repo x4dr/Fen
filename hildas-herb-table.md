@@ -7,7 +7,15 @@ Mental/ Mystisch
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 |Sehen|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
-||||
+|||||
+
+Emotionen
+
+|Bereich|Kraut|Wirkung|Nachlesen|
+|-|-|-|-|
+|Beruhigen|Kerzholz|beruhigt den Geist, stabilisiert emotionen, schottet innen von außenwelt ab|Bonus|
+|||||
+
 
 Ailment
 
@@ -16,7 +24,6 @@ Ailment
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
 |Haut|Buttertal|lindert Hautbeschwerden, Ausschlag, äußere Entzündungen|Bonus|
 |||||
-
 |||||
 |||||
 |||||
