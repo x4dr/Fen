@@ -6,7 +6,7 @@ Mental/ Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Sehen|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
+|"Sehen"|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
 
 
