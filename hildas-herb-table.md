@@ -59,7 +59,6 @@ Ailments/ Körperlich Heilen
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 |Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
-|Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
 |||||
 
 
