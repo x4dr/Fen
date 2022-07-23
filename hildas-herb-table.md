@@ -15,8 +15,9 @@ Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|"Sehen"|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
+|Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
+||Red Abony|uncover that which is hidden, including buried treasure and secret writing|Bonus|
 |Flüche|Long Verecund|believed to lift curses|Bonus|
 |Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
 ||Mary's Breath|a person can be bound to secrecy|Bonus|
@@ -81,5 +82,8 @@ Schaden zufügen & Gifte
 |||||
 
 
+Noch nicht in der Liste:
+Ren: turns black in the presence of poisons
+Royal Gentia: release the bind of Swiftsnare
 
 
