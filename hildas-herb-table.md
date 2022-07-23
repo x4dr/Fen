@@ -6,8 +6,6 @@ Praktische Anwendung
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
-||Jubellicht|katzenartige Nachtsicht|Bonus|
 |Feuer|Kerzholz|lange Brenndauer|Bonus|
 |Luftfilter|Palliance|help to filter toxins from the surrounding air|Bonus|
 |||||
@@ -22,6 +20,7 @@ Mystisch
 |Flüche|Long Verecund|believed to lift curses|Bonus|
 |Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
 ||Mary's Breath|a person can be bound to secrecy|Bonus|
+|Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
 |||||
 
 
