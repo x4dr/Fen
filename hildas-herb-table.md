@@ -2,6 +2,16 @@ title: Hilda's Herb Table
 tags:   
 Das hier ist Hildas Kräuter-Spickzettel. 
 
+Praktische Anwendung
+
+|Bereich|Kraut|Wirkung|Nachlesen|
+|-|-|-|-|
+|Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
+||Jubellicht|katzenartige Nachtsicht|Bonus|
+|Feuer|Kerzholz|lange brenndauer auszeichnet|Bonus|
+|||||
+
+
 Mental/ Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
@@ -59,6 +69,7 @@ Schaden & Gifte
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
 ||Liverstone|paralysing abilities|Bonus|
 ||Meakdew|touching the leaves result in painful sores|Bonus|
+||Buttertal|der Rest der Pflanze ist sehr haut/schleimhaut reizend wenn zerstoßen, rötung, jucken und bläschen|Bonus|
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
 |||||
