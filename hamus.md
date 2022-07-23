@@ -85,6 +85,8 @@ tags: Hamus character
 |Infiltrator|1|
 |Diebeshandwerk|0|
 |Apraisal|0|
+|Munitionierer|0|
+|Munitionierer|0|
 
 
 ##Mystisch
