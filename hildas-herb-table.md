@@ -6,9 +6,10 @@ Mental/ Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|"Sehen"|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
+|"Sehen"|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
+||Jaconb's Worth|helps to find lost people and things|Bonus|
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
-
+|||||
 
 Emotionen
 
@@ -43,7 +44,7 @@ Schaden & Gifte
 |Gift|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
 |Erinnerung|Zedrach|schwächt Erinnerungsvermögen|Bonus|
-
+|||||
 
 
 
