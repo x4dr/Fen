@@ -1,3 +1,6 @@
 title: Hilda's Herb Table  
 tags:   
-TEXT
+|Heading1|Heading2|Heading3|
+|-|-|-|
+|foo|bar|barfoo|
+|||
