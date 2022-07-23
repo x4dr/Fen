@@ -35,6 +35,7 @@ Mental/ kognitiv
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
 ||Maiden's Sorrow|prevent mind from wandering, providing a focusing effect|Bonus|
 |Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+||Sour Bandy|help with memory recovery|Bonus|
 |Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
 |||||
 
