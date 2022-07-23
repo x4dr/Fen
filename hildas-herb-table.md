@@ -45,7 +45,7 @@ Schaden & Gifte
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 ||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
-|Gift|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
+|Gifte|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
