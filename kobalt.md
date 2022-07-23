@@ -117,7 +117,7 @@ Suchen: 1/5
 Fusarbeit: 1/5
 Aspekt: Arkan 1/5
 Konzept: Chaos Casting 1/5
-PerfektChaos 1/5
+PerfektChaos 2/5
 
 
 #Vorteile
