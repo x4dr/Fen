@@ -7,4 +7,10 @@ Das hier ist Hildas Kräuter-Spickzettel.
 |Sehen|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||||
 |Ailment|Schwefling|wärmt, heilt Unterkühlung|Bonus|
-||||
+||Buttertal|lindert Hautbeschwerden, Ausschlag, äußere Entzündungen|Bonus|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
