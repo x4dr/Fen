@@ -17,6 +17,7 @@ Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
+|Allg. verstärkend|Solomon's Sceptre|commonly used in witchcraft|Bonus|
 |Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
 ||Red Abony|uncover that which is hidden, including buried treasure and secret writing|Bonus|
