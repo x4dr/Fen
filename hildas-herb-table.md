@@ -6,8 +6,10 @@ Praktische Anwendung
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Feuer|Kerzholz|lange Brenndauer|Bonus|
+|Feuer & Licht|Kerzholz|lange Brenndauer|Bonus|
+||Shimmerlung|burns very bright and noisily, letting off a near blinding white-purple light|Bonus|
 |Luftfilter|Palliance|help to filter toxins from the surrounding air|Bonus|
+|Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
 |||||
 
 
@@ -18,10 +20,10 @@ Mystisch
 |Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
 ||Red Abony|uncover that which is hidden, including buried treasure and secret writing|Bonus|
-|Flüche|Long Verecund|believed to lift curses|Bonus|
 |Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
 ||Mary's Breath|a person can be bound to secrecy|Bonus|
-|Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
+|Flüche|Long Verecund|believed to lift curses|Bonus|
+|Glück|Sheepsnap|brings good fortune when prepared correctly|Bonus|
 |||||
 
 
