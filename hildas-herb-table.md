@@ -3,6 +3,7 @@ tags:
 Das hier ist Hildas Kräuter-Spickzettel. 
 
 Mental/ Mystisch
+
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 |Sehen|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
