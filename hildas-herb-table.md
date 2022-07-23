@@ -9,7 +9,9 @@ Mental/ Mystisch
 |"Sehen"|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
+|Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
 |||||
+
 
 Emotionen
 
@@ -19,6 +21,7 @@ Emotionen
 ||Erdminze|beruhigt und klärt|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
+|Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
 |||||
 
 
@@ -43,9 +46,9 @@ Schaden & Gifte
 ||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
 |Gift|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
-|Erinnerung|Zedrach|schwächt Erinnerungsvermögen|Bonus|
+|Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
+|Lesser Merrydock||||
 |||||
-
 
 
 
