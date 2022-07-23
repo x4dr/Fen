@@ -10,6 +10,7 @@ Mental/ Mystisch
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
 |Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+|Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
 |||||
 
 
@@ -17,15 +18,14 @@ Emotionen
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Beruhigen|Kerzholz|beruhigt den Geist, stabilisiert emotionen, schottet innen von außenwelt ab|Bonus|
+|Beruhigen|Kerzholz|beruhigt den Geist, stabilisiert Emotionen, schottet innen von außenwelt ab|Bonus|
 ||Erdminze|beruhigt und klärt|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
-|Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
 |||||
 
 
-Ailment/ Heilen
+Ailments/ Körperlich Heilen
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
@@ -36,6 +36,7 @@ Ailment/ Heilen
 |Knochen, Schwellungen|Wallblatt|heilt Knochen, Prellungen, Zerrungen und Verstauchungen|Bonus|
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
+|Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
 |||||
 
 
@@ -48,6 +49,7 @@ Schaden & Gifte
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm|Bonus|
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
+|Physisch|Liverstone|paralysing abilities|Bonus|
 |||||
 
 
