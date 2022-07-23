@@ -55,7 +55,7 @@ Schaden & Gifte
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 ||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
-|Physisch|Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
+|Physisch|Goldzweig|rapide vorranschreitende schmerzhafter Schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
 ||Liverstone|paralysing abilities|Bonus|
 ||Meakdew|touching the leaves result in painful sores|Bonus|
