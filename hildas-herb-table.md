@@ -10,6 +10,7 @@ Mental/ Mystisch
 ||||
 
 Ailment
+
 |Bereich|Kraut|Wirkung|Nachlesen|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
 |Haut|Buttertal|lindert Hautbeschwerden, Ausschlag, äußere Entzündungen|Bonus|
