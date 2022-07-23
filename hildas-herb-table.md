@@ -6,10 +6,13 @@ Praktische Anwendung
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
+|Duft|Thum|fragrance in soaps and candels|Bonus|
+|Luftfilter|Palliance|help to filter toxins from the surrounding air|Bonus|
 |Feuer & Licht|Kerzholz|lange Brenndauer|Bonus|
 ||Shimmerlung|burns very bright and noisily, letting off a near blinding white-purple light|Bonus|
-|Luftfilter|Palliance|help to filter toxins from the surrounding air|Bonus|
 |Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
+||Jubellicht|katzenartige Nachtsicht|Bonus|
+||St. John's Poppy|improve hearing ability|Bonus|
 |||||
 
 
@@ -18,6 +21,7 @@ Mystisch
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 |Allg. verstärkend|Solomon's Sceptre|commonly used in witchcraft|Bonus|
+||Twilight Lepiota|dark magic|Bonus|
 |Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
 ||Red Abony|uncover that which is hidden, including buried treasure and secret writing|Bonus|
@@ -37,6 +41,7 @@ Mental/ kognitiv
 |Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
 ||Sour Bandy|help with memory recovery|Bonus|
 |Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
+||Wild Cole|tonic for those suffering the effects of having druck too much the night before|Bonus|
 |||||
 
 
@@ -57,16 +62,18 @@ Ailments/ Körperlich Heilen
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
 |Haut|Buttertal|lindert Hautbeschwerden, Ausschlag, äußere Entzündungen|Bonus|
 |Sicht|Munterlicht|Wiederherstellung von Sicht?|Bonus|
 ||Jubellicht|katzenartige Nachtsicht|Bonus|
+|Hören|St. John's Poppy|improve hearing ability|Bonus|
 |Knochen, Schwellungen|Wallblatt|heilt Knochen, Prellungen, Zerrungen und Verstauchungen|Bonus|
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
 ||Phennet|ease gastric distress (Magen)|Bonus|
 |Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
-|Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 |Erkältung|Poliscus|cure coughs and sore throats|Bonus|
+|Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
+|Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
+||Spring Waxcap|Spring Waxcap|Bonus|
 |||||
 
 
@@ -83,11 +90,14 @@ Schaden zufügen & Gifte
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
 ||Pennybell|hallucinagenic properties, highly addictive and can lead to sickness and death|Bonus|
+||Widow's Woe|induce fear|Bonus|
+||Storian|highly poisonous resulting in insanity and then death|Bonus|
 |||||
 
 
 Noch nicht in der Liste:
 Ren: turns black in the presence of poisons
+Swiftsnare: once ensnared it is impossible to extricate oneself without help
 Royal Gentia: release the bind of Swiftsnare
 
 
