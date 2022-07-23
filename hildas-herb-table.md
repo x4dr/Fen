@@ -8,7 +8,7 @@ Praktische Anwendung
 |-|-|-|-|
 |Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
 ||Jubellicht|katzenartige Nachtsicht|Bonus|
-|Feuer|Kerzholz|lange brenndauer auszeichnet|Bonus|
+|Feuer|Kerzholz|lange Brenndauer|Bonus|
 |||||
 
 
