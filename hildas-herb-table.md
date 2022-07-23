@@ -4,5 +4,5 @@ Das hier ist Hildas Kräuter-Spickzettel.
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Sehen|bar|barfoo|vvsd|
+|Sehen|Silberglocke|Visionen, Bauchgefühl, Erinnerung|Bonus|
 |||
