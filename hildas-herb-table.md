@@ -52,6 +52,7 @@ Emotionen
 |Beruhigen|Kerzholz|beruhigt den Geist, stabilisiert Emotionen, schottet innen von außenwelt ab|Bonus|
 ||Erdminze|beruhigt und klärt|Bonus|
 ||Phennet|reduce anxiety|Bonus|
+||Worryless|ease anxiety|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 ||Mountain Astory|promotes an aura of confidence and persuasiveness|Bonus|
@@ -72,6 +73,7 @@ Ailments/ Körperlich Heilen
 |Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
 |Erkältung|Poliscus|cure coughs and sore throats|Bonus|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
+|Infektion|Witch Phygg|ease symptoms of infection|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 ||Spring Waxcap|relieve pain|Bonus|
 |||||
@@ -99,5 +101,6 @@ Noch nicht in der Liste:
 Ren: turns black in the presence of poisons
 Swiftsnare: once ensnared it is impossible to extricate oneself without help
 Royal Gentia: release the bind of Swiftsnare
+Winterbore: effective insect repellent
 
 
