@@ -73,7 +73,7 @@ Ailments/ Körperlich Heilen
 |Erkältung|Poliscus|cure coughs and sore throats|Bonus|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
-||Spring Waxcap|Spring Waxcap|Bonus|
+||Spring Waxcap|relieve pain|Bonus|
 |||||
 
 
