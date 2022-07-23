@@ -10,8 +10,17 @@ Mental/ Mystisch
 ||Jaconb's Worth|helps to find lost people and things|Bonus|
 |Flüche|Long Verecund|believed to lift curses|Bonus|
 |Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
-|Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+||Mary's Breath|a person can be bound to secrecy|Bonus|
+|||||
+
+
+Mental/ kognitiv
+
+|Bereich|Kraut|Wirkung|Nachlesen|
+|-|-|-|-|
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
+||Maiden's Sorrow|prevent mind from wandering, providing a focusing effect|Bonus|
+|Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
 |||||
 
 
@@ -51,6 +60,7 @@ Schaden & Gifte
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
 |Physisch|Liverstone|paralysing abilities|Bonus|
+||Meakdew|touching the leaves result in painful sores|Bonus|
 |||||
 
 
