@@ -30,6 +30,14 @@ Ailment
 |Sicht|Munterlicht|Wiederherstellung von Sicht?|Bonus|
 ||Jubellicht|katzenartige Nachtsicht|Bonus|
 |Knochen, Schwellungen|Wallblatt|heilt Knochen, Prellungen, Zerrungen und Verstauchungen|Bonus|
+|Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
 |||||
 |||||
-|||||
+
+
+Schaden & Gifte
+
+|Bereich|Kraut|Wirkung|Nachlesen|
+|-|-|-|-|
+||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
+||Goldzweig|rapide vorranschreitender schmerzhafter schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
