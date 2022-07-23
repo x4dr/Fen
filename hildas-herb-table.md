@@ -21,7 +21,7 @@ Emotionen
 |||||
 
 
-Ailment
+Ailment/ Heilen
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
