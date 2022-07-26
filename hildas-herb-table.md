@@ -7,11 +7,11 @@ Praktische Anwendung
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 |Duft|Thum|fragrance in soaps and candels|Bonus|
-|Luftfilter|Palliance|help to filter toxins from the surrounding air|Bonus|
+|Filter|Gründnis|der Schwamm diesen Pilzes ist ein hervorragender Filter für alchemische Vorreinigung oder Atemfilter|Bonus|
 |Feuer & Licht|Kerzholz|lange Brenndauer|Bonus|
 ||Shimmerlung|burns very bright and noisily, letting off a near blinding white-purple light|Bonus|
-|Infiltration|Mellow-Glow|allows a person to pass unnoticed. Though not invisible it is possible to become hidden from sight and memory|Bonus|
-||Jubellicht|katzenartige Nachtsicht|Bonus|
+|Verstecken|Sanftglut|Senkt puls und Körpertemperatur, verursacht traumartiges wandeln, erschwert scharfes und farbiges sehen, doch sorgt es dafür das Leute einen nicht instinktiv wahrnehmen oder sich erinnern, wenn nichts besonderes passiert ist|Bonus|
+|Infiltration|Jubellicht|katzenartige Nachtsicht|Bonus|
 ||St. John's Poppy|improve hearing ability|Bonus|
 |||||
 
@@ -39,7 +39,7 @@ Mental/ kognitiv
 ||Mädchensorge|Macht das Konzentrieren einfacher, hält Gedanken "zusammen". Gut für Dinge wie Konzentration und das Durchdenken schon vorhandener Informationen, schlecht für Flow und das mentale erkunden/kreativ sein|Bonus|
 |Erinnerung|Sommerdame|gut für das Erinnerungsvermögen, Überbeanspruchung sorgt für Nostalgie fokussiertes denken|Bonus|
 ||Sour Bandy|help with memory recovery|Bonus|
-|Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
+|Hangover|Nornholz|angereichert mit scharfen-kalten ölen die Kurzzeitigen Fokus gewähren - sobald die Augen aufhören zu tränen|Bonus|
 ||Wild Cole|tonic for those suffering the effects of having druck too much the night before|Bonus|
 |||||
 
@@ -54,7 +54,8 @@ Emotionen
 ||Worryless|ease anxiety|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
-||Mountain Astory|promotes an aura of confidence and persuasiveness|Bonus|
+||Sternkraut| steigert Selbstvertrauen; Bonus auf Eindruck, Malus auf Sympathie
+|Bonus|
 |Katharsis|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |||||
 
