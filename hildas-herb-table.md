@@ -13,7 +13,6 @@ Praktische Anwendung
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-
 |Duft|Daum|keine größeren Effekte als ein leichter, fast minziger, angenehm aromatischer Geruch. Wird als Parfüm und Mundwasser verwendet.|Bonus|
 |Filter|Gründnis|der Schwamm diesen Pilzes ist ein hervorragender Filter für alchemische Vorreinigung oder Atemfilter|Bonus|
 |Färben|Sprötte|Seltene Blume, das Geheimnis ihres anbaus ist wohlgehütet, kann aber zu vielen interessanten Farben verarbeitet werden|Bonus|
