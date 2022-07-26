@@ -39,7 +39,6 @@ Mystisch
 |Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
 ||Drängwert|hilft beim wiederfinden|Bonus|
 ||Rotes Winterblatt|Diese blaue Blume ist objekt von viel Gier und Mord, soll sie doch allerlei Geheimnisse enthüllen können für den, der sie richtig einsetzt|Bonus|
-|Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
 |Effekte beenden|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |Glück|Götterfunke|Es wird sich gestritten ob diese Pflanze das Schicksal selbst beeinflusst oder einfach den Göttern gefällt, die Wirkung ist ebenfalls umstritten, aber es existieren allerlei positive Anekdoten.|Bonus|
 |||||
