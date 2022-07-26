@@ -16,9 +16,9 @@ Praktische Anwendung
 |Duft|Daum|keine größeren Effekte als ein leichter, fast minziger, angenehm aromatischer Geruch. Wird als Parfüm und Mundwasser verwendet.|Bonus|
 |Filter|Gründnis|der Schwamm diesen Pilzes ist ein hervorragender Filter für alchemische Vorreinigung oder Atemfilter|Bonus|
 |Färben|Sprötte|Seltene Blume, das Geheimnis ihres anbaus ist wohlgehütet, kann aber zu vielen interessanten Farben verarbeitet werden|Bonus|
+|Anti Brumm|Winterweiler|Der Saft der Stengel vertreibt Insekten.|Bonus|
 |Feuer & Licht|Kerzholz|lange Brenndauer|Bonus|
 ||Schimmerlunge|Ein an sich gefährlicher Schimmelpilz, ist er durch seine perlmuttartige Farbe gut zu erkennen. Einatmen der Sporen sorgt für trockenen Husten und leichtes Leuchten in der Dunkelheit. Getrocknet und angebrannt, brennt er sehr langsam aber blendend hell und laut knackend und prasselnd.|Bonus|
-|Anti Brumm|Winterweiler|Der Saft der Stengel vertreibt Insekten.|Bonus|
 |Verstecken|Sanftglut|Senkt puls und Körpertemperatur, verursacht traumartiges wandeln, erschwert scharfes und farbiges sehen, doch sorgt es dafür das Leute einen nicht instinktiv wahrnehmen oder sich erinnern, wenn nichts besonderes passiert ist|Bonus|
 |Infiltration|Jubellicht|katzenartige Nachtsicht|Bonus|
 ||Sonnenmohn|positiv auf das Hörvermögen auswirkt, kann bei überbeanspruchung zu Tinitus und Migräne führen|Bonus|
