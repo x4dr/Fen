@@ -6,8 +6,12 @@ Verarbeitungsstoffe
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
+|Trägerstoff|Gabelblume|Zerstoßenen Blätter und Stiele ergeben eine dicke Paste, die häufig als Basis für Salben genutzt wird, während ein Filtrat dieser Masse ein beliebter Ausgangsstoff für Tränke. In keiner dieser Formen besitzen Gabelblumen nennenswerte Wirkstoffe, was die Kombination mit einer Vielzahl anderer Ingredenzien ermöglicht, ohne deren Effekte zu beeinträchtigen. Bei sorgfältiger Verarbeitung können die daraus entstandenen Mittel allerdings beachtliche Haltbarkeiten erzielen. ||
 |Verstärker|Nysgariszepter|Sorgt für kurzes, unangenehmes prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe. Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
+||Düsterwurz|Wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.|Kräuter|
 |Indikator|Ergelb|Verändert seine Farbe wenn in Kontakt mit Substanzen, die korrekte Deutung kann viel beim Identifizieren helfen, seien es Gifte, Metalle oder Alchemie|Bonus|
+|||||
+
 
 Praktische Anwendung
 
@@ -90,6 +94,7 @@ Ailments/ Körperlich Heilen
 ||Wachskappe|schmerzlindernd|Bonus|
 |Imbalance des Körpers|Rübenbusch|hilft bei allen Imbalancen des Körpers, ist aber vergleichsweise schwer korrekt zu präparieren|Bonus|
 |Infektionen & Gegenmittel|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...)||
+||Düsterwurz|Wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.|Kräuter|
 |||||
 
 
