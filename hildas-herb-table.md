@@ -6,7 +6,7 @@ Helferstoffe
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Verstäker|Nysgariszepter|Sorgt für kurzes, unangenehmes prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe. Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
+|Verstärker|Nysgariszepter|Sorgt für kurzes, unangenehmes prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe. Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
 |Indikator|Ergelb|Verändert seine Farbe wenn in Kontakt mit Substanzen, die korrekte Deutung kann viel beim Identifizieren helfen, seien es Gifte, Metalle oder Alchemie|Bonus|
 
 Praktische Anwendung
