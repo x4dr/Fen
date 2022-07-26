@@ -2,7 +2,7 @@ title: Hilda's Herb Table
 tags:   
 Das hier ist Hildas Kräuter-Spickzettel. 
 
-Helferstoffe
+Verarbeitungsstoffe
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
