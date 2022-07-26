@@ -23,11 +23,10 @@ Mystisch
 |Allg. verstärkend|Solomon's Sceptre|commonly used in witchcraft|Bonus|
 ||Twilight Lepiota|dark magic|Bonus|
 |Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
-||Jaconb's Worth|helps to find lost people and things|Bonus|
+||Drängwert|hilft beim wiederfinden|Bonus|
 ||Red Abony|uncover that which is hidden, including buried treasure and secret writing|Bonus|
 |Wahrheit|Lisle of Neptune|force a person to tell the truth|Bonus|
-||Mary's Breath|a person can be bound to secrecy|Bonus|
-|Flüche|Long Verecund|believed to lift curses|Bonus|
+|Effekte beenden|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |Glück|Sheepsnap|brings good fortune when prepared correctly|Bonus|
 |||||
 
@@ -37,8 +36,8 @@ Mental/ kognitiv
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 |Mate|Fieberkuss|macht unruhig, "Energiedrink"|Bonus|
-||Maiden's Sorrow|prevent mind from wandering, providing a focusing effect|Bonus|
-|Erinnerung|Lady of Summer|aids with conditions of memory deterioration associated with old age|Bonus|
+||Mädchensorge|Macht das Konzentrieren einfacher, hält Gedanken "zusammen". Gut für Dinge wie Konzentration und das Durchdenken schon vorhandener Informationen, schlecht für Flow und das mentale erkunden/kreativ sein|Bonus|
+|Erinnerung|Sommerdame|gut für das Erinnerungsvermögen, Überbeanspruchung sorgt für Nostalgie fokussiertes denken|Bonus|
 ||Sour Bandy|help with memory recovery|Bonus|
 |Hangover|Norwood|the effect of a cold bucket of water thrown over the face - an unpleasant sensation accompanied by sharp focus|Bonus|
 ||Wild Cole|tonic for those suffering the effects of having druck too much the night before|Bonus|
@@ -56,8 +55,8 @@ Emotionen
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 ||Mountain Astory|promotes an aura of confidence and persuasiveness|Bonus|
+|Katharsis|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |||||
-
 
 Ailments/ Körperlich Heilen
 
@@ -70,7 +69,7 @@ Ailments/ Körperlich Heilen
 |Knochen, Schwellungen|Wallblatt|heilt Knochen, Prellungen, Zerrungen und Verstauchungen|Bonus|
 |Verdauung|Streckwurzel|Hilft bei der Verdauung|Bonus|
 ||Phennet|ease gastric distress (Magen)|Bonus|
-|Herz|Lemon Dandy|cure afflictions of the heart|Bonus|
+|Herz|Gelber Stenz|hilft bei Herzschmerz und Herzleiden|Bonus|
 |Erkältung|Poliscus|cure coughs and sore throats|Bonus|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
 |Infektion|Witch Phygg|ease symptoms of infection|Bonus|
@@ -86,12 +85,12 @@ Schaden zufügen & Gifte
 ||Finstereiche|fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über wochen|Bonus|
 |Physisch|Goldzweig|rapide vorranschreitende schmerzhafter Schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
-||Liverstone|paralysing abilities|Bonus|
+||Leberstein|Verzehr und auch nur berührung lähmt die willkührlichen Muskeln|Bonus|
 ||Meakdew|touching the leaves result in painful sores|Bonus|
 ||Buttertal|der Rest der Pflanze ist sehr haut/schleimhaut reizend wenn zerstoßen, rötung, jucken und bläschen|Bonus|
 |Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
-||Lesser Merrydock|drain a person's mental faculties rendering them slow and incomprehending|Bonus|
-||Pennybell|hallucinagenic properties, highly addictive and can lead to sickness and death|Bonus|
+||Adinras|richtig zubereitet ein unangenehmes Gift: versetzt den Geist langsam in ein Koma, ohne den Körper zu beeinflussen|Bonus|
+||Wasserliese|senkt Inhibitionen ähnlich zu Alkohol, macht komplexe Gedankenketten schwerer zu verfolgen|Bonus|
 ||Widow's Woe|induce fear|Bonus|
 ||Storian|highly poisonous resulting in insanity and then death|Bonus|
 |||||
