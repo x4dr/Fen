@@ -67,8 +67,7 @@ Emotionen
 ||Vennchet|hilft bei Magenschmerzen und Nervorsität|Bonus|
 |Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
-||Sternkraut| steigert Selbstvertrauen; Bonus auf Eindruck, Malus auf Sympathie
-|Bonus|
+||Sternkraut| steigert Selbstvertrauen; Bonus auf Eindruck, Malus auf Sympathie|Bonus|
 |Katharsis|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |||||
 
