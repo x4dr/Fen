@@ -6,8 +6,7 @@ Helferstoffe
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-||Nysgariszepter|Sorgt für kurzes, unangenehmes prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe.
-Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
+||Nysgariszepter|Sorgt für kurzes, unangenehmes prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe. Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
 
 
 Praktische Anwendung
