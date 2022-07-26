@@ -114,7 +114,4 @@ Schaden zufügen & Gifte
 |||||
 
 
-Noch nicht in der Liste:
-Winterbore: effective insect repellent
-
 
