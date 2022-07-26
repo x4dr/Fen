@@ -86,12 +86,13 @@ Schaden zufügen & Gifte
 |Physisch|Goldzweig|rapide vorranschreitende schmerzhafter Schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
 ||Leberstein|Verzehr und auch nur berührung lähmt die willkührlichen Muskeln|Bonus|
-||Meakdew|touching the leaves result in painful sores|Bonus|
+||Holde|Wunderschöne blau-violette Blume, die Jucken und Ausschlag auslöst|Bonus|
 ||Buttertal|der Rest der Pflanze ist sehr haut/schleimhaut reizend wenn zerstoßen, rötung, jucken und bläschen|Bonus|
-|Mental/ kognitiv|Zedrach|schwächt Erinnerungsvermögen|Bonus|
+|Mental & emotional|Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Adinras|richtig zubereitet ein unangenehmes Gift: versetzt den Geist langsam in ein Koma, ohne den Körper zu beeinflussen|Bonus|
 ||Wasserliese|senkt Inhibitionen ähnlich zu Alkohol, macht komplexe Gedankenketten schwerer zu verfolgen|Bonus|
 ||Widow's Woe|induce fear|Bonus|
+||Glanzatem|Seltene und unbekannte pflanze, ein Gift das durch Schuldgefühle, Unsicherheit und Selbstzweifel aktiviert wird|Bonus|
 ||Storian|highly poisonous resulting in insanity and then death|Bonus|
 |||||
 
