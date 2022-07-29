@@ -7,6 +7,7 @@ tags:
 |Alter |  |
 |Größe||
 |Konzept|Ultratank|
+|Cover | Technician |
 
 #Werte
 ##Physisch
@@ -106,6 +107,7 @@ Schild skills:
  - Beschützen: einmal pro runde sich zwischen zwei leute stellen und den angriff abfangen
  - Schildschlag: nächste runde nicht beschützt sein, aber ziel zurückschieben/umwerfen/betäuben je nach wurf
 
+Zwei (deployable) fliegende schildprojektordrohnen, ein energie basiertes turmschild (kugelschreiber tarnung), uplink, werkzeug
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
