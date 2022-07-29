@@ -40,8 +40,9 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 | Einschüchtern | 2|
-| Irreführung | 2|
+| Diplomatie | 2|
 | Authorität | 2|
+
 
 
 ##Mental
