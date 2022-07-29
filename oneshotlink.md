@@ -3,7 +3,7 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | Link|
+|Name | Johnathan"Link" Dreen|
 |Alter |  |
 |Größe||
 |Konzept|Gadgetcop|
