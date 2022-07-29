@@ -32,7 +32,7 @@ tags:
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 4 |
-| Sympathie | 3 |
+| Sympathie | 2 |
 | Eindruck | 3 |
 
 
