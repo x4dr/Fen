@@ -4,7 +4,7 @@ tags:
 |Detail|Inhalt|
 |-|-|
 |Name | Jonathan"Link" Dreen|
-|Alter |  |
+|Alter | 55 |
 |Größe||
 |Konzept|Gadgetcop|
 |Cover| Security/Maintenance|
