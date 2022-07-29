@@ -3,7 +3,7 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name |"Tank"  |
+|Name |"Tank" Sorgov Petrenko |
 |Alter |39|
 |Größe|1,80m|
 |Konzept|Ultratank|
