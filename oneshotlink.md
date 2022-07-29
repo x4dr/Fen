@@ -50,8 +50,8 @@ tags:
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 3 |
-| Bildung | 2 |
-| Geist | 4 |
+| Bildung | 1 |
+| Geist | 3 |
 
 
 ###Fähigkeiten
