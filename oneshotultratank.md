@@ -47,9 +47,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Wahrnehmung | 1 |
-| Bildung | 1 |
-| Geist | 1 |
+| Wahrnehmung | 2 |
+| Bildung | 2 |
+| Geist | 2 |
 
 
 ###Fähigkeiten
