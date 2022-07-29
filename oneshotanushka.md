@@ -79,8 +79,8 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 | Halluzinogene | 2|
-| Beruf Entertainer | 2|
-| Beruf Chemie | 2|
+| Entertainer | 2|
+| Chemie | 2|
 
 ##Mystisch
 ###Attribute 
