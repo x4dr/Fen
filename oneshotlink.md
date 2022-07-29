@@ -14,9 +14,9 @@ tags:
 ###Attribute
 |Attribut|Level|
 |-|-|
-| Konstitution | 1 |
-| Agilität | 1 |
-| Geschick | 1 |
+| Konstitution | 2 |
+| Agilität | 4 |
+| Geschick | 5 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -31,9 +31,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Durchsetzungsvermögen | 1 |
-| Sympathie | 1 |
-| Eindruck | 1 |
+| Durchsetzungsvermögen | 4 |
+| Sympathie | 3 |
+| Eindruck | 3 |
 
 
 ###Fähigkeiten
@@ -48,9 +48,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Wahrnehmung | 1 |
-| Bildung | 1 |
-| Geist | 1 |
+| Wahrnehmung | 3 |
+| Bildung | 2 |
+| Geist | 4 |
 
 
 ###Fähigkeiten
@@ -64,9 +64,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Theorie | 1 |
-| Praxis | 1 |
-| Einblick | 1 |
+| Theorie | 2 |
+| Praxis | 4 |
+| Einblick | 2 |
 
 
 ###Fähigkeiten
@@ -84,9 +84,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Konzentration | 1 |
-| Disziplin | 1 |
-| Flow | 1 |
+| Konzentration | 3 |
+| Disziplin | 2 |
+| Flow | 2 |
 
 
 ###Fähigkeiten
