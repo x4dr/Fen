@@ -4,8 +4,8 @@ tags:
 |Detail|Inhalt|
 |-|-|
 |Name | |
-|Alter |  |
-|Größe||
+|Alter |39|
+|Größe|1,80m|
 |Konzept|Ultratank|
 |Cover | Technician |
 
