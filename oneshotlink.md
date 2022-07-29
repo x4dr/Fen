@@ -33,7 +33,7 @@ tags:
 |-|-|
 | Durchsetzungsvermögen | 4 |
 | Sympathie | 2 |
-| Eindruck | 3 |
+| Eindruck | 2 |
 
 
 ###Fähigkeiten
