@@ -76,8 +76,8 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Beruf Forensik | 2|
-| Beruf Fotograf | 2|
+| Forensik | 2|
+| Fotograf | 2|
 
 ##Mystisch
 ###Attribute 
