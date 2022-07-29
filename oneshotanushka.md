@@ -7,6 +7,7 @@ tags: character
 |Alter | |
 |Größe| |
 |Konzept|Holomancer|
+|Cover| Entertainer/Socialite|
 
 
 #Werte
