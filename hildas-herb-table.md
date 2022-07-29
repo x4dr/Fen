@@ -89,11 +89,10 @@ Ailments/ Körperlich Heilen
 |Herz|Gelber Stenz|hilft bei Herzschmerz und Herzleiden|Bonus|
 |Erkältung|Mehreibe|vorallem für Atemwegsbeschwerden, ohne kundige Verarbeitung ist sie aber eher neutral bis schädlich|Bonus|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
-|Infektion|Witch Phygg|ease symptoms of infection|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 ||Wachskappe|schmerzlindernd|Bonus|
 |Imbalance des Körpers|Rübenbusch|hilft bei allen Imbalancen des Körpers, ist aber vergleichsweise schwer korrekt zu präparieren|Bonus|
-|Infektionen & Gegenmittel|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...)||
+|Infektionen & Gegenmittel|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fiebersenkend||
 ||Düsterwurz|Wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.|Kräuter|
 |||||
 
