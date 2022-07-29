@@ -61,7 +61,7 @@ tags: character
 | Instinkt | 2|
 | Forschung | 2|
 | Investigation | 3|
-| Wissen Menschenkenntnis | 2|
+| Menschenkenntnis | 2|
 
 
 ##Können
