@@ -66,8 +66,8 @@ tags:
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
-| Praxis | 4 |
-| Einblick | 2 |
+| Praxis | 5 |
+| Einblick | 4 |
 
 
 ###Fähigkeiten
