@@ -69,9 +69,9 @@ tags: character
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Theorie | 1 |
-| Praxis | 1 |
-| Einblick | 1 |
+| Theorie | 3 |
+| Praxis | 3 |
+| Einblick | 2 |
 
 
 ###Fähigkeiten
