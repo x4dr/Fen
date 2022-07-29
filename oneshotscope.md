@@ -7,7 +7,7 @@ tags: character
 |Alter | |
 |Größe||
 |Konzept|Auspex Cannon|
-|Cover | Fotograph/Künstler |
+|Cover | Fotograf/Künstler |
 
 #Werte
 ##Physisch
@@ -39,9 +39,9 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| tratsch | 2|
-| empathie | 2|
-| rethorik | 2|
+| Tratsch | 2|
+| Empathie | 2|
+| Rethorik | 2|
 | Diplomatie | 2| 
 
 
@@ -77,7 +77,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 | Beruf Forensik | 2|
-| Beruf Fotograph | 2|
+| Beruf Fotograf | 2|
 
 ##Mystisch
 ###Attribute 
@@ -102,11 +102,11 @@ tags: character
 
 #Inventar
 
-Camera Equipment (large camera, small camera, stealth cams), covert Cyberaugen ohren und nase, uplink
-
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
-|||||
+|Camera Equipment (large camera, small camera, stealth cams)||||
+|Covert Cyberaugen Ohren und Nase||||
+|Uplink||||
 
 ##Ausrüstung
 
