@@ -15,8 +15,8 @@ tags:
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
-| Agilität | 4 |
-| Geschick | 5 |
+| Agilität | 3 |
+| Geschick | 4 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
