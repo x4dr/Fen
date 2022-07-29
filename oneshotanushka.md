@@ -41,11 +41,11 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 | Irreführung | 3|
-| diplomatie | 1|
-| stil | 2|
-| empatie | 2| 
-| etiquette | 1|
-| tratsch | 1|
+| Diplomatie | 1|
+| Stil | 2|
+| Empathie | 2| 
+| Etiquette | 1|
+| Tratsch | 1|
 
 
 ##Mental
@@ -62,7 +62,7 @@ tags: character
 |-|-|
 | Suchen | 3|
 | Instinkt | 1|
-| Menschenkenntniss | 2|
+| Menschenkenntnis | 2|
 | Analyse | 2|
 
 
@@ -99,7 +99,7 @@ tags: character
 | soundsynthesis | 1|
 | superposition | 1|
 | disorient | 2|
-| Haywire | 2|
+| haywire | 2|
 
 
 #Fortschritt
