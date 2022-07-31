@@ -27,7 +27,7 @@ Praktische Anwendung
 |Infiltration|Jubellicht|katzenartige Nachtsicht|Bonus|
 ||Sonnenmohn|positiv auf das Hörvermögen auswirkt, kann bei Überbeanspruchung zu Tinitus und Migräne führen|Bonus|
 |Hangover|Nornholz|angereichert mit scharf-kalten Ölen, die kurzzeitigen Fokus gewähren - sobald die Augen aufhören zu tränen|Bonus|
-||Rübenbusch|gegen Kater, vergleichsweise schwer korrekt zu präparieren|Bonus|
+||Rübenbusch|gegen Kater, korrigiert Imbalancen des Körpers, vergleichsweise schwer korrekt zu präparieren|Bonus|
 |||||
 
 
@@ -53,7 +53,7 @@ Mental/ kognitiv
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
 |Mate|Fieberkuss|macht unruhig, hält wach, "Energiedrink", führt bei Überanwendung zu Herzrasen und Fieber|Bonus|
-||Gänsezunge|distinkter Geruch, macht wach und regt den Kreislauf an, hält wach||
+||Gänsezunge|distinkter Geruch, macht wach und regt den Kreislauf an, hält wach|Kräuter|
 ||Mädchensorge|Macht das Konzentrieren einfacher, hält Gedanken "zusammen". Gut für Dinge wie Konzentration und das Durchdenken schon vorhandener Informationen, schlecht für Flow und das mentale erkunden/kreativ sein|Bonus|
 ||Nornholz|angereichert mit scharf-kalten Ölen, die kurzzeitigen Fokus gewähren - sobald die Augen aufhören zu tränen|Bonus|
 |Erinnerung|Sommerdame|gut für das Erinnerungsvermögen, Überbeanspruchung sorgt für Nostalgie fokussiertes denken|Bonus|
@@ -91,13 +91,14 @@ Ailments/ Körperlich
 |Herz|Gelber Stenz|hilft bei Herzschmerz und Herzleiden|Bonus|
 |Erkältung|Mehreibe|vorallem für Atemwegsbeschwerden, ohne kundige Verarbeitung ist sie aber eher neutral bis schädlich|Bonus|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
+|Imbalance des Körpers|Rübenbusch|hilft bei allen Imbalancen des Körpers, ist aber vergleichsweise schwer korrekt zu präparieren|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 ||Wachskappe|schmerzlindernd|Bonus|
-|Imbalance des Körpers|Rübenbusch|hilft bei allen Imbalancen des Körpers, ist aber vergleichsweise schwer korrekt zu präparieren|Bonus|
+||Akem|schmerzsstillend, Taubheit bis zu keinem Schmerzempfinden mehr, Lähmung?|Kräuter|
 |Infektionen, Entzündungen, Fieber|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend||
 ||Ziegenblume|Entzündungen heilen mit Gesamtresonanz über 15 beim nächsten Schlaf|Kräuter|
 ||Grünes Prekorla|schwindelgefühl, allgemeine Heilwirkung und Entzündung heilend||
-|Gegengift|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend||
+|Gegengift|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend|Bonus|
 ||Düsterwurz|Wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.|Kräuter|
 |||||
 
