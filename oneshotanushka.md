@@ -4,8 +4,6 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Anushka|
-|Alter | |
-|Größe| |
 |Konzept|Holomancer|
 |Cover| Entertainer/Socialite|
 
