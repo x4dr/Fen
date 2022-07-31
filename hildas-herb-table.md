@@ -52,7 +52,8 @@ Mental/ kognitiv
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Mate|Fieberkuss|macht unruhig, "Energiedrink", führt bei Überanwendung zu Herzrasen und Fieber|Bonus|
+|Mate|Fieberkuss|macht unruhig, hält wach, "Energiedrink", führt bei Überanwendung zu Herzrasen und Fieber|Bonus|
+||Gänsezunge|distinkter Geruch, macht wach und regt den Kreislauf an, hält wach||
 ||Mädchensorge|Macht das Konzentrieren einfacher, hält Gedanken "zusammen". Gut für Dinge wie Konzentration und das Durchdenken schon vorhandener Informationen, schlecht für Flow und das mentale erkunden/kreativ sein|Bonus|
 ||Nornholz|angereichert mit scharf-kalten Ölen, die kurzzeitigen Fokus gewähren - sobald die Augen aufhören zu tränen|Bonus|
 |Erinnerung|Sommerdame|gut für das Erinnerungsvermögen, Überbeanspruchung sorgt für Nostalgie fokussiertes denken|Bonus|
@@ -69,13 +70,14 @@ Emotionen
 ||Erdminze|beruhigt und klärt|Bonus|
 ||Sorglos|Hübsche Blumen, deren Geruch dabei hilft, die gute Seite von Dingen zu sehen.|Bonus|
 ||Vennchet|hilft bei Magenschmerzen und Nervorsität|Bonus|
-|Schlafen|Wallblatt|hilft beim Schlafen|Bonus|
+|Schlafen, Entspannen|Wallblatt|hilft beim Schlafen|Bonus|
+||Ziegenblume|entspannt auch in stressreichen Situationen, Schlafmittel|Kräuter|
 |Ermutigen|Gänseampfer|ermutigender, stärkender Effekt|Bonus|
 ||Sternkraut| steigert Selbstvertrauen; Bonus auf Eindruck, Malus auf Sympathie|Bonus|
 |Katharsis|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |||||
 
-Ailments/ Körperlich Heilen
+Ailments/ Körperlich 
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
@@ -93,6 +95,9 @@ Ailments/ Körperlich Heilen
 ||Wachskappe|schmerzlindernd|Bonus|
 |Imbalance des Körpers|Rübenbusch|hilft bei allen Imbalancen des Körpers, ist aber vergleichsweise schwer korrekt zu präparieren|Bonus|
 |Infektionen, Entzündungen, Fieber|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend||
+||Ziegenblume|Entzündungen heilen mit Gesamtresonanz über 15 beim nächsten Schlaf|Kräuter|
+||Grünes Prekorla|schwindelgefühl, allgemeine Heilwirkung und Entzündung heilend||
+|Gegengift|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend||
 ||Düsterwurz|Wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.|Kräuter|
 |||||
 
@@ -106,7 +111,7 @@ Schaden zufügen & Gifte
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
 ||Leberstein|Verzehr und auch nur Berührung lähmt die willkührlichen Muskeln|Bonus|
 ||Zoarksgebot|beschädigen setzt einen Nebel frei, der physische Bewegung behindert/lähmt/entspannt|Bonus|
-||Staubpilz|löst Husten und Krämpfe aus wenn eingeatmet, (Wille,Ausdauer) Beschränkt Erfolg für 3 Runden ||
+||Staubpilz|löst Husten und Krämpfe aus wenn eingeatmet, (Wille,Ausdauer) Beschränkt Erfolg für 3 Runden |Kräuter|
 ||Holde|Wunderschöne blau-violette Blume, die Jucken und Ausschlag auslöst|Bonus|
 ||Buttertal|der Rest der Pflanze ist sehr Haut/Schleimhaut reizend wenn Zerstoßen, Rötung, Jucken und Bläschen|Bonus|
 |Mental & emotional|Zedrach|schwächt Erinnerungsvermögen|Bonus|
@@ -118,5 +123,6 @@ Schaden zufügen & Gifte
 ||Störkirsche|Die Kirschen dieses Baumes schmecken sehr süß, lösen aber Wahnsinn aus, der bis zum Tod führen kann.|Bonus|
 |||||
 
-
-
+Noch nicht drin: (Käuter)
+Katzenfarn 
+Fieberfarn
