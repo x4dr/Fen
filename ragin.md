@@ -123,7 +123,7 @@ Adrenalinflut
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
-|Survival|SSSS|
+|Survival|SSSSS|
 |Fußarbeit|SSSSS|
 |Meucheln|SSSSS|
 |Gifte|S|
