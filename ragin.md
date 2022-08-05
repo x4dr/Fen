@@ -26,7 +26,7 @@ tags: character
 |Akrobatik|1|
 |Fußarbeit|2|
 |Meucheln|1|
-|Survival|1|
+|Survival|2|
 |Kraft|1|
 |Werfen|1|
 |Widerstehen|1|
