@@ -62,7 +62,7 @@ tags:
 | Chemische Kommunikation | 1 |
 | Heilen | 1 |
 | Wissen | 0 |
- 
+ dragons
 
 
 ##Können
@@ -93,6 +93,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Tanz|1|
+|Gesang|1|
 
 ###Quelle
 |Fähigkeit|Wert|
