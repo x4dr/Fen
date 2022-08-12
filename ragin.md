@@ -128,7 +128,7 @@ Adrenalinflut
 |Meucheln|SSSSS|
 |Gifte|S|
 |Wächter|S|
-|Wissen(Kulturen)|SS|
+|Wissen(Kulturen)|SSS|
 |Akrobatik|S|
 |Suchen|S|
 |Zeichensprache|S|
