@@ -93,10 +93,12 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Tanz|1|
+
 ###Quelle
 |Fähigkeit|Wert|
 |-|-|
 |Mondlicht|1|
+
 ###Aspekt
 |Fähigkeit|Wert|
 |-|-|
