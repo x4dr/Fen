@@ -61,7 +61,7 @@ tags:
 | Instinkt | 1 |
 | Chemische Kommunikation | 1 |
 | Heilen | 1 |
-| Wissen? | ? |
+| Wissen | 0 |
  
 
 
