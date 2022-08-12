@@ -3,7 +3,7 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | Alexys|
+|Name | Cybi|
 |Alter | ~3tage |
 |Größe| |
 |usw| joa |
