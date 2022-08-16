@@ -2,12 +2,16 @@ title: Kräuter
 tags:   
 [TOC]
 
-# Zutatenwissen
-Zutaten sind nicht so allgemein bekannt, wie es zu erwarten wäre. Die meisten sind nur denen bekannt, die sich spezifisch und langjährig mit ihrer Anwendung beschäftigen. Wenn eine neue Zutat oder ein unbekannter Effekt angetroffen wird, kann Zutatenwissen gewürfelt werden.
+# Zutaten Sammeln und Identifizieren
+Zutaten die auf dieser oder [der anderen](bonusherbs) liste stehen sind nicht unbedingt allen bekannt, noch überall verfügbar.
+Der **Zutatenwurf** ist wird benutzt um die Zutaten zu identifizieren oder zu finden und ist zum identifizieren einmalig, kann aber mit entsprechenden Experimenten oder Wissensquellen wiederholt und verbessert werden. Ein Sammelwurf (länge kurze Rast - 30-60 Minuten) Liefert eine Zutat pro erreichter Schwelle (bei den Zutaten angegeben). 
+Schwellen werden je nach Verfügbarkeit angepasst und sind normalerweise bei -1 (also die unterste schwelle zählt nicht)
 
-Der **Zutatenwissenswurf** ist einmalig pro Zutat, kann aber mit entsprechenden Experimenten oder Wissensquellen wiederholt und verbessert werden.
+hierzu gelten folgende Modifikatoren
 
- * Inspektionsmöglichkeit Kurzer Blick: 3 Maluswürfel
+## Identifizieren
+
+ * Inspektionsmöglichkeit unter 1 Minute: 3 Maluswürfel
  * Indirekte Interaktion: 2 Maluswürfel
  * Hörensagen: 4 Maluswürfel
  * Selten: 3 Maluswürfel 
@@ -15,27 +19,48 @@ Der **Zutatenwissenswurf** ist einmalig pro Zutat, kann aber mit entsprechenden 
  * Erfahrungen und Wissen aus dem Bereich: je 1 Bonuswürfel
  * Lange Studie: Wurfwiederholung
  * Wissensquelle: 1 Bonuswürfel pro Qualität
+
+## Sammeln
+
+ Sammelwerte im Format 5/8/13/16, bedeuten dass bei normaler Verfügbarkeit (-1) ein Wurf von 14 die schwellen 5, 8 und 13 übertrifft und damit 3 Zutaten liefern würde, die Verfügbarkeit diese 3 dann aber auf 2 senkt. Wäre die Verfügbarkeit niedrig (-2) würde nur eine Zutat gesammelt werden.
+ Ein Sammelwert von 8 hat damit die Folge, dass man bei normaler Verfügbarkeit nichts finden kann, aber bei erhöhter Verfügbarkeit(0) eine 8 braucht um diese Zutat zu finden.
+
+ * Bekanntes Terrain (eher eine Woche +): 1 Bonuswürfel
+ * Sichtbehinderungen (dunkelheit/nebel): 2 Maluswürfel
+ * "Gegend" diese Woche schon abgesammelt(1 Reisedistanz): 1 Maluswürfel kumulativ
+ * ... many more! (?)
   
 
 ##Anmerkungen
 
-
-Effekte über Zeit werden stündlich angewendet, mit dem ersten eine Stunde nach Einnahme
-Gegengift: Erlaubt das neutralisieren eines Effekts je nach ähnlichkeit des Gebräus mit unterschiedlichen würfen
-
-
+Gegengift: Erlaubt das neutralisieren eines Effekts je nach ähnlichkeit des Gebräus mit unterschiedlichen Würfen
 
 Ein Effekt ist erst bekannt/kann benutzt werden, wenn das entsprechende Ergebnis neben der Abkürzung bei dem spezifischen Wurf erreicht wurde.  
 
-# Brauen
+# Zubereitung
+
+## Schnelle Anwendung
+In der Schnellen anwendung reicht ein Praxiswurf, kombiniert mit einer Fähigkeit für die Zutat und einer Fähigkeit für die Anwendung
+
+## Gebräu
  
-Um ein Gebräu herzustellen muss mindestens ein Vektor präsent sein (bei mehreren kann es auf mehrere Arten angewendet werden)     
+Um ein Gebräu herzustellen muss mindestens ein Vektor präsent sein (bei mehreren kann es auf mehrere Arten angewendet werden) und es werden entsprechende Gefäße, Feuer und andere Werkzeuge benötigt.     
 
-Ohne Vorteil kann nur 1 von jeder Zutat und maximal eine Zutat pro Fertigkeitslevel benutzt werden
+Ohne Vorteil kann nur eine von jeder Zutat benutzt werden.
 
-Zutaten werden in beliebiger Reihenfolge hinzugefügt, Rückgewinnung ist unmöglich. Für jede Zutat wird ein Kompetenz,(Alchemie oder Kräuterkunde) Wurf gemacht und das Ergebnis (das bis auf 0 gesenkt werden kann) legt die Effekte fest (alle auf und unter dem Level), die zum Produkt hinzugefügt werden.  
+Zuerst muss ein Rezept gefunden werden, hierbei werden für jede Zutat Einblick und jeweils eine Fähigkeit für Zutat und Wirkung verwendet. Die Würfe skalieren die vielseitigkeit der Zutaten - eine Einschlafhilfe kann mit einem hohem Wurf auch schlaf erzwingen.
+Die Zutaten die benutzt werden müssen vorher deklariert sein, der Prozess dauert 3 Stunden pro Zutat und die gesamte Zeit und alle Zutaten sind benutzt, auch wenn die Würfe schlecht ausfallen. Nach dem finden des Rezepts ist ein erstes Gebräu schon fertig
 
-Es wird 1 Gebräu je nach Vektor produziert (Vorteile können auch das erhöhen)  
+Ein Rezept zu befolgen ist wesentlich einfacher: das replizieren dauert eine Stunde (bzw lange Rast) und produziert eine Dosis (jeweils vom Rezept modifiziert) und benötigt nur einen einzigen Wurf mit Praxis.
+
+### Rezeptmodifikatoren
+
+Hier nur Beispiele, ich brauch Vorschläge! 
+
+ * Tee - Flacht die Stärke der Effekte ab, aber erlaubt es mit einer Zutat ein Gebräu für eine Gruppe zu brauen, in der Hälfte der normalen Zeit (also eine kurzen Rast).
+ * Kaltinfusion - Benötigt außer Wasser (und gefäß) nichts, braucht aber mindestens 8 Stunden bis es bereit ist
+ * Alkoholinfusion - nutzt stattdessen starken Alkohol, verstärkt Effekte, braucht 5 Tage
+ * Destillation - verstärkt vor allem Alchemische Effekte, benötigt Destillationsequipment
 
 #Kräuter der Nordwestlichen Prekorischen Berg- und Waldregion
 
@@ -52,6 +77,7 @@ Düsterwurz ist ein relativ häufiges Kraut, welches man vor allem abends leicht
 Die rohe Wurzel erleichtert wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.
 
 **Wert:** ~10 Kupfer  
+**Sammeln:** 4/8/10/12/14
 K/A 0: Distinkter Geruch und Geschmack von Düsterwurz
 
 K 5: Heilung +1 Operation +1 Giftwiderstand halbiert (24h)  
@@ -85,6 +111,8 @@ Die Blüten wilder Gabelblumen haben eine kräftige gelbe Färbung und sind rela
 Die zerstoßenen Blätter und Stiele ergeben eine dicke Paste, die häufig als Basis für Salben genutzt wird, während ein Filtrat dieser Masse ein beliebter Ausgangsstoff für Tränke ist. In keiner dieser Formen besitzen Gabelblumen nennenswerte Wirkstoffe, was die Kombination mit einer Vielzahl anderer Ingredenzien ermöglicht, ohne deren Effekte zu beeinträchtigen. Bei sorgfältiger Verarbeitung können die daraus entstandenen Mittel allerdings beachtliche Haltbarkeiten erzielen.  
 
 **Wert:** ~8 Kupfer  
+**Sammeln:** 5/6/7/8
+
 K/A 0: gelbliche Farbe
 
 K 7: Vektor: Salbe, Haltbarkeit: 5 Tage    
@@ -109,16 +137,16 @@ A 20: Vektor: Trank, Haltbarkeit: 5 Jahre
 
 ##Staubpilz 
 ~10k  
-
-K 0: Ätherisch (Sobald mit Flüssigkeit in Kontakt gebracht, vor Konsum, sinkt W um 1/h)
+**Sammeln:** 6/8/16
+K 0: Ätherisch (Sobald mit Flüssigkeit in Kontakt gebracht, vor Konsum, sinkt die Wirksamkeit)
 
 K 8: Vektor: Auflösbares Pulver (1 L), Haltbarkeit: 1 Monat  
 
-K 10: löst Husten aus wenn eingeatmet, (Wille,Ausdauer) Beschränkt Erfolg für 3 Runden  
+K 10: löst Husten aus wenn eingeatmet, (Wille, Ausdauer) Beschränkt Erfolg für 3 Runden  
 
 K 12: Vektor: Auflösbares Pulver (10 L), Haltbarkeit 6 Monate  
 
-K 14: löst Krämpfe aus wenn eingeatmet, 0-1 schaden / Tick, Tickrate: 24h
+K 14: löst Krämpfe aus wenn eingeatmet, verursacht Lungen-Wunde, getragener Effekt wiederholt sich täglich
 
 K 16: Vektor: Auflösbares Pulver (20 L), Haltbarkeit 1 Jahr  
 
