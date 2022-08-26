@@ -3,11 +3,12 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | Cybi|
-|Alter | ~3tage |
-|Größe| |
-|usw| joa |
-|...|?|
+|Name | Cybi |
+|Alter | ~3 Tage |
+|Größe| 174cm |
+|Geschlecht| Genderless/Female presenting |
+|Hobbies| Tanz, Gesang und Meditation |
+|Mag| Steine, Shiny Stuff und Hamus |
 
 #Werte
 ##Physisch
@@ -87,18 +88,18 @@ tags:
 ###Konzept
 |Fähigkeit|Wert|
 |-|-|
-|Tanz|1|
-|Gesang|1|
+|Tanz| 1 |
+|Gesang| 1 |
 
 ###Quelle
 |Fähigkeit|Wert|
 |-|-|
-|Mondlicht|1|
+|Mondlicht| 1 |
 
 ###Aspekt
 |Fähigkeit|Wert|
 |-|-|
-|Illusion|1|
+|Illusion| 1 |
 
 
 #Fortschritt
@@ -106,9 +107,9 @@ tags:
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
-|Torf|1 Faust|-|-|Brennmaterial|
-|Quarzflasche rote Flüssigkeit|1|Sieht teuer aus|Würde gerne leuchten|
-|||||
+| Torf | 1 Faust |-|-| Brennmaterial |
+| Quarzflasche rote Flüssigkeit | 1 | Sieht teuer aus | Würde gerne leuchten |
+| Galenit Klümpchen | 1 |-| Shiny | Hübsch aber giftig |
 
 ##Ausrüstung
 
