@@ -21,7 +21,6 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
 | Widerstehen | 1 |
 | Rennen | 1 |
 | Feinmotorik | 1 |
