@@ -87,19 +87,18 @@ tags:
 | Disziplin | 1 |
 | Flow | 1 |
 
-###Fähigkeiten
-####Konzept
+###Konzept
 |Fähigkeit|Wert|
 |-|-|
 |Tanz|1|
 |Gesang|1|
 
-####Quelle
+###Quelle
 |Fähigkeit|Wert|
 |-|-|
 |Mondlicht|1|
 
-####Aspekt
+###Aspekt
 |Fähigkeit|Wert|
 |-|-|
 |Illusion|1|
