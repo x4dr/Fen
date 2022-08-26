@@ -145,7 +145,7 @@ Riesenfangzahn mit Runen bedeckt;
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
 mehrere abgeschliffene Dodekaeder aus Kristall
 Pilze:
-- lila Pilz (reicht für eine Dosis)
+- lila, kleiner Pilz (reicht für eine Dosis)
 - durchsichtige Glitzerpilze
 
 
