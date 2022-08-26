@@ -75,7 +75,6 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
 
 ##Mystisch
 ###Attribute 
@@ -106,8 +105,9 @@ tags:
 
 #Inventar
 
-|Name|Anzahl|Gewicht|Preis|
-|---|---|---|---|
+|Name|Anzahl|Gewicht|Preis|Beschreibung|
+|Torf|1 Faust|-|-|stinkt und brennt, wenn trocken|
+|Quarzflasche mit roter Flüssigkeit|1 Stück|sieht teuer aus|würde gerne leuchten|
 |||||
 
 ##Ausrüstung
