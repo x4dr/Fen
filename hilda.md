@@ -143,6 +143,7 @@ Riesenfangzahn mit Runen bedeckt;
      Runen können nicht gelesen werden von Swenja und Isban
      Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
+mehrere kristall truncated Dodekaeder
 Pilze:
 - lila Pilz (reicht für eine Dosis)
 - durchsichtige Glitzerpilze
