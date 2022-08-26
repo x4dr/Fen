@@ -61,8 +61,7 @@ tags:
 | Instinkt | 1 |
 | Chemische Kommunikation | 1 |
 | Heilen | 1 |
-| Wissen | 0 |
- dragons
+| Steinkunde | 1 |
 
 
 ##Können
