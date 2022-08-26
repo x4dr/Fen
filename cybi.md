@@ -40,7 +40,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 | Empathie | 1 |
-| Rethorik | 1 |
+| Rhetorik | 1 |
 | Aufgeschlossenheit | 1 |
 | Smalltalk | 1 |
 | Handel | 1 |
