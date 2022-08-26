@@ -145,8 +145,8 @@ Riesenfangzahn mit Runen bedeckt;
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
 mehrere abgeschliffene Dodekaeder aus Kristall
 Pilze:
-- lila, kleiner Pilz (reicht für eine Dosis)
-- durchsichtige Glitzerpilze
+- lila, kleiner Pilz (reicht für eine Dosis): Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt
+- durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
 
 
 #Notizen
