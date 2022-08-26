@@ -8,7 +8,7 @@ tags:
 |Größe| 174cm |
 |Geschlecht| Genderless/Female presenting |
 |Hobbies| Tanz, Gesang und Meditation |
-|Mag| Steine, Shiny Stuff und Hamus |
+|Mag| Steine, Mond, Shiny Stuff und Hamus |
 
 #Werte
 ##Physisch
