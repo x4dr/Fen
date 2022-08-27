@@ -138,13 +138,13 @@ Voller FP Überzeugen 11.03.
 
 ##Ausrüstung
 Umhängetasche
-Artefaktenkugel, leuchtet mit Blitzen darin
-Riesenfangzahn mit Runen bedeckt;
+-> Artefaktenkugel, leuchtet mit Blitzen darin
+-> Riesenfangzahn mit Runen bedeckt;
      Runen können nicht gelesen werden von Swenja und Isban
      Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben
      Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh
-mehrere abgeschliffene Dodekaeder aus Kristall
-Pilze:
+-> mehrere abgeschliffene Dodekaeder aus Kristall: alter Energiespeicher, wie Batterie, von Hilda nutzbar, unklar ob wieder aufladbar
+-> Pilze:
 - lila, kleiner Pilz (reicht für eine Dosis): Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt
 - durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
 
