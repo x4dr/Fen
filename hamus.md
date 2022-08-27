@@ -124,10 +124,7 @@ tags: Hamus character
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
-|Kehrt zurück|3|||
-|Fixiert|3|||
-|Wind|3|||
-|Wand|3|||
+
 |pugna|Placidus|||
 
 ##Ausrüstung
@@ -138,6 +135,7 @@ Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _a
 Mal: con artist/dinge Ausspähen
 Raben dude: Spy shit / viele Botengänge 
 Berstein Herz: erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen
+Spikes :3xKehrt zurück, 3x Fixiert,3xWind 3xWand
 
 
 
