@@ -108,7 +108,7 @@ tags:
 
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
 ||||||
-| Silber | 6 | - | - | Währung |
+| Silber | 6 | 60g | 6s | Währung |
 | Torf | 1 Faust |-|-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | - | Sieht teuer aus | Würde gerne leuchten |
 | Galenit Klümpchen | 1 | - | Shiny | Hübsch aber giftig |
