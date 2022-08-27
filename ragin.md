@@ -103,6 +103,7 @@ tags: character
 |Schattenschritt|2|
 |EyEsOfDaRkNeSs|1|
 |Okysa|1|
+|Belos|0|
 
 ##Schicksal
 ###Attribute 
@@ -135,6 +136,7 @@ Adrenalinflut
 |Okysa|SS|
 |Schattenschritt|S|
 |Widerstehen|SS|
+|Belos|S|
 
 #Inventar
 
