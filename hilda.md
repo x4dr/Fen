@@ -113,7 +113,7 @@ tags: character
 |Empathie|3/5|
 |Überzeugen|2/5|
 |Irreführung|1/5|
-|Theologie|1/5|
+|Theologie|2/5|
 |Hexe|3/5|
 |Survival|1/5|
 |Geschichtenerzählen|2/5|
