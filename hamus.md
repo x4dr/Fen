@@ -124,7 +124,7 @@ tags: Hamus character
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
-
+|||||
 |pugna|Placidus|||
 
 ##Ausrüstung
