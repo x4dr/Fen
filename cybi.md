@@ -110,7 +110,7 @@ tags:
 ||||||
 | Silber | 6 | 60g | 6s | Währung |
 | Torf | 1 Faust |-|-| Brennmaterial |
-| Quarzflasche rote Flüssigkeit | 1 | - | Sieht teuer aus | Würde gerne leuchten |
+| Quarzflasche rote Flüssigkeit | 1 | - | Sieht teuer aus | Lichtkondensator |
 | Galenit Klümpchen | 1 | - | Shiny | Hübsch aber giftig |
 
 ##Ausrüstung
