@@ -115,7 +115,7 @@ tags:
 
 ##Ausrüstung
 
-###Besitz
+##Besitz
 |Name|Beschreibung|
 |||
 | Silbernes Kästchen | Kleine Schmuckschatulle, versilbert, von ideellem Wert|
