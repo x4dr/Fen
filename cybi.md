@@ -103,8 +103,8 @@ tags:
 
 
 #Fortschritt
-|-|-|
 |Fähigkeit|EXP|
+|-|-|
 |Handel|1/5|
 
 #Inventar
