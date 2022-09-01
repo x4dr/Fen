@@ -103,11 +103,13 @@ tags:
 
 
 #Fortschritt
+|-|-|
+|Fähigkeit|EXP|
+|Handel|1/5|
 
 #Inventar
-
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
-||||||
+|-|-|-|-|-|
 | Silber | 6 | 60g | 6s | Währung |
 | Torf | 1 Faust |-|-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | - | Sieht teuer aus | Lichtkondensator |
@@ -117,5 +119,5 @@ tags:
 
 ##Besitz
 |Name|Beschreibung|
-|||
+|-|-|
 | Silbernes Kästchen | Kleine Schmuckschatulle, versilbert, von ideellem Wert|
