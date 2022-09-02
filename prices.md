@@ -26,6 +26,7 @@ tags:
 | Kerze       | 3k  | 0.2kg|
 | Säure       | 15s | 1kg|
 | Öl          | 5s |  1kg|
+| Fackel      | 10k| 0.20kg |
 | Jod         | 3a |  1kg|
 | Quartzsand  | 2.80s|1kg |
 | Methyl-Ethyl 50% | 50k |1kg|
@@ -46,7 +47,7 @@ tags:
 | Basic Ration | 30k | 1kg |
 | Foraged Ration | 10k | 1kg |
 | Fancy Ration | 50k | 1kg |
-| camping gear (tent, sleeping bag) | 1s | 5kg |
+| camping gear (Zelt, Schlafsack) | 1s | 5kg |
 | Handwerkszeug Q1 | 1s | 1kg|
 | Handwerkszeug Q2 | 5s | 3kg|
 | Handwerkszeug Q3 | 30s |8kg|
