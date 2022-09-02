@@ -46,6 +46,7 @@ tags:
 | Basic Ration | 30k | 1kg |
 | Foraged Ration | 10k | 1kg |
 | Fancy Ration | 50k | 1kg |
+| camping gear (tent, sleeping bag) | 1s | 5kg |
 | Handwerkszeug Q1 | 1s | 1kg|
 | Handwerkszeug Q2 | 5s | 3kg|
 | Handwerkszeug Q3 | 30s |8kg|
