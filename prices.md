@@ -23,6 +23,7 @@ tags:
 | Phosphor    | 30s | 1kg|
 | Kreide      | 2s |  1kg|
 | Wachs       | 10k | 1kg|
+| Kerze       | 3k  | 0.2kg|
 | Säure       | 15s | 1kg|
 | Öl          | 5s |  1kg|
 | Jod         | 3a |  1kg|
