@@ -128,17 +128,16 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infilatrator 3/5 An
 
 |||||
 |pugna|Placidus|||
-|Notgroschen|0|10s +1 wertvoller Edelstein|5k|
+
 
 ##Ausrüstung
-Puzzle box
-2,75 Silber
-Skill Zugänge:
-Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _auf dem Kopf lesen/ generelle sozial
-Mal: con artist/dinge Ausspähen
-Raben dude: Spy shit / viele Botengänge 
-Berstein Herz: erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen
-Spikes :3xKehrt zurück, 3x Fixiert,3xWind, 3xWand
+Notgroschen 12,75s +1 wertvoller Edelstein  
+Skill Zugänge:  
+Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _auf dem Kopf lesen/ generelle sozial  
+Mal: con artist/dinge Ausspähen  
+Raben dude: Spy shit / viele Botengänge   
+Berstein Herz: erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen  
+Spikes :3xKehrt zurück, 3x Fixiert,3xWind, 3xWand  
 
 
 
