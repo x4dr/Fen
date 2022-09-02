@@ -110,7 +110,7 @@ tags:
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
 |-|-|-|-|-|
-| Silber | 6 | 60g | 6s | Währung |
+| Silber | 5 | 50g | 5s | Währung |
 | Torf | 1 Faust |-|-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | - | Sieht teuer aus | Lichtkondensator |
 | Galenit Klümpchen | 1 | - | Shiny | Hübsch aber giftig |
