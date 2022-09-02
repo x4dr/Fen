@@ -128,7 +128,7 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infilatrator 3/5 An
 
 |||||
 |pugna|Placidus|||
-|Notgroschen|0|25s +1 wertvoller Edelstein|5k|
+|Notgroschen|0|10s +1 wertvoller Edelstein|5k|
 
 ##Ausrüstung
 Puzzle box
