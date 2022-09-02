@@ -125,8 +125,10 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infilatrator 3/5 An
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
+
 |||||
 |pugna|Placidus|||
+|Notgroschen|0|25s +1 wertvoller Edelstein|5k|
 
 ##Ausrüstung
 Puzzle box
