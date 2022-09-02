@@ -135,7 +135,7 @@ Adrenalinflut
 |Zeichensprache|S|
 |Okysa|SS|
 |Schattenschritt|S|
-|Widerstehen|SS|
+|Widerstehen|SSS|
 |Belos|S|
 
 #Inventar
