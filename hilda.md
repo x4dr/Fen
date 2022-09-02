@@ -115,6 +115,7 @@ tags: character
 |Irreführung|1/5|
 |Theologie|2/5|
 |Hexe|3/5|
+|Kräuterkunde|1/5|
 |Survival|1/5|
 |Geschichtenerzählen|2/5|
 |Erden|4/5|
