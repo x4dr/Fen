@@ -295,8 +295,8 @@ Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im
 
 
 Glitzerin/ Glitzerer
-Svenja: Ostteil Nordstadt
-Lyeom: Zauberer, Besserer Teil der Stadt
+Svenja: Ostteil Nordstadt, Mittelklasse
+Lyeom: Artefaktschmied, Konkurrent von Svenja, besserer Teil der Stadt, berühmter Lehrer/ Ahnenreihe, sehr arrogant
 
 
 Zauberer
