@@ -114,6 +114,8 @@ tags:
 | Torf | 1 Faust |-|-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | - | Sieht teuer aus | Lichtkondensator |
 | Galenit Klümpchen | 1 | - | Shiny | Hübsch aber giftig |
+| Drachenkopf | 1 | 1kg | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme |
+| Kerze | 6 | 200g | - | Kerze. Brennt, wenn man sie anzündet |
 
 ##Ausrüstung
 
