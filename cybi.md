@@ -25,6 +25,7 @@ tags:
 | Widerstehen | 1 |
 | Rennen | 1 |
 | Feinmotorik | 1 |
+| Reflexe | 1 |
 
 
 ##Sozial
@@ -39,6 +40,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+| Beobachtungsgabe | 2 |
 | Empathie | 1 |
 | Rhetorik | 1 |
 | Aufgeschlossenheit | 1 |
@@ -101,11 +103,17 @@ tags:
 |-|-|
 |Illusion| 1 |
 
+#Vorteil
+|Fähigkeit|Beschreibung|
+|-|-|
+|Toxische Empathie| Überträgt per Kontaktgift Gefühle|
+|Trophogene Toxizität| Wirkungen der Nahrung werden auf das Kontaktgift übertragen |
 
 #Fortschritt
 |Fähigkeit|EXP|
 |-|-|
 |Handel|1/5|
+|Tanz|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
