@@ -114,6 +114,8 @@ tags:
 |-|-|
 |Handel|1/5|
 |Tanz|1/5|
+|Tanas Bindung|1/5|
+|Irreführung|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
