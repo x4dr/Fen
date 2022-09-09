@@ -128,6 +128,7 @@ tags:
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|
 |-|-|-|-|
+|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|
 |Leuchteblatt| 1 | - | Ein beschichtetes Blatt. Leuchtet halb so hell wie eine Fackel|
 
 ##Besitz
