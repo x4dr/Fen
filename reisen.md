@@ -100,7 +100,7 @@ Jede komplett durchgeschlafene Nacht (ohne Unterbrechung) senkt Erschöpfung
 die erste kleine und große Reiseaktion Ausruhen pro Tag senkt jeweils Erschöpfung
 gutes essen und angenehme Unterkunft senkt jeweils Erschöpfung
 
-Für jedes mal das Erschöpfung ein vielfaches von Konstitution übertrifft, werden weitere erschöpfende Tätigkeiten mit einem Maluswürfel versehen:
+Für jedes mal das Erschöpfung ein vielfaches von Konstitution + Widerstand (+ andere Boni zB im Wanderer Beruf) übertrifft, werden weitere erschöpfende Tätigkeiten mit einem Maluswürfel versehen:
 
 Reisen, Handwerk/Wissen, Kampf, Alles
 
