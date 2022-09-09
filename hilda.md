@@ -117,7 +117,7 @@ tags: character
 |Hexe|3/5|
 |Kräuterkunde|1/5|
 |Survival|1/5|
-|Geschichtenerzählen|2/5|
+|Geschichtenerzählen|3/5|
 |Erden|4/5|
 Voller FP Überzeugen 11.03.
 
