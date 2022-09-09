@@ -129,7 +129,7 @@ Adrenalinflut
 |Meucheln|SSSSS|
 |Gifte|S|
 |Wächter|S|
-|Wissen(Kulturen)|SSS|
+|Wissen(Kulturen)|SSSS|
 |Akrobatik|S|
 |Suchen|S|
 |Zeichensprache|S|
@@ -137,6 +137,7 @@ Adrenalinflut
 |Schattenschritt|S|
 |Widerstehen|SSS|
 |Belos|S|
+|Werfen|S|
 
 #Inventar
 
