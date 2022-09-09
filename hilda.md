@@ -380,6 +380,10 @@ Kanech: Hippiedorf, chillig, mit Natur verbunden
 Irzan: Druide/ Magier
 Minem: Magischer Baum, wir haben Zylinder mit Botschaft zwischen seinen Wurzeln vergraben
 
+Die Enklave:
+Inocybe: Pilz im Wald hinter Hakkerskamp; gibt Limasu Hinterbliebenen Zuflucht
+Tlacelel: arbeitet für Inocybe; hatte den Tresor von Eisenbach für Limasu angegriffen, arbeitet jetzt aber nicht mehr für sie
+
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
 Hexe Mathilda: Narben über dem ganzen Körper, lehrt Hilda Erden/ Verbinden
