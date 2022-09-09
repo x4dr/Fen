@@ -117,7 +117,7 @@ tags: Hamus character
 |Lesen in schlechten Bedingungen|1|siehe title|
 
 #Fortschritt
-Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infilatrator 4/5 Animal Companion 1/5 Ermitteln1/5 Angeln 1/5 Layouts 1/5 Werfen 1/5
+Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infilatrator 4/5 Animal Companion 1/5 Ermitteln1/5 Angeln 1/5 Layouts 2/5 Werfen 1/5
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
 
