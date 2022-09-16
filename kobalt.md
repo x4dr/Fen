@@ -114,10 +114,10 @@ Rennen: 3/5
 Widerstand: 5/5
 Magic Crafting: 1/5
 Suchen: 1/5
-Fusarbeit: 1/5
+Fusarbeit: 2/5
 Aspekt: Arkan 2/5
-Konzept: Chaos Casting 1/5
-PerfektChaos 2/5
+Konzept: Chaos Casting 2/5
+PerfektChaos 3/5
 
 
 #Vorteile
