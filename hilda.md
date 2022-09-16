@@ -154,8 +154,7 @@ Umhängetasche
 #Notizen
 
 aktuelle Objektives:
-- Was macht die Müllergilde? Ist das rechtens?
-- Aufgetauchtes Haus in der Nähe von Hakkerskamp
+- Zeug schmuggeln nach hinter Hakkerskamp
 
 
 Müllergilde
@@ -201,7 +200,6 @@ Kornspeicher:
 
 
 Mysterium Hildus: 
-
 - erkannte Harikas Namen; aber wollte sie erst töten, als er sie gesehen hat
 - Wieso will er Harika töten? no plan
 - Woher kommt er? 172 Tage aus dem Osten, wie viele Kilometer auch immer; reicht nicht bis Silaf
