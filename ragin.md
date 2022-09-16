@@ -69,7 +69,7 @@ tags: character
 |Taktik|1|
 |Wissen(Gravur)|1|
 |Wissen(Wald)|1|
-|Wissen(Kulturen)|0|
+|Wissen(Kulturen)|1|
 
 
 ##Können
