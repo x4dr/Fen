@@ -90,9 +90,9 @@ Wissen über Missetaten, eine Aura von Ruhe und Besinnung, Göttliche Heilung, S
 
 #### Fluch
 schlechtes Gewissen
-____
+
 _______
-##Ilargia
+## Ilargia
 
 Göttin der Tiefen, Mysterien, des Mondes, des natürlichen Kreislaufes, der Toten und der Vorhersagung
 
