@@ -152,6 +152,7 @@ Flint and Steel, 1 Alchemie Luutbox
 
 #Rezepte
 Schnapsdrossler: erdminze, norwood, kerzholz
+Entnüchter/Balancetrank: Schnaps, Blut
 
 
 
