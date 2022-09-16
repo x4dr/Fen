@@ -133,7 +133,7 @@ tags: character
 1/5 Kochen
 4/5 Elementarwissen
 1/5 Tratsch
-2/5 Alchemie
+3/5 Alchemie
 4/5 Akrobatik
 2/5 Fallensteller
 1/5 Kontrolle 
