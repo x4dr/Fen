@@ -136,6 +136,7 @@ tags: character
 2/5 Alchemie
 4/5 Akrobatik
 2/5 Fallensteller
+1/5 Kontrolle 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung)
 #Inventar
 
