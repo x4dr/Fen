@@ -300,10 +300,6 @@ Svenja: Ostteil Nordstadt, Mittelklasse
 Lyeom: Artefaktschmied, Konkurrent von Svenja, besserer Teil der Stadt, berühmter Lehrer/ Ahnenreihe, sehr arrogant
 
 
-Zauberer
-K(u)roff: Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläufer?
-
-
 Heiler
 Çırak: Attakan, magischer Heiler, plappert viel, kann energetische Tränke brauen
 Kasimir: Sehr dubios, nicht so gut
@@ -394,3 +390,6 @@ Hexe Mathilda: Narben über dem ganzen Körper, lehrt Hilda Erden/ Verbinden
 Dagnar: Händler aus Trarora, wohlhabend, hat bei 2 G um 1 G & 80 S (90%) beschissen, unehrlich; bekam durch uns eine Steuerprüfung
 
 
+Limasu
+Nalyso und Gebidun: die zwei Oberen von Limasu; die Fürsten/ il principe
+K(u)roff: Zauberer. Rote Robe aus Limasu, Blutmagier, doppelter Agent? Überläufer?
