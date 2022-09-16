@@ -384,6 +384,7 @@ Minem: Magischer Baum, wir haben Zylinder mit Botschaft zwischen seinen Wurzeln 
 Die Enklave:
 Inocybe: Pilz im Wald hinter Hakkerskamp; gibt Limasu Hinterbliebenen Zuflucht
 Tlacelel: arbeitet für Inocybe; hatte den Tresor von Eisenbach für Limasu angegriffen, arbeitet jetzt aber nicht mehr für sie
+Im Wald passieren komische Dinge, Elementargedöns
 
 Aus Karawane:
 Runleif: chaotischer Typ, kennt Runen, Kämpfer?
