@@ -110,7 +110,7 @@ tags: character
 #Fortschritt
 |Fähigkeit|gesammelt|
 |:-|:-|
-|Empathie|3/5|
+|Empathie|4/5|
 |Überzeugen|2/5|
 |Irreführung|1/5|
 |Theologie|2/5|
