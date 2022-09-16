@@ -137,6 +137,7 @@ tags: character
 4/5 Akrobatik
 2/5 Fallensteller
 1/5 Kontrolle 
+1/5 Körperinfusion
 (Gesamt +1 auf Alchemie, +1 auf Irreführung)
 #Inventar
 
