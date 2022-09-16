@@ -127,9 +127,9 @@ Adrenalinflut
 |Survival|SSSSS|
 |Fußarbeit|SSSSS|
 |Meucheln|SSSSS|
+|Wissen(Kulturen)|SSSSS|
 |Gifte|S|
 |Wächter|S|
-|Wissen(Kulturen)|SSSS|
 |Akrobatik|S|
 |Suchen|S|
 |Zeichensprache|S|
