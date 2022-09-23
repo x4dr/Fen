@@ -25,9 +25,9 @@ tags: Hamus character
 |Schleuder|1|
 |Standhalten|1|
 |Bogen|1|
-|Fußarbeit|0|
-|Kraft|0|
-|Werfen/Bolas|0|
+|Fußarbeit|1|
+|Kraft|1|
+|Werfen/Bolas|1|
 
 ##Sozial
 ###Attribute 
@@ -61,7 +61,7 @@ tags: Hamus character
 |Suchen|1|
 |Instinkt|1|
 |Ermitteln|1|
-|Balistik|1|
+|Balistik|2|
 |Gassenwissen|2|
 |Mechanik|1|
 |Layouts|1|
