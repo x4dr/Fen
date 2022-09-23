@@ -97,10 +97,11 @@ Ailments/ Körperlich
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
 ||Wachskappe|schmerzlindernd|Bonus|
 ||Akem|schmerzsstillend, Taubheit bis zu keinem Schmerzempfinden mehr, Lähmung?|Kräuter|
-|Infektionen, Entzündungen, Fieber|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend||
+|Infektionen, Entzündungen, Fieber, Heilend|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend||
 ||Ziegenblume|Entzündungen heilen mit Gesamtresonanz über 15 beim nächsten Schlaf|Kräuter|
 ||Grünes Prekorla|Schwindelgefühl, allgemeine Heilwirkung und Entzündung heilend|Kräuter|
 ||Kettenblatt|erhöht Temperatur und beschleunigt Herzschlag, verbessert Wundheilung|Kräuter|
+||Kochenleim-flechte|verbessert Heilung, auch bei permanenten Wunden|Kräuter|
 |Gegengift|Kindeskuss|hilft bei äußerer Anwendung mit Infektionen, bei innerer Anwendung führt es Erbrechen herbei, wenn wirkende Komponenten verspeist wurden (Gifte, Tränke...), Fieber senkend|Bonus|
 ||Düsterwurz|Wirkt Giftstoffen entgegen und kann zur Herstellung von Gegengiften genutzt werden. Wird ein Sud aus der Wurzel hingegen erhitzt und mit anderen Wirkstoffen gemischt, so erleichtert er deren Aufnahme.|Kräuter|
 |||||
@@ -135,3 +136,4 @@ Adrawurzel
 Schimmerpilz
 Hundskraut
 Blaudorn
+Natternfäule
