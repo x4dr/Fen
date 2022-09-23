@@ -113,8 +113,9 @@ tags: character
 |Empathie|4/5|
 |Überzeugen|2/5|
 |Irreführung|1/5|
-|Theologie|2/5|
 |Kulturenwissen|1/5|
+|Theologie|2/5|
+|Politik|1/5|
 |Hexe|3/5|
 |Kräuterkunde|1/5|
 |Survival|1/5|
