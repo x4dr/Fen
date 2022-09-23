@@ -64,6 +64,7 @@ tags:
 | Chemische Kommunikation | 1 |
 | Heilen | 1 |
 | Steinkunde | 1 |
+| Naturkommunikation | 1 |
 
 
 ##Können
@@ -95,7 +96,6 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 | Tanas Bindung | 1 |
-| Naturkommunikation | 1 |
 
 ###Konzept
 |Fähigkeit|Wert|
