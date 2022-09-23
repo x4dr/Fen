@@ -26,8 +26,6 @@ tags: Hamus character
 |Standhalten|1|
 |Bogen|1|
 |Fußarbeit|0|
-|Springen|0|
-|Akrobatik|0|
 |Kraft|0|
 |Werfen/Bolas|0|
 
