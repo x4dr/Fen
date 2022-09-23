@@ -23,7 +23,7 @@ tags: character
 |-|-|
 |Rennen|1|
 |Widerstehen|1|
-
+|Fußarbeit|1|
 
 ##Sozial
 ###Attribute 
@@ -41,7 +41,7 @@ tags: character
 |Empathie|1|
 |Tratsch|1|
 |Handel| 1 |
-|Irreführung|1|
+|Irreführung|2|
 
 
 ##Mental
@@ -74,7 +74,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Heilen|1|
+|Heilen|2|
 |Kräuterkunde|1|
 |Gärtner|1|
 
@@ -92,7 +92,7 @@ tags: character
 |-|-|
 |Erden Quelle|1|
 |Fokus Konzept|2|
-|Leben Aspekt|1|
+|Leben Aspekt|2|
 |Scrying Aspekt|1|
 |First Sight|1|
 |Eidetisches Gedächtnis|1|
