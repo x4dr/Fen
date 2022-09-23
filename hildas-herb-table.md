@@ -129,7 +129,8 @@ Schaden zufügen & Gifte
 ||Staubpilz|löst Husten und Krämpfe aus wenn eingeatmet, verursacht Lungenwunde (Wille,Ausdauer) |Kräuter|
 ||Holde|Wunderschöne blau-violette Blume, die Jucken und Ausschlag auslöst|Bonus|
 ||Buttertal|der Rest der Pflanze ist sehr Haut/Schleimhaut reizend wenn Zerstoßen, Rötung, Jucken und Bläschen|Bonus|
-|Mental & emotional|Zedrach|schwächt Erinnerungsvermögen|Bonus|
+|Mental, Emotional & Sozial|Lügenkresse|nach x Std. bitterer, langanhaltender, konzetrationsbrechender Nachgeschmack; bis dahin Bonus auf Lügen und Empathiewürfe; ab Nachgeschmack Malus auf Lügen und Empathiewürfe|Kräuter|
+||Zedrach|schwächt Erinnerungsvermögen|Bonus|
 ||Adinras|richtig zubereitet ein unangenehmes Gift: versetzt den Geist langsam in ein Koma, ohne den Körper zu beeinflussen|Bonus|
 ||Wasserliese|senkt Inhibitionen ähnlich zu Alkohol, macht komplexe Gedankenketten schwerer zu verfolgen|Bonus|
 ||Kupferglocke|Halluzinogen und abhängig machend|Bonus|
