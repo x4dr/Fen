@@ -78,6 +78,15 @@ Emotionen
 |Katharsis|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
 |||||
 
+
+Sozial
+
+|Bereich|Kraut|Wirkung|Nachlesen|
+|-|-|-|-|
+||Lügenkresse|nach x Std. bitterer, langanhaltender, konzetrationsbrechender Nachgeschmack; bis dahin Bonus auf Lügen und Empathiewürfe; ab Nachgeschmack Malus auf Lügen und Empathiewürfe|Kräuter|
+|||||
+
+
 Ailments/ Körperlich 
 
 |Bereich|Kraut|Wirkung|Nachlesen|
