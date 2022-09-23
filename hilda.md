@@ -6,7 +6,7 @@ tags: character
 |Name | Hilda|
 |Alter | 15 |
 |Größe| 155cm |
-|usw|joa|
+|Talent|Mystisch|
 |...|?|
 
 #Werte
