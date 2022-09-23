@@ -319,7 +319,7 @@ Heiler
 Kasimir: Sehr dubios, nicht so gut
 
 
-Isban: Seher, Aurier, hat mit Stadtwache zu tun, kann Bilder aus Kopf übertragen
+Isban: Seher, Aurier, hat mit Stadtwache zu tun, kann Bilder aus Kopf übertragen; hat den alten Stadthalter beraten
 Nyskurni: Mitbewohner von Isban
 
 
