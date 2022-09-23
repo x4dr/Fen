@@ -102,6 +102,7 @@ tags:
 |-|-|
 |Tanz| 2 |
 |Gesang| 1 |
+|Meditation| 1 |
 
 ###Quelle
 |Fähigkeit|Wert|
