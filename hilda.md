@@ -6,7 +6,7 @@ tags: character
 |Name | Hilda|
 |Alter | 15 |
 |Größe| 155cm |
-|Talent|Mystisch|
+|Talent|Mystisch = alle Würfelergebnisse mit mystischen Fähigkeiten sind Ergebnis + 1|
 |...|?|
 
 #Werte
