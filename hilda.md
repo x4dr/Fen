@@ -148,7 +148,11 @@ Umhängetasche
 -> mehrere abgeschliffene Dodekaeder aus Kristall: alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas
 -> Pilze:
 - lila, kleiner Pilz (reicht für eine Dosis): Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt
-- durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
+-> durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
+-> Gesellenbrief von Harika: Hilda ist Geselle der Lebensmagie von Harika
+-> Freundschaftshalskette von Harika mit detailliert gearbeiteten Silberblatt
+-> selbst desinfizierendes Messer für chirurgisches Arbeiten
+
 
 
 #Notizen
