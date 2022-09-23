@@ -58,11 +58,11 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Balistik|2|
+|Gassenwissen|2|
 |Suchen|1|
 |Instinkt|1|
 |Ermitteln|1|
-|Balistik|2|
-|Gassenwissen|2|
 |Mechanik|1|
 |Layouts|1|
 |Taktik|0|
@@ -78,11 +78,10 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Fischer|1|
 |Unauffällig|2|
+|Fischer|1|
 |Infiltrator|1|
 |Apraisal|0|
-|Munitionierer|0|
 |Munitionierer|0|
 
 
