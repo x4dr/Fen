@@ -354,7 +354,7 @@ Berit: Botenmeister
 
 Abenteurer:
 Gruppe 1: ist in den Wachtturm eingebrochen
-Tajana: hat überzeugt, dass sie niemanden auf dem Marktplatz erstochen hat
+Tayana: hat überzeugt, dass sie niemanden auf dem Marktplatz erstochen hat; ist jetzt hoch angesehen, hat eigenes Haus; hat starke Okysabindung
 
 Gruppe 2: wurde von der Kabale sabotiert
 Haita: Bogenschütze, kann gut Spuren verfolgen, Ragin hat ihn in die Kniekehle gestochen mit einem Messer
