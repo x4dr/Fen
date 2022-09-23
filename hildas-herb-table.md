@@ -37,7 +37,7 @@ Mystisch
 
 |Bereich|Kraut|Wirkung|Nachlesen|
 |-|-|-|-|
-|Zutat der Macht|Nysgariszepter|Sorgt für kurzes, unangenehmes prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe. Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
+|Zutat der Macht|Nysgariszepter|Sorgt für kurzes, unangenehmes Prickeln im ganzen Körper und dann für Wärmegefühl, beschleunigt und verstärkt andere Wirkstoffe. Die Blütenblätter sammeln Energie und werden mit Genug davon zu einer Zutat der Macht.|Bonus|
 ||Finstereiche|fängt im Magen von Opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über Wochen. Eine Zutat der Macht.|Bonus|
 ||Zwielichtsschirmling|Ein Pilz der Macht, auch wenn er alles korrumpiert für das er eingesetzt wird.|Bonus|
 |Sehen|Silberglocke|verstärkt Visionen, Bauchgefühl, Erinnerung|Bonus|
@@ -56,7 +56,7 @@ Mental/ kognitiv
 ||Gänsezunge|distinkter Geruch, macht wach und regt den Kreislauf an, hält wach|Kräuter|
 ||Mädchensorge|Macht das Konzentrieren einfacher, hält Gedanken "zusammen". Gut für Dinge wie Konzentration und das Durchdenken schon vorhandener Informationen, schlecht für Flow und das mentale erkunden/kreativ sein|Bonus|
 ||Nornholz|angereichert mit scharf-kalten Ölen, die kurzzeitigen Fokus gewähren - sobald die Augen aufhören zu tränen|Bonus|
-||Serechslilie|Stärkt Willen, Geist und Wahrnehmung. Schwächt sie in der phase danach, was einer psychologischen Abhängigkeit gleichkommt.
+||Serechslilie|Stärkt Willen, Geist und Wahrnehmung. Schwächt sie in der Phase danach, was einer psychologischen Abhängigkeit gleichkommt.
 Rotsporn|Bonus|
 |Erinnerung|Sommerdame|gut für das Erinnerungsvermögen, Überbeanspruchung sorgt für Nostalgie fokussiertes denken|Bonus|
 ||Sauerbrand|Sorgt für lebhafte Träume über die Vergangenheit, vorallem vergessene/unterdrückte Erinnerungen. Extrem sauer, erregt Übelkeit und Fieber.|Bonus|
