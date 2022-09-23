@@ -98,7 +98,7 @@ tags: character
 |-|-|
 | Konzentration | 1 |
 | Disziplin | 2 |
-| Flow | 1 |
+| Flow | 2 |
 
 
 ###Fähigkeiten
