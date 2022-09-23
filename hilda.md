@@ -29,7 +29,7 @@ tags: character
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Durchsetzungsvermögen | 1 |
+| Durchsetzungsvermögen | 2 |
 | Sympathie | 1 |
 | Eindruck | 2 |
 
