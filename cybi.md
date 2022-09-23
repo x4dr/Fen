@@ -33,7 +33,7 @@ tags:
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
-| Sympathie | 1 |
+| Sympathie | 2 |
 | Eindruck | 1 |
 
 
@@ -78,8 +78,14 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+| Glitzer | 1 |
+| Improvisation | 1 |
 
 ##Mystisch
+###Fähigkeiten
+|-|-|
+| Tanas Bindung | 1 |
+
 ###Attribute 
 |Attribut|Level|
 |-|-|
@@ -90,7 +96,7 @@ tags:
 ###Konzept
 |Fähigkeit|Wert|
 |-|-|
-|Tanz| 1 |
+|Tanz| 2 |
 |Gesang| 1 |
 
 ###Quelle
@@ -101,13 +107,16 @@ tags:
 ###Aspekt
 |Fähigkeit|Wert|
 |-|-|
-|Illusion| 1 |
+|Illusion| 2 |
+|Manifestation|1|
 
 #Vorteil
 |Fähigkeit|Beschreibung|
 |-|-|
-|Toxische Empathie| Überträgt per Kontaktgift Gefühle|
-|Trophogene Toxizität| Wirkungen der Nahrung werden auf das Kontaktgift übertragen |
+|Toxische Empathie | Überträgt per Kontaktgift Gefühle|
+|Trophogene Toxizität | Wirkungen der Nahrung werden auf das Kontaktgift übertragen|
+|Detoxifikation | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt |
+
 
 #Fortschritt
 |Fähigkeit|EXP|
