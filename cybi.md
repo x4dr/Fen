@@ -138,4 +138,4 @@ tags:
 |Name|Beschreibung|
 |-|-|
 | Silbernes Kästchen | Kleine Schmuckschatulle, versilbert, von ideellem Wert|
-| Glitzer- Werkstatt Bausatz | Veraltet, aber kostenlos |
+| Glitzer-Werkstatt Bausatz | Veraltet, aber kostenlos |
