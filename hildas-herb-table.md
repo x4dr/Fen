@@ -113,7 +113,7 @@ Schaden zufügen & Gifte
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
 ||Leberstein|Verzehr und auch nur Berührung lähmt die willkührlichen Muskeln|Bonus|
 ||Zoarksgebot|beschädigen setzt einen Nebel frei, der physische Bewegung behindert/lähmt/entspannt|Bonus|
-||Staubpilz|löst Husten und Krämpfe aus wenn eingeatmet, (Wille,Ausdauer) Beschränkt Erfolg für 3 Runden |Kräuter|
+||Staubpilz|löst Husten und Krämpfe aus wenn eingeatmet, verursacht Lungenwunde (Wille,Ausdauer) |Kräuter|
 ||Holde|Wunderschöne blau-violette Blume, die Jucken und Ausschlag auslöst|Bonus|
 ||Buttertal|der Rest der Pflanze ist sehr Haut/Schleimhaut reizend wenn Zerstoßen, Rötung, Jucken und Bläschen|Bonus|
 |Mental & emotional|Zedrach|schwächt Erinnerungsvermögen|Bonus|
