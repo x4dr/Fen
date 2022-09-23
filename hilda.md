@@ -366,7 +366,7 @@ Müller:
 Malignius: Vater von Onus
 
 
-Schenken
+Schenken / Kneipe:
 Wirt vom Geflügelten Fuß: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift (Gefallen)
 
 
