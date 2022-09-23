@@ -158,7 +158,6 @@ Umhängetasche
 
 aktuelle Objektives:
 - vermehrt Adinras Vergiftungen; in allen Ständen; über einen längeren Zeitraum, mehrere Dosen; Opfer erinnern sich an nichts
-- der Enklave im Wald einen legalen Status verschaffen
 
 
 vergangene Objectives:
