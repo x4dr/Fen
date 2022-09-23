@@ -149,7 +149,7 @@ Umhängetasche
 -> lila, kleiner Pilz (reicht für eine Dosis): Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt
 -> durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
 -> Gesellenbrief von Harika: Hilda ist Geselle der Lebensmagie von Harika
--> Freundschaftshalskette von Harika mit detailliert gearbeitetem Silberblatt
+-> Freundschaftshalskette von Harika mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals
 -> selbst desinfizierendes Messer für chirurgisches Arbeiten
 -> besondere Sichel mit Klingel aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden
 
