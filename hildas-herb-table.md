@@ -132,5 +132,6 @@ Noch nicht drin: (Käuter)
 Katzenfarn 
 Fieberfarn
 Adrawurzel
-Rotwarz
-Kettenblatt
+Schimmerpilz
+Hundskraut
+Blaudorn
