@@ -104,7 +104,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Spurenlos|1|
-|Wettersinn|1|
+|Wettersinn|2|
 ###Konzept
 |Fähigkeit|Wert|
 |-|-|
