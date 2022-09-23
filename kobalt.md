@@ -118,7 +118,7 @@ Fusarbeit: 2/5
 Aspekt: Arkan 3/5
 Konzept: Chaos Casting 2/5
 PerfektChaos 2/5
-
+Kondition: 1/5
 
 #Vorteile
 Lesen
