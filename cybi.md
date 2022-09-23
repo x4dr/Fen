@@ -82,9 +82,7 @@ tags:
 | Improvisation | 1 |
 
 ##Mystisch
-###Fähigkeiten
-|-|-|
-| Tanas Bindung | 1 |
+
 
 ###Attribute 
 |Attribut|Level|
@@ -92,6 +90,12 @@ tags:
 | Konzentration | 1 |
 | Disziplin | 1 |
 | Flow | 1 |
+
+###Fähigkeiten
+|Fähigkeit|Wert|
+|-|-|
+| Tanas Bindung | 1 |
+| Naturkommunikation | 1 |
 
 ###Konzept
 |Fähigkeit|Wert|
