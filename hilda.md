@@ -154,7 +154,32 @@ Umhängetasche
 #Notizen
 
 aktuelle Objektives:
+- vermehrt Adinras Vergiftungen; in allen Ständen; über einen längeren Zeitraum, mehrere Dosen; Opfer erinnern sich an nichts
+- der Enklave im Wald einen legalen Status verschaffen
+
+
+vergangene Objectives:
+
+
+Enklave im Wald
 - Zeug schmuggeln nach hinter Hakkerskamp
+- Siedlung, Leute ehemals von Limasu im Wald verwaist
+- Momo jetzt Anführerin, will Rache nehmen an den beiden Obersten von Limasu
+
+
+Aufgetauchtes Haus in der Nähe von Hakkerskamp
+Haupthaus
+- Keller: 1. Ebene Patroullien mit leuchtenden Augen, ohne Leben, große schwarze Formen (auch Ragin sieht nichts, obwohl er durch Dunkelheit sehen kann), keine Lebewesen, manifestierte Energie, kein eigener Wille, nicht Instinkt getrieben, Wesen im Keller sind nicht Zeit-, Schatten- oder Erdelementare; bewachen Quelle der Macht
+- Keller: Zugang zu 2. Ebene verschlossen, dort Quelle von Macht
+- versteckter Raum: Loot Kästchen und Fallen, die mit Mordgelüsten installiert wurden
+- das ominöse Haus assembled sich langsam wieder; Tunnel des Kellers wachsen um Millimeter; Ameisen und Holzwürmer in den Balken des Anwesens sterben
+- die "Quelle der Macht" ist ein Tag später im 3. UG
+- Malignus stand im 1. UG, seinen Stab in die Erde gestoßen, starrte in die Dunkelheit und die Dunkelheit starrte zurück
+Turm: Belos-Tempel (Belos = Drache!)
+3. OG: Voll mit Schriftrollen und Tontafeln
+2. OG: Altar, verrostete Metallscheibe
+1. OG: Unverständliche Gerätschaften, einige große Linsen
+EG: Schreibtisch, Weapons rack, Armour, Überreste eine hölzernen Möbels 
 
 
 Müllergilde
@@ -177,22 +202,7 @@ Wofür ist dieser Kreis da?
 Wieso ist es so derart geheim?
 
 
-Aufgetauchtes Haus in der Nähe von Hakkerskamp
-Haupthaus
-- Keller: 1. Ebene Patroullien mit leuchtenden Augen, ohne Leben, große schwarze Formen (auch Ragin sieht nichts, obwohl er durch Dunkelheit sehen kann), keine Lebewesen, manifestierte Energie, kein eigener Wille, nicht Instinkt getrieben, Wesen im Keller sind nicht Zeit-, Schatten- oder Erdelementare; bewachen Quelle der Macht
-- Keller: Zugang zu 2. Ebene verschlossen, dort Quelle von Macht
-- versteckter Raum: Loot Kästchen und Fallen, die mit Mordgelüsten installiert wurden
-- das ominöse Haus assembled sich langsam wieder; Tunnel des Kellers wachsen um Millimeter; Ameisen und Holzwürmer in den Balken des Anwesens sterben
-- die "Quelle der Macht" ist ein Tag später im 3. UG
-- Malignus stand im 1. UG, seinen Stab in die Erde gestoßen, starrte in die Dunkelheit und die Dunkelheit starrte zurück
-Turm: Belos-Tempel (Belos = Drache!)
-3. OG: Voll mit Schriftrollen und Tontafeln
-2. OG: Altar, verrostete Metallscheibe
-1. OG: Unverständliche Gerätschaften, einige große Linsen
-EG: Schreibtisch, Weapons rack, Armour, Überreste eine hölzernen Möbels 
 
-
-vergangene Objectives:
 Kornspeicher:
 - wurde manipuliert: man kann von außen in die Einfülluke einsteigen oder Korn vergiften oder Stadt in Brandsetzen
 - überwachen: Angriff hinterhalten, aufhalten und Übeltäter gefangen nehmen
