@@ -91,6 +91,7 @@ Ailments/ Körperlich
 ||Vennchet|hilft bei Magenschmerzen und Nervorsität|Bonus|
 |Herz|Gelber Stenz|hilft bei Herzschmerz und Herzleiden|Bonus|
 |Erkältung|Mehreibe|vorallem für Atemwegsbeschwerden, ohne kundige Verarbeitung ist sie aber eher neutral bis schädlich|Bonus|
+||Lunge|Lungehilfe, hilft effektiver zu husten, K12 Resistenz gegen alles eingeatmete|Kräuter|
 |Wärme|Schwefling|wärmt, heilt Unterkühlung|Bonus|
 |Imbalance des Körpers|Rübenbusch|hilft bei allen Imbalancen des Körpers, ist aber vergleichsweise schwer korrekt zu präparieren|Bonus|
 |Schmerzen|Hopfherz|betäubt unzuverlässig, kann aber zu einem Schmerzmittel verarbeitet werden|Bonus|
