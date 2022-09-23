@@ -161,10 +161,12 @@ aktuelle Objektives:
 vergangene Objectives:
 
 
-Enklave im Wald
-- Zeug schmuggeln nach hinter Hakkerskamp
+Rache (Siedlung)
+- Zeug schmuggeln nach hinter Hakkerskamp erledigt
 - Siedlung, Leute ehemals von Limasu im Wald verwaist
-- Momo jetzt Anführerin, will Rache nehmen an den beiden Obersten von Limasu
+- Momo jetzt direkt der Königin unterstellt; dritter Heerschild, will Rache nehmen an den beiden Obersten von Limasu
+- wir haben ihr den Kontakt vermittelt
+- Dorf ist anerkannt, hat Marktrecht
 
 
 Aufgetauchtes Haus in der Nähe von Hakkerskamp
