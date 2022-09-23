@@ -111,6 +111,7 @@ Schaden zufügen & Gifte
 ||Finstereiche|Fängt im Magen von opfern an zu keimen und ist in der ersten phase danach parasitär; führt zu einem schmerzhaften Tod über Wochen. Eine Zutat der Macht.|Bonus|
 |Physisch|Goldzweig|rapide vorranschreitende, schmerzhafte Schwärzung von Gewebe, bis es sich langsam auflöst|Bonus|
 ||Rotsporn|mittleres Gift, nicht tödlich aber unangenehm, Durchfall, Bewegungsstörung, nervöse Symptome|Bonus|
+||Akem|führt zu Taubheit, Malus auf Agilitäts- und Fingerfertigkeit, bis hin zu Lähmung|Kräuter|
 ||Leberstein|Verzehr und auch nur Berührung lähmt die willkührlichen Muskeln|Bonus|
 ||Zoarksgebot|beschädigen setzt einen Nebel frei, der physische Bewegung behindert/lähmt/entspannt|Bonus|
 ||Staubpilz|löst Husten und Krämpfe aus wenn eingeatmet, verursacht Lungenwunde (Wille,Ausdauer) |Kräuter|
