@@ -128,3 +128,4 @@ Schaden zufügen & Gifte
 Noch nicht drin: (Käuter)
 Katzenfarn 
 Fieberfarn
+Adrawurzel
