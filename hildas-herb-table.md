@@ -56,8 +56,7 @@ Mental/ kognitiv
 ||Gänsezunge|distinkter Geruch, macht wach und regt den Kreislauf an, hält wach|Kräuter|
 ||Mädchensorge|Macht das Konzentrieren einfacher, hält Gedanken "zusammen". Gut für Dinge wie Konzentration und das Durchdenken schon vorhandener Informationen, schlecht für Flow und das mentale erkunden/kreativ sein|Bonus|
 ||Nornholz|angereichert mit scharf-kalten Ölen, die kurzzeitigen Fokus gewähren - sobald die Augen aufhören zu tränen|Bonus|
-||Serechslilie|Stärkt Willen, Geist und Wahrnehmung. Schwächt sie in der Phase danach, was einer psychologischen Abhängigkeit gleichkommt.
-Rotsporn|Bonus|
+||Serechslilie|Stärkt Willen, Geist und Wahrnehmung. Schwächt sie in der Phase danach, was einer psychologischen Abhängigkeit gleichkommt.|Bonus|
 |Erinnerung|Sommerdame|gut für das Erinnerungsvermögen, Überbeanspruchung sorgt für Nostalgie fokussiertes denken|Bonus|
 ||Sauerbrand|Sorgt für lebhafte Träume über die Vergangenheit, vorallem vergessene/unterdrückte Erinnerungen. Extrem sauer, erregt Übelkeit und Fieber.|Bonus|
 |Effekte beenden|Duckmaus|führt zum Überlauf von vorallem Trauer, Angst und Frustration und erhebt die kathartische Wirkung, richtig zubereitet streift es mehr als nur psychische Belastungen ab sondern auch andere anhaltende Effekte|Bonus|
