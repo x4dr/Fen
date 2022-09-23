@@ -22,7 +22,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Fusarbeit|1|
-|Acrobatics|1|
+|Acrobatics|2|
 |Kontrolle|1|
 |Widerstand|1|
 
@@ -40,7 +40,7 @@ tags:
 |-|-|
 |Befragung|1|
 |Irrefuehrung|1|
-|Irreverence|1|
+|Irreverence|2|
 
 
 ##Mental
@@ -55,7 +55,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Forschung|1|
+|Forschung|2|
 |Ermitteln|1|
 |Mathematik|1|
 |Arcana|2|
@@ -98,6 +98,7 @@ tags:
 | KonzeptChaosCasting | 2 |
 | AspektArkan | 1 |
 | AspektBlitz | 1 |
+| Avisbindung | 1 |
 
 ##Schiksal
 ###Attribute 
