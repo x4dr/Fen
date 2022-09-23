@@ -81,7 +81,6 @@ tags: Hamus character
 |Fischer|1|
 |Unauffällig|2|
 |Infiltrator|1|
-|Diebeshandwerk|0|
 |Apraisal|0|
 |Munitionierer|0|
 |Munitionierer|0|
