@@ -94,9 +94,9 @@ tags: character
 |Fokus Konzept|2|
 |Leben Aspekt|2|
 |Scrying Aspekt|1|
+|Ilargia|0|
 |First Sight|1|
 |Eidetisches Gedächtnis|1|
-|Ilargia|0|
 
 
 ##Narrativ
