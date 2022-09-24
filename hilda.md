@@ -96,6 +96,7 @@ tags: character
 |Scrying Aspekt|1|
 |First Sight|1|
 |Eidetisches Gedächtnis|1|
+|Ilargia|0|
 
 
 ##Narrativ
