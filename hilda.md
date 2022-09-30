@@ -152,6 +152,7 @@ Umhängetasche
 -> durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
 -> Gesellenbrief von Harika: Hilda ist Geselle der Lebensmagie von Harika
 -> Freundschaftshalskette von Harika mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals
+-> um den Hals aurisches Armband mit Drachenkopf: ermöglicht Ragin Ping an alle, die das Ding tragen
 -> selbst desinfizierendes Messer für chirurgisches Arbeiten
 -> besondere Sichel mit Klingel aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden
 
@@ -299,7 +300,7 @@ Onus: Müllersohn, Wassermühle
 Bande
 Nolunt: dumm aber haut rum
 Dischof: Händlerstochter
-Imlus: Argyrier, very edgy
+Imlus: Argyrier, very edgy, kann zaubern
 
 
 
@@ -313,7 +314,7 @@ Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im
 
 Glitzerin/ Glitzerer
 Svenja: Ostteil Nordstadt, Mittelklasse
-Lyeom: Artefaktschmied, Konkurrent von Svenja, besserer Teil der Stadt, berühmter Lehrer/ Ahnenreihe, sehr arrogant
+Lyeom: Artefaktschmied, Konkurrent von Svenja, besserer Teil der Stadt, hatte berühmter Lehrer/ Ahnenreihe, sehr arrogant
 
 
 Heiler
