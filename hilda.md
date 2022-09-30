@@ -308,8 +308,9 @@ Eisenbach:
 Statthalter: Kalredin
 
 
-Tempel des Glänzenden:
-Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet
+Tempel des Glänzenden: Wir haben einen [Gefallen] beim Glänzenden offen
+Feros: Landmeister
+Zosori: Enkelin von Arktos, Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet
 Albert: Akolyt
 
 
