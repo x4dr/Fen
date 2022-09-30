@@ -395,12 +395,12 @@ Kanech: Hippiedorf, chillig, mit Natur verbunden
 Irzan: Druide/ Magier
 Minem: Magischer Baum, wir haben Zylinder mit Botschaft zwischen seinen Wurzeln vergraben
 
-Die Enklave:
+Die Enklave: ist jetzt anerkannt und untersteht der Königin
 Inocybe: Pilz im Wald hinter Hakkerskamp; gibt Limasu Hinterbliebenen Zuflucht
 Tlacelel: arbeitet für Inocybe; hatte den Tresor von Eisenbach für Limasu angegriffen, arbeitet jetzt aber nicht mehr für sie
 Mecatl - Koch: Bisschen hoffnungslos, will's besser haben für alle, soziales standing durch Sympathie.
 Ixtli  - Schreiner : No-nonsense, Workaholic, hat alle Häuser gebaut, Gefallen für Gefallen, hohes soziales Standing.
-Momoztli - Jägerin: Chilled as in coldblooded und kalkuliert. Warlady. PTBS. Hart. 
+Momoztli - Jägerin: Chilled as in coldblooded und kalkuliert. Warlady. PTBS. Hart.; wir haben ihre Depression geheilt; ist jetzt Vertreterin/ Anführerin der Enklave; ist in den Krieg gezogen, um die obersten von Limasu zu töten (Rache)
 Im Wald passieren komische Dinge, Elementargedöns, potenzielles Abenteuer
 
 Aus Karawane:
