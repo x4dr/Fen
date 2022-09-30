@@ -145,7 +145,8 @@ tags: character
 1 Probe Holzwolf
 
 ##Ausrüstung
-Flint and Steel, 1 Alchemie Luutbox
+Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things
+
 
 
 
