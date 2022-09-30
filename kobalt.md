@@ -120,6 +120,8 @@ Aspekt: Arkan 3/5
 Konzept: Chaos Casting 2/5
 PerfektChaos 2/5
 Kraft: 1/5
+Ermitteln: 1/5
+
 
 #Vorteile
 Lesen
