@@ -140,6 +140,7 @@ Adrenalinflut
 |Widerstehen|SSS|
 |Belos|S|
 |Werfen|S|
+|Agent|S|
 
 #Inventar
 
