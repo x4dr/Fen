@@ -14,7 +14,7 @@ tags: character
 ###Attribute
 |Attribut|Level|
 |-|-|
-| Konstitution | 1 |
+| Konstitution | 2 |
 | Agilität | 3 |
 | Geschick | 2 |
 
@@ -57,7 +57,7 @@ tags: character
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Wahrnehmung | 1 |
+| Wahrnehmung | 2 |
 | Bildung | 1 |
 | Geist | 1 |
 
