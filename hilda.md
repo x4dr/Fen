@@ -310,7 +310,7 @@ Statthalter: Kalredin
 
 Tempel des Glänzenden: Wir haben einen [Gefallen] beim Glänzenden offen
 Feros: Landmeister
-Zosori: Enkelin von Arktos, Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet
+Zosori: Enkelin von Arktos, Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet; wurde von Malignus Drachenkult informiert
 Albert: Akolyt
 
 
@@ -330,7 +330,7 @@ Nyskurni: Mitbewohner von Isban
 
 Metallgilde
 Meisterin Elke (erhielt Dolch von Limasurobe) 
-Meister Marten 
+Meister Marten: interessiert sich nicht für shady, sondern Gesetzestreue und Verlässlichkeit 
 Atakan Meister Adalet
 Alrik: Geselle
 
