@@ -30,6 +30,7 @@ tags: character
 |Kraft|1|
 |Werfen|1|
 |Widerstehen|1|
+|Botenjudo|1|
 
 
 ##Sozial
@@ -44,7 +45,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Irreführung|1|
+|Irreführung|2|
 |Etiquette|1|
 |Handel|1|
 |Tratsch|1|
@@ -69,6 +70,7 @@ tags: character
 |Taktik|1|
 |Wissen(Gravur)|1|
 |Wissen(Wald)|1|
+|Wissen(Gebirge)|1|
 |Wissen(Kulturen)|1|
 
 
@@ -103,7 +105,7 @@ tags: character
 |Schattenschritt|2|
 |EyEsOfDaRkNeSs|1|
 |Okysa|1|
-|Belos|0|
+|Belos|1|
 
 ##Schicksal
 ###Attribute 
