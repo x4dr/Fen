@@ -22,8 +22,7 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Widerstehen | 1 |
-| Rennen | 1 |
+| Fußarbeit | 1 |
 | Feinmotorik | 1 |
 | Reflexe | 1 |
 
@@ -45,7 +44,7 @@ tags:
 | Rhetorik | 1 |
 | Aufgeschlossenheit | 1 |
 | Smalltalk | 1 |
-| Handel | 1 |
+
 
 
 ##Mental
@@ -61,9 +60,8 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 | Instinkt | 1 |
-| Chemische Kommunikation | 1 |
-| Heilen | 1 |
-| Steinkunde | 1 |
+| Chemische Kommunikation | 2 |
+| Steinkunde | 2 |
 | Naturkommunikation | 1 |
 
 
