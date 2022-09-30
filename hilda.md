@@ -310,6 +310,7 @@ Statthalter: Kalredin
 
 Tempel des Glänzenden:
 Sozori: Enkelin von Arktos, zukünftig Priesterin, wird König und hohe Tiere im Tempel kennen lernen; wurde von uns von den Limasuern gerettet
+Albert: Akolyt
 
 
 Glitzerin/ Glitzerer
