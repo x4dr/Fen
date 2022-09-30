@@ -22,7 +22,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Akrobatik|1|
+|Akrobatik|2|
 |Werfen|1|
 |Kontrolle|1|
 |Zechen|1|
@@ -135,11 +135,11 @@ tags: character
 4/5 Elementarwissen
 1/5 Tratsch
 3/5 Alchemie
-4/5 Akrobatik
+1/5 Irreführung
 2/5 Fallensteller
 1/5 Kontrolle 
 1/5 Körperinfusion
-(Gesamt +1 auf Alchemie, +1 auf Irreführung)
+(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
 1 Probe Holzwolf
