@@ -137,7 +137,6 @@ tags:
 | Silber | 5 | 0,05 | 5s | Währung |
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | 0,75 | Sieht teuer aus | Lichtkondensator |
-| Galenit Klümpchen | 1 | 0,01 | Shiny | Hübsch aber giftig |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 
