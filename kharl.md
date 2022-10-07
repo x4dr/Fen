@@ -155,6 +155,7 @@ Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things
 #Rezepte
 Schnapsdrossler: erdminze, norwood, kerzholz
 Entnüchter/Balancetrank: Schnaps, Blut
+Liquider Hyperfokus: Erdminze, Mädchensorge
 
 
 
