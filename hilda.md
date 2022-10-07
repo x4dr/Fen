@@ -90,7 +90,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Erden Quelle|1|
+|Erden Quelle|2|
 |Fokus Konzept|2|
 |Leben Aspekt|2|
 |Scrying Aspekt|1|
@@ -121,8 +121,8 @@ tags: character
 |Kräuterkunde|1/5|
 |Survival|1/5|
 |Geschichtenerzählen|3/5|
-|Erden|4/5|
 Voller FP Überzeugen 11.03.
+Voller FP Erden 07.10.
 
 #Vorteile
 |Vorteil|gesammelt|
