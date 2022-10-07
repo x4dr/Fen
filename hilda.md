@@ -143,7 +143,7 @@ Voller FP Erden 07.10.
 
 ##Ausrüstung
 
-|Objekt|Beschreibung|ggf. Anzahl|
+|Objekt|Beschreibung|ggf Anzahl|
 |-|-|-|
 | ~ Ausstattung ~ |~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |Umhängetasche|||
