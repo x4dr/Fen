@@ -143,9 +143,11 @@ Voller FP Überzeugen 11.03.
 ##Ausrüstung
 
 |Objekt|Beschreibung|ggf. Anzahl|
-|Umhängetasche|||
+||||
 ||||
 
+
+Umhängetasche
 
 |Artefaktenkugel|leuchtet mit Blitzen darin||
 |Riesenfangzahn|||
