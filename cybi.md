@@ -130,6 +130,7 @@ tags:
 |Tanas Bindung|1/5|
 |Empathie|1/5|
 |Irreführung|2/5|
+|Smalltalk|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
