@@ -155,17 +155,7 @@ Voller FP Überzeugen 11.03.
 |Sichel|besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden||
 |lila, kleiner Pilz |Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt|eine Dosis|
 |durchsichtige Glitzerpilze|hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin||
-||||
 
-
-
--> (reicht für ): 
--> : 
--> : 
-->  
--> 
--> 
--> 
 
 
 #Notizen
