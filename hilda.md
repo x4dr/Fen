@@ -147,8 +147,7 @@ Voller FP Überzeugen 11.03.
 |Umhängetasche|||
 |Artefaktenkugel|leuchtet mit Blitzen darin||
 |Riesenfangzahn|mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh||
-||||
-
+|Dodekaeder aus Kristall||(benutzt 1/10)|
 ||||
 ||||
 ||||
@@ -160,7 +159,7 @@ Voller FP Überzeugen 11.03.
 -> , 
 ->  
      
--> zehn abgeschliffene Dodekaeder aus Kristall (benutzt 1/10): alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas
+-> zehn abgeschliffene  : alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas
 -> lila, kleiner Pilz (reicht für eine Dosis): Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt
 -> durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
 -> Gesellenbrief von Harika: Hilda ist Geselle der Lebensmagie von Harika
