@@ -145,9 +145,11 @@ Voller FP Überzeugen 11.03.
 |Objekt|Beschreibung|ggf. Anzahl|
 |-|-|-|
 |Umhängetasche|||
+|Gesellenbrief von Harika|Hilda ist Geselle der Lebensmagie von Harika||
+|Freundschaftshalskette von Harika|mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals||
 |Artefaktenkugel|leuchtet mit Blitzen darin||
 |Riesenfangzahn|mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh||
-|Dodekaeder aus Kristall||(benutzt 1/10)|
+|Dodekaeder aus Kristall|abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas|(benutzt 1/10)|
 ||||
 ||||
 ||||
@@ -156,14 +158,10 @@ Voller FP Überzeugen 11.03.
 
 
 
--> , 
-->  
-     
--> zehn abgeschliffene  : alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas
 -> lila, kleiner Pilz (reicht für eine Dosis): Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt
 -> durchsichtige Glitzerpilze: hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin
--> Gesellenbrief von Harika: Hilda ist Geselle der Lebensmagie von Harika
--> Freundschaftshalskette von Harika mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals
+-> : 
+->  
 -> um den Hals aurisches Armband mit Drachenkopf: ermöglicht Ragin Ping an alle, die das Ding tragen
 -> selbst desinfizierendes Messer für chirurgisches Arbeiten
 -> besondere Sichel mit Klingel aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden
