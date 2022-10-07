@@ -150,6 +150,8 @@ Voller FP Erden 07.10.
 |Gesellenbrief von Harika|Hilda ist Geselle der Lebensmagie von Harika||
 |Freundschaftshalskette von Harika|mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals||
 |aurisches Armband mit Drachenkopf|um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen||
+
+
 | ~ Tinnef ~ |~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |Artefaktenkugel|leuchtet mit Blitzen darin||
 |Riesenfangzahn|mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh||
@@ -158,7 +160,7 @@ Voller FP Erden 07.10.
 |Messer|selbst desinfizierend für chirurgisches Arbeiten||
 |Sichel|besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden||
 | ~ Verbrauchszeug ~ |~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
-|lila, kleiner Pilz |Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt|eine Dosis|
+|lila, kleiner Pilz|Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt|eine Dosis|
 |durchsichtige Glitzerpilze|hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin||
 
 
