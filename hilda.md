@@ -144,19 +144,19 @@ Voller FP Überzeugen 11.03.
 
 |Objekt|Beschreibung|ggf. Anzahl|
 |-|-|-|
-|Ausstattung|~ ~ ~ ~ ~ ~ ~||
+|Ausstattung|~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |Umhängetasche|||
 |Gesellenbrief von Harika|Hilda ist Geselle der Lebensmagie von Harika||
 |Freundschaftshalskette von Harika|mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals||
 |aurisches Armband mit Drachenkopf|um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen||
-|Tinnef|~ ~ ~ ~ ~ ~ ~||
+|Tinnef|~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |Artefaktenkugel|leuchtet mit Blitzen darin||
 |Riesenfangzahn|mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh||
-|Werkzeuge|~ ~ ~ ~ ~ ~ ~||
+|Werkzeuge|~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |Dodekaeder aus Kristall|abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas|(benutzt 1/10)|
 |Messer|selbst desinfizierend für chirurgisches Arbeiten||
 |Sichel|besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden||
-|Verbrauchszeug|~ ~ ~ ~ ~ ~ ~||
+|Verbrauchszeug|~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |lila, kleiner Pilz |Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt|eine Dosis|
 |durchsichtige Glitzerpilze|hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin||
 
