@@ -139,6 +139,7 @@ tags: character
 2/5 Fallensteller
 1/5 Kontrolle 
 1/5 Körperinfusion
+1/5 MystAlc
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
