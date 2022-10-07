@@ -90,7 +90,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Erden Quelle|2|
+|Erden Quelle|1|
 |Fokus Konzept|2|
 |Leben Aspekt|2|
 |Scrying Aspekt|1|
