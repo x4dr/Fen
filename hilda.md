@@ -141,6 +141,10 @@ Voller FP Überzeugen 11.03.
 |||||
 
 ##Ausrüstung
+
+|Objekt|Beschreibung|
+|||
+
 Umhängetasche
 -> Artefaktenkugel, leuchtet mit Blitzen darin
 -> Riesenfangzahn mit Runen bedeckt;
