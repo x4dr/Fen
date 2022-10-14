@@ -333,6 +333,10 @@ Svenja: Ostteil Nordstadt, Mittelklasse
 Lyeom: Artefaktschmied, Konkurrent von Svenja, besserer Teil der Stadt, hatte berühmter Lehrer/ Ahnenreihe, sehr arrogant
 
 
+Nähergilde:
+Uckel: bestickt magische Dinge auf Stoff
+
+
 Heiler
 Çırak: Attakan, magischer Heiler, plappert viel, kann energetische Tränke brauen
 Kasimir: Sehr dubios, nicht so gut
