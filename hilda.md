@@ -122,12 +122,12 @@ tags: character
 |Überzeugen|2/5|
 |Irreführung|1/5|
 |Kulturenwissen|1/5|
-|Theologie|2/5|
 |Politik|2/5|
+|Theologie|2/5|
 |Hexe|3/5|
 |Kräuterkunde|1/5|
-|Survival|1/5|
 |Geschichtenerzählen|3/5|
+|Survival|1/5|
 
 Voller FP Überzeugen 11.03.
 Voller FP Erden 07.10.
