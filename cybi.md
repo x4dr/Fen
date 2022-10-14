@@ -142,10 +142,10 @@ tags:
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 
 ##Ausrüstung
-|Name|Anzahl|Gewicht|Beschreibung|
-|-|-|-|-|
-|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|
-|Leuchteblatt| 1 | - | Ein beschichtetes Blatt. Leuchtet halb so hell wie eine Fackel|
+|Name|Anzahl|Gewicht|Beschreibung|Ladung|
+|-|-|-|-|-|
+|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|6/10|
+
 
 ##Besitz
 |Name|Beschreibung|
