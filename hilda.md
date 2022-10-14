@@ -81,8 +81,9 @@ tags: character
 |Heilen|2|
 |Kräuterkunde|1|
 |Gärtner|1|
-|Geschichtenerzählen|0|
 |Survival|0|
+|Geschichtenerzählen|0|
+
 
 
 ##Mystisch
