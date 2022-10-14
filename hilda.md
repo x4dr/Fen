@@ -97,7 +97,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|###Konzept| |
+|Konzept| |
 |Erden Quelle|2|
 |Fokus Konzept|2|
 |Leben Aspekt|2|
