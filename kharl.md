@@ -129,7 +129,7 @@ tags: character
 #Fortschritt
 1/5 Stil
 1/5 Autorität
-1/5 Tierzähmung
+2/5 Tierzähmung
 1/5 Etikette
 1/5 Kochen
 4/5 Elementarwissen
