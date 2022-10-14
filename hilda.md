@@ -334,7 +334,7 @@ Lyeom: Artefaktschmied, Konkurrent von Svenja, besserer Teil der Stadt, hatte be
 
 
 Nähergilde:
-Uckel: bestickt magische Dinge auf Stoff; wohlhabend geworden; mehrere Gesellen, darunter ein Atakan
+Uckel: bestickt magische Dinge auf Stoff; wohlhabend geworden; mehrere Gesellen, darunter ein Atakan; oberster seiner Gilde; macht "das beste Zeug" nach eigener Aussage
 
 
 Heiler
