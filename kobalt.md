@@ -118,6 +118,7 @@ Suchen: 1/5
 Fusarbeit: 2/5
 Aspekt: Arkan 3/5
 Konzept: Chaos Casting 2/5
+LightningCasting 1/5
 PerfektChaos 2/5
 Kraft: 1/5
 Ermitteln: 1/5
@@ -128,6 +129,7 @@ Lesen
 Schreiben
 Geheimsprache
 ReadEverywhere
+-> One vorteil relating to Climbing
 -> One Free Vortel
 
 #Inventar
