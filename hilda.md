@@ -61,6 +61,9 @@ tags: character
 |Magiewissen|2|
 |Waldwissen|1|
 |Kreaturenwissen|2|
+|Kulturenwissen|0|
+|Politik|0|
+|Theologie|0|
 
 
 ##Können
@@ -74,9 +77,12 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Hexe|0|
 |Heilen|2|
 |Kräuterkunde|1|
 |Gärtner|1|
+|Geschichtenerzählen|0|
+|Survival|0|
 
 
 ##Mystisch
