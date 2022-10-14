@@ -149,13 +149,15 @@ Voller FP Erden 07.10.
 |Gesellenbrief von Harika|Hilda ist Geselle der Lebensmagie von Harika||
 |Freundschaftshalskette von Harika|mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals||
 |aurisches Armband mit Drachenkopf|um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen||
-|||||
 
 
-
-| ~ Tinnef ~ |~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
+|Tinnef|Beschreibung|Anzahl|
+|-|-|-|
 |Artefaktenkugel|leuchtet mit Blitzen darin||
 |Riesenfangzahn|mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh||
+
+
+
 | ~ Werkzeuge ~ |~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~||
 |Dodekaeder aus Kristall|abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas|(benutzt 1/10)|
 |Messer|selbst desinfizierend für chirurgisches Arbeiten||
