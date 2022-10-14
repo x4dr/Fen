@@ -398,7 +398,7 @@ Bäckertochter Linda
 
 Müller:
 Malignis: Vater von Onus
-Adrik: Anwalt von Malignis Familie; hat Einfluss im "Gericht" der Stadt Eisenbach; saß im Gerichtsstand bei unserer Anklage, dass wir Onus aufgelauter und angegriffen hätten; niederträchtiger Lügner
+Adrik: Anwalt von Malignis Familie; hat Einfluss im "Gericht" der Stadt Eisenbach; saß im Gerichtsstand bei unserer Anklage, dass wir Onus aufgelauert und angegriffen hätten; niederträchtiger Lügner
 
 
 Schenken / Kneipe:
