@@ -126,6 +126,7 @@ Adrenalinflut
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
+|Zeichensprache|S|
 |Survival|SSSSS|
 |Fußarbeit|SSSSS|
 |Meucheln|SSSSS|
@@ -134,13 +135,13 @@ Adrenalinflut
 |Wächter|S|
 |Akrobatik|S|
 |Suchen|S|
-|Zeichensprache|S|
 |Okysa|SS|
 |Schattenschritt|S|
 |Widerstehen|SSS|
 |Belos|S|
 |Werfen|S|
 |Agent|SS|
+|Messa|S|
 
 #Inventar
 
