@@ -51,6 +51,7 @@ tags: character
 |Tratsch|1|
 |Autorität|1|
 |Empathie|1|
+|Politik|0|
 
 
 ##Mental
@@ -142,6 +143,7 @@ Adrenalinflut
 |Werfen|S|
 |Agent|SS|
 |Messa|S|
+|Politik|S|
 
 #Inventar
 
