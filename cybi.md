@@ -135,7 +135,7 @@ tags:
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
 |-|-|-|-|-|
-| Silber | 5 | 0,05 | 5s | Währung |
+| Silber | 0 | 0 | 0s | Währung |
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | 0,75 | Sieht teuer aus | Lichtkondensator |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme |
