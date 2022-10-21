@@ -114,7 +114,7 @@ tags: Hamus character
 |Lesen in schlechten Bedingungen|1|siehe title|
 
 #Fortschritt
-Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 3/5 Animal Companion 1/5 Ermitteln 2/5 Angeln 1/5 Layouts 2/5 Werfen 1/5 Munitionierer 2/5 Gassenwissen 1/5
+Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 3/5 Animal Companion 2/5 Ermitteln 2/5 Angeln 1/5 Layouts 2/5 Werfen 1/5 Munitionierer 1/5 Gassenwissen 1/5
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
 
