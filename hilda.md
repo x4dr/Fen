@@ -377,6 +377,7 @@ Gunter & Anton: Trottel
 
 
 Rabenleute:
+Rabendude: graue Haare, hager, gut gekleidet, ist auch mit einer 14 nicht zu lesen! wow; Taiem?
 Aghdar: ehemalige Wegediebin, aber grau; ist von weit her gekommen auf der Suche nach ihren Eltern; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
 
 
