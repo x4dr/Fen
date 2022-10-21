@@ -157,7 +157,7 @@ Voller FP Erden 07.10.
 |Gesellenbrief von Harika|Hilda ist Geselle der Lebensmagie von Harika||
 |Freundschaftshalskette von Harika|mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals||
 |aurisches Armband mit Drachenkopf|um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen||
-
+***
 
 |Tinnef|Beschreibung|Anzahl|
 |-|-|-|
