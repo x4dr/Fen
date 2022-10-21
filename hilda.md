@@ -359,6 +359,7 @@ Meisterin Elke (erhielt Dolch von Limasurobe)
 Meister Marten: interessiert sich nicht für shady, sondern Gesetzestreue und Verlässlichkeit 
 Atakan Meister Adalet
 Alrik: Geselle
+Lenz: Geselle
 
 
 Munitionierer
