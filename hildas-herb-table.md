@@ -140,7 +140,7 @@ Schaden zufügen & Gifte
 ||Störkirsche|Die Kirschen dieses Baumes schmecken sehr süß, lösen aber Wahnsinn aus, der bis zum Tod führen kann.|Bonus|
 |||||
 
-Noch nicht drin: (Käuter)
+Noch nicht drin: (Kräuter)
 Katzenfarn 
 Fieberfarn
 Adrawurzel
