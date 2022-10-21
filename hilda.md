@@ -124,7 +124,7 @@ tags: character
 |Kulturenwissen|1/5|
 |Politik|2/5|
 |Theologie|2/5|
-|Hexe|3/5|
+|Hexe|4/5|
 |Kräuterkunde|1/5|
 |Geschichtenerzählen|3/5|
 |Survival|1/5|
