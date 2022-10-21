@@ -356,7 +356,7 @@ Nyskurni: Mitbewohner von Isban
 
 Metallgilde
 Meisterin Elke (erhielt Dolch von Limasurobe) 
-Meister Marten: interessiert sich nicht für shady, sondern Gesetzestreue und Verlässlichkeit; emotionaler Wert: gute (Handwerks-)Arbeit
+Meister Marten: interessiert sich nicht für shady, sondern Gesetzestreue und Verlässlichkeit; emotionaler Wert: gute (Handwerks-)Arbeit; ist ein Mann von sehr harten, aber sehr seltsamen Prinzipien
 Atakan Meister Adalet
 Alrik: Geselle
 Lenz: Geselle
