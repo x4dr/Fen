@@ -121,6 +121,8 @@ tags:
 |Trophogene Toxizität | Wirkungen der Nahrung werden auf das Kontaktgift übertragen|
 |Detoxifikation | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt |
 
+#Zauber
+[[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
 
 #Fortschritt
 |Fähigkeit|EXP|
