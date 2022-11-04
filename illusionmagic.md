@@ -34,7 +34,7 @@ Der Zaubernde legt ein Ziel fest markiert an einem Körper (seinem, dem eines an
 **Kosten**: Initial/Modifikation 1, je abgeschlossene 10 Minuten weitere 1 und Wurf-Refresh 
 **Zauberzeit**: 1, dann gechannelt
 (erste runde wird nur gezaubert, zweite Runde ist der Wurf und aufbauende Illusion, dritte Runde steht die Illusion und Cybis leuchten ist nicht mehr sichtbar)
-Cybi projeziert eine auf sie zentrierte Kugel, die abhänger-position-abhängig (also realistisch) darstellt was sie von ihrer Umwelt weiß/selbst gesehen hat.
+Cybi projeziert eine auf sie zentrierte Kugel, die anwender-position-abhängig (also realistisch) darstellt was sie von ihrer Umwelt weiß/selbst gesehen hat.
 Störungen der Oberfläche durch Projektile, Waffen, Werkzeuge oder Personen die sie durchqueren, lassen für den gesamten Rest der Runde das Bild verzerren und halbdurchsichtig werden.
 Beim initialen Zauber können Optionen Festgelegt werden, danach können Optionen nur durch einen Modifikationwurf geändert werden:
 Modifikation beinhält das ausgeben eines weiteren Energiepunkts, eine Runde Zauberzeit und das neu würfeln. Die Modifikation darf abgebrochen werden (der Energiepunkt bleibt ausgegeben) wenn das Ergebnis schlechter wär oder die Situation während der Zauberzeit geändert hat.
