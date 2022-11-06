@@ -77,7 +77,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Hexe|0|
+|Hexe|1|
 |Heilen|2|
 |Kräuterkunde|1|
 |Gärtner|1|
@@ -124,7 +124,7 @@ tags: character
 |Kulturenwissen|1/5|
 |Politik|2/5|
 |Theologie|2/5|
-|Hexe|4/5|
+|Hexe|0/5|
 |Kräuterkunde|1/5|
 |Geschichtenerzählen|3/5|
 |Survival|1/5|
@@ -132,6 +132,7 @@ tags: character
 
 Voller FP Überzeugen 11.03.
 Voller FP Erden 07.10.
+Voller FP Hexe 04.11.
 
 #Vorteile
 |Vorteil|gesammelt|
