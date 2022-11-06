@@ -144,6 +144,7 @@ Adrenalinflut
 |Agent|SS|
 |Messa|S|
 |Politik|S|
+|Autorität|S|
 
 #Inventar
 
