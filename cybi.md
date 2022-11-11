@@ -130,9 +130,9 @@ tags:
 |Handel|1/5|
 |Tanas Bindung|1/5|
 |Empathie|1/5|
-|Irreführung|2/5|
 |Smalltalk|1/5|
 |Tanz|2/5|
+|Irreführung|3/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
@@ -146,7 +146,8 @@ tags:
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|6/10|
+|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|5/10|
+|Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 
 
 ##Besitz
