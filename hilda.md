@@ -371,6 +371,9 @@ Geselle Jakob: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift 
 Schwertwächter:
 Sokol: Falkenreiter, Schwertwächter
 
+Wächter der Königin:
+Alfred: Wache am Tor
+
 Stadtwache:
 Konstantin: Meister der Wache, haben ihm geholfen den Turm von Dieben zu befreien (Gefallen)
 Sybille: fähig, Armbrustschützin
@@ -382,6 +385,7 @@ Rabenleute:
 Rabendude: graue Haare, hager, gut gekleidet, ist auch mit einer 14 nicht zu lesen! wow; Taiem?
 Aghdar: ehemalige Wegediebin, aber grau; ist von weit her gekommen auf der Suche nach ihren Eltern; jetzt im Dienst der Rabenleute/ Taiems Leute, haben wir geholfen
 Gloria: Wer ist das? Braucht mins 1 1/2 Wochen um etwas zu investigaten; jemensch im 3. Heerschild
+
 
 Boten:
 Berit: Botenmeister
