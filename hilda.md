@@ -122,7 +122,7 @@ tags: character
 |Überzeugen|2/5|
 |Irreführung|1/5|
 |Kulturenwissen|1/5|
-|Politik|2/5|
+|Politik|3/5|
 |Theologie|2/5|
 |Hexe|0/5|
 |Kräuterkunde|1/5|
