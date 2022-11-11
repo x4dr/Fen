@@ -371,8 +371,11 @@ Geselle Jakob: schuldet mir sein Leben wg. chemikalischer Vergiftung/ Gegengift 
 Schwertwächter:
 Sokol: Falkenreiter, Schwertwächter
 
+Burg:
+Franz: Wache am Tor
+
 Wächter der Königin:
-Alfred: Wache am Tor
+Alfred: Wache am Eingang des Anwesens
 
 Stadtwache:
 Konstantin: Meister der Wache, haben ihm geholfen den Turm von Dieben zu befreien (Gefallen)
