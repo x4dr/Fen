@@ -143,7 +143,7 @@ Adrenalinflut
 |Werfen|S|
 |Agent|SS|
 |Messa|S|
-|Politik|S|
+|Politik|SS|
 |Autorität|S|
 
 #Inventar
