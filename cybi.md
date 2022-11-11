@@ -23,7 +23,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 | Fußarbeit | 1 |
-| Kontrolle | 1 |
+| Körperkontrolle | 1 |
 | Feinmotorik | 1 |
 | Reflexe | 1 |
 
