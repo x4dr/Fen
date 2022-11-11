@@ -130,7 +130,7 @@ tags: character
 1/5 Stil
 1/5 Autorität
 2/5 Tierzähmung
-2/5 Etikette
+3/5 Etikette
 1/5 Kochen
 4/5 Elementarwissen
 1/5 Tratsch
