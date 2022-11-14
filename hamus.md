@@ -28,7 +28,7 @@ tags: Hamus character
 |Kontrolle|1|
 |Fußarbeit|1|
 |Kraft|1|
-|Handgemenge|1|
+|Handgemenge|0|
 
 
 ##Sozial
