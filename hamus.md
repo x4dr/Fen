@@ -152,8 +152,8 @@ tags: Hamus character
 |Orbus|Hamus adoptive Rabe wer wen adoptiert ist noch unklar||
 |pugna|Hamus Mutter, aufbrausend/anpackend hart aber Fair|tot|
 |Placidus|Hamus Vater, ruhig/bedacht, weiß was zu tun ist|vielleicht tot|
-|Akta (Greeneye senpai)|Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick|Unaufällig ,ermitteln (auf dem Kopf lesen), generelle sozial|
-|Mal|freudlicher Ganove, befreundet mit Hamus Eltern, white collor crime|con artist/dinge Ausspähen |
+|Akta (Greeneye senpai)|Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick|Unaufällig ,ermitteln, generelle sozial|
+|Mal|freudlicher Ganove, befreundet mit Hamus Eltern, white collor crime|con artist/dinge Ausspähen, Money |
 |Raben Dude|einer von Tajams Vassallen, unsichtbar af, kennt Eltern? ||
 
 
