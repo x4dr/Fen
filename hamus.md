@@ -126,7 +126,7 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 4/5 Ani
 
 #Kontakte
 |Name|Beschreibung|Perks|
-|l|l|l|
+|-|-|-|
 |pugna|Hamus Mutter, aufbrausend/anpackend hart aber Fair|tot|
 |Placidus|Hamus Vater, ruhig/bedacht, weiß was zu tun ist|vielleicht tot|
 |Akta (Greeneye senpai)|Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick|Unaufällig ,ermitteln (auf dem Kopf lesen), generelle sozial|
