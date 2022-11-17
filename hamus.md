@@ -112,21 +112,28 @@ tags: Hamus character
 |Aurisch sprechen|1||
 |Gebärendsprache|1||
 |Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
-|Lesen in schlechten Bedingungen|1|siehe title|
+|Lesen in schlechten Bedingungen|1|Ob bei wenig Licht oder auf dem Kopf, Hamus weiß was da steht|
 
 #Fortschritt
 Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 4/5 Animal Companion 2/5 Ermitteln 3/5 Angeln 1/5 Layouts 2/5 Werfen 1/5 Munitionierer 1/5 Gassenwissen 1/5
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
-
-
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
+#Artefakte
+|Name|Beschreibung|Wirkung|
+|-|-|-|
+|Bernsteinherz|Ein herzförmigerbrocken Bernstein|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
+|Wind Kunai|3 Kunai mit gewellter Klinge| ?? vermutlich was mit wind in Wurfrichtung??|
+|Wand Kunai|3 Kunai bedeckt mit einem Ziegelmuster| Erzeugt eine vom Kunai sich kreisförmig ausdehnende Wand, Kunai kann von beiden Seiten erreicht werden|
+|Festes Kunai|3 Kunai, die leichten lag in ihrer Bewegung haben|?? macht das Ziel unbeweglich??|
+|Teleport Kunai|3 Kunai mit einem abgerundeten Mondsichel verziert| kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT|
 
-#Kontakte
+#Personen
 |Name|Beschreibung|Perks|
 |-|-|-|
+|Orbus|Hamus adoptive Rabe wer wen adoptiert ist noch unklar||
 |pugna|Hamus Mutter, aufbrausend/anpackend hart aber Fair|tot|
 |Placidus|Hamus Vater, ruhig/bedacht, weiß was zu tun ist|vielleicht tot|
 |Akta (Greeneye senpai)|Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick|Unaufällig ,ermitteln (auf dem Kopf lesen), generelle sozial|
@@ -136,10 +143,6 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 4/5 Ani
 
 ##Ausrüstung
 Notgroschen 12,75s +1 wertvoller Edelstein (Vom expoldierten Heist)   
-
-Berstein Herz: erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen  
-Spikes :3xKehrt zurück(mit Umgebung,skaliert mit Größe,Teleport), 3x Fixiert,3xWind, 3xWand (Dehnt sich vom Spike kreisförmig aus, kann von beiden seiten gegriffen werden, fällt dann von außen nach innen zusammen)  
-
 
 
 
