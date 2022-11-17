@@ -116,7 +116,7 @@ tags: Hamus character
 
 #Fortschritt
 |Skill|aktuell|ganze Level|
-|-|-|
+|-|-|-|
 |Instinkt| 2/5|0|
 |Unauffällig| 4/5|0|
 |Spinnensin| 4/5|0|
