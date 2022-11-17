@@ -115,7 +115,7 @@ tags: Hamus character
 |Lesen in schlechten Bedingungen|1|Ob bei wenig Licht oder auf dem Kopf, Hamus weiß was da steht|
 
 #Fortschritt
-|Skill|aktuell|ganze Level|
+|Skill|V.|lvl|
 |-|-|-|
 |Instinkt| 2/5|0|
 |Unauffällig| 4/5|0|
@@ -123,12 +123,12 @@ tags: Hamus character
 |Zielsicher| 0/5|1|
 |Infiltrator| 4/5|0|
 |Animal Companion| 2/5|0|
-| Ermitteln |3/5|0|
-| Angeln |1/5|0|
-| Layouts| 2/5|0|
-| Werfen| 1/5|0|
-| Munitionierer| 1/5|0|
-| Gassenwissen |1/5|0|
+|Ermitteln |3/5|0|
+|Angeln |1/5|0|
+|Layouts| 2/5|0|
+|Werfen| 1/5|0|
+|Munitionierer| 1/5|0|
+|Gassenwissen |1/5|0|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
