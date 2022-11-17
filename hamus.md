@@ -125,7 +125,7 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 4/5 Ani
 #Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
-|Bernsteinherz|Ein herzförmigerbrocken Bernstein|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
+|Bernsteinherz|Ein herzförmigerbrocken Bernstein mit einem dunklen Kern|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
 |Wind Kunai|3 Kunai mit gewellter Klinge| ?? vermutlich was mit wind in Wurfrichtung??|
 |Wand Kunai|3 Kunai bedeckt mit einem Ziegelmuster| Erzeugt eine vom Kunai sich kreisförmig ausdehnende Wand, Kunai kann von beiden Seiten erreicht werden|
 |Festes Kunai|3 Kunai, die leichten lag in ihrer Bewegung haben|?? macht das Ziel unbeweglich??|
