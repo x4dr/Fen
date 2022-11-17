@@ -141,9 +141,9 @@ tags: Hamus character
 |-|-|-|
 |Bernsteinherz|Ein herzförmigerbrocken Bernstein mit einem dunklen Kern|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
 |Puzzelbox|eine Flache Platte die einmal eine Komplexen Puzzelbox war |kann wieder aufgefaltet werden, Fassungsvermögen ca ein Faustgroßer Gegenstand|
-|Wind Kunai|3 Kunai mit gewellter Klinge| ?? vermutlich was mit wind in Wurfrichtung??|
+|Wind Kunai|3 Kunai mit Wellen auf den Klinge| ?? vermutlich was mit wind in Wurfrichtung??|
 |Wand Kunai|3 Kunai bedeckt mit einem Ziegelmuster| Erzeugt eine vom Kunai sich kreisförmig ausdehnende Wand, Kunai kann von beiden Seiten erreicht werden|
-|Festes Kunai|3 Kunai, die leichten lag in ihrer Bewegung haben|?? macht das Ziel unbeweglich??|
+|Festes Kunai|3 Kunai mit Kettenmuster bedeckt|?? macht das Ziel unbeweglich??|
 |Teleport Kunai|3 Kunai mit einem abgerundeten Mondsichel verziert| kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT|
 
 #Personen
