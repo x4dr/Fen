@@ -121,6 +121,7 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 4/5 Ani
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
+
 #Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
