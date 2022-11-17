@@ -124,15 +124,19 @@ Instinkt 2/5 /Unauffällig 4/5 Spinnensin 4/5 Zielsicher 5/5 Infiltrator 4/5 Ani
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
 
-|||||
-|pugna|Placidus|||
+#Kontakte
+|Name|Beschreibung|Perks|
+|l|l|l|
+|pugna|Hamus Mutter, aufbrausend/anpackend hart aber Fair|tot|
+|Placidus|Hamus Vater, ruhig/bedacht, weiß was zu tun ist|vielleicht tot|
+|Akta (Greeneye senpai)|Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick|Unaufällig ,ermitteln (auf dem Kopf lesen), generelle sozial|
+|Mal|freudlicher Ganove, befreundet mit Hamus Eltern, white collor crime|con artist/dinge Ausspähen |
+|Raben Dude|einer von Tajams Vassallen, unsichtbar af, ||
 
 
 ##Ausrüstung
-Notgroschen 12,75s +1 wertvoller Edelstein  
-Skill Zugänge:  
-Green senpai: Unaufällig im Hintergrund stehen/ wieder hinstellen/ ermitteln _auf dem Kopf lesen/ generelle sozial  
-Mal: con artist/dinge Ausspähen  
+Notgroschen 12,75s +1 wertvoller Edelstein (Vom expoldierten Heist)   
+
 Raben dude: Spy shit / viele Botengänge   
 Berstein Herz: erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen  
 Spikes :3xKehrt zurück(mit Umgebung,skaliert mit Größe,Teleport), 3x Fixiert,3xWind, 3xWand (Dehnt sich vom Spike kreisförmig aus, kann von beiden seiten gegriffen werden, fällt dann von außen nach innen zusammen)  
