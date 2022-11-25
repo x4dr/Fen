@@ -158,7 +158,7 @@ tags: Hamus character
 
 
 ##Ausrüstung
-Notgroschen 12,75s +1 wertvoller Edelstein (Vom expoldierten Heist)   
+Notgroschen 12,75s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann   
 
 
 
