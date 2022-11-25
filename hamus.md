@@ -121,7 +121,7 @@ tags: Hamus character
 |Unauffällig| 4/5|0|
 |Spinnensin| 4/5|0|
 |Zielsicher| 0/5|1|
-|Infiltrator| 4/5|0|
+|Infiltrator| 0/5|1|
 |Animal Companion| 2/5|0|
 |Ermitteln |3/5|0|
 |Angeln |1/5|0|
