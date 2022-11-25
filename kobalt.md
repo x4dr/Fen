@@ -122,6 +122,7 @@ LightningCasting 1/5
 PerfektChaos 2/5
 Kraft: 1/5
 Ermitteln: 1/5
+Runic assembly: 1/5
 
 
 #Vorteile
