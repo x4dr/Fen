@@ -169,7 +169,7 @@ Voller FP Hexe 04.11.
 
 |Werkzeuge|Beschreibung|Anzahl|
 |-|-|-|
-|Dodekaeder aus Kristall|abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas|(benutzt 1/10)|
+|Dodekaeder aus Kristall|abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas|(benutzt 2/10)|
 |Messer|selbst desinfizierend für chirurgisches Arbeiten||
 |Sichel|besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden||
 ***
