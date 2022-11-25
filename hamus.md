@@ -82,7 +82,7 @@ tags: Hamus character
 |-|-|
 |Unauffällig|2|
 |Fischer|1|
-|Infiltrator|1|
+|Infiltrator|2|
 |Apraisal|0|
 |Munitionierer|0|
 
