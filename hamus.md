@@ -81,8 +81,8 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Unauffällig|2|
-|Fischer|1|
 |Infiltrator|2|
+|Fischer|1|
 |Apraisal|0|
 |Munitionierer|0|
 
