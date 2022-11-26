@@ -129,7 +129,6 @@ Beispiel:
 * Die oben genannte Telekineseaktion könnte formalisiert werden mit 3 Runden Zeitanforderung, Berührungsreichweite, einer Quellanforderung von 5 und dann den selben Effekt auf die Tür haben wie ein Dietrich der mit dem Effektwurf angewendet wurde.
 
 
-
 # Anderes
 Dringend Ideen gesucht!
 
@@ -226,10 +225,21 @@ Spielleiter Option: Wurf als 6,7,8,9,10 annehmen (Maluswürfel dann 5-1)
 + 1 Punkt. 1 Punkt kann nach dem Würfeln verwendet werden, um stattdessen neu zu würfeln
 Eine Zielen-basierte 1-er Resonanz mit negativen Konsequenzen füllt einen Punkt wieder auf
 
-
 **Stufe 3** 
 + 1 Punkt. 1 Punkt kann genutzt werden um sämtliche Bonus und Maluswürfel eines Wurfes (durch Umwelt und aufgeteilte Aktionen) einer entsprechend gezielten Handlung zu ignorieren.
 Beliebige 1-er Resonanzen bei allen Handlungen des Charakters füllen einen Punkt auf
+
+### Durchdringender Blick
+
+**Stufe 1**
+Direkter Augenkontakt kann benutzt werden um die angeschaute Person eine Runde zu stunnen. Massiv abnehmende Effektivität bei weiteren malen innerhalb kurzer Zeit. 
+
+**Stufe 2**
+Augenkontakt kann aufrechtgehalten werden, andere partei kann nicht weggucken
+
+**Stufe 3**
+???
+
 
 ## Ansätze
 
