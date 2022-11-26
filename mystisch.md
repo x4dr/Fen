@@ -232,10 +232,12 @@ Beliebige 1-er Resonanzen bei allen Handlungen des Charakters füllen einen Punk
 ### Durchdringender Blick
 
 **Stufe 1**
-Direkter Augenkontakt kann benutzt werden um die angeschaute Person eine Runde zu stunnen. Massiv abnehmende Effektivität bei weiteren malen innerhalb kurzer Zeit. 
+Direkter Augenkontakt kann benutzt werden um die angeschaute Person eine Runde handlungsunfähig zu machen, solange keine direkte Lebensgefahr oder größere Ablenkung besteht. Massiv abnehmende Effektivität bei weiterer Benutzung innerhalb kurzer Zeit, zB gebrochene Konzentration oder innehalten beim Sprechen oder 1 Maluswürfel für Kampfhandlungen. 
+Flavor ist dem Anwender überlassen, zB streng, bedeutsam, "einen Moment steht die Zeit still" o.ä.
+Ziel kann einfach die Augen abwenden.
 
 **Stufe 2**
-Augenkontakt kann aufrechtgehalten werden, andere partei kann nicht weggucken
+Augenkontakt kann beliebig lange aufrechterhalten werden, Ziel kann nicht wegschauen.
 
 **Stufe 3**
 ???
