@@ -38,7 +38,7 @@ tags: character
 |-|-|
 |Autorität|2|
 |Überzeugen|1|
-|Empathie|1|
+|Empathie|2|
 |Tratsch|1|
 |Handel| 1 |
 |Irreführung|2|
@@ -118,7 +118,6 @@ tags: character
 #Fortschritt
 |Fähigkeit|gesammelt|
 |:-|:-|
-|Empathie|4/5|
 |Überzeugen|2/5|
 |Irreführung|1/5|
 |Kulturenwissen|1/5|
@@ -134,6 +133,7 @@ tags: character
 Voller FP Überzeugen 11.03.
 Voller FP Erden 07.10.
 Voller FP Hexe 04.11.
+Voller FP Empathie 02.12.
 
 #Vorteile
 |Vorteil|gesammelt|
