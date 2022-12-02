@@ -140,6 +140,7 @@ tags: character
 1/5 Kontrolle 
 1/5 Körperinfusion
 1/5 MystAlc
+1/5 Überzeugen
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
