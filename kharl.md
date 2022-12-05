@@ -127,19 +127,20 @@ tags: character
 
 
 #Fortschritt
-1/5 Stil
-1/5 Autorität
-2/5 Tierzähmung
-3/5 Etikette
-1/5 Kochen
-4/5 Elementarwissen
-1/5 Tratsch
 3/5 Alchemie
-1/5 Irreführung
+1/5 Autorität
+4/5 Elementarwissen
+3/5 Etikette
 2/5 Fallensteller
+1/5 Irreführung
+1/5 Kochen
 1/5 Kontrolle 
 1/5 Körperinfusion
 1/5 MystAlc
+1/5 Survival
+1/5 Stil
+2/5 Tierzähmung
+1/5 Tratsch
 1/5 Überzeugen
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
