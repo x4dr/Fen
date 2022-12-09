@@ -145,7 +145,7 @@ tags: character
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
-1 Probe Holzwolf
+1 Probe Holzwolf, 20 x0.5l Terpentin
 
 ##Ausrüstung
 Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things
