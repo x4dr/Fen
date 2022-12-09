@@ -98,8 +98,6 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Erden Quelle|2|
-|###Quelle||
-|-|-|
 |Fokus Konzept|2|
 |Leben Aspekt|2|
 |Scrying Aspekt|1|
