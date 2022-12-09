@@ -137,7 +137,7 @@ Adrenalinflut
 |Akrobatik|S|
 |Suchen|S|
 |Okysa|SS|
-|Schattenschritt|S|
+|Schattenschritt|SS|
 |Widerstehen|SSS|
 |Belos|S|
 |Werfen|S|
