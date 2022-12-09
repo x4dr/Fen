@@ -127,6 +127,7 @@ tags: character
 
 
 #Fortschritt
+1/5 Quelle Elementare
 3/5 Alchemie
 1/5 Autorität
 4/5 Elementarwissen
