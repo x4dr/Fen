@@ -137,11 +137,11 @@ tags:
 |-|-|
 |Handel|1/5|
 |Empathie|1/5|
-|Smalltalk|1/5|
 |Tanz|2/5|
 |Irreführung|3/5|
-|Ausdauer|1/5|
 |Tanas Bindung|2/5|
+|Smalltalk|2/5|
+|Ausdauer|2/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
