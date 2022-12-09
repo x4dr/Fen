@@ -125,7 +125,7 @@ tags: character
 |Theologie|2/5|
 |Hexe|0/5|
 |Kräuterkunde|1/5|
-|Geschichtenerzählen|3/5|
+|Geschichtenerzählen|4/5|
 |Survival|1/5|
 |Ilargia|0/5|
 |First Sight|1/5|
