@@ -114,6 +114,14 @@ tags:
 |Illusion| 2 |
 |Manifestation|1|
 
+##Narrativ
+###Attribute 
+|Attribut|Level|
+|-|-|
+| Schicksal | 4 |
+| Gunst | 5 |
+| Wille | 1 |
+
 #Vorteil
 |Fähigkeit|Beschreibung|
 |-|-|
