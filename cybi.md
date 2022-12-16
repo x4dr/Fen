@@ -149,7 +149,7 @@ tags:
 | Silber | 1 | 1 | 1s | Währung |
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
 | Quarzflasche rote Flüssigkeit | 1 | 0,75 | Sieht teuer aus | Lichtkondensator |
-| Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme |
+| Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 9/10 |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 
 ##Ausrüstung
