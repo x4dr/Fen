@@ -142,15 +142,9 @@ Adrenalinflut
 |Belos|S|
 |Werfen|S|
 |Agent|SS|
-|Messa|S|
+|Messa|SS|
 |Politik|SSS|
 |Autorität|S|
-|Tratsch|S|
-
-|Tratsch|S|
-
-|Tratsch|S|
-
 |Tratsch|S|
 
 #Inventar
