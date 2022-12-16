@@ -120,6 +120,7 @@ tags: character
 |:-|:-|
 |Überzeugen|2/5|
 |Irreführung|1/5|
+|Navigation|1/5|
 |Kulturenwissen|1/5|
 |Politik|4/5|
 |Theologie|2/5|
