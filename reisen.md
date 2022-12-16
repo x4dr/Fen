@@ -2,9 +2,7 @@ title:
 tags:   
 [TOC]
 
-#Reisen
-
-##Proviant
+# Proviant
 
 Kosten/Gewicht sind pro Tag pro Person
 
@@ -21,7 +19,7 @@ Kosten/Gewicht sind pro Tag pro Person
 |Käse| 3m | 30k | 0.6kg | |
 |FertigRation| 7d | 50k | 0.5 | Stellt Erschöpfung wieder her, kann unterwegs gegessen werden|
 
-##Nahrhaftigkeit
+## Nahrhaftigkeit
 Es ist nicht Ziel eine Simulation einer ausgewogenen Ernährung zu schaffen, aber aus Preisgründen nur von Brot zu leben sollte Konsequenzen haben:
 Nüsse, Fleisch und Speck bieten Proteine
 Käse, Nüsse und Speck bieten Fett
@@ -30,7 +28,7 @@ Früchte und Gemüse bieten Vitamine
 Mehr als eine Woche ohne eines davon, resultiert in einem Maluswürfel pro Kategorie. Je nach Dauer der Mangelernährung, dauert es 1-8w um diesen Maluswürfel wieder loszuwerden.
 
 
-##Kochen
+## Kochen
 
 Ein Zutaten und Umgebungs gerechter Koch-wurf kann gemacht werden.
 Beim Lagerfeuerkochen können Lebensmittel die verarbeitet werden müssen (Fisch, Salzfleisch, ...) aufbereitet werden. 
@@ -46,7 +44,21 @@ Kochen benötigt Eine Ration an Zutaten pro Person die mit isst, Bei einem einzi
 | 11-13 | Beides
 | 14+ | Gourmet experience :) |
 
-##Reisen
+## Sammeln
+Sammeln/Jagen/Abbauen usw mit dem Entsprechenden Wurf:
+generischer Wurf (Survival bzw Suchen, bzw beides): 
+8 - 1 Ration / Ressource
+13 - 2 Rationen / Ressource
+
+Spezifischer Wurf (Waldwissen bzw Kräuterkunde):
+5 - 1 Ration
+8 - 1 Ration+   (Informationen, opportunity)
+11 - 2 Rationen
+14 - 2 Rationen+ 
+
+
+
+# Reisen
 
 Wurf ist bezüglich der Umgebung, also Wildnis -> Survival, Bergig -> Widerstand usw
 eine Kletterpartie könnte Kraft Akrobatik sein, als beispiel
@@ -59,19 +71,6 @@ Sammeln, Navigieren, Planen, Erkunden, Ausruhen (-1 Erschöpfung 1x pro Tag)
 
 große Reiseaktionen: 
 Kochen, Lagerbau, Handwerksausführung, Ausruhen (-1 Erschöpfung, 1x pro Tag)
-
-###Sammeln
-Sammeln/Jagen/Abbauen usw mit dem Entsprechenden Wurf:
-generischer Wurf (Survival bzw Suchen, bzw beides): 
-8 - 1 Ration / Ressource
-13 - 2 Rationen / Ressource
-
-Spezifischer Wurf (Waldwissen bzw Kräuterkunde):
-5 - 1 Ration
-8 - 1 Ration+   (Informationen, opportunity)
-11 - 2 Rationen
-14 - 2 Rationen+ 
-
 
 ### Reisefortschritt
 
@@ -88,7 +87,7 @@ Reisevorteile:
  - Haushalten: Etappe verursacht halbierte Erschöpfung
  - Zeit rausholen: kleine Reisehandlung
 
-### Erschöpfung
+## Erschöpfung
 
 Erschöpfung sammelt sich im Verlauf einer Reise an: 
  - pro Etappe
@@ -106,9 +105,7 @@ Reisen, Handwerk/Wissen, Kampf, Alles
 
 Wenn alle dies jeweils einen Maluswürfel hat, fängt es bei Reisen wieder an.
 
-### Gefahren
-#### Nachtwache
-
+## Gefahren
 Es wird eine Wachreihenfolge festegelgt, wenn es ein Event gibt, ist die Wache dieser Schicht die einzige Person die ihren Wachehalten-wurf werfen muss.
 Wenn andere geweckt werden, zählt ihr Schlaf als Unterbrochen (aber ermöglicht potentiellerweise Ausschlafen, wenn sonst durchschlafen möglich gewesen wäre).
 
@@ -123,8 +120,8 @@ Wenn andere geweckt werden, zählt ihr Schlaf als Unterbrochen (aber ermöglicht
 
 Ausschlafen in diesem Fall wäre das Ausgeben der ersten kleinen Reiseaktion des Tages um weiterzuschlafen, Es muss währenddessen mindestens eine Person wach sein, sonst ist dort eine "unbewachte" Wachschicht
 
-#### Unfälle
+### Unfälle
 Verletzungen können auftreten, wenn Erschöpfung > Wurf+Sicherheit der Route ist.
 
-#### Informationskampf
+### Informationskampf
 Es können als Reiseaktionen Tarnung/Falsche fährten/Scouting Aktionen usw vollbracht werden um andere Reisende/In der nähe Befindliche Parteien aufzuspüren bzw sich vor ihnen zu verstecken
