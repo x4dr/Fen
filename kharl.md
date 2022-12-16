@@ -137,7 +137,7 @@ tags: character
 1/5 Kochen
 1/5 Kontrolle 
 1/5 Körperinfusion
-1/5 MystAlc
+2/5 MystAlc
 1/5 Survival
 1/5 Stil
 2/5 Tierzähmung
