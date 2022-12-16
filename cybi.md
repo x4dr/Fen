@@ -142,6 +142,7 @@ tags:
 |Tanas Bindung|2/5|
 |Smalltalk|2/5|
 |Ausdauer|2/5|
+|Zielgenauigkeit|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
