@@ -142,8 +142,8 @@ Voller FP Empathie 02.12.
 |Zeichensprache |kommunizieren ohne Laute|
 |Skillsharing |Fähigkeiten & Wissen von anderen auch beim Zaubern nutzen können|
 |Akquisepunkt Medkit|2|
-|Akquisepunkt Kräuter|2|
-
+|Akquisepunkt Kräuter|1|
++ Akquisepunkte aus Skills
 
 #Inventar
 
