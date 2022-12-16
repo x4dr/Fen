@@ -143,7 +143,8 @@ Voller FP Empathie 02.12.
 |Skillsharing |Fähigkeiten & Wissen von anderen auch beim Zaubern nutzen können|
 |Akquisepunkt Medkit|2|
 |Akquisepunkt Kräuter|1|
-+ Akquisepunkte aus Skills
+
++ plus Akquisepunkte aus Skills
 
 #Inventar
 
