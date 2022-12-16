@@ -178,7 +178,7 @@ Voller FP Empathie 02.12.
 |-|-|-|
 |lila, kleiner Pilz|Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt|eine Dosis|
 |durchsichtige Glitzerpilze|hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin||
-|Zoarksgebot|Stasis, wenn lebenden und nichtlebenden Dingen|
+|Zoarksgebot|Stasis, von lebenden und nichtlebenden Dingen|
 
 
 
