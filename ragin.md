@@ -138,7 +138,7 @@ Adrenalinflut
 |Suchen|S|
 |Okysa|SS|
 |Schattenschritt|SS|
-|Widerstehen|SSS|
+|Widerstehen|SSSS|
 |Belos|S|
 |Werfen|S|
 |Agent|SS|
