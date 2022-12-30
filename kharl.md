@@ -127,7 +127,7 @@ tags: character
 
 
 #Fortschritt
-2/5 Quelle Elementare
+1/5 Quelle Elementare
 3/5 Alchemie
 1/5 Autorität
 4/5 Elementarwissen
@@ -136,7 +136,7 @@ tags: character
 1/5 Irreführung
 1/5 Kochen
 1/5 Kontrolle 
-1/5 Körperinfusion
+2/5 Körperinfusion
 2/5 MystAlc
 1/5 Survival
 1/5 Stil
