@@ -123,7 +123,7 @@ tags: character
 |Navigation|1/5|
 |Kulturenwissen|1/5|
 |Politik|4/5|
-|Theologie|2/5|
+|Theologie|3/5|
 |Hexe|0/5|
 |Kräuterkunde|1/5|
 |Geschichtenerzählen|4/5|
