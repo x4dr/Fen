@@ -123,6 +123,7 @@ PerfektChaos 3/5
 Kraft: 1/5
 Ermitteln: 1/5
 Runic assembly: 2/5
+Ausdauer: 1/5
 
 
 #Vorteile
