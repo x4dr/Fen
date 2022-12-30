@@ -119,7 +119,7 @@ tags: Hamus character
 |-|-|-|
 |Instinkt| 2/5|0|
 |Unauffällig| 4/5|0|
-|Spinnensin| 4/5|0|
+|Spinnensin| 5/5|0|
 |Zielsicher| 0/5|1|
 |Infiltrator| 0/5|1|
 |Animal Companion| 2/5|0|
