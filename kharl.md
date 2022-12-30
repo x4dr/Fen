@@ -78,7 +78,7 @@ tags: character
 | Theorie | 2 |
 | Praxis | 2 |
 | Einblick | 1 |
-
+|Suchen|1|
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -88,7 +88,7 @@ tags: character
 |Alchemie|2|
 |Survival|1|
 |Kochen|2|
-|Suchen|1|
+
 
 
 
