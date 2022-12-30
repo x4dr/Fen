@@ -68,7 +68,7 @@ tags: character
 |Taktik|1|
 |Forschen|1|
 |Elementarwissen|2|
-
+|Suchen|1|
 
 
 ##Können
@@ -78,7 +78,7 @@ tags: character
 | Theorie | 2 |
 | Praxis | 2 |
 | Einblick | 1 |
-|Suchen|1|
+
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
