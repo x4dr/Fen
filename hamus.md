@@ -136,6 +136,7 @@ tags: Hamus character
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
+|Sural-Segen|2|0|0|
 
 #Artefakte
 |Name|Beschreibung|Wirkung|
