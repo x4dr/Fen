@@ -99,8 +99,8 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Spurenlos|2|
 |Gefahrensin|3|
+|Spurenlos|2|
 |Atemtechnik|1|
 |Tiergefährte|1|
 |Zielsicher|1|
