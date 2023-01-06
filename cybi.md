@@ -158,7 +158,7 @@ tags:
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|8/10|
+|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|7/10|
 |Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern|?|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 
