@@ -114,7 +114,7 @@ tags: Hamus character
 |Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
 |Lesen in schlechten Bedingungen|1|Ob bei wenig Licht oder auf dem Kopf, Hamus weiß was da steht|
 
-Plänklermodus, allgemeine fernkampfdinge
+want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
