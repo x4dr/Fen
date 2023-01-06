@@ -138,7 +138,6 @@ Parkour
 
 #Inventar
 
-M<agisher Wanderstein fuer ausdauer
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
