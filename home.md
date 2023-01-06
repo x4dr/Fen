@@ -15,13 +15,19 @@ Der Selektor "1" wählt den niedrigsten würfel aus, "2" den zweitniegrigsten un
 Der Selektor "0" wähl keinen würfel aus (ein wert von 0)
 Selektoren mit einem Wert höher als die Anzahl der würfel, wählen stattdessen den höchsten Würfel aus.
 
-## Lebenspunkte
-10+10*Ausdauer HP
-
 #Tragekapazität
 ##Reisen
 
-(Konstitution&times;2+Körperkraft)&times; 5 kg für unbehindertes Reisen, setzt entsprechende Rucksäcke und Taschen vorraus Jede Überschreitung um (Konstitution&times;2+Körperkraft) &times; 2 kg, erteilt eines Maluswürfel auf Körperliche Aktivitäten und erfordert einen Konstitution-Schwerathletik Wurf (15+ ist 100% Reisegeschwindikeit)
+(Konstitution&times;2+Relevante Fähigkeiten)&times; 5 kg für unbehindertes Reisen, setzt entsprechende Rucksäcke und Taschen vorraus Jede Überschreitung um (Konstitution&times;2+Relevante Fähigkeiten) &times; 2 kg, erteilt eines Maluswürfel auf Körperliche Aktivitäten/Reisen.
+
+### Relevante Fähigkeiten
+
+ - Widerstehen/Widerstand
+ - Kraft
+ - Berufe Reisender/Bote/Händler/Waldhüter o.ä.
+
+und andere Fähigkeiten die auf das langfristige Tragen von Gepäck/zurücklegen langer strecken spezialisiert sind. 
+nicht relevant sind Survival, Fußarbeit, Rennen und ähnliche "aktive" skills die nicht direkt auf das Tragen spezialisiert sind.
 
 ##Kämpfen
 
