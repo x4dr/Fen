@@ -152,6 +152,7 @@ tags:
 | Quarzflasche rote Flüssigkeit | 1 | 0,75 | Sieht teuer aus | Lichtkondensator |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
+| Artefakt | 1 | - | - | Beschädigt, blauer Stein, Schneeresonanz. Kann zu Bonus-EXP zerstört werden. |
 
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
