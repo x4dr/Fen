@@ -132,7 +132,8 @@ Schreiben
 Geheimsprache
 ReadEverywhere
 Parkour
--> One Free Vortel
+-> THIS WILL BE LIGHTING TELEPORTATION
+
 
 #Inventar
 
