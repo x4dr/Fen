@@ -2,7 +2,59 @@ title:
 tags:   
 [TOC]
 
-# Proviant
+# Lagern
+
+Das Lager errichten sind je nach umgebung Unterschiedliche Handlungen, der Wurf repräsentiert Dinge wie
+ - eine gute Stelle finden
+ - ein Feuer bauen
+ - Latrine Graben
+ - Windschutz
+
+auf Reisen zu übernachen löst erschöpfung aus für:
+ - Wetter (0+) durch wind + wind + Kälte)
+ - Schlafqualität (meist 1)
+ - Schlafdauer (wenn verkürzt 1, bei durchmachen 2 +1 pro ausgefallenem Schlaf)
+ - Nahrung (bei keiner Nahrung 1 + anzahl geskippter mahlzeiten)
+
+Alle Leute die am Lagerbau teilnehmen machen einen Wurf. Alle Würfe werden um 5 gesenkt und aufaddiert. Das Ergebnis/3 ist die Menge an Lagerfeatures die das Lager haben kann. (für eine Person als 5/8/11/14/17/20)
+ 
+## Lagerfeatures
+ - Feuer 
+ - bessere Schlafqualität 
+ - Verteidigungsvorteil 
+ - Wachvorteil
+ - Wettergeschützt
+
+Je nach Situation und Vorteilen können features mehrfach gewählt werden, teilweise für erhöhte Kosten. 
+Auf einer friedlichen Lichtung ist es möglich nicht nur den Schlafqualitätsmalus auszugleichen für 1 Punkt, sondern für insgesamt 3 Punkte Sogar einen erholsamen Schlaf zu ermöglichen. Im tiefen Wald könnten es 5 sein und auf einem Berg ist es nicht unbedingt möglich, das mit Reiselagerbau zu machen. Eine Hütte/ein Haus errichten ist nicht von diesen Regeln abgedeckt und würde auch kein Survival mehr verwenden.
+
+## Nahrung
+
+Ein Zutaten und Umgebungs gerechter Koch-wurf kann gemacht werden.
+Beim Lagerfeuerkochen können Lebensmittel die verarbeitet werden müssen (Fisch, Salzfleisch, ...) aufbereitet werden. 
+Eine Küche kann zum haltbarmachen/vorbereiten von Rationen genutzt werden.
+
+Kochen benötigt eine Ration an Zutaten pro Person.
+
+| Umstände     | Modifikator |
+| ------------ | ----------- |
+| nur 1 Zutat  | -1          |
+| 3 Zutaten    | +1          |
+| 5 Zutaten    | insgesamt +2|
+| kleines Feuer| -1          |
+| kein Feuer   | -2          |
+
+
+
+|Wurfergebnis | Effekt |
+| ----------: |--------|
+|         1-2 | Runiert die Hälfte aller Zutaten 
+|         5-7 | Die Mahlzeit schmeckt besser als die Rohzutaten, 1 Erschöpfung wird ausgeglichen |
+|        8-10 | +1/5 Bonusration pr Zutat oder 1 Bonuswürfel auf die nächste Erschöpfungsaktion in 24h |
+|       11-13 | Beides
+|         14+ | Gourmet experience :) |
+
+### Proviantkosten
 
 Kosten/Gewicht sind pro Tag pro Person
 
@@ -19,7 +71,7 @@ Kosten/Gewicht sind pro Tag pro Person
 |Käse| 3m | 30k | 0.6kg | |
 |FertigRation| 7d | 50k | 0.5 | Stellt Erschöpfung wieder her, kann unterwegs gegessen werden|
 
-## Nahrhaftigkeit
+### Nahrhaftigkeit
 Es ist nicht Ziel eine Simulation einer ausgewogenen Ernährung zu schaffen, aber aus Preisgründen nur von Brot zu leben sollte Konsequenzen haben:
 Nüsse, Fleisch und Speck bieten Proteine
 Käse, Nüsse und Speck bieten Fett
@@ -27,24 +79,7 @@ Früchte und Gemüse bieten Vitamine
 
 Mehr als eine Woche ohne eines davon, resultiert in einem Maluswürfel pro Kategorie. Je nach Dauer der Mangelernährung, dauert es 1-8w um diesen Maluswürfel wieder loszuwerden.
 
-
-## Kochen
-
-Ein Zutaten und Umgebungs gerechter Koch-wurf kann gemacht werden.
-Beim Lagerfeuerkochen können Lebensmittel die verarbeitet werden müssen (Fisch, Salzfleisch, ...) aufbereitet werden. 
-Eine Küche kann zum haltbarmachen/vorbereiten von Rationen genutzt werden.
-
-Kochen benötigt Eine Ration an Zutaten pro Person die mit isst, Bei einem einzigen Typ Zutat gibt es einen Maluswürfel, 3 bzw 5 Zutatentypen geben jeweils einen Bonuswürfel
-
-|Wurfergebnis | Effekt |
-|---:|---|
-| 1-2 | Runiert die Hälfte aller Zutaten 
-| 5-7 | Die Mahlzeit schmeckt besser als die Rohzutaten, 1 Erschöpfung wird ausgeglichen |
-| 8-10 | +1/5 Bonusration pr Zutat oder 1 Bonuswürfel auf die nächste Erschöpfungsaktion in 24h |
-| 11-13 | Beides
-| 14+ | Gourmet experience :) |
-
-## Sammeln
+### Sammeln
 Sammeln/Jagen/Abbauen usw mit dem Entsprechenden Wurf:
 generischer Wurf (Survival bzw Suchen, bzw beides): 
 8 - 1 Ration / Ressource
@@ -56,6 +91,14 @@ Spezifischer Wurf (Waldwissen bzw Kräuterkunde):
 11 - 2 Rationen
 14 - 2 Rationen+ 
 
+
+## Feuer
+In Gebieten mit genügend herumliegenden Brennmaterial wird angenommen, dass im Verlauf der abendlichen Aktivitäten das Notwendige einfach gesammelt wurde, ansonsten muss Brennmaterial mitgeführt werden.
+
+Brennmaterial pro Lagerfeuer sind je nach ausgegebenen Punkten 20/15/10/8/4/2 kg pro Abend
+Ein großes Lagerfeuer verbraucht doppelt so viel, ein kleines Halb so viel.
+Ein kleines Lagerfeuer erschwert das Kochen und ist schwerer zu sehen
+Ein großes Lagerfeuer kann nützlich sein, ist einfacher von weitem zu sehen und versorgt mehr Leute. 
 
 
 # Reisen
@@ -86,6 +129,7 @@ Reisevorteile:
  - Helfen: jemandem mit weniger (nach der senkung) einen Nachgewürfelten Bonuswürfel geben
  - Haushalten: Etappe verursacht halbierte Erschöpfung
  - Zeit rausholen: kleine Reisehandlung
+
 
 ## Erschöpfung
 
@@ -118,7 +162,7 @@ Wenn andere geweckt werden, zählt ihr Schlaf als Unterbrochen (aber ermöglicht
 |5| Effektiv Durchgeschlafen und 1 Bonuswürfel|
 |6+| Effektiv Durchgeschlafen und 2 Bonuswürfel
 
-Ausschlafen in diesem Fall wäre das Ausgeben der ersten kleinen Reiseaktion des Tages um weiterzuschlafen, Es muss währenddessen mindestens eine Person wach sein, sonst ist dort eine "unbewachte" Wachschicht
+Ausschlafen in diesem Fall wäre das Ausgeben der ersten kleinen Reiseaktion (also -3 auf den ersten Wurf) des Tages um doch noch eine volle Nacht zu wachen, Es muss währenddessen mindestens eine Person wach sein, sonst ist dort eine "unbewachte" Wachschicht
 
 ### Unfälle
 Verletzungen können auftreten, wenn Erschöpfung > Wurf+Sicherheit der Route ist.
