@@ -3,7 +3,7 @@ tags:
 [TOC]
 # Fen
 
-bisher ist nur ein kurzer scribble über [Aurier](aurier) verfügbar aber das sollte genug material sein um den rest zu machen
+bisher ist nur ein kurzer scribble über [Aurier](aurier) verfügbar aber das sollte genug material sein um den rest zu machen, wenn jemand lust hat. Ich (Maric) hab es einfacher Texte anderer Leute nachzubessern, als selbst welche zu schreiben.
 
 ## Allgemeine Regeln
 
@@ -30,15 +30,16 @@ und andere Fähigkeiten die auf das langfristige Tragen von Gepäck/zurücklegen
 nicht relevant sind Survival, Fußarbeit, Rennen und ähnliche "aktive" skills die nicht direkt auf das Tragen spezialisiert sind.
 
 ##Kämpfen
+Im Sinne des Spielflusses wird angenommen, dass Gepäck das ungehindert getragen werden kann, abgelegt wird ohne Zeit zu kosten, sobald Kampfaktivitäten stattfinden und aufgesammelt wird, ohne dass spezifisch davon gesprochen wird. Fluchtszenen oder wo es sonst relevant ist, werden angesagt. Wenn das Gepäck nicht abgelegt wird, löst es einen Maluswürfel mehr aus, als beim Reisen.
 
-(Konstitution+Körperkraft)&times;4 kg für Unbehindertes Kämpfen, darüber gibt es einen Maluswürfel für alle angefangenen (Konstitution+Körperkraft)&times;2 kg
+
 
 #Artefaktkapazität
-Ein Charakter der mehr als Einblick + MagieHandwerk (+ Entsprechende Vorteile) Artefakte bei sich trägt, riskiert bei Magischer Rückkopplung (Benutzung eines Artefaktes, Ziel oder Quelle eines Magischen Effektes sein, der Rückkoppelt, usw) ein zufälliges Artefakt irreparabel zu beschädigen, was sich auf verschiedene Weisen, aber meistens negativ, äußern kann. Explosionen, Anwendungen/Umgekehrte/unkontrollierte Anwendungen und dergleichen.
-Ein doppeltes Überschreiten dieser Barriere löst Magische Rückkopplung bei normaler 1er-Resonanz aus.
+Ein Charakter der mehr als Einblick + MagieHandwerk (+ Entsprechende Vorteile) Artefakte bei sich trägt, riskiert bei Magischer Rückkopplung (Benutzung eines Artefaktes, Ziel oder Quelle eines Magischen Effektes der Rückkoppelt zB durch 1-Resonanz, usw) ein zufälliges Artefakt irreparabel zu beschädigen, was sich auf verschiedene Weisen, aber meistens negativ, äußern kann. Explosionen, Anwendungen/Umgekehrte/unkontrollierte Anwendungen und dergleichen sind möglich.
+Ein doppeltes Überschreiten dieses Maximalwertes löst Magische Rückkopplung bei normaler 1er-Resonanz aus.
 
 #Physik
-Es gibt keine Physik. Jeder Effekt ist durch die unten genannten Regeln nur da abgedeckt wo es gerade Sinn ergibt. Die selben Effekte folgen meist den selben Regeln und die Regeln dienen nur dazu näherungen zu den Effekten innerhalb der Welt zu sein, aber selbst dort gibt es keinen Grund warum es in Fen keine unterschiedliche Formen zB von Kälte geben sollte, die unterschiedlich auf Hitzequellen, isolation und Wasser reagieren können. Nichts verbietet Wasser das Trinkbar, rein und perfekt Flüssig ist aber weit Kälter als 0 Grad ist. Normalerweise gefriert Wasser bei 0 Grad. Wenn es aber irgendwo einen Grund gibt, sei dies der Wille eines Gottes oder die Forschung eines Alchemisten, dann sind die Gesetze der Physik eher höfliche aber nicht zwingende Empfehlungen.
+Es gibt keine Physik. Jeder Effekt ist durch die unten genannten Regeln nur da abgedeckt wo es gerade Sinn ergibt. Die selben Effekte folgen meist den selben Regeln und die Regeln dienen nur dazu Näherungen zu den Effekten innerhalb der Welt zu sein, aber selbst dort gibt es keinen Grund warum es in Fen keine unterschiedliche Formen zB von Kälte geben sollte, die unterschiedlich auf Hitzequellen, isolation und Wasser reagieren können. Nichts verbietet Wasser das Trinkbar, rein und perfekt Flüssig ist aber weit Kälter als 0 Grad ist. Normalerweise gefriert Wasser bei 0 Grad. Wenn es aber irgendwo einen Grund gibt, sei dies der Wille eines Gottes oder die Forschung eines Alchemisten, dann sind die Gesetze der Physik eher höfliche aber nicht zwingende Empfehlungen.
 
 ##Licht
 ### Lichtstärke
@@ -70,4 +71,3 @@ Umstände die ungünstiger sind als das rechteste Element ihrer Liste sind eine 
 
 Alle anderen sind Selektoren auf den selben Wurf. Fallschaden ist im allgemeinen Schlagschaden, kann aber je nach Untergrund aber auch ganz oder teilweise Bluten. Jeder Umstand macht eine eigene Wunde, Fallhöhe machen gemeinsam eine Wunde.
 
-### Flug
