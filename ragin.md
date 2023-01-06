@@ -153,7 +153,7 @@ Adrenalinflut
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |Letter of Introduction von Harika||||
-|Soral Gunstpunkte|4|||
+|Soral Gunstpunkte|3|||
 
 ##Ausrüstung
 
@@ -168,4 +168,5 @@ Adrenalinflut
 |Fackel|1|||
 
 ##Notizen
+
 
