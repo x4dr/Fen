@@ -120,11 +120,11 @@ Aspekt: Arkan 3/5
 Konzept: Chaos Casting 2/5
 LightningCasting 1/5
 PerfektChaos 3/5
-Kraft: 1/5
+Kraft: 2/5
 Ermitteln: 1/5
 Runic assembly: 2/5
 Konzept: Ice: 1/5
-Konzept: Travel: 1/5
+
 
 
 #Vorteile
