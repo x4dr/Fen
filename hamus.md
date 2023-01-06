@@ -137,7 +137,10 @@ tags: Hamus character
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
 |Sural-Segen|2|0|0|
-
+##AquisePunkte
+|Name|Anzahl|Quanten|
+|-|-|-|
+|Infiltrator|2|Seil mit Greifhacken -1|
 #Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
