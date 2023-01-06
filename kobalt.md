@@ -131,7 +131,7 @@ Lesen
 Schreiben
 Geheimsprache
 ReadEverywhere
--> One vorteil relating to Climbing
+Parkour
 -> One Free Vortel
 
 #Inventar
