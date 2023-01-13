@@ -124,7 +124,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Zielsicher| 1/5|1|
 |Infiltrator| 0/5|1|
 |Animal Companion| 2/5|0|
-|Ermitteln |3/5|0|
+|Ermitteln |4/5|0|
 |Angeln |1/5|0|
 |Layouts| 2/5|0|
 |Werfen| 1/5|0|
