@@ -142,7 +142,7 @@ tags: character
 1/5 Stil
 2/5 Tierzähmung
 1/5 Tratsch
-1/5 Überzeugen
+2/5 Überzeugen
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
