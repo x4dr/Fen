@@ -121,7 +121,12 @@ tags: character
 |Stärkung|1|
 |Schwächung|1|
 
-
+##Narrativ
+###Attribute
+|-|-|
+|Schicksal|2|
+|Gunst|4|
+|Wille|4|
 
 #Wunden
 
