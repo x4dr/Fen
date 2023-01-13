@@ -123,8 +123,8 @@ tags: character
 
 ##Narrativ
 ###Attribute
-|-|-|
 |Attribut|Level|
+|-|-|
 |Schicksal|2|
 |Gunst|4|
 |Wille|4|
