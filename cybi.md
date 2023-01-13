@@ -144,6 +144,7 @@ tags:
 |Ausdauer|2/5|
 |Zielgenauigkeit|1/5|
 |Seilkunde|1/5|
+|Aufgeschlossenheit|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
