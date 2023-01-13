@@ -147,6 +147,7 @@ Adrenalinflut
 |Autorität|S|
 |Tratsch|S|
 |Eispicke|S|
+|EyEsOfDaRkNeSs|S|
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
