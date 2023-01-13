@@ -136,7 +136,7 @@ tags: character
 1/5 Irreführung
 1/5 Kochen
 1/5 Kontrolle 
-2/5 Körperinfusion
+3/5 Körperinfusion
 2/5 MystAlc
 1/5 Survival
 1/5 Stil
