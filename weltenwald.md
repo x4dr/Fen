@@ -17,10 +17,10 @@ Das Schmerzdämpferpiercing symbolisiert die Zugehörigkeit zum Weltenwald und e
 
 #Handel und Industrie
 ##Importe
-Dung, Früchte, Schmuggler, Händler, Metall, Möbel
+Dung, Früchte, Schmuggler, Händler, Metall
 
 ##Exporte
-Alkohol aus dem Fass Waldgeist, Raufbolde, Schmuggler, Schiffszubehör
+Alkohol aus dem Fass Waldgeist, Raufbolde, Schmuggler, Schiffszubehör, Möbel
 
 #Einwohner
 Buntgefächert durch alle Spezien. Hoher Anteil an Mykiern, Argyriern und Atterkan. Weniger Aurier als normal.
