@@ -128,6 +128,7 @@ tags:
 |Toxische Empathie | Überträgt per Kontaktgift Gefühle|
 |Trophogene Toxizität | Wirkungen der Nahrung werden auf das Kontaktgift übertragen|
 |Detoxifikation | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt |
+|Zeichensprache | Gruppenkommunikation über Handzeichen |
 
 #Zauber
 [[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
@@ -155,6 +156,7 @@ tags:
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 | Artefakt | 1 | - | - | Beschädigt, blauer Stein, Schneeresonanz. Kann zu Bonus-EXP zerstört werden. |
+| Sternenkasten-Amulet | 1 | - | - | Besteht aus blauem Goldfluss |
 
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
