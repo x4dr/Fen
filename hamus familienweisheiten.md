@@ -9,3 +9,5 @@ tags: Hamus
 #Hamus Mama
 ###Disziplin ist der Schlüssel zum Erfolg 
 ###Hast du keinen Erfolg nimm mehr Anlauf
+###Anschauen ist mit ohne Eltern
+###Wer Götter braucht ist nur zu schwach es selber zumachen
