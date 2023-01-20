@@ -152,6 +152,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Wand Kunai|3 Kunai bedeckt mit einem Ziegelmuster| Erzeugt eine vom Kunai sich kreisförmig ausdehnende Wand, Kunai kann von beiden Seiten erreicht werden|
 |Festes Kunai|3 Kunai mit Kettenmuster bedeckt|?? macht das Ziel unbeweglich??|
 |Teleport Kunai|3 Kunai mit einem abgerundeten Mondsichel verziert| kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT|
+|Feuercasten Ausweiß|||
 
 #Personen
 |Name|Beschreibung|Perks|
