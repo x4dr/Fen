@@ -24,7 +24,7 @@ Alkohol aus dem Fass Waldgeist, Raufbolde, Schmuggler, Schiffszubehör, Möbel
 
 #Einwohner
 Buntgefächert durch alle Spezien. Hoher Anteil an Mykiern, Argyriern und Atterkan. Weniger Aurier als normal.
-Die bewohner leben meist entweder in den Wipfeln oder unter den Wurzeln.
+Die Bewohner leben meist entweder in den Wipfeln oder unter den Wurzeln.
 
 #Besondere Orte
 
