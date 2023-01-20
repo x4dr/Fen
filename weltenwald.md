@@ -37,5 +37,5 @@ Im gesamten Gebiet des Weltenwalds kann man durch ein komplexes Tunnelnetzwerk u
 ##Haus im Wald
 Das Heim von Galdentras liegt tief im Wald, ist jedoch praktisch jedem der Einwohner bekannt. Es ist eine einfache Hütte in der Recht gesprochen und zuweilen SChaukämpfe ausgetragen werden.
 
-##Prüfort der Glänzenden
-Kleine Lagerstätte am Waldrand. Einer der wenigen Orte Prekors, die von den Glänzenden scheinbar gemieden werden.
+##Prüfort der Wächter
+Kleine Lagerstätte am Waldrand. Einer der wenigen Orte Prekors, die von den Wächtern scheinbar gemieden werden.
