@@ -122,7 +122,7 @@ LightningCasting 1/5
 PerfektChaos 3/5
 Kraft: 1/5
 Ermitteln: 1/5
-Runic assembly: 2/5
+Runic assembly: 3/5
 Konzept: Ice: 1/5
 Konzept: Travel
 
