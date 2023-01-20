@@ -142,6 +142,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Name|Anzahl|Quanten|
 |-|-|-|
 |Infiltrator|2|Seil mit Greifhacken -1|
+|||Sack mit Dollarzeichen -1|
 #Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
