@@ -145,7 +145,7 @@ Adrenalinflut
 |Messa|SSS|
 |Politik|SSS|
 |Autorität|S|
-|Tratsch|S|
+|Tratsch|SS|
 |Eispicke|S|
 |EyEsOfDaRkNeSs|S|
 #Inventar
