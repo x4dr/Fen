@@ -149,6 +149,7 @@ tags: character
 2/5 Tierzähmung
 1/5 Tratsch
 2/5 Überzeugen
+1/5 Stärkung
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
