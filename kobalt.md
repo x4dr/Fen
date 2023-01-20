@@ -138,6 +138,7 @@ Parkour
 
 #Inventar
 
+Einen sternenkasten ausweis
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
