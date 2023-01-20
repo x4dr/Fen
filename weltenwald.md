@@ -12,8 +12,8 @@ Galdentras, Drittes Heerschild und erster Hammer.
 diverse Mykier.
 
 #Wappen und Tracht
-Galdentras Wappen ist dreigeteilt: Links ein Hammer, Rechts ein randvolles, überschäumendes Bierglas. Oben das Königssymbol Stahls. Der Hintergrund ist ein Wald in den Königsfarben. In der Mitte prangt das Schmerzdämpferpiercing. Der Rahmen ist Mycellium.
-Das Schmerzdämpferpiercing symbolisiert die Zugehörigkeit zum Weltenwald und es wird gefordert, das zugehörige Läufer und Boten es innerhalb des Herrschaftsgebietes es offen tragen.
+Galdentras Wappen ist dreigeteilt: Links ein Hammer, Rechts ein randvolles, überschäumendes Bierglas. Oben das Königssymbol Stahls. Der Hintergrund ist ein Wald in den Königsfarben. In der Mitte prangt das smybolysierte Schmerzdämpferpiercing. Der Rahmen ist Mycellium.
+Das symbolisierte Schmerzdämpferpiercing symbolisiert die Zugehörigkeit zum Weltenwald und es wird gefordert, das zugehörige Läufer und Boten es innerhalb des Herrschaftsgebietes es offen tragen.
 
 #Handel und Industrie
 ##Importe
