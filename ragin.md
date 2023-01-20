@@ -166,6 +166,7 @@ Adrenalinflut
 |leichte Halbplatte|1|||
 |Eispickel|1|||
 |Fackel|1|||
+|isolierter,reißfester Pavillion|1||
 
 ##Notizen
 
