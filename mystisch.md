@@ -229,6 +229,20 @@ Eine Zielen-basierte 1-er Resonanz mit negativen Konsequenzen füllt einen Punkt
 + 1 Punkt. 1 Punkt kann genutzt werden um sämtliche Bonus und Maluswürfel eines Wurfes (durch Umwelt und aufgeteilte Aktionen) einer entsprechend gezielten Handlung zu ignorieren.
 Beliebige 1-er Resonanzen bei allen Handlungen des Charakters füllen einen Punkt auf
 
+### Eidetisches Gedächtnis
+
+**Stufe 1**
+Der Character kann sich mit ungewöhnlich hohem Detailgrad beliebig lange an viele Dinge erinnern. 
+Effektiv: Alles was der Spieler sich aufschreibt/an was sich der Spielleiter noch erinnert.
+Eine so wiedergegebene Erinnerung sollte aufgeschrieben werden.
+
+**Stufe 2**
+Wahrnehmungswürfe können (auch unterstützt von anderen) auch verspätet noch auf Szenen angewendet werden, einmal pro "Aspekt" der Szene.
+(wenn die Suche nach Schattigen gestalten in einer Erinnerung an eine Marktszene einmal gemacht ist, kann sie nicht widerholt werden in dem man nach versteckten Leuten, der Gesamtanzahl Leute abzüglich Leute deren Gesicht man sehen kann oder ähnlichen Spitzfindigkeiten sucht)
+
+**Stufe 3**
+Perfekte Aufnahme von Details erlaubt das Wiederholen von Betrachtungen mit anderen Würfen (zB Hilfe von Anderen) bzw wenn genügend Zeit (Jahr+) vergangen ist und das Erinnern an Sprachen und Schriften, auch wenn sie selbst nicht beherrscht werden. Das schreiben/malen/sprechen/externalisieren in jeglicher Form ist immernoch von den Möglichkeiten des Charakters abhängig.
+
 ### Durchdringender Blick
 
 **Stufe 1**
