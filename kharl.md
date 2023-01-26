@@ -27,6 +27,7 @@ tags: character
 |Kontrolle|1|
 |Zechen|1|
 |Widerstehen|2|
+|Schwert|0|
 ###Vorteile
 |Fähigkeit|Wert|
 |-|-|
@@ -48,6 +49,7 @@ tags: character
 |Irreführung|2|
 |Tratsch|1|
 | Etikette|1|
+|Diplomatie|0|
 ###Vorteil
 |Fähigkeit|Wert|
 |-|-|
@@ -69,7 +71,7 @@ tags: character
 |Forschen|1|
 |Elementarwissen|2|
 |Suchen|1|
-
+|Naturwissen|0|
 
 ##Können
 ###Attribute 
