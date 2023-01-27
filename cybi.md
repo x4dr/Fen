@@ -71,15 +71,18 @@ tags:
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
-| Praxis | 1 |
+| Praxis | 2 |
 | Einblick | 1 |
 
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Glitzer | 1 |
+| Glitzer | 2 |
 | Improvisation | 1 |
+| Wechselwirkung | 1 |
+| Feinschmied | 1 |
+| Heilen | 1 |
 
 ##Mystisch
 
