@@ -23,11 +23,12 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Akrobatik|2|
+|Kraft|1|
 |Werfen|1|
 |Kontrolle|1|
 |Zechen|1|
 |Widerstehen|2|
-|Schwert|0|
+|Schwert|1|
 ###Vorteile
 |Fähigkeit|Wert|
 |-|-|
@@ -49,7 +50,7 @@ tags: character
 |Irreführung|2|
 |Tratsch|1|
 | Etikette|1|
-|Diplomatie|0|
+|Diplomatie|1|
 ###Vorteil
 |Fähigkeit|Wert|
 |-|-|
@@ -71,7 +72,7 @@ tags: character
 |Forschen|1|
 |Elementarwissen|2|
 |Suchen|1|
-|Naturwissen|0|
+|Naturwissen|1|
 
 ##Können
 ###Attribute 
