@@ -165,7 +165,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Placidus|Hamus Vater, ruhig/bedacht, weiß was zu tun ist|vielleicht tot|
 |Akta (Greeneye senpai)|Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick|Unaufällig ,ermitteln, generelle sozial|
 |Mal|freudlicher Ganove, befreundet mit Hamus Eltern, white collor crime|con artist/dinge Ausspähen, Money |
-|Raben Dude|einer von Tajams Vassallen, unsichtbar af, kennt Eltern? ||
+|Raben Dude (Dorozd)|einer von Tajams Vassallen, unsichtbar af, kennt Eltern? ||
 
 
 ##Ausrüstung
