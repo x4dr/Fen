@@ -31,6 +31,8 @@ tags: character
 |Werfen|1|
 |Widerstehen|1|
 |Botenjudo|1|
+|Eispicke|1|
+
 
 
 ##Sozial
