@@ -146,7 +146,9 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Infiltrator|2||
 ||||
 |Munitionierer|1||
-|Fischer|1||#Artefakte
+|Fischer|1||
+
+#Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
 |Schärpen-Gürtel mit Bernstein|Ein herzförmigerbrocken Bernstein geschliffen zu anatomisch korrektem menschlichen Herz. Gedanken an Cybi in Richtung des Artefakts senden eine beruhigende Aura aus. Permanent aktiv.|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
