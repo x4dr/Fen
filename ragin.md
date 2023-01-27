@@ -4,8 +4,8 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Ragin |
-|Alter | 17 |
-|Größe|175-ish cm|
+|Alter | 18 |
+|Größe|185-ish cm|
 |Spezialisierung|Physisch|
 |Charakterkonzept|Fast Assassin|
 
