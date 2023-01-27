@@ -11,3 +11,4 @@ tags: Hamus
 ###Hast du keinen Erfolg nimm mehr Anlauf
 ###Anschauen ist mit ohne Eltern
 ###Wer Götter braucht ist nur zu schwach es selber zumachen
+###Nichts hält auf trab, wie das Versprechen einer ordentlichen Tracht Prügel
