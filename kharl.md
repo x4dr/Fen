@@ -159,8 +159,9 @@ tags: character
 1 Probe Holzwolf, 17 x0.5l Terpentin (magisch, destroy astrifacts), -60 Grad Flüssigkeit, 2x Eisblume, 1 Ausweisamulett Sternenkaste
 
 ##Ausrüstung
-Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things
+Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things, Kochlöffel (1Bonuswürfel; wenn 1 in endwurf entlädt es sich)
 Normales Schwert, Schwert des Ansturms
+
 
 
 
