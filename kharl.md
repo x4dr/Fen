@@ -159,6 +159,7 @@ tags: character
 
 ##Ausrüstung
 Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things
+Normales Schwert, Schwert des Ansturms
 
 
 
