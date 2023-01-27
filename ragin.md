@@ -90,6 +90,7 @@ tags: character
 |Gifte|1|
 |Musterresonanz|1|
 |Agent|1|
+|Bote|1|
 
 ##Mystisch
 ###Attribute 
