@@ -63,7 +63,7 @@ tags:
 | Instinkt | 1 |
 | Chemische Kommunikation | 2 |
 | Steinkunde | 2 |
-| Naturkommunikation | 1 |
+| Naturkommunikation | 2 |
 
 
 ##Können
@@ -115,7 +115,8 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Illusion| 2 |
-|Manifestation|1|
+|Manifestation| 1 |
+|Lebensmagie| 1 |
 
 ##Narrativ
 ###Attribute 
