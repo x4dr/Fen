@@ -166,7 +166,7 @@ tags:
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
 |Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|20/20|
-|Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern|?|
+|Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern|3/3|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 
 
