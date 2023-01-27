@@ -147,7 +147,7 @@ Adrenalinflut
 |Widerstehen|SSSS|
 |Belos|S|
 |Werfen|S|
-|Agent|SS|
+|Agent|SSS|
 |Messa|SSS|
 |Politik|SSS|
 |Autorität|S|
