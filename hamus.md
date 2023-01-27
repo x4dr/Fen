@@ -68,7 +68,7 @@ tags: Hamus character
 |Layouts|1|
 |Taktik|0|
 
-##Können
+##Können*
 ###Attribute 
 |Attribut|Level|
 |-|-|
