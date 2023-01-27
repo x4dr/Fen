@@ -74,7 +74,7 @@ tags: Hamus character
 |-|-|
 | Theorie | 1 |
 | Praxis | 1 |
-| Einblick | 1 |
+| Einblick | 2 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
