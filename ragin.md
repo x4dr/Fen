@@ -72,10 +72,12 @@ tags: character
 |Suchen|1|
 |Instinkt|1|
 |Taktik|1|
+|Navigation|1|
 |Wissen(Gravur)|1|
 |Wissen(Wald)|1|
 |Wissen(Gebirge)|1|
 |Wissen(Kulturen)|1|
+
 
 
 ##Können
