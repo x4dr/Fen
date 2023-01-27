@@ -138,7 +138,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Feuerkugeln|0|250g|5k|
-|Sural-Segen|2|0|0|
+|Gefallen bei Kiva|für er nimmt an einem Adventure teil|0|0|
 ##AquisePunkte
 |Name|Anzahl|Quanten|
 |-|-|-|
