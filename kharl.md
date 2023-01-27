@@ -149,6 +149,7 @@ tags: character
 2/5 MystAlc
 1/5 Survival
 1/5 Stil
+1/5 Taktik
 2/5 Tierzähmung
 1/5 Tratsch
 2/5 Überzeugen
