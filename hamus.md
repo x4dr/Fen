@@ -105,6 +105,7 @@ tags: Hamus character
 |Atemtechnik|1|
 |Tiergefährte|1|
 |Zielsicher|1|
+|Eidetisches Gedächnis|0|
 
 #Vorteile:
 |Name|Stufe|Beschreibung|
