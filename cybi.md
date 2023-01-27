@@ -156,7 +156,6 @@ tags:
 |-|-|-|-|-|
 | Silber | 1 | 1 | 1s | Währung |
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
-| Quarzflasche rote Flüssigkeit | 1 | 0,75 | Sieht teuer aus | Lichtkondensator |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 | Artefakt | 1 | - | - | Beschädigt, blauer Stein, Schneeresonanz. Kann zu Bonus-EXP zerstört werden. |
@@ -166,7 +165,7 @@ tags:
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Unbearbeiteter Regenbogenopal|7/10|
+|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|20/20|
 |Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern|?|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 
