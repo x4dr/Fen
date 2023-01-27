@@ -84,8 +84,8 @@ tags: Hamus character
 |Fischer|1|
 |Ermitteln|1|
 |Mechanik|1|
-|Apraisal|0|
-|Munitionierer|0|
+|Apraisal|1|
+|Munitionierer|1|
 
 
 ##Mystisch
