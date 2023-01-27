@@ -101,7 +101,7 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Gefahrensin|3|
-|Spurenlos|2|
+|Spurenlos|3|
 |Atemtechnik|1|
 |Tiergefährte|1|
 |Zielsicher|1|
