@@ -43,7 +43,7 @@ tags: Hamus character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Empathie|0|
+|Empathie|1|
 |Tratsch|1|
 |Ettiquette|1|
 |Tanzen|0|
