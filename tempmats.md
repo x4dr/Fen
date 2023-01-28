@@ -21,8 +21,12 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
-
+|Athletik|1|
+|Fußarbeit|1|
+|Pistole|1|
+|Rennen|1|
+|Überlebenskunst|0|
+|Werfen|1|
 
 ##Sozial
 ###Attribute 
@@ -86,9 +90,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Resistenz | 1 |
-| Affinität | 1 |
-| Schicksal | 1 |
+| Resistenz | 4 |
+| Affinität | 3 |
+| Schicksal | 3 |
 
 
 
