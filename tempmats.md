@@ -3,9 +3,9 @@ tags:
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | ??? |
+|Name | Hyronimus |
 |Alter | |
-|Größe|983cm|
+|Größe|187 cm|
 |Konzept| Pestdoctor |
 |...|?|
 
@@ -16,7 +16,7 @@ tags:
 |-|-|
 | Konstitution | 1 |
 | Agilität | 1 |
-| Geschick | 1 |
+| Geschick | 2 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
@@ -28,7 +28,7 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Durchsetzungsvermögen | 1 |
+| Durchsetzungsvermögen | 3 |
 | Sympathie | 1 |
 | Eindruck | 1 |
 
@@ -43,8 +43,8 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Wahrnehmung | 1 |
-| Bildung | 1 |
+| Wahrnehmung | 3 |
+| Bildung | 2 |
 | Geist | 1 |
 
 
@@ -58,9 +58,9 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Theorie | 1 |
-| Praxis | 1 |
-| Einblick | 1 |
+| Theorie | 2 |
+| Praxis | 3 |
+| Einblick | 2 |
 
 
 ###Fähigkeiten
