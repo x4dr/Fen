@@ -50,7 +50,7 @@ tags: character
 |Irreführung|2|
 |Tratsch|1|
 | Etikette|1|
-|Diplomatie|1|
+|Beruhigen|1|
 ###Vorteil
 |Fähigkeit|Wert|
 |-|-|
