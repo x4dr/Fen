@@ -25,6 +25,7 @@ tags:
 |Acrobatics|2|
 |Kontrolle|1|
 |Widerstand|1|
+|Stärke|1|
 
 ##Sozial
 ###Attribute 
@@ -41,7 +42,7 @@ tags:
 |Befragung|1|
 |Irrefuehrung|1|
 |Irreverence|2|
-
+| Seduction | 1 | 
 
 ##Mental
 ###Attribute 
@@ -61,7 +62,7 @@ tags:
 |Arcana|2|
 |Suchen|1|
 |Naturphilosophie|1|
-|Analyse|1|
+|Analyse|2|
 
 
 ##Können
@@ -99,6 +100,7 @@ tags:
 | AspektArkan | 1 |
 | AspektBlitz | 1 |
 | Avisbindung | 1 |
+| Konzept:Travel | 1 | 
 
 ##Schiksal
 ###Attribute 
