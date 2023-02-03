@@ -139,6 +139,7 @@ tags: character
 2/5 Quelle Elementare
 3/5 Alchemie
 1/5 Autorität
+1/5 Beruhigen
 4/5 Elementarwissen
 3/5 Etikette
 2/5 Fallensteller
