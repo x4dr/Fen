@@ -123,7 +123,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Instinkt| 3/5|0|
 |Unauffällig| 4/5|0|
 |Spinnensin| 5/5|1|
-|Zielsicher| 1/5|1|
+|Zielsicher| 2/5|1|
 |Infiltrator| 0/5|1|
 |Animal Companion| 2/5|0|
 |Ermitteln |4/5|0|
