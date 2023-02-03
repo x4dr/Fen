@@ -29,7 +29,7 @@ tags: character
 |Survival|2|
 |Kraft|1|
 |Werfen|1|
-|Widerstehen|1|
+|Widerstehen|2|
 |Botenjudo|1|
 |Eispicke|1|
 
