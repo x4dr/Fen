@@ -137,6 +137,9 @@ ReadEverywhere
 Parkour
 -> THIS WILL BE LIGHTING TELEPORTATION
 
+#NOTES
+SCRYING SKILLEN !?!?!?!
+
 
 #Inventar
 
