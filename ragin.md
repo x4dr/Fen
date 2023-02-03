@@ -138,13 +138,13 @@ Adrenalinflut
 |Fußarbeit|SSSSS|
 |Meucheln|SSSSS|
 |Wissen(Kulturen)|SSSSS|
+|Widerstehen|SSSSS|
 |Gifte|S|
 |Wächter|S|
 |Akrobatik|S|
 |Suchen|S|
 |Okysa|SS|
 |Schattenschritt|SS|
-|Widerstehen|SSSS|
 |Belos|S|
 |Werfen|S|
 |Agent|SSS|
