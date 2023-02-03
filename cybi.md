@@ -151,6 +151,7 @@ tags:
 |Aufgeschlossenheit|1/5|
 |Irreführung|4/5|
 |Lebensmagie|1/5|
+|Manifestation|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
