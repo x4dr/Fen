@@ -151,7 +151,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
-|Schärpen-Gürtel mit Bernstein|Ein herzförmigerbrocken Bernstein geschliffen zu anatomisch korrektem menschlichen Herz. Gedanken an Cybi in Richtung des Artefakts senden eine beruhigende Aura aus. Permanent aktiv.|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
+|Schärpen-Gürtel mit Bernsteinherz|Ein herzförmigerbrocken Bernstein geschliffen zu anatomisch korrektem menschlichen Herz. Gedanken an Cybi in Richtung des Artefakts senden eine beruhigende Aura aus. Permanent aktiv.|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
 |Puzzelbox|eine Flache Platte die einmal eine Komplexen Puzzelbox war |kann wieder aufgefaltet werden, Fassungsvermögen ca ein Faustgroßer Gegenstand|
 |Wind Kunai|3 Kunai mit Wellenmuster auf den Klinge| ?? vermutlich was mit wind in Wurfrichtung??|
 |Wand Kunai|3 Kunai bedeckt mit einem Ziegelmuster| Erzeugt eine vom Kunai sich kreisförmig ausdehnende Wand, Kunai kann von beiden Seiten erreicht werden|
