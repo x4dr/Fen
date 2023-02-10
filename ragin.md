@@ -149,7 +149,7 @@ Adrenalinflut
 |Werfen|S|
 |Agent|SSS|
 |Messa|SSS|
-|Politik|SSS|
+|Politik|SSSS|
 |Autorität|S|
 |Tratsch|SS|
 |Eispicke|S|
