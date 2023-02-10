@@ -45,6 +45,7 @@ tags:
 | Rhetorik | 1 |
 | Aufgeschlossenheit | 1 |
 | Smalltalk | 1 |
+| Irreführung | 1 |
 
 
 
@@ -149,9 +150,9 @@ tags:
 |Zielgenauigkeit|1/5|
 |Seilkunde|1/5|
 |Aufgeschlossenheit|1/5|
-|Irreführung|4/5|
 |Lebensmagie|1/5|
 |Manifestation|1/5|
+|Irreführung|1|0/0|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
