@@ -152,7 +152,7 @@ tags:
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
 |Manifestation|1/5|
-|Irreführung|1 0/0|
+|Irreführung|0/0 1|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
