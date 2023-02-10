@@ -3,6 +3,7 @@ tags: Hamus
 #Hamus Papa
 ###wenn man etwas gutes erreichen will und etwas gutes passiert, dann kann man auch Mal ein Auge zudrücken was zwischen durch passiert ist
 ###So schlimm wird es schon nicht die Ratten sind ja noch da
+###Der schlimste Feind ist der, der plötzlich mit einer geladen Armbrust hinterdir steht
 
 
 
