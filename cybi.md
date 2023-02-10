@@ -133,6 +133,7 @@ tags:
 |Toxische Empathie | Überträgt per Kontaktgift Gefühle|
 |Trophogene Toxizität | Wirkungen der Nahrung werden auf das Kontaktgift übertragen|
 |Detoxifikation | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt |
+|Mykisches Mimikry | Fähigkeit sich als sehr menschlich zu tarnen |
 |Zeichensprache | Gruppenkommunikation über Handzeichen |
 
 #Zauber
