@@ -120,9 +120,9 @@ tags:
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
-|Fliegerbrille|1|0,2|-|
-|Handschuhe (weiß)|2|0,1|-|
-|Arztkoffer|1|8|-|
+|Fliegerbrille|1|200|-|
+|Handschuhe (weiß)|2|150|-|
+|Arztkoffer|1|8000|-|
 
 ##Ausrüstung
 Steampunk Traktor mit Operationsraumanhänger.
