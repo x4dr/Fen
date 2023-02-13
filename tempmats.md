@@ -47,7 +47,6 @@ tags:
 |Handel|1|
 |Rhetorik|1|
 |Stil|1|
-|Beispiel|0|
 
 
 ##Mental
