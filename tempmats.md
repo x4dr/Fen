@@ -6,7 +6,7 @@ tags:
 |Name | Hyronimus |
 |Alter | 28 |
 |Größe|187 cm|
-|Konzept| Pestdoctor |
+|Konzept| Fahrender Chirurg |
 |...|?|
 
 #Werte
@@ -125,4 +125,4 @@ tags:
 |Arztkoffer|1|8|-|
 
 ##Ausrüstung
-
+Steampunk Traktor mit Operationsraumanhänger.
