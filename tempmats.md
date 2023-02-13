@@ -4,7 +4,7 @@ tags:
 |Detail|Inhalt|
 |-|-|
 |Name | Hyronimus |
-|Alter | |
+|Alter | 28 |
 |Größe|187 cm|
 |Konzept| Pestdoctor |
 |...|?|
@@ -23,6 +23,7 @@ tags:
 |-|-|
 |Athletik|1|
 |Fußarbeit|1|
+|Gewehr*|0|
 |Pistole|1|
 |Rennen|1|
 |Überlebenskunst|0|
@@ -40,6 +41,12 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
+|Authorität|2|
+|Einschüchtern|1|
+|Empathie|1|
+|Handel|1|
+|Rhetorik|1|
+|Stil|1|
 |Beispiel|0|
 
 
@@ -55,7 +62,13 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Instinkt|1|
+|Orientierung|1|
+|Strategie|1|
+|Suchen|2|
+|Taktik|1|
+|Wissen(Anatomie)|2|
+|Wissen()|2|
 
 
 ##Können
@@ -70,7 +83,11 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Behelfsbauten|2|
+|Chirugie|3|
+|Löten|2|
+|Pharmazie*|2|
+|Schweißen|2|
 
 ##Spezial
 ###Attribute 
@@ -84,7 +101,8 @@ tags:
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Beispiel|0|
+|Wagenlenken|2|
+|Pyromanie|2|
 
 ##Narrativ
 ###Attribute 
@@ -102,7 +120,9 @@ tags:
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
-|||||
+|Fliegerbrille|1|0,2|-|
+|Handschuhe (weiß)|2|0,1|-|
+|Arztkoffer|1|8|-|
 
 ##Ausrüstung
 
