@@ -3,7 +3,7 @@ tags: character
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | Kharl Ghila|
+|Name | Kharl "Ghila" Çırak|
 |Alter | 18 |
 |Größe|230cm|
 |Schuppenfarbe|Grün|
