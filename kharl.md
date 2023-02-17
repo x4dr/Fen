@@ -141,7 +141,7 @@ tags: character
 1/5 Autorität
 1/5 Beruhigen
 4/5 Elementarwissen
-3/5 Etikette
+4/5 Etikette
 2/5 Fallensteller
 1/5 Irreführung
 1/5 Kochen
