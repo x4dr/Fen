@@ -146,7 +146,6 @@ tags:
 |Empathie|1/5|
 |Tanz|2/5|
 |Tanas Bindung|2/5|
-|Smalltalk|2/5|
 |Ausdauer|2/5|
 |Zielgenauigkeit|1/5|
 |Seilkunde|1/5|
@@ -154,6 +153,7 @@ tags:
 |Lebensmagie|1/5|
 |Manifestation|1/5|
 |Irreführung|0/0 1|
+|Smalltalk|3/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
