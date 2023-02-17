@@ -50,7 +50,7 @@ tags:
 |-|-|
 | Wahrnehmung | 1 |
 | Bildung | 2 |
-| Geist | 2 |
+| Geist | 3 |
 
 
 ###Fähigkeiten
