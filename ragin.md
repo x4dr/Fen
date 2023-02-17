@@ -143,7 +143,7 @@ Adrenalinflut
 |Wächter|S|
 |Akrobatik|S|
 |Suchen|S|
-|Okysa|SS|
+|Okysa|SSS|
 |Schattenschritt|SS|
 |Belos|S|
 |Werfen|S|
