@@ -14,3 +14,4 @@ tags: Hamus
 ###Anschauen ist mit ohne Eltern
 ###Wer Götter braucht ist nur zu schwach es selber zumachen
 ###Nichts hält auf trab, wie das Versprechen einer ordentlichen Tracht Prügel
+###Die neuen Schwertwächter? Ein haufen Lappen die sich hinter ihrem Schwert verstecken
