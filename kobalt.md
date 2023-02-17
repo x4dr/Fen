@@ -85,7 +85,7 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Konzentration | 2 |
+| Konzentration | 3 |
 | Disziplin | 2 |
 | Flow | 1 |
 
