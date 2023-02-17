@@ -133,6 +133,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Munitionierer| 1/5|0|
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
+|Support |1/5|0|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
