@@ -147,6 +147,8 @@ want: Plänklermodus, allgemeine fernkampfdinge
 ||||
 |Munitionierer|1||
 |Fischer|1||
+|Kontakte Untergrund Okarun|1||
+
 
 #Artefakte
 |Name|Beschreibung|Wirkung|
