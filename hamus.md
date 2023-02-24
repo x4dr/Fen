@@ -116,7 +116,8 @@ tags: Hamus character
 |Aurisch sprechen|1||
 |Gebärendsprache|1||
 |Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
-|Lesen in schlechten Bedingungen|1|Ob bei wenig Licht oder auf dem Kopf, Hamus weiß was da steht|
+|Unsichtbares entdecken|1|Kann aktiv Unsichtbares entdecken|
+|Goon|0|Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten|
 
 want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
