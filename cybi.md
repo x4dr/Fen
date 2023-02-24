@@ -154,6 +154,7 @@ tags:
 |Manifestation|1/5|
 |Irreführung|0/0 1|
 |Smalltalk|3/5|
+|Wechselwirkung|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|

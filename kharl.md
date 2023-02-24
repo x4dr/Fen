@@ -149,12 +149,14 @@ tags: character
 3/5 Körperinfusion
 2/5 MystAlc
 1/5 Survival
+1/5 Stärkung
 1/5 Stil
 1/5 Taktik
 2/5 Tierzähmung
 1/5 Tratsch
+1/5 Tyem
 3/5 Überzeugen
-1/5 Stärkung
+
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
 #Inventar
 
