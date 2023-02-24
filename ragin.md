@@ -40,7 +40,7 @@ tags: character
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
-| Sympathie | 1 |
+| Sympathie | 2 |
 | Eindruck | 2 |
 
 
