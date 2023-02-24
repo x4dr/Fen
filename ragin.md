@@ -53,7 +53,7 @@ tags: character
 |Tratsch|1|
 |Autorität|1|
 |Empathie|1|
-|Politik|1|
+|Politik|2|
 
 
 
