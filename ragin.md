@@ -139,6 +139,7 @@ Adrenalinflut
 |Meucheln|SSSSS|
 |Wissen(Kulturen)|SSSSS|
 |Widerstehen|SSSSS|
+|Politik|SSSSS|
 |Gifte|S|
 |Wächter|S|
 |Akrobatik|S|
@@ -149,7 +150,6 @@ Adrenalinflut
 |Werfen|S|
 |Agent|SSS|
 |Messa|SSS|
-|Politik|SSSS|
 |Autorität|S|
 |Tratsch|SS|
 |Eispicke|S|
