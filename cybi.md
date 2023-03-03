@@ -155,6 +155,7 @@ tags:
 |Smalltalk|3/5|
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
+|Etiquette|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
