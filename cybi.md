@@ -146,7 +146,6 @@ tags:
 |Empathie|1/5|
 |Tanz|2/5|
 |Tanas Bindung|2/5|
-|Ausdauer|2/5|
 |Zielgenauigkeit|1/5|
 |Seilkunde|1/5|
 |Aufgeschlossenheit|1/5|
@@ -155,6 +154,7 @@ tags:
 |Irreführung|0/0 1|
 |Smalltalk|3/5|
 |Wechselwirkung|1/5|
+|Ausdauer|3/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
