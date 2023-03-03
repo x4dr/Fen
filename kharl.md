@@ -55,6 +55,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Zeichensprache|1|
+|Argyrische Sprache|1|
 ##Mental
 
 ###Attribute 
@@ -137,6 +138,7 @@ tags: character
 
 #Fortschritt
 2/5 Quelle Elementare
+1/5 Argyrisches Wissen
 3/5 Alchemie
 1/5 Autorität
 1/5 Beruhigen
