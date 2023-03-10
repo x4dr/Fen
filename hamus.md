@@ -150,9 +150,10 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |-|-|-|
 |Infiltrator|2||
 ||||
-|Munitionierer|1||
+|Munitionierer|1|Bolas 1|
 |Fischer|1||
 |Kontakte Untergrund Okarun|1||
+
 
 
 #Artefakte
