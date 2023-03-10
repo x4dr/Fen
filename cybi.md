@@ -135,6 +135,7 @@ tags:
 |Detoxifikation | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt |
 |Mykisches Mimikry | Fähigkeit sich als sehr menschlich zu tarnen |
 |Zeichensprache | Gruppenkommunikation über Handzeichen |
+|Überladung | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat. |
 
 #Zauber
 [[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
