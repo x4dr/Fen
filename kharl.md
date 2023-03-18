@@ -49,7 +49,7 @@ tags: character
 |-|-|
 |Irreführung|2|
 |Tratsch|1|
-| Etikette|1|
+| Etikette|2|
 |Beruhigen|1|
 ###Vorteil
 |Fähigkeit|Wert|
@@ -143,7 +143,6 @@ tags: character
 1/5 Autorität
 1/5 Beruhigen
 4/5 Elementarwissen
-4/5 Etikette
 2/5 Fallensteller
 1/5 Irreführung
 1/5 Kochen
@@ -159,7 +158,7 @@ tags: character
 2/5 Tyem
 3/5 Überzeugen
 
-(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik)
+(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette)
 #Inventar
 
 1 Probe Holzwolf, 17 x0.5l Terpentin (magisch, destroy astrifacts), -60 Grad Flüssigkeit, 2x Eisblume, 1 Ausweisamulett Sternenkaste
