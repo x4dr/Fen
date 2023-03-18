@@ -145,10 +145,10 @@ Adrenalinflut
 |Akrobatik|S|
 |Suchen|S|
 |Okysa|SSSS|
-|Schattenschritt|SS|
+|Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
-|Agent|SSS|
+|Agent|SSSS|
 |Messa|SSSS|
 |Autorität|S|
 |Tratsch|SS|
