@@ -76,15 +76,15 @@ tags: Hamus character
 |-|-|
 | Theorie | 1 |
 | Praxis | 2 |
-| Einblick | 2 |
+| Einblick | 3 |
 
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Unauffällig|2|
 |Infiltrator|2|
+|Ermitteln|2|
 |Fischer|1|
-|Ermitteln|1|
 |Mechanik|1|
 |Appraisal|1|
 |Munitionierer|1|
@@ -128,8 +128,8 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Spinnensin| 5/5|1|
 |Zielsicher| 2/5|1|
 |Infiltrator| 0/5|1|
-|Animal Companion| 3/5|0|
-|Ermitteln |4/5|0|
+|Animal Companion| 4/5|0|
+|Ermitteln |0/5|1|
 |Angeln |1/5|0|
 |Layouts| 2/5|0|
 |Werfen| 1/5|0|
