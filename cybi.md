@@ -6,7 +6,7 @@ tags:
 |Name | Cybi |
 |Alter | 16 |
 |Größe| 174cm |
-|Geschlecht| Genderless/Female presenting |
+|Geschlecht| Mykier/Female presenting |
 |Hobbies| Tanz, Gesang und Meditation |
 |Mag| Hamus, Steine, Mond und Shiny Stuff|
 
