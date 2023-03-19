@@ -151,12 +151,13 @@ tags:
 |Seilkunde|1/5|
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
-|Manifestation|1/5|
 |Irreführung|0/0 1|
 |Smalltalk|3/5|
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Etiquette|1/5|
+|Manifestation|2/5|
+|Heilen|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
