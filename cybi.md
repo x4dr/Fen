@@ -4,7 +4,7 @@ tags:
 |Detail|Inhalt|
 |-|-|
 |Name | Cybi |
-|Alter | ~1 Jahr |
+|Alter | 16 |
 |Größe| 174cm |
 |Geschlecht| Genderless/Female presenting |
 |Hobbies| Tanz, Gesang und Meditation |
