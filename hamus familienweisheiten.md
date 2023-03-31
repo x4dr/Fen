@@ -5,6 +5,7 @@ tags: Hamus
 ###So schlimm wird es schon nicht die Ratten sind ja noch da
 ###Der schlimste Feind ist der, der plötzlich mit einer geladen Armbrust hinterdir steht
 ###Jede Information die du teilst, kann gegen dich verwendet werden
+###Wenn du Leute einfach Fragst verraten sie dir viel mehr als sie wollen
 
 
 
@@ -15,3 +16,4 @@ tags: Hamus
 ###Wer Götter braucht ist nur zu schwach es selber zumachen
 ###Nichts hält auf trab, wie das Versprechen einer ordentlichen Tracht Prügel
 ###Die neuen Schwertwächter? Ein haufen Lappen die sich hinter ihrem Schwert verstecken
+###Nichts ist besser als jeden Tag nicht zu verhungern

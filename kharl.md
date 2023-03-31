@@ -144,6 +144,7 @@ tags: character
 1/5 Beruhigen
 4/5 Elementarwissen
 2/5 Fallensteller
+1/5 Forschen
 1/5 Irreführung
 1/5 Kochen
 1/5 Kontrolle 
@@ -156,7 +157,7 @@ tags: character
 2/5 Tierzähmung
 1/5 Tratsch
 2/5 Tyem
-3/5 Überzeugen
+4/5 Überzeugen
 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette)
 #Inventar
@@ -178,6 +179,7 @@ Normales Schwert, Schwert des Ansturms
 Schnapsdrossler: erdminze, norwood, kerzholz
 Entnüchter/Balancetrank: Schnaps, Blut
 Liquider Hyperfokus: Erdminze, Mädchensorge
+Dust of Revealing: "20 Silber Pro Dosis", 10x10 Meter
 
 
 

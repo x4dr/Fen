@@ -143,7 +143,6 @@ tags:
 #Fortschritt
 |Fähigkeit|EXP|
 |-|-|
-|Handel|1/5|
 |Empathie|1/5|
 |Tanz|2/5|
 |Tanas Bindung|2/5|
@@ -157,23 +156,26 @@ tags:
 |Ausdauer|3/5|
 |Etiquette|1/5|
 |Manifestation|2/5|
-|Heilen|1/5|
+|Handel|2/5|
+|Heilen|2/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
 |-|-|-|-|-|
-| Silber | 1 | 1 | 1s | Währung |
+| Kupfer | 20 | 0 | 20 | Währung |
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 | Artefaktkerne | 4 | - | - | Beschleunigt Kram in eine Richtung. Besteht aus Klareis. |
 | Sternenkasten-Amulet | 1 | - | - | Besteht aus blauem Goldfluss |
 | Edelstein (rot) | 1 | - | - | Roter Stein |
+| Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
+| Tapete (extra brennbar) | 140qm | 28 | - | Papierartige Substanz, die bearbeitet wurde besonders gut zu brennen. |
 
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|9/20|
+|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|8/20|
 |Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. |3/3|
 |Silbernes Drachenkettchen|1|-|Armband, das auf Signal von Ragins Kette reagiert|-|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
@@ -185,6 +187,7 @@ tags:
 |-|-|
 | Silbernes Kästchen | Kleine Schmuckschatulle, versilbert, von ideellem Wert|
 | Glitzer-Werkstatt Bausatz | Veraltet, aber kostenlos |
+
 
 
 

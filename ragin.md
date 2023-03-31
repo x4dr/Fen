@@ -142,7 +142,7 @@ Adrenalinflut
 |Politik|SSSSS|
 |Gifte|S|
 |Wächter|S|
-|Akrobatik|S|
+|Akrobatik|SS|
 |Suchen|S|
 |Okysa|SSSS|
 |Schattenschritt|SSS|

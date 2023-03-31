@@ -100,7 +100,8 @@ tags:
 | AspektArkan | 1 |
 | AspektBlitz | 1 |
 | Avisbindung | 1 |
-| Konzept:Travel | 1 | 
+| Konzept:Travel | 1 |
+| PerfektChaos | 1 | 
 
 ##Schiksal
 ###Attribute 
@@ -121,7 +122,7 @@ Fusarbeit: 2/5
 Aspekt: Arkan 4/5
 Konzept: Chaos Casting 2/5
 LightningCasting 1/5
-PerfektChaos 4/5
+PerfektChaos 5/5
 Kraft: 1/5
 Ermitteln: 1/5
 Runic assembly: 3/5
