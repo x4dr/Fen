@@ -111,7 +111,7 @@ tags: character
 |-|-|
 |Schattenschritt|2|
 |EyEsOfDaRkNeSs|1|
-|Okysa|1|
+|Okysa|2|
 |Belos|1|
 
 ##Schicksal
