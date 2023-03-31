@@ -140,11 +140,11 @@ Adrenalinflut
 |Wissen(Kulturen)|SSSSS|
 |Widerstehen|SSSSS|
 |Politik|SSSSS|
+|Okysa|SSSSS|
 |Gifte|S|
 |Wächter|S|
 |Akrobatik|SS|
 |Suchen|S|
-|Okysa|SSSS|
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
