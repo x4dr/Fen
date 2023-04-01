@@ -124,20 +124,21 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Skill|V.|lvl|
 |-|-|-|
 |Instinkt| 3/5|0|
-|Unauffällig| 4/5|0|
-|Spinnensin| 5/5|1|
 |Zielsicher| 2/5|1|
-|Infiltrator| 0/5|1|
 |Animal Companion| 4/5|0|
-|Ermitteln |0/5|1|
 |Angeln |1/5|0|
 |Layouts| 2/5|0|
-|Werfen| 1/5|0|
+|Werfen| 2/5|0|
 |Munitionierer| 1/5|0|
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
-|Support |1/5|0|
+|Support |2/5|0|
 |Tanzen|1/5|0|
+|||
+|Spinnensin| 5/5|1|
+|Infiltrator| 0/5|1|
+|Ermitteln |0/5|1|
+|Unauffällig| 4/5|0|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
