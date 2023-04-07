@@ -105,7 +105,7 @@ tags: Hamus character
 |Gefahrensin|3|
 |Spurenlos|3|
 |Atemtechnik|1|
-|Tiergefährte|1|
+|Tiergefährte|2|
 |Zielsicher|1|
 |Eidetisches Gedächnis|0|
 
@@ -125,7 +125,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |-|-|-|
 |Instinkt| 3/5|0|
 |Zielsicher| 2/5|1|
-|Animal Companion| 4/5|0|
+|Animal Companion| 5/5|0|
 |Angeln |1/5|0|
 |Layouts| 2/5|0|
 |Werfen| 2/5|0|
