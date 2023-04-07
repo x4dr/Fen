@@ -94,7 +94,7 @@ tags: character
 |-|-|
 |Gifte|1|
 |Musterresonanz|1|
-|Agent|1|
+|Agent|2|
 |Bote|1|
 
 ##Mystisch
@@ -148,7 +148,7 @@ Adrenalinflut
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
-|Agent|SSSS|
+|Agent|SSSSS|
 |Messa|SSSS|
 |Autorität|S|
 |Tratsch|SS|
