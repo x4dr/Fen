@@ -114,7 +114,7 @@ tags: character
 |Fähigkeit|Wert|
 |-|-|
 |Schattenschritt|2|
-|EyEsOfDaRkNeSs|1|
+|EyEsOfDaRkNeSs|2|
 |Okysa|2|
 |Belos|1|
 
