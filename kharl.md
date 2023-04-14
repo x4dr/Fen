@@ -29,6 +29,7 @@ tags: character
 |Zechen|1|
 |Widerstehen|2|
 |Schwert|1|
+|Schwimmen|1|
 ###Vorteile
 |Fähigkeit|Wert|
 |-|-|
