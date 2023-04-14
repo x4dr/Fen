@@ -22,12 +22,12 @@ tags: Hamus character
 |-|-|
 |Rennen|2|
 |Bogen|2|
+|Kraft|1|
 |Werfen|1|
 |Schleuder|1|
 |Standhalten|1|
 |Kontrolle|1|
 |Fußarbeit|1|
-|Kraft|1|
 |Handgemenge|0|
 
 
