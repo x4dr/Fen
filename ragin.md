@@ -43,7 +43,7 @@ tags: character
 |-|-|
 | Durchsetzungsvermögen | 1 |
 | Sympathie | 2 |
-| Eindruck | 2 |
+| Eindruck | 3 |
 
 
 ###Fähigkeiten
