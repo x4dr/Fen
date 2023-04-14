@@ -54,8 +54,10 @@ tags: character
 |Handel|1|
 |Tratsch|1|
 |Autorität|1|
+|Rhetorik|1|
 |Empathie|1|
 |Politik|2|
+
 
 
 
