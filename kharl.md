@@ -94,6 +94,7 @@ tags: character
 |Alchemie|2|
 |Survival|1|
 |Kochen|2|
+|Glaserei|1|
 
 
 
