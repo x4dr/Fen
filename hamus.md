@@ -21,7 +21,7 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|2|
-|Bogen|1|
+|Bogen|2|
 |Werfen|1|
 |Schleuder|1|
 |Standhalten|1|
