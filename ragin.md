@@ -24,6 +24,7 @@ tags: character
 |Messa|2|
 |Rennen|1|
 |Akrobatik|1|
+|Ausweichen|1|
 |Fußarbeit|2|
 |Meucheln|1|
 |Survival|2|
@@ -32,6 +33,7 @@ tags: character
 |Widerstehen|2|
 |Botenjudo|1|
 |Eispicke|1|
+
 
 
 
