@@ -88,7 +88,7 @@ tags: Hamus character
 |Mechanik|1|
 |Appraisal|1|
 |Munitionierer|1|
-|Accounting|0|
+|Accounting|1|
 
 ##Mystisch
 ###Attribute 
