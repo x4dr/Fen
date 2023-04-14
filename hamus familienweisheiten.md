@@ -5,7 +5,8 @@ tags: Hamus
 ###So schlimm wird es schon nicht die Ratten sind ja noch da
 ###Der schlimste Feind ist der, der plötzlich mit einer geladen Armbrust hinterdir steht
 ###Jede Information die du teilst, kann gegen dich verwendet werden
-###Wenn du Leute einfach Fragst verraten sie dir viel mehr als sie wollen
+###Wenn du Leute einfach Fragst, verraten sie dir viel mehr als sie wollen.
+###Wenn man nur lang genug sucht hat jeder Dreck am Stecken
 
 
 
