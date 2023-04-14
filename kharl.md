@@ -126,6 +126,7 @@ tags: character
 |-|-|
 |Stärkung|1|
 |Schwächung|1|
+|Transferenz|1|
 
 ##Narrativ
 ###Attribute
