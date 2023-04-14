@@ -141,6 +141,7 @@ Adrenalinflut
 |Widerstehen|SSSSS|
 |Politik|SSSSS|
 |Okysa|SSSSS|
+|Agent|SSSSS|
 |Gifte|S|
 |Wächter|S|
 |Akrobatik|SS|
@@ -148,9 +149,8 @@ Adrenalinflut
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
-|Agent|SSSSS|
 |Messa|SSSS|
-|Autorität|S|
+|Autorität|SS|
 |Tratsch|SS|
 |Eispicke|S|
 |EyEsOfDaRkNeSs|S|
