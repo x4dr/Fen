@@ -157,8 +157,8 @@ tags:
 |Ausdauer|3/5|
 |Etiquette|1/5|
 |Manifestation|2/5|
-|Handel|2/5|
 |Heilen|2/5|
+|Handel|3/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
