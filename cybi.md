@@ -46,6 +46,7 @@ tags:
 | Aufgeschlossenheit | 1 |
 | Smalltalk | 1 |
 | Irreführung | 1 |
+| Begeistern | 1 |
 
 
 
@@ -104,7 +105,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Tanz| 2 |
-|Gesang| 1 |
+|Gesang| 2 |
 |Meditation| 1 |
 
 ###Quelle
@@ -116,7 +117,7 @@ tags:
 |Fähigkeit|Wert|
 |-|-|
 |Illusion| 2 |
-|Manifestation| 1 |
+|Manifestation| 2 |
 |Lebensmagie| 1 |
 
 ##Narrativ
