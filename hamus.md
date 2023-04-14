@@ -46,7 +46,7 @@ tags: Hamus character
 |Empathie|1|
 |Tratsch|1|
 |Ettiquette|1|
-|Tanzen|0|
+|Tanzen|1|
 |Support|0|
 
 
