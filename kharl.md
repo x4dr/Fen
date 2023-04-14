@@ -4,7 +4,7 @@ tags: character
 |Detail|Inhalt|
 |-|-|
 |Name | Kharl "Ghila" Çırak|
-|Alter | 18 |
+|Alter | 19 |
 |Größe|230cm|
 |Schuppenfarbe|Grün|
 |Zweitfarbe|Gold|
