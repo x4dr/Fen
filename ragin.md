@@ -15,7 +15,7 @@ tags: character
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
-| Agilität | 3 |
+| Agilität | 4 |
 | Geschick | 3 |
 
 ###Fähigkeiten
