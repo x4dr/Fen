@@ -159,6 +159,7 @@ tags:
 |Manifestation|2/5|
 |Heilen|2/5|
 |Handel|3/5|
+|Mondlicht|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
