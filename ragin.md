@@ -129,6 +129,7 @@ tags: character
 #Vorteile
 Zeichensprache
 Adrenalinflut
+verstecktes Messer
 
 #Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
