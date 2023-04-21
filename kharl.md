@@ -154,6 +154,7 @@ tags: character
 1/5 Survival
 1/5 Stärkung
 1/5 Stil
+1/5 Schwert
 1/5 Taktik
 2/5 Tierzähmung
 1/5 Tratsch
