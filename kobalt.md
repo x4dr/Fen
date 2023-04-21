@@ -128,7 +128,7 @@ Ermitteln: 1/5
 Runic assembly: 3/5
 Konzept: Ice: 1/5
 Konzept: Travel 1/5
-Seduction 1/5
+Seduction 2/5
 Irreverence:1/5
 
 
