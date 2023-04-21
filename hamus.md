@@ -95,7 +95,7 @@ tags: Hamus character
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
-| Disziplin | 3 |
+| Disziplin | 4 |
 | Flow | 1 |
 
 
