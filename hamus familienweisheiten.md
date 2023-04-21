@@ -19,5 +19,6 @@ tags: Hamus
 ###Nichts ist besser als jeden Tag nicht zu verhungern
 
 #Combos
-#### P:Man sollte die guten Dinge im Leben genießen...  
+####Auf dem Ball 
+P:Man sollte die guten Dinge im Leben genießen...
 M:.... Es könnte immer das letze mal sein
