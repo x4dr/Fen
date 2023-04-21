@@ -21,4 +21,4 @@ tags: Hamus
 #Combos
 ####Auf dem Ball 
 P:Man sollte die guten Dinge im Leben genießen...
-M:.... Es könnte immer das letze mal sein
+M:... Es könnte immer das letze mal sein
