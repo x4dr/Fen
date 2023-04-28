@@ -152,7 +152,7 @@ tags: character
 3/5 Körperinfusion
 2/5 MystAlc
 1/5 Survival
-1/5 Stärkung
+2/5 Stärkung
 1/5 Stil
 1/5 Schwert
 1/5 Taktik
