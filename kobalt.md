@@ -100,7 +100,7 @@ tags:
 | AspektArkan | 1 |
 | AspektBlitz | 1 |
 | Avisbindung | 1 |
-| Konzept:Travel | 1 |
+| AspektTravel | 1 |
 | PerfektChaos | 1 | 
 
 ##Schiksal
