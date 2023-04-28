@@ -123,7 +123,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Instinkt| 3/5|0|
+|Instinkt| 4/5|0|
 |Zielsicher| 2/5|1|
 |Animal Companion| 5/5|0|
 |Angeln |1/5|0|
