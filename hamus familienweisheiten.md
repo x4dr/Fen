@@ -17,6 +17,7 @@ tags: Hamus
 ###Nichts hält auf trab, wie das Versprechen einer ordentlichen Tracht Prügel
 ###Die neuen Schwertwächter? Ein haufen Lappen die sich hinter ihrem Schwert verstecken
 ###Nichts ist besser als jeden Tag nicht zu verhungern
+###Verlasse niemals eine Stadt, die du nicht zumindest Teilweise in Schutt und Asche gelegt hast
 
 #Combos
 ####Auf dem Ball 
