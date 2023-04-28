@@ -143,6 +143,7 @@ verstecktes Messer
 |Politik|SSSSS|
 |Okysa|SSSSS|
 |Agent|SSSSS|
+|Messa|SSSSS|
 |Gifte|S|
 |Wächter|S|
 |Akrobatik|SS|
@@ -150,7 +151,6 @@ verstecktes Messer
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
-|Messa|SSSS|
 |Autorität|SS|
 |Tratsch|SS|
 |Eispicke|S|
