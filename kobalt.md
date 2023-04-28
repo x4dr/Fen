@@ -120,7 +120,7 @@ Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
 Aspekt: Arkan 4/5
-Konzept: Chaos Casting 2/5
+Konzept: Chaos Casting 3/5
 LightningCasting 1/5
 PerfektChaos 5/5
 Kraft: 1/5
