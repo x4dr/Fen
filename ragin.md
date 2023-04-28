@@ -21,7 +21,7 @@ tags: character
 ###Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Messa|1|
+|Messa|2|
 |Rennen|1|
 |Akrobatik|1|
 |Fußarbeit|2|
