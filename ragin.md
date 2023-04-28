@@ -169,8 +169,10 @@ verstecktes Messer
 |Überlandbotenrucksack|1|5kg||
 |Ragins Messa|1|0.5kg||
 |Aurier Messa|1|0.5kg||
+|Serisem Messa|1|0.5kg||
 |Östliches Schwert|1|||
 |leichte Halbplatte|1|||
+|Shadowstep Rüstung|1|||
 |Eispickel|1|||
 |Fackel|1|||
 |isolierter,reißfester Pavillion|1||
