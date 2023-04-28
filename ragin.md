@@ -172,7 +172,7 @@ verstecktes Messer
 |Serisem Messa|1|0.5kg||
 |Östliches Schwert|1|||
 |leichte Halbplatte|1|||
-|Shadowstep Rüstung|1|||
+|Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect|1|||
 |Eispickel|1|||
 |Fackel|1|||
 |isolierter,reißfester Pavillion|1||
