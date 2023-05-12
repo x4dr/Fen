@@ -104,8 +104,8 @@ tags: Hamus character
 |-|-|
 |Gefahrensin|3|
 |Spurenlos|3|
-|Atemtechnik|1|
 |Tiergefährte|2|
+|Atemtechnik|1|
 |Zielsicher|1|
 |Eidetisches Gedächnis|0|
 
