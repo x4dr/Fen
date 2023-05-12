@@ -161,7 +161,7 @@ tags: character
 1/5 Taktik
 2/5 Tierzähmung
 1/5 Tratsch
-3/5 Tyem
+4/5 Tyem
 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen)
 #Inventar
