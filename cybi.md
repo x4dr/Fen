@@ -149,7 +149,6 @@ tags:
 |Tanz|2/5|
 |Tanas Bindung|2/5|
 |Zielgenauigkeit|1/5|
-|Seilkunde|1/5|
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
 |Irreführung|0/0 1|
@@ -161,6 +160,7 @@ tags:
 |Handel|3/5|
 |Mondlicht|1/5|
 |Manifestation|3/5|
+|Seilkunde|2/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
