@@ -27,7 +27,7 @@ tags: character
 |5.|0|
 |6.|0|
 |7.|0|
-|8.|0|
+
 
 
 
@@ -50,7 +50,7 @@ tags: character
 |5.|0|
 |6.|0|
 |7.|0|
-|8.|0|
+
 
 
 ##Mental
@@ -72,7 +72,7 @@ tags: character
 |5.|0|
 |6.|0|
 |7.|0|
-|8.|0|
+
 ##Können*
 ###Attribute 
 |Attribut|Level|
@@ -91,7 +91,7 @@ tags: character
 |5.|0|
 |6.|0|
 |7.|0|
-|8.|0|
+
 
 ##Mystisch
 ###Attribute 
@@ -112,7 +112,7 @@ tags: character
 |5.|0|
 |6.|0|
 |7.|0|
-|8.|0|
+
 
 
 
