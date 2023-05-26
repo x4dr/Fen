@@ -65,8 +65,8 @@ tags: Hamus character
 |-|-|
 |Balistik|2|
 |Gassenwissen|2|
+|Instinkt|2|
 |Suchen|1|
-|Instinkt|1|
 |Layouts|1|
 |Taktik|0|
 
@@ -123,7 +123,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Instinkt| 4/5|0|
+|Instinkt| 5/5|1|
 |Zielsicher| 2/5|1|
 |Animal Companion| 5/5|0|
 |Angeln |1/5|0|
