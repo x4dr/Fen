@@ -1,2 +1,2 @@
-title:   
+title: Blanko  
 tags:   
