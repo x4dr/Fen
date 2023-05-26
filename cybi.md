@@ -156,11 +156,11 @@ tags:
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Etiquette|1/5|
-|Heilen|2/5|
 |Handel|3/5|
 |Mondlicht|1/5|
 |Manifestation|3/5|
 |Seilkunde|2/5|
+|Heilen|3/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
