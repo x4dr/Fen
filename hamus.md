@@ -145,8 +145,11 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Inventar
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
-|Feuerkugeln|0|250g|5k|
-|Lähmungskugeln|9|||
+|Wurfkrüge (leer)|10|||
+|Schleuderkrüge (leer)|10|||
+|Hohl Pfeile |10|||
+|Wurfspikes|10|||
+|Pfeile|20|||
 |Gefallen bei Kiva|für er nimmt an einem Adventure teil|0|0|
 ##AquisePunkte
 |Name|Anzahl|Quanten|
