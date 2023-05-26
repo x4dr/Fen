@@ -3,8 +3,8 @@ tags: character
 #Charakter
 |Detail|Inhalt|
 |-|-|
-|Name | |
-|Alter |  |
+|Name | ___________________________|
+|Alter |___________________________  |
 |Größe| |
 
 
