@@ -1,5 +1,5 @@
 title: Blanko  
-tags: charakter  
+tags: character  
 #Charakter
 |Detail|Inhalt|
 |-|-|
