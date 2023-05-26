@@ -1,2 +1,2 @@
-title: Blanko  
-tags: Charkter  
+title:   
+tags:   
