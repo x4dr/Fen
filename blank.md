@@ -1,5 +1,5 @@
 title:   
-tags:  character  
+tags: character  
 #Charakter
 
 |||
@@ -29,9 +29,9 @@ tags:  character
 ###Attribute  
 |Attribut|Level|
 |-|-|
-|Konstitution||
-|Kraft||
-|Agilität||
+|Konstitution|0|
+|Kraft|0|
+|Agilität|0|
 
 ###Fähigkeiten      
 |Fähigkeit|Level|  
@@ -48,9 +48,9 @@ tags:  character
 ###Attribute
 |Attribut|Level|
 |-|-|
-|Geschick| |  
-|Einblick| |  
-|Kompetenz| |  
+|Geschick| 0|  
+|Einblick| 0|  
+|Kompetenz| 0|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
@@ -63,9 +63,9 @@ tags:  character
 ###Attribute  
 |Attribut|Level|
 |-|-|
-|  Bildung | |  
-|  Geist | |  
-|  Wahrnehmung | |  
+|  Bildung | 0|  
+|  Geist | 0|  
+|  Wahrnehmung | 0|  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
@@ -77,9 +77,9 @@ tags:  character
 ###Attribute  
 |Attribut|Level|  
 |-|-|  
-|  Eindruck |  |  
-|  Durchsetzungsvermögen |  |  
-|  Sympathie |  |  
+|  Eindruck |  0|  
+|  Durchsetzungsvermögen | 0 |  
+|  Sympathie | 0 |  
 
 ###Fähigkeiten
 |Fähigkeit|Level|  
