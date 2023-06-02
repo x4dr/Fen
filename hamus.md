@@ -123,7 +123,6 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Instinkt| 5/5|1|
 |Zielsicher| 2/5|1|
 |Animal Companion| 5/5|0|
 |Angeln |1/5|0|
@@ -135,11 +134,13 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Support |3/5|0|
 |Tanzen|1/5|0|
 |Appraisal|1/5|0|
-|||
+|Taktik|1/5|0|
+||||
 |Spinnensin| 5/5|1|
 |Infiltrator| 0/5|1|
 |Ermitteln |0/5|1|
 |Unauffällig| 4/5|0|
+|Instinkt| 5/5|1|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
