@@ -158,7 +158,7 @@ verstecktes Messer
 |Autorität|SS|
 |Tratsch|SS|
 |Eispicke|S|
-|EyEsOfDaRkNeSs|S|
+|EyEsOfDaRkNeSs|SS|
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
