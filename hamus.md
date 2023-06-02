@@ -150,7 +150,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Schleuderkrüge (leer)|10|||
 |Hohl Pfeile |10|||
 |Wurfspikes|10|||
-|Pfeile|20|||
+|Pfeile|17|||
 |Gefallen bei Kiva|für er nimmt an einem Adventure teil|0|0|
 ##AquisePunkte
 |Name|Anzahl|Quanten|
