@@ -145,7 +145,6 @@ tags:
 #Fortschritt
 |Fähigkeit|EXP|
 |-|-|
-|Empathie|1/5|
 |Tanz|2/5|
 |Tanas Bindung|2/5|
 |Zielgenauigkeit|1/5|
@@ -161,6 +160,7 @@ tags:
 |Manifestation|3/5|
 |Seilkunde|2/5|
 |Heilen|3/5|
+|Empathie|2/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
@@ -178,7 +178,7 @@ tags:
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|20/20|
+|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|19/20|
 |Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. |3/3|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 |Geschenk von Hamus|-|-|Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.|?|
