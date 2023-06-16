@@ -164,7 +164,7 @@ tags: character
 1/5 Stil
 1/5 Schwert
 2/5 Taktik
-2/5 Tierzähmung
+3/5 Tierzähmung
 1/5 Tratsch
 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem)
