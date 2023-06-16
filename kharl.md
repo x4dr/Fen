@@ -129,6 +129,7 @@ tags: character
 |Schwächung|1|
 |Transferenz|1|
 ###Vorteil
+|Fähigkeit|Wert|
 |-|-|
 |Ghostpirate|1|
 
