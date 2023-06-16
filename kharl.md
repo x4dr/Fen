@@ -128,6 +128,9 @@ tags: character
 |Stärkung|1|
 |Schwächung|1|
 |Transferenz|1|
+###Vorteil
+|-|-|
+|Ghostpirate|1|
 
 ##Narrativ
 ###Attribute
