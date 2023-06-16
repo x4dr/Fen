@@ -123,7 +123,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Zielsicher| 2/5|1|
+|Zielsicher| 3/5|1|
 |Angeln |1/5|0|
 |Layouts| 2/5|0|
 |Werfen| 2/5|0|
