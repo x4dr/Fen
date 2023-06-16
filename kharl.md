@@ -113,6 +113,7 @@ tags: character
 |-|-|
 |Spurenlos|1|
 |Wettersinn|2|
+|Tyembindung|1|
 ###Konzept
 |Fähigkeit|Wert|
 |-|-|
@@ -165,9 +166,8 @@ tags: character
 2/5 Taktik
 2/5 Tierzähmung
 1/5 Tratsch
-4/5 Tyem
 
-(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen)
+(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem)
 #Inventar
 
 1 Probe Holzwolf, 17 x0.5l Terpentin (magisch, destroy astrifacts), -60 Grad Flüssigkeit, 2x Eisblume, 1 Ausweisamulett Sternenkaste
