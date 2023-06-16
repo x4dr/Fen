@@ -146,7 +146,6 @@ tags:
 |Fähigkeit|EXP|
 |-|-|
 |Tanz|2/5|
-|Tanas Bindung|2/5|
 |Zielgenauigkeit|1/5|
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
@@ -162,6 +161,7 @@ tags:
 |Heilen|3/5|
 |Empathie|2/5|
 |Illusion|1/5|
+|Tanas Bindung|3/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
