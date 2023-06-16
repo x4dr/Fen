@@ -161,6 +161,7 @@ tags:
 |Seilkunde|2/5|
 |Heilen|3/5|
 |Empathie|2/5|
+|Illusion|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
