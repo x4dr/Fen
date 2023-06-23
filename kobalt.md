@@ -102,6 +102,7 @@ tags:
 | Avisbindung | 1 |
 | AspektTravel | 1 |
 | PerfektChaos | 1 | 
+| Scrying | 1 | 
 
 ##Schiksal
 ###Attribute 
@@ -119,18 +120,19 @@ Widerstand: 6/5
 Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
-Aspekt: Arkan 4/5
+AspektArkan 5/5
 Konzept: Chaos Casting 3/5
-LightningCasting 1/5
+AspektLighting 3/5
 PerfektChaos 5/5
 Kraft: 1/5
 Ermitteln: 1/5
-Runic assembly: 3/5
-Konzept: Ice: 1/5
-Konzept: Travel 1/5
+Runic assembly: 4/5
+AspektIce: 1/5
+AspektTravel 2/5
 Seduction 2/5
-Irreverence:1/5
-
+Irreverence:2/5
+Chaos 1/5
+Dozieren 1/5
 
 
 #Vorteile
