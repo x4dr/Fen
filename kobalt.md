@@ -4,10 +4,10 @@ tags:
 |Detail|Inhalt|
 |-|-|
 |Name | Kobalt|
-|Alter | 11 |
-|Größe|120cm|
-|usw|joa|
-|...|?|
+|Alter | 17 |
+|Größe|180cm|
+|Sex|Yes|
+|Horny|on main|
 
 #Werte
 ##Physisch
@@ -23,7 +23,7 @@ tags:
 |-|-|
 |Fusarbeit|1|
 |Acrobatics|2|
-|Kontrolle|1|
+|Kontrolle|2|
 |Widerstand|1|
 |Stärke|1|
 
@@ -42,7 +42,7 @@ tags:
 |Befragung|1|
 |Irrefuehrung|1|
 |Irreverence|2|
-| Seduction | 1 | 
+| Seduction | 2 | 
 
 ##Mental
 ###Attribute 
@@ -97,7 +97,7 @@ tags:
 | KonzeptRunicAssemblyLanguage | 1 |
 | AspektAssembly Runen | 1 |
 | KonzeptChaosCasting | 2 |
-| AspektArkan | 1 |
+| AspektArkan | 2 |
 | AspektBlitz | 1 |
 | Avisbindung | 1 |
 | AspektTravel | 1 |
