@@ -148,7 +148,7 @@ verstecktes Messer
 |Okysa|SSSSS|
 |Agent|SSSSS|
 |Messa|SSSSS|
-|Gifte|S|
+|Gifte|SS|
 |Wächter|S|
 |Akrobatik|SS|
 |Suchen|SSS|
