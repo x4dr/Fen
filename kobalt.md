@@ -6,7 +6,7 @@ tags:
 |Name | Kobalt|
 |Alter | 17 |
 |Größe|180cm|
-|Sex|Yes (1 Bestätigt)|
+|Sex|Yes (?)|
 |Horny|on main|
 
 #Werte
