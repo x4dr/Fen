@@ -163,6 +163,7 @@ tags:
 |Illusion|1/5|
 |Tanas Bindung|3/5|
 |Überreden|1/5|
+|Glitzer|1/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
