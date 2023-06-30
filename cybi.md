@@ -173,7 +173,7 @@ tags:
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 | Artefaktkerne | 4 | - | - | Beschleunigt Kram in eine Richtung. Besteht aus Klareis. |
 | Sternenkasten-Amulet | 1 | - | - | Besteht aus blauem Goldfluss |
-| Edelstein (rot) | 1 | - | 20 | Roter Stein |
+| Edelstein (rot) | 1 | - | 20 | Roter Stein | vrbaut in Inkubator
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
 | Tapete (extra brennbar) | 140qm | 28 | - | Papierartige Substanz, die bearbeitet wurde besonders gut zu brennen. |
 
