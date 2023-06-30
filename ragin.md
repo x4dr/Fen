@@ -159,6 +159,8 @@ verstecktes Messer
 |Tratsch|SS|
 |Eispicke|S|
 |EyEsOfDaRkNeSs|SSS|
+|Stabilität|S|
+|Stabilität|S|
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|
