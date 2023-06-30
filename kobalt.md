@@ -133,6 +133,7 @@ Seduction 2/5
 Irreverence:3/5
 Chaos 1/5
 Dozieren 1/5
+Fuckboy 1/5
 
 
 #Vorteile
