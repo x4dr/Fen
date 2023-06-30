@@ -117,6 +117,8 @@ tags: character
 |EyEsOfDaRkNeSs|2|
 |Okysa|2|
 |Belos|1|
+|Stabilität|0|
+|Stabilität|0|
 
 ##Schicksal
 ###Attribute 
