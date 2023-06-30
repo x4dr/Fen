@@ -157,9 +157,9 @@ tags: character
 1/5 Kochen
 1/5 Kontrolle 
 3/5 Körperinfusion
-2/5 MystAlc
+3/5 MystAlc
 1/5 Survival
-3/5 Stärkung
+2/5 Stärkung
 1/5 Stil
 1/5 Schwert
 2/5 Taktik
