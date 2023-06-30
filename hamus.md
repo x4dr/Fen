@@ -21,14 +21,14 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|2|
-|Bogen|2|
+|Bogen|1|
 |Kraft|1|
 |Werfen|1|
 |Schleuder|1|
 |Standhalten|1|
 |Kontrolle|1|
 |Fußarbeit|1|
-|Handgemenge|0|
+|Handgemenge|1|
 
 
 ##Sozial
