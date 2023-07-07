@@ -133,7 +133,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Support |3/5|0|
 |Tanzen|1/5|0|
 |Appraisal|1/5|0|
-|Taktik|1/5|0|
+|Taktik|2/5|0|
 |Handgemenge|1/5|0|
 ||||
 |Spinnensin| 5/5|1|
