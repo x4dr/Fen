@@ -188,7 +188,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 
 ##Ausrüstung
-Notgroschen 33,75s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann   
+Notgroschen 33,95s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann   
 
 
 
