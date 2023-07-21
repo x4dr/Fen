@@ -1,8 +1,8 @@
 title: Philosophical Catfight  
 tags:   
-Section: Philosophical Catfight For Fun
+#Section: Philosophical Catfight For Fun
 
-```jemand mit 50 jahren akademischen hintergrund der im allgemeinen schnell im kopf ist, kopfrechnen kann und sich 1000 dinge im kopf merken kann ... kann trotzdem ein fürchterlicher programmierer sein```
+"jemand mit 50 jahren akademischen hintergrund der im allgemeinen schnell im kopf ist, kopfrechnen kann und sich 1000 dinge im kopf merken kann ... kann trotzdem ein fürchterlicher programmierer sein"
 
 Nein. Fürchterlich würde ich als sehr sehr ungewöhnlich befinden. Lauter Physiker sind decent bis gute coder. Naturwissenshaflter werden permanent eingestellt fuer coding jobs. 
 ------
