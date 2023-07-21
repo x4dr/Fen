@@ -95,7 +95,7 @@ tags:
 |Chaos|1|
 |Geordnet|1|
 | KonzeptRunicAssemblyLanguage | 1 |
-| AspektAssembly Runen | 1 |
+| AspektAssemblyRunen | 1 |
 | KonzeptChaosCasting | 2 |
 | AspektArkan | 2 |
 | AspektBlitz | 1 |
