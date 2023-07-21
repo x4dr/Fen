@@ -125,7 +125,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |-|-|-|
 |Zielsicher| 3/5|1|
 |Angeln |1/5|0|
-|Layouts| 2/5|0|
+|Layouts| 3/5|0|
 |Werfen| 2/5|0|
 |Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
