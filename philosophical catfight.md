@@ -1,5 +1,7 @@
 title: Philosophical Catfight  
 tags:   
+# TWAS ALL A MISUNDERSTANDING!
+
 #Section: Philosophical Catfight For Fun
 
 "jemand mit 50 jahren akademischen hintergrund der im allgemeinen schnell im kopf ist, kopfrechnen kann und sich 1000 dinge im kopf merken kann ... kann trotzdem ein fürchterlicher programmierer sein"
