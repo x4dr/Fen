@@ -220,9 +220,10 @@ Für Trickshots (nicht direkt Kampfrelevant) sind die Anforderungen auf "theoret
 Schlafen füllt alle Punkte wieder auf.
 
 Spielleiter Option: Wurf als 6,7,8,9,10 annehmen (Maluswürfel dann 5-1)
+1 Punkt kann nach dem Würfeln verwendet werden, um stattdessen neu zu würfeln.
 
 **Stufe 2**
-+ 1 Punkt. 1 Punkt kann nach dem Würfeln verwendet werden, um stattdessen neu zu würfeln
++ 1 Punkt. 
 Eine Zielen-basierte 1-er Resonanz mit negativen Konsequenzen füllt einen Punkt wieder auf
 
 **Stufe 3** 
