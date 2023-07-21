@@ -33,7 +33,7 @@ Worldview point: I feel that someone that has a deep understanding of a thing sh
 
 -----
 
-Section: Gay Shit (my actual feelings)
+#Section: Gay Shit (my actual feelings)
 
 Point: Limited Creation space for characters
 
