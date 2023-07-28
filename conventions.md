@@ -15,7 +15,7 @@ I - Inspiration
 [Region] - Perspektive
 S - Entsprechende Tat(Gesellenstück bis Legendäre Tat)
 
-#Wiki
+# Wiki
 ## Infolets
 [[info]] fügt direkt ein
 [[[info]]] fügt ausklappbar ein
