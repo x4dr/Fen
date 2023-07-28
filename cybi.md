@@ -157,13 +157,13 @@ tags:
 |Mondlicht|1/5|
 |Manifestation|3/5|
 |Seilkunde|2/5|
-|Heilen|3/5|
 |Empathie|2/5|
 |Illusion|1/5|
 |Tanas Bindung|3/5|
 |Überreden|1/5|
 |Glitzer|1/5|
 |Smalltalk|4/5|
+|Heilen|4/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
