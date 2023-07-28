@@ -150,7 +150,6 @@ tags:
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
 |Irreführung|0/0 1|
-|Smalltalk|3/5|
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Etiquette|1/5|
@@ -164,6 +163,7 @@ tags:
 |Tanas Bindung|3/5|
 |Überreden|1/5|
 |Glitzer|1/5|
+|Smalltalk|4/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
@@ -172,11 +172,11 @@ tags:
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
-| Artefaktkerne | 4 | - | - | Beschleunigt Kram in eine Richtung. Besteht aus Klareis. |
+| Artefaktkerne | 3 | - | - | Beschleunigt Kram in eine Richtung. Besteht aus Klareis. |
 | Sternenkasten-Amulet | 1 | - | - | Besteht aus blauem Goldfluss |
 | Edelstein (rot) | 1 | - | 20 | Roter Stein | vrbaut in Inkubator
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
-| Tapete (extra brennbar) | 140qm | 28 | - | Papierartige Substanz, die bearbeitet wurde besonders gut zu brennen. |
+| Augebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
 
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
