@@ -117,6 +117,8 @@ tags: character
 |EyEsOfDaRkNeSs|2|
 |Okysa|2|
 |Belos|1|
+|Stabilität|0|
+|Stabilität|0|
 
 ##Schicksal
 ###Attribute 
@@ -148,17 +150,19 @@ verstecktes Messer
 |Okysa|SSSSS|
 |Agent|SSSSS|
 |Messa|SSSSS|
-|Gifte|S|
+|Gifte|SSS|
 |Wächter|S|
 |Akrobatik|SS|
-|Suchen|S|
+|Suchen|SSS|
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
 |Autorität|SS|
 |Tratsch|SS|
 |Eispicke|S|
-|EyEsOfDaRkNeSs|S|
+|EyEsOfDaRkNeSs|SSS|
+|Stabilität|S|
+|Stabilität|S|
 #Inventar
 
 |Name|Anzahl|Gewicht|Preis|

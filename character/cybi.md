@@ -145,22 +145,25 @@ tags:
 #Fortschritt
 |Fähigkeit|EXP|
 |-|-|
-|Empathie|1/5|
 |Tanz|2/5|
-|Tanas Bindung|2/5|
 |Zielgenauigkeit|1/5|
-|Seilkunde|1/5|
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
 |Irreführung|0/0 1|
-|Smalltalk|3/5|
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Etiquette|1/5|
-|Heilen|2/5|
 |Handel|3/5|
 |Mondlicht|1/5|
 |Manifestation|3/5|
+|Seilkunde|2/5|
+|Empathie|2/5|
+|Illusion|1/5|
+|Tanas Bindung|3/5|
+|Überreden|1/5|
+|Glitzer|1/5|
+|Smalltalk|4/5|
+|Heilen|4/5|
 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
@@ -169,16 +172,16 @@ tags:
 | Torf | 1 Faust | 0,1 |-| Brennmaterial |
 | Drachenkopf | 1 | 1 | - | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
-| Artefaktkerne | 4 | - | - | Beschleunigt Kram in eine Richtung. Besteht aus Klareis. |
+| Artefaktkerne | 3 | - | - | Beschleunigt Kram in eine Richtung. Besteht aus Klareis. |
 | Sternenkasten-Amulet | 1 | - | - | Besteht aus blauem Goldfluss |
-| Edelstein (rot) | 1 | - | 20 | Roter Stein |
+| Edelstein (rot) | 1 | - | 20 | Roter Stein | vrbaut in Inkubator
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
-| Tapete (extra brennbar) | 140qm | 28 | - | Papierartige Substanz, die bearbeitet wurde besonders gut zu brennen. |
+| Augebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
 
 ##Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|20/20|
+|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|9/20|
 |Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. |3/3|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 |Geschenk von Hamus|-|-|Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.|?|

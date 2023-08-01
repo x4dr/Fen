@@ -73,7 +73,7 @@ tags: character
 |-|-|
 |Taktik|1|
 |Forschen|1|
-|Elementarwissen|2|
+|Elementarwissen|3|
 |Suchen|1|
 |Naturwissen|1|
 
@@ -113,6 +113,7 @@ tags: character
 |-|-|
 |Spurenlos|1|
 |Wettersinn|2|
+|Tyembindung|1|
 ###Konzept
 |Fähigkeit|Wert|
 |-|-|
@@ -128,6 +129,10 @@ tags: character
 |Stärkung|1|
 |Schwächung|1|
 |Transferenz|1|
+###Vorteil
+|Fähigkeit|Wert|
+|-|-|
+|Ghostpirate|1|
 
 ##Narrativ
 ###Attribute
@@ -146,24 +151,23 @@ tags: character
 3/5 Alchemie
 1/5 Autorität
 1/5 Beruhigen
-4/5 Elementarwissen
 2/5 Fallensteller
 1/5 Forschen
 1/5 Irreführung
 1/5 Kochen
 1/5 Kontrolle 
 3/5 Körperinfusion
-2/5 MystAlc
+3/5 MystAlc
 1/5 Survival
-2/5 Stärkung
+3/5 Stärkung
 1/5 Stil
 1/5 Schwert
-1/5 Taktik
-2/5 Tierzähmung
+2/5 Taktik
+3/5 Tierzähmung
 1/5 Tratsch
-3/5 Tyem
+1/5 Tyembindung
 
-(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen)
+(Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem, +1 Elementarwissen)
 #Inventar
 
 1 Probe Holzwolf, 17 x0.5l Terpentin (magisch, destroy astrifacts), -60 Grad Flüssigkeit, 2x Eisblume, 1 Ausweisamulett Sternenkaste

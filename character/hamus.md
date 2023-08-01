@@ -21,14 +21,14 @@ tags: Hamus character
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|2|
-|Bogen|2|
+|Bogen|1|
 |Kraft|1|
 |Werfen|1|
 |Schleuder|1|
 |Standhalten|1|
 |Kontrolle|1|
 |Fußarbeit|1|
-|Handgemenge|0|
+|Handgemenge|1|
 
 
 ##Sozial
@@ -65,8 +65,8 @@ tags: Hamus character
 |-|-|
 |Balistik|2|
 |Gassenwissen|2|
+|Instinkt|2|
 |Suchen|1|
-|Instinkt|1|
 |Layouts|1|
 |Taktik|0|
 
@@ -104,8 +104,8 @@ tags: Hamus character
 |-|-|
 |Gefahrensin|3|
 |Spurenlos|3|
-|Atemtechnik|1|
 |Tiergefährte|2|
+|Atemtechnik|1|
 |Zielsicher|1|
 |Eidetisches Gedächnis|0|
 
@@ -123,30 +123,35 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Instinkt| 4/5|0|
-|Zielsicher| 2/5|1|
-|Animal Companion| 5/5|0|
+|Zielsicher| 4/5|1|
 |Angeln |1/5|0|
-|Layouts| 2/5|0|
+|Layouts| 3/5|0|
 |Werfen| 2/5|0|
-|Munitionierer| 1/5|0|
+|Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
 |Support |3/5|0|
 |Tanzen|1/5|0|
 |Appraisal|1/5|0|
-|||
+|Taktik|2/5|0|
+|Handgemenge|1/5|0|
+||||
 |Spinnensin| 5/5|1|
 |Infiltrator| 0/5|1|
 |Ermitteln |0/5|1|
 |Unauffällig| 4/5|0|
+|Instinkt| 5/5|1|
+|Animal Companion| 5/5|0|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 #Inventar
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
-|Feuerkugeln|0|250g|5k|
-|Lähmungskugeln|9|||
+|Wurfkrüge (leer)|10|||
+|Schleuderkrüge (leer)|10|||
+|Hohl Pfeile |10|||
+|Wurfspikes|10|||
+|Pfeile|17|||
 |Gefallen bei Kiva|für er nimmt an einem Adventure teil|0|0|
 ##AquisePunkte
 |Name|Anzahl|Quanten|
@@ -162,6 +167,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 #Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
+|Schattenpfeil |erzeugt einen Schatten|5||
 |Schärpen-Gürtel mit Bernsteinherz|Ein herzförmigerbrocken Bernstein geschliffen zu anatomisch korrektem menschlichen Herz. Gedanken an Cybi in Richtung des Artefakts senden eine beruhigende Aura aus. Permanent aktiv.|erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen |
 |Puzzelbox|eine Flache Platte die einmal eine Komplexen Puzzelbox war |kann wieder aufgefaltet werden, Fassungsvermögen ca ein Faustgroßer Gegenstand|
 |Wind Kunai|3 Kunai mit Wellenmuster auf den Klinge| ?? vermutlich was mit wind in Wurfrichtung??|
@@ -182,7 +188,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 
 ##Ausrüstung
-Notgroschen 32,75s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann   
+Notgroschen 33,95s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann   
 
 
 
