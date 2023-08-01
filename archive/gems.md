@@ -1,6 +1,6 @@
 ---
 title: Gem Based Magic  
-tags: magic gems  
+tags: magie gems crafting 
 outgoing links: ''  
 ---
 

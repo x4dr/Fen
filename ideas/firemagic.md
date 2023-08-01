@@ -1,6 +1,6 @@
 ---
 title: Feuermagie  
-tags: magic  
+tags: magie  
 outgoing links: ''  
 ---
 # Zauber
