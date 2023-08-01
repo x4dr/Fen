@@ -3,15 +3,15 @@ tags:
 [TOC]
 
 
-##Avis Tatoos upgrade
+## Avis Tatoos upgrade
 mehr kurzfristige Kapazität, verbesserte aufnahme von Ernergie direkt vom Schiff? Walndelelementar herzen
 
 
 
-##Craftingideen:
-###Sturnmkristall
+## Craftingideen:
+### Sturnmkristall
 produziert vorzugsweise 10 energie/8h 
-###Opferdolch mit eldesteinfassung für banther
+### Opferdolch mit eldesteinfassung für banther
 direktes leachen bei Verwundung  
 stil und swag
 ### Trinschild für Tras  
@@ -21,7 +21,7 @@ kommt man damit auch rein
 you get what you pay for
 ### Abseilgurt
 Armschiene vom hohen Norden umarbeiten/multiplizieren?
-###Ensalex
+### Ensalex
 Pfeilspitzen
 Bombe 
 Bergbau

@@ -31,7 +31,7 @@ hierzu gelten folgende Modifikatoren
  * ... many more! (?)
   
 
-##Anmerkungen
+## Anmerkungen
 
 Gegengift: Erlaubt das neutralisieren eines Effekts je nach ähnlichkeit des Gebräus mit unterschiedlichen Würfen
 
@@ -62,9 +62,9 @@ Hier nur Beispiele, ich brauch Vorschläge!
  * Alkoholinfusion - nutzt stattdessen starken Alkohol, verstärkt Effekte, braucht 5 Tage
  * Destillation - verstärkt vor allem Alchemische Effekte, benötigt Destillationsequipment
 
-#Kräuter der Nordwestlichen Prekorischen Berg- und Waldregion
+# Kräuter der Nordwestlichen Prekorischen Berg- und Waldregion
 
-##Düsterwurz 
+## Düsterwurz 
 
 Düsterwurz ist ein relativ häufiges Kraut, welches man vor allem abends leicht finden kann. Isoliert hat es nur eine schwache Heilwirkung, wird aber vor allem in Kombination mit anderen Zutaten genutzt, um verschiedene Gifte und Gegengifte herzustellen.  
 
@@ -94,7 +94,7 @@ A 16: Vektor: Kontaktgift, Haltbarkeit: 6 Monate
 
 A 19: Vektor: Kontaktgift, Haltbarkeit: 1 Jahr  
 
-##Gabelblume
+## Gabelblume
 
 Gabelblumen sind robuste, weit verbreitete Wildblumen, welche nahezu überall zu finden sind. Zusätzlich zu der gelben Wildvariante gibt es auch zahlreiche Zuchtvarianten in unterschiedlichsten Farben, die als Zierpflanze in ganz Prekor beliebt sind. Gabelblumen haben keine eigene Heilwirkung, werden aber gern verschiedenen Präperaten zugesetzt, um Konsistenz und Haltbarkeit zu verbessern.  
 
@@ -135,7 +135,7 @@ A 20: Vektor: Trank, Haltbarkeit: 5 Jahre
 
 
 
-##Staubpilz 
+## Staubpilz 
 ~10k  
 **Sammeln:** 6/8/16
 K 0: Ätherisch (Sobald mit Flüssigkeit in Kontakt gebracht, vor Konsum, sinkt die Wirksamkeit)
@@ -154,7 +154,7 @@ K 18: Vektor: Auflösbares Pulver (30 L), Haltbarkeit 10 Jahre
 
 
 
-##Ziegenblume
+## Ziegenblume
 ~50k 
  
 K 0: 1 Maluswürfel bei mehr als 3 Runden Aktivität infolge
@@ -171,7 +171,7 @@ K 7 + A 13: Schlafmittel (in 1h/W); Versorgung +1
 
   
 
-##Katzenfarn  
+## Katzenfarn  
 
 ~50k  
 
@@ -189,7 +189,7 @@ A 16: Fermentiert (4wochen) W + 5
 
 
 
-##Grünes Prekorla 
+## Grünes Prekorla 
 
 ~50k  
 
@@ -209,7 +209,7 @@ A/K 20 Heilen +2
 
   
 
-##Gänsezunge
+## Gänsezunge
 
 ~50k  
 
@@ -229,7 +229,7 @@ A 15: Gift richtet einmalig drei Ticks Schaden sofort an.
 
 
 
-##Fieberfarn
+## Fieberfarn
 
 ~50k  
 
@@ -249,7 +249,7 @@ A 18: Schaden stattdessen W
 
   
 
-##Akem  
+## Akem  
 
 ~50k  
 A/K 0: Prickelndes Gefühl
@@ -268,7 +268,7 @@ A 15: 1xTaubheit(-1 auf Agilität und Fingerfertigkeitswürfe) pro Tick, dann in
 
 
 
-##Adrawurzel
+## Adrawurzel
 
 ~50k  
 K 0: leichte Paranoia /impending doom
@@ -283,7 +283,7 @@ A n: n/2 Giftbeständigkeit (Giftbeständigkeit wird von Giftwiderstand reduzier
 
   
 
-##Rotwarz
+## Rotwarz
 
 ~2s  
 K 0: Starke Rotfärbung, die nach und nach grau wird.
@@ -300,7 +300,7 @@ A 16: Vektor: Wolke(angebrannte Räucherbombe) Haltbarkeit 2 Monate
 
   
 
-##Kettenblatt  
+## Kettenblatt  
 
 ~2s  
 
@@ -324,7 +324,7 @@ A 16: Giftwiderstandswurfergebnis vor Modifikatoren immer 1 für dieses Gift
 
 
 
-##Schimmerpilz
+## Schimmerpilz
 
 ~2s  
 
@@ -366,7 +366,7 @@ A 16: stattdessen W +10
 
 8
 
-##Blaudorn  
+## Blaudorn  
 
 ~10s  
 
@@ -384,7 +384,7 @@ A 16: Tickrate stattdessen 10 Minuten
 
 
 
-##Knochenleimflechte
+## Knochenleimflechte
 
 ~15s  
 
@@ -407,7 +407,7 @@ A 15: +3 Bonus auf Ausdauer, Wendigkeit, Körperkraft, Fingerfertigkeit und Rüs
 A 17: Durchhaltewurf +10 für 1h, Ohnmachtsschwelle vervierfacht für 1h (aufgerechnet mit A10 und 12)   
 
 
-##Natternfäule
+## Natternfäule
 
 ~30s  
 
@@ -453,11 +453,11 @@ A 16: Bei einem identifikationswurf von weniger als 8 wird keinerlei Information
 
 # Kräuter und Zutaten der Duboker Höhlen 
 
-##Wanderkappe 
+## Wanderkappe 
 
 Hier und dort und überall, vorallem an feuchten, dunklen stelen, kann man ab und zu eine Wanderkappe finden. Ab und zu meint ab und zu, denn so mancher Pilzsammler wandte sich für einen Moment ab, nur um festzustellen, dass er den Pilz nicht wiederfinden konnte.
 
-##Leuchtpilz
+## Leuchtpilz
 
 ~1s
 

@@ -1,18 +1,18 @@
 title: Foki  
 tags:   
 Die Herrschaft von Prekor
-#Foki
-##Infrastructure
+# Foki
+## Infrastructure
  * faster movements
  * better taxes
-##Administration
+## Administration
  * Zensus (1. Jahr Wurf 16) Fokus auf Stadtbevölkerung
  * etablieren von Steuerverhältnissen (1.Jahr Wurf 16)
 
-##Education
+## Education
  * erste ergebnisse in 20 Jahren etwa
 
-##Specialists
+## Specialists
  * Gloria
    * artifacts
  * Taiem
@@ -29,7 +29,7 @@ Die Herrschaft von Prekor
    * general warcrimes
  * Establish the College of Assassins
 
-##Diplomacy
+## Diplomacy
  * Argyrier 
    * Feuerinseln
    * Dschungel    
@@ -49,20 +49,20 @@ Die Herrschaft von Prekor
    * Weiße Stadt
    * Aurier der Anderen Seite + agrarmykier
 
-##Military
+## Military
  * Boost militarization culture
  * make troops
  * Lead the armies
 
-##Popularity
+## Popularity
  * Swear to the throne
  * Praise the king
  * understand of the necessity of tax
 
-##Personal growth
+## Personal growth
  * magyxx
 
-##Religion
+## Religion
  * glänzender
  * Tanas
  * Ilargia

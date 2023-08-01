@@ -1,6 +1,6 @@
 title: Hilda  
 tags: character  
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Hilda|
@@ -9,31 +9,31 @@ tags: character
 |Talent|Mystisch = bei alle Würfen mit mystischen Fähigkeiten ist das Ergebnis um 1 zu erhöhen|
 |...|?|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
 | Agilität | 1 |
 | Geschick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|1|
 |Widerstehen|1|
 |Fußarbeit|1|
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 2 |
 | Sympathie | 1 |
 | Eindruck | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Autorität|2|
@@ -44,15 +44,15 @@ tags: character
 |Irreführung|2|
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 2 |
 | Bildung | 1 |
 | Geist | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Instinkt|1|
@@ -66,15 +66,15 @@ tags: character
 |Theologie|0|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
 | Praxis | 1 |
 | Einblick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Hexe|1|
@@ -86,15 +86,15 @@ tags: character
 
 
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
 | Disziplin | 1 |
 | Flow | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Erden Quelle|2|
@@ -106,8 +106,8 @@ tags: character
 |Eidetisches Gedächtnis|1|
 
 
-##Narrativ
-###Attribute 
+## Narrativ
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Schicksal | 1 |
@@ -115,7 +115,7 @@ tags: character
 | Wille | 5 |
 
 
-#Fortschritt
+# Fortschritt
 |Fähigkeit|gesammelt|
 |:-|:-|
 |Überzeugen|2/5|
@@ -136,7 +136,7 @@ Voller FP Erden 07.10.
 Voller FP Hexe 04.11.
 Voller FP Empathie 02.12.
 
-#Vorteile
+# Vorteile
 |Vorteil|gesammelt|
 |:-|:-|
 |Erden im Wald |Bonuswürfel bei Erden im Wald|
@@ -147,13 +147,13 @@ Voller FP Empathie 02.12.
 
 + plus Akquisepunkte aus Skills
 
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 
 |Ausstattung|Beschreibung|Anzahl|
 |-|-|-|
@@ -184,7 +184,7 @@ Voller FP Empathie 02.12.
 
 
 
-#Notizen
+# Notizen
 
 aktuelle Objektives:
 - vermehrt Adinras Vergiftungen; in allen Ständen; über einen längeren Zeitraum, mehrere Dosen; Opfer erinnern sich an nichts

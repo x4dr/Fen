@@ -52,7 +52,7 @@ Ruinzähler senken das Grundergebnis um 1 und sinken mit einer Rate von 1 pro 6 
 passiv  
 Wenn Verteidigungswirbel Eingesetzt wird, erhöhe Defensive um 2.
 
-###Wirbelkonter
+### Wirbelkonter
 passiv
 Alle Angriffe auf den Anwender deren Vorteil 0 oder kleiner ist, werden sofort mit einem Bonusangriff vergolten.
 

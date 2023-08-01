@@ -12,15 +12,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Stärke  
-###Attribute  
+## Stärke  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Gesundheit|4|  
 |Ausdauer|2|  
 |Körperkraft|1|  
   
-###Fähigkeiten  
+### Fähigkeiten  
   
 |Fähigkeiten|Level|  
 |:---|----:|  
@@ -30,7 +30,7 @@ Charakterkonzept:
 |Athletik|2|  
 |Zechen|2|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Tricks|1|  
@@ -39,8 +39,8 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Können  
-###Attribute  
+## Können  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Fingerfertigkeit|3|  
@@ -48,7 +48,7 @@ Charakterkonzept:
 |Rüstung|1|  
 |Artefakte|3|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Akrobatik|3|  
@@ -65,7 +65,7 @@ Charakterkonzept:
 |Reiten|0|  
 |Textilverarbeitung|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Ausweichen|3|  
@@ -76,18 +76,18 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Magie  
-###Quellen  
+## Magie  
+### Quellen  
 |Quellen|Level|  
 |:---|----:|  
 |Verstandt|3|  
   
-###Konzepte  
+### Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
 |???|3|  
   
-###Forma  
+### Forma  
 |Forma|Level|  
 |:---|----:|  
 |Lux|4|  
@@ -99,7 +99,7 @@ Charakterkonzept:
 |tutela|2|  
 |Disruptio|3|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Konzentration|2|  
@@ -108,21 +108,21 @@ Charakterkonzept:
 |Schnell Zaubern|1|  
 |Schlafzaubern|1|  
   
-###Aspekte  
+### Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
   
 &nbsp;  
   
-##Weisheit  
-###Attribute  
+## Weisheit  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|3|  
 |Erinnerungsvermögen|2|  
 |Wahrnehmung|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Forschung|2|  
@@ -132,7 +132,7 @@ Charakterkonzept:
 |Wissen(Gebiet)|0|  
 |Strategie|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|3|  
@@ -155,15 +155,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Charisma  
-###Attribute  
+## Charisma  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Eindruck|3|  
 |Durchsetzungsvermögen|2|  
 |Sympathie|4|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Diplomatie|1|  
@@ -176,33 +176,33 @@ Charakterkonzept:
 |Etiquette|0|  
 |Tratsch|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
   
 &nbsp;  
   
-##Schicksal  
-###Attribute  
+## Schicksal  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Glück|4|  
 |Mut|3|  
 |Gunst|1|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|1|  
 |Wille:|2|  
 |Göttliche Bindung (Gott):|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Schicksal|5|  
   
-###Talente  
+### Talente  
 |Talente|Level|  
 |:---|----:|  
 |Taggen|1|  

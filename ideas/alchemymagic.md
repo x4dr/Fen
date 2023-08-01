@@ -65,7 +65,7 @@ Werte dazwischen können linear interpoliert oder geschätzt werden
 
 Die meisten Zauber in dieser Sektion verstärken Alchemische Eigenschaften von Stoffen. Die Zauberzeiten sind die für den Prozess. Das Anwenden benötigt meist eine Runde nachdem die Stoffe bereit gemacht sind, kann aber je nach Situation auch länger benötigen.
 
-#Zauber
+# Zauber
 ### Biegen
 **Materialkomponenten**:  10g gereinigtes Wachs. 
 **Zauberzeit**: 1 Stunde

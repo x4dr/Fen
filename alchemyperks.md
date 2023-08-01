@@ -65,7 +65,7 @@ Erkenntnis kann ausgegeben werden um eine Karte für jede Stufe von Planung des 
 4 Stufen, Benötigt Konzept 2/3/4/5. Bewegungsgeschwindigkeiten sind 25%/50%/75%/100%. Für jedes genutzte Level werden am ende einer Runde eine Karte vom deck abgelegt.
 
 
-#Alchemievorteile
+# Alchemievorteile
 ## Beschleunigte Reaktion
 Zauberzeit kann für verdoppelte Materialkosten und einen Maluswürfel [um 1 verkürzt](magic#0) werden.
 

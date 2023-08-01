@@ -1,6 +1,6 @@
 title: Stahl von Schwertwacht  
 tags: Character Swordlad character  
-#Charakter
+# Charakter
 |Detail|Wert|
 |-|-|
 |Name | Stahl von Schwertwacht|
@@ -10,16 +10,16 @@ tags: Character Swordlad character
 |Augenfarbe|Blau|
 |...|?|
 
-#Werte
-##Stärke
-###Attribute
+# Werte
+## Stärke
+### Attribute
 |Attribut|Level|
 |-|-|
 | Kon | 4 |
 | Agi | 5 |
 | Kraft | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Schwerathletik | 2 |
@@ -36,7 +36,7 @@ tags: Character Swordlad character
 | Unarmed | 2 |
 | Speer| 1 |
 
-###Vorteile
+### Vorteile
 |Vorteil| |
 |-|-|
 |Flexibilitaet|1|
@@ -53,15 +53,15 @@ tags: Character Swordlad character
 |Weitschiessen| 4 |
 |Zielschiessen| 3 |
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Geschick | 4 |
 | Einblick | 2 |
 | Kompetenz | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Textilverarbeitung | 0 |
@@ -77,15 +77,15 @@ tags: Character Swordlad character
 | Kochen | 0 |
 | Tanzen | 1 |
 
-##Weisheit
-###Attribute
+## Weisheit
+### Attribute
 |Attribut|Level|
 |-|-|
 | Bildung | 3 |
 | Geist | 5 |
 | Wahrnehmung | 4 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Heilen | 2 |
@@ -107,20 +107,20 @@ tags: Character Swordlad character
 | Law | 2 |
 | PrekorisheImportants | 2 |
 
-###Vorteile
+### Vorteile
 | Vorteil | |
 | - | - |
 | Brandheiler | 1BW bei Branntwunden | 
 
-##Charisma
-###Attribute
+## Charisma
+### Attribute
 |Attribut|Level|
 |-|-|
 | Eindruck | 3 |
 | Durchsetzungsvermögen | 4 |
 | Sympathie | 4 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Handel | 1 |
@@ -136,15 +136,15 @@ tags: Character Swordlad character
 | Kunst | 0 |
 | Storyteller | 2 |
 
-##Schicksal
-###Attribute
+## Schicksal
+### Attribute
 |Attribut|Level|
 |-|-|
 | Glück | 2 |
 | Mut | 3 |
 | Gunst | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Wille | 2 |
@@ -153,7 +153,7 @@ tags: Character Swordlad character
 | Begegnung | 1 |
 | Fügung | 1 |
 
-###Vorteile
+### Vorteile
 | Vorteil | |
 |-|-|
 | Talent | Stärke |
@@ -161,11 +161,11 @@ tags: Character Swordlad character
 | Finger | 10 |
 
 
-#XP
+# XP
 (20 fplv4 ) <- Chargen Punkte
 (18xp) <- GenericSpent
 
-##Fähigkeitsxp
+## Fähigkeitsxp
 
 [Legende[[specific:conventions:xp:kurz:-]]]
 
@@ -196,13 +196,13 @@ tags: Character Swordlad character
 
 
 
-#Techniken
+# Techniken
 	Wache
         Kings Execution
 
-#Inventar
+# Inventar
 
-##Auf Reisen
+## Auf Reisen
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|

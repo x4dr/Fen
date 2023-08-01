@@ -46,7 +46,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 20R/10S - beschworen, explodiert bei Sonnenlicht - Obsidian-Kugelplattenrüstung  
 # Werte  
 ## Stärke  
-###Attribute  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Konstitution|3|  
@@ -343,7 +343,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Muster: Reaktionär||||
 |Gesamt||||
 
-##Zwischengelagert
+## Zwischengelagert
 |Name|Anzahl|Gewicht|Preis|  
 |:-|-:|-:|-:|
 |Stahlschrott			|13.81	|1.00 kg 	|	|

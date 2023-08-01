@@ -14,9 +14,9 @@ Wundheilpendel
 
 &nbsp;  
 
-##Stärke  
+## Stärke  
 
-###Attribute  
+### Attribute  
 
 |Attribute|Level|  
 
@@ -28,7 +28,7 @@ Wundheilpendel
 
 |Körperkraft|1|  
 
-###Fähigkeiten  
+### Fähigkeiten  
 
 |Fähigkeiten|Level|  
 
@@ -44,9 +44,9 @@ Wundheilpendel
 
 &nbsp;  
 
-##Können  
+## Können  
 
-###Attribute  
+### Attribute  
 
 |Attribute|Level|  
 
@@ -62,7 +62,7 @@ Wundheilpendel
 
   
 
-###Fähigkeiten  
+### Fähigkeiten  
 
 |Fähigkeiten|Level|  
 
@@ -92,9 +92,9 @@ Wundheilpendel
 
   
 
-##Magie  
+## Magie  
 
-###Quellen  
+### Quellen  
 
 |Quellen|Level|  
 
@@ -106,7 +106,7 @@ Wundheilpendel
 
 Edelstein 20/20/??  
 
-###Konzepte  
+### Konzepte  
 
 |Konzepte|Level|  
 
@@ -116,7 +116,7 @@ Edelstein 20/20/??
 
   
 
-###Aspekte  
+### Aspekte  
 
 |Aspekte|Level|  
 
@@ -130,7 +130,7 @@ Edelstein 20/20/??
 
   
 
-###Zauber  
+### Zauber  
 
 |Zauber|Level|  
 
@@ -158,7 +158,7 @@ Edelstein 20/20/??
 
   
 
-###Vorteile  
+### Vorteile  
 
 |Vorteile|Level|  
 
@@ -174,9 +174,9 @@ Edelstein 20/20/??
 
   
 
-##Weisheit  
+## Weisheit  
 
-###Attribute  
+### Attribute  
 
 |Attribute|Level|  
 
@@ -190,7 +190,7 @@ Edelstein 20/20/??
 
   
 
-###Fähigkeiten  
+### Fähigkeiten  
 
 |Fähigkeiten|Level|  
 
@@ -212,7 +212,7 @@ Edelstein 20/20/??
 
   
 
-###Vorteile  
+### Vorteile  
 
 |Vorteile|Level|  
 
@@ -252,9 +252,9 @@ Edelstein 20/20/??
 
   
 
-##Charisma  
+## Charisma  
 
-###Attribute  
+### Attribute  
 
 |Attribute|Level|  
 
@@ -268,7 +268,7 @@ Edelstein 20/20/??
 
   
 
-###Fähigkeiten  
+### Fähigkeiten  
 
 |Fähigkeiten|Level|  
 
@@ -298,9 +298,9 @@ Edelstein 20/20/??
 
   
 
-##Schicksal  
+## Schicksal  
 
-###Attribute  
+### Attribute  
 
 |Attribute|Level|  
 
@@ -314,7 +314,7 @@ Edelstein 20/20/??
 
   
 
-###Fähigkeiten  
+### Fähigkeiten  
 
 |Fähigkeiten|Level|  
 
@@ -330,7 +330,7 @@ Edelstein 20/20/??
 
   
 
-###Vorteile  
+### Vorteile  
 
 |Vorteile|Level|  
 

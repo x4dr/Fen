@@ -2,7 +2,7 @@ title: Seegard
 tags: Stadt  
 [TOC]
 
-#Die Stadt
+# Die Stadt
 ## Beschreibung
 Als Tor von Prekor bekannt, läuft nahezu sämtlicher [Seehandel](seehandel in prekor) aus oder nach Prekor durch Seegard und auch für Händler die das östliche aurische Meer lediglich durchfahren, ist es als Anlegestelle beliebt. Große Handelsvolumen und Absatz, vergleichsweise stabile Stadtpolitik und eine Sonderstellung von Reisenden und Händlern machen die Stadt für Gäste aller Art interessant. Reisende aus ganz Prekor und dem Kontinent kehren hier ein und geben ihr Geld aus. Seit jeher wurden Steuern oder Tribute erhoben, Embargos durchgesetzt oder in einigen Fällen sogar ganze Schiffe beschlagnahmt, was den regierenden [Aurier](aurier)n ermöglicht hat auch nach dem Fall des Imperiums eine große Region zu Kontrollieren und ihre eigene Herrschaft zu sichern. Es ist also kein Wunder, dass Seegard mit seiner Regentin [Nysgaris](nysgaris) die Stadt war, die die anderen der prekorer Region durch [Krieg, Wirtschaft und Diplomatie](prekorkrieg) vereint hat.
 Da aber nicht aller Reichtum dieser Stadt nur in den Händen der Herrschenden liegt, gibt es immer wieder Sekundärparteien, seien es einflussreiche aurische Häuser, Händlerverbände oder mächtige Individuen wie [Jacun](jacun), der mit Schmuggel, Drogen, Bestechung und einem Kader von ihm finanzierten Würdenträgern eine nahezu einzigartige Position erreicht hat. Mit der Einführung der [Gilden](gilden) durch Königin [Nysgaris](nysgaris) ist das Kräftegleichgewicht zwar noch weiter zu Ungunsten des Thrones gekippt, allerdings hatte sie damit wieder eine relative Mehrheit und war in der Lage nicht nur die durch die Gilden gestärkte Wirtschaftliche Leistung Seegards und Prekors auszunutzen, sondern auch effektiv zu regieren.
@@ -12,7 +12,7 @@ Da aber nicht aller Reichtum dieser Stadt nur in den Händen der Herrschenden li
 
 Nach dem Tod [Nysgaris](nysgaris)' zeigten sich allerdings Risse in ihrem Plan. Keine Partei ist stark genug um zu regieren, die Stadt selbst zu stark um von außen erobert zu werden, so sehr sie doch richtungslos vor sich hin mäandert und eine Partei nach der anderen erstarkt, Anspruch auf den Thron erhebt und schließlich untergraben und entmachtet wird. Weiterhin ist das Königreich noch um mehrere Millionen Goldmünzen verschuldet, was ein Problem ist von dem vielerseits erwartet wird, das ein wahrer Nachfolger [Nysgaris](nysgaris)' es löst.
 
-###Parteien
+### Parteien
 
 #### Die Glänzenden
 

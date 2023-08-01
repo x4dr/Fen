@@ -2,8 +2,8 @@ title: Herstellung von Gegenständen
 tags:   
 [TOC]
 
-#Herstellung
-##Plan
+# Herstellung
+## Plan
 Die Details über das Projekt kommen von einem Plan, der entweder in jemandes Kopf oder auf irgendwo aufgeschrieben [existiert](crafting). Vielleicht muss er auch erst [erforscht](science) werden.
 
 
@@ -45,7 +45,7 @@ Größe nimmt nicht ab, aber eventuell muss Ausstattung repariert werden.
 |17-19|Meisterwerk|95%|  
 |20|Perfektion|100%|  
 
-####Serienverarbeitung
+#### Serienverarbeitung
 
 Vor allem für Projekte die einfach sind oder der Charakter zuvor schon mehrfach unternommen hat, kann Serienverarbeitung angebracht sein. Serienverarbeitung funktioniert explizit nur mit kleinen Projekten.
 
@@ -60,7 +60,7 @@ Einer der 3 letzten Würfe bei der Serienverarbeitung darf ignoriert werden, der
 
   
 
-#####Beispiel: Magischer Gürtel  
+##### Beispiel: Magischer Gürtel  
 
 Materialien: Lederstreifen, Metall: 100g, Magischer Stein  
 

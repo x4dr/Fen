@@ -26,11 +26,11 @@ Mittlerweile Gildenmeisterin der Schneider in Seegard, Dame der High Society und
 
 
 
-##Stärke
+## Stärke
 
   
 
-###Attribute 
+### Attribute 
 
 
 
@@ -46,7 +46,7 @@ Mittlerweile Gildenmeisterin der Schneider in Seegard, Dame der High Society und
 
 
 
-###Fähigkeiten
+### Fähigkeiten
 
 
 
@@ -84,11 +84,11 @@ Waffe (Beißen) - 2
 
 
 
-##Können
+## Können
 
 
 
-###Attribute
+### Attribute
 
 
 
@@ -104,7 +104,7 @@ Waffe (Beißen) - 2
 
 
 
-###Fähigkeiten
+### Fähigkeiten
 
 
 
@@ -144,7 +144,7 @@ Tierbeherrschung - 1
 
 
 
-##Magie
+## Magie
 
 
 
@@ -162,7 +162,7 @@ Tierbeherrschung - 1
 
 
 
-##Weisheit
+## Weisheit
 
 
 
@@ -212,7 +212,7 @@ Navigation - 0
 
 
 
-##Charisma
+## Charisma
 
 
 
@@ -278,7 +278,7 @@ Tratsch - 3
 
 
 
-###Fähigkeiten
+### Fähigkeiten
 
 	
 

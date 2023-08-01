@@ -7,50 +7,50 @@ Alle Vorteile des dreifachen weges sind nur mit einem ausgerüsteten zweihändig
 
 Haltungen werden reflexiv eingenommen, nur eine Haltung kann gleichzeitig aktiv sein. Boni und Mali einer Haltung beginnen mit der freien Phase.
 
-##Haltungen
-###Grundhaltung
+## Haltungen
+### Grundhaltung
 +1 Offensive, +1 Defensive
 
-###Aggressive Haltung
+### Aggressive Haltung
 +3 Offensive, -2 Defensive
 Eine beliebige Resonanz löst einen automatischen Treffer für jede Stufe der Resonanz über 1 aus, Schaden dieses Treffers ist die Zahl mit der Resoniert wird.
 
-###Defensive Haltung
+### Defensive Haltung
 -5 Offensive, +4 Defensive
 Halbierte Bewegungsreichweite, Defensive gilt im Fernkampf
 Der Anwender erhält für jeden Angriff auf ihn einen Wut-Zähler. 
-####Wutzähler 
+#### Wutzähler 
 Für jede Runde außerhalb eines Kampfes geht ein Wutzähler verloren. 
 Aller angerichteter Hack-Schaden ist um die Anzahl der Wutzähler erhöht.
 Nachdem der Schaden erhöht wurde, geht eine Wutzähler verloren.
 
-###Halbschwert Haltung
+### Halbschwert Haltung
 -1 Offensive, -1 Defensive, Kurzschwertreichweite
 Aller eingehender Schaden ist um 2 gesenkt und aller ausgehender Stich- und Schlagschaden um 2 erhöht.
 
-###Wirbelhaltung
+### Wirbelhaltung
 +2 Offensive
 Nach jedem Erfolgreichen Angriff ist für den Preis von 1 Offensive ein extra Angriff auf ein anderes Ziel in reichweite möglich
 Bewegungsreichweite ist halbiert.
 
-###Projezierte Verteidigung
+### Projezierte Verteidigung
 Bewegungsreichweite ist 0
 Jedes mal wenn ein Ziel in Reichweite eine aggressive Handlung auf ein Ziel das nicht ausschließlich der Anwender selbst ist ausführt erhält der Anwender einen zusätzlichen Bonusangriff auf dieses Ziel. Der Bonusangriff wird vor der Handlung des Ziels abgehandelt.
 Der normale Angriff muss, sofern er gemacht wird, bei Initiative 0 stattfinden auf ein Ziel das vorher in der freien Phase für alle sichtbar ausgewählt wird. Nach dem der normale Angriff erfolgt ist, werden statt zusätzlichen Bonusangriffe nur normale Bonusangriffe generiert.
 
-###Taktisches Ausmanövrieren
+### Taktisches Ausmanövrieren
 einmal pro Kampfrunde kann reflexiv
 zwischen +3 Offensive, -3 Defensive oder -3Offensive, +3Defensive entschieden werden
 
-##Übergänge
+## Übergänge
 
-###Grundhaltung Einnehmen
+### Grundhaltung Einnehmen
 * => Grundhaltung
 
 reflexiv
 Wechsel zu Grundhaltung, andere Waffenschulen sind nicht zugänglich
 
-###Verlassen
+### Verlassen
 * =>
 
 Wechsel aus allen Haltungen, andere Waffenschulen sind wieder zugänglich
@@ -58,27 +58,27 @@ Wechsel aus allen Haltungen, andere Waffenschulen sind wieder zugänglich
 reflexiv
 Wechsel zu Grundhaltung
 
-###Verteidigen
+### Verteidigen
 Grundhaltung => Defensive Haltung
 
 Technik
 Keine Angriffe, +5 Defensive. 
 Wechsel zu [Defensive Haltung](longsword#defensivehaltung)
 
-###Umgreifen 
+### Umgreifen 
 Grundhaltung => Halbschwert Haltung
 
 Technik, Vorraussetzung: Grundhaltung
 1 Maluswürfel, Stichangriff. 
 Wechsel zu [Halbschwert Haltung](longsword#halbschwerthaltung)
 
-###Vorpreschen
+### Vorpreschen
 Grundhaltung => Aggressive Haltung
 
 Es muss sich mindestens die Hälfte der Bewegungsreichweite bewegt werden. -2 Defensive. 
 Wechsel zu [Aggressive Haltung](longsword#aggressivehaltung)
 
-###Repositionierung
+### Repositionierung
 Defensive Haltung => Grundhaltung
 
 Keine Gelegenheitsangriffe auf Anwender, Volle Bewegungsreichweite, normaler Hackangriff.
@@ -99,7 +99,7 @@ reflexiv
 Wenn ein verbündetes Ziel in Reichweite erfolgreich angegriffen wurde.
 Wechsel zu Projezierter Verteidigung
 
-###Tritt
+### Tritt
 Halbschwert Haltung => Grundhaltung
 
 Bei Vorteil von 4 und mehr wird das Ziel das höchstens doppelt so viel wiegt wie der Anwender bis zu 5 meter zurückgestoßen, umgestoßen und liegt inklusive der nächsten Runde auf dem Boden. 
@@ -120,7 +120,7 @@ reflexiv
 Wenn mit einem Stichangriff 0 Schaden angerichtet wurde:
 Wechsel zu Taktisches Ausmanövrieren
 
-###Drohung
+### Drohung
 Aggressive Haltung => Grundhaltung
 
 Die Runde tauscht der Anwender seinen Angriff gegen einen zusätzlichen Bonusangriff aber erhält keine Gelegenheitsangriffe auf Ziele die sich auf gerader Linie von ihm wegbewegen. Nächste Runde tauscht er seine Freie Phase gegen einen zusätzlichen Bonusangriff.

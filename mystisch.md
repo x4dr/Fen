@@ -2,19 +2,19 @@ title: Vorteile und Fähigkeiten der Mystischen Attribute
 tags:   
 [TOC]
 
-#Attribute
+# Attribute
 
 * **Konzentration** ist für sofortige, konzentrierte Aktionen und das Ausblenden von Ablenkungen
 * **Disziplin** für passive, stetig aktive Effekte, Drills und Längerfristiges bzw gegen Unterbrechung
 * **Flow** ist eine Mischung aus Improvisation/in der "Zone" sein, Intuition und Erfahrung, meistens die kurzfristigen, unterbrechbaren Aktionen oder kontinuierliche Tätigkeiten
 
-#Magie
+# Magie
 
 "Magie" in diesem Sinne gibt es nicht, der Begriff existiert als nützliches Wort beim Hineinschauen in die Welt. Die Charactere die diese Fähigkeiten betreiben würden sie als Künste, Spezielle Handwerke, besondere Talente, tips und tricks oder mundane, wenn auch spezialisierte Ausübung ihrer allgemeinen Tätigkeiten Ansehen.
 
 Diese "Tätigkeiten" teilen häufig sich in 3 Teile: Quelle, Konzept und Aspekt. um etwas zu Bewirken werden sie kombiniert, Im allgemeinen sind magieähnliche Tätigkeiten in zwei Schritten abzuhandeln: Zuerst wird die Möglichkeit mit Hilfe der Quelle hergestellt und dann genutzt um per Aspekt etwas zu Bewirken. Einer dieser beiden Würfe erfordert eine weitere Fähigkeit, die es erlaubt mit der Umwelt zu interagieren, der andere Wurf nutzt das Konzept.
 
-##Quelle
+## Quelle
 
 Quelle stellt auf eine Art oder die Andere die Möglichkeit bereit etwas zu bewirken. Innen wie außen, um großen zu bewirken muss irgend eine Form von Preis gezahlt werden.
 Die Quelle wirkt sich thematisch auf die Art und Weise aus, auf die das Konzept angewand wird - und färbt damit potentiell auch die Effekte, aber hauptsächlich ist die Frage, die ein Quellwurf beantwortet ob oder wieviel von der gewünschten Handlung ausgeführt werden kann.

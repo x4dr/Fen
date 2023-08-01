@@ -1,6 +1,6 @@
 title:   
 tags:  character  
-#Charakter
+# Charakter
 
 |||
 |-|-|
@@ -12,20 +12,20 @@ tags:  character
 |Haarfarbe|Silberbraun|
 |Statur|Athletisch/Sehnig|
 
-##Bewaffnung
+## Bewaffnung
 
 - Panzerbrecher
 - Dolch (Blutmagie)
 
-##Rüstung
+## Rüstung
 
 - Abenteurerausrüstung
 
 
-#Details
-##Allgemeine Erscheinung  
+# Details
+## Allgemeine Erscheinung  
 
-##Hintergrund
+## Hintergrund
 - früher einfacher Soldat/Sergeant
 - Frau und Sohn bei Überfall tödlich verwundet und konnten aufgrund mangelnder Heilungskentnisse nicht gerettet werden
 - Schulung in Blutmagie/Heilung
@@ -54,18 +54,18 @@ Schwäche:
   
 
 
-#Werte
+# Werte
 
-##Stärke  
+## Stärke  
 
-###Attribute  
+### Attribute  
 |Attribut|Level|
 |-|-|
 |Konstitution|2|
 |Kraft|2|
 |Agilität|3|
 
-###Fähigkeiten      
+### Fähigkeiten      
 |Fähigkeit|Level|  
 |-|-|  
 |Rennen|1|
@@ -74,21 +74,21 @@ Schwäche:
 |Dolch|1|
 |Schwerathletik|0|
     
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |||
 
-##Können
+## Können
 
-###Attribute
+### Attribute
 |Attribut|Level|
 |-|-|
 |Geschick|2|  
 |Einblick|4|  
 |Kompetenz|3|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|
 |Chirugie|3|
@@ -100,22 +100,22 @@ Schwäche:
 |Logistik|1|
 |Reiten|1|  
 
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |||
    
 
-##Weisheit
+## Weisheit
 
-###Attribute  
+### Attribute  
 |Attribut|Level|
 |-|-|
 |  Bildung |5|  
 |  Geist |3|  
 |  Wahrnehmung |3|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level| 
 |-|-| 
 |Heilen|4|  
@@ -130,21 +130,21 @@ Schwäche:
 |Suchen|1|
 |Instinkt|0|
  
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |||
  
-##Charisma
+## Charisma
 
-###Attribute  
+### Attribute  
 |Attribut|Level|  
 |-|-|  
 |  Eindruck |2|  
 |  Durchsetzungsvermögen |4|  
 |  Sympathie |2|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level|  
 |-|-| 
 |Rhetorik|3|
@@ -155,31 +155,31 @@ Schwäche:
 |Kunst (Singen)|2|
 |Spiele|1|
 
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |||
    
-##Magie
+## Magie
 
-###Quellen
+### Quellen
 | Quelle|  Level |    
 |-|-|
 |Blutmagie|3|
 
-###Konzepte
+### Konzepte
 |Konzept | Level|
 |-|-|
 |Blutsymbole|1|
 
-###Aspekte
+### Aspekte
 | Aspekt |  Level|    
 |-|-|  
 |Lebensmagie|2|
 |Feuer|1|  
 |Illusion|1|  
 
-###Zauber
+### Zauber
 |Zauber|Name|
 |-|-|
 |Entzündung stoppen|[Leben[[specific:lifemagic:Entzündung stoppen:-]]]|
@@ -195,21 +195,21 @@ Schwäche:
 
 
 
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |||
 
-##Schicksal
+## Schicksal
 
-###Attribute
+### Attribute
 |Attribut|Level|  
 |-|-|  
 |  Glück |4|  
 |  Mut |2|  
 |  Gunst |2|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level| 
 |-|-| 
 |Wille|3|  
@@ -218,15 +218,15 @@ Schwäche:
 |Wendung|2|
 |Fügung|2|
 
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |||
  
 
-#XP
+# XP
 [Legende[[specific:conventions:xp:kurz:-]]]
-##Fortschrittspunkte
+## Fortschrittspunkte
 |Fähigkeit | XPCode |
 |-|-|
 |Schwerathletik|V|
@@ -235,7 +235,7 @@ Schwäche:
 |Tosisbindung|[Tosistempel]|
 |Rhetorik|K|
 
-#Inventar  
+# Inventar  
 
 - Opal der Tradition (jede Woche +1 auf Maximum)
 - Almanach:
@@ -246,21 +246,21 @@ Schwäche:
 # Alchemierezepte
 - Atterkan Lähmungsgift/Antidot (Lähmungswiderstand gegen 5 nötig)
 
-##Zauber
-###Leben
+## Zauber
+### Leben
 [Entzündung stoppen[[specific:lifemagic:entzündung stoppen:-]]]
 [Leben erhalten[[specific:lifemagic:leben erhalten:-]]]
 [Leben kanalisieren[[specific:lifemagic:leben kanalisieren:-]]]
 [Herz stoppen[[specific:lifemagic:leben herz stoppen:-]]]
 [Leben schützen[[specific:lifemagic:leben schützen:-]]]
-###Feuer
+### Feuer
 [Gleißende Berührung[[specific:firemagic:gleißende berührung:-]]]
 [Schutz vor Feuer[[specific:firemagic:Schutz vor Feuer:-]]]
-###Illusion
+### Illusion
 [Unsichtbarkeit[[specific:illusionmagic:unsichtbarkeit:-]]]
 [Schmerz[[specific:illusionmagic:schmerz:-]]]
 [Schmerz Dämpfen[[specific:illusionmagic:schmerzdämpfung:-]]]
-##Waffen
+## Waffen
 Stahl Panzerbrecher
 [[[weapon:Panzerbrecher:L10HSCB]]]
 Stahldolch(L10)  

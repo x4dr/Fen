@@ -5,14 +5,14 @@ Erweitert mit dingen die ihr craften wollt und alles was ihr noch an aufgeschrie
 
 [TOC]
 
-#Herstellung
+# Herstellung
 Die Herstellungsregeln im allgemeinen sind [hier](artificing) zu finden.
 
-##Stoff
+## Stoff
 
-##Metall
+## Metall
 
-###Aufbereitung
+### Aufbereitung
 Anforderungen:
 Werkstatt Größe 2 Metallverarbeitung/Alchemie, Qualität 1(Bronze, Kupfer, Zinn), 3(Eisen), 5(Titan)
 größere Mengen benötigen spezialisiertes Gerät
@@ -43,11 +43,11 @@ Titan Erz oder Schrott senkt das Ergebnis um eine Kategorie
 
 Das Ergebnis sind Verarbeitungsfertige Barren. Der einzige andere Verlust der auftreten kann ist wenn diese Barren zu Schrott werden. Alle gegenstände die nahezu ausschließlich aus dem Metall bestehen können als Schrott verarbeitet werden. 
 
-###Amalkan Ersatzteile
+### Amalkan Ersatzteile
 Anforderung: Schmiede Größe 1 Qualität 2
 
 
-####Reparaturteil
+#### Reparaturteil
 Material: 1kg beliebiges Metall 
 Dauer: 1h
 Bonuswürfel bei Qualität [3,4,5]
@@ -61,7 +61,7 @@ Bonuswürfel bei Qualität [3,4,5]
 
 Mit 3h Arbeit, kann ein Reparaturteil, das kein Schrott ist, überarbeitet werden. Dies ersetzt die aktuelle Komplexität.
 
-####Ersatzteil
+#### Ersatzteil
 Material: 10kg beliebiges Metall
 Dauer: 4h
 Aufwand: 30
@@ -74,7 +74,7 @@ mehr als 1: Teil Schrott
 10 Resonanz 1: Fortschritt +10
 mehr als 1: Teil Fertig
 
-####Reparatur an der Schmiede
+#### Reparatur an der Schmiede
 Material: 1kg beliebiges Metall pro Schadenspunkt der Wunde
 Dauer: Schadenspunkte Stunden 
 
@@ -83,9 +83,9 @@ Wenn der Durchschnitt der letzten 3 Würfe größer oder gleich 5+Wundschwierigk
 
 Output: 1kg Schrott pro Input
 
-##Holz
+## Holz
 
-##Alchemie und Kräuterkunde
+## Alchemie und Kräuterkunde
 Hier können auch Lieblingsgebräue eingetragen werden!
 
-##Konstruktion
+## Konstruktion

@@ -1,9 +1,9 @@
 title: Forma  
 tags: Forma Magie  
 [TOC]
-#Formamagie  
+# Formamagie  
 
-##Worte der Macht  
+## Worte der Macht  
 
 **Zauber** bestehen aus aneinandergereihten **Forma** mit jeweils sich nicht widersprechenden **Modifikation**en.
 Forma können mehrfach mit unterschiedlichen Modifikationen gewirkt werden.
@@ -18,7 +18,7 @@ Das ausführen einer Forma erhält keine Boni oder Mali mit freien Händen, Gege
 **Zauber unkontrolliert fallen lassen** kann reflexiv immer getan werden, aber löst eine Rückkopplung in Höhe der Anzahl dieser Runde fallengelassener Zauber (inklusive diesem) aus.
 Zauber sind nur beeinflusst von der Zusammensetzung von Forma, nicht von Anzahl oder Reihenfolge.
 
-##Modifikationen  
+## Modifikationen  
 
 Werden durch gesten, Inflektion oder spezifische Bewegungen ausgelöst.
 Modifikationen sind Vorteile und müssen gesondert erlernt werden.
@@ -37,7 +37,7 @@ Modifikatoren bzw Handlungen die sich Widersprechen können nicht Kombiniert wer
 |Reinheit <Forma>[1-3]| alle Forma |klares, deutliches, lautes, ausholendes, exaktes zaubern der Forma | Benötigt enrsprechendes Forma auf 2/3/5; 1/2/3 Bonuswürfel; nur niedrigste Reinheit im Zauber zählt| keine anderen Modifikatoren außer Reinheit im Zauber|
 
   
-#Zauberparameter  
+# Zauberparameter  
 
 |Eigenschaft|Art der Bestimmung|  
 |:---|:----|  
@@ -48,16 +48,16 @@ Modifikatoren bzw Handlungen die sich Widersprechen können nicht Kombiniert wer
 |Wurfmodifikator| Produkt aller Wurfmodifikatoren|  
 
 
-##Effekt Forma  
+## Effekt Forma  
 
 Kerneffekte des Zaubers  
-###Synergie Forma:  
+### Synergie Forma:  
 Verändern den Kerneffekt eines Zaubers  
-###Modifikator Forma:    
+### Modifikator Forma:    
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.     
 Benötigt mindestens eine nicht Modifikator Forma im Zauber 
    
-#Forma  
+# Forma  
 
 ## Impello  
 
@@ -78,7 +78,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Mehr Geschwindigkeit|schnelle, werfende Gesten| Doppelte Geschwindigkeit | 1 Maluswürfel | 
 
 
-##Disruptio  
+## Disruptio  
 
 |Typ|Art|  
 |:---|:----|  
@@ -96,7 +96,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Gerichtete Explosion|Gestikuliertes Richten und drücken in die Richtung| 135° Kegelförmige explosion | 1 Maluswürfel |
 |Ätherische Explosion| Fokus, Explosion geht vom Objekt aus statt es explodieren zu lassen, Explosionsrichtung |  
 
-##Sisto  
+## Sisto  
 
 |Typ|Art|  
 |:---|:----|  
@@ -112,7 +112,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Langfristiges Anhalten|Umkreisen des Zieles, dreimaliges Sprechen| Dauer ist Konzentration| Zauberzeit 1 Minute |
 
    
-##Fulgur  
+## Fulgur  
 
 |Typ|Art|  
 |:---|:----|  
@@ -128,7 +128,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |---|---|---|---|
 |Geladener Blitz|In einen berührten Gegenstand reingestikulieren| Objekt hält Ladung und wirkung geht auf berührenden | 1 Instabilität/ Runde|
   
-##Ignis  
+## Ignis  
 
 |Typ|Art|  
 |:---|:---|  
@@ -144,7 +144,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Farbiges Feuer| Sprechen der Farbe | Flamme ändert die Farbe | - |
   
     
-##Meta  
+## Meta  
 
 |Typ|Art|  
 |:---|:----|  
@@ -159,7 +159,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |---|---|---|---|
 |Höhere Reichweite[1-5]|lang ausholende Bewegung| Modifikator stattdessen -(1 pro 5+Stufe meter) | 1 Runde pro Stufe|
   
-##Persona  
+## Persona  
 
 |Typ|Art|  
 |:---|:----|  
@@ -175,7 +175,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |---|---|---|---|
 |Dicht dabei | Hand wird in Richtung Ziel ausgestreckt | Reichweite 1 meter | 1 Maluswürfel |
   
-##Tutela  
+## Tutela  
 
 |Typ|Art|  
 |:---|:----|  
@@ -191,7 +191,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Dauerhafter Schutz | abschreiten des entsprechenden Kreises | Dauer:Konzentration | 1 Minute |
 
 
-##Lux  
+## Lux  
 
 |Typ|Art|  
 |:---|:----|  
@@ -213,7 +213,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Farbiges Licht| aussprechen der Farbe als adjektiv zu lux | Farbiges Licht | - |
 
   
-##Terra  
+## Terra  
 
 |Typ|Art|  
 |:---|:----|  
@@ -229,7 +229,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Sandstrom|Rieselnde Handbewegung| Erzeugt einen strom aus Sand | 1/Runde |
 |Granulat| Formende Handbewegung, Intonation| erzeugt stattdessen größeres Granulat (Schotter, Steine, Fels)| 1 Maluswürfel pro Stufe |
 
-##Stabilis   
+## Stabilis   
 
 |Typ|Art|  
 |:---|:----|  
@@ -239,7 +239,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Tickrate| 1/Runde |  
 |Wurfmodifikator| 1|  
 
-##Praecantatio  
+## Praecantatio  
 
 |Typ|Art|  
 |:---|:----|  
@@ -251,7 +251,7 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 
 Als Modifikator auf andere Effekte sorgt es für Verbindung und Konversion von Energie
 
-##Inanis
+## Inanis
 
 |Typ|Art|  
 |:---|:----|  
@@ -260,7 +260,7 @@ Als Modifikator auf andere Effekte sorgt es für Verbindung und Konversion von E
 |Dauer| sofort |  
 |Wurfmodifikator| 1/6 |  
 
-##Plenus
+## Plenus
 
 
 |Typ|Art|  
@@ -271,7 +271,7 @@ Als Modifikator auf andere Effekte sorgt es für Verbindung und Konversion von E
 |Wurfmodifikator| Special: BonusSelektor|  
 
   
-#Weitere Zauber
+# Weitere Zauber
 Beispiele
 
 |Forma|Wirkung|  

@@ -9,15 +9,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Stärke  
-###Attribute  
+## Stärke  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Gesundheit|3|  
 |Ausdauer|2|  
 |Körperkraft|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Rennen|0|  
@@ -25,7 +25,7 @@ Charakterkonzept:
 |Wundheilung|0|  
 |Athletik|3|  
   
-###Waffen  
+### Waffen  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Langbogen|5|  
@@ -35,8 +35,8 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Können  
-###Attribute  
+## Können  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Fingerfertigkeit|3|  
@@ -44,7 +44,7 @@ Charakterkonzept:
 |Rüstung|2|  
 |Artefakte|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Metallverarbeitung|0|  
@@ -62,30 +62,30 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Magie  
-###Quellen  
+## Magie  
+### Quellen  
 |Quellen|Level|  
 |:---|----:|  
   
-###Konzepte  
+### Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
   
-###Aspekte  
+### Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
   
 &nbsp;  
   
-##Weisheit  
-###Attribute  
+## Weisheit  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|3|  
 |Erinnerungsvermögen|2|  
 |Wahrnehmung|3|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Heilen|0|  
@@ -95,7 +95,7 @@ Charakterkonzept:
 |Strategie|0|  
 |Taktik|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|0|  
@@ -115,15 +115,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Charisma  
-###Attribute  
+## Charisma  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Eindruck|2|  
 |Durchsetzungsvermögen|2|  
 |Sympathie|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Handel|0|  
@@ -138,29 +138,29 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Schicksal  
-###Attribute  
+## Schicksal  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Glück|3|  
 |Mut|3|  
 |Gunst|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|0|  
 |Wille:|0|  
 |Göttliche Bindung (Gott):|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Schicksal|0|  
   
 &nbsp;  
   
-##Progress  
+## Progress  
 |Fähigkeiten|Level|Progress|  
 |:---|----:|---:|  
 |Medizin |1|90|  
@@ -171,7 +171,7 @@ Charakterkonzept:
 |Fingerfertigkeit|4|480|  
 |Holzverarbeitung|2|30|  
   
-###Inventar  
+### Inventar  
 |Item|Menge|  
 |:-—-|—-—:|  
 |Rotwarz|1|  

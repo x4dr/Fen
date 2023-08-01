@@ -1,6 +1,6 @@
 title: Bögen  
 tags:   
-#Bögen
+# Bögen
 Bogentypen sind unterschiedliche Fähigkeiten, hier wird nur von "Bogen" gesprochen, gemeint ist der spezifische Bogen. Unterschiedliche Bogentypen können alle untereinander als Unterfähigkeiten angehangen werden.
 
 In jeder Freien Phase solange der Bogen in der Hand ist erhöhe Bogenzähler um Kraft+Bogen, solange Bogenzähler kleiner als (Kraft+Bogen)×4 sind
@@ -21,7 +21,7 @@ Beschädigte Bogensehne reißt.
 3: Bogen wird beansprucht/beschädigt. Beanspruchter Bogen wird beschädigt, beschädigter Bogen bricht
 4: Bogen Bricht.  
 
-##Langbogen
+## Langbogen
 Reichweite 5m  
 Grundreichweite 10m
 [15, 20, 25, 30, 35]
@@ -29,7 +29,7 @@ Grundreichweite 10m
 [65, 70, 75, 80, 85]
 Ziehen 4, Anvisieren 4, Schießen 4
 
-##Kurzbogen
+## Kurzbogen
 Reichweite 2m
 Grundreichweite 20m
 [22, 24, 26, 28, 30]
@@ -50,7 +50,7 @@ Wenn Schaden erlitten wird, ist der Bogen nicht mehr gezogen.
 Volle Aktion
 Kostet **Schießen** Bogenzähler, Bogen wird abgeschossen
 
-#Vorteile
+# Vorteile
 Alle diese Vorteile können ab Stufe 1 für jeweils 1 Monat Training Erlernt werden, aber jeder Bogenschütze hat eine persönliche Technik. Diese Technik enthält 3 Vorteile pro Stufe des Bogentyps und 
 kann innerhalb eines Monats passiven (etwa 2 Stunden training pro Tag) beliebig aus den gelernten Vorteilen neubesetzt werden.
 
@@ -95,19 +95,19 @@ Schaden +Wurzel(Höhe über das Ziel in Meter)
 ## Höhenvorteil Zielen
 Angriff +Wurzel(Höhe über das Ziel in Meter) Bonuswürfel
 
-##Langbogen Nahschuss
+## Langbogen Nahschuss
 passiv  
 Startreichweite +5*n meter, kann bis zu 5 mal trainiert werden
 
-##Langbogen Weitschuss
+## Langbogen Weitschuss
 passiv  
 Reichweite +n meter kann bis zu 5 mal trainiert werden
 
 
-##Kurzbogen Nahschuss
+## Kurzbogen Nahschuss
 passiv  
 Startreichweite +3*n meter, kann bis zu 5 mal trainiert werden
 
-##Kurzbogen Weitschuss
+## Kurzbogen Weitschuss
 passiv  
 Reichweite +n/2 meter kann bis zu 5 mal trainiert werden

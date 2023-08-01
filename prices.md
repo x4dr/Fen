@@ -60,19 +60,19 @@ tags:
 | Fruchtbares Land | 2a |  200000t |
 
 
-#Details
-##Seil
+# Details
+## Seil
 10 Meter
-##Drachenglas
+## Drachenglas
 10 Punkte, zerfällt nach Gebrauch zu Quartzsand
 ## Kreide
 kleine Kreidestücke
 für 50% extra in verschiedenen farben
 
-##Fruchtbares Land
+## Fruchtbares Land
 1 ha, kommt mit der Verpflichtung 1/12 der Erwitschafteten Reichtümer an den Aurier abzugeben - Und generell 1s Steuern Pro ha pro Jahr.   
 
-#Dienstleistungen
+# Dienstleistungen
 |Dienstleistungen | Preis |  
 | :--- | ---: |  
 | Aufladen | 5s/Punkt |  

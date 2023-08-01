@@ -19,7 +19,7 @@ modifiziert von Medizin, Umgebung, Bettruhe usw
 Überzählige Bonus bzw Maluswürfel zählen als 10 bzw 1 respektive.
 
 
-##Entzündung
+## Entzündung
 Eine Wunde kann mehrere Stufen von Entzündung haben. Wunden werden idR mit Entzündungsstufe 0 geschaffen, können aber sich aber durch Magie, Techniken oder Pech bei der Wundheilung entzünden.
 Einmal am Tag (direkt vor dem Wundheilungswurf, wenn einer gemacht wird) erhöht sich die Größe jeder Wunde um ihre Entzündungsstufe.
 Jede entzündete Wunde trägt außerdem einen Maluswürfel zum Heilungswurf bei.
@@ -27,9 +27,9 @@ Der Versorgungswurf eines Heilers kann Entzündungsstufen wieder bis auf 0 Reduz
 
 # Heilung
 
-##Faktoren
+## Faktoren
 
-###Tabelle
+### Tabelle
 |Faktor | Effekt |  
 | --- | --- |  
 |Transport| 1M |  
@@ -82,13 +82,13 @@ Ein anderer Heiler kann einen Patienten erneut Versorgen, aber ersetzt das Ergeb
 
 Nach der Abhandlung des Entzündungsschadens, wird in der Reihenfolge der höchst-entzündeten (dann größten, dann ältesten) Wunde ein Heilungsbonuswürfel konsumiert (so vorhanden), um die Entzündungsstufe um 1 (bis auf 0) zu senken. Weder die Maluswürfel der Entzündung noch die Bonuswürfel des Heilens werden auf den Heilungswurf angewendet.
 
-##Argyrier
+## Argyrier
 Der Heilungswurf eines Argyriers erhöht die aktuelle Heilungskraft.
 Zuerst werden Entzündungen abgehandelt, in dem solange die Heilungskraft größer als 1 ist, die Heilungskraft um 2 und Entzündungsstufe der kleinsten entzündeten Wunde um 1 reduziert wird.
 Solange die Schwierigkeit einer Wunde kleiner ist als die aktuelle Heilungskraft, wird die Schwierigkeit von der Heilungskraft abgezogen und die Wunde heilt um 1.
 Wenn ein Argyrier keine Wunden hat, fällt die aktuelle Heilungskraft auf 0.
    
-##Mykier  
+## Mykier  
 Haben einen Reserve HP Pool (der nur relevant wird bei mehreren Verletzungen) der Zelldichte symbolisiert (den Charakteren nicht bekannt). Konstitution Reserve HP pro Woche werden generiert, während Hunger und Durst anderthalb mal abgedeckt sind. Das maximum für BonusHp ist Konstitution*5+5. 
 
 Mykier können sich in eine Heilungstrance versetzen, in der sie sich rasant Heilen können. Das Eintreten in die Heilungstrance benötigt eine Runde, solange sie in der Heilungstrance sind haben sie 4 Maluswürfel auf alles außer Heilung. Diese Maluswürfel nehmen mit einer Rate von 1/Runde ab, nachdem die Heilungstrance (als Aktion) beendet wird.
@@ -127,17 +127,17 @@ Amplitude Bonuswürfel, heute.
 
 Mykier können außerdem von ihrem Erdheim nachproduziert werden (über ein paar Wochen) oder mit Bonuslebenspunkten Versorgt werden. Dies erfordert entsprechende Ressourcen vom Erdheim (Annahme für ein Mittelgroßes Erdheim: Einmal alle 5 Jahre nachproduzieren bzw 1 Bonuslebenspunkt am Tag.)
 
-##Menschen
+## Menschen
 Wunden die nach einem Monat keinen Heilungsfortschritt erzielt haben, spalten eine 1 Punkte Schwierigkeit 20 Narbe ab senken ihre Schwierigkeit um 1. 
 Alle Wunden heilen gleichzeitig.  
 
 1Resonanz beim Wundheilungswurf bedeutet, dass eine zufällige Wunde sich entzündet/verschlimmert hat. Wenn diese Wunde schon betroffen war, steigt die Resonanz um 1 und wird dann abgehandelt. 
 
-###Resonanzen
+### Resonanzen
 [[specific:healing:heilung:aurier:resonanzen:-]]
 
 
-##Aurier
+## Aurier
 Wunden die nach einem Monat keinen Heilungsfortschritt erzielt haben, spalten eine 1 Punkte Schwierigkeit 20 Narbe ab senken ihre Schwierigkeit um 1.  
 Wenn nach der Verrechnung mit Bonuswürfeln noch Maluswürfel angewendet werden würden, werden diese  halbiert (und Richtung 0 gerundet)
 
@@ -164,25 +164,25 @@ Wenn nach der Verrechnung mit Bonuswürfeln noch Maluswürfel angewendet werden 
 |4| gewählte Wunde heilt um die Hälfte, dann weiter bei 3|  
 
 
-##Atterkan
+## Atterkan
  Wenn genug Essen und Wasser vorhanden ist, kann ein Wundheilungswurf gemacht werden in dem sich für eine Woche zurückgezogen und gehäutet wird. Rüstwert des Exoskellets und alle Wunden werden um den Wurf geheilt, Gift und Seide kann durch von der Wundheilung übrigen Punkte geshiftet werden (mit den dazugehörigen Diätänderungen).
 
 
 
-##Amalkan
+## Amalkan
 
 Wenn genug [Ersatzteile oder Reparaturteile](crafting#amalkan-ersatzteile) vorhanden sind, kann ein Reparaturwurf mit Geschick,Metallverarbeitung gemacht werden, 1 Maluswürfel, wenn sich selbst repariert wird, Wissen(Amalkan) als Bonuswürfel. Eine Wunde benötigt ein Komplexität [Wundschwierigkeit] Reparaturteil, 10 Minuten Arbeit (plus Transport der Teile) und einen Wurf von 5+[Wundgröße] um um 1 Reduziert zu werden. Nichterfolgreiche Würfe machen das Reparaturteil zu Schrott (Würfe können ignoriert werden, wenn stattdessen 3 Stunden aufgewand werden.) Erfolgreicher Austausch eines Teils liefert Schrott des selben Gewichts.
 
 Ersatzteile schließen eine Wunde vollständig und benötigen stattdessen nur einen Wurf von 5, aber 12 Stunden Arbeit. 
 
 
-#Behandlung
+# Behandlung
 
-##Operation
+## Operation
 (Geschick,Heilung)
 Kann von Charakteren mit Medicus Vorteil genutzt werden um einen Heilungsversuch bei einer spezifischen, operierbaren Wunde zu machen. Die Größe des Eingriffes beschränkt den Wurf nach oben und kann frei gewählt werden. Das Ergebnis des Wurfes wird von der Wunde abgespalten (originale Wunde kann auf 0 sinken) und Schwierigkeit -2. Dann wird eine neue Wunde mit der Größe des Eingriffes und Schwierigkeit 5 angewendet. Wunden die auf diese Art behandelt oder erzeugt wurden, können nicht wieder operiert werden, bis die Operationswunde verheilt ist.  
 
-##Wundversorgung
+## Wundversorgung
 (Kompetenz, Heilung)
 Salben, Verbände und Materialien geben Modifikatoren und Effekte.
 Siehe [[[specific:healing:wundheilung:heilungsmodifikatoren:heiler]]]

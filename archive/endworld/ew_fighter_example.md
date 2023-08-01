@@ -30,7 +30,7 @@ tags:
 |Eindruck|1|  
 |Sympathie|3|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Name|Wert|
 |-|-|
 |Handel|1|  
@@ -40,7 +40,7 @@ tags:
 |Kontrolle|3|  
 |Etiquette|0|
 
-##Mental
+## Mental
 
 ### Attribute
 |Name|Wert|
@@ -59,7 +59,7 @@ tags:
 |Taktik|2|  
 |Navigation|0|  
 
-##Tech
+## Tech
 
 ### Attribute
 |Name|Wert|

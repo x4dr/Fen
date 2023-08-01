@@ -1,6 +1,6 @@
 title: Rüstung  
 tags:   
-#Rüstung
+# Rüstung
 
 | Rüstung            | Schutz | Stabilität | Gewicht  | Preis| Reparatur Pro Punkt |
 | :---               |-------:|-----------:|---------:|-----:|--------------------:|
@@ -17,7 +17,7 @@ tags:
 
 Material macht für Rüstungen bis auf Preis kaum einen Unterschied: Eisen und Bronze sind etwa gleich hart und Stahl bietet einige Anpassungsmöglichkeiten, muss aber von einem Schmied mit den entsprechenden Fähigkeiten und dem Material repariert werden und lohnt sich deswegen finanziell kaum.
 
-##Beschreibungen
+## Beschreibungen
 ### Schwere Kleidung
 Ob in Bürgerlichem, Bäuerlichen oder gehobenem Stil, schwere Kleidung ist erkennbar als Kleidung guter Qualität und großer Widerstandsfähigkeit. Gegen aktive Mordversuche richtet sie wenig aus, aber durchaus mehr als andere Formen der Körperbedeckung.
 

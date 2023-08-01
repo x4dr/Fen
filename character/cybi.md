@@ -1,6 +1,6 @@
 title:   
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Cybi |
@@ -10,16 +10,16 @@ tags:
 |Hobbies| Tanz, Gesang und Meditation |
 |Mag| Hamus, Steine, Mond und Shiny Stuff|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
 | Agilität | 1 |
 | Geschick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Fußarbeit | 1 |
@@ -28,8 +28,8 @@ tags:
 | Reflexe | 1 |
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 2 |
@@ -37,7 +37,7 @@ tags:
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Beobachtungsgabe | 2 |
@@ -50,8 +50,8 @@ tags:
 
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 2 |
@@ -59,7 +59,7 @@ tags:
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Instinkt | 1 |
@@ -68,8 +68,8 @@ tags:
 | Naturkommunikation | 2 |
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
@@ -77,7 +77,7 @@ tags:
 | Einblick | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Glitzer | 2 |
@@ -86,49 +86,49 @@ tags:
 | Feinschmied | 1 |
 | Heilen | 1 |
 
-##Mystisch
+## Mystisch
 
 
-###Attribute 
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 2 |
 | Disziplin | 2 |
 | Flow | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Tanas Bindung | 1 |
 
-###Konzept
+### Konzept
 |Fähigkeit|Wert|
 |-|-|
 |Tanz| 2 |
 |Gesang| 2 |
 |Meditation| 1 |
 
-###Quelle
+### Quelle
 |Fähigkeit|Wert|
 |-|-|
 |Mondlicht| 1 |
 
-###Aspekt
+### Aspekt
 |Fähigkeit|Wert|
 |-|-|
 |Illusion| 2 |
 |Manifestation| 2 |
 |Lebensmagie| 1 |
 
-##Narrativ
-###Attribute 
+## Narrativ
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Schicksal | 4 |
 | Gunst | 5 |
 | Wille | 1 |
 
-#Vorteil
+# Vorteil
 |Fähigkeit|Beschreibung|
 |-|-|
 |Toxische Empathie | Überträgt per Kontaktgift Gefühle.|
@@ -139,10 +139,10 @@ tags:
 |Überladung | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat. |
 |Paartanz | Der Tanz mit einem Partner lässt diesen die Effekte des Tanzes, ohne zusätzliche Kosten, teilen. |
 
-#Zauber
+# Zauber
 [[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
 
-#Fortschritt
+# Fortschritt
 |Fähigkeit|EXP|
 |-|-|
 |Tanz|2/5|
@@ -165,7 +165,7 @@ tags:
 |Smalltalk|4/5|
 |Heilen|4/5|
 
-#Inventar
+# Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
 |-|-|-|-|-|
 | Kupfer | 20 | 0 | 20 | Währung |
@@ -178,7 +178,7 @@ tags:
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
 | Augebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
 
-##Ausrüstung
+## Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
 |Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|9/20|
@@ -187,7 +187,7 @@ tags:
 |Geschenk von Hamus|-|-|Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.|?|
 
 
-##Besitz
+## Besitz
 |Name|Beschreibung|
 |-|-|
 | Silbernes Kästchen | Kleine Schmuckschatulle, versilbert, von ideellem Wert|

@@ -49,11 +49,11 @@ Militärbasis, größtenteils unbesetzt, zur Reparatur der Dämmerung errichtet,
 Abgrundhoher Himmel
 große sklavenbasierte metropole mit "weisen" 
 
-##Akh-Antargat
+## Akh-Antargat
 Abgrundhoher Himmel/Im Berg
 Untergrund Stadt in der alles gut und toll ist, jeder ist wohlhabend, niemand hungert.
 
-##Akh-Satta
+## Akh-Satta
 Der Gipfel
 
 # Chaoslande

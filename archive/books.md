@@ -1,6 +1,6 @@
 title: Bücher  
 tags:   
-#Regeln zum Bücherlesen
+# Regeln zum Bücherlesen
 
 Notation A;B;C(;D)  
 
@@ -24,9 +24,9 @@ der Aktuelle Zustand kann auf 0 zurückgesetzt werden (die aktuellen Information
 
 
 
-##Apokryphische Religionen Prekors (25)
+## Apokryphische Religionen Prekors (25)
 
-###Lesendenverzeichnis
+### Lesendenverzeichnis
 
 Avis 3;25;22
 

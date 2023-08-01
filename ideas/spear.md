@@ -2,7 +2,7 @@ title: Speer
 tags:   
 [TOC]
 
-#Langspeer
+# Langspeer
 
 (inhärent: Gegner mit Kürzerer Reichweite die in der letzten runde keinen Vorteil von 0 oder mehr hatten, müssen 1 maluswürfel nachwerfen wenn sie angreifen;)
 

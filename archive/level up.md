@@ -1,7 +1,7 @@
 title: Fähigkeitssteigerungen  
 tags: rules leveling costs  
 [TOC]
-#Leveling
+# Leveling
 6 Kategorien, 4 davon sind für alle:
 Stärke/Können/Charisma/Weisheit
 Magie ist für alle die Magie ausüben und funktioniert leicht anders
@@ -15,7 +15,7 @@ Vorteile sind spezifische Vorteile für den Charakter, kosten ebenfalls FP (die 
 
 Attribute und einige Fähigkeiten für die Kategorien: Einträge mit () dahinter gelten jeweils für etwas spezifisches unter dieser Kategorie. Die Fähigkeitslisten sind nicht Vollständig.
 
-##Anforderungen 
+## Anforderungen 
 10 Anforderungen je Level müssen erfüllt werden um eine Fähigkeit zu steigern. Wenn eine Anforderung mehrfach erfüllt werden kann ist in Klammern angegeben wie oft. Vorteile benötigen im Normalfall ebenfalls nur eine erfüllte Anforderung, diese muss allerdings Training, Praxis oder XP sein.
   
 
@@ -30,10 +30,10 @@ Attribute und einige Fähigkeiten für die Kategorien: Einträge mit () dahinter
 * Kritische Anwendungen sind Anwendungen die die Geschichte nach vorn bringen.
 * Inspiration ist eine Charaktermotivation sich mit dem erlernen einer neuen Fähigkeit beschäftigen zu wollen. Inspiration wird entweder ausgelöst wenn eine solche Fähigkeit nützlich wäre und dies dem Charakter bewusst ist, oder der Charakter von jemandem beeindruckt ist, der diese Fähigkeit ausführt.
   
-##Fähigkeitspunkte
+## Fähigkeitspunkte
 [Legende[[specific:conventions:xp:kurz:-]]]
 allgemeiner Fall
-###Level 1
+### Level 1
 * 1 Woche Training oder 1 Monat herumprobieren (5)  
 * Lehrer auf level >=2
 * Lehrer auf level >=3
@@ -45,7 +45,7 @@ allgemeiner Fall
 * Inspiration (3)
 * Perspektive (3)
 
-###Level 2
+### Level 2
 * 2 Wochen Training oder 2 Monate herumprobieren (4)  
 * Lehrer auf level >=3
 * Lehrer auf level >=4
@@ -57,7 +57,7 @@ allgemeiner Fall
 * Versagen (3)
 * Perspektive (3)
 
-###Level 3
+### Level 3
 * 1 Monat Training oder 6 Monate herumprobieren (3)  
 * Lehrer auf level >=4
 * Lehrer auf level >=5
@@ -68,7 +68,7 @@ allgemeiner Fall
 * Versagen (3)
 * Perspektive (4)
 
-###Level 4
+### Level 4
 * 2 Monate Training oder 1 Jahr herumprobieren (2)  
 * Lehrer auf level >=5
 * Magnum Opus (1)
@@ -78,7 +78,7 @@ allgemeiner Fall
 * Versagen (3)
 * Perspektive (5)
 
-###Level 5
+### Level 5
 * 6 Monate Training oder 2 Jahre herumprobieren (2)  
 * Legendäre Tat (3)
 * Kritische Anwendung (5)
@@ -103,7 +103,7 @@ Ein Beispiel für Sprachen wären, "Kein Lesen", "Kein Schreiben", "Kein Hören"
 Zu jeder einzelnen Fähigkeit ist eine Liste zu führen (am besten in der Zeile darunter) in der Notiert wird welche Fortschrittspunkte erreicht wurden. Am besten wäre auch, Details zu vermerken (Was war die Kritische Anwendung, von wo kommt die Perspektive, usw). Dies entfällt wenn es ein Log/Historie über die Abenteuer des Charakters gibt in der das Eingetragen wird.
 
 
-##Magie und Schicksal
+## Magie und Schicksal
 Die Kategorien Magie und Schicksal haben ihre eigenen Regeln, da Schicksal viele Dinge abbildet die man nicht direkt üben kann und Magie etwas ist das sich ein wenig Irregulär verhält.  
   
 ### Quelle
@@ -132,11 +132,11 @@ Fügung - Pech haben/Konsequentes ausspielen mit negativen Konsequenzen.
 Schicksalsfähigkeiten können durch Handlungen/Umstände auch wieder sinken!
 
 
-##Attribute
+## Attribute
 Attribute erfordern Aufstiegspunkte innerhalb ihrer Kategorie. Sie werden getrennt verbraucht, das heist, sie können noch für Fähigkeiten und Vorteile genutzt werden, aber die, die Attributsanforderungen erfüllen, können keine Anderen Attributsanforderungen Erfüllen. Auch Attribute mit denen das Spiel begonnen wird, Konsumieren diese Anforderungen.
 
 
-###Anforderungen
+### Anforderungen
 
 
 

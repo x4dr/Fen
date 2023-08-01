@@ -1,6 +1,6 @@
 title:   
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Hyronimus |
@@ -9,16 +9,16 @@ tags:
 |Konzept| Fahrender Chirurg |
 |...|?|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
 | Agilität | 1 |
 | Geschick | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Athletik|1|
@@ -29,8 +29,8 @@ tags:
 |Überlebenskunst|0|
 |Werfen|1|
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 3 |
@@ -38,7 +38,7 @@ tags:
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Authorität|2|
@@ -49,8 +49,8 @@ tags:
 |Stil|1|
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 3 |
@@ -58,7 +58,7 @@ tags:
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Instinkt|1|
@@ -70,8 +70,8 @@ tags:
 |Wissen()|2|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
@@ -79,7 +79,7 @@ tags:
 | Einblick | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Behelfsbauten|2|
@@ -88,8 +88,8 @@ tags:
 |Pharmazie*|2|
 |Schweißen|2|
 
-##Spezial
-###Attribute 
+## Spezial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
@@ -97,14 +97,14 @@ tags:
 | Flow | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Wagenlenken|2|
 |Pyromanie|2|
 
-##Narrativ
-###Attribute 
+## Narrativ
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Resistenz | 4 |
@@ -113,9 +113,9 @@ tags:
 
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
@@ -123,5 +123,5 @@ tags:
 |Handschuhe (weiß)|2|150|-|
 |Arztkoffer|1|8000|-|
 
-##Ausrüstung
+## Ausrüstung
 Steampunk Traktor mit Operationsraumanhänger.

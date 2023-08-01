@@ -1,19 +1,19 @@
 title: Endworld  
 tags: template character  
 # Character  
-##Name
+## Name
 Blank
-##Concept
+## Concept
 This is a "Blank" example sheet to be copied and filled in
 in your specific, character sheet named yourname
 Later it can be rendered with /ewsheet/yourname 
-##Player
+## Player
 Blank
-##Resistance
+## Resistance
 0 
-##Fate
+## Fate
 0 
-##Affinity
+## Affinity
 0
 
 # Werte

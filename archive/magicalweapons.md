@@ -2,8 +2,8 @@ title:
 tags:   
 [TOC]  
 
-#Elementarwaffen  
-##Ätherische Klingen  
+# Elementarwaffen  
+## Ätherische Klingen  
 Klingen ohne Kollision bieten -3 Defensive -2 offensive.
 Für jede Waffenart kann eine Vorteilskette "Ätherisches Kämpfen" gelernt werden, die 
  -3 Def und +1 Off pro Vorteilspunkt für Kämpfen mit ätherischen Klingen (jeweils 1 punkt der jeweiligen stufe bis 5)

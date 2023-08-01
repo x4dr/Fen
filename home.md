@@ -12,14 +12,14 @@ bisher ist nur ein kurzer scribble über [Aurier](aurier) verfügbar aber das so
 
 Sie wohnen hier, bis sie einen Besseren Platz finden. Der rest ist in [Kampf](combat) [Heilung](healing) [Charaktererstellung](3d10f) oder ähnlichen orten. Die können hier auch gerne von dir hinzugefügt werden.
 
-##Selektoren
+## Selektoren
 Ein Selektor wählt einen Wert aus einem Wurf, in aufsteigender Reihenfolge geordnet, anhand seines eigenen Wertes aus.
 Der Selektor "1" wählt den niedrigsten würfel aus, "2" den zweitniegrigsten und so weiter.
 Der Selektor "0" wähl keinen würfel aus (ein wert von 0)
 Selektoren mit einem Wert höher als die Anzahl der würfel, wählen stattdessen den höchsten Würfel aus.
 
-#Tragekapazität
-##Reisen
+# Tragekapazität
+## Reisen
 
 (Konstitution&times;2+Relevante Fähigkeiten)&times; 5 kg für unbehindertes Reisen, setzt entsprechende Rucksäcke und Taschen vorraus Jede Überschreitung um (Konstitution&times;2+Relevante Fähigkeiten) &times; 2 kg, erteilt eines Maluswürfel auf Körperliche Aktivitäten/Reisen.
 
@@ -32,19 +32,19 @@ Selektoren mit einem Wert höher als die Anzahl der würfel, wählen stattdessen
 und andere Fähigkeiten die auf das langfristige Tragen von Gepäck/zurücklegen langer strecken spezialisiert sind. 
 nicht relevant sind Survival, Fußarbeit, Rennen und ähnliche "aktive" skills die nicht direkt auf das Tragen spezialisiert sind.
 
-##Kämpfen
+## Kämpfen
 Im Sinne des Spielflusses wird angenommen, dass Gepäck das ungehindert getragen werden kann, abgelegt wird ohne Zeit zu kosten, sobald Kampfaktivitäten stattfinden und aufgesammelt wird, ohne dass spezifisch davon gesprochen wird. Fluchtszenen oder wo es sonst relevant ist, werden angesagt. Wenn das Gepäck nicht abgelegt wird, löst es einen Maluswürfel mehr aus, als beim Reisen.
 
 
 
-#Artefaktkapazität
+# Artefaktkapazität
 Ein Charakter der mehr als Einblick + MagieHandwerk (+ Entsprechende Vorteile) Artefakte bei sich trägt, riskiert bei Magischer Rückkopplung (Benutzung eines Artefaktes, Ziel oder Quelle eines Magischen Effektes der Rückkoppelt zB durch 1-Resonanz, usw) ein zufälliges Artefakt irreparabel zu beschädigen, was sich auf verschiedene Weisen, aber meistens negativ, äußern kann. Explosionen, Anwendungen/Umgekehrte/unkontrollierte Anwendungen und dergleichen sind möglich.
 Ein doppeltes Überschreiten dieses Maximalwertes löst Magische Rückkopplung bei normaler 1er-Resonanz aus.
 
-#Physik
+# Physik
 Es gibt keine Physik. Jeder Effekt ist durch die unten genannten Regeln nur da abgedeckt wo es gerade Sinn ergibt. Die selben Effekte folgen meist den selben Regeln und die Regeln dienen nur dazu Näherungen zu den Effekten innerhalb der Welt zu sein, aber selbst dort gibt es keinen Grund warum es in Fen keine unterschiedliche Formen zB von Kälte geben sollte, die unterschiedlich auf Hitzequellen, isolation und Wasser reagieren können. Nichts verbietet Wasser das Trinkbar, rein und perfekt Flüssig ist aber weit Kälter als 0 Grad ist. Normalerweise gefriert Wasser bei 0 Grad. Wenn es aber irgendwo einen Grund gibt, sei dies der Wille eines Gottes oder die Forschung eines Alchemisten, dann sind die Gesetze der Physik eher höfliche aber nicht zwingende Empfehlungen.
 
-##Licht
+## Licht
 ### Lichtstärke
 |Effektstärke |Helligkeit| leuchtradius |
 |--- |---|---|

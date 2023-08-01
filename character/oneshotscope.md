@@ -1,6 +1,6 @@
 title:   
 tags: character  
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Scope|
@@ -9,16 +9,16 @@ tags: character
 |Konzept|Auspex Cannon|
 |Cover | Fotograf/Künstler |
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
 | Agilität | 3 |
 | Geschick | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Rennen | 2 |
@@ -27,8 +27,8 @@ tags: character
 | Sniper | 2 |
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 2 |
@@ -36,7 +36,7 @@ tags: character
 | Eindruck | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Tratsch | 2|
@@ -45,8 +45,8 @@ tags: character
 | Diplomatie | 2| 
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 5 |
@@ -54,7 +54,7 @@ tags: character
 | Geist | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Suchen | 3|
@@ -64,8 +64,8 @@ tags: character
 | Menschenkenntnis | 2|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
@@ -73,14 +73,14 @@ tags: character
 | Einblick | 4 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Forensik | 2|
 | Fotograf | 2|
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 3 |
@@ -88,7 +88,7 @@ tags: character
 | Flow | 4 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Aurasight Visualizer | 2|
@@ -98,9 +98,9 @@ tags: character
 | LinkJump | 2|
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
@@ -108,5 +108,5 @@ tags: character
 |Covert Cyberaugen Ohren und Nase||||
 |Uplink||||
 
-##Ausrüstung
+## Ausrüstung
 

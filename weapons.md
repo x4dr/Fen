@@ -2,8 +2,8 @@ title: Waffen
 tags: Weapon rules  
 [TOC]  
 
-#Waffen
-###Kurzschwert
+# Waffen
+### Kurzschwert
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 2 | 3 | 3 | 4 | 5 | 5 | 6 | 7 | 7 | 9 |   
@@ -11,7 +11,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 2 | 2 | 3 | 4 | 4 | 5 | 6 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |   
 
-###Langschwert
+### Langschwert
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 3 | 4 | 5 | 5 | 6 | 6 | 7 | 8 | 8 | 9 |   
@@ -19,7 +19,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 6 |   
 | [Schlagen](damage#b-stumpf)      | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6 |   
 
-###Dolch
+### Dolch
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 1 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 6 |   
@@ -27,7 +27,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 8 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 5 |  
 
-###Hammer
+### Hammer
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
@@ -35,7 +35,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Schlagen](damage#b-stumpf)      | 3 | 3 | 3 | 3 | 3 | 3 | 7 | 7 | 7 | 7 | 
 
-###Schlagringe
+### Schlagringe
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
@@ -43,7 +43,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Schlagen](damage#b-stumpf)      | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6 | 
 
-###Axt
+### Axt
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 2 | 2 | 2 | 3 | 3 | 4 | 7 | 8 | 10 | 14 |   
@@ -51,7 +51,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 1 | 2 | 3 | 4 | 4 | 5 | 6 | 
 | [Schlagen](damage#b-stumpf)      | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 5 | 
 
-###Säbel
+### Säbel
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 2 | 3 | 3 | 4 | 5 | 5 | 6 | 7 | 7 | 8 | 
@@ -59,7 +59,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 1 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 6 | 8 |    
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 4 |  
 
-###Panzerbrecher
+### Panzerbrecher
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 1 | 2 | 2 | 3 | 4 | 5 | 6 | 7 | 7 | 8 |    
@@ -67,7 +67,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 1 | 2 | 2 | 3 | 4 | 5 | 6 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 5 |  
 
-###Kurzspeer
+### Kurzspeer
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10|   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 | 5 | 6 |   
@@ -75,7 +75,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |   
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 5 |  
 
-###Langspeer
+### Langspeer
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10|   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 6 | 6 | 8 |   
@@ -84,7 +84,7 @@ tags: Weapon rules
 | [Schlagen](damage#b-stumpf)      | 3 | 3 | 3 | 4 | 4 | 4 | 5 | 5 | 5 | 7 |  
 
 
-###Kurzschleuder
+### Kurzschleuder
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   
@@ -92,7 +92,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |    
 | [Schlagen](damage#b-stumpf)      | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 |   
 
-###Peitsche 
+### Peitsche 
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 |   
@@ -100,7 +100,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |   
 | [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 5 |  
 
-###Wurfmesser
+### Wurfmesser
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   
@@ -108,7 +108,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |    
 | [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |     
 
-###Langbogen
+### Langbogen
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 8 | 8 | 9 | 9 | 10 | 10 | 11 | 11 | 12 | 13 |   
@@ -116,7 +116,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |    
 | [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-###Kurzbogen
+### Kurzbogen
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 3 | 4 | 4 | 5 | 5 | 6 | 6 | 7 | 8 | 9 |   
@@ -124,7 +124,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |    
 | [Schlagen](damage#b-stumpf)      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
 
-###Langschleuder
+### Langschleuder
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
@@ -132,7 +132,7 @@ tags: Weapon rules
 | [Schneiden](weapons#c-schneiden) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |    
 | [Schlagen](damage#b-stumpf)      | 3 | 4 | 4 | 5 | 5 | 6 | 6 | 7 | 8 | 9 |
 
-###Kurzschleuder
+### Kurzschleuder
 | Wert                             | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |   
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hacken](damage#h-Hacken)        | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   
@@ -143,29 +143,29 @@ tags: Weapon rules
 
 # Waffeneigenschaften
 Waffen bieten, auch ohne Training unterschiedliche Anwendungsmöglichkeiten.
-##Kurzschwert
-##Langschwert
-##Dolch
-##Hammer
-##Schlagringe
-##Axt
-##Säbel
-##Panzerbrecher
-##Kurzspeer
-##Langspeer
-###Stellunghalten
+## Kurzschwert
+## Langschwert
+## Dolch
+## Hammer
+## Schlagringe
+## Axt
+## Säbel
+## Panzerbrecher
+## Kurzspeer
+## Langspeer
+### Stellunghalten
 passiv
 Solange der Reichweitenvorteil gegeben ist, erhalte einen Gelegenheitsangriff auf alle die sich in Reichweite Begeben.
-##Wurfmesser
-##Langbogen
-##Kurzbogen
-##Langschleuder
-##Kurzschleuder
+## Wurfmesser
+## Langbogen
+## Kurzbogen
+## Langschleuder
+## Kurzschleuder
 
  
 
 # Anmerkungen  
-##Schadenstypen  
+## Schadenstypen  
 [sind möglichkeiten für was die Waffe eingesetzt werden kann, erstmal unterscheiden sie nichts](damage)
 
 
@@ -175,7 +175,7 @@ Solange der Reichweitenvorteil gegeben ist, erhalte einen Gelegenheitsangriff au
 * Unterbrechbar bedeutet, dass wenn während des gesamten Lade oder Angriffvorgangs der Schütze von einem Angriff getroffen wird, der gesamte Prozess von vorn begonnen werden muss, um anzugreifen.
 * Teilunterbrechbar bedeutet, dass wenn der Ladevorgang schon erfolgreich war, er nicht ebenfalls wiederholt werden muss. Sonst wie Unterbrechbar.
 
-##Langwaffen  
+## Langwaffen  
   
 * sind aktiv zu tragen (andere aktionen mit beiden händen erfordern ein ablegen und wiederaufnehmen und selbst manche einhändige)
 * müssen daher meistens geholt werden bevor man sie benutzen kann (eine runde zum waffe vom rucksack abschnallen/vom wagen nehmen/hinrennen usw PLUS die runde zum bereit machen)
@@ -189,8 +189,8 @@ Solange der Reichweitenvorteil gegeben ist, erhalte einen Gelegenheitsangriff au
 ### Avis Magische Peitsche
  Wie Peitsche
 
-####Besonderheiten
+#### Besonderheiten
 reflexiv: Bei einem erfolgreichen Angriff, kann 1 Offensive ausgegeben werden um sofort einen weiteren Angriff mit dem neuen Offensivwert auf ein Ziel in Reichweite zu machen, das diese Runde noch nicht angegriffen wurde.
-#####Schnittsturm
+##### Schnittsturm
 Technik: Die Offensive dieser Runde wird vermerkt und ist danach 0 (zb für Gelegenheitsangriffe). Die Vermerkte Offensive wird für jeden bewegten Meter um 1 reduziert. Am Anfang der Kampfphase der nächsten Runde werden ALLE Ziele in Reichweite mit der vermerkten Offensive angegriffen. Die restliche Runde, inklusive Angriff findet wie normal statt.
 Frequenz 1 Resonanz: Amplitude Befreundete Ziele werden angegriffen, mit Bonus 2 * Amplitude Offensive für diesen Angriff

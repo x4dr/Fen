@@ -16,7 +16,7 @@ Siehe [Die Kurzschwert Kampfschule](shortsword)
 # Anspringen
 Anspringen: Hälfte des Stärke-Springen Wurfes ist Bonusoffensive für den Angriff in der Nächsten Runde. Nutzt Maximum Springen n.
 
-#Umspringen
+# Umspringen
 5 Stufen
 6-n Bonusoffensive ausgeben um Gegner umzuspringen. Bei erfolgreichem Angriff, liegen beide Parteien, Angreifer auf Verteidiger, Verteidiger erhält 2 Maluswürfel. Defensive von beiden vs Nichtliegende ist halbiert.
 Der Umgesprungene wirft den Umspringenden ab, wenn Offensiv ODER Defensivvorteil erzielt wird, Verteidiger würfelt hierbei Kraft als Attribut bei seinen Würfen und Waffe oder Schwerathletik als Fähigkeit
@@ -72,7 +72,7 @@ passiv: Angriffe auf ein Ziel senken dessen Würfelergebnisse diese Runde um 2.
 ## Langschleudertraining
 (1-5) +n*20% Schaden vor Rüstung. 
 
-#Todeswirbel:  
+# Todeswirbel:  
 Alles nur in der Todeswirbelhaltung möglich
 passiv: Bis auf Gelegenheitsangriffe keine gezielten Angriffe möglich. Offensive fängt bei 0 an, überträgt sich zwischen Runden und wird jede Runde um den gewürfelten Wert erhöht (bis zum Maximum des neuen Würfelwurfes, wenn der Wert vorher schon höher war, bleibt er)
 Reflexiv: Greife Angreifer an.
@@ -89,7 +89,7 @@ passiv: Jeder Angriff kostet stattdessen 1 Offensive
 passiv: Bewegungsreichweite 5m/r
 ### Nachstellen
 passiv: Bewegungsreichweite 15m/r
-##Unterdrückungsfeuer
+## Unterdrückungsfeuer
 passiv: erfolgreich angegriffene Ziele erhalten nächste Runde 1 Maluswürfel. Stapelbar.
 ### Entwaffnende Unterdrückung
 passiv: Ziele von Unterdrückungsfeuer sind in der nächsten Runde bei 1er Resonanz entwaffnet
@@ -99,18 +99,18 @@ reflexiv: Ein Ziel in Reichweite, dass etwas anderes tut als den Anwender anzugr
 passiv: Vorteil über die Defensive eines Gegners in Reichweite wird von seiner Offensive abgezogen.
 ## Anschwingen  
 5 Offensive in der ersten Runde der Haltung
-###endloser Wirbel  
+### endloser Wirbel  
 5 auf Offensive-maximum für die stance  
-##Steh Still  
+## Steh Still  
 Alle Bewegungen in und aus Reichweite provozieren einen Gelegenheitsangriff (pro Gegner pro Runde)
-###Sei Still
+### Sei Still
 Steh Still bezieht alle aktiven Aktionen mit ein. 
-##unbeindruckter Wirbel  
+## unbeindruckter Wirbel  
 Offensive wird statt um eingehenden, um den Effektiven Schaden gesenkt
-###unaufhaltsamer Wirbel  
+### unaufhaltsamer Wirbel  
 Schaden bekommen senkt die Offensive nurnoch maximal um 1    
 
-#Axt
+# Axt
 passiv, sichtbar, IMMER, Freie Phase zum Ändern: -1 Offensiv, +1 Defensiv oder +1 Offensiv -1 Defensiv
 ## Haken
 Technik: Kein Schaden wird verursacht, freie und reflexive Wahl zwischen Defensiv vs Defensiv oder Offensiv vs Offensiv Vorteil als Malus auf das Grundergebnis des Gegners bis zum Ende der nächsten Runde.
@@ -124,12 +124,12 @@ reflexiv: Fernkampfangriff Reichweite bis Stärke &times; 3 meter, Angegriffenes
 ##### Schwungvolle Schläge
 Technik: -2 Offensive, +2 Defensive, +5 Schaden  und  +1 Schaden für jede Runde Schwungvolle Schläge in Folge.
 
-#Schild
+# Schild
 siehe [Schild](shield)
 
-#Kampfmanöver
+# Kampfmanöver
 (benötigen Kampfmanöver Weisheits skill auf dem entsprechenden level; Geist-Kampfmanöver wird nur interpretiert wenn zwei taktiken/Techniken/reflexloops eine Gleichstandssituation auslösen)
-##Wache 
+## Wache 
 Technik
 2 Zusätzliche Bonusangriffe, Bonusangriffsmöglichkeit auf alles was die bewachte Person (kann auch selbst sein, um zB eine Tür zu blockieren) Angreifen will (oder personal Space betreten). Angriffe können nicht Umgangen werden (zB passieren o.ä.)
 ## Herausforderung 
@@ -140,7 +140,7 @@ Reflexiv, auch in freier Phase, Defensive -3,
 Ziel in Nahkampfreichweite beendet entweder die Bewegung bis ende nächster runde oder verliert 5 Defensive und wird angegriffen)
 
   ___
-#Alte Konzepte/Zu verarbeiten  
+# Alte Konzepte/Zu verarbeiten  
 
 Dolch
 1. angriffe von hinten gegen abgelenkte gegner sind gegen 0 statt 5, Durchhaltewurfziel ist mindestens kampfvorteil

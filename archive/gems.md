@@ -25,7 +25,7 @@ To restore the maximum, several things can be done, the most common is to recut 
 and resets the maximum to the new quality.
 
 ## Modifiers
-###adamantine
+### adamantine
 quality loss reduced
 ### dull
  max loss causes quality loss

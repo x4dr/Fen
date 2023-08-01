@@ -1,6 +1,6 @@
 title: Statistical analysis of aspects of the game  
 tags:   
-##Durchschnitt pro Würfel   
+## Durchschnitt pro Würfel   
 
 |Wert|K3|K4|K5|K6|K7|K8|K9|K10|  
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|  

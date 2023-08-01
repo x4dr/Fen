@@ -1,6 +1,6 @@
 title:   
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | |
@@ -11,16 +11,16 @@ tags:
 |...|?|
 |prioritäten| können - spezial - mental - sozial - physisch |
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
 | Agilität | 1 |
 | Geschick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Survial|2|
@@ -28,8 +28,8 @@ tags:
 |Schwerathletik|1|
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 2 |
@@ -37,7 +37,7 @@ tags:
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Stil|1|
@@ -47,8 +47,8 @@ tags:
 | Authorität | 1 |
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 2 |
@@ -56,7 +56,7 @@ tags:
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Meteorologie | 3 |
@@ -66,8 +66,8 @@ tags:
 | Heilen | 1 |
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
@@ -75,7 +75,7 @@ tags:
 | Einblick | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beruf Reisender| 1 |
@@ -88,8 +88,8 @@ tags:
 | Black Biotech | 1 |
 | Holzverarbeitung | 1 |
 
-##Special
-###Attribute 
+## Special
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 2 |
@@ -97,7 +97,7 @@ tags:
 | Flow | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Feldgeneratoren|2|
@@ -106,8 +106,8 @@ tags:
 |Scanner|0 |
 |Elektrostaticc|0|
 
-##Narrativ
-###Attribute
+## Narrativ
+### Attribute
 |Attribut|Level|
 |-|-|
 | Schicksal | 2 |
@@ -115,13 +115,13 @@ tags:
 | Affinität | 4 |
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 

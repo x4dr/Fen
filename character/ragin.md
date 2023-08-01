@@ -1,6 +1,6 @@
 title: Ragin  
 tags: character  
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Ragin |
@@ -9,16 +9,16 @@ tags: character
 |Spezialisierung|Physisch|
 |Charakterkonzept|Fast Assassin|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
 | Agilität | 4 |
 | Geschick | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Messa|2|
@@ -37,8 +37,8 @@ tags: character
 
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
@@ -46,7 +46,7 @@ tags: character
 | Eindruck | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Irreführung|2|
@@ -61,8 +61,8 @@ tags: character
 
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 2 |
@@ -70,7 +70,7 @@ tags: character
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Suchen|1|
@@ -84,8 +84,8 @@ tags: character
 
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
@@ -93,7 +93,7 @@ tags: character
 | Einblick | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Gifte|1|
@@ -101,8 +101,8 @@ tags: character
 |Agent|2|
 |Bote|1|
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 2 |
@@ -110,7 +110,7 @@ tags: character
 | Flow | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Schattenschritt|2|
@@ -120,24 +120,24 @@ tags: character
 |Stabilität|0|
 |Stabilität|0|
 
-##Schicksal
-###Attribute 
+## Schicksal
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Schicksal | 4 |
 | Gunst | 4 |
 | Wille | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 
-#Vorteile
+# Vorteile
 Zeichensprache
 Adrenalinflut
 verstecktes Messer
 
-#Fortschritt
+# Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |Zeichensprache|S|
@@ -163,14 +163,14 @@ verstecktes Messer
 |EyEsOfDaRkNeSs|SSS|
 |Stabilität|S|
 |Stabilität|S|
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |Letter of Introduction von Harika||||
 |Feuerkastenausweis||||
 
-##Ausrüstung
+## Ausrüstung
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
@@ -185,7 +185,7 @@ verstecktes Messer
 |Fackel|1|||
 |isolierter,reißfester Pavillion|1||
 
-##Notizen
+## Notizen
 Ladungen:
 Freeze Messa (1/1)
 Shadowstep Rüstung (3/3)

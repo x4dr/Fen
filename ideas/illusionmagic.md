@@ -1,6 +1,6 @@
 title: Illusionsmagie  
 tags:   
-#Konzept Linien
+# Konzept Linien
 Diese Zauber, vorallem die beschreibungen von Mustern sind im Kontext von Blutmagie erstellt worden. Andere Konzepte würden eine andere Interpretation haben.
 Ein Ziel das am Nahkampf teil nimmt oder sich sonstwie unruhig bewegt (Faustregel: Defensivwert wird gesetzt) ist nicht still genug um darauf Linien anzubringen.
 
@@ -27,10 +27,10 @@ Zauberzeit 1
 
 Der Zaubernde legt ein Ziel fest markiert an einem Körper (seinem, dem eines anderen oder einer Nachbildung) eine Wunde, die das Ziel hat. Die Linien hören auf zu  Leuchten, nachdem das Ziel sie Wahrgenommen hat, oder **Wurf** auf 0 fällt. **Wurf** nimmt jede Minute um 1 ab. Die Wunde des Ziel erhält wird für die Zwecke von Ohnmacht und Tod ignoriert. Der Effekt verschwindet Ziel ohnmächtig wird oder sich 3 Runden auf den Zustand seines Körpers konzentriert, oder **Wurf** auf 0 fällt. 
 
-#Konzept Gesang und Tanz
+# Konzept Gesang und Tanz
 
 
-##Zone der Unsichtbarkeit
+## Zone der Unsichtbarkeit
 **Kosten**: Initial/Modifikation 1, je abgeschlossene 10 Minuten weitere 1 und Wurf-Refresh 
 **Zauberzeit**: 1, dann gechannelt
 (erste runde wird nur gezaubert, zweite Runde ist der Wurf und aufbauende Illusion, dritte Runde steht die Illusion und Cybis leuchten ist nicht mehr sichtbar)

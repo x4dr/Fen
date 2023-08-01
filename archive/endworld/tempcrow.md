@@ -1,6 +1,6 @@
 title:   
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | ??? |
@@ -9,23 +9,23 @@ tags:
 |Konzept| High Society Forscherin Redemption |
 |...|?|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
 | Agilität | 1 |
 | Geschick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beispiel|0|
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
@@ -33,14 +33,14 @@ tags:
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beispiel|0|
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 1 |
@@ -48,14 +48,14 @@ tags:
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beispiel|0|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
@@ -63,13 +63,13 @@ tags:
 | Einblick | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beispiel|0|
 
-##Spezial
-###Attribute 
+## Spezial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
@@ -77,13 +77,13 @@ tags:
 | Flow | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beispiel|0|
 
-##Narrativ
-###Attribute 
+## Narrativ
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Resistenz | 1 |
@@ -92,13 +92,13 @@ tags:
 
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 

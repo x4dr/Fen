@@ -1,6 +1,6 @@
 title: Mondmagie  
 tags:   
-#Aspekt: Schutzmagie
+# Aspekt: Schutzmagie
 
 ## Schutzkreis
 
@@ -16,7 +16,7 @@ Vorteil Pforte: eine runde, öffnet/schließt eine pforte
 
   
 
-##Verstärken  
+## Verstärken  
 
 Zauberdauer 1 kosten 1  
 

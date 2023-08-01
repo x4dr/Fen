@@ -1,6 +1,6 @@
 title: Anushka  
 tags: character  
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Anushka|
@@ -8,16 +8,16 @@ tags: character
 |Cover| Entertainer/Socialite|
 
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 1 |
 | Agilität | 3 |
 | Geschick | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Kontrolle | 1|
@@ -26,8 +26,8 @@ tags: character
 | Akrobatik | 1|
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 2 |
@@ -35,7 +35,7 @@ tags: character
 | Eindruck | 5 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Irreführung | 3|
@@ -46,8 +46,8 @@ tags: character
 | Tratsch | 1|
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 4 |
@@ -55,7 +55,7 @@ tags: character
 | Geist | 4 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Suchen | 3|
@@ -64,8 +64,8 @@ tags: character
 | Analyse | 2|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 3 |
@@ -73,15 +73,15 @@ tags: character
 | Einblick | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Halluzinogene | 2|
 | Entertainer | 2|
 | Chemie | 2|
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 4 |
@@ -89,7 +89,7 @@ tags: character
 | Flow | 5 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | project | 3|
@@ -100,14 +100,14 @@ tags: character
 | haywire | 2|
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 Skin-thin-smart-bracer, various pheromone release mechanisms, toxfilter, uplink
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 

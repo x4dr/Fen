@@ -2,7 +2,7 @@ title: Fechten
 tags:   
 [TOC]
 
-#Fechten
+# Fechten
 
 Alle Vorteile sind nur mit der entsprechenden Waffe einzusetzen, wenn keine angegeben ist sind dies alle einhändigen schwertartigen für Angriffe und ohne Waffenbeschränkung wenn **sonst keine andere Kampfschule eingesetzt wird**.
 In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
@@ -10,7 +10,7 @@ In dieser Kampfschule werden Offensive und Initiative getrennt behandelt.
 # Flexibilität
 (passiv) Für jede Kampfphase kann vor den Würfen entschieden werden das Grundergebnis um 1 zu senken. Wenn dies getan wurde können im Rest der Runde reflexiv 2 mal eins von Offensive, Defensive oder Initiative um 1 erhöht werden.
 
-##Ausfall
+## Ausfall
 
 (Technik) bis zu 5 meter Bewegung am Anfang der Kampfphase, nach dem Würfeln, keine freien Angriffe für die extra Bewegung, Angriff erfolgt zur normalen Initiative
 
@@ -81,7 +81,7 @@ Wie Riposte, Kampfvorteil wird optional zu 1.
 
 (reflexiv) Wenn noch kein Angriff gemacht wurde: Halbiert offensive und defensive, hindert Ziel daran den Anwender anzugreifen. Nächste Runde Offensive +2, Defensive -4. In der nächsten freien Phase erhält das Ziel keine Bonusangriffe durch Bewegung auf den Anwender.
 
-#Säbeltraining
+# Säbeltraining
 
 (passiv) der Säbel kann als sofortige, kostenlose Aktion während der freien Phase gezogen werden, 2 Maluswürfel durch Situation (Klettern, Regen, Reitend) werden ignoriert. Ein Säbel der exakt 0 effektiven Schaden verursacht, richtet eine 0 Punkte Wunde an. (Die, so sie sich nicht entzündet, automatisch beim nächsten Heilungswurf verschwindet, aber zB als blutend zählen kann.) 
 

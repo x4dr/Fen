@@ -1,6 +1,6 @@
 title: Kobalt  
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Kobalt|
@@ -9,16 +9,16 @@ tags:
 |Sex|Yes (?)|
 |Horny|on main|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Kon | 1 |
 | Agi | 2 |
 | Ges | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Fusarbeit|1|
@@ -27,8 +27,8 @@ tags:
 |Widerstand|1|
 |Stärke|1|
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
@@ -36,7 +36,7 @@ tags:
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Befragung|1|
@@ -44,8 +44,8 @@ tags:
 |Irreverence|2|
 | Seduction | 2 | 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 1 |
@@ -53,7 +53,7 @@ tags:
 | Geist | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Forschung|2|
@@ -65,8 +65,8 @@ tags:
 |Analyse|2|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
@@ -74,22 +74,22 @@ tags:
 | Einblick | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Kalligraphie|1|
 |Wizard|2|
 |MagieHandwerk|1|
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 4 |
 | Disziplin | 2 |
 | Flow | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Chaos|1|
@@ -104,8 +104,8 @@ tags:
 | PerfektChaos | 1 | 
 | Scrying | 1 | 
 
-##Schiksal
-###Attribute 
+## Schiksal
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wille | 4 |
@@ -113,7 +113,7 @@ tags:
 | Schicksal | 4 |
 
 
-#Fortschritt
+# Fortschritt
 Tratsch 2/5
 Rennen: 3/5
 Widerstand: 6/5
@@ -137,7 +137,7 @@ Fuckboy 1/5
 Wizard 2/5
 
 
-#Vorteile
+# Vorteile
 Lesen
 Schreiben
 Geheimsprache
@@ -145,11 +145,11 @@ ReadEverywhere
 Parkour
 -> THIS WILL BE LIGHTING TELEPORTATION
 
-#NOTES
+# NOTES
 SCRYING SKILLEN !?!?!?!
 
 
-#Inventar
+# Inventar
 
 Einen sternenkasten ausweis
 
@@ -157,7 +157,7 @@ Einen sternenkasten ausweis
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 
 GLOWY RESONATING ORB  -> Loads on 4 resonanz, Frost/Order Aspekted, Disciplin Aspected, 20 Cap
 the uncut gem from childhood

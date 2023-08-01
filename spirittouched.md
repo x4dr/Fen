@@ -62,11 +62,11 @@ and can only be surpressed for a few rounds with great concentration)
 
 
 
-###Der Grüne Pfad:
+### Der Grüne Pfad:
 Pflanzen wachsen nur bis zu einem natürlichen "Erwachsenen" zustand
 Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.04(Bonus LP)² Kilogramm
 
-####1 Grüner Daumen 
+#### 1 Grüner Daumen 
 Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen  
 1.1 Rhytmus der Jahreszeiten - eine Woche in engem Kontakt mit einer Pflanze führt zu einem  Jahreswachstum  
 1.1.1 Einflüsterung der Form - Eine berührte Pflanze formt einen Gegenstand aus ihrem eigenen Material während ihres zukünftigen Wachstums   
@@ -90,7 +90,7 @@ Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen
 1.2.1 direkte Anwendung - durch das direkte Auflegen von Kräutern und Gegendrücken der Hände kann ein  Kraut sofort und mit nur einem Kräuterkunde Wurf angewendet werden.  
 
   
-####2 Waldhoheit 
+#### 2 Waldhoheit 
  keine erhöhten Komplexitäten durch Vegetation  
 2.1 Schutz des Waldes +2 def in der Nähe von großen Mengen von Vegetation  
 2.1.1 Rüstung des Waldes - +2 Rüstung Wenn Schutz des Waldes Aktiv ist  
@@ -101,7 +101,7 @@ Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen
 2.2.1.1.1 Wurzelversteck - Der Charakter kann im Wurzelsystem verbleiben, nimmt aber Schaden wenn der Boden oder die Pflanzen beschädigt werden (anteilig, wenn die hälfte der Pflanzen getötet werden, die Hälfte der Lebenspunkte). Wenn keine genügend große Pflanze verbleibt, kann der Charakter das Wurzelversteck nicht verlassen.  
   
 
-####Verwachsungen  
+#### Verwachsungen  
 1 Pflanzlichkeit - Rindenstruktur auf der Haut, Grünliches, klebriges Blut    
 1.1 Augenfarbe - unnatürliches Grün    
 1.2 Rinde - Haut ist an manchen stellen mit Rinde bedeckt  
@@ -117,7 +117,7 @@ Aktion - erlaubt es mit einer Berührung Pflanzen aufblühen/ergrünen zu lassen
 1.7 Feuerschwäche - +2 auf allen Feuerschaden der erlitten wird  
   
 
-##Spiegelung
+## Spiegelung
 1 Reflektion der Welt - erlaubt das schwache interagieren mit Spiegelbildern wie mit dem eigentlichen Objekt (kein Schaden, kein anheben von größeren gegenständen)
 1.1 Durch die Reflektion - erlaubt es Dinge in einen Spiegel zu legen/aus dem Spiegel zu holen. Da Objekt muss in Sichtweite des Spiegels bleiben, aber überlappt sich mit seiner Reflektion
 1.1.1 Besuch der Spiegelwelt  - Das Spiegelbild und der Anwender können durch Kontakt mit einem Spiegel die Plätze tauschen. Das Spiegelbild zählt in der echten Welt als Illusion und nimmt keinen Schaden. Das Original kann den Sichtbereich des Spiegels nicht verlassen und wird vom Spiegelbild nachgeahmt. Wird der Spiegel zerbrochen, Tauschen Spiegelbild und Original wieder die Plätze und das Original erhält die Hälfte seiner Lebenspunkte als Schaden.

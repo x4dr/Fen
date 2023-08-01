@@ -2,13 +2,13 @@ title: Mykier
 tags:   
 Regelideen zu mykiern
 
-#zur zeit noch scrapbook
+# zur zeit noch scrapbook
 
 mobile Mykier haben ein extra Attribut, dass ihnen Modulslots gibt, plus Vorteile die weitere modulslots unter gewissen Konditionen geben und eine homebase die neue mobile Mykier ausbilden kann.  
 
 Mobile Mykier sind so komplex und schwer herzustellen, dass eine homebase sehr selten mehr als einen mobilen mykier losschickt  
 
-##balance ideas:
+## balance ideas:
 
 Mykische basis benötigt infrastruktur um fähigkeitsmodule (zelladaptionen) aufrecht zu erhalten, infrastruktur/basepoints sollten schwer zu bekommen sein (und können durch ihre statische natur mittlere mengen mathematik enthalten)  
 
@@ -26,7 +26,7 @@ einkommen in metallwährung pro woche aus balancegründen,
 
   
 
-##Regional differences: 5 stufen ertrag   
+## Regional differences: 5 stufen ertrag   
 
 
 
@@ -42,7 +42,7 @@ Normal : 5s/b
 
   
 
-##Rohstoffe:   
+## Rohstoffe:   
 
 Biomasse (preise nur für import, export benötigt adaptionen)  
 
@@ -52,7 +52,7 @@ Wasser
 
   
 
-##Adaptionen:  
+## Adaptionen:  
 
 Mykorrhiza (Pflanzensymbiose, erhöht Biomassenproduktion)  
 
@@ -88,7 +88,7 @@ Höherer Stofftransfer ((level^3)kg/min/m, maximalgeschwindigkeit 5m/r, pro stuf
 
 
 
-##Ganglien  
+## Ganglien  
 
 
 
@@ -108,7 +108,7 @@ selber wert um festzustellen dass man sich auf einem mykier befindet ist 25-anza
 
 
 
-##Mobile Mykier
+## Mobile Mykier
 
 Kosten 1 bp pro 10 xp des mobilen mykiers, sind permanent gebunden und können den mykier nachproduzieren wenn er frei wird    
 

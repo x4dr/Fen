@@ -1,6 +1,6 @@
 title:   
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Jonathan"Link" Dreen|
@@ -9,16 +9,16 @@ tags:
 |Konzept|Gadgetcop|
 |Cover| Security/Maintenance|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
 | Agilität | 3 |
 | Geschick | 4 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Widerstand | 2|
@@ -27,8 +27,8 @@ tags:
 | Kontrolle | 2|
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 4 |
@@ -36,7 +36,7 @@ tags:
 | Eindruck | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Einschüchtern | 2|
@@ -45,8 +45,8 @@ tags:
 
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 3 |
@@ -54,15 +54,15 @@ tags:
 | Geist | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Taktik | 2|
 | Strategie | 2|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
@@ -70,7 +70,7 @@ tags:
 | Einblick | 4 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Beruf Veteran | 1|
@@ -81,8 +81,8 @@ tags:
 | Reparieren | 1|
 
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 2 |
@@ -90,7 +90,7 @@ tags:
 | Flow | 4 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Antigremlins | 3|
@@ -100,9 +100,9 @@ tags:
 | Experience | 1|
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 
 Nanotech Kette (unzerstörbar, kann zur kettensäge werden), Security Badge/Permits,  uplink
 
@@ -110,5 +110,5 @@ Nanotech Kette (unzerstörbar, kann zur kettensäge werden), Security Badge/Perm
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 

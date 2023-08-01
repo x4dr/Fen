@@ -1,6 +1,6 @@
 title: Kharl  
 tags: character  
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Kharl "Ghila" Çırak|
@@ -10,16 +10,16 @@ tags: character
 |Zweitfarbe|Gold|
 |Tattoo| |
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
 | Agilität | 3 |
 | Geschick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Akrobatik|2|
@@ -30,22 +30,22 @@ tags: character
 |Widerstehen|2|
 |Schwert|1|
 |Schwimmen|1|
-###Vorteile
+### Vorteile
 |Fähigkeit|Wert|
 |-|-|
 |Argyrische Regeneration|1|
 |Klettersohlen|1|
 |Hydrophobe Haut|1|
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
 | Sympathie | 1 |
 | Eindruck | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Irreführung|2|
@@ -53,14 +53,14 @@ tags: character
 | Etikette|2|
 |Beruhigen|1|
 |Überzeugen|1|
-###Vorteil
+### Vorteil
 |Fähigkeit|Wert|
 |-|-|
 |Zeichensprache|1|
 |Argyrische Sprache|1|
-##Mental
+## Mental
 
-###Attribute 
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 1 |
@@ -68,7 +68,7 @@ tags: character
 | Geist | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Taktik|1|
@@ -77,8 +77,8 @@ tags: character
 |Suchen|1|
 |Naturwissen|1|
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
@@ -86,7 +86,7 @@ tags: character
 | Einblick | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Tierzähmung|2|
@@ -99,8 +99,8 @@ tags: character
 
 
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
@@ -108,44 +108,44 @@ tags: character
 | Flow | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Spurenlos|1|
 |Wettersinn|2|
 |Tyembindung|1|
-###Konzept
+### Konzept
 |Fähigkeit|Wert|
 |-|-|
 |MystAlc|1|
 |Körperinfusion|2|
-###Quelle
+### Quelle
 |Fähigkeit|Wert|
 |-|-|
 |Zutaten|1|
-###Aspekt
+### Aspekt
 |Fähigkeit|Wert|
 |-|-|
 |Stärkung|1|
 |Schwächung|1|
 |Transferenz|1|
-###Vorteil
+### Vorteil
 |Fähigkeit|Wert|
 |-|-|
 |Ghostpirate|1|
 
-##Narrativ
-###Attribute
+## Narrativ
+### Attribute
 |Attribut|Level|
 |-|-|
 |Schicksal|2|
 |Gunst|4|
 |Wille|4|
 
-#Wunden
+# Wunden
 
 
-#Fortschritt
+# Fortschritt
 2/5 Quelle Elementare
 1/5 Argyrisches Wissen
 3/5 Alchemie
@@ -168,14 +168,14 @@ tags: character
 1/5 Tyembindung
 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem, +1 Elementarwissen)
-#Inventar
+# Inventar
 
 1 Probe Holzwolf, 17 x0.5l Terpentin (magisch, destroy astrifacts), -60 Grad Flüssigkeit, 2x Eisblume, 1 Ausweisamulett Sternenkaste
 
-##Ausrüstung
+## Ausrüstung
 Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things, Kochlöffel (1Bonuswürfel; wenn 1 in endwurf entlädt es sich)
 Normales Schwert, Schwert des Ansturms
-##Geld
+## Geld
 
 
 
@@ -183,7 +183,7 @@ Normales Schwert, Schwert des Ansturms
 
 
 
-#Rezepte
+# Rezepte
 Schnapsdrossler: erdminze, norwood, kerzholz
 Entnüchter/Balancetrank: Schnaps, Blut
 Liquider Hyperfokus: Erdminze, Mädchensorge
@@ -191,7 +191,7 @@ Dust of Revealing: "20 Silber Pro Dosis", 10x10 Meter
 
 
 
-#Familie
+# Familie
 Vater: Godeberth
 Mutter: Estrid
 Älterer Bruder: Asgher (Modell: Gilaechse)

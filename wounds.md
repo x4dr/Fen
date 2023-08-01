@@ -2,7 +2,7 @@ title: Wundsystem
 tags:   
 [TOC]
 
-#Wunden
+# Wunden
 
 ## Leichte Wunden
 

@@ -1,6 +1,6 @@
 title: Hamus  
 tags: Hamus character  
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Hamus|
@@ -8,16 +8,16 @@ tags: Hamus character
 |Größe| 139 cm|
 
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
 | Agilität | 2 |
 | Geschick | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|2|
@@ -31,8 +31,8 @@ tags: Hamus character
 |Handgemenge|1|
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
@@ -40,7 +40,7 @@ tags: Hamus character
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Empathie|1|
@@ -51,8 +51,8 @@ tags: Hamus character
 
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 2 |
@@ -60,7 +60,7 @@ tags: Hamus character
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Balistik|2|
@@ -70,15 +70,15 @@ tags: Hamus character
 |Layouts|1|
 |Taktik|0|
 
-##Können*
-###Attribute 
+## Können*
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 1 |
 | Praxis | 2 |
 | Einblick | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Unauffällig|2|
@@ -90,8 +90,8 @@ tags: Hamus character
 |Munitionierer|1|
 |Accounting|1|
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
@@ -99,7 +99,7 @@ tags: Hamus character
 | Flow | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Gefahrensin|3|
@@ -109,7 +109,7 @@ tags: Hamus character
 |Zielsicher|1|
 |Eidetisches Gedächnis|0|
 
-#Vorteile:
+# Vorteile:
 |Name|Stufe|Beschreibung|
 |-|-|-|
 |Aurisch schreiben/lesen|1||
@@ -120,7 +120,7 @@ tags: Hamus character
 |Goon|0|Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten|
 
 want: Plänklermodus, allgemeine fernkampfdinge
-#Fortschritt
+# Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
 |Zielsicher| 4/5|1|
@@ -144,7 +144,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Animal Companion| 5/5|0|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
-#Inventar
+# Inventar
 |Name|Anzahl|Gewicht|Preis|
 |-|-|-|-|
 |Wurfkrüge (leer)|10|||
@@ -153,7 +153,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Wurfspikes|10|||
 |Pfeile|17|||
 |Gefallen bei Kiva|für er nimmt an einem Adventure teil|0|0|
-##AquisePunkte
+## AquisePunkte
 |Name|Anzahl|Quanten|
 |-|-|-|
 |Infiltrator|2||
@@ -164,7 +164,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 
 
-#Artefakte
+# Artefakte
 |Name|Beschreibung|Wirkung|
 |-|-|-|
 |Schattenpfeil |erzeugt einen Schatten|5||
@@ -176,7 +176,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Teleport Kunai|3 Kunai mit einem abgerundeten Mondsichel verziert| kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT|
 |Feuercasten Ausweiß|||
 
-#Personen
+# Personen
 |Name|Beschreibung|Perks|
 |-|-|-|
 |Orbus|Hamus adoptive Rabe wer wen adoptiert ist noch unklar||
@@ -187,7 +187,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Raben Dude (Dorozd)|einer von Tajams Vassallen, unsichtbar af, kennt Eltern? ||
 
 
-##Ausrüstung
+## Ausrüstung
 Notgroschen 33,95s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann   
 
 

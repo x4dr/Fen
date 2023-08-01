@@ -4,7 +4,7 @@ tags:
 
 # Grundlegende Definition
 Schamanistische Magie wird mit Hilfe von magischer Energie verbunden mit den richtigen gemurmelten Anweisungen und spezifischen Materialien in spezifischer räumlicher Anordnung gewirkt.
-##Charakteristik
+## Charakteristik
 * Zeit: erhöht
 * Energie: normal
 * Materialien: grob Zauberspezifisch
@@ -14,12 +14,12 @@ Schamanistische Magie wird mit Hilfe von magischer Energie verbunden mit den ric
     *Licht: nahezu keines
 
 
-#Aspekte
+# Aspekte
 Bekannte Aspekte sind Elementar und Illusion
 
-##Elementar
+## Elementar
 
-###Notivors Kerze
+### Notivors Kerze
 * Kosten: 1 Energie, Material: Getrockneter Pilz, Schnur o.ä.
 * Zauberzeit: 3 Runden
 * Dauer: Wurf Runden
@@ -40,9 +40,9 @@ Zauberzeit: 1 Minute
 Dauer: **Wurf** Runden
 Das Salz wird auf einer kleinen ebenen fläche in ein an Form und Volumen angepasstes Muster gestreut. Die Fläche wird Unterwasser gehalten, bis das Salz aufgelöst ist, Dann kühlt das Wasser für die Dauer des Zaubers jede Runde um 2 grad herunter.
 
-###wasser kühlen
+### wasser kühlen
 
-##Illusion
+## Illusion
 
-###verschleiern
-###verdunkeln
+### verschleiern
+### verdunkeln

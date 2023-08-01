@@ -3,7 +3,7 @@ tags:
 [TOC]
 Die heiße neue Erfindung aus Prekor!
 
-#Begriffe 
+# Begriffe 
 ## Heerschilde
 Es gibt sieben Heerschilde, die Lehensstrukturen regulieren und bestimmen, Wieviele Truppen ein Lehensherr von seinen Vasallen erwartet. Dies beinhält alle Truppen aller Vasallen. 
 Wenn die Erwartungen nicht erfüllt sind, ist der Heerschild nicht sofort verwirkt, aber die Position wird als schwach erachtet. Auch dabei gelten eine myriade von Ausnahmen, Situationen
@@ -55,26 +55,26 @@ Ihre Pflichten beinhalten ihrem Lehensherr auch ohne Heerbann in den Kampf zu fo
 # Kriesgbann
 Ein Kriegsbann bedeutet, dass alle Waffenfähigen Personen, so sie nicht von ihrem Lehensherr entschuldigt worden sind, in den Krieg ziehen müssen. Ein entschuldigter (oder sein Lehensherr) muss seinen Gegenwert in Sold auf wirtschaftliche Art und Weise entrichten
 
-#Zwölft
+# Zwölft
 Ein Zwölftel aller Einnahmen beziehungsweise Gewinne, entrichtet an den direkten Lehnsherren.
 
 # Personentypen
-##Bannerleute
+## Bannerleute
 Bannerleute erhalten Land von ihrem Lehnsherren um sich selbst, ihre Familie und ihre Ausrüstung zu versorgen. Es wird von ihnen erwartet, dass sie kompetente Kämpfer mit Speer, Bogen, Schild und Schwert oder Axt sind und dass sie die andere, die ihnen Unterstehen zu einer Kampfeinheit namens Banner organisieren, Steuerabgaben an den Lehnsherren zahlen und grundlegende Verantwortung zu übernehmen.
 Steuerliche Abgaben sind halbiert und für die Zeit unter Waffen ausgesetzt.
 
-##Einfache Leute
+## Einfache Leute
 Die einfachen Leute sind Frei: Sie können sich bewegen wo hin sie wollen, zahlen aber für die Rechte an der Nutzung von Land die Landsteuer (1c pro hektar pro jahr) und den Zwölft, ein Zwölftel von allen Gewinnen und allem Wachstum und Handel.
 Sie haben solange kein Heerbann ausgesprochen wurde, keine militärische Obligation und sind militärisch nicht ausgebildet. Es kann mit durchschnittlich etwa einem Hektar Land pro Person gerechnet werden, diese sind offensichtlich ungleichmäßig zwischen Stadt und Landbevölkerung und auch auf dem Land zwischen Bauern und Handwerkern (zum Beispiel dem Dorfschmied) verteilt.
 
-##Besitzer
+## Besitzer
 Menschen die ihr Land gekauft haben oder damit beschenkt oder bezahlt wurden, Aurier und der eine oder andere reiche Ausländer haben das Landecht an ihren Ländereien, in sofern, als dass sie nicht legal vertrieben werden können, solange sie ihre Landsteuern von bis zu 1s pro km² pro Jahr und den Zwölft für alle auf oder von diesem Land erworbenen Gewinne entrichten, loyal sind und die Gesetze der Krone nicht brechen. Insgesamt gehört das Land dem lokalen Lehnsherren, da lediglich die Nutzungsrechte veräußert wurden. Die Entscheidung einen Lehensvertrag einzugehen ist unabhängig vom permanenten Besitzzustand. Der Lehnsherr kann das besessene Land an niemand anderes verlehen, aber hat die Möglichkeit schlicht Landsteuer und Zwölft zu verlangen.
 
-#Land
-##Bewohner
+# Land
+## Bewohner
 Werden effektiv in Haushalten gezählt, Haushalte haben eine vorstehende Person, die meistens einen Partner hat und beliebig viele Kinder, Alte und im Normalfall 3-10 ha Land. Das älteste Kind bleibt Teil des Haushaltes, bis es ihn übernimmt und die aktuellen Erwachsenen zu den alten werden. Erwachsene andere Kinder Gründen ab und zu neue Haushalte.
 
-##Arbeit
+## Arbeit
 Ein Haushalt verrichtet im Jahr Durchschnittlich 500 Tage Arbeit, was die Arbeitskraft aller Alten, Kinder und Erwachsenen beinhält. Kinder arbeiten ab 12 teilweise in Hilfstätigkeiten und ab 16 vollwertig mit. Ländliche einfache Bevölkerung erwartet etwa 10 Kupfer pro Arbeitstag, Gesellen bis zu 50 Kupfer und Meister 1-2 Silber, Städtische bis zu 10 Silber (für einen seltenen Gilde Meister in einer Großstadt), wobei ungelernte städtische Arbeitskraft etwa 1 Silber pro Tag kostet. Dies enthält keine Gebühren, Werkzeuge, Versorgung und andere Nebenkosten.
 Arbeit kann von Leuten verrichtet werden, die von weiter herkommen und weniger verdienen, allerdings kann dies zu Spannungen führen.
 

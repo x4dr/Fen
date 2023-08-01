@@ -1,114 +1,114 @@
 title: npc  
 tags:   
-###VORAGE
+### VORAGE
 der Meisterkoch (ehem VORAGE der Barbar, VORAGE Drachentöter, VORAGE Ohnegnade, VORAGE der Mächtige)
 
-###Moruhin
+### Moruhin
 er Kauzige und Otis der mysteriöse Kater  
 
-###Mathilda die Abenteurergilden
+### Mathilda die Abenteurergilden
 Empfangsdame  
 
-###Odilia 
+### Odilia 
 die Nähpartnerin von Yarat  
 
-###Nysgaris
+### Nysgaris
 Ehemalige Königin Prekors, gestorben bei einem Handel mit einem Drachen
 
-###Rison 
+### Rison 
 Verbleibender Aurischer General
 
-###Tohrun 
+### Tohrun 
 Nu'dez großer Händler (4 Schiffe, Metallspezialisierung) mit seinem Sohn Send  
 
-###Jacun 
+### Jacun 
 einer der reichsten Menschlichen Bürger von Seegard  
 
-###Minem 
+### Minem 
 ein Baum in Kanech, ehemals Druide
 
-###Karoni Marzanna 
+### Karoni Marzanna 
 Alternder Auftragsmord Kapitän-Ohne-Schiff ehemals aus Trarora, zur Zeit mit Etoro
   
-###Arhnim 
+### Arhnim 
 Argyrischer Händler, reist mit der Karawane auf der Eisenbergroute  
 
-###Nyxico 
+### Nyxico 
 Der wohl älteste Aurier  
 
-###Tani 
+### Tani 
 Mysteriöse Oberin des Waisenhauses Seegards und Priesterin Ilargias
 
-###Taiem 
+### Taiem 
 Fürst Worograds, Windschütze und Königsrabenmeister
 
-###Iamal 
+### Iamal 
 Herr des Dunkelwaldes, Ehemals Bandit, Veteran als Anführer einer Sabotageeinheit, Pensionierter Kriegsheld und Baron nordöstlich von Trarora. Fan von Wegezoll.
 
-###Rayir Lilschyz - Bandit -> Söldner -> General
+### Rayir Lilschyz - Bandit -> Söldner -> General
 Halter von Vernal
 
-###Culbard 
+### Culbard 
 Barde mit Kristallschreinlegende, Weit weit weit im Norden
 
-###Kalvor 
+### Kalvor 
 ehemals Nordprekorischer Kriegsherr, Herrscher von Vor-Kal, aktuell gefangener im Verlies von Seegard
 
-###Teun 
+### Teun 
 Anwalt aus Yamkor
 
-###Kelo 
+### Kelo 
 Frostiger Anführer der Tantor Kopfgeldjäger, Göttlich Gesegnet mit der Fähigkeit Unrecht zu erkennen und zu beseitigen
 
-###Gloria
+### Gloria
 Fürstin von Nurako, Magieforscherin, Magiehandwerkerin, Unmagisch
 
-###Baradin 
+### Baradin 
 Kunsthandwerker der Magiegilde in Tantor
 
-###Gaius 
+### Gaius 
 literally zerstreuter Gelehrter
 
-###Kalredin
+### Kalredin
 Stahls Administrator/Stadhalter von Eisenbach
 
-###Sör'n 
+### Sör'n 
 der Sprengmeister im Eisenbacher Steinbruch
 
-###Sklyar 
+### Sklyar 
 Glassmacher auf Vernal
 
-###Nirmbas 
+### Nirmbas 
 Roter Magiermeister und ausbilder am Königlichen Institut von Limasu
 
-###Zarim 
+### Zarim 
 Metall findender verbrannter Limasuschüler, Dieb, Verbrecher, Gestorben als Kriegsheld
 
-###Toan 
+### Toan 
 Limasu Psychofolterer, Händler
 
-###Areen 
+### Areen 
 junge Piratin von Etoro
 
-###Kapitän Ukst 
+### Kapitän Ukst 
 Piratenkapitän von Etoro
 
-###Lorik 
+### Lorik 
 Spiegelkäpitan
 
-###Roisin 
+### Roisin 
 "Ungeheuer" aus dem Verwunschenen Wald und Rosenberührt. Gesprochen Rosheen. Mit Cara zusammen in Kanech.
 
-###Iskenar
+### Iskenar
 Legatus der Waldhüter von Istan
 
-###Alpia
+### Alpia
 Archivarin/Schreiberin im Archiv Istans
 
-###Tolix
+### Tolix
 "General" der Prekorischen Armee
 
-###Worimos Serr
+### Worimos Serr
 Random Patrizier von Okarun
 
 ### Nalyso und Gebidun

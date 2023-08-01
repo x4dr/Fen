@@ -1,6 +1,6 @@
 title: Tras  
 tags: character  
-#Charakter
+# Charakter
 
 |||
 |-|-|
@@ -14,28 +14,28 @@ tags: character
 |Augen|schwarz|
 |Twists| produziert ständig Dreck|
 |Exp|22|
-##Bewaffnung
+## Bewaffnung
 
 Langschleuder
 Armbrust +3
 Fobifscher Amtshammer
 
-##Artefakte
+## Artefakte
 Schmerzdämpferpiercing
 Wutjadestern
 
 Amulett Blau (Geschwisterloot) (Beschädigt)
 Götterfunke
-##Rüstung
+## Rüstung
 Turmschild 11/50
-#Details
-##Allgemeine Erscheinung  
+# Details
+## Allgemeine Erscheinung  
 noch einzutragen
-##Besonderheiten  
+## Besonderheiten  
 stets betrunken, 3 Gunstpunkte Fobif
-##Hintergrund  
+## Hintergrund  
 ???
-##Wunden
+## Wunden
 
 3 (Markierung), 1 (Obsidianscherbe), 1 (Wutjadestern), 1 (Stich), 1 (Stich), 3 (Schnitt), 7 (SChnitt), 1 SChnitt, 6 Schnitt, 3 (Schw 8), 10 (???), 4 (Plasma 8)
 
@@ -123,18 +123,18 @@ stets betrunken, 3 Gunstpunkte Fobif
 
 
 
-#Werte
+# Werte
 
-##Stärke  
+## Stärke  
 
-###Attribute  
+### Attribute  
 |Attribut|Level|
 |-|-|
 |Konstitution|5|
 |Kraft|4|
 |Agilität| 3|
 
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeit|Level|
 |-|-|
 |Unbewaffnet | 3 |
@@ -151,7 +151,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Springen|1|
 |Armbrust|1|    
     
-###Vorteile  
+### Vorteile  
 |Vorteil|Name|
 |-|-|
 |Schildschlag|1|
@@ -163,21 +163,21 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Tee mit Gevatter Tod|1|
 
 
-###Nachteile
+### Nachteile
 |Nachteil|Stufe|
 |-|-|
 |Alkoholismus|3|
 
-##Können
+## Können
 
-###Attribute
+### Attribute
 |Attribut|Level|
 |-|-|
 |Geschick| 3|  
 |Einblick| 3|  
 |Kompetenz| 5|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
 |Segeln |  2|
@@ -193,22 +193,22 @@ stets betrunken, 3 Gunstpunkte Fobif
 |HandwerkQuart|3|
 |Logistik|3|
 
-###Acquise
+### Acquise
 |SKill|Wert|
 |-|-|
 |Quartiermeister|2|
 |Logistik|2|
 
-##Weisheit
+## Weisheit
 
-###Attribute  
+### Attribute  
 |Attribut|Level|
 |-|-|
 |Bildung |  2|  
 |Geist |  2|  
 |Wahrnehmung |  5|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
 |WissenGetränke| 2| 
@@ -223,21 +223,21 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Sprache  (Aurisch) |3|
 |Sprache (Mykisch) |1|
 
-###Extrastuff
+### Extrastuff
 |Stuff|Name|
 |-|-|
 |Is Malk or something|0|
 
-##Charisma
+## Charisma
 
-###Attribute  
+### Attribute  
 |Attribut|Level|  
 |-|-|  
 |Eindruck |  3|  
 |Durchsetzungsvermögen |  2|  
 |Sympathie |  2|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
 |Stil |  0|  
@@ -247,26 +247,26 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Storyteller| 1|
 |Aurischer Kriegsgesang|2
 
-##Magie
+## Magie
 
-###Quellen
+### Quellen
 | Quelle|  Level|    
 |-|-|
 |Alkohol |  3|  
 
-###Konzepte
+### Konzepte
 |Konzept | Level|
 |-|-|
 |Schall und Rauch|2|
 
-###Aspekte
+### Aspekte
 | Aspekt |  Level|    
 |-|-|
 |Feuer |  2|  
 |Eis |  2|
 |Gefühle| 2|  
 
-###Zauber
+### Zauber
 |Zauber|
 |-|-|
 |Ignis|1|  
@@ -278,21 +278,21 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Ruhe|1|
 |Schmerz|1|
 
-###Vorteile
+### Vorteile
 |Vorteil|Name|
 |-|-|
 |Leuchtendes Medium|1|
 
-##Schicksal
+## Schicksal
 
-###Attribute
+### Attribute
 |Attribut|Level|  
 |-|-|  
 |Glück |  2|  
 |Mut |  3|  
 |Gunst |  2|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Level|  
 |-|-|  
 |Bindung Fobif| 2|
@@ -300,7 +300,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Ruhm Limasu|  2|  
 
 
-###Vorteile
+### Vorteile
 |Vorteil|Name|
 |-|-|
 |Mimikry (Aurische Form)| 1|
@@ -315,17 +315,17 @@ stets betrunken, 3 Gunstpunkte Fobif
 |Chitinpanzer|1|
 |Connections Tantor (Holz)|1|
 
-###Nachteile
+### Nachteile
 |Nachteilsname|
 |-|-|
 |Unglücksvogel| 1|
 
 
 
-#Inventar
+# Inventar
 8kg Biolumiscent Chitinstreifen  (Meisterhaft, 15)
 20Liter Bier
-##Waffen
+## Waffen
 Fobifscher Amtshammer von Eisenbach  (Symbole: Fobif, Eisenbach) (Ynteus-Protection), gibt -3 auf Defensive
 [[weapon:Hammer: L24B]]
 

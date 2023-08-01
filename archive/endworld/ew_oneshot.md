@@ -35,7 +35,7 @@ Choose one of these characters and claim it in discord
 |Eindruck|0|  
 |Sympathie|0|  
 
-###Fähigkeiten
+### Fähigkeiten
 |Name|Wert|
 |Handel|0|  
 |Diplomatie|0|  
@@ -44,7 +44,7 @@ Choose one of these characters and claim it in discord
 |Befehlen|0|  
 |Etiquette|0|  
 
-##Mental
+## Mental
 
 ### Attribute
 |Name|Wert|
@@ -62,5 +62,5 @@ Choose one of these characters and claim it in discord
 |Navigation|0|  
 
 
-##Special
+## Special
 ???

@@ -1,6 +1,6 @@
 title:   
 tags:   
-##Stärke
+## Stärke
 
 
 
@@ -18,7 +18,7 @@ aber ähnliche Waffen gelten als 1 niedriger als die Hauptwaffe, muss aber kompl
 
 
 
-###Tragekapazität:  
+### Tragekapazität:  
 
 
 
@@ -32,7 +32,7 @@ Falls der Spielleiter es für nötig hält kann er einen (Körperkraft,Ausdauer)
 
   
 
-###Lebenspunkte: 
+### Lebenspunkte: 
 
 LP=20+Ausdauer &ast; 5 + Gesundheit &ast; 5  
 
@@ -48,7 +48,7 @@ gewürfelt werden, bei jedem zusätzlichen Schaden oder einmal pro Minute wird d
 
 
 
-###Gifte und Krankheit:
+### Gifte und Krankheit:
 
 Alle gifte haben eine Wirkstärke, jedes Gift hat einen anhand der Wirkstärke festgelegten Effekt.
 
@@ -74,33 +74,33 @@ Siehe [Den Artikel über Heilung](healing)
 
 
 
-###Vorteile
+### Vorteile
 
-#####Erhöhte Tragekapazität n 
+##### Erhöhte Tragekapazität n 
 
 Tragekapazität +n &ast; 5kg  
 
  
 
-#####Kampfgeschmiedet 
+##### Kampfgeschmiedet 
 
 Bei einer 20 oder mehr auf den Durchhaltewurf wird sofort die kleinste Wunde um Ausdauer reduziert. Maximum LP/2 am Tag  
 
 
 
-#####Giftwiderstand n
+##### Giftwiderstand n
 
 +1 &ast; n Auf das Ergebnis des Giftwiderstandswurfes (nur bei Gift)  
 
 
 
-#####Argyrischer Widerstand n 
+##### Argyrischer Widerstand n 
 
 &ast; 2 auf das Ergebnis des Giftwiderstandswurfes (nur für Argyrier)  
 
 
 
-#####Adrenalinschub n
+##### Adrenalinschub n
 
 Sobald der erste Durchhaltewurf eines Kampfes gemacht wird +n &ast; 2 auf alle relevanten Würfe. Sinkt um 1 pro runde bis es auf -n angekommen ist, und normalisiert sich dann mit 1 pro minute auf 0.  
 

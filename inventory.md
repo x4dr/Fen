@@ -1,6 +1,6 @@
 title: Gruppeninventar  
 tags: items  
-###Eisenbach 3000 EW
+### Eisenbach 3000 EW
 
 1 Satz extrem harte Holzknochen vom Fichtenschwein  
 
@@ -10,12 +10,12 @@ Söldner 25 (wilderer-banditen)
 
 1 Kutscher+Familie
 
-###Siedlung Vernal 2000 EW
+### Siedlung Vernal 2000 EW
 
 5 Wilderer Wächter
 1 Argyrier Wächter
 
-###Inselinventar
+### Inselinventar
 
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
 
@@ -26,7 +26,7 @@ Söldner 25 (wilderer-banditen)
 |Abhandlung über Werkstattkomplex (aurisch, 50P, Komplexität +2)|1|5,00 kg|5,00 kg|
 |Vernalische Riten des Zoark (aurisch, 35P, Komplexität +2)|1|5,00 kg|5,00 kg|
 
-###Gruppeninventar
+### Gruppeninventar
 
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
 |:--|---|---|---|
@@ -37,7 +37,7 @@ Söldner 25 (wilderer-banditen)
 |Pfeilspitzen (Bronze)|30|0,01 kg|0,30 kg|
 |Schmiedebuch (Kap.25, Leserate 21-(Bildung+Forschung))|5,00kg|5,00kg|
 
-###Burginventar
+### Burginventar
 
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|Einzelwert|
 |:--|---|---|---|---|

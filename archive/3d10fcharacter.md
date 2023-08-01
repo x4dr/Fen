@@ -10,11 +10,11 @@ Charakterkonzept:
 
 
 
-##Stärke
+## Stärke
 
 Waffen sind Fähigkeiten  
 
-###Attribute
+### Attribute
 
 * Gesundheit  
 
@@ -22,7 +22,7 @@ Waffen sind Fähigkeiten
 
 * Körperkraft  
 
-###Fähigkeiten	
+### Fähigkeiten	
 
 * Athletik
 
@@ -38,9 +38,9 @@ Waffen sind Fähigkeiten
 
 
 
-##Können
+## Können
 
-###Attribute
+### Attribute
 
 * Fingerfertigkeit
 
@@ -50,7 +50,7 @@ Waffen sind Fähigkeiten
 
 * Artefakte
 
-###Fähigkeiten
+### Fähigkeiten
 
 * Textilverarbeitung	
 
@@ -74,19 +74,19 @@ Waffen sind Fähigkeiten
 
 
 
-##Magie
+## Magie
 
-###Quellen
+### Quellen
 
-###Konzepte
+### Konzepte
 
-###Aspekte
+### Aspekte
 
 
 
-##Weisheit
+## Weisheit
 
-###Attribute
+### Attribute
 
 * Bildung
 
@@ -94,7 +94,7 @@ Waffen sind Fähigkeiten
 
 * Wahrnehmung
 
-###Fähigkeiten
+### Fähigkeiten
 
 * Heilen
 
@@ -110,7 +110,7 @@ Waffen sind Fähigkeiten
 
 
 
-###Vorteile
+### Vorteile
 
 * Aurisch Sprechen
 
@@ -140,9 +140,9 @@ Waffen sind Fähigkeiten
 
 	
 
-##Charisma
+## Charisma
 
-###Attribute
+### Attribute
 
 * Eindruck
 
@@ -152,7 +152,7 @@ Waffen sind Fähigkeiten
 
 
 
-###Fähigkeiten
+### Fähigkeiten
 
 * Handel
 
@@ -174,9 +174,9 @@ Waffen sind Fähigkeiten
 
 
 
-##Schicksal
+## Schicksal
 
-###Attribute
+### Attribute
 
 * Glück
 
@@ -186,7 +186,7 @@ Waffen sind Fähigkeiten
 
 
 
-###Fähigkeiten
+### Fähigkeiten
 
 * Ruhm:
 
@@ -196,7 +196,7 @@ Waffen sind Fähigkeiten
 
 
 
-###Vorteile
+### Vorteile
 
 * Schicksal
 

@@ -1,6 +1,6 @@
 title:   
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name |"Tank" Sorgov Petrenko |
@@ -9,16 +9,16 @@ tags:
 |Konzept|Ultratank|
 |Cover | Technician |
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 5 |
 | Agilität | 3 |
 | Geschick | 3 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Widerstehen | 3|
@@ -27,8 +27,8 @@ tags:
 | Schild | 2|
 | Tonfa | 2|
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 4 |
@@ -36,15 +36,15 @@ tags:
 | Eindruck | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Authorität | 2|
 | Stoizismus | 2|
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 5 |
@@ -52,7 +52,7 @@ tags:
 | Geist | 3 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Taktik | 3|
@@ -61,8 +61,8 @@ tags:
 | Politik | 2|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
@@ -70,15 +70,15 @@ tags:
 | Einblick | 2 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | Antigravitation | 2|
 | Experimental Tech | 1|
 | Hacker | 3|
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 4 |
@@ -86,7 +86,7 @@ tags:
 | Flow | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 | shield projectors | 3|
@@ -94,9 +94,9 @@ tags:
 | Unbeeindruckt | 3|
 
 
-#Fortschritt
+# Fortschritt
 
-#Inventar
+# Inventar
 
 Schutz skills:
  - Wache: statt dem normalen angriff ein ziel ansagen (durch eine tür kommen, jemanden angreifen) und mit jedem der es macht vorher interagieren (zB Angreifen) können
@@ -113,5 +113,5 @@ Zwei (deployable) fliegende schildprojektordrohnen, ein energie basiertes turmsc
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 

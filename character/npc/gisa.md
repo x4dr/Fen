@@ -2,14 +2,14 @@ title: Gisa
 tags:  character  
 [TOC]
 
-#Stärke
-##Attribute
+# Stärke
+## Attribute
 
 Konstitution 3
 Kraft 2
 Agilität 4
 
-##Fähigkeiten 
+## Fähigkeiten 
 80Lvl1, 40lvl 2 + 2
 
 Schwerathletik 0
@@ -26,14 +26,14 @@ Waffe(Schleuder) 2
 Training:
 Schleudertraining 2
 
-#Können
-##Attribute
+# Können
+## Attribute
 
 Geschick 3
 Einblick 1 
 Kompetenz 2
 
-##Fähigkeiten 
+## Fähigkeiten 
 30lvl1 20lv2 10 lvl3
 
 Textilverarbeitung 0
@@ -47,14 +47,14 @@ Schleichen 3
 Reiten
 
 
-#Weisheit
-##Attribute
+# Weisheit
+## Attribute
 
 Bildung 2
 Geist 2
 Wahrnehmung 3
 
-##Fähigkeiten 
+## Fähigkeiten 
 16+8+ 20lvl1 20 lvl2 20 lvl3
 
 Heilen 1
@@ -67,14 +67,14 @@ Strategie 0
 Taktik 0
 Navigation 1
 
-#Charisma
-##Attribute
+# Charisma
+## Attribute
 
 Eindruck 2
 Durchsetzungsvermögen 3
 Sympathie 3
 
-##Fähigkeiten 
+## Fähigkeiten 
 60lvl1 40lvl 2
 
 Handel
@@ -89,14 +89,14 @@ Etikette 1
 Tratsch 2
 Kunst(Flöte)1
 
-#Schicksal
-##Attribute 
+# Schicksal
+## Attribute 
 
 Glück 2
 Mut 2
 Gunst 2 
 
-##Fähigkeiten 
+## Fähigkeiten 
 40lvl1 20lvl2
 Wille 1
 Göttliche Bindung(Sural) 1

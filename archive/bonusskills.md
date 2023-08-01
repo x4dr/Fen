@@ -18,7 +18,7 @@ Wenn kein Handwerk Existiert wo die Fähigkeit als Unterfähigkeit angewendet we
 
 
 
-##Handwerk
+## Handwerk
 
 ### Fälschen
 
@@ -104,11 +104,11 @@ Wenn kein Handwerk Existiert wo die Fähigkeit als Unterfähigkeit angewendet we
 
 ## Waffen
 
-###Nahkampf
+### Nahkampf
 
 Äxte, Dolche, Fechtwaffen, Hämmer, Improvisierte Waffen, Kettenwaffen, Keulen, Lanzen, Peitschen, Schilde, Schwerter, Speere, Stäbe, Stangenwaffen
 
-###Fernkampf
+### Fernkampf
 
 Armbrust, Blasrohr, Kurzbogen, Langbogen, Reiterbogen, Schleuder
 

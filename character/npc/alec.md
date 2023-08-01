@@ -1,6 +1,6 @@
 title: Testcharakter  
 tags:   
-#Charakter
+# Charakter
 |Detail|Inhalt|
 |-|-|
 |Name | Alec |
@@ -9,16 +9,16 @@ tags:
 |Gildenzugehörigkeit|Metallmeister|
 |Beruf|Vollstrecker|
 
-#Werte
-##Physisch
-###Attribute
+# Werte
+## Physisch
+### Attribute
 |Attribut|Level|
 |-|-|
 | Konstitution | 2 |
 | Agilität | 2 |
 | Geschick | 2 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Messer|2|
@@ -31,8 +31,8 @@ tags:
 |Meucheln | 1 |
 
 
-##Sozial
-###Attribute 
+## Sozial
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
@@ -40,7 +40,7 @@ tags:
 | Eindruck | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Einschüchtern|1|
@@ -49,8 +49,8 @@ tags:
 |Authorität|1|
 
 
-##Mental
-###Attribute 
+## Mental
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Wahrnehmung | 2 |
@@ -58,7 +58,7 @@ tags:
 | Geist | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Suchen|2|
@@ -68,15 +68,15 @@ tags:
 |Navigation|1|
 
 
-##Können
-###Attribute 
+## Können
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Theorie | 2 |
 | Praxis | 4 |
 | Einblick | 1 |
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Beruf Schmied | 2 |
@@ -90,8 +90,8 @@ tags:
 |Singender Hammer | 1 |
 |Tarnen | 1 |
 
-##Mystisch
-###Attribute 
+## Mystisch
+### Attribute 
 |Attribut|Level|
 |-|-|
 | Konzentration | 2 |
@@ -99,7 +99,7 @@ tags:
 | Flow | 1 |
 
 
-###Fähigkeiten
+### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
 |Ewiges Werk |2|
@@ -110,20 +110,20 @@ tags:
 |Waffenbruderschaft |2|
 
 
-#Fortschritt
+# Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |||
 
 
-#Inventar
+# Inventar
 
 |Name|Anzahl|Gewicht|Preis|
 |---|---|---|---|
 |||||
 
-##Ausrüstung
+## Ausrüstung
 
-#Notizen
+# Notizen
 test
 123

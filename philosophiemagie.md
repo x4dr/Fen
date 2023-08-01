@@ -8,7 +8,7 @@ Karo		Herz		Pik			Kreuz
 
 
 
-##Fokus
+## Fokus
 
 Gedanke 2+
 
@@ -20,7 +20,7 @@ Wurf/3 bonus auf Weisheits würfe wenn diese durch fokus verbessert werden würd
 
 
 
-##lodernde Gedanken
+## lodernde Gedanken
 
 Gedanke 10
 
@@ -30,7 +30,7 @@ Zieh 3
 
 
 
-##Einfühlung
+## Einfühlung
 
 Gefühl 2+
 
@@ -38,7 +38,7 @@ in 1m/überzähligem Gefühl radius, spüre alle Lebewesen und deren Zustand
 
 
 
-##Stille Wache
+## Stille Wache
 
 Gefühl 10
 
@@ -48,7 +48,7 @@ Spürt Lebewesen und deren Zustand die berührtes Objekt Berühren
 
 
 
-##Zauberhand
+## Zauberhand
 
 Handlung 2+ Substanz 0+
 
@@ -56,7 +56,7 @@ erzeugt eine unsichtbare, Kraft-1 Hand die bis zu 5 + Überzählige Handlung met
 
 
 
-##Einfluss
+## Einfluss
 
 Handlung 10
 
@@ -64,7 +64,7 @@ Mechanismus vollführt Handlung mit Zauberergebnis als ergebnis. (Waffen lösen 
 
 
 
-##Verstärkung
+## Verstärkung
 
 Substanz 2+
 
@@ -72,7 +72,7 @@ Erhöht Widerstand eines Objektes um Zauberergebnis
 
 
 
-##Beschwörung
+## Beschwörung
 
 Substanz 10
 

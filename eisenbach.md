@@ -2,13 +2,13 @@ title: Eisenbacher Region
 tags:   
 [TOC]
 
-#Eisenbach
+# Eisenbach
 approx 15 nach
-##Bevölkerung:
+## Bevölkerung:
 Menschlich: 8612 Personen / 1060 Haushalte
 Argyrisch: 187 / 22 Haushalte
 Aurisch: 122 / 20 Haushalte
-##Wirtschaftlich
+## Wirtschaftlich
 ### Metallgilde
 50 Meister 
 ### Steinbruch
@@ -32,7 +32,7 @@ Profit: in Eisenbach bleibendes Geld
 * Steuern: 330 Gold
 * Nahrung: 75 Gold
 
-##Industrien
+## Industrien
 12 Bäcker
 6 Brauer
 3 Distellerie
@@ -99,8 +99,8 @@ Profit: in Eisenbach bleibendes Geld
 8 Arbeitslose
 
 
-#Hudelheim
-##Bevölkerung
+# Hudelheim
+## Bevölkerung
 460 Personen / 56 Haushalte
 1 Schmied
 1 Mühle
@@ -126,8 +126,8 @@ Profit: in Eisenbach bleibendes Geld
 3 Köhler
 
 
-#Bockswetter
-##Bevölkerung
+# Bockswetter
+## Bevölkerung
 1120 Personen / 140 Haushalte
 2 Bäcker
 1 Brauer
@@ -166,39 +166,39 @@ Profit: in Eisenbach bleibendes Geld
 36 Bauernhöfe
 
 
-#Pjatshoff
-##Bevölkerung
+# Pjatshoff
+## Bevölkerung
 290 / 36 Haushalte
 
-#Kanop
-##Bevölkerung
+# Kanop
+## Bevölkerung
 380 / 48
 
-#Hakkerskamp
-##Bevölkerung
+# Hakkerskamp
+## Bevölkerung
 230 / 29 Haushalte
 
-#Lindeshut
-##Bevölkerung
+# Lindeshut
+## Bevölkerung
 120 / 15
 
-#Hellinggat
-##Bevölkerung
+# Hellinggat
+## Bevölkerung
 200 / 25
 
-#Ochsenfurt
-##Bevölkerung
+# Ochsenfurt
+## Bevölkerung
 50 / 6
 
-#Kanech
-##Bevölkerung
+# Kanech
+## Bevölkerung
 350 / 13
 
-#Eisenbacher Eisenmine
-##Bevölkerung
+# Eisenbacher Eisenmine
+## Bevölkerung
 100 / 12
 
-#Landbevölkerung
+# Landbevölkerung
 Bevölkerung die auf kleinen Höfen verteilt in der Region lebt
 9000 / 1125
 

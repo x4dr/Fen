@@ -9,15 +9,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Stärke  
-###Attribute  
+## Stärke  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Gesundheit|2|  
 |Ausdauer|2|  
 |Körperkraft|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Athletik|0|  
@@ -26,8 +26,8 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Können  
-###Attribute  
+## Können  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Fingerfertigkeit|2|  
@@ -35,7 +35,7 @@ Charakterkonzept:
 |Rüstung|2|  
 |Artefakte|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Textilverarbeitung|0|  
@@ -51,30 +51,30 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Magie  
-###Quellen  
+## Magie  
+### Quellen  
 |Quellen|Level|  
 |:---|----:|  
   
-###Konzepte  
+### Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
   
-###Aspekte  
+### Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
   
 &nbsp;  
   
-##Weisheit  
-###Attribute  
+## Weisheit  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|2|  
 |Erinnerungsvermögen|2|  
 |Wahrnehmung|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Heilen|0|  
@@ -84,7 +84,7 @@ Charakterkonzept:
 |Strategie|0|  
 |Taktik|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|0|  
@@ -102,15 +102,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Charisma  
-###Attribute  
+## Charisma  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Eindruck|2|  
 |Durchsetzungsvermögen|2|  
 |Sympathie|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Handel|0|  
@@ -125,22 +125,22 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Schicksal  
-###Attribute  
+## Schicksal  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Glück|2|  
 |Mut|2|  
 |Gunst|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Ruhm:|0|  
 |Wille:|0|  
 |Göttliche Bindung (Gott):|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Schicksal|0|  

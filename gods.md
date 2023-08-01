@@ -2,7 +2,7 @@ title: Götter
 tags:   
 [TOC]
 _______
-##Ateph
+## Ateph
 Gott des Wissen und des Feuers in der Gestalt einer brennenden Bibliothek, deren labyrinthischen Gänge sich in alle Ewigkeiten Erstrecken. Funken und zu Asche werdende Buchseiten schweben durch die Luft, doch scheinen die Bücher nie auszugehen. 
 ### Philosophie
 Wissen ist vergänglich, aber allgegenwärtig und unendlich. 
@@ -18,7 +18,7 @@ Wissen in die falschen Hände fallen lassen, Wissen Missbrauchen.
 #### Segen:  
 Ateph hilft manchmal bei dringenden Fragen weiter, Schützt vor Feuer (vor allem Wissen) oder entzündet Bedrohungen für den Gelehrten. Zu häufiges oder ungeschicktes Fragen kann auch zu Vergesslichkeit oder Feuer für den Betenden führen.
 _______
-##Zadu
+## Zadu
 
 Geschlechtsloser Gott des Wachstums.
 
@@ -45,7 +45,7 @@ Erfolg, Wachstum, Reichtum, Expansion
 Zusammenbruch, Versiegen, Umsturz
 
 _______
-##Fobif
+## Fobif
 
 Gott des Tumultes und des Schlachtenlärms, hat eine hohe Eigenmeinung.
 
@@ -65,7 +65,7 @@ Verschonung vor Ernsthaften Verletzungen, Gewaltausbrüche auslösen, Chaos und 
 #### Fluch
 Spontaner Ausbruch von Chaos und Unordnung.
 _______
-##Der Glänzende
+## Der Glänzende
 
 Gott des Rechts, der Reinheit, Strahlender Gott der Menschheit
 
@@ -117,7 +117,7 @@ Einblicke, Wasser, Tiefen, Kreisläufe an einen Punkt ihres Kreislaufes setzen, 
 #### Fluch
 Wasser, Eingriffe ins Schicksal, wichtige ungelöste Mysterien
 _______
-##Tanas
+## Tanas
 
 Apokryphische Göttin von Fruchtbarkeit/Wohlstand und Loyalität, Durch ihre Herabwerfung ausgewichen auf geänderte Geisteszustände und Wahn
 ### Philosophie
@@ -136,7 +136,7 @@ Loyalität beweisen, Wohlstand mehren, geänderte Geistezustände (Alkohol oder 
 Todesschwüre besiegeln, sich Manifestieren, Vertragsstrafen Vollstrecken, Verrat Strafen, Unternehmungen segnen
 
 _______
-##Cholis
+## Cholis
 Gottjäger, Gottschlächter, Gott der Anmaßung, des Risikos, der Unwahrscheinlichkeit. Meistens gelangweilt, immer auf der Suche nach Unterhaltung, launisch, unbeständig, anspruchsvoll.
 
 ### Philosophie
@@ -156,7 +156,7 @@ Schicksal biegen, Glückssträhnen gewähren, Wahrscheinlichkeiten brechen, das 
 Schicksal biegen, Pechsträhnen erteilen, Wahrscheinlichketen brechen, das unmögliche Möglich machen, wenn es ihm gefällt.
 
 _______
-##Sural
+## Sural
 Göttin der Träume, der Berge, des Abenteuers und der Ferne
 
 ### Philosophie 
@@ -177,7 +177,7 @@ Glückliche Fügungen, Hals-aus-der-Schlinge Ziehen, Anweisungen in Träumen
 Ruf ins Abenteuer
 
 _______
-##Okysa
+## Okysa
 Göttin der Verschlingung. Im Sinne von Mehrfachbedeutung und Konsumption. Intrigen, mehr oder weniger komplexe Rätsel, deren Auflösung, Opfergaben und deren Lohn. 
 ### Philosophie
 Manchmal sind zwei Seiten einer Münze nicht genug.
@@ -193,7 +193,7 @@ Hinweise, mehr Rätsel, Erfolg
 #### Fluch
 Komplikationen, mehr Rätsel, Misserfolg
 _______
-##Tosis
+## Tosis
 Gott des Kreislaufes der Natur, Gott des Verfalls, der Entropie und des Todes, aber auch der Wiederverwertung.
 Dargestellungen haben nur gemein dass eine langwierige, tödliche Wunde abgebildet ist, meistens Häutung, bei Mykiern abstraktere Symbolik.
 ### Philosophie
@@ -210,7 +210,7 @@ Rückwärts oder Vorwärtsdrehen von Prozessen, zum Beispiel Alterung, Heilung, 
 #### Fluch
 Rückwärts oder Vorwärtsdrehen von Prozessen, Verrotten lassen von Besitztümern, Albträume.
 _______
-##Rodis
+## Rodis
 Ein Weidenbaum in Nordprekor
 ### Philosophie
 Scheint das Land und seine Bewohner wichtig zu finden
@@ -222,7 +222,7 @@ Scheint das Land und seine Bewohner wichtig zu finden
 #### Fluch
 
 _______
-##Arkemitoz
+## Arkemitoz
 Originale Schutzgottheit der Aurier
 ### Philosophie
 ### Anhänger
@@ -234,7 +234,7 @@ Schutz
 #### Fluch
 
 _______
-##Kraoz
+## Kraoz
 aurische Gottheit für Physische Macht (Stärke)
 ### Philosophie
 Die Götter gaben den Sterblichen einen Körper, damit Hindernisse überwunden werden.
@@ -242,7 +242,7 @@ Die Götter gaben den Sterblichen einen Körper, damit Hindernisse überwunden w
 Aurier, Körperlich Arbeitende, Trainierende, Kämpfer, Starke
 
 _______
-##Zoark
+## Zoark
 aurische Gottheit für Mentale Macht (Weisheit)
 ### Philosophie
 Die Götter gaben den Sterblichen einen Geist, damit Probleme gelöst werden.
@@ -250,7 +250,7 @@ Die Götter gaben den Sterblichen einen Geist, damit Probleme gelöst werden.
 Aurier, Geistig Arbeitende, Lernende, Gelehrte, Gewitzte
 
 _______
-##Tyem
+## Tyem
 aurische Gottheit der Herrschaft (Können)
 ### Philosophie 
 Die Götter gaben den Auriern die Herrschaft, weil sie die Besten in allem sind.
@@ -260,14 +260,14 @@ Im Norden: Handwerker, Übende, Überzeugte, Praktische
 Im Süden: Soldaten, Adelige, Praktizierende Meister, Übertreffende
 
 _______
-##Ezit
+## Ezit
 aurische Gottheit des Handels (Charisma)
 ### Philosophie
 Die Götter gaben den Sterblichen ein Gesicht, damit sie sich verstehen können.
 ### Anhänger
 Aurier, Adelige, Herrscher, Händler, Diplomaten, Barden
 _______
-##Demirci (bzw. prekorisch Ynteus)
+## Demirci (bzw. prekorisch Ynteus)
 atterkanische Gottheit der Kunst, der Metalls, der Freundschaft
 ### Philosophie
 Schmiede eiserne Freundschaft mit kunstvollen Banden - aber mach es richtig!
@@ -288,15 +288,15 @@ künstlerische Inspiration, göttlicher Gegenstandsschutz, Sterneneisen, Unterst
 verfallende Gegenstände, mangelnde Inspiration, schlechtes Karma
 
 _______
-##Alfredall
+## Alfredall
 Argyrischer Sonnengott
 _______
-##Rohedro
+## Rohedro
 Argyrischer Zivilisationsgott
 _______
-##Rehadan
+## Rehadan
 Argyrische Meeresgöttin
 _______
-##Witalda
+## Witalda
 Argyrische Dschungelgöttin
 

@@ -19,7 +19,7 @@ Subvention der Befestigungsanlagen (100 gold im Jahr)
 Keine Contributions
 15000 trainierte leute marcher Lord
 
-##Städte
+## Städte
 
 * Einkommensformel:  Haushalte &times; 10 Silber &times; ( Reichtum + Infrastruktur + Steuerschraube)
 
@@ -43,49 +43,49 @@ Keine Contributions
 Landbevölkerung ist mit mindestens dem zwöft des zwölft besteuert (0.7%)
 
 
-###Seegard
+### Seegard
 Menschlich: 95000 Personen / 11875 Haushalte
 Argyrisch: 50 Personen / 6 Haushalte
 Aurisch: 2000 Personen  / 400 Haushalte
 
-###Eisenbach
+### Eisenbach
 Menschlich: 2620 Personen / 320 Haushalte
 Argyrisch: 50 Personen  / 6 Haushalte
 Aurisch: 30 Personen  / 6 Haushalte
 
-###Worograd
+### Worograd
 Menschlich: 18000 Personen / 2250 Haushalte
 Aurisch: 300 Personen / 50 Haushalte
 
-###Okarun
+### Okarun
 Menschlich: 25000 Personen / 3125 Haushalte
 Argyrisch: 2000 / 170 Haushalte
 Aurisch: 1000 / 200 Haushalte
 
-###Limasu
+### Limasu
 Menschlich: 64000 Personen / 8000 Haushalte
 Argyrisch: 3500 / 290 Haushalte
 Aurisch: 2500 / 500 Haushalte
 
-###Trarora
+### Trarora
 Menschlich: 54800 Personen / 6850 Haushalte
 Argyrisch: 5500 / 460 Haushalte
 Atterkan: 2000 / 200 Haushalte
 Aurisch: 4500 / 900 Haushalte
 
-###Stille Stadt
+### Stille Stadt
 Bevölkerung:
 Menschlich: 10000 Personen / 1250 Haushalte
 
-###Glanzburg 
+### Glanzburg 
 Bevölkerung: 40000 Personen / 5000 Haushalte 
 
-###Unnamed City
+### Unnamed City
 Bevölkerung:
 Menschlich: 9000 Personen / 1125 Haushalte
 Aurisch: 1000 / 200 Haushalte
 
-###Unnamed City
+### Unnamed City
 Bevölkerung:
 Menschlich: 9000 Personen / 1125 Haushalte
 Aurisch: 1000 / 200 Haushalte

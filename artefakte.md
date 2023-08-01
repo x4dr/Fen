@@ -54,9 +54,9 @@ identifiziert 5 holds energy sort of unstable useable on actions
 6 runden bis unsichtbar, 6 runden schimmern (-4 auf angegriffen/gesehen werden) bis wieder sichtbar, standard unsichtbarkeitsregeln, -1 pro stunde  
 0/15/20 (12-Wurf)
 
-###Magisches Feuerzeug  
+### Magisches Feuerzeug  
 15/15
-##Pirate Loot
+## Pirate Loot
 ### Charm 1-3
 sie tun irgendwas mit dem richtigen wort
 
@@ -69,12 +69,12 @@ Hüllt in Schatten
 Manifestiert Rauch
 
 
-###staff of doing stuff (Talus)
+### staff of doing stuff (Talus)
 (12)14  
 *+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung 14/25
 
-##dinas godol loot:  
-###Reich verziertes kronenähnliches Ding
+## dinas godol loot:  
+### Reich verziertes kronenähnliches Ding
 [Siehe Hier](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg)
 (10)11  
 *Verzauberung für verbesserte Sinne
@@ -225,13 +225,13 @@ Magiespeicher (7/?/?), selbstaufladend (Quelle:?)
 ### Ring Blau
 Magiespeicher (7/50/80), selbstaufladend (Ring Rot Ausgabe: 1)
 
-##Burgloot
-###Kompass of Pointines  Avis
+## Burgloot
+### Kompass of Pointines  Avis
 (10) Zeigt auf das Ziel der Karte Sollange man sich darauf befindet  
-###Karte of Pointines  Avis
+### Karte of Pointines  Avis
 Karte ändert sich durch äußeren Einfluss, mit Kompass verbunden. Kompass kann helfen zu dem X auf der Karte zu finden  
 
-##Waldkram
+## Waldkram
 ### Wildschweinstein 
 Herz des Waldes x2
 * 30 Magie
@@ -291,7 +291,7 @@ macht warm. 1 Energie pro Woche
 
 ## Limasu
 
-###Aegisphäre
+### Aegisphäre
 
 ## Gloria
 
@@ -310,11 +310,11 @@ Wachhalte Kralle => macht 3 Schaden Schwierigkeit 5 (auch beim rausziehen) und g
 ## Istan
 Todesblickkästchen
 ## Unter Tantor
-###Geisterflamme
+### Geisterflamme
 Schiffslaterne die ein Licht wie von wasser reflektiert wird Lichtstufe 10
 ### Headband of light
 Headband vom ersten gefallenden Wächter, kann genutz werden um extreme Heavy Amor zu tragen oder einen extrem stylischen Halo zutragen
-##Wandelselementarherzen x4
+## Wandelselementarherzen x4
 (avis hat nicht direkt dips aber bitte bescheid sagen wenn verwendet)
-##Nykkenholz
+## Nykkenholz
 2,2 große Nücke aus dem Wasser resourvoir des Plastes 

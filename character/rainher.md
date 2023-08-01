@@ -11,15 +11,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Stärke  
-###Attribute  
+## Stärke  
+### Attribute  
 |Attribute|Level|Training|  
 |:---|----:|---:|  
 |Gesundheit|3|0|  
 |Ausdauer|3|0|  
 |Körperkraft|3|1|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|Training|  
 |:---|----:|----:|  
 |Rennen|0|0|  
@@ -30,7 +30,7 @@ Charakterkonzept:
 |Waffe(Wurfmesser)|2|0|  
 |Athletik|2|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Schnelles Nachladen| 1|  
@@ -39,8 +39,8 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Können  
-###Attribute  
+## Können  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Fingerfertigkeit|2|  
@@ -48,7 +48,7 @@ Charakterkonzept:
 |Rüstung|2|  
 |Artefakte|3|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|Training|  
 |:---|----:|----:|  
 |Metallverarbeitung|0|0|  
@@ -66,45 +66,45 @@ Charakterkonzept:
 |Segeln|0|800tage|  
 |Skizzieren| 1| 0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Artfakte identifizieren| 1|  
   
 &nbsp;  
   
-##Magie  
-###Quellen  
+## Magie  
+### Quellen  
 |Quellen|Level|  
 |:---|----:|  
 |Meditation| 2|  
   
-###Konzepte  
+### Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
 |Selfchannel| 1|  
   
-###Aspekte  
+### Aspekte  
 |Aspekte|Level|  
 |:---|----:|  
 |Movement|1|10Tage|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Zauber|Stufe|  
 |:---|----:|  
 |Vorschnellen|1|  
   
 &nbsp;  
   
-##Weisheit  
-###Attribute  
+## Weisheit  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|2|  
 |Erinnerungsvermögen|4|  
 |Wahrnehmung|3|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|Training|  
 |:---|----:|----:|  
 |Heilen|0|0|  
@@ -116,7 +116,7 @@ Charakterkonzept:
 |Strategie|1|0|  
 |Taktik|0|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|1|  
@@ -136,15 +136,15 @@ Charakterkonzept:
   
 &nbsp;  
   
-##Charisma  
-###Attribute  
+## Charisma  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Eindruck|4|  
 |Durchsetzungsvermögen|3|  
 |Sympathie|1|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|Training|  
 |:---|----:|----:|  
 |Handel|2|0|  
@@ -157,15 +157,15 @@ Charakterkonzept:
 |Etiquette|0|  
 |Tratsch|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Verhöhnen| 1|  
   
 &nbsp;  
   
-##Schicksal  
-###Attribute  
+## Schicksal  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Glück|2|  
@@ -173,7 +173,7 @@ Charakterkonzept:
 |Gunst|3|  
 |Rasse(ist auf 1)|3|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|Training|  
 |:---|----:|----:|  
 |Ruhm:|1|0|  
@@ -181,7 +181,7 @@ Charakterkonzept:
 |Göttliche Bindung (Ateph):|1|0|  
 |Göttliche Bindung (Gott):|0|0|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Begegnung|2|  

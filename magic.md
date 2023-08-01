@@ -1,6 +1,6 @@
 title: Generelle Magieregeln  
 tags:   
-##Zauberzeiten
+## Zauberzeiten
 
 ### 0
 

@@ -1,16 +1,16 @@
 title: Avis  
 tags: Avis character  
-#Charakter
-##Name
+# Charakter
+## Name
 
-##Alter
+## Alter
 
-##Spezies:  
+## Spezies:  
 
-##Charakterkonzept  
+## Charakterkonzept  
 Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
 
-#Inventar
+# Inventar
 [[specific:artefakte:allgemeinparty:Kelins Richtungsstab]]  
 [[specific:artefakte:allgemeinparty:Die Sturmklinge]]
 [[specific:artefakte:allgemeinparty:Fernglas der Fehrnsicht]]  
@@ -19,7 +19,7 @@ Seemannsgarn Wettermagie?  Befehlsgewalt Navigation
 [[specific:artefakte:allgemeinparty:Füllhorn]]  
 [[specific:artefakte:allgemeinparty:Münze der Unterwelt]]  
 
-##Tattoo
+## Tattoo
 ### edelstein 5
 (11)12  
 (IN AVIS)
@@ -31,19 +31,19 @@ Seemannsgarn Wettermagie?  Befehlsgewalt Navigation
 (IN AVIS)
 * Lädt mit @quelle auf Zauberwurf
 
-##Wissen
+## Wissen
 Diebeszeichen: Treffpunkt & Mitternacht 
 
-#Werte
-##Stärke  
-###Attribute  
+# Werte
+## Stärke  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Konstitution|3|  
 |Agilität|4|  
 |Kraft|1|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Peitsche|2|  
@@ -55,7 +55,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Schwimmen|2|
 |Klettern|2|
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Tricks|1|  
@@ -65,15 +65,15 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |ätherischer Kampf|2|  
   
   
-##Können  
-###Attribute  
+## Können  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Geschick|3|  
 |Kompetenz|4|  
 |Einblick|3|    
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Akrobatik|3|  
@@ -86,7 +86,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Kräuter Kunde|2|  
 
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Ausweichen|3|  
@@ -96,26 +96,26 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Battleflips|1|  
 |mehr Artefakte|2|  
 
-##Magie  
-###Quellen  
+## Magie  
+### Quellen  
 |Quellen|Level|  
 |:---|----:|  
 |Verstandt|4|  
 |Tatoo|2|  
   
-###Konzepte  
+### Konzepte  
 |Konzepte|Level|  
 |:---|----:|  
 |Worte der Macht|5|  
 |Verbiegung der Wirklichkeit|2|  
 
-###Aspekte  
+### Aspekte  
 |Aspekt|Level|
 |:---|----:|  
 |Wetter|3|  
 |Verzerrung|3|  
 
-###Forma  
+### Forma  
 |Forma|Level|  
 |:---|----:|  
 |Lux|4|  
@@ -132,7 +132,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |praecantatio|	2| 
 |tutela|2|  
 
-###Zauber   
+### Zauber   
 |Zauber|Schule|
 |:---|----:|  
 |Lake of fire|1|  
@@ -145,7 +145,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Reflektieren|1|  
 |Unsibarkeit|1|  
 
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Reinheit Lux	|2|
@@ -167,15 +167,15 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Mehr Geschwindigkeit| 	1|
 
    
-##Weisheit  
-###Attribute  
+## Weisheit  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Bildung|3|  
 |Geist|5|  
 |Wahrnehmung|3|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Forschung|1|  
@@ -191,7 +191,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Navigation|2|  
 |Wissen(Meer)|2|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Aurisch Sprechen|3|  
@@ -210,15 +210,15 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Atteryazi Lesen|3|  
 |Atteryazi Schreiben|0|  
    
-##Charisma  
-###Attribute  
+## Charisma  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Eindruck|3|  
 |Durchsetzungsvermögen|2|  
 |Sympathie|4|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Diplomatie|2|  
@@ -233,20 +233,20 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Rhetorik|1|  
 |Beleidigen|1|  
   
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Angeben(Stil)|1|  
 |Okysas verschlungende Zunge|1|    
-##Schicksal  
-###Attribute  
+## Schicksal  
+### Attribute  
 |Attribute|Level|  
 |:---|----:|  
 |Glück|5|  
 |Mut|3|  
 |Gunst|2|  
   
-###Fähigkeiten  
+### Fähigkeiten  
 |Fähigkeiten|Level|  
 |:---|----:|  
 |Wille:|2|  
@@ -256,21 +256,21 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |Begegnung| 	4|
 |Fügung 	|4|
  
-###Vorteile  
+### Vorteile  
 |Vorteile|Level|  
 |:---|----:|  
 |Sprachtalent|	1|
 |Glückspilz	|1|
 
-###Talente  
+### Talente  
 |Talente|Level|  
 |:---|----:|  
 |Taggen|1|  
 |Angeben|1|  
 
 
-#XP
-##Fähigkeitsxp
+# XP
+## Fähigkeitsxp
 
 [Legende[[specific:conventions:xp:kurz:-]]]
 

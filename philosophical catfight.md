@@ -1,6 +1,6 @@
 # TWAS ALL A MISUNDERSTANDING!
 
-#Section: Philosophical Catfight For Fun
+# Section: Philosophical Catfight For Fun
 
 "jemand mit 50 jahren akademischen hintergrund der im allgemeinen schnell im kopf ist, kopfrechnen kann und sich 1000 dinge im kopf merken kann ... kann trotzdem ein fürchterlicher programmierer sein"
 
@@ -33,7 +33,7 @@ Worldview point: I feel that someone that has a deep understanding of a thing sh
 
 -----
 
-#Section: Gay Shit (my actual feelings)
+# Section: Gay Shit (my actual feelings)
 
 Point: Limited Creation space for characters
 

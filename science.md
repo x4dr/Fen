@@ -1,6 +1,6 @@
 title: Wissenschaft  
 tags:   
-#Das finden von Wissen
+# Das finden von Wissen
 Zauber, Baupläne und ähnliches werden entweder aus Büchern oder von anderen gelernt, oder erforscht.
 ## Lernen
 Wissen über einen Zauber/Plan/ähnliches kann innerhalb von normalerweise 2 Wochen vermittelt werden. Spezielle umstände können diesen Wert stark beeinflussen.
