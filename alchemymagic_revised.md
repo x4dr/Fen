@@ -1,25 +1,28 @@
+---
 title: Talus Quickplay Alchemy for Stressed People  
 tags:   
+---
 [TOC]
 # Alchemische Einstimmung
 ## Grundlegende Definition
-**Quelle**: Einstimmung in die Magischen Flüsse des Universums   
-**Konzept**: Alchemische Magie, die Manipulation von natürlichen Prozessen und das Hervorrufen von komplett eigenen, mit Hilfe von Reagenzien
+**Quelle**: Einstimmung in die magischen Flüsse des Universums   
+**Konzept**: alchemische Magie, die Manipulation von natürlichen Prozessen und das Hervorrufen von komplett eigenen, mithilfe von Reagenzien
 **Aspekt**: Prozessalchemie, [Schnellalchemie](quickalchemy)
 ## Mechaniken
 ###[Vorteile](alchemyperks)
 ### Magische Einstimmung
-Für Prozessalchemie erhöht das Level der Magischen Einstimmung jeweils Menge der Aquisepunkte, also 1, 3, 6, 10, 15 auf Stufen 1,2,3,4,5.
 
-Ein Zauber kostet einen Aquisepunkt um die notwendigen Dinge rückwirkend vorbereitet zu haben. Wenn Zaubergegenstände weitergegeben werden, müssen sie spezifiziert werden.
+Für Prozessalchemie erhöht das Level der magischen Einstimmung jeweils Menge der Aquisepunkte also 1, 3, 6, 10, 15 auf den Stufen 1,2,3,4,5.
 
-Materialkomponenten sind zwingend notwendig um einen Zauber auszuführen und werden, soweit nicht weiter beschrieben, mit dem Ziel in Verbindung gebracht. Mundane [Alchemie](alchemy) wird benutzt um Materialkomponenten zu reinigen.
+Ein Zauber kostet einen Aquisepunkt, um die notwendigen Dinge rückwirkend vorbereitet zu haben. Wenn Zaubergegenstände weitergegeben werden, müssen sie spezifiziert werden.
+
+Materialkomponenten sind zwingend notwendig um einen Zauber auszuführen und werden, soweit nicht weiter beschrieben, mit dem Ziel in Verbindung gebracht. Mundane [Alchemie](alchemy) wird benutzt, um Materialkomponenten zu reinigen.
 
 ### Konzentration
 Benötigt eine [halbe Aktion](combat#kampf), kann nur einmal pro Runde ausgeführt werden und zieht eine Karte.
 
 ### Rückkopplung
-Rückkopplung verursacht verlust EINES weiteren Aquisepunktes, soweit vorhanden und bei größeren Rückkopplungen dramatische Nebenwirkungen.
+Rückkopplung verursacht Verlust EINES weiteren Aquisepunktes, soweit vorhanden und bei größeren Rückkopplungen dramatische Nebenwirkungen.
 
 ### Meditation und Laborarbeit
 Frischt Castpunkte auf, regeneriert Aquisepunkte.

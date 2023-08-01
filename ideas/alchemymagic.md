@@ -7,7 +7,7 @@ tags: magic alchemy
 **Konzept**: Alchemische Magie, die Manipulation von Natürlichen Prozessen und das hervorrufen von komplett eigenen, mit Hilfe von Reagenzien
 **Aspekt**: Prozessalchemie, [Schnellalchemie](quickalchemy)
 ## Mechaniken
-###[Vorteile](alchemyperks)
+### [Vorteile](alchemyperks)
 ### Magische Einstimmung
 Das Magische Potential des Charakters ist abgebildet durch ein 52 Karten Deck ( Werte 2,3,4,5,6,7,8,9,10,10,10,10,1/11 je nach Wunsch) abgebildet.
 

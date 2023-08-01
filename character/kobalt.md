@@ -4,10 +4,10 @@ tags:
 |Detail|Inhalt|
 |-|-|
 |Name | Kobalt|
-|Alter | 17 |
-|Größe|180cm|
-|Sex|Yes (?)|
-|Horny|on main|
+|Alter | 11 |
+|Größe|120cm|
+|usw|joa|
+|...|?|
 
 #Werte
 ##Physisch
@@ -23,7 +23,7 @@ tags:
 |-|-|
 |Fusarbeit|1|
 |Acrobatics|2|
-|Kontrolle|2|
+|Kontrolle|1|
 |Widerstand|1|
 |Stärke|1|
 
@@ -32,7 +32,7 @@ tags:
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 1 |
-| Sympathie | 2 |
+| Sympathie | 1 |
 | Eindruck | 1 |
 
 
@@ -42,7 +42,7 @@ tags:
 |Befragung|1|
 |Irrefuehrung|1|
 |Irreverence|2|
-| Seduction | 2 | 
+| Seduction | 1 | 
 
 ##Mental
 ###Attribute 
@@ -85,7 +85,7 @@ tags:
 ###Attribute 
 |Attribut|Level|
 |-|-|
-| Konzentration | 4 |
+| Konzentration | 3 |
 | Disziplin | 2 |
 | Flow | 1 |
 
@@ -95,14 +95,13 @@ tags:
 |Chaos|1|
 |Geordnet|1|
 | KonzeptRunicAssemblyLanguage | 1 |
-| AspektAssemblyRunen | 1 |
+| AspektAssembly Runen | 1 |
 | KonzeptChaosCasting | 2 |
-| AspektArkan | 2 |
+| AspektArkan | 1 |
 | AspektBlitz | 1 |
 | Avisbindung | 1 |
 | AspektTravel | 1 |
 | PerfektChaos | 1 | 
-| Scrying | 1 | 
 
 ##Schiksal
 ###Attribute 
@@ -120,21 +119,18 @@ Widerstand: 6/5
 Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
-AspektArkan 5/5
+Aspekt: Arkan 4/5
 Konzept: Chaos Casting 3/5
-AspektLighting 3/5
+LightningCasting 1/5
 PerfektChaos 5/5
 Kraft: 1/5
 Ermitteln: 1/5
-Runic assembly: 4/5
-AspektIce: 1/5
-AspektTravel 2/5
+Runic assembly: 3/5
+Konzept: Ice: 1/5
+Konzept: Travel 1/5
 Seduction 2/5
-Irreverence:3/5
-Chaos 1/5
-Dozieren 1/5
-Fuckboy 1/5
-Wizard 2/5
+Irreverence:1/5
+
 
 
 #Vorteile

@@ -1,10 +1,15 @@
+
+---
+cssclass: clean-embeds
+---
+
 title: Konventionen  
 tags:   
 [TOC]
-#XP
+# XP
 ## Kontext
 [Siehe hier](level up)
-##Kurz
+## Kurz
 T - Training/Herumprobieren (optional: (wochen/gefordert))
 L - Lehrer
 K - Kritische Anwendung
@@ -18,7 +23,7 @@ S - Entsprechende Tat(Gesellenstück bis Legendäre Tat)
 # Wiki
 ## Infolets
 [[info]] fügt direkt ein
-[[[info]]] fügt ausklappbar ein
+![[info#example|n-h1]] fügt ausklappbar ein
 [name[[info]]] fügt ausklappbar mit extra überschrift ein
 info hat folgende optionen
 
