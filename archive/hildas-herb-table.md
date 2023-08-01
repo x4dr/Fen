@@ -1,5 +1,8 @@
+---
 title: Hilda's Herb Table  
 tags:   
+outgoing links: ''  
+---
 Das hier ist Hildas Kräuter-Spickzettel. 
 
 Verarbeitungsstoffe

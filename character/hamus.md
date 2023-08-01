@@ -1,5 +1,8 @@
+---
 title: Hamus  
 tags: Hamus character  
+outgoing links: ''  
+---
 # Charakter
 |Detail|Inhalt|
 |-|-|

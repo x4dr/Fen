@@ -1,5 +1,8 @@
+---
 title:   
 tags:   
+outgoing links: ''  
+---
 early version/unvollständig
 
 Gedanke		Gefühl		Handlung	Substanz

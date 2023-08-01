@@ -1,5 +1,8 @@
+---
 title: Mondmagie  
 tags:   
+outgoing links: ''  
+---
 # Aspekt: Schutzmagie
 
 ## Schutzkreis

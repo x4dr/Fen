@@ -1,5 +1,8 @@
+---
 title: Abenteuerideen  
 tags:   
+outgoing links: ''  
+---
 In allen großen Städten mit Wahrnehmung Tratsch 15+ sind Gerüchte darüber zu finden, allerdings niemand mit genaueren informationen.   
 
 Bei 20+ sind folgende Gerüchte und grobe Richtungen zu finden:   

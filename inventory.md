@@ -1,5 +1,8 @@
+---
 title: Gruppeninventar  
 tags: items  
+outgoing links: ''  
+---
 ### Eisenbach 3000 EW
 
 1 Satz extrem harte Holzknochen vom Fichtenschwein  

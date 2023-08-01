@@ -1,5 +1,8 @@
+---
 title: Mala  
 tags: Mala character  
+outgoing links: ''  
+---
 Name: Mala  
 
 Alter:  25  

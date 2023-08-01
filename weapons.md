@@ -1,5 +1,8 @@
+---
 title: Waffen  
 tags: Weapon rules  
+outgoing links: ''  
+---
 [TOC]  
 
 # Waffen

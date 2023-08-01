@@ -1,5 +1,8 @@
+---
 title: Herstellung von Gegenständen  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Herstellung

@@ -1,5 +1,8 @@
+---
 title: Kampfkünste  
 tags:   
+outgoing links: ''  
+---
 [TOC]  
 
 ## Waffenlos

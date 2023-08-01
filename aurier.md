@@ -1,5 +1,8 @@
+---
 title: Aurier  
 tags:   
+outgoing links: ''  
+---
 # Die Aurier
 Aurier sind große, intelligente und soziale Vertreter der Raubtiere. Ihr Aussehen erinnert in seiner Klobigkeit an Bären, allerdings sind sie, wenn auch mit ihren Pranken nicht ganz so Geschickt wie Menschen mit ihren Fingern, wesentlich agiler, geschickter und gewitzter als Bären. Außerdem haben sie mit Bären nur etwa genau so viel gemein wie mit Wölfen, Großkatzen, Hyänen und anderen, kleineren Vertreter der Raubtiere.
 Sie sind ausgeprochen Sozial, wobei sie sich eher auf kleine Gruppen mit vollständiger Hierarchie beschränken, zwischen denen jeweils auch wieder eine zumindest Grobe Hierarchie besteht. Aurier sind loyal bis in den tot, müssen dies aber mit einem inneren Bedürfnis vereinen, dass die fähigste Person eine Rolle übernimmt. Wenn also ein Anführer sich nicht als fähig erwiesen hat, wird ein Aurier ihn ersetzen wollen, interessanterweise nicht zwangsläufig durch sich selbst.

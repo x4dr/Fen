@@ -1,5 +1,8 @@
+---
 title: Ragin  
 tags: character  
+outgoing links: ''  
+---
 # Charakter
 |Detail|Inhalt|
 |-|-|

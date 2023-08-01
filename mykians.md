@@ -1,5 +1,8 @@
+---
 title: Mykier  
 tags:   
+outgoing links: ''  
+---
 Regelideen zu mykiern
 
 # zur zeit noch scrapbook

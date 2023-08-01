@@ -1,5 +1,8 @@
+---
 title: Char-Sheet Ranikyr  
 tags: Ranikyr Rani Character character  
+outgoing links: ''  
+---
 # Charakter
 
 |||

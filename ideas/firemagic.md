@@ -1,5 +1,8 @@
+---
 title: Feuermagie  
 tags: magic  
+outgoing links: ''  
+---
 # Zauber
 Diese Zauber, vorallem die beschreibungen von Mustern sind im Kontext von [Blutmagie](bloodmagic) erstellt worden. Andere Konzepte würden eine andere Interpretation haben.
 Ein Ziel das am Nahkampf teilnimmt oder sich sonst unruhig bewegt (Faustregel: Defensivwert wird gesetzt) ist nicht still genug um darauf Linien anzubringen.

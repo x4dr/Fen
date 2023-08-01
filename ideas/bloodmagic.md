@@ -1,5 +1,8 @@
+---
 title: Blutmagie  
 tags:   
+outgoing links: ''  
+---
 # Quelle
 Eine Klinge kann innerhalb einer Stunde blutmagisch gebunden werden. Dies hebt die Magische Bindung für andere Klingen auf und ist effektiv ein Zauber (zwecks Unterbrechung.und anderer Details)
 

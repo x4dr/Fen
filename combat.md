@@ -1,5 +1,8 @@
+---
 title: Kampf  
 tags:   
+outgoing links: ''  
+---
 # Kampf
 Kampf besteht aus **Runden**, die aus zwei **Phasen** bestehen. Eine Runde repräsentiert etwa 5 Sekunden. Eine Minute hat 12 Runden.
 Jeder Character hat eine Aktion **pro Runde**. Und kann zusätzlich:

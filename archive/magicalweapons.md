@@ -1,5 +1,8 @@
+---
 title:   
 tags:   
+outgoing links: ''  
+---
 [TOC]  
 
 # Elementarwaffen  

@@ -1,5 +1,8 @@
+---
 title: Talus  
 tags: character  
+outgoing links: ''  
+---
 # Charakter  
 ## Name:  
 Megatalus  

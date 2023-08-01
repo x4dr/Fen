@@ -1,5 +1,8 @@
-title: mechasheet
-tags:
+---
+title: mechasheet  
+tags:   
+outgoing links: ''  
+---
 
   mech size 6 (sizeclass 3 -1, 1 -2
 

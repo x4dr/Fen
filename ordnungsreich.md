@@ -1,6 +1,7 @@
 ---
-title: Ordnungsreich
-tags: worldbuilding
+title: Ordnungsreich  
+tags: worldbuilding  
+outgoing links: ''  
 ---
 # Beschreibung
 Das "Schattenreich" das in der letzten Kampagne besiegt wurde.

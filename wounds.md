@@ -1,5 +1,8 @@
+---
 title: Wundsystem  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Wunden

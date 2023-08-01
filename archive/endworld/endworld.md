@@ -1,5 +1,8 @@
+---
 title: Endworld  
 tags: template character  
+outgoing links: ''  
+---
 # Character  
 ## Name
 Blank

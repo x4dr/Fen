@@ -1,5 +1,8 @@
+---
 title: Avis  
 tags: Avis character  
+outgoing links: ''  
+---
 # Charakter
 ## Name
 

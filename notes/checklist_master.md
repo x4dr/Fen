@@ -1,5 +1,8 @@
+---
 title: MasterChecklist  
 tags:   
+outgoing links: ''  
+---
 -> Oedland Checklist
 
 -> Schiffs Cheklist 

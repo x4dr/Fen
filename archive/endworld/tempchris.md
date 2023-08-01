@@ -1,5 +1,8 @@
+---
 title:   
 tags:   
+outgoing links: ''  
+---
 # Charakter
 |Detail|Inhalt|
 |-|-|

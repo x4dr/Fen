@@ -1,5 +1,8 @@
+---
 title: Foki  
 tags:   
+outgoing links: ''  
+---
 Die Herrschaft von Prekor
 # Foki
 ## Infrastructure

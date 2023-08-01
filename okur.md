@@ -1,5 +1,8 @@
+---
 title: Okur  
 tags:   
+outgoing links: ''  
+---
 # Vorläufige Beschreibung
 Die Stadt heißt Okur, Beiname "Das Tor nach Prekor", in einem rötichen Gestein gelegen, Ästhetik außen etwa: ![Okur](https://i.pinimg.com/originals/3a/d6/b7/3ad6b71eef7c38cd09617de6a88c3c2e.jpg)
 Innen ein großer Basar auf dem ground level, für Fremde so gut wie unzugänglicher Atterkan Hive überall sonst, weil kam navigierbar wenn man nicht an der wand laufen kann oder man verirrt sich einfach.

@@ -1,5 +1,8 @@
+---
 title: Schamanism  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Grundlegende Definition

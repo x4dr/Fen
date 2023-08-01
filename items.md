@@ -1,5 +1,8 @@
+---
 title:   
 tags:   
+outgoing links: ''  
+---
 # Random Gegenstände
 ## Hammer
 BAM

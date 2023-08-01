@@ -1,5 +1,8 @@
+---
 title: Heilung  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Wunden 

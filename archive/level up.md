@@ -1,5 +1,8 @@
+---
 title: Fähigkeitssteigerungen  
 tags: rules leveling costs  
+outgoing links: ''  
+---
 [TOC]
 # Leveling
 6 Kategorien, 4 davon sind für alle:

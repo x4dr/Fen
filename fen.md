@@ -1,5 +1,8 @@
+---
 title: Die Welt  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Prekor

@@ -1,5 +1,8 @@
+---
 title: Big Laddy  
 tags:   
+outgoing links: ''  
+---
 # Fighter
 
 ## Körperlich

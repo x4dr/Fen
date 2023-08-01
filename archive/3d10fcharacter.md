@@ -1,5 +1,8 @@
+---
 title: Characterbogen  
 tags:   
+outgoing links: ''  
+---
 Name:  
 
 Alter:  

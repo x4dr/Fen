@@ -1,5 +1,8 @@
+---
 title: Giganten  
 tags:   
+outgoing links: ''  
+---
 Vorerst megatalus spezifische Regeln:
 
 # Grundlegender Megatalus:

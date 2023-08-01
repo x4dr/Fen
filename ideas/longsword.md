@@ -1,5 +1,8 @@
+---
 title: Langschwert  
 tags:   
+outgoing links: ''  
+---
 [TOC] 
 
 # Der dreifache Weg

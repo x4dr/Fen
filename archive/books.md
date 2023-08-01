@@ -1,5 +1,8 @@
+---
 title: Bücher  
 tags:   
+outgoing links: ''  
+---
 # Regeln zum Bücherlesen
 
 Notation A;B;C(;D)  

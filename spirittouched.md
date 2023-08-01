@@ -1,5 +1,8 @@
+---
 title: spirittouched  
 tags:   
+outgoing links: ''  
+---
 Fire  
 1 Flicker (allows diming or brightening of flames)  
 1.1 kindle (allows slowly enlargening or diminishing a burning fire, cannot extinguish or create) range:touch  

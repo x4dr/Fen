@@ -1,5 +1,8 @@
+---
 title: Preise  
 tags:   
+outgoing links: ''  
+---
 |Name | Preis | Gewicht |
 |:---|---:|---: |
 | Weizen      | 4k |  1kg|  

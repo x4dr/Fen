@@ -1,5 +1,8 @@
+---
 title: Oneshot Infiltrator  
 tags:   
+outgoing links: ''  
+---
 # Infiltrator
 
 2 Schaden

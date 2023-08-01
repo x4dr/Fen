@@ -1,5 +1,8 @@
+---
 title: Prekor  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Das Königreich

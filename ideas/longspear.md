@@ -1,5 +1,8 @@
+---
 title: Langspeer  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 Der Langspeer ist eine Kriegswaffe. Groß und unhandlich, benötigt (normalerweise) nicht nur eine Aktion zum bereit machen sondern auch normalerweise eine zusätzliche Aktion zum holen. Mit verheerender Reichweite und Schaden sind Speere DIE Waffe für große, offene, geplante Kämpfe.

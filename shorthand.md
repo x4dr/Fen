@@ -1,5 +1,8 @@
+---
 title: Kurzschreibungen  
 tags:   
+outgoing links: ''  
+---
 # Automation
 Innerhalb dieser Sektion sind kurzerklärungen für die Automation abgelegt. Änderungen hier, ändern die regeln!
 0 Bedeutet entweder gratis oder nicht anwendbar.

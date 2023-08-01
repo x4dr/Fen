@@ -1,5 +1,8 @@
+---
 title: Feudalismus  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 Die heiße neue Erfindung aus Prekor!
 

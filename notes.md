@@ -1,5 +1,8 @@
+---
 title:   
 tags:   
+outgoing links: ''  
+---
 # Kram
 ## Hammer
 Voll krass... quasi DER HAMMER

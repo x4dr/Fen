@@ -1,5 +1,8 @@
+---
 title: Kampfschulen  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 Code hinter Fahigkeitsname (da wo er eingeführt wurde) ist:  

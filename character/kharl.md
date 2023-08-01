@@ -1,5 +1,8 @@
+---
 title: Kharl  
 tags: character  
+outgoing links: ''  
+---
 # Charakter
 |Detail|Inhalt|
 |-|-|

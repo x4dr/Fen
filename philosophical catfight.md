@@ -1,3 +1,12 @@
+---
+title:   
+tags:   
+outgoing links: ''  
+Point: Ich bin immer noch nicht überzeugt das ein Handwerker der seine Werkzeuge nicht versteht irgendwas erreichen kann.
+Du hast mir noch kein sinnvolles beispiel einer Person genannt die Theorie 5 und Geist/Bildung 1 hat.
+Handwerklich gutes programmieren ist coding nach styleguide/pattern aber die zu kennen ist, arguably, Bildung und/oder der skill.
+Ich habe noch nie eine person getroffen die Ein tiefes verstaendnis der materie hat und keinerlei faehigkeit in der anwendung hat.
+---
 # TWAS ALL A MISUNDERSTANDING!
 
 # Section: Philosophical Catfight For Fun
@@ -5,12 +14,6 @@
 "jemand mit 50 jahren akademischen hintergrund der im allgemeinen schnell im kopf ist, kopfrechnen kann und sich 1000 dinge im kopf merken kann ... kann trotzdem ein fürchterlicher programmierer sein"
 
 Nein. Fürchterlich würde ich als sehr sehr ungewöhnlich befinden. Lauter Physiker sind decent bis gute coder. Naturwissenshaflter werden permanent eingestellt fuer coding jobs. 
-------
-Point: Ich bin immer noch nicht überzeugt das ein Handwerker der seine Werkzeuge nicht versteht irgendwas erreichen kann.
-Du hast mir noch kein sinnvolles beispiel einer Person genannt die Theorie 5 und Geist/Bildung 1 hat.
-Handwerklich gutes programmieren ist coding nach styleguide/pattern aber die zu kennen ist, arguably, Bildung und/oder der skill.
-Ich habe noch nie eine person getroffen die Ein tiefes verstaendnis der materie hat und keinerlei faehigkeit in der anwendung hat. 
------
 Point: Was ist der wert von Geist. 
 Weil je nach dem was deiner Argumentation gerade besser passt ist es entweder "Kopfrechenn und sich dinge merken" in welchem Fall dieses Attribut durch die Vorteile "Kopfrechnen" und Eiditisches Gedachtnis" abgedeckt ist.
 Oder es ist verbindungen sehen und ausnutzen aber das ist dan wieder theorie.

@@ -1,5 +1,8 @@
+---
 title: Stahl von Schwertwacht  
 tags: Character Swordlad character  
+outgoing links: ''  
+---
 # Charakter
 |Detail|Wert|
 |-|-|

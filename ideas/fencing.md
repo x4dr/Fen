@@ -1,5 +1,8 @@
+---
 title: Fechten  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Fechten

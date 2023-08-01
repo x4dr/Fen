@@ -1,5 +1,8 @@
+---
 title: Artefakte  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 ## allgemeinparty   
 

@@ -1,5 +1,8 @@
+---
 title: Gravmagie  
 tags: Bewegung Masse Magie  
+outgoing links: ''  
+---
 Bewegungsmagie (Aspekt) 
 
 

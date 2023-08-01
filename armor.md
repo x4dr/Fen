@@ -1,5 +1,8 @@
+---
 title: Rüstung  
 tags:   
+outgoing links: ''  
+---
 # Rüstung
 
 | Rüstung            | Schutz | Stabilität | Gewicht  | Preis| Reparatur Pro Punkt |

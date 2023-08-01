@@ -1,12 +1,7 @@
+---
 title: ZauberSeitenEffekte  
 tags:   
-Headache is +1 Penalty dice on all mental or magic related rolls until the next rest  
-centering is loosing [Source@spell Roll] strain, but it can be reduced by 1 per headache taken
-scattering is gaining [7-Source@spellroll] strain, or 10 if outside of range, but can be raised up to 10
-
-
-Value   |   Effect 
----: | :---
+outgoing links: ''  
 -21-  |    Lose 1 Strain, roll 1d10 to increase the result
 -20   |    Instant healing to full
 -19   |    caster ages 2d10-15 years. Then continues aging at half/double the normal rate until the effect is negated
@@ -25,11 +20,11 @@ Value   |   Effect
 -6   |    1 healing on all wounds
 -5   |    Loose 3 strain
 -4   |    Loose 2 strain
--3   |    Gain 1 strain, roll 1d10 to reduce the result  
+-3   |    Gain 1 strain, roll 1d10 to reduce the result
 -2   |    loose 1 strain
--1   |    the spell works as intended but has unforeseen circumstances/interactions along its line of functioning  
-0   |    slight upwards/outwards flow of air emanates from the caster  
-1   |    the spell works as intended but has unforeseen circumstances/interactions perpendicular to its line of functioning  
+-1   |    the spell works as intended but has unforeseen circumstances/interactions along its line of functioning
+0   |    slight upwards/outwards flow of air emanates from the caster
+1   |    the spell works as intended but has unforeseen circumstances/interactions perpendicular to its line of functioning
 2   |    roll again to reduce the result
 3   |    gain strain according to the highest die from the spell roll
 4   |    spell additionally has grand, theatralic effect
@@ -150,3 +145,10 @@ Value   |   Effect
 119   |    10 permanent damage (healing difficulty 11) damage, caster becomes insane (mostly scared/angry/inable to comprehend, game master may override player choice at any point) until fully healed + 1 week.
 120   |    loose all strain, in a big explosion dealing 1 damage (can't reduce below 1 hp) -1/meter to everything in range, leaves caster unconcious until 75% healed.
 121+   |   scatter, reduce the current result by twice that
+---
+Headache is +1 Penalty dice on all mental or magic related rolls until the next rest  
+centering is loosing [Source@spell Roll] strain, but it can be reduced by 1 per headache taken
+scattering is gaining [7-Source@spellroll] strain, or 10 if outside of range, but can be raised up to 10
+
+
+Value   |   Effect 

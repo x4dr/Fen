@@ -1,5 +1,8 @@
+---
 title: Testcharakter  
 tags:   
+outgoing links: ''  
+---
 # Charakter
 |Detail|Inhalt|
 |-|-|

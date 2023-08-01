@@ -1,5 +1,8 @@
+---
 title: GROOT  
 tags: Platzhalter character  
+outgoing links: ''  
+---
 
 
 Name:  

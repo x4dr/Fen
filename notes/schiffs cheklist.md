@@ -1,5 +1,8 @@
+---
 title:   
 tags: checklist  
+outgoing links: ''  
+---
 ## Boot notizens  
 Mögliche Namen Sturm-/Feuer-/Lichtbringer, dann ist Avis Käpt'n der unsterblichen und der ****bringer
 ### Außenverkleidung

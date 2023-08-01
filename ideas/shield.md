@@ -1,5 +1,8 @@
+---
 title: Schild  
 tags:   
+outgoing links: ''  
+---
 # Schilde
 In jeder Freien Phase solange das Schild ausgerüstet ist erhöhe Schildzähler um Kraft+Schild, solange Schildzähler kleiner als (Kraft+Schild)&times;4 sind
 Schildzähler in Höhe des doppelten Schildbonuses können ausgegeben werden um das Schild am Anfang der Freien Phase (dies ist vor "in") bereit zu machen. Das Schild kann zu jedem anderen Zeitpunkt für das dreifache des Schildbonuses bereit gemacht werden.

@@ -1,5 +1,8 @@
+---
 title: sirka shazoda  
 tags:   
+outgoing links: ''  
+---
 Der dude der in das loch geworfen wurde
 
 Ist so um die letzten shatten kreuzzug hier rein geworfen worden

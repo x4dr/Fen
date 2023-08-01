@@ -1,5 +1,8 @@
+---
 title: Speer  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Langspeer

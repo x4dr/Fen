@@ -1,5 +1,8 @@
+---
 title: Gem Based Magic  
 tags: magic gems  
+outgoing links: ''  
+---
 
  
 # Magical Gems

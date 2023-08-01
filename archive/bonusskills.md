@@ -1,5 +1,8 @@
+---
 title: Zusätzliche Fähigkeiten  
 tags:   
+outgoing links: ''  
+---
 [TOC]  
 
 Jeder Character der einem Beruf/Handwerk/Bildungszweig folgt, kann zusätzliche Fähigkeiten an diesen Beruf hängen, so könnte zum Beispiel ein Schreiber und ein Dieb beide Fälschen wählen, aber der Schreiber hätte keine Begründung für Einbrechen und der Dieb keine Begründung für Poesie.

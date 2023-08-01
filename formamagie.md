@@ -1,5 +1,8 @@
+---
 title: Forma  
 tags: Forma Magie  
+outgoing links: ''  
+---
 [TOC]
 # Formamagie  
 

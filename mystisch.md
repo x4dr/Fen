@@ -1,5 +1,8 @@
+---
 title: Vorteile und Fähigkeiten der Mystischen Attribute  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Attribute

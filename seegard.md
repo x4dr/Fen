@@ -1,5 +1,8 @@
+---
 title: Seegard  
 tags: Stadt  
+outgoing links: ''  
+---
 [TOC]
 
 # Die Stadt

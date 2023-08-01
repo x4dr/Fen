@@ -1,5 +1,8 @@
+---
 title: Alchemie Magie  
 tags: magic alchemy  
+outgoing links: ''  
+---
 [TOC]
 # Alchemische Einstimmung
 ## Grundlegende Definition

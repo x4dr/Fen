@@ -1,5 +1,8 @@
+---
 title: Schadenstypen  
 tags:   
+outgoing links: ''  
+---
 [TOC]
 
 # Blitz

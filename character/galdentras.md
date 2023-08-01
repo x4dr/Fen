@@ -1,5 +1,8 @@
+---
 title: Tras  
 tags: character  
+outgoing links: ''  
+---
 # Charakter
 
 |||

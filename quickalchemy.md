@@ -1,5 +1,8 @@
+---
 title: Schnelle Alchemie  
 tags:   
+outgoing links: ''  
+---
 [TOC]  
 ## Allgemeines  
 Zauber der Schnellalchemie sind eher für direkte Situationen bzw "im Affekt" zu gebrauchen und haben deshalb eher schnelle, eher direkte Wirkungsweisen.  

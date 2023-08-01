@@ -1,5 +1,8 @@
+---
 title: Gisa  
-tags:  character  
+tags: character  
+outgoing links: ''  
+---
 [TOC]
 
 # Stärke
