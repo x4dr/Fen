@@ -10,6 +10,7 @@ outgoing links: ''
 ### Jede Information die du teilst, kann gegen dich verwendet werden
 ### Wenn du Leute einfach Fragst, verraten sie dir viel mehr als sie wollen.
 ### Wenn man nur lang genug sucht hat jeder Dreck am Stecken
+### Traue niemals einem Magier
 
 
 
@@ -22,6 +23,8 @@ outgoing links: ''
 ### Die neuen Schwertwächter? Ein haufen Lappen die sich hinter ihrem Schwert verstecken
 ### Nichts ist besser als jeden Tag nicht zu verhungern
 ### Verlasse niemals eine Stadt, die du nicht zumindest Teilweise in Schutt und Asche gelegt hast
+### Traue niemals einem Magier
+
 
 # Combos
 #### Auf dem Ball 
