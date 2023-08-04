@@ -24,6 +24,7 @@ outgoing links: ''
 ### Nichts ist besser als jeden Tag nicht zu verhungern
 ### Verlasse niemals eine Stadt, die du nicht zumindest Teilweise in Schutt und Asche gelegt hast
 ### Traue niemals einem Magier
+### Das bisschen Bluten hat noch niemandem geschadet
 
 
 # Combos
