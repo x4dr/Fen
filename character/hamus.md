@@ -138,6 +138,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Appraisal|1/5|0|
 |Taktik|2/5|0|
 |Handgemenge|1/5|0|
+|Paranoia|1/5|0|
 ||||
 |Spinnensin| 5/5|1|
 |Infiltrator| 0/5|1|
