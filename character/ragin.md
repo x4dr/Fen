@@ -162,10 +162,11 @@ verstecktes Messer
 |Werfen|S|
 |Autorität|SS|
 |Tratsch|SS|
-|Eispicke|S|
+|Eispicke|SS|
 |EyEsOfDaRkNeSs|SSS|
 |Stabilität|S|
-|Stabilität|S|
+|Wissen(Gebirge)|S|
+
 # Inventar
 
 |Name|Anzahl|Gewicht|Preis|
