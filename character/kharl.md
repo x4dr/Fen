@@ -152,7 +152,7 @@ outgoing links: ''
 2/5 Quelle Elementare
 1/5 Argyrisches Wissen
 3/5 Alchemie
-1/5 Autorität
+2/5 Autorität
 1/5 Beruhigen
 2/5 Fallensteller
 1/5 Forschen
@@ -169,6 +169,7 @@ outgoing links: ''
 3/5 Tierzähmung
 1/5 Tratsch
 1/5 Tyembindung
+
 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem, +1 Elementarwissen)
 # Inventar
