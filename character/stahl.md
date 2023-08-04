@@ -170,7 +170,7 @@ outgoing links: ''
 
 ## Fähigkeitsxp
 
-[Legende[[specific:conventions:xp:kurz:-]]]
+![[Legende]](info)
 
 |Fähigkeit|XP|
 |-|-|

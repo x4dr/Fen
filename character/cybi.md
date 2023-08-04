@@ -143,7 +143,7 @@ outgoing links: ''
 |Paartanz | Der Tanz mit einem Partner lässt diesen die Effekte des Tanzes, ohne zusätzliche Kosten, teilen. |
 
 # Zauber
-[[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
+![](illusionmagic#zone der unsichtbarkeit)
 
 # Fortschritt
 |Fähigkeit|EXP|

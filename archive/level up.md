@@ -34,7 +34,7 @@ Attribute und einige Fähigkeiten für die Kategorien: Einträge mit () dahinter
 * Inspiration ist eine Charaktermotivation sich mit dem erlernen einer neuen Fähigkeit beschäftigen zu wollen. Inspiration wird entweder ausgelöst wenn eine solche Fähigkeit nützlich wäre und dies dem Charakter bewusst ist, oder der Charakter von jemandem beeindruckt ist, der diese Fähigkeit ausführt.
   
 ## Fähigkeitspunkte
-[Legende[[specific:conventions:xp:kurz:-]]]
+![[Legende]](info)
 allgemeiner Fall
 ### Level 1
 * 1 Woche Training oder 1 Monat herumprobieren (5)  

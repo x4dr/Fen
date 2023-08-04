@@ -203,8 +203,8 @@ Benötigt mindestens eine nicht Modifikator Forma im Zauber
 |Dauer|abnehmend, pro minute|  
 |Wurfmodifikator| (richtet selbst keinen Schaden an)|  
 
-[[[specific:home:Lichtstärke]]]
-[[[specific:home:Leuchtradius]]]
+![](home#Lichtstärke)
+![](home#Leuchtradius)
 
 ### Modifikatoren  
 

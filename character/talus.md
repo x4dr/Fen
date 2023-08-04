@@ -32,7 +32,7 @@ Reisen: 45kg
 ## Geld:  
 7s
 ## Hauptwaffe:  
-[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
+![[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)]](info)]  
 ## Wunden:  
 Gigatalus: Bein6: 3 Feuerschaden
 Megatalus: Bein1: 5(4) Bein 7: 5(4),3(Avis' Mark, 9)
@@ -168,8 +168,8 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |Größere Einstimmung|1|  
 |Licht der Erkenntnis|1|  
 |Halten des Flüchtigen Lichts|1|  
-|[Prozessalchemiezauber[[specific:talus:Prozessalchemie:-]]]|16|  
-|[Schnellalchemiezauber[[specific:talus:Schnellalchemie:-]]]|9|  
+|![[Prozessalchemiezauber]](info)|16|  
+|![[Schnellalchemiezauber]](info)|9|  
   
 ## Weisheit  
 ### Attribute  
@@ -265,34 +265,34 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
   
 # Zauber  
 ## Prozessalchemie  
-[Biegen[[specific:alchemymagic:zauber:biegen:-]]]  
-[Morph[[specific:alchemymagic:zauber:morph:-]]]  
-[Kalzifizieren[[specific:alchemymagic:zauber:kalzifizieren:-]]]  
-[Calcination[[specific:alchemymagic:zauber:Kalzinieren:-]]]  
-[Sublimation[[specific:alchemymagic:zauber:Sublimation:-]]]  
-[Separation[[specific:alchemymagic:zauber:Separation:-]]]  
-[Multiplikation[[specific:alchemymagic:zauber:Multiplikation:-]]]  
-[Auftrieb[[specific:alchemymagic:zauber:Auftrieb:-]]]  
-[Lösen[[specific:alchemymagic:zauber:Lösen:-]]]  
-[Konjunktion[[specific:alchemymagic:zauber:Konjunktion:-]]]  
-[Exaltieren[[specific:alchemymagic:zauber:Exaltieren:-]]]  
-[Putrefizierung[[specific:alchemymagic:zauber:Putrefizierung:-]]]  
-[Zibation[[specific:alchemymagic:zauber:Zibation:-]]]  
-[Durstsand[[specific:alchemymagic:zauber:Durstsand:-]]]  
-[Atemmaske[[specific:alchemymagic:zauber:Atemmaske:-]]]
-[Größere Änderung[[specific:alchemymagic:zauber::-]]]  
+![[Biegen]](info)  
+![[Morph]](info)  
+![[Kalzifizieren]](info)  
+![[Calcination]](info)  
+![[Sublimation]](info)  
+![[Separation]](info)  
+![[Multiplikation]](info)  
+![[Auftrieb]](info)  
+![[Lösen]](info)]  
+![[Konjunktion]](info)  
+![[Exaltieren]](info)  
+![[Putrefizierung]](info)  
+![[Zibation]](info)  
+![[Durstsand]](info)  
+![[Atemmaske]](info)
+![[Größere Änderung]](info)]  
   
 ## Schnellalchemie  
-[Feuersee[[specific:quickalchemy:zauber:Feuersee:-]]]  
+![[Feuersee]](info)  
 * mit haltbarem Feuer
-[Pandemonium[[specific:quickalchemy:zauber:Pandemonium:-]]]  
-[Stat. Entladung[[specific:quickalchemy:zauber:Statische Entladung:-]]]  
-[Essenz des Glücks[[specific:quickalchemy:zauber:Essenz des Glücks:-]]]  
-[Stat. Schlag[[specific:quickalchemy:zauber:Statischer Schlag:-]]]  
-[Destabilisieren[[specific:quickalchemy:zauber:Destabilisieren:-]]]  
-[Änderung[[specific:quickalchemy:zauber:Änderung:-]]]  
-[Verfall[[specific:quickalchemy:zauber:Verfall:-]]]  
-[Gefrieren[[specific:quickalchemy:zauber:Gefrieren:-]]]  
+![[Pandemonium]](info)  
+![[Stat. Entladung]](info)]  
+![[Essenz des Glücks]](info)]  
+![[Stat. Schlag]](info)]  
+![[Destabilisieren]](info)  
+![[Änderung]](info)]  
+![[Verfall]](info)  
+![[Gefrieren]](info)  
   
 # Inventar
 ## Rucksack
@@ -328,7 +328,7 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |gereinigtes Quartz		|404	|0.01 kg	|20K	|
 |gereinigte Kohle		|98	|0.01 kg	|	|
 |Kraftakt-Handschuh (1x/Tag 3 Bonuswürfel auf Kraftakt, recharged bei Kraoz-gefälligem Einsatz)|||||
-|[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Kurzspeer:L13HSC]]]|1|1.5 kg|1.5 kg||
+|![[Cirit mit Widerhaken und Talus-Lock (Serisem Q3)]](info)]|1|1.5 kg|1.5 kg||
 |Q7 Ersatzteil Federstahl	|2	|1 kg		|	|  
 |Q10 Ersatzteil Federstahl	|3	|1 kg		|	|  
 |Ersatzbein Federstahl		|0	|10.00 kg 	|	|

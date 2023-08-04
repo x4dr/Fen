@@ -5,4 +5,4 @@ testpage for fun!
 
 
 
-[[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
+![](illusionmagic#zone der unsichtbarkeit)
