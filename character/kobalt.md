@@ -97,7 +97,7 @@ outgoing links: ''
 |-|-|
 |Chaos|1|
 |Geordnet|1|
-| KonzeptRunicAssemblyLanguage | 1 |
+| KonzeptRunicAssemblyLanguage | 2 |
 | AspektAssemblyRunen | 1 |
 | KonzeptChaosCasting | 2 |
 | AspektArkan | 2 |
