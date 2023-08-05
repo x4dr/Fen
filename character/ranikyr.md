@@ -165,9 +165,9 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 # Inventar  
 ## Waffen
 Stahldolch(L10)  
-![](!weapon:Dolch:L10HSCB)
+[[[weapon:Dolch:L10HSCB]]]
 Bronzedolch
-![](!weapon:Dolch:)
+[[[weapon:Dolch:]]]
 Kurzbogen mit Pfeile(20+50/70)  
-![](!weapon:kurzbogen:)
+[[[weapon:kurzbogen:]]]
 Sehne Verschleiß 1/3  

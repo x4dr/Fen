@@ -185,16 +185,16 @@ Schwäche:
 ### Zauber
 |Zauber|Name|
 |-|-|
-|Entzündung stoppen|![[Leben]](info)|
-|Leben erhalten|![[Leben]](info)|
-|Leben Kanalisieren|![[Leben]](info)|
-|Herz stoppen|![[Leben]](info)|
-|Leben Schützen|![[Leben]](info)|
-|Gleißende Berührung|![[Feuer]](info)|
-|Schutz vor Feuer|![[Feuer]](info)|
-|Unsichtbarkeit|![[Illusion]](info)|
-|Schmerz|![[Illusion]](info)|
-|Schmerzdämpfung|![[Illusion]](info)|
+|Entzündung stoppen|[Leben[[specific:lifemagic:Entzündung stoppen:-]]]|
+|Leben erhalten|[Leben[[specific:lifemagic:Leben erhalten:-]]]|
+|Leben Kanalisieren|[Leben[[specific:lifemagic:Leben Kanalisieren:-]]]|
+|Herz stoppen|[Leben[[specific:lifemagic:Herz stoppen:-]]]|
+|Leben Schützen|[Leben[[specific:lifemagic:Leben Schützen:-]]]|
+|Gleißende Berührung|[Feuer[[specific:firemagic:Gleißende Berührung:-]]]|
+|Schutz vor Feuer|[Feuer[[specific:firemagic:Schutz vor Feuer:-]]]|
+|Unsichtbarkeit|[Illusion[[specific:illusionmagic:Unsichtbarkeit:-]]]|
+|Schmerz|[Illusion[[specific:illusionmagic:Schmerz:-]]]|
+|Schmerzdämpfung|[Illusion[[specific:illusionmagic:Schmerzdämpfung:-]]]|
 
 
 
@@ -228,7 +228,7 @@ Schwäche:
  
 
 # XP
-![[Legende]](info)
+[Legende[[specific:conventions:xp:kurz:-]]]
 ## Fortschrittspunkte
 |Fähigkeit | XPCode |
 |-|-|
@@ -251,21 +251,21 @@ Schwäche:
 
 ## Zauber
 ### Leben
-![[Entzündung stoppen]](info)]
-![[Leben erhalten]](info)]
-![[Leben kanalisieren]](info)]
-![[Herz stoppen]](info)]
-![[Leben schützen]](info)]
+[Entzündung stoppen[[specific:lifemagic:entzündung stoppen:-]]]
+[Leben erhalten[[specific:lifemagic:leben erhalten:-]]]
+[Leben kanalisieren[[specific:lifemagic:leben kanalisieren:-]]]
+[Herz stoppen[[specific:lifemagic:leben herz stoppen:-]]]
+[Leben schützen[[specific:lifemagic:leben schützen:-]]]
 ### Feuer
-![[Gleißende Berührung]](info)]
-![[Schutz vor Feuer]](info)]
+[Gleißende Berührung[[specific:firemagic:gleißende berührung:-]]]
+[Schutz vor Feuer[[specific:firemagic:Schutz vor Feuer:-]]]
 ### Illusion
-![[Unsichtbarkeit]](info)
-![[Schmerz]](info)
-![[Schmerz Dämpfen]](info)]
+[Unsichtbarkeit[[specific:illusionmagic:unsichtbarkeit:-]]]
+[Schmerz[[specific:illusionmagic:schmerz:-]]]
+[Schmerz Dämpfen[[specific:illusionmagic:schmerzdämpfung:-]]]
 ## Waffen
 Stahl Panzerbrecher
-![](!weapon:Panzerbrecher:L10HSCB)
+[[[weapon:Panzerbrecher:L10HSCB]]]
 Stahldolch(L10)  
-![](!weapon:Dolch:L10HSCB)
+[[[weapon:Dolch:L10HSCB]]]
 

@@ -25,9 +25,9 @@ S - Entsprechende Tat(Gesellenstück bis Legendäre Tat)
 
 # Wiki
 ## Infolets
-![info] fügt direkt ein  
-![[info#example|n-h1]] fügt ausklappbar ein  
-![[name]](info)] fügt ausklappbar mit extra überschrift ein  
+[[info]] fügt direkt ein
+![[info#example|n-h1]] fügt ausklappbar ein
+[name[[info]]] fügt ausklappbar mit extra überschrift ein
 info hat folgende optionen
 
 * weapon:waffenname:waffenmods
@@ -35,6 +35,12 @@ info hat folgende optionen
 * specific:seite:specificselektor
 * q:seite:specificselektor
 
+### Waffenmods
+[LR]<Anzahl>[HSCB]+
+LR: entscheidet ob *nach* links  oder *nach* rechts applied wird (nach links ist von oben nach unten)
+anzahl entscheidet wie weit gezählt wird, 10 sind alle
+HSCB entscheidet welcher schadenscode modifiziert wird
+waffenmods sind komma-trennbar
 
 ### Specificselektor
 selektiert auf einer seite eine überschrift a:b sucht nach der überschrift b in a

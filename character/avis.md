@@ -14,13 +14,13 @@ outgoing links: ''
 Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  
 
 # Inventar
-![artefakte#allgemeinparty#Kelins Richtungsstab]  
-![artefakte#allgemeinparty#Die Sturmklinge]
-![artefakte#allgemeinparty#Fernglas der Fehrnsicht]  
-![artefakte#burgloot#Kompass of Pointines]  
-![artefakte#burgloot#Karte of Pointines]  
-![artefakte#allgemeinparty#Füllhorn]  
-![artefakte#allgemeinparty#Münze der Unterwelt]  
+[[specific:artefakte:allgemeinparty:Kelins Richtungsstab]]  
+[[specific:artefakte:allgemeinparty:Die Sturmklinge]]
+[[specific:artefakte:allgemeinparty:Fernglas der Fehrnsicht]]  
+[[specific:artefakte:burgloot:Kompass of Pointines]]  
+[[specific:artefakte:burgloot:Karte of Pointines]]  
+[[specific:artefakte:allgemeinparty:Füllhorn]]  
+[[specific:artefakte:allgemeinparty:Münze der Unterwelt]]  
 
 ## Tattoo
 ### edelstein 5
@@ -275,9 +275,10 @@ Diebeszeichen: Treffpunkt & Mitternacht
 # XP
 ## Fähigkeitsxp
 
-![[Legende]](info)
+[Legende[[specific:conventions:xp:kurz:-]]]
 
 |Fähigkeit|XP|
 |-|-|
 |Verzerrung|??????|
 
+  
