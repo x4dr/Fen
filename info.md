@@ -4,11 +4,7 @@ tags:
 outgoing links: ''  
 ---
 # next meme
-
-![[i2]](info2)
-![[i2]](info2)
-![[i2]](info2)
-![i2](info2)
+![!q:aurier#Das Aurische Reich]
 
 ### test
 ![[i2]](aurier)
@@ -16,3 +12,5 @@ outgoing links: ''
 ![x3](aurier)
 
 # out of meme exception
+
+-[x] checkboxes
