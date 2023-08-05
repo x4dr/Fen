@@ -24,3 +24,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Hohl Pfeile| | | |
 |Wurfspikes| | | |
 |Pfeile| | | |
+|Gefallen bei Kiva| | | |
+|Infiltrator| | | |
