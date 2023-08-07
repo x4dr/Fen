@@ -30,3 +30,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Fischer| | | |
 |Kontakte Untergrund Okarun| | | |
 |Wurfkrüge (leer)| | | |
+|Schleuderkrüge (leer)| | | |
+|Hohl Pfeile| | | |
