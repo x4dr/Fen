@@ -37,3 +37,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Gefallen bei Kiva| | | |
 |Infiltrator| | | |
 |Munitionierer| | | |
+|Fischer| | | |
+|Kontakte Untergrund Okarun| | | |
