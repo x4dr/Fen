@@ -52,3 +52,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |isolierter,reißfester Pavillion| | | |
 |Letter of Introduction von Harika| | | |
 |Feuerkastenausweis| | | |
+|Überlandbotenrucksack| | | |
