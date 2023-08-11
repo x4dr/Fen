@@ -164,3 +164,4 @@ Einen sternenkasten ausweis
 
 GLOWY RESONATING ORB  -> Loads on 4 resonanz, Frost/Order Aspekted, Disciplin Aspected, 20 Cap
 the uncut gem from childhood
+Armband for easy scrying (electronische fusfessel biarva)
