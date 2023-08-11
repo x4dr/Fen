@@ -133,7 +133,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
-|Support |3/5|0|
+|Support |4/5|0|
 |Tanzen|1/5|0|
 |Appraisal|1/5|0|
 |Taktik|2/5|0|
