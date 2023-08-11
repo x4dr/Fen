@@ -63,3 +63,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |isolierter,reißfester Pavillion| | | |
 |Wurfkrüge (leer)| | | |
 |Schleuderkrüge (leer)| | | |
+|Hohl Pfeile| | | |
