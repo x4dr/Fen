@@ -79,3 +79,7 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Augenfarbentrank (schwarz)| | | |
 |Augebrannter Regenschirm| | | |
 |Glimmer| | | |
+|Wanderkette| | | |
+|Zeitsprung Armschutz| | | |
+|Geschenk von Hamus| | | |
+|Silbernes Kästchen| | | |
