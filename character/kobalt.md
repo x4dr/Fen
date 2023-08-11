@@ -125,7 +125,7 @@ Suchen: 1/5
 Fusarbeit: 2/5
 AspektArkan 5/5
 Konzept: Chaos Casting 3/5
-AspektLighting 3/5
+AspektLighting 4/5
 PerfektChaos 5/5
 Kraft: 1/5
 Ermitteln: 1/5
