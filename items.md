@@ -65,3 +65,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Schleuderkrüge (leer)| | | |
 |Hohl Pfeile| | | |
 |Wurfspikes| | | |
+|Pfeile| | | |
