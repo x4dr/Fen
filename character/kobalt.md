@@ -138,7 +138,7 @@ Chaos 1/5
 Dozieren 1/5
 Fuckboy 1/5
 Wizard 2/5
-
+Scrying 1/5
 
 # Vorteile
 Lesen
