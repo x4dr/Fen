@@ -167,6 +167,7 @@ outgoing links: ''
 |Smalltalk|4/5|
 |Heilen|4/5|
 |Etiquette|2/5|
+|Improvisation|1/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
