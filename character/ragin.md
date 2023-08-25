@@ -156,7 +156,7 @@ verstecktes Messer
 |Gifte|SSS|
 |Wächter|S|
 |Akrobatik|SS|
-|Suchen|SSS|
+|Suchen|SSSS|
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
