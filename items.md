@@ -85,3 +85,8 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Silbernes Kästchen| | | |
 |Glitzer-Werkstatt Bausatz| | | |
 |zerbrochenes östliches Schwert| | | |
+|Torf| | | |
+|Drachenkopf| | | |
+|Artefaktkerne| | | |
+|Sternenkasten-Amulet| | | |
+|Edelstein (rot)| | | |
