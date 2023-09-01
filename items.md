@@ -103,3 +103,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Überlandbotenrucksack| | | |
 |Ragins Messa| | | |
 |Aurier Freeze Messa| | | |
+|Serisem Messa| | | |
+|zerbrochenes östliches Schwert| | | |
