@@ -166,6 +166,7 @@ verstecktes Messer
 |EyEsOfDaRkNeSs|SSS|
 |Stabilität|S|
 |Wissen(Gebirge)|S|
+|Navigation|S|
 
 # Inventar
 
