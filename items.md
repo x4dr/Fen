@@ -131,3 +131,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Infiltrator| | | |
 |Munitionierer| | | |
 |Fischer| | | |
+|Kontakte Untergrund Okarun| | | |
