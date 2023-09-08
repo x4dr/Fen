@@ -134,3 +134,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Kontakte Untergrund Okarun| | | |
 |Letter of Introduction von Harika| | | |
 |Feuerkastenausweis| | | |
+|Überlandbotenrucksack| | | |
