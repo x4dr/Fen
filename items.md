@@ -117,3 +117,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Augenfarbentrank (schwarz)| | | |
 |Augebrannter Regenschirm| | | |
 |Glimmer| | | |
+|Wanderkette| | | |
