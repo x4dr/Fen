@@ -110,3 +110,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Eispickel| | | |
 |isolierter,reißfester Pavillion| | | |
 |Torf| | | |
+|Drachenkopf| | | |
