@@ -114,3 +114,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Artefaktkerne| | | |
 |Sternenkasten-Amulet| | | |
 |Edelstein (rot)| | | |
+|Augenfarbentrank (schwarz)| | | |
