@@ -108,8 +108,8 @@ outgoing links: ''
 |Gefahrensin|3|
 |Spurenlos|3|
 |Tiergefährte|2|
+|Zielsicher|2|
 |Atemtechnik|1|
-|Zielsicher|1|
 |Eidetisches Gedächnis|0|
 
 # Vorteile:
@@ -126,7 +126,6 @@ want: Plänklermodus, allgemeine fernkampfdinge
 # Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Zielsicher| 4/5|1|
 |Angeln |1/5|0|
 |Layouts| 3/5|0|
 |Werfen| 2/5|0|
@@ -146,6 +145,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Unauffällig| 4/5|0|
 |Instinkt| 5/5|1|
 |Animal Companion| 5/5|0|
+|Zielsicher| 0/5|2|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 # Inventar
