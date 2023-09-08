@@ -179,7 +179,7 @@ outgoing links: ''
 
 ## Ausrüstung
 Flint and Steel, 1 Alchemie Luutbox, Lantern of Revealing Interesting things, Kochlöffel (1Bonuswürfel; wenn 1 in endwurf entlädt es sich)
-Normales Schwert, Schwert des Ansturms
+Normales Schwert
 ## Geld
 
 
