@@ -112,3 +112,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Torf| | | |
 |Drachenkopf| | | |
 |Artefaktkerne| | | |
+|Sternenkasten-Amulet| | | |
