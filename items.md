@@ -143,3 +143,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect| | | |
 |Eispickel| | | |
 |isolierter,reißfester Pavillion| | | |
+|Torf| | | |
+|Drachenkopf| | | |
