@@ -152,7 +152,7 @@ outgoing links: ''
 2/5 Quelle Elementare
 1/5 Argyrisches Wissen
 3/5 Alchemie
-2/5 Autorität
+3/5 Autorität
 1/5 Beruhigen
 2/5 Fallensteller
 1/5 Forschen
