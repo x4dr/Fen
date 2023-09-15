@@ -167,6 +167,7 @@ verstecktes Messer
 |Stabilität|S|
 |Wissen(Gebirge)|S|
 |Navigation|S|
+|Rennen|S|
 
 # Inventar
 
