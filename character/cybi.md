@@ -178,6 +178,7 @@ outgoing links: ''
 | Kerze | 6 | 0,2 | - | Kerze. Brennt, wenn man sie anzündet |
 | Sternenkasten-Amulet | 1 | - | - | Besteht aus blauem Goldfluss |
 | Edelstein (rot) | 1 | - | 20 | Roter Stein | verbaut in Inkubator
+| Abstrakter Artefaktkern | 1 | - | - | Stein | Kann Informationen speichern und Dinge erscheinen lassen (Gloria hat es für Bogenschützen genutzt) |
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
 | Augebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
 
