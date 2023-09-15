@@ -179,3 +179,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Glitzer-Werkstatt Bausatz| | | |
 |Letter of Introduction von Harika| | | |
 |Feuerkastenausweis| | | |
+|Überlandbotenrucksack| | | |
+|Ragins Messa| | | |
