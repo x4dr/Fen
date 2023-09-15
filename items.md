@@ -173,3 +173,7 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Augebrannter Regenschirm| | | |
 |Glimmer| | | |
 |Wanderkette| | | |
+|Zeitsprung Armschutz| | | |
+|Geschenk von Hamus| | | |
+|Silbernes Kästchen| | | |
+|Glitzer-Werkstatt Bausatz| | | |
