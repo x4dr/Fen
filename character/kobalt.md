@@ -131,7 +131,7 @@ Kraft: 1/5
 Ermitteln: 1/5
 Konzept Runic assembly: 5/5
 AspektIce: 1/5
-AspektTravel 2/5
+AspektTravel 3/5
 Seduction 2/5
 Irreverence:3/5
 Chaos 1/5
