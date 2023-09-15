@@ -180,7 +180,9 @@ outgoing links: ''
 | Edelstein (rot) | 1 | - | 20 | Roter Stein | verbaut in Inkubator
 | Abstrakter Artefaktkern | 1 | - | - | Stein | Kann Informationen speichern und Dinge erscheinen lassen (Gloria hat es für Bogenschützen genutzt) |
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
-| Augebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
+| Ausgebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
+| Schwarze Kugel mit weißen Punkten | 1 | - | - | Mini-Planetarium |
+
 
 ## Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
