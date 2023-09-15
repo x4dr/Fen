@@ -190,3 +190,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |isolierter,reißfester Pavillion| | | |
 |Abstrakter Artefaktkern| | | |
 |Ausgebrannter Regenschirm| | | |
+|Schwarze Kugel mit weißen Punkten| | | |
