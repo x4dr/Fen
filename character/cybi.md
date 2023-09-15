@@ -168,6 +168,7 @@ outgoing links: ''
 |Etiquette|2/5|
 |Improvisation|1/5|
 |Manifestation|4/5|
+|Rennen|1/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
