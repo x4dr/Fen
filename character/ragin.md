@@ -183,6 +183,7 @@ verstecktes Messer
 |Ragins Messa|1|0.5kg||
 |Aurier Freeze Messa|1|0.5kg||
 |Serisem Messa|1|0.5kg||
+|<void>-Messa|1|0.5kg||
 |zerbrochenes östliches Schwert|1|||
 |leichte Halbplatte|1|||
 |Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect|1|||
