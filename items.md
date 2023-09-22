@@ -210,3 +210,6 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Silbernes Kästchen| | | |
 |Glitzer-Werkstatt Bausatz| | | |
 |Pfeile| | | |
+|Gefallen bei Kiva| | | |
+|Infiltrator| | | |
+|Munitionierer| | | |
