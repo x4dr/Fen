@@ -175,7 +175,7 @@ outgoing links: ''
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem, +1 Elementarwissen)
 # Inventar
 
-1 Ausweisamulett Sternenkaste, Amulett des Friedens
+1 Ausweisamulett Sternenkaste, Amulett des Friedens, 5 Dosen Blut für Alchemie
 
 ## Ausrüstung
 Flint and Steel, Lantern of Revealing Interesting things, Kochlöffel (1Bonuswürfel; wenn 1 in endwurf entlädt es sich)
