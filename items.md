@@ -191,3 +191,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Abstrakter Artefaktkern| | | |
 |Ausgebrannter Regenschirm| | | |
 |Schwarze Kugel mit weißen Punkten| | | |
+|Torf| | | |
