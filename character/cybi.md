@@ -87,7 +87,7 @@ outgoing links: ''
 | Improvisation | 1 |
 | Wechselwirkung | 1 |
 | Feinschmied | 1 |
-| Heilen | 1 |
+| Heilen | 2 |
 
 ## Mystisch
 
@@ -164,11 +164,11 @@ outgoing links: ''
 |Überreden|1/5|
 |Glitzer|1/5|
 |Smalltalk|4/5|
-|Heilen|4/5|
 |Etiquette|2/5|
 |Improvisation|1/5|
 |Manifestation|4/5|
 |Rennen|1/5|
+|Heilen|0/0 1|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
@@ -188,7 +188,7 @@ outgoing links: ''
 ## Ausrüstung
 |Name|Anzahl|Gewicht|Beschreibung|Ladung|
 |-|-|-|-|-|
-|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|17/20|
+|Glimmer|1|0,25|Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.|15/20|
 |Wanderkette|1|-|Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. |3/3|
 |Zeitsprung Armschutz|2|0,2|Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.|?|
 |Geschenk von Hamus|-|-|Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.|?|
