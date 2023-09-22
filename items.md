@@ -203,3 +203,7 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Schleuderkrüge (leer)| | | |
 |Glimmer| | | |
 |Wanderkette| | | |
+|Hohl Pfeile| | | |
+|Zeitsprung Armschutz| | | |
+|Wurfspikes| | | |
+|Geschenk von Hamus| | | |
