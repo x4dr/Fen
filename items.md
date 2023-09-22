@@ -223,3 +223,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Serisem Messa| | | |
 |&lt;void&gt;-Messa| | | |
 |zerbrochenes östliches Schwert| | | |
+|leichte Halbplatte| | | |
+|Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect| | | |
