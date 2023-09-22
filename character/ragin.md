@@ -146,7 +146,7 @@ verstecktes Messer
 |Zeichensprache|S|
 |Survival|SSSSS|
 |Fußarbeit|SSSSS|
-|Meucheln|SSSSS|
+|Meucheln|SSSSSS|
 |Wissen(Kulturen)|SSSSS|
 |Widerstehen|SSSSS|
 |Politik|SSSSS|
