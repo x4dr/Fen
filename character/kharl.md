@@ -181,7 +181,7 @@ outgoing links: ''
 Flint and Steel, Lantern of Revealing Interesting things, Kochlöffel (1Bonuswürfel; wenn 1 in endwurf entlädt es sich)
 Normales Schwert
 ## Geld
-1 Silber
+1 Silber, 25 Kupfer
 
 
 
