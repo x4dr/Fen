@@ -169,6 +169,7 @@ outgoing links: ''
 |Manifestation|4/5|
 |Rennen|1/5|
 |Heilen|0/0 1|
+|Kulturenwissen|1/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
