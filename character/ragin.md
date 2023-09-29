@@ -76,7 +76,7 @@ outgoing links: ''
 ### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Suchen|1|
+|Suchen|2|
 |Instinkt|1|
 |Taktik|1|
 |Navigation|1|
@@ -144,19 +144,19 @@ verstecktes Messer
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |Zeichensprache|S|
+|Meucheln|SSSSSS|
 |Survival|SSSSS|
 |Fußarbeit|SSSSS|
-|Meucheln|SSSSSS|
 |Wissen(Kulturen)|SSSSS|
 |Widerstehen|SSSSS|
 |Politik|SSSSS|
 |Okysa|SSSSS|
 |Agent|SSSSS|
 |Messa|SSSSS|
+|Suchen|SSSSS|
 |Gifte|SSS|
 |Wächter|S|
 |Akrobatik|SS|
-|Suchen|SSSS|
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
