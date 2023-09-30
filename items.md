@@ -229,3 +229,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |isolierter,reißfester Pavillion| | | |
 |Fliegerbrille| | | |
 |Handschuhe (weiß)| | | |
+|Arztkoffer| | | |
