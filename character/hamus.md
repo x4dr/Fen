@@ -50,7 +50,7 @@ outgoing links: ''
 |Tratsch|1|
 |Ettiquette|1|
 |Tanzen|1|
-|Support|0|
+|Support|1|
 
 
 
@@ -132,7 +132,6 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
-|Support |4/5|0|
 |Tanzen|1/5|0|
 |Appraisal|1/5|0|
 |Taktik|2/5|0|
@@ -146,6 +145,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Unauffällig| 4/5|0|
 |Instinkt| 5/5|1|
 |Zielsicher| 0/5|2|
+|Support |5/5|1|
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 # Inventar
