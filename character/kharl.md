@@ -155,12 +155,11 @@ outgoing links: ''
 3/5 Autorität
 1/5 Beruhigen
 2/5 Fallensteller
-1/5 Forschen
+2/5 Forschen
 2/5 Irreführung
 1/5 Kochen
 1/5 Kontrolle 
 3/5 Körperinfusion
-1/5 Lore of the Soul
 3/5 MystAlc
 2/5 Naturwissen
 1/5 Survival
