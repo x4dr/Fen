@@ -168,6 +168,7 @@ verstecktes Messer
 |Wissen(Gebirge)|S|
 |Navigation|S|
 |Rennen|S|
+|Wissen(Kulturen)|S|
 
 # Inventar
 
