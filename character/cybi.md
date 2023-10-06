@@ -156,7 +156,6 @@ outgoing links: ''
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Handel|3/5|
-|Mondlicht|1/5|
 |Seilkunde|2/5|
 |Empathie|2/5|
 |Illusion|1/5|
@@ -170,6 +169,7 @@ outgoing links: ''
 |Rennen|1/5|
 |Heilen|0/0 1|
 |Kulturenwissen|1/5|
+|Mondlicht|2/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
