@@ -160,6 +160,7 @@ outgoing links: ''
 1/5 Kochen
 1/5 Kontrolle 
 3/5 Körperinfusion
+1/5 Lore of the Soul
 3/5 MystAlc
 2/5 Naturwissen
 1/5 Survival
