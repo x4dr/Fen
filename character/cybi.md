@@ -170,6 +170,8 @@ outgoing links: ''
 |Heilen|0/0 1|
 |Kulturenwissen|1/5|
 |Mondlicht|2/5|
+|Philosophie|1/5|
+
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
@@ -184,6 +186,7 @@ outgoing links: ''
 | Augenfarbentrank (schwarz) | 1 | - | 0,8 | Färbt die Augen für 4 Stunden schwarz. |
 | Ausgebrannter Regenschirm | 1 | - | - | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann. |
 | Schwarze Kugel mit weißen Punkten | 1 | - | - | Mini-Planetarium |
+| Zettel mit sentinisch | 1 | - | - | Bekommen von kunstinteressiertem Studenten auf der Suche nach der echten wahren Wahrheit|
 
 
 ## Ausrüstung
