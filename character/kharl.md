@@ -157,7 +157,7 @@ outgoing links: ''
 2/5 Fallensteller
 2/5 Forschen
 2/5 Irreführung
-1/5 Kochen
+2/5 Kochen
 1/5 Kontrolle 
 3/5 Körperinfusion
 3/5 MystAlc
