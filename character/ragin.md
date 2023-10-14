@@ -160,7 +160,7 @@ verstecktes Messer
 |Schattenschritt|SSS|
 |Belos|S|
 |Werfen|S|
-|Autorität|SSS|
+|Autorität|SSSS|
 |Tratsch|SS|
 |Eispicke|SS|
 |EyEsOfDaRkNeSs|SSS|
