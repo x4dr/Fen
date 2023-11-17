@@ -161,7 +161,7 @@ verstecktes Messer
 |Belos|S|
 |Werfen|S|
 |Autorität|SSSS|
-|Tratsch|SS|
+|Tratsch|SSS|
 |Eispicke|SS|
 |EyEsOfDaRkNeSs|SSS|
 |Stabilität|S|
