@@ -230,3 +230,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Fliegerbrille| | | |
 |Handschuhe (weiß)| | | |
 |Arztkoffer| | | |
+|Zettel mit sentinisch| | | |
