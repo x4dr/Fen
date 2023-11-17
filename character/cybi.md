@@ -163,7 +163,6 @@ outgoing links: ''
 |Überreden|1/5|
 |Glitzer|1/5|
 |Smalltalk|4/5|
-|Etiquette|2/5|
 |Improvisation|1/5|
 |Manifestation|4/5|
 |Rennen|1/5|
@@ -171,6 +170,7 @@ outgoing links: ''
 |Kulturenwissen|1/5|
 |Mondlicht|2/5|
 |Philosophie|1/5|
+|Etiquette|3/5|
 
 
 # Inventar
