@@ -11,6 +11,7 @@ outgoing links: ''
 ### Wenn du Leute einfach Fragst, verraten sie dir viel mehr als sie wollen.
 ### Wenn man nur lang genug sucht hat jeder Dreck am Stecken
 ### Traue niemals einem Magier
+### Spachen lernen ist nicht schwer, du musst lernen die Menschen zu verstehen
 
 
 
