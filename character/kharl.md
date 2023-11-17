@@ -155,7 +155,7 @@ outgoing links: ''
 3/5 Autorität
 1/5 Beruhigen
 2/5 Fallensteller
-2/5 Forschen
+3/5 Forschen
 2/5 Irreführung
 2/5 Kochen
 1/5 Kontrolle 
