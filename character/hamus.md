@@ -138,6 +138,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Handgemenge|1/5|0|
 |Paranoia|3/5|0|
 |Animal Companion| 1/5|1|
+|Support |1/5|1|
 ||||
 |Spinnensin| 5/5|1|
 |Infiltrator| 0/5|1|
@@ -145,7 +146,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Unauffällig| 4/5|0|
 |Instinkt| 5/5|1|
 |Zielsicher| 0/5|2|
-|Support |5/5|1|
+
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
 # Inventar
