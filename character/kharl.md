@@ -151,7 +151,7 @@ outgoing links: ''
 # Fortschritt
 2/5 Quelle Elementare
 1/5 Argyrisches Wissen
-3/5 Alchemie
+4/5 Alchemie
 3/5 Autorität
 1/5 Beruhigen
 2/5 Fallensteller
