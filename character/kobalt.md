@@ -140,6 +140,7 @@ Fuckboy 1/5
 Wizard 3/5
 Scrying 1/5
 hermticskill.jpg: 1/5
+Enrgfiefeldmanipulation 1/5
 
 # Vorteile
 Lesen
