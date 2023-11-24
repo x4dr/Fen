@@ -167,10 +167,10 @@ outgoing links: ''
 |Manifestation|4/5|
 |Rennen|1/5|
 |Heilen|0/0 1|
-|Kulturenwissen|1/5|
 |Mondlicht|2/5|
 |Philosophie|1/5|
 |Etiquette|3/5|
+|Kulturenwissen|2/5|
 
 
 # Inventar
