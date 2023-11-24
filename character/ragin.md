@@ -154,7 +154,7 @@ verstecktes Messer
 |Agent|SSSSS|
 |Messa|SSSSS|
 |Suchen|SSSSS|
-|Gifte|SSS|
+|Gifte|SSSS|
 |Wächter|S|
 |Akrobatik|SS|
 |Schattenschritt|SSS|
