@@ -161,7 +161,7 @@ outgoing links: ''
 1/5 Kontrolle 
 3/5 Körperinfusion
 3/5 MystAlc
-2/5 Naturwissen
+3/5 Naturwissen
 1/5 Survival
 3/5 Stärkung
 1/5 Stil
