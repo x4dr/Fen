@@ -157,7 +157,7 @@ verstecktes Messer
 |Gifte|SSSS|
 |Wächter|S|
 |Akrobatik|SS|
-|Schattenschritt|SSS|
+|Schattenschritt|SSSS|
 |Belos|S|
 |Werfen|S|
 |Autorität|SSSS|
