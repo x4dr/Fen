@@ -156,7 +156,6 @@ outgoing links: ''
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Handel|3/5|
-|Seilkunde|2/5|
 |Empathie|2/5|
 |Illusion|1/5|
 |Tanas Bindung|3/5|
@@ -171,7 +170,7 @@ outgoing links: ''
 |Philosophie|1/5|
 |Etiquette|3/5|
 |Kulturenwissen|2/5|
-
+|Seilkunde|3/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
