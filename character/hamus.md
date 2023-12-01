@@ -136,7 +136,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Appraisal|1/5|0|
 |Taktik|2/5|0|
 |Handgemenge|2/5|0|
-|Paranoia|3/5|0|
+|Paranoia|4/5|0|
 |Animal Companion| 1/5|1|
 |Support |1/5|1|
 ||||
