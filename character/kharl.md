@@ -169,6 +169,7 @@ outgoing links: ''
 2/5 Taktik
 3/5 Tierzähmung
 3/5 Tratsch
+1/5 Transferenz
 1/5 Tyembindung
 
 
