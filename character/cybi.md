@@ -171,6 +171,7 @@ outgoing links: ''
 |Etiquette|3/5|
 |Kulturenwissen|2/5|
 |Seilkunde|3/5|
+|Gourmetgaumen|1/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
