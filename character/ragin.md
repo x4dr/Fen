@@ -116,7 +116,7 @@ outgoing links: ''
 ### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Schattenschritt|2|
+|Schattenschritt|3|
 |EyEsOfDaRkNeSs|2|
 |Okysa|2|
 |Belos|1|
