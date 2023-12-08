@@ -127,7 +127,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Skill|V.|lvl|
 |-|-|-|
 |Angeln |1/5|0|
-|Layouts| 3/5|0|
+|Layouts| 4/5|0|
 |Werfen| 3/5|0|
 |Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
