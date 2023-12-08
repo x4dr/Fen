@@ -44,7 +44,7 @@ outgoing links: ''
 |-|-|
 |Befragung|1|
 |Irrefuehrung|1|
-|Irreverence|2|
+|Irreverence| 3 |
 | Seduction | 2 | 
 
 ## Mental
@@ -133,7 +133,7 @@ Konzept Runic assembly: 5/5
 AspektIce: 1/5
 AspektTravel 3/5
 Seduction 2/5
-Irreverence:5/5
+Irreverence:5/5 (this gets ko to 3)
 Chaos 1/5
 Dozieren 1/5
 Fuckboy 1/5
