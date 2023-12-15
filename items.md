@@ -231,3 +231,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Handschuhe (weiß)| | | |
 |Arztkoffer| | | |
 |Zettel mit sentinisch| | | |
+|Letter of Introduction von Harika| | | |
+|Feuerkastenausweis| | | |
