@@ -47,7 +47,7 @@ outgoing links: ''
 | Empathie | 1 |
 | Rhetorik | 1 |
 | Aufgeschlossenheit | 1 |
-| Smalltalk | 1 |
+| Smalltalk | 2 |
 | Irreführung | 1 |
 | Begeistern | 1 |
 
@@ -161,7 +161,6 @@ outgoing links: ''
 |Tanas Bindung|3/5|
 |Überreden|1/5|
 |Glitzer|1/5|
-|Smalltalk|4/5|
 |Improvisation|1/5|
 |Manifestation|4/5|
 |Rennen|1/5|
@@ -172,6 +171,7 @@ outgoing links: ''
 |Kulturenwissen|2/5|
 |Seilkunde|3/5|
 |Gourmetgaumen|1/5|
+|Smalltalk|0/5 1|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
