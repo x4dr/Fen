@@ -132,7 +132,7 @@ Ermitteln: 1/5
 Konzept Runic assembly: 5/5
 AspektIce: 1/5
 AspektTravel 3/5
-Seduction 2/5
+Seduction 3/5
 Irreverence:5/5 (this gets ko to 3)
 Chaos 1/5
 Dozieren 1/5
