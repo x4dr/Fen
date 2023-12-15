@@ -233,3 +233,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Zettel mit sentinisch| | | |
 |Letter of Introduction von Harika| | | |
 |Feuerkastenausweis| | | |
+|Überlandbotenrucksack| | | |
+|Ragins Messa| | | |
