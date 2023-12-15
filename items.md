@@ -237,3 +237,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Ragins Messa| | | |
 |Aurier Freeze Messa| | | |
 |Serisem Messa| | | |
+|&lt;void&gt;-Messa| | | |
+|zerbrochenes östliches Schwert| | | |
