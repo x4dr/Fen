@@ -149,7 +149,7 @@ verstecktes Messer
 |Fußarbeit|SSSSS|
 |Wissen(Kulturen)|SSSSS|
 |Widerstehen|SSSSS|
-|Politik|SSSSS|
+|Politik|SSSSSS|
 |Okysa|SSSSS|
 |Agent|SSSSS|
 |Messa|SSSSS|
@@ -169,6 +169,7 @@ verstecktes Messer
 |Navigation|S|
 |Rennen|S|
 |Wissen(Kulturen)|S|
+|||
 
 # Inventar
 
