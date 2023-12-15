@@ -110,6 +110,7 @@ outgoing links: ''
 |Tiergefährte|2|
 |Zielsicher|2|
 |Atemtechnik|1|
+|Paranoia|1|
 |Eidetisches Gedächnis|0|
 
 # Vorteile:
@@ -136,7 +137,6 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Appraisal|1/5|0|
 |Taktik|2/5|0|
 |Handgemenge|2/5|0|
-|Paranoia|4/5|0|
 |Animal Companion| 1/5|1|
 |Support |1/5|1|
 ||||
@@ -146,6 +146,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Unauffällig| 4/5|0|
 |Instinkt| 5/5|1|
 |Zielsicher| 0/5|2|
+|Paranoia|0/5|1|
 
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
