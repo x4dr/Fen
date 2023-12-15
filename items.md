@@ -257,3 +257,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Zeitsprung Armschutz| | | |
 |Geschenk von Hamus| | | |
 |Silbernes Kästchen| | | |
+|Glitzer-Werkstatt Bausatz| | | |
