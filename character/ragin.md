@@ -56,7 +56,7 @@ outgoing links: ''
 |Etiquette|1|
 |Handel|1|
 |Tratsch|1|
-|Autorität|1|
+|Autorität|2|
 |Rhetorik|1|
 |Empathie|1|
 |Politik|2|
@@ -160,7 +160,7 @@ verstecktes Messer
 |Schattenschritt|SSSSS|
 |Belos|S|
 |Werfen|S|
-|Autorität|SSSS|
+|Autorität|SSSSS|
 |Tratsch|SSS|
 |Eispicke|SS|
 |EyEsOfDaRkNeSs|SSS|
