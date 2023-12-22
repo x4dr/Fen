@@ -134,7 +134,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
 |Tanzen|1/5|0|
-|Appraisal|1/5|0|
+|Appraisal|2/5|0|
 |Taktik|2/5|0|
 |Handgemenge|2/5|0|
 |Animal Companion| 1/5|1|
