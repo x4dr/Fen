@@ -129,7 +129,7 @@ AspektLighting 4/5
 PerfektChaos 5/5
 Kraft: 1/5
 Ermitteln: 1/5
-Konzept Runic assembly: 5/5
+Konzept Runic assembly: 6/5
 AspektIce: 1/5
 AspektTravel 3/5
 Seduction 3/5
