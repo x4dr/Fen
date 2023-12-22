@@ -172,6 +172,7 @@ outgoing links: ''
 |Seilkunde|3/5|
 |Gourmetgaumen|1/5|
 |Smalltalk|0/5 1|
+|Begeistern|1/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
