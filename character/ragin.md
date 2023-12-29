@@ -169,7 +169,7 @@ verstecktes Messer
 |Navigation|S|
 |Rennen|S|
 |Wissen(Kulturen)|S|
-|||
+|Gesamt||
 
 # Inventar
 
