@@ -27,7 +27,7 @@ outgoing links: ''
 |Messa|2|
 |Rennen|1|
 |Akrobatik|1|
-|Ausweichen|1|
+|Ausweichen|2|
 |Fußarbeit|2|
 |Meucheln|1|
 |Survival|2|
@@ -57,7 +57,7 @@ outgoing links: ''
 |Handel|1|
 |Tratsch|1|
 |Autorität|2|
-|Rhetorik|1|
+|Rhetorik|2|
 |Empathie|1|
 |Politik|2|
 
