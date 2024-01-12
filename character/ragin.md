@@ -190,7 +190,7 @@ verstecktes Messer
 |zerbrochenes östliches Schwert|1|||
 |leichte Halbplatte|1|||
 |Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect|1|||
-|Eispickel|1|||
+|Eispickel|2|||
 |Fackel|1|||
 |isolierter,reißfester Pavillion|1||
 
