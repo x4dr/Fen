@@ -154,7 +154,7 @@ outgoing links: ''
 4/5 Alchemie
 4/5 Autorität
 1/5 Beruhigen
-2/5 Fallensteller
+3/5 Fallensteller
 4/5 Forschen
 2/5 Irreführung
 2/5 Kochen
