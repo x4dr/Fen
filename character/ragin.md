@@ -162,7 +162,7 @@ verstecktes Messer
 |Werfen|S|
 |Autorität|SSSSS|
 |Tratsch|SSS|
-|Eispicke|SS|
+|Eispicke|SSS|
 |EyEsOfDaRkNeSs|SSS|
 |Stabilität|S|
 |Wissen(Gebirge)|S|
@@ -190,7 +190,7 @@ verstecktes Messer
 |zerbrochenes östliches Schwert|1|||
 |leichte Halbplatte|1|||
 |Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect|1|||
-|Eispickel|2|||
+|Eispickel|1|||
 |Fackel|1|||
 |isolierter,reißfester Pavillion|1||
 
