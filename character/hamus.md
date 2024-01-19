@@ -7,7 +7,7 @@ outgoing links: ''
 |Detail|Inhalt|
 |-|-|
 |Name | Hamus|
-|Alter | 16,5 |
+|Alter | 17,5 |
 |Größe| 139 cm|
 
 
