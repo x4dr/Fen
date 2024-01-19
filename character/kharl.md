@@ -136,6 +136,7 @@ outgoing links: ''
 |Fähigkeit|Wert|
 |-|-|
 |Ghostpirate|1|
+|Variable Seelendefinition|1|
 
 ## Narrativ
 ### Attribute
