@@ -33,7 +33,8 @@ outgoing links: ''
 |Widerstehen|2|
 |Schwert|1|
 |Schwimmen|1|
-### Vorteile
+|
+### VorteileKlettern?|1|
 |Fähigkeit|Wert|
 |-|-|
 |Argyrische Regeneration|1|
@@ -125,7 +126,8 @@ outgoing links: ''
 ### Quelle
 |Fähigkeit|Wert|
 |-|-|
-|Zutaten|1|
+|Zutaten|2|
+|???|1|
 ### Aspekt
 |Fähigkeit|Wert|
 |-|-|
