@@ -139,6 +139,7 @@ outgoing links: ''
 Zeichensprache
 Adrenalinflut
 verstecktes Messer
+Elemental Shifting
 
 # Fortschritt
 |Fähigkeit/Vorteil|gesammelt|  
