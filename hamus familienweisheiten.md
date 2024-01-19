@@ -12,6 +12,8 @@ outgoing links: ''
 ### Wenn man nur lang genug sucht hat jeder Dreck am Stecken
 ### Traue niemals einem Magier
 ### Spachen lernen ist nicht schwer, du musst lernen die Menschen zu verstehen
+### Gib die Nachricht nie dem Boten mit
+### Ist das messer in deinem Rücken, weißt du wenigstens wo es ist
 
 
 
