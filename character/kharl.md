@@ -26,15 +26,14 @@ outgoing links: ''
 |Fähigkeit|Wert|
 |-|-|
 |Akrobatik|2|
-|Kraft|1|
+|Kraft|2|
 |Werfen|1|
 |Kontrolle|1|
 |Zechen|1|
 |Widerstehen|2|
 |Schwert|1|
 |Schwimmen|1|
-|
-### VorteileKlettern?|1|
+### Vorteile
 |Fähigkeit|Wert|
 |-|-|
 |Argyrische Regeneration|1|
