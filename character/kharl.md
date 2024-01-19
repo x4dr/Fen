@@ -168,7 +168,7 @@ outgoing links: ''
 1/5 Stil
 1/5 Schwert
 2/5 Taktik
-3/5 Tierzähmung
+4/5 Tierzähmung
 1/5 Transferenze
 3/5 Tratsch
 1/5 Tyembindung
