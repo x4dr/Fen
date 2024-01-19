@@ -122,7 +122,7 @@ outgoing links: ''
 |Gebärendsprache|1||
 |Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
 |Unsichtbares entdecken|1|Kann aktiv Unsichtbares entdecken|
-|Bedinsteter|1||
+|Bedinsteter|1|Bonuswürfel wenn Hamus als Bedinsteter agiert|
 |Goon|1|Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten|
 
 want: Plänklermodus, allgemeine fernkampfdinge
