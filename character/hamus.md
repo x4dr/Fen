@@ -98,7 +98,7 @@ outgoing links: ''
 |Attribut|Level|
 |-|-|
 | Konzentration | 1 |
-| Disziplin | 4 |
+| Disziplin | 5 |
 | Flow | 1 |
 
 
