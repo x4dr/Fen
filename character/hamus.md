@@ -24,8 +24,8 @@ outgoing links: ''
 |Fähigkeit|Wert|
 |-|-|
 |Rennen|2|
+|Kraft|2|
 |Bogen|1|
-|Kraft|1|
 |Werfen|1|
 |Schleuder|1|
 |Standhalten|1|
@@ -111,6 +111,8 @@ outgoing links: ''
 |Zielsicher|2|
 |Atemtechnik|1|
 |Paranoia|1|
+|Konzept|1|
+|Aspekt|1|
 |Eidetisches Gedächnis|0|
 
 # Vorteile:
