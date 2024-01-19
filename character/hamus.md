@@ -111,9 +111,8 @@ outgoing links: ''
 |Zielsicher|2|
 |Atemtechnik|1|
 |Paranoia|1|
-|Konzept|1|
 |Aspekt|1|
-|Eidetisches Gedächnis|0|
+|Eidetisches Gedächnis|1|
 
 # Vorteile:
 |Name|Stufe|Beschreibung|
@@ -123,7 +122,8 @@ outgoing links: ''
 |Gebärendsprache|1||
 |Nebengassen|1|Umwege durch Nebengassen verlieren keine Zeit|
 |Unsichtbares entdecken|1|Kann aktiv Unsichtbares entdecken|
-|Goon|0|Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten|
+|Bedinsteter|1||
+|Goon|1|Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten|
 
 want: Plänklermodus, allgemeine fernkampfdinge
 # Fortschritt
