@@ -20,7 +20,7 @@ outgoing links: ''
 |-|-|
 | Konstitution | 2 |
 | Agilität | 3 |
-| Geschick | 2 |
+| Geschick | 1 |
 
 ### Fähigkeiten
 |Fähigkeit|Wert|
