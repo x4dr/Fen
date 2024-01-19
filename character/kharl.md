@@ -126,13 +126,12 @@ outgoing links: ''
 |Fähigkeit|Wert|
 |-|-|
 |Zutaten|2|
-|???|1|
 ### Aspekt
 |Fähigkeit|Wert|
 |-|-|
 |Stärkung|1|
 |Schwächung|1|
-|Transferenz|1|
+|Transferenz|2|
 ### Vorteil
 |Fähigkeit|Wert|
 |-|-|
