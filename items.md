@@ -292,3 +292,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Glimmer| | | |
 |Wanderkette| | | |
 |Zeitsprung Armschutz| | | |
+|Geschenk von Hamus| | | |
+|Silbernes Kästchen| | | |
