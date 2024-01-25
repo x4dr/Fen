@@ -286,3 +286,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Edelstein (rot)| | | |
 |Abstrakter Artefaktkern| | | |
 |Augenfarbentrank (schwarz)| | | |
+|Ausgebrannter Regenschirm| | | |
+|Schwarze Kugel mit weißen Punkten| | | |
