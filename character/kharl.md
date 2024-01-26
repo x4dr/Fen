@@ -172,6 +172,7 @@ outgoing links: ''
 1/5 Transferenze
 3/5 Tratsch
 1/5 Tyembindung
+1/5 Wettersinn
 
 
 (Gesamt +1 auf Alchemie, +1 auf Irreführung, +1 auf Akrobatik, +1 Etikette, +1 Überzeugen,+1 Tyem, +1 Elementarwissen)
