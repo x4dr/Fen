@@ -45,12 +45,13 @@ outgoing links: ''
 |-|-|
 | Beobachtungsgabe | 2 |
 | Empathie | 1 |
-| Rhetorik | 1 |
+| Rhetorik | 2 |
 | Aufgeschlossenheit | 1 |
 | Smalltalk | 2 |
 | Irreführung | 1 |
 | Begeistern | 1 |
-
+| Mediation | 2 |
+| Roleplay | 1 |
 
 
 ## Mental
@@ -69,6 +70,7 @@ outgoing links: ''
 | Chemische Kommunikation | 2 |
 | Steinkunde | 2 |
 | Naturkommunikation | 2 |
+| Kreaturenwissen | 1 |
 
 
 ## Können
