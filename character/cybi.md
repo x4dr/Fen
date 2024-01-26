@@ -104,7 +104,7 @@ outgoing links: ''
 ### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-| Tanas Bindung | 1 |
+| Tanas Bindung | 2 |
 
 ### Konzept
 |Fähigkeit|Wert|
@@ -154,19 +154,18 @@ outgoing links: ''
 |Zielgenauigkeit|1/5|
 |Aufgeschlossenheit|1/5|
 |Lebensmagie|1/5|
-|Irreführung|0/0 1|
+|Irreführung|0/5 1|
 |Wechselwirkung|1/5|
 |Ausdauer|3/5|
 |Handel|3/5|
 |Empathie|2/5|
 |Illusion|1/5|
-|Tanas Bindung|3/5|
 |Überreden|1/5|
 |Glitzer|1/5|
 |Improvisation|1/5|
 |Manifestation|4/5|
 |Rennen|1/5|
-|Heilen|0/0 1|
+|Heilen|0/5 1|
 |Mondlicht|2/5|
 |Philosophie|1/5|
 |Etiquette|3/5|
@@ -175,6 +174,7 @@ outgoing links: ''
 |Gourmetgaumen|1/5|
 |Smalltalk|0/5 1|
 |Begeistern|1/5|
+|Tanas Bindung|0/5 1|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
