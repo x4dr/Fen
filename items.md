@@ -306,3 +306,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Fischer| | | |
 |Kontakte Untergrund Okarun| | | |
 |Torf| | | |
+|Drachenkopf| | | |
