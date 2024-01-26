@@ -321,3 +321,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Silbernes Kästchen| | | |
 |Glitzer-Werkstatt Bausatz| | | |
 |Letter of Introduction von Harika| | | |
+|Feuerkastenausweis| | | |
