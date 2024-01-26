@@ -307,3 +307,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Kontakte Untergrund Okarun| | | |
 |Torf| | | |
 |Drachenkopf| | | |
+|Sternenkasten-Amulet| | | |
