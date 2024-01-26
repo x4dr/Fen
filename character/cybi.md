@@ -36,8 +36,8 @@ outgoing links: ''
 |Attribut|Level|
 |-|-|
 | Durchsetzungsvermögen | 2 |
-| Sympathie | 2 |
-| Eindruck | 1 |
+| Sympathie | 3 |
+| Eindruck | 2 |
 
 
 ### Fähigkeiten
@@ -58,7 +58,7 @@ outgoing links: ''
 ### Attribute 
 |Attribut|Level|
 |-|-|
-| Wahrnehmung | 2 |
+| Wahrnehmung | 3 |
 | Bildung | 1 |
 | Geist | 1 |
 
