@@ -171,6 +171,7 @@ Elemental Shifting
 |Navigation|S|
 |Rennen|S|
 |Wissen(Kulturen)|SS|
+|Wissen(Wald)|S|
 |Gesamt||
 
 # Inventar
