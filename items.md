@@ -320,3 +320,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Geschenk von Hamus| | | |
 |Silbernes Kästchen| | | |
 |Glitzer-Werkstatt Bausatz| | | |
+|Letter of Introduction von Harika| | | |
