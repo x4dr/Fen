@@ -297,3 +297,4 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Glitzer-Werkstatt Bausatz| | | |
 |Wurfkrüge (leer)| | | |
 |Schleuderkrüge (leer)| | | |
+|Hohl Pfeile| | | |
