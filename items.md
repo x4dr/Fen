@@ -314,3 +314,6 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Ausgebrannter Regenschirm| | | |
 |Schwarze Kugel mit weißen Punkten| | | |
 |Zettel mit sentinisch| | | |
+|Glimmer| | | |
+|Wanderkette| | | |
+|Zeitsprung Armschutz| | | |
