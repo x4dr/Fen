@@ -169,12 +169,12 @@ outgoing links: ''
 |Mondlicht|2/5|
 |Philosophie|1/5|
 |Etiquette|3/5|
-|Kulturenwissen|2/5|
 |Seilkunde|3/5|
 |Gourmetgaumen|1/5|
 |Smalltalk|0/5 1|
 |Begeistern|1/5|
 |Tanas Bindung|0/5 1|
+|Kulturenwissen|3/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
