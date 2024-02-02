@@ -112,7 +112,7 @@ outgoing links: ''
 |Atemtechnik|1|
 |Paranoia|1|
 |Aspekt|1|
-|Eidetisches Gedächnis|1|
+|Eidetisches Gedächnis???|1|
 
 # Vorteile:
 |Name|Stufe|Beschreibung|
@@ -131,7 +131,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |-|-|-|
 |Angeln |1/5|0|
 |Layouts| 4/5|0|
-|Werfen| 3/5|0|
+|Werfen| 4/5|0|
 |Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
 |Empathie |2/5|0|
