@@ -27,7 +27,7 @@ outgoing links: ''
 |Fusarbeit|2|
 |Acrobatics|2|
 |Kontrolle|2|
-|Widerstand|1|
+|Widerstand|2|
 |Stärke|1|
 
 ## Sozial
