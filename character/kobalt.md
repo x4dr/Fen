@@ -24,7 +24,7 @@ outgoing links: ''
 ### Fähigkeiten
 |Fähigkeit|Wert|
 |-|-|
-|Fusarbeit|1|
+|Fusarbeit|2|
 |Acrobatics|2|
 |Kontrolle|2|
 |Widerstand|1|
