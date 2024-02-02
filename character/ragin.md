@@ -172,6 +172,7 @@ Elemental Shifting
 |Rennen|S|
 |Wissen(Kulturen)|SS|
 |Wissen(Wald)|S|
+|Botenjudo|S|
 |Gesamt||
 
 # Inventar
