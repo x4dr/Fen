@@ -17,7 +17,7 @@ outgoing links: ''
 ### Attribute
 |Attribut|Level|
 |-|-|
-| Kon | 1 |
+| Kon | 2 |
 | Agi | 2 |
 | Ges | 1 |
 
