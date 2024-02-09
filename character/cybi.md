@@ -162,7 +162,6 @@ outgoing links: ''
 |Illusion|1/5|
 |Überreden|1/5|
 |Glitzer|1/5|
-|Improvisation|1/5|
 |Manifestation|4/5|
 |Rennen|1/5|
 |Heilen|0/5 1|
@@ -175,6 +174,7 @@ outgoing links: ''
 |Begeistern|1/5|
 |Tanas Bindung|0/5 1|
 |Kulturenwissen|3/5|
+|Improvisation|2/5|
 
 # Inventar
 |Name|Anzahl|Gewicht|Preis|Beschreibung|
