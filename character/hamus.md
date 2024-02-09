@@ -69,8 +69,8 @@ outgoing links: ''
 |Balistik|2|
 |Gassenwissen|2|
 |Instinkt|2|
+|Layouts|2|
 |Suchen|1|
-|Layouts|1|
 |Taktik|0|
 
 ## Können*
