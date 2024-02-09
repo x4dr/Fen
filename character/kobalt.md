@@ -103,7 +103,7 @@ outgoing links: ''
 | AspektArkan | 2 |
 | AspektBlitz | 1 |
 | Avisbindung | 1 |
-| AspektTravel | 1 |
+| AspektTravel | 2 |
 | PerfektChaos | 1 | 
 | Scrying | 1 | 
 
