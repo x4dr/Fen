@@ -129,8 +129,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 # Fortschritt
 |Skill|V.|lvl|
 |-|-|-|
-|Angeln |1/5|0|
-|Layouts| 4/5|0|
+|Fischer |1/5|0|
 |Werfen| 4/5|0|
 |Munitionierer| 3/5|0|
 |Gassenwissen |1/5|0|
@@ -151,6 +150,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |Instinkt| 5/5|1|
 |Zielsicher| 0/5|2|
 |Paranoia|0/5|1|
+|Layouts| 5/5|1|
 
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen 
