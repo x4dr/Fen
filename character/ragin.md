@@ -146,7 +146,7 @@ Elemental Shifting
 |Fähigkeit/Vorteil|gesammelt|  
 |:-|:-|  
 |Zeichensprache|S|
-|Meucheln|SSSSSS|
+|Meucheln|SSSSSSS|
 |Survival|SSSSS|
 |Fußarbeit|SSSSS|
 |Wissen(Kulturen)|SSSSS|
