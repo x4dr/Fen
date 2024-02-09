@@ -119,21 +119,19 @@ outgoing links: ''
 # Fortschritt
 Tratsch 2/5
 Rennen: 3/5
-Widerstand: 6/5
+Widerstand: 1/5
 Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
-AspektArkan 5/5
 Konzept: Chaos Casting 3/5
 AspektLighting 4/5
-PerfektChaos 6/5
+PerfektChaos 1/5
 Kraft: 1/5
 Ermitteln: 1/5
-Konzept Runic assembly: 6/5
+Konzept Runic assembly: 1/5
 AspektIce: 1/5
 AspektTravel 4/5
 Seduction 3/5
-Irreverence:5/5 (this gets ko to 3)
 Chaos 1/5
 Dozieren 1/5
 Fuckboy 1/5
