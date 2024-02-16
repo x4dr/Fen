@@ -369,3 +369,7 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Feuerkastenausweis| | | |
 |Zettel mit sentinisch| | | |
 |Glimmer| | | |
+|Überlandbotenrucksack| | | |
+|Ragins Messa| | | |
+|Wanderkette| | | |
+|Zeitsprung Armschutz| | | |
