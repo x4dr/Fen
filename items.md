@@ -340,3 +340,5 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Augenfarbentrank (schwarz)| | | |
 |Ausgebrannter Regenschirm| | | |
 |Schwarze Kugel mit weißen Punkten| | | |
+|Zettel mit sentinisch| | | |
+|Glimmer| | | |
