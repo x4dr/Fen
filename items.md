@@ -373,3 +373,7 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Ragins Messa| | | |
 |Wanderkette| | | |
 |Zeitsprung Armschutz| | | |
+|Geschenk von Hamus| | | |
+|Aurier Freeze Messa| | | |
+|Serisem Messa| | | |
+|Silbernes Kästchen| | | |
