@@ -377,3 +377,6 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Aurier Freeze Messa| | | |
 |Serisem Messa| | | |
 |Silbernes Kästchen| | | |
+|&lt;void&gt;-Messa| | | |
+|Glitzer-Werkstatt Bausatz| | | |
+|zerbrochenes östliches Schwert| | | |
