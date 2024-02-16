@@ -365,3 +365,7 @@ Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
 |Augenfarbentrank (schwarz)| | | |
 |Ausgebrannter Regenschirm| | | |
 |Schwarze Kugel mit weißen Punkten| | | |
+|Letter of Introduction von Harika| | | |
+|Feuerkastenausweis| | | |
+|Zettel mit sentinisch| | | |
+|Glimmer| | | |
