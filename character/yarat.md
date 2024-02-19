@@ -22,18 +22,11 @@ Gewicht: 180 kg
 Konzept: Reisende Atterkan-Schneiderin auf Suche nach spannenden Geschichten und einem Ort, ihr eigenes Netz aufzuspannen.
 
 Mittlerweile Gildenmeisterin der Schneider in Seegard, Dame der High Society und best gekleidete Spinne ganz Prekors.
+# Kosten:
 
+# Stärke
 
-
-## Kosten:
-
-
-
-## Stärke
-
-  
-
-### Attribute 
+## Attribute
 
 
 
@@ -46,10 +39,7 @@ Mittlerweile Gildenmeisterin der Schneider in Seegard, Dame der High Society und
 
 
 -> 17
-
-
-
-### Fähigkeiten
+## Fähigkeiten
 
 
 
@@ -84,14 +74,9 @@ Waffe (Beißen) - 2
 
 
 -> 17.3
+# Können
 
-
-
-## Können
-
-
-
-### Attribute
+## Attribute
 
 
 
@@ -104,10 +89,7 @@ Waffe (Beißen) - 2
 
 
 -> 15
-
-
-
-### Fähigkeiten
+## Fähigkeiten
 
 
 
@@ -144,10 +126,7 @@ Tierbeherrschung - 1
 
 
 -> 19.7
-
-
-
-## Magie
+# Magie
 
 
 
@@ -162,14 +141,9 @@ Tierbeherrschung - 1
 	Zauber: -
 
 	Vorteile: -
+# Weisheit
 
-
-
-## Weisheit
-
-
-
-### Attribute
+## Attribute
 
 
 
@@ -181,11 +155,8 @@ Tierbeherrschung - 1
 
 
 
--> 11  
-
-
-
-### Fähigkeiten
+-> 11
+## Fähigkeiten
 
 Heilen - 0
 
@@ -212,14 +183,9 @@ Navigation - 0
         
 
 -> 12
+# Charisma
 
-
-
-## Charisma
-
-
-
-### Attribute
+## Attribute
 
 
 
@@ -232,10 +198,7 @@ Navigation - 0
 
 
 -> 20.5
-
-
-
-### Fähigkeiten
+## Fähigkeiten
 
 
 
@@ -262,14 +225,9 @@ Tratsch - 3
 
 
 -> 21
+# Schicksal
 
-
-
-## Schicksal
-
-
-
-### Attribute
+## Attribute
 
 
 
@@ -277,11 +235,8 @@ Tratsch - 3
 
 * Mut - 1  
 
-* Gunst - 1    
-
-
-
-### Fähigkeiten
+* Gunst - 1
+## Fähigkeiten
 
 	
 
