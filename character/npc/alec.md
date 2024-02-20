@@ -131,7 +131,7 @@ Vollstrecker
 | Fähigkeit/Vorteil | gesammelt | = |
 |:------------------|:----------|---|
 |                   |           | 0 |
-| testskill         | 1         | 1 |
+| testskill         | 2         | 1 |
 
 # Inventar
 
