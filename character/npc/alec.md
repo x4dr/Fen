@@ -9,7 +9,7 @@ outgoing links: ''
 ## Name
 Alec
 ## Alter
-24
+25
 ## Größe
 177cm
 ## Gildenzugehörigkeit
@@ -77,7 +77,7 @@ Vollstrecker
 | Suchen        | 2    |
 | Taktik        | 1    |
 | Materialkunde | 1    |
-| Metallgilde   | 1    |
+| Metallgilde   | 3    |
 | Navigation    | 1    |
 
 ## Können
