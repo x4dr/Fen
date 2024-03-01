@@ -81,6 +81,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Steinkunde              | 2    |
 | Naturkommunikation      | 2    |
 | Kreaturenwissen         | 1    |
+| Kulturenwissen          | 1    |
 
 ## Können
 
@@ -191,8 +192,8 @@ Hamus, Steine, Mond und Shiny Stuff
 | Smalltalk          | 0/5 1 | 0 |
 | Begeistern         | 1/5   | 1 |
 | Tanas Bindung      | 0/5 1 | 0 |
-| Kulturenwissen     | 4/5   | 3 |
 | Improvisation      | 2/5   | 2 |
+| Kulturenwissen     | 0/5 1 | 3 |
 
 # Inventar
 
