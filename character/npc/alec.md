@@ -77,7 +77,7 @@ Vollstrecker
 | Suchen        | 2    |
 | Taktik        | 1    |
 | Materialkunde | 1    |
-| Metallgilde   | 1    |
+| Metallgilde   | 2    |
 | Navigation    | 1    |
 
 ## Können
