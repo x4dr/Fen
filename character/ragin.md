@@ -158,7 +158,7 @@ Elemental Shifting
 | Fußarbeit         | SSSSS     | 5 |
 | Wissen(Kulturen)  | SSSSS     | 5 |
 | Widerstehen       | SSSSS     | 5 |
-| Politik           | SSSSSS    | 6 |
+| Politik           | SSSSSSS   | 7 |
 | Okysa             | SSSSS     | 5 |
 | Agent             | SSSSS     | 5 |
 | Messa             | SSSSS     | 5 |
