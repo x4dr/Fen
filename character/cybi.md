@@ -186,7 +186,6 @@ desto länger dauert der Vorgang.                                               
 | Manifestation      | 4/5   | 4 |
 | Rennen             | 1/5   | 1 |
 | Heilen             | 0/5 1 | 0 |
-| Mondlicht          | 2/5   | 2 |
 | Philosophie        | 1/5   | 1 |
 | Etiquette          | 3/5   | 3 |
 | Seilkunde          | 3/5   | 3 |
@@ -196,6 +195,7 @@ desto länger dauert der Vorgang.                                               
 | Tanas Bindung      | 0/5 1 | 0 |
 | Improvisation      | 2/5   | 2 |
 | Kulturenwissen     | 0/5 1 | 3 |
+| Mondlicht          | 3/5   | 2 |
 
 # Inventar
 
