@@ -158,6 +158,8 @@ Hamus, Steine, Mond und Shiny Stuff
 | Toxische Empathie    | Überträgt per Kontaktgift Gefühle.                                                               |
 | Trophogene Toxizität | Wirkungen der Nahrung werden auf das Kontaktgift übertragen.                                     |
 | Detoxifikation       | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt.                                  |
+| Synergie             | Aus aufgenommenen Stofffen können neue anorganische Dinge im Körper entstehen, je komplexer 
+desto länger dauert der Vorgang.                                                                                          |
 | Mykisches Mimikry    | Fähigkeit sich als sehr menschlich zu tarnen.                                                    |
 | Zeichensprache       | Gruppenkommunikation über Handzeichen.                                                           |
 | Überladung           | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat.            |
