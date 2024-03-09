@@ -138,6 +138,7 @@ Wizard 4/5
 Scrying 1/5
 hermticskill.jpg: 1/5
 Enrgfiefeldmanipulation 1/5
+Analyse 1/5
 
 # Vorteile
 Lesen
