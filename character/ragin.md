@@ -3,7 +3,6 @@ title: Ragin
 tags: character  
 outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
@@ -168,7 +167,7 @@ Elemental Shifting
 | Akrobatik         | SS        | 2 |
 | Schattenschritt   | SSSSS     | 5 |
 | Belos             | S         | 1 |
-| Werfen            | S         | 1 |
+| Werfen            | SS        | 2 |
 | Autorität         | SSSSS     | 5 |
 | Tratsch           | SSS       | 3 |
 | Eispicke          | SSS       | 3 |
