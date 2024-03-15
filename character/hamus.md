@@ -123,7 +123,7 @@ outgoing links: ''
 | Atemtechnik                 | 1    |
 | Paranoia                    | 1    |
 | Aspekt Körpertransformation | 1    |
-| Quelle Sturm                | 1    |
+| Aspekt Gloom                | 1    |
 
 # Vorteile:
 
@@ -157,7 +157,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Support          | 1/5 | 1   |
 | Quelle Sturm     | 1/5 | 0   |
 | Standhalten      | 1/5 | 0   |
-| Aspekt ???| 1/5    |  0   |
+| Aspekt ???       | 1/5 | 0   |
 |                  |     |     |
 | Spinnensin       | 5/5 | 1   |
 | Infiltrator      | 0/5 | 1   |
