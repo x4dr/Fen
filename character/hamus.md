@@ -6,12 +6,12 @@ outgoing links: ''
 
 # Charakter
 
-| Detail | Inhalt |
-|--------|--------|
-| Name   | Hamus  |
-| Alter  | 17,5   |
-| Größe  | 139 cm |
-
+## Name
+Hamus
+## Alter
+17,5
+## Größe
+139 cm
 # Werte
 
 ## Physisch
@@ -143,32 +143,32 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen
-| Skill            | V.  | lvl |
-|------------------|-----|-----|
-| Fischer          | 1/5 | 0   |
-| Werfen           | 4/5 | 0   |
-| Munitionierer    | 3/5 | 0   |
-| Gassenwissen     | 1/5 | 0   |
-| Empathie         | 2/5 | 0   |
-| Tanzen           | 1/5 | 0   |
-| Appraisal        | 2/5 | 0   |
-| Taktik           | 3/5 | 0   |
-| Handgemenge      | 2/5 | 0   |
-| Animal Companion | 1/5 | 1   |
-| Support          | 1/5 | 1   |
-| Quelle Sturm     | 1/5 | 0   |
-| Standhalten      | 1/5 | 0   |
-| Aspekt ???       | 1/5 | 0   |
-| Archäologie      | 2/5 | 0   |
-|                  |     |     |
-| Spinnensin       | 5/5 | 1   |
-| Infiltrator      | 0/5 | 1   |
-| Ermitteln        | 0/5 | 1   |
-| Unauffällig      | 4/5 | 0   |
-| Instinkt         | 5/5 | 1   |
-| Zielsicher       | 0/5 | 2   |
-| Paranoia         | 0/5 | 1   |
-| Layouts          | 5/5 | 1   |
+| Skill            | V.  | lvl | = |
+|------------------|-----|-----|---|
+| Fischer          | 1/5 | 0   | 1 |
+| Werfen           | 4/5 | 0   | 4 |
+| Munitionierer    | 3/5 | 0   | 3 |
+| Gassenwissen     | 1/5 | 0   | 1 |
+| Empathie         | 2/5 | 0   | 2 |
+| Tanzen           | 1/5 | 0   | 1 |
+| Appraisal        | 2/5 | 0   | 2 |
+| Taktik           | 3/5 | 0   | 3 |
+| Handgemenge      | 2/5 | 0   | 2 |
+| Animal Companion | 1/5 | 1   | 1 |
+| Support          | 1/5 | 1   | 1 |
+| Quelle Sturm     | 1/5 | 0   | 1 |
+| Standhalten      | 1/5 | 0   | 1 |
+| Aspekt ???       | 1/5 | 0   | 1 |
+| Archäologie      | 3/5 | 0   | 2 |
+|                  |     |     | 0 |
+| Spinnensin       | 5/5 | 1   | 5 |
+| Infiltrator      | 0/5 | 1   | 0 |
+| Ermitteln        | 0/5 | 1   | 0 |
+| Unauffällig      | 4/5 | 0   | 4 |
+| Instinkt         | 5/5 | 1   | 5 |
+| Zielsicher       | 0/5 | 2   | 0 |
+| Paranoia         | 0/5 | 1   | 0 |
+| Layouts          | 5/5 | 1   | 5 |
 
 # Inventar
 

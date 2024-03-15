@@ -196,6 +196,7 @@ desto länger dauert der Vorgang.                                               
 | Improvisation      | 2/5   | 2 |
 | Kulturenwissen     | 0/5 1 | 3 |
 | Mondlicht          | 3/5   | 2 |
+| Feinschmied          | 1/5   | 2 |
 
 # Inventar
 
