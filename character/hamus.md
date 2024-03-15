@@ -155,7 +155,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Handgemenge      | 2/5 | 0   |
 | Animal Companion | 1/5 | 1   |
 | Support          | 1/5 | 1   |
-| Strum???         | 1/5 | 0   |
+| Quelle Sturm     | 1/5 | 0   |
 | Standhalten      | 1/5 | 0   |
 |                  |     |     |
 | Spinnensin       | 5/5 | 1   |
