@@ -114,16 +114,16 @@ outgoing links: ''
 
 ### Fähigkeiten
 
-| Fähigkeit    | Wert |
-|--------------|------|
-| Gefahrensin  | 3    |
-| Spurenlos    | 3    |
-| Tiergefährte | 2    |
-| Zielsicher   | 2    |
-| Atemtechnik  | 1    |
-| Paranoia     | 1    |
-| Aspekt       | 1    |
-| Quelle Sturm | 1    |
+| Fähigkeit                    | Wert |
+|------------------------------|------|
+| Gefahrensin                  | 3    |
+| Spurenlos                    | 3    |
+| Tiergefährte                 | 2    |
+| Zielsicher                   | 2    |
+| Atemtechnik                  | 1    |
+| Paranoia                     | 1    |
+| Aspekt Körper Transformation | 1    |
+| Quelle Sturm                 | 1    |
 
 # Vorteile:
 
