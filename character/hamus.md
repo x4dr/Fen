@@ -137,6 +137,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Unsichtbares entdecken  | 1     | Kann aktiv Unsichtbares entdecken                                              |
 | Bedinsteter             | 1     | Bonuswürfel wenn Hamus Bedinsteten Tätigkeiten ausführt                        |
 | Goon                    | 1     | Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten |
+| Lucky Find              | 1     | Resonaznen Für Looting würfe Freigeschaltet                                    |
 
 # Fortschritt
 
