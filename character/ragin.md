@@ -3,6 +3,7 @@ title: Ragin
 tags: character  
 outgoing links: ''  
 ---
+
 # Charakter
 
 ## Name
@@ -177,7 +178,7 @@ Elemental Shifting
 | Navigation        | 1S        | 1 |
 | Rennen            | S         | 1 |
 | Wissen(Kulturen)  | SS        | 7 |
-| Wissen(Wald)      | S         | 1 |
+| Wissen(Wald)      | SS        | 1 |
 | Botenjudo         | S         | 1 |
 | Gesamt            |           | 0 |
 
