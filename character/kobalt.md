@@ -147,10 +147,12 @@ Schreiben
 Geheimsprache
 ReadEverywhere
 Parkour
--> THIS WILL BE LIGHTING TELEPORTATION
+Telportation
+RemoteCastingInField
+
 
 # NOTES
-SCRYING SKILLEN !?!?!?!
+
 
 
 # Inventar
