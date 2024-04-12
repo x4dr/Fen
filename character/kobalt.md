@@ -150,6 +150,9 @@ Parkour
 Telportation
 RemoteCastingInField
 
+# Spells
+Slowfall
+
 
 # NOTES
 
