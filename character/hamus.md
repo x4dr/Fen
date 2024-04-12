@@ -154,7 +154,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Appraisal        | 2/5 | 0   | 2 |
 | Taktik           | 3/5 | 0   | 3 |
 | Handgemenge      | 2/5 | 0   | 2 |
-| Animal Companion | 1/5 | 1   | 1 |
+| Animal Companion | 2/5 | 1   | 1 |
 | Support          | 1/5 | 1   | 1 |
 | Quelle Sturm     | 2/5 | 0   | 1 |
 | Standhalten      | 1/5 | 0   | 1 |
