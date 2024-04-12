@@ -184,7 +184,6 @@ desto länger dauert der Vorgang.                                               
 | Überreden          | 1/5   | 1 |
 | Glitzer            | 1/5   | 1 |
 | Manifestation      | 4/5   | 4 |
-| Rennen             | 1/5   | 1 |
 | Heilen             | 0/5 1 | 0 |
 | Philosophie        | 1/5   | 1 |
 | Etiquette          | 3/5   | 3 |
@@ -197,6 +196,7 @@ desto länger dauert der Vorgang.                                               
 | Kulturenwissen     | 0/5 1 | 3 |
 | Mondlicht          | 3/5   | 2 |
 | Feinschmied          | 1/5   | 2 |
+| Rennen             | 2/5   | 1 |
 
 # Inventar
 
