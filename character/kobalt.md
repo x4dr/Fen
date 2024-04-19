@@ -136,7 +136,7 @@ Chaos 1/5
 Dozieren 1/5
 Fuckboy 1/5
 Wizard 4/5
-Scrying 1/5
+Scrying 2/5
 hermticskill.jpg: 1/5
 Enrgfiefeldmanipulation 1/5
 Analyse 1/5
