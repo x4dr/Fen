@@ -172,7 +172,7 @@ Elemental Shifting
 | Autorität         | SSSSS     | 5 |
 | Tratsch           | SSS       | 3 |
 | Eispicke          | SSS       | 3 |
-| EyEsOfDaRkNeSs    | SSS       | 3 |
+| EyEsOfDaRkNeSs    | SSSS      | 4 |
 | Stabilität        | S         | 1 |
 | Wissen(Gebirge)   | S         | 1 |
 | Navigation        | 1S        | 1 |
