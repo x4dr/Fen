@@ -180,6 +180,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Wurfspikes            | 10                                   |         |       |
 | Pfeile                | 17                                   |         |       |
 | Gefallen bei Kiva     | für er nimmt an einem Adventure teil | 0       | 0     |
+| Knallpulver           | 5 (4 krittfail)                      |         |       |
 
 ## AquisePunkte
 
