@@ -11,7 +11,7 @@ Hamus
 ## Alter
 17,5
 ## Größe
-139 cm
+159 cm
 # Werte
 
 ## Physisch
