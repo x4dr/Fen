@@ -197,6 +197,7 @@ desto länger dauert der Vorgang.                                               
 | Mondlicht          | 3/5   | 2 |
 | Feinschmied          | 1/5   | 2 |
 | Rennen             | 2/5   | 1 |
+| Kreaturenwissen             | 1/5   | 1 |
 
 # Inventar
 
