@@ -105,7 +105,7 @@ Fast Assassin
 
 | Fähigkeit      | Wert |
 |----------------|------|
-| Gifte          | 1    |
+| Gifte          | 2    |
 | Musterresonanz | 1    |
 | Agent          | 2    |
 | Bote           | 1    |
