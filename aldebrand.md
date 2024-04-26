@@ -104,6 +104,8 @@ outgoing links: ''
 
 
 # Progress
+| Skill | XP |
+| Consume | 1/5 |
 
 # Inventory
 
