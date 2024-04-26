@@ -18,8 +18,8 @@ outgoing links: ''
 | Attribute | Level |
 |-----------|-------|
 | Con       | 1     |
-| Agi       | 1     |
-| Dex       | 1     |
+| Agi       | 2     |
+| Dex       | 2     |
 
 ### Skills
 | Skill      | Wert |
@@ -34,9 +34,9 @@ outgoing links: ''
 ### Attributes 
 | Attribute  | Level |
 |------------|-------|
-| Assertion  | 1     |
+| Assertion  | 2     |
 | Sympathy   | 1     |
-| Impression | 1     |
+| Impression | 3     |
 
 
 ### Skills
@@ -53,7 +53,7 @@ outgoing links: ''
 ### Attributes 
 | Attribute  | Level |
 |------------|-------|
-| Perception | 1     |
+| Perception | 2     |
 | Education  | 1     |
 | Mind       | 1     |
 
@@ -61,7 +61,7 @@ outgoing links: ''
 ### Skills
 | Skill              | Wert |
 |--------------------|------|
-| Search             | 1    |
+| Search             | 2    |
 | Instinct           | 1    |
 | Tactics            | 1    |
 | Navigation         | 1    |
@@ -82,14 +82,15 @@ outgoing links: ''
 |-----------|------|
 | Skysailor | 2    |
 | Soldier   | 1    |
+| Looter | 1 |
 
 
-## Mystisch
+## Mystical
 ### Attributes 
 | Attribute     | Level |
 |---------------|-------|
-| Konzentration | 1     |
-| Disziplin     | 1     |
+| Concentration | 1     |
+| Discipline    | 2     |
 | Flow          | 1     |
 
 
@@ -99,15 +100,20 @@ outgoing links: ''
 | Consume  | 2    |
 | Glide    | 1    |
 | Yalandar | 1    |
+| Vorenall | 1    |
 
 
 # Progress
 
 # Inventory
 
-| Name | Anzahl | Gewicht | Preis |
+| Name | Number | Weight | Price |
 |------|--------|---------|-------|
-|      |        |         |       |
+| Magic Pen | 1 | 100g | 50s |
 
 ## Gear
+
+| Name | Number | Weight | Price |
+|------|--------|---------|-------|
+| Bronze Shortsword     |   1     |     1kg    |    10s   |
 
