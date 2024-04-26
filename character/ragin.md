@@ -163,7 +163,7 @@ Elemental Shifting
 | Agent             | SSSSS     | 5 |
 | Messa             | SSSSS     | 5 |
 | Suchen            | SSSSS     | 5 |
-| Gifte             | SSSS      | 4 |
+| Gifte             | SSSSS     | 5 |
 | Wächter           | S         | 1 |
 | Akrobatik         | SS        | 2 |
 | Schattenschritt   | SSSSS     | 5 |
