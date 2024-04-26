@@ -46,7 +46,7 @@ outgoing links: ''
 | Etiquette | 1    |
 | Trade     | 1    |
 | Politics  | 1    |
-| Rethoric  | 1    |
+| Rhetoric  | 1    |
 
 
 ## Mental
