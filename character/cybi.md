@@ -192,12 +192,12 @@ desto länger dauert der Vorgang.                                               
 | Smalltalk          | 0/5 1 | 0 |
 | Begeistern         | 1/5   | 1 |
 | Tanas Bindung      | 0/5 1 | 0 |
-| Improvisation      | 2/5   | 2 |
 | Kulturenwissen     | 0/5 1 | 3 |
 | Mondlicht          | 3/5   | 2 |
-| Feinschmied          | 1/5   | 2 |
+| Feinschmied        | 1/5   | 2 |
 | Rennen             | 2/5   | 1 |
-| Kreaturenwissen             | 1/5   | 1 |
+| Kreaturenwissen    | 1/5   | 1 |
+| Improvisation      | 3/5   | 2 |
 
 # Inventar
 
@@ -219,7 +219,7 @@ desto länger dauert der Vorgang.                                               
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |----------------------|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 20/20  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 12/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Geschenk von Hamus   | -      | -       | Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.                                                                                                                                                                          | ?      |
