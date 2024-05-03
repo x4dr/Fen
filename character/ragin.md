@@ -174,7 +174,7 @@ Elemental Shifting
 | Eispicke          | SSS       | 3 |
 | EyEsOfDaRkNeSs    | SSSS      | 4 |
 | Stabilität        | S         | 1 |
-| Wissen(Gebirge)   | S         | 1 |
+| Wissen(Gebirge)   | SS        | 2 |
 | Navigation        | 1S        | 1 |
 | Rennen            | S         | 1 |
 | Wissen(Kulturen)  | SS        | 7 |
