@@ -1,7 +1,7 @@
 ---
 title: Götter  
 tags:   
-outgoing links: ''  
+outgoing links: 'shiningknights'  
 ---
 [TOC]
 _______
@@ -302,4 +302,14 @@ Argyrische Meeresgöttin
 _______
 ## Witalda
 Argyrische Dschungelgöttin
+
+_______
+## Vorenall
+Argyrische Gottheit des Ergötzens
+
+_______
+## Yalandar
+Argyrischer Glücksgott
+
+
 
