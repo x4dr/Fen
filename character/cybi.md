@@ -3,7 +3,6 @@ title:
 tags:   
 outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
@@ -199,6 +198,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Rennen             | 2/5   | 1 |
 | Kreaturenwissen    | 1/5   | 1 |
 | Improvisation      | 3/5   | 2 |
+| Kräuterkunde       | 1/5   | 0 |
 
 # Inventar
 
