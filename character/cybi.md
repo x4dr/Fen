@@ -3,6 +3,7 @@ title:
 tags:   
 outgoing links: ''  
 ---
+
 # Charakter
 
 ## Name
@@ -153,17 +154,17 @@ Hamus, Steine, Mond und Shiny Stuff
 
 # Vorteil
 
-| Fähigkeit            | Beschreibung                                                                                     |
-|----------------------|--------------------------------------------------------------------------------------------------|
-| Toxische Empathie    | Überträgt per Kontaktgift Gefühle.                                                               |
-| Trophogene Toxizität | Wirkungen der Nahrung werden auf das Kontaktgift übertragen.                                     |
-| Detoxifikation       | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt.                                  |
-| Synergie             | Aus aufgenommenen Stofffen können neue anorganische Dinge im Körper entstehen, je komplexer 
-desto länger dauert der Vorgang.                                                                                          |
-| Mykisches Mimikry    | Fähigkeit sich als sehr menschlich zu tarnen.                                                    |
-| Zeichensprache       | Gruppenkommunikation über Handzeichen.                                                           |
-| Überladung           | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat.            |
-| Paartanz             | Der Tanz mit einem Partner lässt diesen die Effekte des Tanzes, ohne zusätzliche Kosten, teilen. |
+| Fähigkeit                        | Beschreibung                                                                                     |
+|----------------------------------|--------------------------------------------------------------------------------------------------|
+| Toxische Empathie                | Überträgt per Kontaktgift Gefühle.                                                               |
+| Trophogene Toxizität             | Wirkungen der Nahrung werden auf das Kontaktgift übertragen.                                     |
+| Detoxifikation                   | Negative Effekte von aufgenommenen Stoffen werden abgeschwächt.                                  |
+| Synergie                         | Aus aufgenommenen Stofffen können neue anorganische Dinge im Körper entstehen, je komplexer      |
+| desto länger dauert der Vorgang. |                                                                                                  |
+| Mykisches Mimikry                | Fähigkeit sich als sehr menschlich zu tarnen.                                                    |
+| Zeichensprache                   | Gruppenkommunikation über Handzeichen.                                                           |
+| Überladung                       | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat.            |
+| Paartanz                         | Der Tanz mit einem Partner lässt diesen die Effekte des Tanzes, ohne zusätzliche Kosten, teilen. |
 
 # Zauber
 [[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
@@ -219,7 +220,7 @@ desto länger dauert der Vorgang.                                               
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |----------------------|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 12/20  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 11/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Geschenk von Hamus   | -      | -       | Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.                                                                                                                                                                          | ?      |
