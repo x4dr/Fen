@@ -3,7 +3,6 @@ title: Hamus
 tags: Hamus character  
 outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
@@ -157,7 +156,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Animal Companion   | 2/5 | 1   | 1 |
 | Support            | 1/5 | 1   | 1 |
 | Quelle Sturm       | 2/5 | 0   | 1 |
-| Standhalten        | 1/5 | 0   | 1 |
+| Standhalten        | 2/5 | 0   | 1 |
 | Gloom              | 2/5 | 0   | 1 |
 | Archäologie/Looten | 3/5 | 0   | 2 |
 |                    |     |     | 0 |
