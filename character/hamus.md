@@ -169,7 +169,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Zielsicher         | 0/5 | 2   | 0 |
 | Paranoia           | 0/5 | 1   | 0 |
 | Layouts            | 5/5 | 1   | 5 |
-| Munitionierer      | 04  |     |   |
+| Munitionierer      | 05  | 1   |   |
 
 # Inventar
 
