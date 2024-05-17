@@ -3,7 +3,6 @@ title: Hamus
 tags: Hamus character  
 outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
@@ -96,10 +95,10 @@ Hamus
 | Unauffällig   | 2    |
 | Infiltrator   | 2    |
 | Ermitteln     | 2    |
+| Munitionierer | 2    |
 | Fischer       | 1    |
 | Mechanik      | 1    |
 | Appraisal     | 1    |
-| Munitionierer | 1    |
 | Accounting    | 1    |
 
 ## Mystisch
@@ -147,7 +146,6 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |--------------------|-----|-----|---|
 | Fischer            | 1/5 | 0   | 1 |
 | Werfen             | 4/5 | 0   | 4 |
-|                    |     | 0   | 3 |
 | Gassenwissen       | 1/5 | 0   | 1 |
 | Empathie           | 2/5 | 0   | 2 |
 | Tanzen             | 1/5 | 0   | 1 |
