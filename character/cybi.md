@@ -3,7 +3,6 @@ title:
 tags:   
 outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
@@ -194,12 +193,12 @@ Hamus, Steine, Mond und Shiny Stuff
 | Begeistern         | 1/5   | 1 |
 | Tanas Bindung      | 0/5 1 | 0 |
 | Kulturenwissen     | 0/5 1 | 3 |
-| Mondlicht          | 3/5   | 2 |
 | Feinschmied        | 1/5   | 2 |
 | Rennen             | 2/5   | 1 |
 | Kreaturenwissen    | 1/5   | 1 |
 | Improvisation      | 3/5   | 2 |
 | Kräuterkunde       | 1/5   | 0 |
+| Mondlicht          | 3/5   | 2 |
 
 # Inventar
 
