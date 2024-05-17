@@ -3,7 +3,6 @@ title: Ragin
 tags: character  
 outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
@@ -150,37 +149,37 @@ verstecktes Messer
 Elemental Shifting
 # Fortschritt
 
-| Fähigkeit/Vorteil | gesammelt | = |
-|:------------------|:----------|---|
-| Zeichensprache    | S         | 1 |
-| Meucheln          | SSSSSSS   | 7 |
-| Survival          | SSSSS     | 5 |
-| Fußarbeit         | SSSSS     | 5 |
-| Wissen(Kulturen)  | SSSSS     | 5 |
-| Widerstehen       | SSSSS     | 5 |
-| Politik           | SSSSSSS   | 7 |
-| Okysa             | SSSSS     | 5 |
-| Agent             | SSSSS     | 5 |
-| Messa             | SSSSS     | 5 |
-| Suchen            | SSSSS     | 5 |
-| Gifte             | SSSSS     | 5 |
-| Wächter           | S         | 1 |
-| Akrobatik         | SS        | 2 |
-| Schattenschritt   | SSSSS     | 5 |
-| Belos             | S         | 1 |
-| Werfen            | SS        | 2 |
-| Autorität         | SSSSS     | 5 |
-| Tratsch           | SSS       | 3 |
-| Eispicke          | SSS       | 3 |
-| EyEsOfDaRkNeSs    | SSSS      | 4 |
-| Stabilität        | S         | 1 |
-| Wissen(Gebirge)   | SS        | 2 |
-| Navigation        | 1S        | 1 |
-| Rennen            | S         | 1 |
-| Wissen(Kulturen)  | SS        | 7 |
-| Wissen(Wald)      | SSSS      | 4 |
-| Botenjudo         | S         | 1 |
-| Gesamt            |           | 0 |
+| Fähigkeit/Vorteil | gesammelt |
+|:------------------|:----------|
+| Zeichensprache    | S         |
+| Meucheln          | SSSSSSS   |
+| Survival          | SSSSS     |
+| Fußarbeit         | SSSSS     |
+| Wissen(Kulturen)  | SSSSS     |
+| Widerstehen       | SSSSS     |
+| Politik           | SSSSSSS   |
+| Okysa             | SSSSS     |
+| Agent             | SSSSS     |
+| Messa             | SSSSS     |
+| Suchen            | SSSSS     |
+| Gifte             | SSSSS     |
+| Wächter           | S         |
+| Akrobatik         | SS        |
+| Schattenschritt   | SSSSS     |
+| Belos             | S         |
+| Werfen            | SS        |
+| Autorität         | SSSSS     |
+| Tratsch           | SSS       |
+| Eispicke          | SSS       |
+| EyEsOfDaRkNeSs    | SSSS      |
+| Stabilität        | S         |
+| Wissen(Gebirge)   | SS        |
+| Navigation        | 1S        |
+| Rennen            | S         |
+| Wissen(Kulturen)  | SS        |
+| Wissen(Wald)      | SSSS      |
+| Botenjudo         | S         |
+| Gesamt            |           |
 
 # Inventar
 
