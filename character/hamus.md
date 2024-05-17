@@ -175,7 +175,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Name                       | Anzahl                               | Gewicht | Preis |
 |----------------------------|--------------------------------------|---------|-------|
 | Wurfkrüge (leer)           | 10                                   |         |       |
-| Schleuderkrüge (leer)      | 9                                    |         |       |
+| Schleuderkrüge (leer)      | 8                                    |         |       |
 | Hohl Pfeile                | 10                                   |         |       |
 | Wurfspikes                 | 10                                   |         |       |
 | Pfeile                     | 17                                   |         |       |
