@@ -178,7 +178,7 @@ Elemental Shifting
 | Navigation        | 1S        | 1 |
 | Rennen            | S         | 1 |
 | Wissen(Kulturen)  | SS        | 7 |
-| Wissen(Wald)      | SSSS      | 3 |
+| Wissen(Wald)      | SSSS      | 4 |
 | Botenjudo         | S         | 1 |
 | Gesamt            |           | 0 |
 
