@@ -3,6 +3,7 @@ title: Hamus
 tags: Hamus character  
 outgoing links: ''  
 ---
+
 # Charakter
 
 ## Name
@@ -174,7 +175,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Name                       | Anzahl                               | Gewicht | Preis |
 |----------------------------|--------------------------------------|---------|-------|
 | Wurfkrüge (leer)           | 10                                   |         |       |
-| Schleuderkrüge (leer)      | 10                                   |         |       |
+| Schleuderkrüge (leer)      | 9                                    |         |       |
 | Hohl Pfeile                | 10                                   |         |       |
 | Wurfspikes                 | 10                                   |         |       |
 | Pfeile                     | 17                                   |         |       |
