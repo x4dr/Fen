@@ -147,7 +147,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 |--------------------|-----|-----|---|
 | Fischer            | 1/5 | 0   | 1 |
 | Werfen             | 4/5 | 0   | 4 |
-| Munitionierer      | 4/5 | 0   | 3 |
+|                    |     | 0   | 3 |
 | Gassenwissen       | 1/5 | 0   | 1 |
 | Empathie           | 2/5 | 0   | 2 |
 | Tanzen             | 1/5 | 0   | 1 |
@@ -169,6 +169,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Zielsicher         | 0/5 | 2   | 0 |
 | Paranoia           | 0/5 | 1   | 0 |
 | Layouts            | 5/5 | 1   | 5 |
+| Munitionierer      | 04  |     |   |
 
 # Inventar
 
