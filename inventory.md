@@ -21,7 +21,6 @@ Söldner 25 (wilderer-banditen)
 ### Inselinventar
 
 |Beschreibung|Anzahl|Einzelgewicht|Gesamtgewicht|
-
 |:--|---|---|---|
 |Seltsamer schwarzer Tiegel|1|5,00 kg|5,00 kg|
 |Serisemwerkzeuge|5|1,00 kg|5,00 kg|
