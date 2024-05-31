@@ -20,4 +20,4 @@ Vorschlag 2
 Disziplin + Konzept = 5; Aspekt Körpertransformation + Standhalten = 2
  
 
-durchschnitt  5,2 = 12.6 = 13 [5,8,11,14] => 3 Bonuswürfel ?
+durchschnitt  5,2 = 12.6 = 13 [5,8,11,14] => 2 Bonuswürfel ?
