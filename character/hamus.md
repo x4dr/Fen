@@ -3,14 +3,18 @@ title: Hamus
 tags: Hamus character  
 outgoing links: ''  
 ---
+
 # Charakter
 
 ## Name
 Hamus
+
 ## Alter
 17,5
+
 ## Größe
 159 cm
+
 # Werte
 
 ## Physisch
@@ -22,6 +26,7 @@ Hamus
 | Konstitution | 2     |
 | Agilität     | 2     |
 | Geschick     | 2     |
+
 
 ### Fähigkeiten
 
@@ -37,6 +42,7 @@ Hamus
 | Fußarbeit   | 1    |
 | Handgemenge | 1    |
 
+
 ## Sozial
 
 ### Attribute
@@ -46,6 +52,7 @@ Hamus
 | Durchsetzungsvermögen | 1     |
 | Sympathie             | 1     |
 | Eindruck              | 1     |
+
 
 ### Fähigkeiten
 
@@ -57,6 +64,7 @@ Hamus
 | Tanzen     | 1    |
 | Support    | 1    |
 
+
 ## Mental
 
 ### Attribute
@@ -66,6 +74,7 @@ Hamus
 | Wahrnehmung | 3     |
 | Bildung     | 1     |
 | Geist       | 1     |
+
 
 ### Fähigkeiten
 
@@ -78,6 +87,7 @@ Hamus
 | Suchen       | 1    |
 | Taktik       | 0    |
 
+
 ## Können*
 
 ### Attribute
@@ -87,6 +97,7 @@ Hamus
 | Theorie  | 1     |
 | Praxis   | 2     |
 | Einblick | 3     |
+
 
 ### Fähigkeiten
 
@@ -101,6 +112,7 @@ Hamus
 | Appraisal     | 1    |
 | Accounting    | 1    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -110,6 +122,7 @@ Hamus
 | Konzentration | 1     |
 | Disziplin     | 5     |
 | Flow          | 1     |
+
 
 ### Fähigkeiten
 
@@ -124,9 +137,11 @@ Hamus
 | Aspekt Körpertransformation | 1    |
 | Aspekt Gloom                | 1    |
 
+
 # Vorteile:
 
 want: Plänklermodus, allgemeine fernkampfdinge
+
 | Name                    | Stufe | Beschreibung                                                                   |
 |-------------------------|-------|--------------------------------------------------------------------------------|
 | Aurisch schreiben/lesen | 1     |                                                                                |
@@ -138,10 +153,12 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Goon                    | 1     | Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten |
 | Lucky Find              | 1     | Resonaznen Für Looting würfe Freigeschaltet                                    |
 
+
 # Fortschritt
 
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen
+
 | Skill              | V.  | lvl | = |
 |--------------------|-----|-----|---|
 | Fischer            | 1/5 | 0   | 1 |
@@ -156,7 +173,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Support            | 1/5 | 1   | 1 |
 | Quelle Sturm       | 2/5 | 0   | 1 |
 | Standhalten        | 2/5 | 0   | 1 |
-| Gloom              | 2/5 | 0   | 1 |
+| Gloom              | 3/5 | 0   | 1 |
 | Archäologie/Looten | 3/5 | 0   | 2 |
 |                    |     |     | 0 |
 | Spinnensin         | 5/5 | 1   | 5 |
@@ -168,6 +185,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Paranoia           | 0/5 | 1   | 0 |
 | Layouts            | 5/5 | 1   | 5 |
 | Munitionierer      | 0/5 | 1   |   |
+
 
 # Inventar
 
@@ -182,6 +200,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Knallpulver                | 5 (4 krittfail)                      |         |       |
 | Rute von der Leuchte Weide |                                      |         |       |
 
+
 ## AquisePunkte
 
 | Name                       | Anzahl | Quanten |
@@ -191,6 +210,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Munitionierer              | 1      |         |
 | Fischer                    | 1      |         |
 | Kontakte Untergrund Okarun | 1      |         |
+
 
 # Artefakte
 
@@ -205,6 +225,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Teleport Kunai                    | 3 Kunai mit einem abgerundeten Mondsichel verziert                                                                                                                                     | kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT     |
 | Feuercasten Ausweiß               |                                                                                                                                                                                        |                                                                                                        |
 
+
 # Personen
 
 | Name                   | Beschreibung                                                            | Perks                                   |
@@ -215,6 +236,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Akta (Greeneye senpai) | Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick | Unaufällig ,ermitteln, generelle sozial |
 | Mal                    | freudlicher Ganove, befreundet mit Hamus Eltern, white collor crime     | con artist/dinge Ausspähen, Money       |
 | Raben Dude (Dorozd)    | einer von Tajams Vassallen, unsichtbar af, kennt Eltern?                |                                         |
+
 
 ## Ausrüstung
 Notgroschen 33,95s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann
