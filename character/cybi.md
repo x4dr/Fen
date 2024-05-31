@@ -3,20 +3,27 @@ title:
 tags:   
 outgoing links: ''  
 ---
+
 # Charakter
 
 ## Name
 Cybi
+
 ## Alter
 16
+
 ## Größe
 174cm
+
 ## Geschlecht
 Mykier/Female presenting
+
 ## Hobbies
 Tanz, Gesang und Meditation
+
 ## Mag
 Hamus, Steine, Mond und Shiny Stuff
+
 # Werte
 
 ## Physisch
@@ -29,6 +36,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Agilität     | 1     |
 | Geschick     | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit       | Wert |
@@ -37,6 +45,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Körperkontrolle | 1    |
 | Feinmotorik     | 1    |
 | Reflexe         | 1    |
+
 
 ## Sozial
 
@@ -47,6 +56,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 3     |
 | Eindruck              | 2     |
+
 
 ### Fähigkeiten
 
@@ -62,6 +72,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Mediation          | 2    |
 | Roleplay           | 1    |
 
+
 ## Mental
 
 ### Attribute
@@ -71,6 +82,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Wahrnehmung | 3     |
 | Bildung     | 1     |
 | Geist       | 1     |
+
 
 ### Fähigkeiten
 
@@ -83,6 +95,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Kreaturenwissen         | 1    |
 | Kulturenwissen          | 1    |
 
+
 ## Können
 
 ### Attribute
@@ -92,6 +105,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Theorie  | 1     |
 | Praxis   | 2     |
 | Einblick | 1     |
+
 
 ### Fähigkeiten
 
@@ -103,6 +117,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Feinschmied    | 1    |
 | Heilen         | 2    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -113,11 +128,13 @@ Hamus, Steine, Mond und Shiny Stuff
 | Disziplin     | 2     |
 | Flow          | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
 |---------------|------|
 | Tanas Bindung | 2    |
+
 
 ### Konzept
 
@@ -127,11 +144,13 @@ Hamus, Steine, Mond und Shiny Stuff
 | Gesang     | 2    |
 | Meditation | 1    |
 
+
 ### Quelle
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Mondlicht | 1    |
+
 
 ### Aspekt
 
@@ -140,6 +159,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Illusion      | 2    |
 | Manifestation | 2    |
 | Lebensmagie   | 1    |
+
 
 ## Narrativ
 
@@ -150,6 +170,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Schicksal | 4     |
 | Gunst     | 5     |
 | Wille     | 1     |
+
 
 # Vorteil
 
@@ -165,8 +186,10 @@ Hamus, Steine, Mond und Shiny Stuff
 | Überladung                       | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat.            |
 | Paartanz                         | Der Tanz mit einem Partner lässt diesen die Effekte des Tanzes, ohne zusätzliche Kosten, teilen. |
 
+
 # Zauber
 [[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
+
 # Fortschritt
 
 | Fähigkeit          | EXP   | = |
@@ -200,6 +223,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Kräuterkunde       | 1/5   | 0 |
 | Mondlicht          | 3/5   | 2 |
 
+
 # Inventar
 
 | Name                              | Anzahl  | Gewicht | Preis | Beschreibung                                                                                                                                       |
@@ -216,14 +240,16 @@ Hamus, Steine, Mond und Shiny Stuff
 | Schwarze Kugel mit weißen Punkten | 1       | -       | -     | Mini-Planetarium                                                                                                                                   |
 | Zettel mit sentinisch             | 1       | -       | -     | Bekommen von kunstinteressiertem Studenten auf der Suche nach der echten wahren Wahrheit                                                           |
 
+
 ## Ausrüstung
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |----------------------|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 13/20  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 11/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Geschenk von Hamus   | -      | -       | Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.                                                                                                                                                                          | ?      |
+
 
 ## Besitz
 
