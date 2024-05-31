@@ -3,18 +3,24 @@ title: Ragin
 tags: character  
 outgoing links: ''  
 ---
+
 # Charakter
 
 ## Name
 Ragin
+
 ## Alter
 19
+
 ## Größe
 185-ish cm
+
 ## Spezialisierung
 Physisch
+
 ## Charakterkonzept
 Fast Assassin
+
 # Werte
 
 ## Physisch
@@ -26,6 +32,7 @@ Fast Assassin
 | Konstitution | 2     |
 | Agilität     | 4     |
 | Geschick     | 3     |
+
 
 ### Fähigkeiten
 
@@ -44,6 +51,7 @@ Fast Assassin
 | Botenjudo   | 1    |
 | Eispicke    | 1    |
 
+
 ## Sozial
 
 ### Attribute
@@ -53,6 +61,7 @@ Fast Assassin
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 2     |
 | Eindruck              | 3     |
+
 
 ### Fähigkeiten
 
@@ -67,6 +76,7 @@ Fast Assassin
 | Empathie    | 1    |
 | Politik     | 2    |
 
+
 ## Mental
 
 ### Attribute
@@ -76,6 +86,7 @@ Fast Assassin
 | Wahrnehmung | 3     |
 | Bildung     | 1     |
 | Geist       | 1     |
+
 
 ### Fähigkeiten
 
@@ -90,6 +101,7 @@ Fast Assassin
 | Wissen(Gebirge)  | 1    |
 | Wissen(Kulturen) | 1    |
 
+
 ## Können
 
 ### Attribute
@@ -100,6 +112,7 @@ Fast Assassin
 | Praxis   | 2     |
 | Einblick | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit      | Wert |
@@ -108,6 +121,7 @@ Fast Assassin
 | Musterresonanz | 1    |
 | Agent          | 2    |
 | Bote           | 1    |
+
 
 ## Mystisch
 
@@ -119,6 +133,7 @@ Fast Assassin
 | Disziplin     | 1     |
 | Flow          | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit       | Wert |
@@ -128,6 +143,7 @@ Fast Assassin
 | Okysa           | 2    |
 | Belos           | 1    |
 | Stabilität      | 0    |
+
 
 ## Schicksal
 
@@ -139,6 +155,7 @@ Fast Assassin
 | Gunst     | 4     |
 | Wille     | 2     |
 
+
 ### Fähigkeiten
 
 # Vorteile
@@ -147,6 +164,7 @@ Zeichensprache
 Adrenalinflut
 verstecktes Messer
 Elemental Shifting
+
 # Fortschritt
 
 | Fähigkeit/Vorteil | gesammelt |
@@ -174,12 +192,13 @@ Elemental Shifting
 | EyEsOfDaRkNeSs    | SSSS      |
 | Stabilität        | S         |
 | Wissen(Gebirge)   | SS        |
-| Navigation        | 1S        |
+| Navigation        | 1S1       |
 | Rennen            | S         |
 | Wissen(Kulturen)  | SS        |
 | Wissen(Wald)      | SSSS      |
 | Botenjudo         | S         |
 | Gesamt            |           |
+
 
 # Inventar
 
@@ -187,6 +206,7 @@ Elemental Shifting
 |-----------------------------------|--------|---------|-------|
 | Letter of Introduction von Harika |        |         |       |
 | Feuerkastenausweis                |        |         |       |
+
 
 ## Ausrüstung
 
@@ -204,6 +224,7 @@ Elemental Shifting
 | Fackel                                                                         | 1      |         |       |
 | isolierter, reißfester Pavillion                                               | 1      |         |       |
 | very enchantable monokristalline Bronzerüstung                                 | 1      |         |       |
+
 
 ## Notizen
 Ladungen:
