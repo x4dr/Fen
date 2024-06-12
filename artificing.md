@@ -1,7 +1,7 @@
 ---
 title: Herstellung von Gegenständen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

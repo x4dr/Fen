@@ -1,7 +1,7 @@
 ---
 title: Tras  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 

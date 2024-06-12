@@ -1,7 +1,7 @@
 ---
 title: Gruppeninventar  
 tags: ['items']
-outgoing links: ''  
+outgoing links: []  
 ---
 ### Eisenbach 3000 EW
 

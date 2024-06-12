@@ -1,7 +1,7 @@
 ---
 title: Hilda  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 |Detail|Inhalt|

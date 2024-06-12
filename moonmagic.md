@@ -1,7 +1,7 @@
 ---
 title:   
 tags: []
-outgoing links: 'mystisch#halbgeordnete-und-geordnete-magie'  
+outgoing links: ['mystisch#halbgeordnete-und-geordnete-magie']
 ---
 
 [TOC]

@@ -1,7 +1,7 @@
 ---
 title: repairs  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 
 RÜstungen

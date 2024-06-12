@@ -1,7 +1,7 @@
 ---
 title: Talus Quickplay Alchemy for Stressed People  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 # Alchemische Einstimmung

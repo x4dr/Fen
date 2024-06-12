@@ -1,7 +1,7 @@
 ---
 title: Himmel  
 tags: ['worldbuilding', 'todo']
-outgoing links: '3d10f'  
+outgoing links: ['3d10f']
 ---
 # Himmel
 

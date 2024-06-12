@@ -1,7 +1,7 @@
 ---
 title: Langspeer  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

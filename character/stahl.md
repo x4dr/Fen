@@ -1,7 +1,7 @@
 ---
 title: Stahl von Schwertwacht  
 tags: ['Character', 'Swordlad', 'character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 |Detail|Wert|

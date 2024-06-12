@@ -1,7 +1,7 @@
 ---
 title: mechacombatthoughts  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
   attacks have attackvalue (assume -1..12 rn)
 

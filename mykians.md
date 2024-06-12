@@ -1,7 +1,7 @@
 ---
 title: Mykier  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 Regelideen zu mykiern
 

@@ -1,7 +1,7 @@
 ---
 title: Pakte  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 Zwischen: Mü & Tanas  
 

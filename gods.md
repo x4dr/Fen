@@ -1,7 +1,7 @@
 ---
 title: Götter  
 tags: []
-outgoing links: 'shiningknights'  
+outgoing links: ['shiningknights']
 ---
 [TOC]
 _______

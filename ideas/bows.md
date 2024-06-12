@@ -1,7 +1,7 @@
 ---
 title: Bögen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Bögen
 Bogentypen sind unterschiedliche Fähigkeiten, hier wird nur von "Bogen" gesprochen, gemeint ist der spezifische Bogen. Unterschiedliche Bogentypen können alle untereinander als Unterfähigkeiten angehangen werden.

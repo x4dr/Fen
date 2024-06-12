@@ -1,7 +1,7 @@
 ---
 title: Giganten  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 Vorerst megatalus spezifische Regeln:
 

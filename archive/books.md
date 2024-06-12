@@ -1,7 +1,7 @@
 ---
 title: Bücher  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Regeln zum Bücherlesen
 

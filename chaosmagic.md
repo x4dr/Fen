@@ -1,7 +1,7 @@
 ---
 title: Chaosmagie  
 tags: ['magic', 'rules']
-outgoing links: 'mystisch#verbrauchen'  
+outgoing links: ['mystisch#verbrauchen']
 ---
 [TOC]
 

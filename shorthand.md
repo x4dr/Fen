@@ -1,7 +1,7 @@
 ---
 title: Kurzschreibungen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Automation
 Innerhalb dieser Sektion sind kurzerklärungen für die Automation abgelegt. Änderungen hier, ändern die regeln!

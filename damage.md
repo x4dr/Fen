@@ -1,7 +1,7 @@
 ---
 title: Schadenstypen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

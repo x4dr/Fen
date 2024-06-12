@@ -1,7 +1,7 @@
 ---
 title: Checkliste Kurz vor schiff  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 ## Avis
 

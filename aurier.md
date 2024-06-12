@@ -1,7 +1,7 @@
 ---
 title: Aurier  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Die Aurier
 Aurier sind große, intelligente und soziale Vertreter der Raubtiere. Ihr Aussehen erinnert in seiner Klobigkeit an Bären, allerdings sind sie, wenn auch mit ihren Pranken nicht ganz so Geschickt wie Menschen mit ihren Fingern, wesentlich agiler, geschickter und gewitzter als Bären. Außerdem haben sie mit Bären nur etwa genau so viel gemein wie mit Wölfen, Großkatzen, Hyänen und anderen, kleineren Vertreter der Raubtiere.

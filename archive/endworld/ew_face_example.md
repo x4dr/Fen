@@ -1,7 +1,7 @@
 ---
 title: Face  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Face
 

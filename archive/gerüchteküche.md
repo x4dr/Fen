@@ -1,7 +1,7 @@
 ---
 title: Gerüchteküche  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Tantor
 Quellenverschleiert mit 7:

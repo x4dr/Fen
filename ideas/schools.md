@@ -1,7 +1,7 @@
 ---
 title: Kampfschulen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

@@ -1,7 +1,7 @@
 ---
 title: Kurzschwert  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 Gilt vorerst für Dolche und Kurzschwerter

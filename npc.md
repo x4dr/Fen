@@ -1,7 +1,7 @@
 ---
 title: npc  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 ### VORAGE
 der Meisterkoch (ehem VORAGE der Barbar, VORAGE Drachentöter, VORAGE Ohnegnade, VORAGE der Mächtige)

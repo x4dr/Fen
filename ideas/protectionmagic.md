@@ -1,7 +1,7 @@
 ---
 title: Mondmagie  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Aspekt: Schutzmagie
 

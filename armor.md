@@ -1,7 +1,7 @@
 ---
 title: Rüstung  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Rüstung
 

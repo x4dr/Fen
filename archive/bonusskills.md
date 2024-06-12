@@ -1,7 +1,7 @@
 ---
 title: Zusätzliche Fähigkeiten  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]  
 

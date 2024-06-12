@@ -1,7 +1,7 @@
 ---
 title:   
 tags: ['Hamus']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Hamus Papa
 ### wenn man etwas gutes erreichen will und etwas gutes passiert, dann kann man auch Mal ein Auge zudrücken was zwischen durch passiert ist

@@ -1,7 +1,7 @@
 ---
 title: Drachen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Ossa
 Drache des Sieges

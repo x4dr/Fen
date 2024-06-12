@@ -1,7 +1,7 @@
 ---
 title: Schnelle Alchemie  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]  
 ## Allgemeines  

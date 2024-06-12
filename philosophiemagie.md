@@ -1,7 +1,7 @@
 ---
 title:   
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 early version/unvollständig
 

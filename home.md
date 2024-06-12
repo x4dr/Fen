@@ -1,7 +1,7 @@
 ---
 title: Welcome  
 tags: []
-outgoing links: 'aurier', 'combat', 'healing', '3d10f'  
+outgoing links: ['aurier', 'combat', 'healing', '3d10f']
 ---
 [TOC]
 # Fen

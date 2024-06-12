@@ -1,7 +1,7 @@
 ---
 title: Eisenbacher Region  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

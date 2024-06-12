@@ -1,7 +1,7 @@
 ---
 title: Statistical analysis of aspects of the game  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 ## Durchschnitt pro Würfel   
 

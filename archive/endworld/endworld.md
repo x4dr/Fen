@@ -1,7 +1,7 @@
 ---
 title: Endworld  
 tags: ['template', 'character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Character  
 ## Name

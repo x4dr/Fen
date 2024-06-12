@@ -1,6 +1,6 @@
 ---
 title: Checklist Eisenbach  
 tags: ['Checklist']
-outgoing links: ''  
+outgoing links: []  
 ---
 ## AGYRIER MIT AGRAMAGIE EINLADEN

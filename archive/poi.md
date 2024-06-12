@@ -1,7 +1,7 @@
 ---
 title: Points of Interest  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 Fichtenschweine hinter dem Sumpfwald
 

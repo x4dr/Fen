@@ -1,7 +1,7 @@
 ---
 title: Biarva Notes  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 
 Plan

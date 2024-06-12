@@ -1,7 +1,7 @@
 ---
 title: Städte  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Prekor
 [Ein Mond und Tausend Sterne](skies)

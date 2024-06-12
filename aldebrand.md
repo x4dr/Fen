@@ -1,7 +1,7 @@
 ---
 title: Aldebrand  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Character
 | Detail | Inhalt               |

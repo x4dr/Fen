@@ -1,7 +1,7 @@
 ---
 title: Talus  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter  
 ## Name:  

@@ -1,7 +1,7 @@
 ---
 title: Modifikatoren  
 tags: ['rules']
-outgoing links: ''  
+outgoing links: []  
 ---
 Waffenmodifikator kurzschreibweisen sind recht einfach erklärt.
 L/R <Schritte> [HSCB]

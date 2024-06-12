@@ -1,7 +1,7 @@
 ---
 title: Kapitel  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 ## Kapitel 1 - Räuber im Wald
 

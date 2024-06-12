@@ -1,7 +1,7 @@
 ---
 title: Nohd  
 tags: ['tabs.2', 'character']
-outgoing links: ''  
+outgoing links: []  
 ---
 
 

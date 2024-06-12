@@ -1,7 +1,7 @@
 ---
 title: Anushka  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 |Detail|Inhalt|

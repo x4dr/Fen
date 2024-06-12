@@ -1,7 +1,7 @@
 ---
 title:   
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 |Detail|Inhalt|

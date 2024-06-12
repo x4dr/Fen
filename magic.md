@@ -1,7 +1,7 @@
 ---
 title: Generelle Magieregeln  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 ## Zauberzeiten
 

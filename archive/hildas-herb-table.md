@@ -1,7 +1,7 @@
 ---
 title: Hilda's Herb Table  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 Das hier ist Hildas Kräuter-Spickzettel. 
 

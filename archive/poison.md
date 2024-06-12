@@ -1,7 +1,7 @@
 ---
 title: Gifte  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 0-5 | nichts| -5 SP
 6-10| nichts| -1 SP
 11| nichts | +1 SP

@@ -1,7 +1,7 @@
 ---
 title: Oneshot Infiltrator  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Infiltrator
 

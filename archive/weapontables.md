@@ -1,6 +1,6 @@
 ---
 title:   
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 siehe [waffen](weapons)

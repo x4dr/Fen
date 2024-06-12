@@ -1,7 +1,7 @@
 ---
 title:   
 tags: ['checklist']
-outgoing links: ''  
+outgoing links: []  
 ---
 ## Rückweg aus dem Norden
 ### Sumpfstadt erkunnden

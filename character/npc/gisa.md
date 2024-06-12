@@ -1,7 +1,7 @@
 ---
 title: Gisa  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

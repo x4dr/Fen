@@ -1,7 +1,7 @@
 ---
 title:   
 tags: []
-outgoing links: ''  
+outgoing links: []  
 Point: Ich bin immer noch nicht überzeugt das ein Handwerker der seine Werkzeuge nicht versteht irgendwas erreichen kann.
 Du hast mir noch kein sinnvolles beispiel einer Person genannt die Theorie 5 und Geist/Bildung 1 hat.
 Handwerklich gutes programmieren ist coding nach styleguide/pattern aber die zu kennen ist, arguably, Bildung und/oder der skill.

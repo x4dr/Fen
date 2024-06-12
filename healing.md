@@ -1,7 +1,7 @@
 ---
 title: Heilung  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

@@ -1,7 +1,7 @@
 ---
 title: Schild  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Schilde
 In jeder Freien Phase solange das Schild ausgerüstet ist erhöhe Schildzähler um Kraft+Schild, solange Schildzähler kleiner als (Kraft+Schild)&times;4 sind

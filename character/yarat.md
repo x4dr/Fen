@@ -1,7 +1,7 @@
 ---
 title: Yarat  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 Voller Name: Yarat den-Istek
 

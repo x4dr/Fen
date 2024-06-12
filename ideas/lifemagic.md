@@ -1,7 +1,7 @@
 ---
 title: Lebensmagie  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Zauber
 Diese Zauber, vorallem die beschreibungen von Mustern sind im Kontext von [Blutmagie](bloodmagic) erstellt worden. Andere Konzepte würden eine andere Interpretation haben.

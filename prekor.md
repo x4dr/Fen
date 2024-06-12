@@ -1,7 +1,7 @@
 ---
 title: Prekor  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

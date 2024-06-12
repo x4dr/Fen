@@ -1,7 +1,7 @@
 ---
 title: GruppenInventar  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 hi! this could be used as your inventory
 

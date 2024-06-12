@@ -1,7 +1,7 @@
 ---
 title: Ragin  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 
 # Charakter

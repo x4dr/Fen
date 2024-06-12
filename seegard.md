@@ -1,7 +1,7 @@
 ---
 title: Seegard  
 tags: ['Stadt']
-outgoing links: ''  
+outgoing links: []  
 ---
 [TOC]
 

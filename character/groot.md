@@ -1,7 +1,7 @@
 ---
 title: GROOT  
 tags: ['Platzhalter', 'character']
-outgoing links: ''  
+outgoing links: []  
 ---
 
 

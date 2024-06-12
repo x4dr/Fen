@@ -1,7 +1,7 @@
 ---
 title: Gem Based Magic  
 tags: ['magie', 'gems', 'crafting']
-outgoing links: ''  
+outgoing links: []  
 ---
 
  

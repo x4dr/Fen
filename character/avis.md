@@ -1,7 +1,7 @@
 ---
 title: Avis  
 tags: ['Avis', 'character']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 ## Name

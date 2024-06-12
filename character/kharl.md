@@ -1,7 +1,7 @@
 ---
 title: Kharl  
 tags: ['character,', 'Argyrier,', 'Spieler']
-outgoing links: ''  
+outgoing links: []  
 ---
 # Charakter
 |Detail|Inhalt|

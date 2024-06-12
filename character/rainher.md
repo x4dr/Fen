@@ -1,7 +1,7 @@
 ---
 title: Rainher  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 
 

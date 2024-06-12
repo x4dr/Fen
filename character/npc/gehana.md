@@ -1,7 +1,7 @@
 ---
 title: Gehana  
 tags: ['character']
-outgoing links: ''  
+outgoing links: []  
 ---
 
 

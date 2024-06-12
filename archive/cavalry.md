@@ -1,7 +1,7 @@
 ---
 title: Kavallerie  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 # Kavallerie
 Umfasst in diesem Sinne Berittene und ähnliche schwere, schnelle Kämpfer.

@@ -1,7 +1,7 @@
 ---
 title: ZauberSeitenEffekte  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 -21-  |    Lose 1 Strain, roll 1d10 to increase the result
 -20   |    Instant healing to full
 -19   |    caster ages 2d10-15 years. Then continues aging at half/double the normal rate until the effect is negated

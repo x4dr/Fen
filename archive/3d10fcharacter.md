@@ -1,7 +1,7 @@
 ---
 title: Characterbogen  
 tags: []
-outgoing links: ''  
+outgoing links: []  
 ---
 Name:  
 
