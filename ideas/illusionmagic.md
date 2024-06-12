@@ -1,7 +1,7 @@
 ---
-title: Illusionsmagie  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Illusionsmagie
 ---
 # Konzept Linien
 Diese Zauber, vorallem die beschreibungen von Mustern sind im Kontext von Blutmagie erstellt worden. Andere Konzepte würden eine andere Interpretation haben.

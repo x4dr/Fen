@@ -1,7 +1,8 @@
 ---
-title: Gravmagie  
-tags: ['magie']
-outgoing links: []  
+outgoing links: []
+tags:
+- magie
+title: Gravmagie
 ---
 Bewegungsmagie (Aspekt) 
 

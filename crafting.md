@@ -1,7 +1,7 @@
 ---
-title: Crafting Recipes  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Crafting Recipes
 ---
 Stub: 
 Erweitert mit dingen die ihr craften wollt und alles was ihr noch an aufgeschriebenen crafts habt. Vom Characterbogen kann dann darauf referenziert oder [eingebunden](conventions) werden

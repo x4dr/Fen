@@ -1,7 +1,8 @@
 ---
-title: Götter  
+outgoing links:
+- shiningknights
 tags: []
-outgoing links: ['shiningknights']
+title: Götter
 ---
 [TOC]
 _______

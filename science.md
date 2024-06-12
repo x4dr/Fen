@@ -1,7 +1,7 @@
 ---
-title: Wissenschaft  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Wissenschaft
 ---
 # Das finden von Wissen
 Zauber, Baupläne und ähnliches werden entweder aus Büchern oder von anderen gelernt, oder erforscht.

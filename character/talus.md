@@ -1,7 +1,8 @@
 ---
-title: Talus  
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: Talus
 ---
 # Charakter  
 ## Name:  

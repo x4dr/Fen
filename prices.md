@@ -1,7 +1,7 @@
 ---
-title: Preise  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Preise
 ---
 |Name | Preis | Gewicht |
 |:---|---:|---: |

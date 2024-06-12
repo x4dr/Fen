@@ -1,7 +1,7 @@
 ---
-title: Kriegsgesang  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Kriegsgesang
 ---
 # Kriegsgesang
 Kulturell aurisch, alle Lernzeiten für nicht Aurier sind verdoppelt, Nichtaurier können die Vorteile nicht anwenden wenn jemand anderes ebenfalls Kriegsgesang anwendet, Aurier können nahezu unbegrenzt alle gleichzeitig kommunizieren und spezifischem Stimmen aus der Menge zuhören.

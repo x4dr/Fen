@@ -1,7 +1,7 @@
 ---
-title: Big Laddy  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Big Laddy
 ---
 # Fighter
 

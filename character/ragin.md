@@ -1,7 +1,8 @@
 ---
-title: Ragin  
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: Ragin
 ---
 
 # Charakter

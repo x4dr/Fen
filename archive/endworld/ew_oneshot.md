@@ -1,7 +1,7 @@
 ---
-title: Endworld oneshot  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Endworld oneshot
 ---
 Choose one of these characters and claim it in discord
 

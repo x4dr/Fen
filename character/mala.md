@@ -1,7 +1,9 @@
 ---
-title: Mala  
-tags: ['Mala', 'character']
-outgoing links: []  
+outgoing links: []
+tags:
+- Mala
+- character
+title: Mala
 ---
 Name: Mala  
 

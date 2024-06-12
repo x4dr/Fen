@@ -1,7 +1,8 @@
 ---
-title: Feuermagie  
-tags: ['magie']
-outgoing links: []  
+outgoing links: []
+tags:
+- magie
+title: Feuermagie
 ---
 # Zauber
 Diese Zauber, vorallem die beschreibungen von Mustern sind im Kontext von [Blutmagie](bloodmagic) erstellt worden. Andere Konzepte würden eine andere Interpretation haben.

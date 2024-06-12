@@ -1,7 +1,8 @@
 ---
-title: Legionen  
-tags: ['worldbuilding']
-outgoing links: []  
+outgoing links: []
+tags:
+- worldbuilding
+title: Legionen
 ---
 # Legionen 
 

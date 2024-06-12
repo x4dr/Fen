@@ -1,9 +1,10 @@
 ---
-title:   
+Point: Ich bin immer noch nicht überzeugt das ein Handwerker der seine Werkzeuge nicht
+  versteht irgendwas erreichen kann.
+outgoing links: []
 tags: []
-outgoing links: []  
-Point: Ich bin immer noch nicht überzeugt das ein Handwerker der seine Werkzeuge nicht versteht irgendwas erreichen kann.
-Du hast mir noch kein sinnvolles beispiel einer Person genannt die Theorie 5 und Geist/Bildung 1 hat.
+title: philosophical catfight
+---
 Handwerklich gutes programmieren ist coding nach styleguide/pattern aber die zu kennen ist, arguably, Bildung und/oder der skill.
 Ich habe noch nie eine person getroffen die Ein tiefes verstaendnis der materie hat und keinerlei faehigkeit in der anwendung hat.
 ---

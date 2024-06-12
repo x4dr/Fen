@@ -1,7 +1,9 @@
 ---
-title: Forma  
-tags: ['forma', 'magie']
-outgoing links: []  
+outgoing links: []
+tags:
+- forma
+- magie
+title: Forma
 ---
 [TOC]
 # Formamagie  

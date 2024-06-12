@@ -1,7 +1,8 @@
 ---
-title: Gisa  
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: Gisa
 ---
 [TOC]
 

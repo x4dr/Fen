@@ -1,7 +1,9 @@
 ---
-title: Avis  
-tags: ['Avis', 'character']
-outgoing links: []  
+outgoing links: []
+tags:
+- Avis
+- character
+title: Avis
 ---
 # Charakter
 ## Name

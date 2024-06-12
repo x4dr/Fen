@@ -1,7 +1,7 @@
 ---
-title: Foki  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Foki
 ---
 Die Herrschaft von Prekor
 # Foki

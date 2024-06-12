@@ -1,8 +1,8 @@
 ---
-title: Gifte  
+outgoing links: []
 tags: []
-outgoing links: []  
-0-5 | nichts| -5 SP
+title: Gifte
+---
 6-10| nichts| -1 SP
 11| nichts | +1 SP
 12| Gewürzkräuter|+1 SP

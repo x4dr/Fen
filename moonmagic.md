@@ -1,7 +1,8 @@
 ---
-title:   
+outgoing links:
+- mystisch#halbgeordnete-und-geordnete-magie
 tags: []
-outgoing links: ['mystisch#halbgeordnete-und-geordnete-magie']
+title: moonmagic
 ---
 
 [TOC]

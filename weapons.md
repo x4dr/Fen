@@ -1,7 +1,9 @@
 ---
-title: Waffen  
-tags: ['Weapon', 'rules']
-outgoing links: []  
+outgoing links: []
+tags:
+- Weapon
+- rules
+title: Waffen
 ---
 [TOC]  
 

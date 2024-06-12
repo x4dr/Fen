@@ -1,7 +1,7 @@
 ---
-title: Speer  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Speer
 ---
 [TOC]
 

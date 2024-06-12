@@ -1,7 +1,8 @@
 ---
-title: Gehana  
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: Gehana
 ---
 
 

@@ -1,7 +1,9 @@
 ---
-title: GROOT  
-tags: ['Platzhalter', 'character']
-outgoing links: []  
+outgoing links: []
+tags:
+- Platzhalter
+- character
+title: GROOT
 ---
 
 

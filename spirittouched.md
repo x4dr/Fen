@@ -1,7 +1,7 @@
 ---
-title: spirittouched  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: spirittouched
 ---
 Fire  
 1 Flicker (allows diming or brightening of flames)  

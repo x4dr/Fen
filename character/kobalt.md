@@ -1,7 +1,7 @@
 ---
-title: Kobalt  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Kobalt
 ---
 # Charakter
 |Detail|Inhalt|

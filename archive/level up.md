@@ -1,7 +1,10 @@
 ---
-title: Fähigkeitssteigerungen  
-tags: ['rules', 'leveling', 'costs']
-outgoing links: []  
+outgoing links: []
+tags:
+- rules
+- leveling
+- costs
+title: Fähigkeitssteigerungen
 ---
 [TOC]
 # Leveling

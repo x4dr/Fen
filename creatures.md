@@ -1,7 +1,13 @@
 ---
-title: Kreaturen  
-tags: ['worldbuilding']
-outgoing links: ['worograd', 'schwertwächter', 'dragons', 'feuerinseln', 'aurisches Meer']
+outgoing links:
+- worograd
+- schwertwächter
+- dragons
+- feuerinseln
+- aurisches Meer
+tags:
+- worldbuilding
+title: Kreaturen
 ---
 ## Satyam Seesterne
 ### Aussehen

@@ -1,7 +1,7 @@
 ---
-title: Kampf  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Kampf
 ---
 # Kampf
 Kampf besteht aus **Runden**, die aus zwei **Phasen** bestehen. Eine Runde repräsentiert etwa 5 Sekunden. Eine Minute hat 12 Runden.

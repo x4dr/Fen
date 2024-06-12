@@ -1,7 +1,9 @@
 ---
-title: Hamus  
-tags: ['Hamus', 'character']
-outgoing links: []  
+outgoing links: []
+tags:
+- Hamus
+- character
+title: Hamus
 ---
 
 # Charakter

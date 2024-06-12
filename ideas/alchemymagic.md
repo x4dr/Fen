@@ -1,7 +1,9 @@
 ---
-title: Alchemie Magie  
-tags: ['magie', 'alchemie']
-outgoing links: []  
+outgoing links: []
+tags:
+- magie
+- alchemie
+title: Alchemie Magie
 ---
 [TOC]
 # Alchemische Einstimmung

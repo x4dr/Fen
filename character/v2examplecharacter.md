@@ -1,7 +1,7 @@
 ---
-title: Charaktername  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Charaktername
 ---
 # Charakter
 |Detail|Inhalt|

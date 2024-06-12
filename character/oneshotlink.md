@@ -1,7 +1,7 @@
 ---
-title:   
+outgoing links: []
 tags: []
-outgoing links: []  
+title: oneshotlink
 ---
 # Charakter
 |Detail|Inhalt|

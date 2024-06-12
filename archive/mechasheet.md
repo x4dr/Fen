@@ -1,7 +1,7 @@
 ---
-title: mechasheet  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: mechasheet
 ---
 
   mech size 6 (sizeclass 3 -1, 1 -2

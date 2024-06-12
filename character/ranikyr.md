@@ -1,19 +1,23 @@
 ---
-title: Char-Sheet Ranikyr  
-tags: ['Ranikyr', 'Rani', 'Character'] character
-outgoing links: []  
+outgoing links: []
+tags:
+- Ranikyr
+- Rani
+- Character
+- character
+title: Char-Sheet Ranikyr
 ---
 # Charakter
 
-|||
-|-|-|
-|Name|Ranikyr|
-|Spezies|Aurier|
-|Alter|ca 36 Jahre|
-|Größe|ca. 2,00m|
-|Gewicht|110kg|
-|Haarfarbe|dunkles Grau-Braun|
-|Statur|schlank / durchtrainiert|
+|           |                          |
+|-----------|--------------------------|
+| Name      | Ranikyr                  |
+| Spezies   | Aurier                   |
+| Alter     | ca 36 Jahre              |
+| Größe     | ca. 2,00m                |
+| Gewicht   | 110kg                    |
+| Haarfarbe | dunkles Grau-Braun       |
+| Statur    | schlank / durchtrainiert |
 
 ## Bewaffnung
 Kurz-Bogen, Stahldolch, Bronzedolch 
@@ -39,128 +43,128 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 ## Stärke  
 
 ### Attribute  
-|Attribut|Level|
-|-|-|
-|Konstitution|3|
-|Kraft|2|
-|Agilität| 3|
+| Attribut     | Level |
+|--------------|-------|
+| Konstitution | 3     |
+| Kraft        | 2     |
+| Agilität     | 3     |
 
 ### Fähigkeiten  
-|Fähigkeit|Level|
-|-|-|
-|Rennen |1|
-|Springen| 2|
-|Klettern| 2|
-|Waffe(Dolch)| 2 |
-|Waffe(Bogen)| 2  |
+| Fähigkeit    | Level |
+|--------------|-------|
+| Rennen       | 1     |
+| Springen     | 2     |
+| Klettern     | 2     |
+| Waffe(Dolch) | 2     |
+| Waffe(Bogen) | 2     |
     
     
 ### Vorteile  
-|Vorteil|Name|
-|-|-|
-|[Dolch](schools#dolch)| Verzögerte Bewegung|
-|| Hechten|
-|||
-|[Kurzbogen](bows#kurzbogen)|Kurzbogentraining|  
-||Kampfschießen|  
+| Vorteil                     | Name                |
+|-----------------------------|---------------------|
+| [Dolch](schools#dolch)      | Verzögerte Bewegung |
+|                             | Hechten             |
+|                             |                     |
+| [Kurzbogen](bows#kurzbogen) | Kurzbogentraining   |  
+|                             | Kampfschießen       |  
 
 
 ## Können
 
 ### Attribute
-|Attribut|Level|
-|-|-|
-|Geschick| 3|  
-|Einblick| 2|  
-|Kompetenz| 3|  
+| Attribut  | Level |
+|-----------|-------|
+| Geschick  | 3     |  
+| Einblick  | 2     |  
+| Kompetenz | 3     |  
 
 ### Fähigkeiten
-|Fähigkeit|Level|  
-|-|-|  
-|  Akrobatik |  3|
-|  Schleichen |  3|
-|  Reiten |  1|
-|  Handwerk (Kräuterkunde) |  2|
-|  Handwerk (Pfeilmacher) |  1|  
+| Fähigkeit               | Level |  
+|-------------------------|-------|  
+| Akrobatik               | 3     |
+| Schleichen              | 3     |
+| Reiten                  | 1     |
+| Handwerk (Kräuterkunde) | 2     |
+| Handwerk (Pfeilmacher)  | 1     |  
 
 ## Weisheit
 
 ### Attribute  
-|Attribut|Level|
-|-|-|
-|  Bildung |  2|  
-|  Geist |  3|  
-|  Wahrnehmung |  3|  
+| Attribut    | Level |
+|-------------|-------|
+| Bildung     | 2     |  
+| Geist       | 3     |  
+| Wahrnehmung | 3     |  
 
 ### Fähigkeiten
-|Fähigkeit|Level|  
-|-|-|  
-|  Instinkt |  2|  
-|  Suchen |  2|  
-|  Taktik |  2|  
-|  Wissen (Kräuterkunde) |  2|  
-|  Navigation |  1|  
-|  Sprache (Prekorisch) |  2|  
+| Fähigkeit             | Level |  
+|-----------------------|-------|  
+| Instinkt              | 2     |  
+| Suchen                | 2     |  
+| Taktik                | 2     |  
+| Wissen (Kräuterkunde) | 2     |  
+| Navigation            | 1     |  
+| Sprache (Prekorisch)  | 2     |  
 
 ## Charisma
 
 ### Attribute  
-|Attribut|Level|  
-|-|-|  
-|  Eindruck |  2|  
-|  Durchsetzungsvermögen |  3|  
-|  Sympathie |  1|  
+| Attribut              | Level |  
+|-----------------------|-------|  
+| Eindruck              | 2     |  
+| Durchsetzungsvermögen | 3     |  
+| Sympathie             | 1     |  
 
 ### Fähigkeiten
-|Fähigkeit|Level|  
-|-|-|  
-|  Diplomatie |  2|  
-|  Lügen |  1|  
-|  Rhetorik |  1|  
-|  Etikette |  1|  
+| Fähigkeit  | Level |  
+|------------|-------|  
+| Diplomatie | 2     |  
+| Lügen      | 1     |  
+| Rhetorik   | 1     |  
+| Etikette   | 1     |  
 
 ## Magie
 
 ### Quellen
-| Quelle|  Level|    
-|-|-|
-|  Lebensenergie (Wild) |  2|  
+| Quelle               | Level |    
+|----------------------|-------|
+| Lebensenergie (Wild) | 2     |  
 
 ### Konzepte
-|Konzept | Level|
-|-|-|
-|[Schamanistisch](shamanism)|2|
+| Konzept                     | Level |
+|-----------------------------|-------|
+| [Schamanistisch](shamanism) | 2     |
 
 ### Aspekte
-| Aspekt |  Level|    
-|-|-|
-|   Elementar-Manipulation |  2|  
-|   Illusion |  2|  
+| Aspekt                 | Level |    
+|------------------------|-------|
+| Elementar-Manipulation | 2     |  
+| Illusion               | 2     |  
 
 ### Zauber
-|Zauber|Name|
-|-|-|
-|[Elementar](shamanism#elementar)| Feuer entzünden |  
-|| Windrichtung beeinflussen |  
-|| Wasser-Manipulation |  
-|||   
-|[Illusion](shamanism#illusion)|Verschleierung|  
-||Verdunklung|  
+| Zauber                           | Name                      |
+|----------------------------------|---------------------------|
+| [Elementar](shamanism#elementar) | Feuer entzünden           |  
+|                                  | Windrichtung beeinflussen |  
+|                                  | Wasser-Manipulation       |  
+|                                  |                           |   
+| [Illusion](shamanism#illusion)   | Verschleierung            |  
+|                                  | Verdunklung               |  
 
 ## Schicksal
 
 ### Attribute
-|Attribut|Level|  
-|-|-|  
-|  Glück |  2|  
-|  Mut |  2|  
-|  Gunst |  1|  
+| Attribut | Level |  
+|----------|-------|  
+| Glück    | 2     |  
+| Mut      | 2     |  
+| Gunst    | 1     |  
 
 ### Fähigkeiten
-|Fähigkeit|Level|  
-|-|-|  
-|  Wille |  2|  
-|  Fügung |  1|  
+| Fähigkeit | Level |  
+|-----------|-------|  
+| Wille     | 2     |  
+| Fügung    | 1     |  
 
 # Inventar  
 ## Waffen

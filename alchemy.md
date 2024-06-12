@@ -1,7 +1,8 @@
 ---
-title: Alchemie  
-tags: ['alchemy']
-outgoing links: []  
+outgoing links: []
+tags:
+- alchemy
+title: Alchemie
 ---
 [TOC]
 

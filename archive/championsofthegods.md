@@ -1,7 +1,7 @@
 ---
-title:   
+outgoing links: []
 tags: []
-outgoing links: []  
+title: championsofthegods
 ---
 Spoiler. Nicht weiterlesen
 

@@ -1,7 +1,8 @@
 ---
-title: Hilda  
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: Hilda
 ---
 # Charakter
 |Detail|Inhalt|

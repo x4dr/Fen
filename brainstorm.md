@@ -1,7 +1,7 @@
 ---
-title: Brainstorm  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Brainstorm
 ---
 Kalredin, he is nearly 60 now, he is somewhat stuck up and not that much into all that newfangled stuff you wanna do, but he knows how to run a place straight yes he does, sure he didnt administrate more than a (frankly predatory) milling business before being relocated here, but he has kept the ship of straight headed straight ahead with no deviations for almost 15 years now
 => He actually has admin 3 but he does not auto adjust xD, His modes are "keep everything going as its currently operating, no matter what" and "bleed them dry as efficiently and sustainable as possible" which he had to do during the war and people are not his biggest fan, he is not in danger of rebellion though since people realized that prekor, with a few fewer weapons or sacks of food or cattle or whatever, would have lost more ground in the war and eisenbach would have burned

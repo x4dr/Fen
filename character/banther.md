@@ -1,7 +1,8 @@
 ---
-title:   
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: banther
 ---
 # Charakter
 

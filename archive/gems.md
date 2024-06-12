@@ -1,7 +1,10 @@
 ---
-title: Gem Based Magic  
-tags: ['magie', 'gems', 'crafting']
-outgoing links: []  
+outgoing links: []
+tags:
+- magie
+- gems
+- crafting
+title: Gem Based Magic
 ---
 
  

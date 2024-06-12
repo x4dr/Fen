@@ -1,7 +1,8 @@
 ---
-title: Anushka  
-tags: ['character']
-outgoing links: []  
+outgoing links: []
+tags:
+- character
+title: Anushka
 ---
 # Charakter
 |Detail|Inhalt|

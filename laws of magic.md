@@ -1,7 +1,7 @@
 ---
-title: Gesetze der Magie  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Gesetze der Magie
 ---
 Hausarbeit des Akolyten Onyki der Bruderschaft des Wortes der Weißen Stadt durch die Gnade Atephs erwirkt.
 

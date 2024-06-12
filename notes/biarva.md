@@ -1,7 +1,7 @@
 ---
-title: Biarva Notes  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Biarva Notes
 ---
 
 Plan

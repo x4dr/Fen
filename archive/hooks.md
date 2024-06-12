@@ -1,7 +1,7 @@
 ---
-title: Abenteuerideen  
+outgoing links: []
 tags: []
-outgoing links: []  
+title: Abenteuerideen
 ---
 In allen großen Städten mit Wahrnehmung Tratsch 15+ sind Gerüchte darüber zu finden, allerdings niemand mit genaueren informationen.   
 

@@ -1,7 +1,8 @@
 ---
-title: Seegard  
-tags: ['Stadt']
-outgoing links: []  
+outgoing links: []
+tags:
+- Stadt
+title: Seegard
 ---
 [TOC]
 
