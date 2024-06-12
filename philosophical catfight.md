@@ -1,6 +1,6 @@
 ---
 title:   
-tags:   
+tags: []
 outgoing links: ''  
 Point: Ich bin immer noch nicht überzeugt das ein Handwerker der seine Werkzeuge nicht versteht irgendwas erreichen kann.
 Du hast mir noch kein sinnvolles beispiel einer Person genannt die Theorie 5 und Geist/Bildung 1 hat.

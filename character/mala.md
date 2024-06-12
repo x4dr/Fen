@@ -1,6 +1,6 @@
 ---
 title: Mala  
-tags: Mala character  
+tags: ['Mala', 'character']
 outgoing links: ''  
 ---
 Name: Mala  

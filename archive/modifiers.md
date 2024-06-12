@@ -1,6 +1,6 @@
 ---
 title: Modifikatoren  
-tags: rules  
+tags: ['rules']
 outgoing links: ''  
 ---
 Waffenmodifikator kurzschreibweisen sind recht einfach erklärt.

@@ -1,6 +1,6 @@
 ---
 title:   
-tags: Hamus  
+tags: ['Hamus']
 outgoing links: ''  
 ---
 # Hamus Papa

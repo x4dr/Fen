@@ -1,6 +1,6 @@
 ---
 title: Kurzschreibungen  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Automation

@@ -1,6 +1,6 @@
 ---
 title: Gifte  
-tags:   
+tags: []
 outgoing links: ''  
 0-5 | nichts| -5 SP
 6-10| nichts| -1 SP

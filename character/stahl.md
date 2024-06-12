@@ -1,6 +1,6 @@
 ---
 title: Stahl von Schwertwacht  
-tags: Character Swordlad character  
+tags: ['Character', 'Swordlad', 'character']
 outgoing links: ''  
 ---
 # Charakter

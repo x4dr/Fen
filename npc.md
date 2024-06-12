@@ -1,6 +1,6 @@
 ---
 title: npc  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 ### VORAGE

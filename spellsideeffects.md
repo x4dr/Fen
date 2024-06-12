@@ -1,6 +1,6 @@
 ---
 title: ZauberSeitenEffekte  
-tags:   
+tags: []
 outgoing links: ''  
 -21-  |    Lose 1 Strain, roll 1d10 to increase the result
 -20   |    Instant healing to full

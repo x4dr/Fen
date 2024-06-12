@@ -1,6 +1,6 @@
 ---
 title: Speer  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

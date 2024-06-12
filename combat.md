@@ -1,6 +1,6 @@
 ---
 title: Kampf  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Kampf

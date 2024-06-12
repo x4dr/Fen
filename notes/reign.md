@@ -1,6 +1,6 @@
 ---
 title: Foki  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Die Herrschaft von Prekor

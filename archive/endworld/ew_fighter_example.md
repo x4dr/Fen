@@ -1,6 +1,6 @@
 ---
 title: Big Laddy  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Fighter

@@ -1,6 +1,6 @@
 ---
 title: Aurishesreichchecklist  
-tags: Checklist  
+tags: ['Checklist']
 outgoing links: ''  
 ---
 -> Sirka Shazoda (wer war das)

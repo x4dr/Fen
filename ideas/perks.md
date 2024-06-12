@@ -1,6 +1,6 @@
 ---
 title: Vorteile  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

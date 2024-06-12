@@ -1,6 +1,6 @@
 ---
 title: Kreaturen  
-tags: worldbuilding  
+tags: ['worldbuilding']
 outgoing links: 'worograd', 'schwertwächter', 'dragons', 'feuerinseln', 'aurisches Meer'  
 ---
 ## Satyam Seesterne

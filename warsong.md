@@ -1,6 +1,6 @@
 ---
 title: Kriegsgesang  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Kriegsgesang

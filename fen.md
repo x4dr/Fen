@@ -1,6 +1,6 @@
 ---
 title: Die Welt  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

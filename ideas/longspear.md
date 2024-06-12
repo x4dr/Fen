@@ -1,6 +1,6 @@
 ---
 title: Langspeer  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

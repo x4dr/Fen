@@ -1,6 +1,6 @@
 ---
 title: Kavallerie  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Kavallerie

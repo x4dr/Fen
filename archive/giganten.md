@@ -1,6 +1,6 @@
 ---
 title: Giganten  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Vorerst megatalus spezifische Regeln:

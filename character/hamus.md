@@ -1,6 +1,6 @@
 ---
 title: Hamus  
-tags: Hamus character  
+tags: ['Hamus', 'character']
 outgoing links: ''  
 ---
 

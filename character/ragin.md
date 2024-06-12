@@ -1,6 +1,6 @@
 ---
 title: Ragin  
-tags: character  
+tags: ['character']
 outgoing links: ''  
 ---
 

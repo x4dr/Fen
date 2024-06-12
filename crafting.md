@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Stub: 

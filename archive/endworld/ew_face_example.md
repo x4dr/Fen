@@ -1,6 +1,6 @@
 ---
 title: Face  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Face

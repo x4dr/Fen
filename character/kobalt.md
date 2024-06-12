@@ -1,6 +1,6 @@
 ---
 title: Kobalt  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Charakter

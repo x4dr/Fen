@@ -1,6 +1,6 @@
 ---
 title: Welcome  
-tags:   
+tags: []
 outgoing links: 'aurier', 'combat', 'healing', '3d10f'  
 ---
 [TOC]

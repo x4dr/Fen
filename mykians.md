@@ -1,6 +1,6 @@
 ---
 title: Mykier  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Regelideen zu mykiern

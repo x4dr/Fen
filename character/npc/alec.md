@@ -1,6 +1,6 @@
 ---
 title: Testcharakter  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 

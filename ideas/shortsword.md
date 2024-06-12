@@ -1,6 +1,6 @@
 ---
 title: Kurzschwert  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

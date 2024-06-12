@@ -1,6 +1,6 @@
 ---
 title: Alchemie  
-tags: alchemy  
+tags: ['alchemy']
 outgoing links: ''  
 ---
 [TOC]

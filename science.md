@@ -1,6 +1,6 @@
 ---
 title: Wissenschaft  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Das finden von Wissen

@@ -1,6 +1,6 @@
 ---
 title: Magische Kampfkunst  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Verwendung im Rahmen von mundaner [Kampfkunst](martialarts).

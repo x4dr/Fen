@@ -1,6 +1,6 @@
 ---
 title: Rüstung  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Rüstung

@@ -1,6 +1,6 @@
 ---
 title: Heilung  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

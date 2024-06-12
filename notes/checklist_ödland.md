@@ -1,6 +1,6 @@
 ---
 title: OedlandChecklist  
-tags: checklist  
+tags: ['checklist']
 outgoing links: ''  
 ---
 ->Reitfalken!

@@ -1,6 +1,6 @@
 ---
 title: Prekor  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

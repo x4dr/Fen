@@ -1,6 +1,6 @@
 ---
 title: Chaosmagie  
-tags: magic rules  
+tags: ['magic', 'rules']
 outgoing links: 'mystisch#verbrauchen'  
 ---
 [TOC]

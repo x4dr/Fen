@@ -1,6 +1,6 @@
 ---
 title: Schild  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Schilde

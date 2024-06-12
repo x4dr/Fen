@@ -1,6 +1,6 @@
 ---
 title: Aurier  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Die Aurier

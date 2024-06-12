@@ -1,6 +1,6 @@
 ---
 title: Schall und Rauch  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 fFeuer bzw eis und psy

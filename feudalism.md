@@ -1,6 +1,6 @@
 ---
 title: Feudalismus  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

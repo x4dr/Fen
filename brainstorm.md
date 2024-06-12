@@ -1,6 +1,6 @@
 ---
 title: Brainstorm  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Kalredin, he is nearly 60 now, he is somewhat stuck up and not that much into all that newfangled stuff you wanna do, but he knows how to run a place straight yes he does, sure he didnt administrate more than a (frankly predatory) milling business before being relocated here, but he has kept the ship of straight headed straight ahead with no deviations for almost 15 years now

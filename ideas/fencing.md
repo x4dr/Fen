@@ -1,6 +1,6 @@
 ---
 title: Fechten  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

@@ -1,6 +1,6 @@
 ---
 title: Biarva Notes  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 

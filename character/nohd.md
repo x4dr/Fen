@@ -1,6 +1,6 @@
 ---
 title: Nohd  
-tags: tabs.2 character  
+tags: ['tabs.2', 'character']
 outgoing links: ''  
 ---
 

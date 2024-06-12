@@ -1,6 +1,6 @@
 ---
 title: Seegard  
-tags: Stadt  
+tags: ['Stadt']
 outgoing links: ''  
 ---
 [TOC]

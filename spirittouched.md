@@ -1,6 +1,6 @@
 ---
 title: spirittouched  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Fire  

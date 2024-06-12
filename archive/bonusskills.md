@@ -1,6 +1,6 @@
 ---
 title: Zusätzliche Fähigkeiten  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]  

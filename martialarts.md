@@ -1,6 +1,6 @@
 ---
 title: Kampfkünste  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]  

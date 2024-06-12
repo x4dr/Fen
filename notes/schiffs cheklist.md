@@ -1,6 +1,6 @@
 ---
 title:   
-tags: checklist  
+tags: ['checklist']
 outgoing links: ''  
 ---
 ## Boot notizens  

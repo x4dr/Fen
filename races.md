@@ -1,6 +1,6 @@
 ---
 title: Rassen/Spezies  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 

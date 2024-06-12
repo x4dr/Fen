@@ -1,6 +1,6 @@
 ---
 title: Ordnungsreich  
-tags: worldbuilding  
+tags: ['worldbuilding']
 outgoing links: ''  
 ---
 # Beschreibung

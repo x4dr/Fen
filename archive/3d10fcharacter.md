@@ -1,6 +1,6 @@
 ---
 title: Characterbogen  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Name:  

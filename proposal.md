@@ -1,6 +1,6 @@
 ---
 title: Vorschläge  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

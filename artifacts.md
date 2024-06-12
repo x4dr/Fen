@@ -1,6 +1,6 @@
 ---
 title: Artefaktideen  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 Einige Ideen für artefakte/loot/magische items

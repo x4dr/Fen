@@ -1,6 +1,6 @@
 ---
 title: Talus Quickplay Alchemy for Stressed People  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

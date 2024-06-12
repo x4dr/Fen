@@ -1,6 +1,6 @@
 ---
 title: Gerüchteküche  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Tantor

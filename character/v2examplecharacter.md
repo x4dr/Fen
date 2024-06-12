@@ -1,6 +1,6 @@
 ---
 title: Charaktername  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Charakter

@@ -1,6 +1,6 @@
 ---
 title: Schadenstypen  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

@@ -1,6 +1,6 @@
 ---
 title: Bögen  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Bögen

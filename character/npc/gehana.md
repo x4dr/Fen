@@ -1,6 +1,6 @@
 ---
 title: Gehana  
-tags: character  
+tags: ['character']
 outgoing links: ''  
 ---
 

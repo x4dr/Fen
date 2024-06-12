@@ -1,6 +1,6 @@
 ---
 title: Okur  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Vorläufige Beschreibung

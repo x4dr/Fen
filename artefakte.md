@@ -1,6 +1,6 @@
 ---
 title: Artefakte  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

@@ -1,6 +1,6 @@
 ---
 title: Kharl  
-tags: character, Argyrier, Spieler  
+tags: ['character,', 'Argyrier,', 'Spieler']
 outgoing links: ''  
 ---
 # Charakter

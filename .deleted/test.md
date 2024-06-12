@@ -1,5 +1,5 @@
 title:   
-tags: test  
+tags: ['test']
 
 testpage for fun!
 

@@ -1,6 +1,6 @@
 ---
 title: Tras  
-tags: character  
+tags: ['character']
 outgoing links: ''  
 ---
 # Charakter

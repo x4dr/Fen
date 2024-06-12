@@ -1,6 +1,6 @@
 ---
 title: Langschwert  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC] 

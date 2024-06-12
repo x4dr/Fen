@@ -1,6 +1,6 @@
 ---
 title: Blutmagie  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Quelle

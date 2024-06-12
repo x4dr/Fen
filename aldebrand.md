@@ -1,6 +1,6 @@
 ---
 title: Aldebrand  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Character

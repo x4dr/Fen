@@ -1,6 +1,6 @@
 ---
 title: Waffen  
-tags: Weapon rules  
+tags: ['Weapon', 'rules']
 outgoing links: ''  
 ---
 [TOC]  

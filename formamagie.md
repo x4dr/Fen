@@ -1,6 +1,6 @@
 ---
 title: Forma  
-tags: forma magie  
+tags: ['forma', 'magie']
 outgoing links: ''  
 ---
 [TOC]

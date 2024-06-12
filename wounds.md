@@ -1,6 +1,6 @@
 ---
 title: Wundsystem  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

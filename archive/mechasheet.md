@@ -1,6 +1,6 @@
 ---
 title: mechasheet  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Lebensmagie  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Zauber

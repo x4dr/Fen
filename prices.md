@@ -1,6 +1,6 @@
 ---
 title: Preise  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 |Name | Preis | Gewicht |

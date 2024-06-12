@@ -1,6 +1,6 @@
 ---
 title: Endworld  
-tags: template character  
+tags: ['template', 'character']
 outgoing links: ''  
 ---
 # Character  

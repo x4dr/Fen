@@ -1,6 +1,6 @@
 ---
 title: Dubok Checklist  
-tags: checklist  
+tags: ['checklist']
 outgoing links: ''  
 ---
 ALL DONE

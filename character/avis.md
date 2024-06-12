@@ -1,6 +1,6 @@
 ---
 title: Avis  
-tags: Avis character  
+tags: ['Avis', 'character']
 outgoing links: ''  
 ---
 # Charakter
@@ -281,4 +281,3 @@ Diebeszeichen: Treffpunkt & Mitternacht
 |-|-|
 |Verzerrung|??????|
 
-  

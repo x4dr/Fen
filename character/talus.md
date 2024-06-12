@@ -1,6 +1,6 @@
 ---
 title: Talus  
-tags: character  
+tags: ['character']
 outgoing links: ''  
 ---
 # Charakter  

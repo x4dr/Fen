@@ -1,6 +1,6 @@
 ---
 title: gifte  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 

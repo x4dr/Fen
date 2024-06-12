@@ -1,6 +1,6 @@
 ---
 title: Schamanism  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 [TOC]

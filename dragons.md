@@ -1,6 +1,6 @@
 ---
 title: Drachen  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Ossa

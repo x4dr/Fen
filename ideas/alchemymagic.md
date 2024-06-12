@@ -1,6 +1,6 @@
 ---
 title: Alchemie Magie  
-tags: magie alchemie  
+tags: ['magie', 'alchemie']
 outgoing links: ''  
 ---
 [TOC]

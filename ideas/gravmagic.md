@@ -1,6 +1,6 @@
 ---
 title: Gravmagie  
-tags: magie  
+tags: ['magie']
 outgoing links: ''  
 ---
 Bewegungsmagie (Aspekt) 

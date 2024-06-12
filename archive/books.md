@@ -1,6 +1,6 @@
 ---
 title: Bücher  
-tags:   
+tags: []
 outgoing links: ''  
 ---
 # Regeln zum Bücherlesen
