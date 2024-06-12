@@ -11,7 +11,7 @@ mobile Mykier haben ein extra Attribut, dass ihnen Modulslots gibt, plus Vorteil
 
 Mobile Mykier sind so komplex und schwer herzustellen, dass eine homebase sehr selten mehr als einen mobilen mykier losschickt  
 
-## balance ideas:
+## balance ideas
 
 Mykische basis benötigt infrastruktur um fähigkeitsmodule (zelladaptionen) aufrecht zu erhalten, infrastruktur/basepoints sollten schwer zu bekommen sein (und können durch ihre statische natur mittlere mengen mathematik enthalten)  
 
@@ -45,7 +45,7 @@ Normal : 5s/b
 
   
 
-## Rohstoffe:   
+## Rohstoffe
 
 Biomasse (preise nur für import, export benötigt adaptionen)  
 
@@ -55,7 +55,7 @@ Wasser
 
   
 
-## Adaptionen:  
+## Adaptionen
 
 Mykorrhiza (Pflanzensymbiose, erhöht Biomassenproduktion)  
 

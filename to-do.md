@@ -11,7 +11,7 @@ mehr kurzfristige Kapazität, verbesserte aufnahme von Ernergie direkt vom Schif
 
 
 
-## Craftingideen:
+## Craftingideen
 ### Sturnmkristall
 produziert vorzugsweise 10 energie/8h 
 ### Opferdolch mit eldesteinfassung für banther

@@ -60,7 +60,7 @@ passiv: Ziele haben einen Maluswürfel auf Durchhaltewürfe für jede Wunde des 
 
 # Schleuder
 Erlaubt Schüsse auf Ziele die nicht sichtbar sind, deren Position aber bekannt ist, ohne Blindfeuer Mali
-## Kurzschleudertraining:
+## Kurzschleudertraining
 Nachladen ist eine Dauer 0 Freiphasenaktion, solange sich entsprechende Geschosse am Charakter befinden (nur für Kurzschleudern) und kann mit Feuern in der Selben Runde kombiniert werden.
 ### Abprallender Schuss
 erlaubt das Reflektieren des Geschosses an Gegenständen. Einfallswinkel=ausfallswinkel, Treffschwierigkeit steigt um 1, Schaden wird halbiert.
@@ -75,7 +75,7 @@ passiv: Angriffe auf ein Ziel senken dessen Würfelergebnisse diese Runde um 2.
 ## Langschleudertraining
 (1-5) +n*20% Schaden vor Rüstung. 
 
-# Todeswirbel:  
+# Todeswirbel
 Alles nur in der Todeswirbelhaltung möglich
 passiv: Bis auf Gelegenheitsangriffe keine gezielten Angriffe möglich. Offensive fängt bei 0 an, überträgt sich zwischen Runden und wird jede Runde um den gewürfelten Wert erhöht (bis zum Maximum des neuen Würfelwurfes, wenn der Wert vorher schon höher war, bleibt er)
 Reflexiv: Greife Angreifer an.

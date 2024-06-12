@@ -10,7 +10,7 @@ title: Talus Quickplay Alchemy for Stressed People
 **Konzept**: alchemische Magie, die Manipulation von natürlichen Prozessen und das Hervorrufen von komplett eigenen, mithilfe von Reagenzien
 **Aspekt**: Prozessalchemie, [Schnellalchemie](quickalchemy)
 ## Mechaniken
-###[Vorteile](alchemyperks)
+### [Vorteile](alchemyperks)
 ### Magische Einstimmung
 
 Für Prozessalchemie erhöht das Level der magischen Einstimmung jeweils Menge der Aquisepunkte also 1, 3, 6, 10, 15 auf den Stufen 1,2,3,4,5.

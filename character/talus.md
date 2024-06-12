@@ -5,36 +5,36 @@ tags:
 title: Talus
 ---
 # Charakter  
-## Name:  
+## Name
 Megatalus  
-## Voller Titel:  
+## Voller Titel
 Konzilfürst Megatalus von Mark Eisenbach
-## Alter:  
+## Alter
 it's complicated
-## Spezies:
+## Spezies
 Amalkan
-## Charakterkonzept:  
+## Charakterkonzept
 entflohener Laborunfall
-## XP:  
+## XP
 16  
-## Zusammensetzung:  
+## Zusammensetzung
 Megatalus: 500kg Federstahl, 440kg Schwebstein
 Talus: 60kg Federstahl
-## Gewicht:  
+## Gewicht
 60 kg
-## Masse:
+## Masse
 ~1t  
-## Tragkraft:  
+## Tragkraft
 Kampf: 120kg  
 Reisen: 225kg  
 Minitalus:
 Kampf: 24kg
 Reisen: 45kg
-## Geld:  
+## Geld
 7s
-## Hauptwaffe:  
+## Hauptwaffe
 [Cirit mit Widerhaken und Talus-Lock (Serisem Q3)[[weapon:Langspeer:L13HSC]]]  
-## Wunden:  
+## Wunden
 Gigatalus: Bein6: 3 Feuerschaden
 Megatalus: Bein1: 5(4) Bein 7: 5(4),3(Avis' Mark, 9)
 Talus: 3(Avis' Mark, 9), 2,2(kurzschwert)

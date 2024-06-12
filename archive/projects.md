@@ -4,117 +4,117 @@ tags: []
 title: projects
 ---
 [TOC]
-##Handschuh(paar)
-###Material 
+## Handschuh(paar)
+### Material 
 Stahl (2kg)
 
-###Aufwand
+### Aufwand
 30
 
-###Komplexität 
+### Komplexität 
 3
 
-###Anforderungen
+### Anforderungen
 Schmiede Feuer, Öl, Wasser, Schmiede Werkzeug1, Schmiede Werkstatt3
 
-###Möglichkeiten
+### Möglichkeiten
 Assistenz (10): Wiedrigkeit -1 max 3x
 Textilverarbeitung (8) -5 Aufwand (parallel)
 
-###Interval
+### Interval
 6h
 
-###Widrigkeit
+### Widrigkeit
 4
 
-###Effekte:
+### Effekte
 Vorher anzusagen, je nach eigenschaft + Widrigkeit
 
 
 
-##Chitinverstärkte Rüstung
+## Chitinverstärkte Rüstung
 
-###Material:
+### Material
 Textil (4kg; 10s)
 Chitin (1kg)
 
-###Aufwand
+### Aufwand
 40
 
-###Komplexität
+### Komplexität
 4
 
-###Anforderungen
+### Anforderungen
 Sägen, Bohrer, Wasserdampf, Textil Werkzeug 2, Textil Werkstatt 1
 
-###Möglichkeiten
+### Möglichkeiten
 Magischer Morph (Widrigkeit -1)
 
-###Interval 
+### Interval 
 12h
 
-###Widrigkeit
+### Widrigkeit
 5
 
-###Effekte
+### Effekte
 1er resonanz erhöht widrigkeit um höhe. 
 
-##Serisem
+## Serisem
 
 Kompetenz,Alchemie
-###Material pro kg:
+### Material pro kg
 Silber:1/3kg, Stahl 1/2kg, Porzellanton (1/6), Flux(1kg)  
 
-###Aufwand: 
+### Aufwand
 10+5&times; endmenge in kilogramm
 
-###Komplexität 
+### Komplexität 
 5
 
-###Anforderungen:
+### Anforderungen
 Alchemie Werkstatt 4, Alchemie Werkzeug 3, Superheißer Tiegel, Schmiede Werkstatt 3, Schmiede Werkzeug 2
 
-###Möglichkeiten
+### Möglichkeiten
 Assistenz(12): +1 Bonuswürfel max 2x
 Magische Temperaturstabilisierung (pro 5 pkt pro kg): Widrigkeitssteigerungszeit verdoppelt
 
-###Interval:
+### Interval
 1h
 
-###Widrigkeit
+### Widrigkeit
 3 
 
-###Effekte:
+### Effekte
 Widrigkeit zum Weiterverarbeiten steigt um 1 pro runde.
 1er resonanz führt zu explosion. Aufwandsvortschritt schaden -1/m &times;Resonanzhöhe
 Auch beim weiterverarbeiten
 
 
 
-###Cirit gegenstände
+### Cirit gegenstände
 
-###Material:
+### Material
 Serisem (cirit je 1 kg, schwert 1 kg, wurfmesser 1250g pro 5)
 
-###Aufwand: 
+### Aufwand
 10 pro cirit, 15 pro schwert, 20 pro 5 Wurfmesser
 
-###Komplexität 
+### Komplexität 
 3
 
-###Anforderungen: 
+### Anforderungen
 Langsames abkühlen/genaue temperaturkontrolle, Schmiede Werkstatt3, Schmiede Werkzeug 2
 
-###Möglichkeiten
+### Möglichkeiten
 Assistenz (12) +2 Bonuswürfel max 1x
 
-###Interval
+### Interval
 1 Runde
 
-###Widrigkeit:
+### Widrigkeit
 1
 
-###Effekte:
+### Effekte
 Startschden -2, bei vollem Aufwand kann Aufwand um 5 erhöht werden und fortschritt zurückgesetzt für +1 schaden
 Wurfmesser statt 3 schadensbonus +1 multiplikator
 
@@ -126,21 +126,21 @@ Wurfmesser statt 3 schadensbonus +1 multiplikator
 
 
 
-##Alchemie:
+## Alchemie
 
-###Schnellcrafting 
+### Schnellcrafting 
 (1Tag) 
 
-###Komplexität
+### Komplexität
 3 (gifte), 2 (feuer), +2 Rauchbombe jeweils
 
-###Zutaten
+### Zutaten
 50 silber/5
 
-####Paralyse
+#### Paralyse
 Wurf&times;1.5 ist Stärke, Wurf/3 - 2 Maluswürfel, bis neutralisiert, Giftwirkung -1 pro runde
 
-####Schlaf
+#### Schlaf
 Wurf&times;1.5 ist Stärke; Effekt :
 Giftvorteil: 1-3: -1 auf ergebnisse
 4-7: 2 Maluswürfel und -4 auf ergebnisse
@@ -150,7 +150,7 @@ Wenn begründet versucht wird aktiv wachzubleiben, reduziert ein Mut-Instinkt wu
 Giftwirkung +1 Pro Minute für Wurf runden
 Giftwirkung -1 Pro Stunde.
 
-####Brandbomben: 
+#### Brandbomben
 Wurf-8 wird aufgeteilt auf: Bonusradius, Dauer
 Radius 5+ Bonusradius
 Dauer: instant + Dauer

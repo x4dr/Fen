@@ -26,7 +26,7 @@ Mittlerweile Gildenmeisterin der Schneider in Seegard, Dame der High Society und
 
 
 
-## Kosten:
+## Kosten
 
 
 

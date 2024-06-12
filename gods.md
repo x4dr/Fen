@@ -19,7 +19,7 @@ Ateph Tempel sind weit verbreitet wenn auch meist sehr klein. Sie umfassen eine 
 Wissen Retten und einem Atephtempel zuführen, Bücher Schreiben, Wissen hüten.  
 #### Verärgern 
 Wissen in die falschen Hände fallen lassen, Wissen Missbrauchen.
-#### Segen:  
+#### Segen
 Ateph hilft manchmal bei dringenden Fragen weiter, Schützt vor Feuer (vor allem Wissen) oder entzündet Bedrohungen für den Gelehrten. Zu häufiges oder ungeschicktes Fragen kann auch zu Vergesslichkeit oder Feuer für den Betenden führen.
 _______
 ## Zadu

@@ -10,7 +10,7 @@ title: Avis
 
 ## Alter
 
-## Spezies:  
+## Spezies
 
 ## Charakterkonzept  
 Seemannsgarn Wettermagie?  Befehlsgewalt Navigation  

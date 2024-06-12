@@ -56,9 +56,9 @@ Modifikatoren bzw Handlungen die sich Widersprechen können nicht Kombiniert wer
 ## Effekt Forma  
 
 Kerneffekte des Zaubers  
-### Synergie Forma:  
+### Synergie Forma
 Verändern den Kerneffekt eines Zaubers  
-### Modifikator Forma:    
+### Modifikator Forma
 Modifizieren den Zauber ohne den Kerneffekt zu verändern.     
 Benötigt mindestens eine nicht Modifikator Forma im Zauber 
    

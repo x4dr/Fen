@@ -43,7 +43,7 @@ Wenn Kanalisiert wird, kann eine der beiden gezogenen Karten direkt abgelegt wer
 ## Zurückfedern
 Für jede 2 die als Teil eines Zaubers (nicht Aufrechterhaltung oder abwerfen) ausgegeben wird, kann eine beliebige Karte aus dem Ablagestapel zurück ins Deck gelegt werden. 
  
-## Größere Einstimmung:
+## Größere Einstimmung
 Die größere Einstimmung kann erreicht werden, in dem man sich in einen tranceartigen Zustand begibt, dies benötigt eine volle Aktion. Sie wird unterbrochen, wenn ein Treffer erlitten wird. Während die größere Einstimmung aktiv ist, kann jederzeit die oberste Karte des Decks angesehen werden.
 
 ### Licht der Erkenntnis

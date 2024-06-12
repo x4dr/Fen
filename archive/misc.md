@@ -21,7 +21,7 @@ aber ähnliche Waffen gelten als 1 niedriger als die Hauptwaffe, muss aber kompl
 
 
 
-### Tragekapazität:  
+### Tragekapazität
 
 
 
@@ -35,7 +35,7 @@ Falls der Spielleiter es für nötig hält kann er einen (Körperkraft,Ausdauer)
 
   
 
-### Lebenspunkte: 
+### Lebenspunkte
 
 LP=20+Ausdauer &ast; 5 + Gesundheit &ast; 5  
 
@@ -51,7 +51,7 @@ gewürfelt werden, bei jedem zusätzlichen Schaden oder einmal pro Minute wird d
 
 
 
-### Gifte und Krankheit:
+### Gifte und Krankheit
 
 Alle gifte haben eine Wirkstärke, jedes Gift hat einen anhand der Wirkstärke festgelegten Effekt.
 

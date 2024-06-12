@@ -31,7 +31,7 @@ Die Quelle kann mit allen mystischen Attributen kombiniert werden:
  - Flow: In stetigem nachjustieren wird ein größerer Strom Energie geschaffen während mental nachjustiert wird, um weder super noch subkritisch zu werden
  - Disziplin: Die Energie wird so angelegt, dass ein steter, selbst aufrechterhaltender Strom von Potenzial langsam genug kollabiert, um idealerweise nie komplett zusammenzubrechen und solange er ungestört bleibt weiter zu existieren
 
-### Kombinationen:
+### Kombinationen
 
  - Konzept: Das Konzept kann in den Wurf genommen zu werden um die chaotischen Energien dem Zauberernden abstrakter zur Verfügung gestellt werden, um den Aspekt des Zaubers weiter oder genauer Kombinieren zu können. Dies Erfordert das Ausüben des Konzeptes mit seinen vor und Nachteilen. Dies Beschränkt den Zauber auf die Anwendungs-/Wirkungsweise des Konzeptes
  - Beruf Magiekundiger: Der entsprechend magiekundige Beruf kann eingesetzt werden mit dem entsprechenden Handwerkszeug und identifizierbaren Handlungen und potenzieller Anwendung von Verbrauchsmaterialien größere Freiheiten zu erreichen. Der Zauber ist dann eingeschränkt auf etwas das der Beruf tun könnte/würde
@@ -76,7 +76,7 @@ Das Konzept kann mit allen mystischen Attributen kombiniert werden, ist verbesse
  - Flow: Beschäftigt beide Hände (2 Maluswürfel um nur eine Hand zu nutzen) in kreisenden/nachjustierenden Bewegungen und bildet eine bestehende Sichtbare, hörbare Lichtverbindung zwischen Zauberndem und Zauber, eine Runde Startup
  - Disziplin: Nach ausgeführtem Zauber (Mindestdauer eine Minute) sind die Symbole gut sichtbar an/um den Zaubernden zu sehen, der sie etwa einmal die Minute mit einer "freien Handlung" beidhändig nachbessern muss. Zählt in jeder Szene, in der der Zauber hereingetragen wird als ein gezauberter Zauber (keine Würfe notwendig, zieht aber Energie)
 
-### Kombinationen:
+### Kombinationen
 
 Wenn das Konzept nicht im Quellwurf benutzt wurde, muss es im Zauberwurf benutzt werden. Der Aspekt des gewünschten Effektes muss auch vertreten sein, kann aber auf 0 angewendet werden, sobald mindestens ein XP investiert wurde.
 

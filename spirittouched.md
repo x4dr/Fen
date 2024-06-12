@@ -65,7 +65,7 @@ and can only be surpressed for a few rounds with great concentration)
 
 
 
-### Der Grüne Pfad:
+### Der Grüne Pfad
 Pflanzen wachsen nur bis zu einem natürlichen "Erwachsenen" zustand
 Bonuslebenspunkte sind von normaler Wundheilung ausgeschlossen und wiegen 0.04(Bonus LP)² Kilogramm
 

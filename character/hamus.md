@@ -140,7 +140,7 @@ Hamus
 | Aspekt Gloom                | 1    |
 
 
-# Vorteile:
+# Vorteile
 
 want: Plänklermodus, allgemeine fernkampfdinge
 

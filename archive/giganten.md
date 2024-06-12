@@ -5,7 +5,7 @@ title: Giganten
 ---
 Vorerst megatalus spezifische Regeln:
 
-# Grundlegender Megatalus:
+# Grundlegender Megatalus
 
 8 Sektoren&times;(10&times;Konstitution) HP, mit jeweils 3 inhärenter Rüstung, 12 Widerstand (Verlorene Rüstung ist durch Ersatzteil zu reparieren)
 Keine Rüstungshalbierung vs Hammerschaden (Federstahl)
@@ -19,7 +19,7 @@ Ersatzteile und Reparaturteile wiegen 5&times; so viel und benötigen doppelt so
 
 Jeder Sektor muss einzeln gerüstet werden (mit normalen Rüstungsgewichten)
 
-Neue Gewichte (siehe [Home](home)) jeweils verfünffacht (Schwebstein reduziertes Eigengewicht ist Vorraussetzung für normale operation)
+Neue Gewichte (siehe [Home](index)) jeweils verfünffacht (Schwebstein reduziertes Eigengewicht ist Vorraussetzung für normale operation)
 
 Defensive ist 5 + Hälfte des normalen defensivwertes ( Besser von 0-9, schlechter von 11-20), was höhere Reichweite, Schildeffekt von höherer Panzerung, aber behäbigere Bewegung darstellt
 

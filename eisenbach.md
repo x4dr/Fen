@@ -7,7 +7,7 @@ title: Eisenbacher Region
 
 # Eisenbach
 approx 15 nach
-## Bevölkerung:
+## Bevölkerung
 Menschlich: 8612 Personen / 1060 Haushalte
 Argyrisch: 187 / 22 Haushalte
 Aurisch: 122 / 20 Haushalte

@@ -76,7 +76,7 @@ Manifestiert Rauch
 (12)14  
 *+2 Auf Zauber ergebnis, verbraucht 12-(artefakt@5) ladung 14/25
 
-## dinas godol loot:  
+## dinas godol loot
 ### Reich verziertes kronenähnliches Ding
 [Siehe Hier](https://staticdelivery.nexusmods.com/mods/110/images/5803-1-1328216150.jpg)
 (10)11  
