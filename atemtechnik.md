@@ -1,7 +1,7 @@
 ---
-outgoing links: []
-tags: []
-title: atemtechnik
+title: atemtechnik  
+tags: []  
+outgoing links: ''  
 ---
 Quelle, Nutzung von "Atem" -> Slots
 
@@ -21,3 +21,6 @@ Disziplin + Konzept = 5; Aspekt Körpertransformation + Standhalten = 2
  
 
 durchschnitt  5,2 = 12.6 = 13 [5,8,11,14] => 2 Bonuswürfel ?
+
+Wenn unterbrochen (Stark erschrekt, irgendwas wo es schwer wäre effekte aufrecht zu erhalten) Displin@5r2*(1-#active Effekte)
+jeder Erfolgsgrad erhät einen Effekt aufrecht.
