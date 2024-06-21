@@ -1,8 +1,8 @@
 ---
-outgoing links: []
-tags:
+title: Ragin  
+tags:   
+outgoing links: '[]'  
 - character
-title: Ragin
 ---
 
 # Charakter
@@ -193,7 +193,7 @@ Elemental Shifting
 | EyEsOfDaRkNeSs    | SSSS      |
 | Stabilität        | S         |
 | Wissen(Gebirge)   | SS        |
-| Navigation        | 1S1       |
+| Navigation        | 1S11      |
 | Rennen            | S         |
 | Wissen(Kulturen)  | SS        |
 | Wissen(Wald)      | SSSS      |
