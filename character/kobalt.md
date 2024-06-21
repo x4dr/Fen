@@ -1,7 +1,7 @@
 ---
-outgoing links: []
-tags: []
-title: Kobalt
+title: Kobalt  
+tags: []  
+outgoing links: ''  
 ---
 # Charakter
 |Detail|Inhalt|
@@ -141,6 +141,7 @@ hermticskill.jpg: 1/5
 Enrgfiefeldmanipulation 1/5
 Analyse 1/5
 quelle chaos: 1/5
+aspekttravelgravity: 1/5
 
 # Vorteile
 Lesen
