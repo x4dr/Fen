@@ -1,11 +1,10 @@
 ---
 title: Hamus  
 tags:   
-outgoing links: '[]'  
+outgoing links: ''  
 - Hamus
 - character
 ---
-
 # Charakter
 
 ## Name
@@ -177,6 +176,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Standhalten        | 2/5 | 0   | 1 |
 | Gloom              | 3/5 | 0   | 1 |
 | Archäologie/Looten | 3/5 | 0   | 2 |
+| Bindung Luck       | 1/5 | 0   | 0 |
 |                    |     |     | 0 |
 | Spinnensin         | 5/5 | 1   | 5 |
 | Infiltrator        | 0/5 | 1   | 0 |
