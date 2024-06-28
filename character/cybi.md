@@ -1,7 +1,7 @@
 ---
-outgoing links: []
-tags: []
-title: cybi
+title: cybi  
+tags: []  
+outgoing links: ''  
 ---
 # Charakter
 
@@ -202,7 +202,6 @@ Hamus, Steine, Mond und Shiny Stuff
 | Ausdauer           | 3/5   | 3 |
 | Handel             | 3/5   | 3 |
 | Empathie           | 2/5   | 2 |
-| Illusion           | 1/5   | 1 |
 | Überreden          | 1/5   | 1 |
 | Glitzer            | 1/5   | 1 |
 | Manifestation      | 4/5   | 4 |
@@ -221,7 +220,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Improvisation      | 3/5   | 2 |
 | Kräuterkunde       | 1/5   | 0 |
 | Mondlicht          | 3/5   | 2 |
-
+| Illusion           | 2/5   | 1 |
 
 # Inventar
 
@@ -232,7 +231,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Drachenkopf                       | 1       | 1       | -     | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
 | Kerze                             | 6       | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
 | Sternenkasten-Amulet              | 1       | -       | -     | Besteht aus blauem Goldfluss                                                                                                                       |
-| Edelstein (rot)                   | 1       | -       | 20    | Roter Stein                                                                                                                                        |
+| Edelstein (rot)                   | 1       | -       | 20    | Roter Stein 1/5                                                                                                                                        |
 | Abstrakter Artefaktkern           | 1       | -       | -     | Stein                                                                                                                                              |
 | Augenfarbentrank (schwarz)        | 1       | -       | 0,8   | Färbt die Augen für 4 Stunden schwarz.                                                                                                             |
 | Ausgebrannter Regenschirm         | 1       | -       | -     | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann.                                                                                          |
