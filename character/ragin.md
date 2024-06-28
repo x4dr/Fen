@@ -1,10 +1,9 @@
 ---
 title: Ragin  
 tags:   
-outgoing links: '[]'  
+outgoing links: ''  
 - character
 ---
-
 # Charakter
 
 ## Name
@@ -98,7 +97,7 @@ Fast Assassin
 | Taktik           | 1    |
 | Navigation       | 1    |
 | Wissen(Gravur)   | 1    |
-| Wissen(Wald)     | 1    |
+| Wissen(Wald)     | 2    |
 | Wissen(Gebirge)  | 1    |
 | Wissen(Kulturen) | 1    |
 
@@ -196,7 +195,7 @@ Elemental Shifting
 | Navigation        | 1S11      |
 | Rennen            | S         |
 | Wissen(Kulturen)  | SS        |
-| Wissen(Wald)      | SSSS      |
+| Wissen(Wald)      | SSSSS     |
 | Botenjudo         | S         |
 | Gesamt            |           |
 
