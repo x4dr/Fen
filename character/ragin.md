@@ -4,6 +4,7 @@ tags:
 outgoing links: ''  
 - character
 ---
+
 # Charakter
 
 ## Name
@@ -84,7 +85,7 @@ Fast Assassin
 | Attribut    | Level |
 |-------------|-------|
 | Wahrnehmung | 3     |
-| Bildung     | 1     |
+| Bildung     | 2     |
 | Geist       | 1     |
 
 
