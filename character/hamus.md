@@ -177,7 +177,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Quelle Sturm       | 2/5 | 0   | 1 |
 | Standhalten        | 2/5 | 0   | 1 |
 | Gloom              | 3/5 | 0   | 1 |
-| Archäologie/Looten | 3/5 | 0   | 2 |
+| Archäologie/Looten | 4/5 | 0   | 2 |
 | Bindung BadLuck    | 1/5 | 0   | 0 |
 |                    |     |     | 0 |
 | Spinnensin         | 5/5 | 1   | 5 |
