@@ -103,16 +103,17 @@ Hamus
 
 ### Fähigkeiten
 
-| Fähigkeit     | Wert |
-|---------------|------|
-| Unauffällig   | 2    |
-| Infiltrator   | 2    |
-| Ermitteln     | 2    |
-| Munitionierer | 2    |
-| Fischer       | 1    |
-| Mechanik      | 1    |
-| Appraisal     | 1    |
-| Accounting    | 1    |
+| Fähigkeit          | Wert |
+|--------------------|------|
+| Unauffällig        | 2    |
+| Infiltrator        | 2    |
+| Ermitteln          | 2    |
+| Munitionierer      | 2    |
+| Fischer            | 1    |
+| Mechanik           | 1    |
+| Appraisal          | 1    |
+| Accounting         | 1    |
+| Archäologie/Looten | 0    |
 
 
 ## Mystisch
