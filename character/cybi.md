@@ -1,6 +1,6 @@
 ---
 title: cybi  
-tags: []  
+tags:   
 outgoing links: ''  
 ---
 # Charakter
@@ -219,8 +219,8 @@ Hamus, Steine, Mond und Shiny Stuff
 | Kreaturenwissen    | 1/5   | 1 |
 | Improvisation      | 3/5   | 2 |
 | Kräuterkunde       | 1/5   | 0 |
-| Mondlicht          | 3/5   | 2 |
 | Illusion           | 2/5   | 1 |
+| Mondlicht          | 4/5   | 2 |
 
 # Inventar
 
