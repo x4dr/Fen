@@ -221,6 +221,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Kräuterkunde       | 1/5   | 0 |
 | Illusion           | 2/5   | 1 |
 | Mondlicht          | 4/5   | 2 |
+| Diagnostik         | 1/5   | 0 |
 
 # Inventar
 
