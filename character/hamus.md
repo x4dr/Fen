@@ -175,7 +175,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Animal Companion   | 2/5 | 1   | 1 |
 | Support            | 1/5 | 1   | 1 |
 | Quelle Sturm       | 3/5 | 0   | 1 |
-| Standhalten        | 2/5 | 0   | 1 |
+| Standhalten        | 3/5 | 0   | 1 |
 | Gloom              | 3/5 | 0   | 1 |
 | Archäologie/Looten | 4/5 | 0   | 2 |
 | Bindung BadLuck    | 1/5 | 0   | 0 |

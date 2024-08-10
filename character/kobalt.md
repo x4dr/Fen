@@ -142,6 +142,7 @@ Enrgfiefeldmanipulation 1/5
 Analyse 1/5
 quelle chaos: 1/5
 aspekttravelgravity: 1/5
+avisnimdung 1/5
 
 # Vorteile
 Lesen
@@ -173,3 +174,6 @@ Einen sternenkasten ausweis
 GLOWY RESONATING ORB  -> Loads on 4 resonanz, Frost/Order Aspekted, Disciplin Aspected, 20 Cap
 the uncut gem from childhood
 Armband for easy scrying (electronische fusfessel biarva)
+
+Hover Bed (for sex) fancy moves at speed determined by cast, can be raised up to 3 meters
+suspension

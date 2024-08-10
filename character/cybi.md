@@ -148,7 +148,7 @@ Hamus, Steine, Mond und Shiny Stuff
 
 | Fähigkeit | Wert |
 |-----------|------|
-| Mondlicht | 1    |
+| Mondlicht | 2    |
 
 
 ### Aspekt
@@ -220,8 +220,8 @@ Hamus, Steine, Mond und Shiny Stuff
 | Improvisation      | 3/5   | 2 |
 | Kräuterkunde       | 1/5   | 0 |
 | Illusion           | 2/5   | 1 |
-| Mondlicht          | 4/5   | 2 |
 | Diagnostik         | 1/5   | 0 |
+| Mondlicht          | 0/5 1 | 2 |
 
 # Inventar
 
@@ -244,11 +244,11 @@ Hamus, Steine, Mond und Shiny Stuff
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |----------------------|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 17/20  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 15/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Geschenk von Hamus   | -      | -       | Erzeugt bei Aktivierung eine Druckwelle, die alles in einem Radius wegschiebt.                                                                                                                                                                          | ?      |
-
+| Medkit               | 5      | -       | Heilung von Statuseffekten und Verletzungen                                                                                                                                                                          | ?      |
 
 ## Besitz
 

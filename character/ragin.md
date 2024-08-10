@@ -4,6 +4,7 @@ tags:
 outgoing links: ''  
 - character
 ---
+
 # Charakter
 
 ## Name
@@ -198,7 +199,7 @@ Elemental Shifting
 | Wissen(Wald)      | SSSSS     |
 | Botenjudo         | S         |
 | Irreführung       | S         |
-| Gesamt            |           |
+| Bote              | S         |
 
 
 # Inventar
