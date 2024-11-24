@@ -140,7 +140,7 @@ Fast Assassin
 | Fähigkeit       | Wert |
 |-----------------|------|
 | Schattenschritt | 3    |
-| EyEsOfDaRkNeSs  | 2    |
+| EyEsOfDaRkNeSs  | 3    |
 | Okysa           | 2    |
 | Belos           | 1    |
 | Stabilität      | 0    |
@@ -190,16 +190,17 @@ Elemental Shifting
 | Autorität         | SSSSS     |
 | Tratsch           | SSS       |
 | Eispicke          | SSS       |
-| EyEsOfDaRkNeSs    | SSSS      |
-| Stabilität        | S         |
+| EyEsOfDaRkNeSs    | SSSSS     |
+| Stabilität        | SS        |
 | Wissen(Gebirge)   | SS        |
 | Navigation        | 1S11      |
 | Rennen            | S         |
 | Wissen(Kulturen)  | SS        |
 | Wissen(Wald)      | SSSSS     |
 | Botenjudo         | S         |
-| Irreführung       | S         |
+| Irreführung       | SSSS      |
 | Bote              | S         |
+| Sturm             | S         |
 
 
 # Inventar
@@ -232,3 +233,4 @@ Elemental Shifting
 Ladungen:
 Freeze Messa (1/1)
 Shadowstep Rüstung (3/3)
+void-Messa-Scheiden-Projekt-Fortschritt 9/?

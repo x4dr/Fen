@@ -1,15 +1,14 @@
 ---
-outgoing links: []
-tags: []
-title: Testcharakter
+title: Testcharakter  
+tags:   
+outgoing links: ''  
 ---
-
 # Charakter
 
 ## Name
 Alec
 ## Alter
-24
+31
 ## Größe
 177cm
 ## Gildenzugehörigkeit

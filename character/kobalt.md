@@ -101,7 +101,7 @@ outgoing links: ''
 | AspektAssemblyRunen | 1 |
 | KonzeptChaosCasting | 2 |
 | AspektArkan | 2 |
-| AspektBlitz | 1 |
+| AspektBlitz | 2 |
 | Avisbindung | 1 |
 | AspektTravelGravity | 2 |
 | PerfektChaos | 1 | 
@@ -124,13 +124,13 @@ Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
 Konzept: Chaos Casting 3/5
-AspektLighting 4/5
+AspektLighting 5/5
 PerfektChaos 1/5
 Kraft: 1/5
 Ermitteln: 1/5
 Konzept Runic assembly: 1/5
 aspekt runic assembly: 1/5
-AspektIce: 2/5
+AspektIce: 3/5
 Seduction 3/5
 Chaos 2/5
 Dozieren 1/5
@@ -143,6 +143,7 @@ Analyse 1/5
 quelle chaos: 1/5
 aspekttravelgravity: 1/5
 avisnimdung 1/5
+irrefuehrung 1/5
 
 # Vorteile
 Lesen

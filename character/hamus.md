@@ -113,7 +113,7 @@ Hamus
 | Mechanik           | 1    |
 | Appraisal          | 1    |
 | Accounting         | 1    |
-| Archäologie/Looten | 0    |
+| Archäologie/Looten | 1    |
 
 
 ## Mystisch
@@ -124,7 +124,7 @@ Hamus
 |---------------|-------|
 | Konzentration | 1     |
 | Disziplin     | 5     |
-| Flow          | 1     |
+| Flow          | 3     |
 
 
 ### Fähigkeiten
@@ -133,12 +133,14 @@ Hamus
 |-----------------------------|------|
 | Gefahrensin                 | 3    |
 | Spurenlos                   | 3    |
-| Tiergefährte                | 2    |
+| Tiergefährte                | 3    |
 | Zielsicher                  | 2    |
 | Atemtechnik                 | 1    |
 | Paranoia                    | 1    |
 | Aspekt Körpertransformation | 1    |
 | Aspekt Gloom                | 1    |
+| Quelle Sturm                | 1    |
+| Bindung BadLuck             | 0    |
 
 
 # Vorteile
@@ -172,13 +174,12 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Appraisal          | 2/5 | 0   | 2 |
 | Taktik             | 3/5 | 0   | 3 |
 | Handgemenge        | 2/5 | 0   | 2 |
-| Animal Companion   | 2/5 | 1   | 1 |
 | Support            | 1/5 | 1   | 1 |
-| Quelle Sturm       | 3/5 | 0   | 1 |
-| Standhalten        | 3/5 | 0   | 1 |
-| Gloom              | 3/5 | 0   | 1 |
-| Archäologie/Looten | 4/5 | 0   | 2 |
+| Quelle Sturm       | 0/5 | 1   | 1 |
+| Standhalten        | 4/5 | 0   | 1 |
+| Gloom              | 4/5 | 0   | 1 |
 | Bindung BadLuck    | 1/5 | 0   | 0 |
+| Archäologie/Looten | 0/5 | 1   | 2 |
 |                    |     |     | 0 |
 | Spinnensin         | 5/5 | 1   | 5 |
 | Infiltrator        | 0/5 | 1   | 0 |
@@ -189,6 +190,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Paranoia           | 0/5 | 1   | 0 |
 | Layouts            | 5/5 | 1   | 5 |
 | Munitionierer      | 0/5 | 1   |   |
+| Animal Companion   | 5/5 | 1   | 1 |
 
 
 # Inventar
@@ -243,4 +245,5 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 
 ## Ausrüstung
-Notgroschen 33,95s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann
+Notgroschen dabei 10s
+Notgroschen Eisenbach 33,95s +1 wertvoller Edelstein (Vom expoldierten Heist), 3/4 L Whisky vom Wachhauptmann
