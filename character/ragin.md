@@ -4,7 +4,6 @@ tags:
 outgoing links: ''  
 - character
 ---
-
 # Charakter
 
 ## Name
@@ -140,7 +139,7 @@ Fast Assassin
 | Fähigkeit       | Wert |
 |-----------------|------|
 | Schattenschritt | 3    |
-| EyEsOfDaRkNeSs  | 2    |
+| EyEsOfDaRkNeSs  | 3    |
 | Okysa           | 2    |
 | Belos           | 1    |
 | Stabilität      | 0    |
@@ -165,6 +164,8 @@ Zeichensprache
 Adrenalinflut
 verstecktes Messer
 Elemental Shifting
+Crystalizing woulds
+Shadow blood
 
 # Fortschritt
 
@@ -190,7 +191,7 @@ Elemental Shifting
 | Autorität         | SSSSS     |
 | Tratsch           | SSS       |
 | Eispicke          | SSS       |
-| EyEsOfDaRkNeSs    | SSSS      |
+| EyEsOfDaRkNeSs    | SSSSS     |
 | Stabilität        | S         |
 | Wissen(Gebirge)   | SS        |
 | Navigation        | 1S11      |

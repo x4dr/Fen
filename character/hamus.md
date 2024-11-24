@@ -5,7 +5,6 @@ outgoing links: ''
 - Hamus
 - character
 ---
-
 # Charakter
 
 ## Name
@@ -113,7 +112,7 @@ Hamus
 | Mechanik           | 1    |
 | Appraisal          | 1    |
 | Accounting         | 1    |
-| Archäologie/Looten | 0    |
+| Archäologie/Looten | 1    |
 
 
 ## Mystisch
@@ -177,7 +176,6 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Quelle Sturm       | 3/5 | 0   | 1 |
 | Standhalten        | 3/5 | 0   | 1 |
 | Gloom              | 3/5 | 0   | 1 |
-| Archäologie/Looten | 4/5 | 0   | 2 |
 | Bindung BadLuck    | 1/5 | 0   | 0 |
 |                    |     |     | 0 |
 | Spinnensin         | 5/5 | 1   | 5 |
@@ -189,6 +187,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Paranoia           | 0/5 | 1   | 0 |
 | Layouts            | 5/5 | 1   | 5 |
 | Munitionierer      | 0/5 | 1   |   |
+| Archäologie/Looten | 5/5 | 0   | 2 |
 
 
 # Inventar

@@ -101,7 +101,7 @@ outgoing links: ''
 | AspektAssemblyRunen | 1 |
 | KonzeptChaosCasting | 2 |
 | AspektArkan | 2 |
-| AspektBlitz | 1 |
+| AspektBlitz | 2 |
 | Avisbindung | 1 |
 | AspektTravelGravity | 2 |
 | PerfektChaos | 1 | 
@@ -124,7 +124,6 @@ Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
 Konzept: Chaos Casting 3/5
-AspektLighting 4/5
 PerfektChaos 1/5
 Kraft: 1/5
 Ermitteln: 1/5
@@ -142,7 +141,7 @@ Enrgfiefeldmanipulation 1/5
 Analyse 1/5
 quelle chaos: 1/5
 aspekttravelgravity: 1/5
-avisnimdung 1/5
+avisnimdung 2/5
 
 # Vorteile
 Lesen
