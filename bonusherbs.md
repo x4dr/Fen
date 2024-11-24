@@ -1,10 +1,13 @@
 ---
-outgoing links: []
-tags: []
-title: Kräuter!
+title: Kräuter!  
+tags: []  
+outgoing links: ''  
 ---
 [TOC]
 
+# Prekor
+
+## Eisenbacher Region
 ### Silberglocke
 5/12/16
 Wächst vorallem in kalten gebieten
@@ -256,3 +259,12 @@ Oft mit Fieberkuss verwechselt, wesentlich milder, hilft bei äußerer Anwendung
 ### Sorglos
 5/+3
 Hübsche Blumen deren Geruch dabei hilft die gute Seite von Dingen zu sehen. Essbar.
+
+
+# Rerak das Wolkenkönigreich
+
+## Ladilin 
+
+### Egelfeu
+8/+1 im tiefen Dschungel von Ladilin
+Große Gelbe Blumen die auf friedlichen Wiesen wachsen, einatmen der Pollen erschafft eine lokal-geteilte Traumwelt mit hoher "Echtheit", wiederholt sich beim verlassen der Gegend, betroffene Person ist komplett Bewusstlos und schwer zu wecken.

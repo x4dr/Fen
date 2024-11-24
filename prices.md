@@ -1,7 +1,7 @@
 ---
-outgoing links: []
-tags: []
-title: Preise
+title: Preise  
+tags: []  
+outgoing links: ''  
 ---
 |Name | Preis | Gewicht |
 |:---|---:|---: |
@@ -50,6 +50,7 @@ title: Preise
 | Basic Ration | 30k | 1kg |
 | Foraged Ration | 10k | 1kg |
 | Fancy Ration | 50k | 1kg |
+| Generally Useful Consumable | 2s | 1kg |
 | camping gear (Zelt, Schlafsack) | 1s | 5kg |
 | Handwerkszeug Q1 | 1s | 1kg|
 | Handwerkszeug Q2 | 5s | 3kg|

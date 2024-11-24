@@ -1,8 +1,8 @@
 ---
-outgoing links: []
-tags:
+title: hamus familienweisheiten  
+tags:   
+outgoing links: ''  
 - Hamus
-title: hamus familienweisheiten
 ---
 # Hamus Papa
 ### wenn man etwas gutes erreichen will und etwas gutes passiert, dann kann man auch Mal ein Auge zudrücken was zwischen durch passiert ist
@@ -15,6 +15,7 @@ title: hamus familienweisheiten
 ### Spachen lernen ist nicht schwer, du musst lernen die Menschen zu verstehen
 ### Gib die Nachricht nie dem Boten mit
 ### Ist das messer in deinem Rücken, weißt du wenigstens wo es ist
+### Wenn man weiß wer du bist, dann hast du was falsch gemacht
 
 
 
