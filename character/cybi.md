@@ -124,7 +124,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Attribut      | Level |
 |---------------|-------|
 | Konzentration | 2     |
-| Disziplin     | 2     |
+| Disziplin     | 3     |
 | Flow          | 3     |
 
 
@@ -156,7 +156,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Fähigkeit     | Wert |
 |---------------|------|
 | Illusion      | 2    |
-| Manifestation | 2    |
+| Manifestation | 3    |
 | Lebensmagie   | 1    |
 
 
@@ -198,11 +198,11 @@ Hamus, Steine, Mond und Shiny Stuff
 | Lebensmagie        | 1/5   | 1 |
 | Irreführung        | 0/5 1 | 0 |
 | Wechselwirkung     | 1/5   | 1 |
+| Ausdauer           | 3/5   | 3 |
 | Handel             | 3/5   | 3 |
 | Empathie           | 2/5   | 2 |
 | Überreden          | 1/5   | 1 |
 | Glitzer            | 1/5   | 1 |
-| Manifestation      | 4/5   | 4 |
 | Heilen             | 0/5 1 | 0 |
 | Philosophie        | 1/5   | 1 |
 | Etiquette          | 3/5   | 3 |
@@ -215,10 +215,11 @@ Hamus, Steine, Mond und Shiny Stuff
 | Feinschmied        | 1/5   | 2 |
 | Rennen             | 2/5   | 1 |
 | Improvisation      | 3/5   | 2 |
-| Kräuterkunde       | 1/5   | 0 |
 | Illusion           | 2/5   | 1 |
 | Diagnostik         | 1/5   | 0 |
 | Mondlicht          | 0/5 1 | 2 |
+| Kräuterkunde       | 2/5   | 0 |
+| Wechselwirkung     | 2/5   | 1 |
 | Instinkt           | 1/5   | 0 |
 | Ausdauer           | 4/5   | 3 |
 | Kreaturenwissen    | 2/5   | 1 |
@@ -228,10 +229,9 @@ Hamus, Steine, Mond und Shiny Stuff
 
 | Name                              | Anzahl  | Gewicht | Preis | Beschreibung                                                                                                                                       |
 |-----------------------------------|---------|---------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kupfer                            | 20      | 0       | 20    | Währung                                                                                                                                            |
-| Torf                              | 1 Faust | 0,1     | -     | Brennmaterial                                                                                                                                      |
+| Kupfer                            | 20      | 0       | 20    | Währung                                                                                                                                            |                                                                                                                                     |
 | Drachenkopf                       | 1       | 1       | -     | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
-| Kerze                             | 6       | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
+| Kerze                             | 5       | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
 | Sternenkasten-Amulet              | 1       | -       | -     | Besteht aus blauem Goldfluss                                                                                                                       |
 | Edelstein (rot)                   | 1       | -       | 20    | Roter Stein 1/5                                                                                                                                    |
 | Abstrakter Artefaktkern           | 1       | -       | -     | Stein                                                                                                                                              |
@@ -246,7 +246,7 @@ Hamus, Steine, Mond und Shiny Stuff
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |----------------------|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 12/20  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 13/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Medkit               | 4      | -       | Heilung von Statuseffekten und Verletzungen                                                                                                                                                                                                             | ?      |

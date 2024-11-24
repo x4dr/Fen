@@ -5,7 +5,6 @@ outgoing links: ''
 - Hamus
 - character
 ---
-
 # Charakter
 
 ## Name
@@ -113,7 +112,7 @@ Hamus
 | Mechanik           | 1    |
 | Appraisal          | 1    |
 | Accounting         | 1    |
-| Archäologie/Looten | 1    |
+| Archäologie/Looten | 2    |
 
 
 ## Mystisch
@@ -174,6 +173,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Appraisal          | 2/5 | 0   | 2 |
 | Taktik             | 3/5 | 0   | 3 |
 | Handgemenge        | 2/5 | 0   | 2 |
+| Animal Companion   | 2/5 | 1   | 1 |
 | Support            | 1/5 | 1   | 1 |
 | Quelle Sturm       | 0/5 | 1   | 1 |
 | Standhalten        | 4/5 | 0   | 1 |

@@ -93,19 +93,19 @@ outgoing links: ''
 | Flow | 1 |
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Chaos|1|
-|Geordnet|1|
-| KonzeptRunicAssemblyLanguage | 2 |
-| AspektAssemblyRunen | 1 |
-| KonzeptChaosCasting | 2 |
-| AspektArkan | 2 |
-| AspektBlitz | 2 |
-| Avisbindung | 1 |
-| AspektTravelGravity | 2 |
-| PerfektChaos | 1 | 
-| Scrying | 1 | 
+|Fähigkeit| Wert |
+|-|------|
+|Chaos| 1    |
+|Geordnet| 1    |
+| KonzeptRunicAssemblyLanguage | 2    |
+| AspektAssemblyRunen | 1    |
+| KonzeptChaosCasting | 2    |
+| AspektArkan | 2    |
+| AspektBlitz | 3    |
+| Avisbindung | 1    |
+| AspektTravelGravity | 2    |
+| PerfektChaos | 1    | 
+| Scrying | 1    | 
 
 ## Schiksal
 ### Attribute 
@@ -142,7 +142,7 @@ Enrgfiefeldmanipulation 1/5
 Analyse 1/5
 quelle chaos: 1/5
 aspekttravelgravity: 1/5
-avisnimdung 1/5
+avisnimdung 2/5
 irrefuehrung 1/5
 
 # Vorteile

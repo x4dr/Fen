@@ -165,6 +165,8 @@ Zeichensprache
 Adrenalinflut
 verstecktes Messer
 Elemental Shifting
+Crystalizing wounds
+Shadow blood
 
 # Fortschritt
 
