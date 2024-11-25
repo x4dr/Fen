@@ -1,7 +1,7 @@
 ---
-title: cybi  
-tags:   
-outgoing links: ''  
+outgoing links: []
+tags: []
+title: cybi
 ---
 # Charakter
 
