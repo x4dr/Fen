@@ -1,9 +1,10 @@
 ---
 title: Hamus  
 tags:   
+  - Hamus
+  - character
 outgoing links: ''  
-- Hamus
-- character
+
 ---
 # Charakter
 
