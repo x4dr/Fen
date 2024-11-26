@@ -147,6 +147,7 @@ Vollstrecker
 |:------------------|:----------|---|
 |                   |           | 0 |
 | testskill         | 3         | 1 |
+| asd               | 1         |   |
 
 
 # Inventar
