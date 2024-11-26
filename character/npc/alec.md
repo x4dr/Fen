@@ -87,7 +87,7 @@ Vollstrecker
 | Suchen        | 2    |
 | Taktik        | 1    |
 | Materialkunde | 1    |
-| Metallgilde   | 2    |
+| Metallgilde   | 1    |
 | Navigation    | 1    |
 
 
@@ -154,6 +154,7 @@ Vollstrecker
 | Name       | Anzahl | Gewicht | Preis |
 |------------|--------|---------|-------|
 | [!q:sword] |        |         |       |
+
 
 
 ## Ausrüstung
