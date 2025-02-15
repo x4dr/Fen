@@ -46,7 +46,7 @@ Ein Charakter der mehr als Einblick + MagieHandwerk (+ Entsprechende Vorteile) A
 Ein doppeltes Überschreiten dieses Maximalwertes löst Magische Rückkopplung bei normaler 1er-Resonanz aus.
 
 # Physik
-Es gibt keine Physik. Jeder Effekt ist durch die unten genannten Regeln nur da abgedeckt wo es gerade Sinn ergibt. Die selben Effekte folgen meist den selben Regeln und die Regeln dienen nur dazu Näherungen zu den Effekten innerhalb der Welt zu sein, aber selbst dort gibt es keinen Grund warum es in Fen keine unterschiedliche Formen zB von Kälte geben sollte, die unterschiedlich auf Hitzequellen, isolation und Wasser reagieren können. Nichts verbietet Wasser das Trinkbar, rein und perfekt Flüssig ist aber weit Kälter als 0 Grad ist. Normalerweise gefriert Wasser bei 0 Grad. Wenn es aber irgendwo einen Grund gibt, sei dies der Wille eines Gottes oder die Forschung eines Alchemisten, dann sind die Gesetze der Physik eher höfliche aber nicht zwingende Empfehlungen.
+Es gibt keine Physik. Jeder Effekt ist durch die unten genannten Regeln nur da abgedeckt wo es gerade Sinn ergibt. Die selben Effekte folgen meist den selben Regeln und die Regeln dienen nur dazu Näherungen zu den Effekten innerhalb der Welt zu sein, aber selbst dort gibt es keinen Grund warum es in Fen keine unterschiedliche Formen z.B. von Kälte geben sollte, die unterschiedlich auf Hitzequellen, isolation und Wasser reagieren können. Nichts verbietet Wasser das Trinkbar, rein und perfekt Flüssig ist aber weit Kälter als 0 Grad ist. Normalerweise gefriert Wasser bei 0 Grad. Wenn es aber irgendwo einen Grund gibt, sei dies der Wille eines Gottes oder die Forschung eines Alchemisten, dann sind die Gesetze der Physik eher höfliche aber nicht zwingende Empfehlungen.
 
 ## Licht
 ### Lichtstärke
