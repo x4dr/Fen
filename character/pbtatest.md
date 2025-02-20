@@ -29,10 +29,11 @@ GTA City
 
 # Health
 
-| Type | Amount |
-| Stress | 2/7 |
-| Trauma | 1/4 |
-| Healing | 2/4 |
+| Type | Current | Maximum|
+| ---  | --- | --- |
+| Stress | 2 | 7|
+| Trauma | 1 | 4|
+| Healing | 2 | 4|
 
 
 # Moves
