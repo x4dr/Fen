@@ -4,14 +4,30 @@ tags:
 - ''
 title: PBTA Testcharacter
 ---
-
 # Info
 
 ## Name
 Testchar
 
-## Player Name
-Sheettester
+## Alias
+intern
+
+## Player
+sheettester
+
+
+## Look
+dumb
+
+## Heritage
+human
+
+## Background
+Windows XP Wallpaper
+
+## Vice
+GTA City
+
 
 # Moves
 
