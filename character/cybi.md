@@ -3,6 +3,7 @@ outgoing links: []
 tags: []
 title: cybi
 ---
+
 # Charakter
 
 ## Name
@@ -227,19 +228,19 @@ Hamus, Steine, Mond und Shiny Stuff
 
 # Inventar
 
-| Name                              | Anzahl  | Gewicht | Preis | Beschreibung                                                                                                                                       |
-|-----------------------------------|---------|---------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kupfer                            | 20      | 0       | 20    | Währung                                                                                                                                            |                                                                                                                                     |
-| Drachenkopf                       | 1       | 1       | -     | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
-| Kerze                             | 5       | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
-| Sternenkasten-Amulet              | 1       | -       | -     | Besteht aus blauem Goldfluss                                                                                                                       |
-| Edelstein (rot)                   | 1       | -       | 20    | Roter Stein 1/5                                                                                                                                    |
-| Abstrakter Artefaktkern           | 1       | -       | -     | Stein                                                                                                                                              |
-| Augenfarbentrank (schwarz)        | 1       | -       | 0,8   | Färbt die Augen für 4 Stunden schwarz.                                                                                                             |
-| Ausgebrannter Regenschirm         | 1       | -       | -     | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann.                                                                                          |
-| Schwarze Kugel mit weißen Punkten | 1       | -       | -     | Mini-Planetarium                                                                                                                                   |
-| Zettel mit sentinisch             | 1       | -       | -     | Bekommen von kunstinteressiertem Studenten auf der Suche nach der echten wahren Wahrheit                                                           |
-| Steintafeln mit Symbolen          | 5       | -       | -     | Aus den Energiesteinen entnommen.                                                           |
+| Name                              | Anzahl | Gewicht | Preis | Beschreibung                                                                                                                                       |
+|-----------------------------------|--------|---------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kupfer                            | 20     | 0       | 20    | Währung                                                                                                                                            |
+| Drachenkopf                       | 1      | 1       | -     | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
+| Kerze                             | 5      | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
+| Sternenkasten-Amulet              | 1      | -       | -     | Besteht aus blauem Goldfluss                                                                                                                       |
+| Edelstein (rot)                   | 1      | -       | 20    | Roter Stein 1/5                                                                                                                                    |
+| Abstrakter Artefaktkern           | 1      | -       | -     | Stein                                                                                                                                              |
+| Augenfarbentrank (schwarz)        | 1      | -       | 0,8   | Färbt die Augen für 4 Stunden schwarz.                                                                                                             |
+| Ausgebrannter Regenschirm         | 1      | -       | -     | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann.                                                                                          |
+| Schwarze Kugel mit weißen Punkten | 1      | -       | -     | Mini-Planetarium                                                                                                                                   |
+| Zettel mit sentinisch             | 1      | -       | -     | Bekommen von kunstinteressiertem Studenten auf der Suche nach der echten wahren Wahrheit                                                           |
+| Steintafeln mit Symbolen          | 5      | -       | -     | Aus den Energiesteinen entnommen.                                                                                                                  |
 
 
 ## Ausrüstung

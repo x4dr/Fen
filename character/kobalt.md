@@ -3,117 +3,144 @@ outgoing links: []
 tags: []
 title: Kobalt
 ---
+
 # Charakter
-|Detail|Inhalt|
-|-|-|
-|Name | Kobalt|
-|Alter | 17 |
-|Größe|180cm|
-|Sex|Yes (?)|
-|Horny|on main|
+
+| Detail | Inhalt  |
+|--------|---------|
+| Name   | Kobalt  |
+| Alter  | 17      |
+| Größe  | 180cm   |
+| Sex    | Yes (?) |
+| Horny  | on main |
+
 
 # Werte
+
 ## Physisch
+
 ### Attribute
-|Attribut|Level|
-|-|-|
-| Kon | 2 |
-| Agi | 2 |
-| Ges | 1 |
+
+| Attribut | Level |
+|----------|-------|
+| Kon      | 2     |
+| Agi      | 2     |
+| Ges      | 1     |
+
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Fusarbeit|2|
-|Acrobatics|2|
-|Kontrolle|2|
-|Widerstand|2|
-|Stärke|1|
+
+| Fähigkeit  | Wert |
+|------------|------|
+| Fusarbeit  | 2    |
+| Acrobatics | 2    |
+| Kontrolle  | 2    |
+| Widerstand | 2    |
+| Stärke     | 1    |
+
 
 ## Sozial
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Durchsetzungsvermögen | 1 |
-| Sympathie | 2 |
-| Eindruck | 1 |
+
+### Attribute
+
+| Attribut              | Level |
+|-----------------------|-------|
+| Durchsetzungsvermögen | 1     |
+| Sympathie             | 2     |
+| Eindruck              | 1     |
 
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Befragung|1|
-|Irrefuehrung|1|
-|Irreverence| 3 |
-| Seduction | 2 | 
+
+| Fähigkeit    | Wert |
+|--------------|------|
+| Befragung    | 1    |
+| Irrefuehrung | 1    |
+| Irreverence  | 3    |
+| Seduction    | 2    |
+
 
 ## Mental
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Wahrnehmung | 1 |
-| Bildung | 2 |
-| Geist | 3 |
+
+### Attribute
+
+| Attribut    | Level |
+|-------------|-------|
+| Wahrnehmung | 1     |
+| Bildung     | 2     |
+| Geist       | 3     |
 
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Forschung|2|
-|Ermitteln|1|
-|Mathematik|1|
-|Arcana|2|
-|Suchen|1|
-|Naturphilosophie|1|
-|Analyse|2|
+
+| Fähigkeit        | Wert |
+|------------------|------|
+| Forschung        | 2    |
+| Ermitteln        | 1    |
+| Mathematik       | 1    |
+| Arcana           | 2    |
+| Suchen           | 1    |
+| Naturphilosophie | 1    |
+| Analyse          | 2    |
 
 
 ## Können
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Theorie | 1 |
-| Praxis | 1 |
-| Einblick | 1 |
+
+### Attribute
+
+| Attribut | Level |
+|----------|-------|
+| Theorie  | 1     |
+| Praxis   | 1     |
+| Einblick | 1     |
 
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Kalligraphie|1|
-|Wizard|2|
-|MagieHandwerk|1|
+
+| Fähigkeit     | Wert |
+|---------------|------|
+| Kalligraphie  | 1    |
+| Wizard        | 2    |
+| MagieHandwerk | 1    |
+
 
 ## Mystisch
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Konzentration | 5 |
-| Disziplin | 2 |
-| Flow | 1 |
+
+### Attribute
+
+| Attribut      | Level |
+|---------------|-------|
+| Konzentration | 5     |
+| Disziplin     | 2     |
+| Flow          | 1     |
+
 
 ### Fähigkeiten
-|Fähigkeit| Wert |
-|-|------|
-|Chaos| 1    |
-|Geordnet| 1    |
+
+| Fähigkeit                    | Wert |
+|------------------------------|------|
+| Chaos                        | 1    |
+| Geordnet                     | 1    |
 | KonzeptRunicAssemblyLanguage | 2    |
-| AspektAssemblyRunen | 1    |
-| KonzeptChaosCasting | 2    |
-| AspektArkan | 2    |
-| AspektBlitz | 3    |
-| Avisbindung | 1    |
-| AspektTravelGravity | 2    |
-| PerfektChaos | 1    | 
-| Scrying | 1    | 
+| AspektAssemblyRunen          | 1    |
+| KonzeptChaosCasting          | 2    |
+| AspektArkan                  | 2    |
+| AspektBlitz                  | 3    |
+| Avisbindung                  | 1    |
+| AspektTravelGravity          | 2    |
+| PerfektChaos                 | 1    |
+| Scrying                      | 1    |
+
 
 ## Schiksal
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Wille | 4 |
-| Gunst | 2 |
-| Schicksal | 4 |
+
+### Attribute
+
+| Attribut  | Level |
+|-----------|-------|
+| Wille     | 4     |
+| Gunst     | 2     |
+| Schicksal | 4     |
 
 
 # Fortschritt
@@ -157,18 +184,16 @@ RemoteCastingInField
 # Spells
 Slowfall
 
-
 # NOTES
-
-
 
 # Inventar
 
 Einen sternenkasten ausweis
 
-|Name|Anzahl|Gewicht|Preis|
-|---|---|---|---|
-|||||
+| Name | Anzahl | Gewicht | Preis |
+|------|--------|---------|-------|
+|      |        |         |       |
+
 
 ## Ausrüstung
 

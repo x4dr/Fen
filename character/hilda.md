@@ -4,188 +4,221 @@ tags:
 - character
 title: Hilda
 ---
+
 # Charakter
-|Detail|Inhalt|
-|-|-|
-|Name | Hilda|
-|Alter | 15 |
-|Größe| 155cm |
-|Talent|Mystisch = bei alle Würfen mit mystischen Fähigkeiten ist das Ergebnis um 1 zu erhöhen|
-|...|?|
+
+| Detail | Inhalt                                                                                 |
+|--------|----------------------------------------------------------------------------------------|
+| Name   | Hilda                                                                                  |
+| Alter  | 15                                                                                     |
+| Größe  | 155cm                                                                                  |
+| Talent | Mystisch = bei alle Würfen mit mystischen Fähigkeiten ist das Ergebnis um 1 zu erhöhen |
+| ...    | ?                                                                                      |
+
 
 # Werte
+
 ## Physisch
+
 ### Attribute
-|Attribut|Level|
-|-|-|
-| Konstitution | 1 |
-| Agilität | 1 |
-| Geschick | 1 |
+
+| Attribut     | Level |
+|--------------|-------|
+| Konstitution | 1     |
+| Agilität     | 1     |
+| Geschick     | 1     |
+
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Rennen|1|
-|Widerstehen|1|
-|Fußarbeit|1|
+
+| Fähigkeit   | Wert |
+|-------------|------|
+| Rennen      | 1    |
+| Widerstehen | 1    |
+| Fußarbeit   | 1    |
+
 
 ## Sozial
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Durchsetzungsvermögen | 2 |
-| Sympathie | 1 |
-| Eindruck | 2 |
+
+### Attribute
+
+| Attribut              | Level |
+|-----------------------|-------|
+| Durchsetzungsvermögen | 2     |
+| Sympathie             | 1     |
+| Eindruck              | 2     |
+
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Autorität|2|
-|Überzeugen|1|
-|Empathie|2|
-|Tratsch|1|
-|Handel| 1 |
-|Irreführung|2|
+
+| Fähigkeit   | Wert |
+|-------------|------|
+| Autorität   | 2    |
+| Überzeugen  | 1    |
+| Empathie    | 2    |
+| Tratsch     | 1    |
+| Handel      | 1    |
+| Irreführung | 2    |
 
 
 ## Mental
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Wahrnehmung | 2 |
-| Bildung | 1 |
-| Geist | 2 |
+
+### Attribute
+
+| Attribut    | Level |
+|-------------|-------|
+| Wahrnehmung | 2     |
+| Bildung     | 1     |
+| Geist       | 2     |
+
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Instinkt|1|
-|Suchen|1|
-|Navigation|1|
-|Magiewissen|2|
-|Waldwissen|1|
-|Kreaturenwissen|2|
-|Kulturenwissen|0|
-|Politik|0|
-|Theologie|0|
+
+| Fähigkeit       | Wert |
+|-----------------|------|
+| Instinkt        | 1    |
+| Suchen          | 1    |
+| Navigation      | 1    |
+| Magiewissen     | 2    |
+| Waldwissen      | 1    |
+| Kreaturenwissen | 2    |
+| Kulturenwissen  | 0    |
+| Politik         | 0    |
+| Theologie       | 0    |
 
 
 ## Können
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Theorie | 1 |
-| Praxis | 1 |
-| Einblick | 1 |
+
+### Attribute
+
+| Attribut | Level |
+|----------|-------|
+| Theorie  | 1     |
+| Praxis   | 1     |
+| Einblick | 1     |
+
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Hexe|1|
-|Heilen|2|
-|Kräuterkunde|1|
-|Gärtner|1|
-|Survival|0|
-|Geschichtenerzählen|0|
 
+| Fähigkeit           | Wert |
+|---------------------|------|
+| Hexe                | 1    |
+| Heilen              | 2    |
+| Kräuterkunde        | 1    |
+| Gärtner             | 1    |
+| Survival            | 0    |
+| Geschichtenerzählen | 0    |
 
 
 ## Mystisch
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Konzentration | 1 |
-| Disziplin | 1 |
-| Flow | 3 |
+
+### Attribute
+
+| Attribut      | Level |
+|---------------|-------|
+| Konzentration | 1     |
+| Disziplin     | 1     |
+| Flow          | 3     |
+
 
 ### Fähigkeiten
-|Fähigkeit|Wert|
-|-|-|
-|Erden Quelle|2|
-|Fokus Konzept|2|
-|Leben Aspekt|2|
-|Scrying Aspekt|1|
-|Ilargia|0|
-|First Sight|1|
-|Eidetisches Gedächtnis|1|
+
+| Fähigkeit              | Wert |
+|------------------------|------|
+| Erden Quelle           | 2    |
+| Fokus Konzept          | 2    |
+| Leben Aspekt           | 2    |
+| Scrying Aspekt         | 1    |
+| Ilargia                | 0    |
+| First Sight            | 1    |
+| Eidetisches Gedächtnis | 1    |
 
 
 ## Narrativ
-### Attribute 
-|Attribut|Level|
-|-|-|
-| Schicksal | 1 |
-| Gunst | 4 |
-| Wille | 5 |
+
+### Attribute
+
+| Attribut  | Level |
+|-----------|-------|
+| Schicksal | 1     |
+| Gunst     | 4     |
+| Wille     | 5     |
 
 
 # Fortschritt
-|Fähigkeit|gesammelt|
-|:-|:-|
-|Überzeugen|2/5|
-|Irreführung|1/5|
-|Navigation|1/5|
-|Kulturenwissen|1/5|
-|Politik|4/5|
-|Theologie|3/5|
-|Hexe|0/5|
-|Kräuterkunde|1/5|
-|Geschichtenerzählen|4/5|
-|Survival|1/5|
-|Ilargia|0/5|
-|First Sight|1/5|
 
 Voller FP Überzeugen 11.03.
 Voller FP Erden 07.10.
 Voller FP Hexe 04.11.
 Voller FP Empathie 02.12.
 
+| Fähigkeit           | gesammelt |
+|:--------------------|:----------|
+| Überzeugen          | 2/5       |
+| Irreführung         | 1/5       |
+| Navigation          | 1/5       |
+| Kulturenwissen      | 1/5       |
+| Politik             | 4/5       |
+| Theologie           | 3/5       |
+| Hexe                | 0/5       |
+| Kräuterkunde        | 1/5       |
+| Geschichtenerzählen | 4/5       |
+| Survival            | 1/5       |
+| Ilargia             | 0/5       |
+| First Sight         | 1/5       |
+
+
 # Vorteile
-|Vorteil|gesammelt|
-|:-|:-|
-|Erden im Wald |Bonuswürfel bei Erden im Wald|
-|Zeichensprache |kommunizieren ohne Laute|
-|Skillsharing |Fähigkeiten & Wissen von anderen auch beim Zaubern nutzen können|
-|Akquisepunkt Medkit|2|
-|Akquisepunkt Kräuter|1|
 
 + plus Akquisepunkte aus Skills
 
+| Vorteil              | gesammelt                                                        |
+|:---------------------|:-----------------------------------------------------------------|
+| Erden im Wald        | Bonuswürfel bei Erden im Wald                                    |
+| Zeichensprache       | kommunizieren ohne Laute                                         |
+| Skillsharing         | Fähigkeiten & Wissen von anderen auch beim Zaubern nutzen können |
+| Akquisepunkt Medkit  | 2                                                                |
+| Akquisepunkt Kräuter | 1                                                                |
+
+
 # Inventar
 
-|Name|Anzahl|Gewicht|Preis|
-|---|---|---|---|
-|||||
+| Name | Anzahl | Gewicht | Preis |
+|------|--------|---------|-------|
+|      |        |         |       |
+
 
 ## Ausrüstung
 
-|Ausstattung|Beschreibung|Anzahl|
-|-|-|-|
-|Umhängetasche|||
-|Gesellenbrief von Harika|Hilda ist Geselle der Lebensmagie von Harika||
-|Freundschaftshalskette von Harika|mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals||
-|aurisches Armband mit Drachenkopf|um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen||
 ***
 
-|Tinnef|Beschreibung|Anzahl|
-|-|-|-|
-|Artefaktenkugel|leuchtet mit Blitzen darin||
-|Riesenfangzahn|mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh||
 ***
 
-|Werkzeuge|Beschreibung|Anzahl|
-|-|-|-|
-|Dodekaeder aus Kristall|abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas|(benutzt 2/10)|
-|Messer|selbst desinfizierend für chirurgisches Arbeiten||
-|Sichel|besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden||
 ***
+| Ausstattung                       | Beschreibung                                                                         | Anzahl |
+|-----------------------------------|--------------------------------------------------------------------------------------|--------|
+| Umhängetasche                     |                                                                                      |        |
+| Gesellenbrief von Harika          | Hilda ist Geselle der Lebensmagie von Harika                                         |        |
+| Freundschaftshalskette von Harika | mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals |        |
+| aurisches Armband mit Drachenkopf | um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen             |        |
+| Tinnef          | Beschreibung                                                                                                                                                                                                                                                                                                                      | Anzahl |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Artefaktenkugel | leuchtet mit Blitzen darin                                                                                                                                                                                                                                                                                                        |        |
+| Riesenfangzahn  | mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh |        |
 
-|Verbrauchszeug|Beschreibung|Anzahl|
-|-|-|-|
-|lila, kleiner Pilz|Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt|eine Dosis|
-|durchsichtige Glitzerpilze|hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin||
-|Zoarksgebot|Stasis, von lebenden und nichtlebenden Dingen|
 
+
+| Werkzeuge               | Beschreibung                                                                                                                                                                                                                                                              | Anzahl         |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| Dodekaeder aus Kristall | abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas                                                                                         | (benutzt 2/10) |
+| Messer                  | selbst desinfizierend für chirurgisches Arbeiten                                                                                                                                                                                                                          |                |
+| Sichel                  | besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden |                |
+
+| Verbrauchszeug             | Beschreibung                                                                                  | Anzahl                                        |
+|----------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------|
+| lila, kleiner Pilz         | Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt | eine Dosis                                    |
+| durchsichtige Glitzerpilze | hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin                               |                                               |
+|                            | Zoarksgebot                                                                                   | Stasis, von lebenden und nichtlebenden Dingen |
 
 
 # Notizen
