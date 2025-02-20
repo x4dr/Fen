@@ -1,7 +1,7 @@
 ---
 outgoing links: []
 tags:
-- ''
+- pbta
 title: PBTA Testcharacter
 ---
 # Info
