@@ -34,6 +34,7 @@ GTA City
 | Stress | 2 | 7|
 | Trauma | 1 | 4|
 | Healing | 2 | 4|
+| Armor | 2 | 3 |
 
 
 # Moves
@@ -82,4 +83,7 @@ GTA City
 | Sword  | 1        | 1g     | 5k    | 1g           | 5k          | A sharp sword   |
 | Shield | 1        | 1g     | 10k   | 1g           | 10k         | A sturdy shield |
 | Total  |          |        |       |              |             |                 |
+
+# Notes
+testing is work
 
