@@ -78,11 +78,11 @@ GTA City
 
 # Inventory
 
-| Name   | Quantity | Weight | Price | Total Weight | Total Price | Description     |
-|--------|----------|--------|-------|--------------|-------------|-----------------|
-| Sword  | 1        | 1g     | 5k    | 1g           | 5k          | A sharp sword   |
-| Shield | 1        | 1g     | 10k   | 1g           | 10k         | A sturdy shield |
-| Total  |          |        |       |              |             |                 |
+| Name   | Quantity | 
+|--------|----------|
+| Sword  | 1        | 
+| Shield | 1        |
+| Total  |          | 
 
 # Notes
 testing is work
