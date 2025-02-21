@@ -19,7 +19,11 @@ Tier 2 Alchemische Komponente
 Tier 6 Alchemische Komponente
 
 ## Essence of Change
-Tier 6 Alchemische Komponente|Wurfkrüge (leer)| | | |
+
+## Items
+|Name | Beschreibung |
+| --- | ---|
+|Wurfkrüge (leer)| | | |
 |Schleuderkrüge (leer)| | | |
 |Hohl Pfeile| | | |
 |Wurfspikes| | | |
