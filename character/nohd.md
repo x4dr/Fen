@@ -97,11 +97,11 @@ Charakterkonzept:
 
 ### Aspekte
   
+&nbsp;
+
 | Aspekte | Level |
 |:--------|------:|
 |         |       |
-&nbsp;
-
 
 
 ## Weisheit
@@ -200,10 +200,10 @@ Charakterkonzept:
 ### Vorteile
   
 &nbsp;
+
 | Vorteile  | Level |
 |:----------|------:|
 | Schicksal |     0 |
-
 
 
 ## Progress
@@ -222,10 +222,6 @@ Charakterkonzept:
 ### Inventar
   
 &nbsp;  
-| Item    | Menge |
-|---------|-------|
-| :-—-    | —-—:  |
-| Rotwarz | 1     |
 total point costs Schicksal: 40  
 total point costs Magie: 0  
 total point costs Können: 115  
@@ -235,4 +231,8 @@ total point costs Stärke: 400055
 total point costs Weisheit: 90  
 total point costs: 500300
 
+| Item    | Menge |
+|---------|-------|
+| :-—-    | —-—:  |
+| Rotwarz | 1     |
 

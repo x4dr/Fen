@@ -137,11 +137,11 @@ Charakterkonzept:
 
 ### Aspekte
   
+&nbsp;
+
 | Aspekte | Level |
 |:--------|------:|
 |         |       |
-&nbsp;
-
 
 
 ## Weisheit
@@ -220,11 +220,11 @@ Charakterkonzept:
 
 ### Vorteile
   
+&nbsp;
+
 | Vorteile | Level |
 |:---------|------:|
 |          |       |
-&nbsp;
-
 
 
 ## Schicksal
@@ -258,10 +258,6 @@ Charakterkonzept:
   
 &nbsp;  
 total point costs Schicksal: 105  
-| Talente | Level |
-|:--------|------:|
-| Taggen  |     1 |
-| Angeben |     1 |
 total point costs Magie: 200  
 total point costs Können: 139  
 total point costs Charisma: 105  
@@ -269,4 +265,8 @@ total point costs Stärke: 129
 total point costs Weisheit: 119  
 total point costs: 797
 
+| Talente | Level |
+|:--------|------:|
+| Taggen  |     1 |
+| Angeben |     1 |
 

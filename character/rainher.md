@@ -85,10 +85,10 @@ Charakterkonzept:
 ### Vorteile
   
 &nbsp;
+
 | Vorteile                | Level |
 |:------------------------|------:|
 | Artfakte identifizieren |     1 |
-
 
 
 ## Magie
@@ -117,10 +117,10 @@ Charakterkonzept:
 ### Fähigkeiten
   
 &nbsp;
+
 | Zauber       | Stufe |
 |:-------------|------:|
 | Vorschnellen |     1 |
-
 
 
 ## Weisheit
@@ -199,10 +199,10 @@ Charakterkonzept:
 ### Vorteile
   
 &nbsp;
+
 | Vorteile  | Level |
 |:----------|------:|
 | Verhöhnen |     1 |
-
 
 
 ## Schicksal
@@ -231,10 +231,6 @@ Charakterkonzept:
   
 &nbsp;  
 total point costs Schicksal: 76  
-| Vorteile  | Level |
-|:----------|------:|
-| Begegnung |     2 |
-| Schicksal |     0 |
 total point costs Magie: 25  
 total point costs Können: 83  
 total point costs Charisma: 143  
@@ -242,4 +238,8 @@ total point costs Stärke: 164
 total point costs Weisheit: 176  
 total point costs: 667
 
+| Vorteile  | Level |
+|:----------|------:|
+| Begegnung |     2 |
+| Schicksal |     0 |
 
