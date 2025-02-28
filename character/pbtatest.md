@@ -38,7 +38,7 @@ GTA City
 | Type    | Current | Maximum |
 |---------|---------|---------|
 | Stress  | 2       | 7       |
-| Trauma  | 1       | 4       |
+| Trauma  | 2       | 4       |
 | Healing | 2       | 4       |
 | Armor   | 2       | 3       |
 
@@ -53,7 +53,7 @@ GTA City
 
 ## Insight
 
-| Action | Score |
+| Stat   | Value |
 |--------|-------|
 | Hunt   | 0     |
 | Study  | 0     |
@@ -62,7 +62,7 @@ GTA City
 
 ## Prowess
 
-| Action   | Score |
+| Stat     | Value |
 |----------|-------|
 | Skirmish | 0     |
 | Finesse  | 0     |
@@ -71,7 +71,7 @@ GTA City
 
 ## Resolve
 
-| Action  | Score |
+| Stat    | Value |
 |---------|-------|
 | Attune  | 0     |
 | Command | 0     |
@@ -80,11 +80,11 @@ GTA City
 
 # Inventory
 
-| Name   | Quantity |
-|--------|----------|
-| Sword  | 1        |
-| Shield | 1        |
-| Total  |          |
+| Name   | Quantity | Load | Description | Quantity |
+|--------|----------|------|-------------|----------|
+| Sword  | 1        | 1    |             | 1        |
+| Shield | 1        | 1    |             | 1        |
+| Total  |          |      |             |          |
 
 # Notes
 testing is work
