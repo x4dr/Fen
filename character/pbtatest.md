@@ -38,7 +38,7 @@ GTA City
 | Type    | Current | Maximum |
 |---------|---------|---------|
 | Stress  | 2       | 7       |
-| Trauma  | 3       | 4       |
+| Trauma  | 2       | 4       |
 | Healing | 2       | 4       |
 | Armor   | 2       | 3       |
 
@@ -80,11 +80,11 @@ GTA City
 
 # Inventory
 
-| Name   | Quantity | Description | Quantity |
-|--------|----------|-------------|----------|
-| Sword  | 1        |             | 1        |
-| Shield | 1        |             | 1        |
-| Total  |          |             |          |
+| Name   | Quantity | Description |
+|--------|----------|-------------|
+| Sword  | 1        |             |
+| Shield | 1        |             |
+| Total  |          |             |
 
 # Notes
 testing is work
