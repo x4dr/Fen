@@ -20,7 +20,6 @@ title: Char-Sheet Ranikyr
 | Haarfarbe | dunkles Grau-Braun       |
 | Statur    | schlank / durchtrainiert |
 
-
 ## Bewaffnung
 Kurz-Bogen, Stahldolch, Bronzedolch 
 20 Pfeile (+50 -> Inv.) 
@@ -54,7 +53,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Kraft        | 2     |
 | Agilität     | 3     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit    | Level |
@@ -64,7 +62,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Klettern     | 2     |
 | Waffe(Dolch) | 2     |
 | Waffe(Bogen) | 2     |
-
 
 ### Vorteile
 
@@ -76,7 +73,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | [Kurzbogen](bows#kurzbogen) | Kurzbogentraining   |
 |                             | Kampfschießen       |
 
-
 ## Können
 
 ### Attribute
@@ -86,7 +82,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Geschick  | 3     |
 | Einblick  | 2     |
 | Kompetenz | 3     |
-
 
 ### Fähigkeiten
 
@@ -98,7 +93,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Handwerk (Kräuterkunde) | 2     |
 | Handwerk (Pfeilmacher)  | 1     |
 
-
 ## Weisheit
 
 ### Attribute
@@ -108,7 +102,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Bildung     | 2     |
 | Geist       | 3     |
 | Wahrnehmung | 3     |
-
 
 ### Fähigkeiten
 
@@ -121,7 +114,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Navigation            | 1     |
 | Sprache (Prekorisch)  | 2     |
 
-
 ## Charisma
 
 ### Attribute
@@ -132,7 +124,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Durchsetzungsvermögen | 3     |
 | Sympathie             | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit  | Level |
@@ -142,7 +133,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Rhetorik   | 1     |
 | Etikette   | 1     |
 
-
 ## Magie
 
 ### Quellen
@@ -151,13 +141,11 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 |----------------------|-------|
 | Lebensenergie (Wild) | 2     |
 
-
 ### Konzepte
 
 | Konzept                     | Level |
 |-----------------------------|-------|
 | [Schamanistisch](shamanism) | 2     |
-
 
 ### Aspekte
 
@@ -165,7 +153,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 |------------------------|-------|
 | Elementar-Manipulation | 2     |
 | Illusion               | 2     |
-
 
 ### Zauber
 
@@ -178,7 +165,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | [Illusion](shamanism#illusion)   | Verschleierung            |
 |                                  | Verdunklung               |
 
-
 ## Schicksal
 
 ### Attribute
@@ -189,14 +175,12 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Mut      | 2     |
 | Gunst    | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit | Level |
 |-----------|-------|
 | Wille     | 2     |
 | Fügung    | 1     |
-
 
 # Inventar
 

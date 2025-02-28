@@ -18,7 +18,6 @@ title: Stahl von Schwertwacht
 | Augenfarbe | Blau                   |
 | ...        | ?                      |
 
-
 # Werte
 
 ## Stärke
@@ -30,7 +29,6 @@ title: Stahl von Schwertwacht
 | Kon      | 4     |
 | Agi      | 5     |
 | Kraft    | 3     |
-
 
 ### Fähigkeiten
 
@@ -50,7 +48,6 @@ title: Stahl von Schwertwacht
 | Unarmed          | 2    |
 | Speer            | 1    |
 
-
 ### Vorteile
 
 | Vorteil               |    |
@@ -69,7 +66,6 @@ title: Stahl von Schwertwacht
 | Weitschiessen         | 4  |
 | Zielschiessen         | 3  |
 
-
 ## Können
 
 ### Attribute
@@ -79,7 +75,6 @@ title: Stahl von Schwertwacht
 | Geschick  | 4     |
 | Einblick  | 2     |
 | Kompetenz | 3     |
-
 
 ### Fähigkeiten
 
@@ -98,7 +93,6 @@ title: Stahl von Schwertwacht
 | Kochen             | 0    |
 | Tanzen             | 1    |
 
-
 ## Weisheit
 
 ### Attribute
@@ -108,7 +102,6 @@ title: Stahl von Schwertwacht
 | Bildung     | 3     |
 | Geist       | 5     |
 | Wahrnehmung | 4     |
-
 
 ### Fähigkeiten
 
@@ -133,13 +126,11 @@ title: Stahl von Schwertwacht
 | Law                  | 2    |
 | PrekorisheImportants | 2    |
 
-
 ### Vorteile
 
 | Vorteil     |                      |
 |-------------|----------------------|
 | Brandheiler | 1BW bei Branntwunden |
-
 
 ## Charisma
 
@@ -150,7 +141,6 @@ title: Stahl von Schwertwacht
 | Eindruck              | 3     |
 | Durchsetzungsvermögen | 4     |
 | Sympathie             | 4     |
-
 
 ### Fähigkeiten
 
@@ -169,7 +159,6 @@ title: Stahl von Schwertwacht
 | Kunst         | 0    |
 | Storyteller   | 2    |
 
-
 ## Schicksal
 
 ### Attribute
@@ -179,7 +168,6 @@ title: Stahl von Schwertwacht
 | Glück    | 2     |
 | Mut      | 3     |
 | Gunst    | 2     |
-
 
 ### Fähigkeiten
 
@@ -191,7 +179,6 @@ title: Stahl von Schwertwacht
 | Begegnung           | 1    |
 | Fügung              | 1    |
 
-
 ### Vorteile
 
 | Vorteil    |                       |
@@ -199,7 +186,6 @@ title: Stahl von Schwertwacht
 | Talent     | Stärke                |
 | Sprachlich | FP Kosten Sprachen -1 |
 | Finger     | 10                    |
-
 
 # XP
 (20 fplv4 ) <- Chargen Punkte
@@ -234,7 +220,6 @@ title: Stahl von Schwertwacht
 | segeln             | V                                              |
 | Klettern           | M                                              |
 
-
 # Techniken
 	Wache
         Kings Execution
@@ -252,4 +237,3 @@ title: Stahl von Schwertwacht
 | magic Dolch 1                 | 1      |         |       |
 | Dosen Agyrier gift (Paralyse) | 6      |         |       |
 | Bronzeshod Gauntlet           | 1      |         |       |
-

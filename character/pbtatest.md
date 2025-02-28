@@ -9,6 +9,7 @@ tags:
 - orello
 title: PBTA Testcharacter
 ---
+
 # Info
 
 ## Name
@@ -34,13 +35,12 @@ GTA City
 
 # Health
 
-| Type | Current | Maximum|
-| ---  | --- | --- |
-| Stress | 2 | 7|
-| Trauma | 1 | 4|
-| Healing | 2 | 4|
-| Armor | 2 | 3 |
-
+| Type    | Current | Maximum |
+|---------|---------|---------|
+| Stress  | 2       | 7       |
+| Trauma  | 1       | 4       |
+| Healing | 2       | 4       |
+| Armor   | 2       | 3       |
 
 # Moves
 
@@ -48,7 +48,6 @@ GTA City
 |--------|
 | Hit it |
 | yayeet |
-
 
 # Stats
 
@@ -70,7 +69,6 @@ GTA City
 | Prowl    | 0     |
 | Wreck    | 0     |
 
-
 ## Resolve
 
 | Action  | Score |
@@ -80,15 +78,13 @@ GTA City
 | Consort | 0     |
 | Sway    | 0     |
 
-
 # Inventory
 
-| Name   | Quantity | 
+| Name   | Quantity |
 |--------|----------|
-| Sword  | 1        | 
+| Sword  | 1        |
 | Shield | 1        |
-| Total  |          | 
+| Total  |          |
 
 # Notes
 testing is work
-

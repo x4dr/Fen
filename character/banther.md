@@ -17,7 +17,6 @@ title: banther
 | Haarfarbe | Silberbraun       |
 | Statur    | Athletisch/Sehnig |
 
-
 ## Bewaffnung
 
 - Panzerbrecher
@@ -70,7 +69,6 @@ Schwäche:
 | Kraft        | 2     |
 | Agilität     | 3     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit             | Level |
@@ -81,13 +79,11 @@ Schwäche:
 | Dolch                 | 1     |
 | Schwerathletik        | 0     |
 
-
 ### Vorteile
 
 | Vorteil | Name |
 |---------|------|
 |         |      |
-
 
 ## Können
 
@@ -98,7 +94,6 @@ Schwäche:
 | Geschick  | 2     |
 | Einblick  | 4     |
 | Kompetenz | 3     |
-
 
 ### Fähigkeiten
 
@@ -113,13 +108,11 @@ Schwäche:
 | Logistik           | 1     |
 | Reiten             | 1     |
 
-
 ### Vorteile
 
 | Vorteil | Name |
 |---------|------|
 |         |      |
-
 
 ## Weisheit
 
@@ -130,7 +123,6 @@ Schwäche:
 | Bildung     | 5     |
 | Geist       | 3     |
 | Wahrnehmung | 3     |
-
 
 ### Fähigkeiten
 
@@ -148,13 +140,11 @@ Schwäche:
 | Suchen             | 1     |
 | Instinkt           | 0     |
 
-
 ### Vorteile
 
 | Vorteil | Name |
 |---------|------|
 |         |      |
-
 
 ## Charisma
 
@@ -165,7 +155,6 @@ Schwäche:
 | Eindruck              | 2     |
 | Durchsetzungsvermögen | 4     |
 | Sympathie             | 2     |
-
 
 ### Fähigkeiten
 
@@ -179,13 +168,11 @@ Schwäche:
 | Kunst (Singen) | 2     |
 | Spiele         | 1     |
 
-
 ### Vorteile
 
 | Vorteil | Name |
 |---------|------|
 |         |      |
-
 
 ## Magie
 
@@ -195,13 +182,11 @@ Schwäche:
 |-----------|-------|
 | Blutmagie | 3     |
 
-
 ### Konzepte
 
 | Konzept     | Level |
 |-------------|-------|
 | Blutsymbole | 1     |
-
 
 ### Aspekte
 
@@ -210,7 +195,6 @@ Schwäche:
 | Lebensmagie | 2     |
 | Feuer       | 1     |
 | Illusion    | 1     |
-
 
 ### Zauber
 
@@ -227,13 +211,11 @@ Schwäche:
 | Schmerz             | [Illusion[[specific:illusionmagic:Schmerz:-]]]         |
 | Schmerzdämpfung     | [Illusion[[specific:illusionmagic:Schmerzdämpfung:-]]] |
 
-
 ### Vorteile
 
 | Vorteil | Name |
 |---------|------|
 |         |      |
-
 
 ## Schicksal
 
@@ -245,7 +227,6 @@ Schwäche:
 | Mut      | 2     |
 | Gunst    | 2     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit    | Level |
@@ -256,13 +237,11 @@ Schwäche:
 | Wendung      | 2     |
 | Fügung       | 2     |
 
-
 ### Vorteile
 
 | Vorteil | Name |
 |---------|------|
 |         |      |
-
 
 # XP
 [Legende[[specific:conventions:xp:kurz:-]]]
@@ -276,7 +255,6 @@ Schwäche:
 | Lebensmagie    | K             |
 | Tosisbindung   | [Tosistempel] |
 | Rhetorik       | K             |
-
 
 # Inventar
 

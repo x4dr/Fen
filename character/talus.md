@@ -77,7 +77,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Kraft        |     3 |
 | Agilität     |     5 |
 
-
 ### Fähigkeiten
 
 | Fähigkeiten    | Level |
@@ -93,7 +92,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Schwerathletik |     2 |
 | Kampfmanöver   |     0 |
 | Survival       |     0 |
-
 
 ### Vorteile
 
@@ -111,7 +109,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Umspringen              |    _1 |
 | an Wänden Laufen        |     6 |
 
-
 ## Können
 
 ### Attribute
@@ -121,7 +118,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Geschick  |     4 |
 | Einblick  |     3 |
 | Kompetenz |     5 |
-
 
 ### Fähigkeiten
 
@@ -140,7 +136,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Reiten             |     0 |
 | Akrobatik          |     2 |
 | Kriegsgesang       |     1 |
-
 
 ### Vorteile
 
@@ -172,7 +167,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | MH:kinetic dampening Artefakt                 |       |
 | KO:Architekt                                  |     2 |
 
-
 ## Magie
 
 ### Quellen
@@ -182,13 +176,11 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Elixier des Lichts |     2 |
 | Magischer Fluss    |     4 |
 
-
 ### Konzepte
 
 | Konzepte | Level |
 |:---------|------:|
 | Alchemie |     4 |
-
 
 ### Aspekte
 
@@ -196,7 +188,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 |:----------------|------:|
 | Prozessalchemie |     4 |
 | Schnellalchemie |     3 |
-
 
 ### Vorteile
 
@@ -212,7 +203,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | [Prozessalchemiezauber[[specific:talus:Prozessalchemie:-]]] |    16 |
 | [Schnellalchemiezauber[[specific:talus:Schnellalchemie:-]]] |     9 |
 
-
 ## Weisheit
 
 ### Attribute
@@ -222,7 +212,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Bildung     |     5 |
 | Geist       |     3 |
 | Wahrnehmung |     3 |
-
 
 ### Fähigkeiten
 
@@ -243,7 +232,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Navigation                |     0 |
 | Handel                    |     1 |
 
-
 ### Sprachen
 
 | Sprache              | Level |
@@ -257,7 +245,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Alphabet Atteryazi   |     3 |
 | Alphabet Schatten    |     1 |
 
-
 ## Charisma
 
 ### Attribute
@@ -267,7 +254,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Eindruck              |     3 |
 | Durchsetzungsvermögen |     3 |
 | Sympathie             |     3 |
-
 
 ### Fähigkeiten
 
@@ -285,13 +271,11 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Tratsch           |     0 |
 | Kunst(Schauspiel) |     0 |
 
-
 ### Vorteil
 
 |              |   |
 |--------------|---|
 | Körperätzung | 4 |
-
 
 ## Schicksal
 
@@ -302,7 +286,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Glück     |     3 |
 | Mut       |     1 |
 | Gunst     |     3 |
-
 
 ### Fähigkeiten
 
@@ -316,7 +299,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Begegnung                   |     1 |
 | Fügung                      |     2 |
 
-
 ### Vorteile
 
 | Vorteile                      | Level |
@@ -324,7 +306,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Schutz der Dunkelheit (Karum) |     1 |
 | Ruhm                          |    _1 |
 | Ruhm (Limasu)                 |    _2 |
-
 
 # Zauber
 
@@ -412,7 +393,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Muster: Reaktionär                                                                             |        |          |        |
 | Gesamt                                                                                         |        |          |        |
 
-
 ## Zwischengelagert
 
 | Name                            | Anzahl | Gewicht | Preis |
@@ -427,7 +407,6 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Schmiedebuch (4;25;21;aurisch)  |      1 | 5.00 kg |       |
 | Zaubertrankalmanach vom Nordpol |      1 | 5.00 kg |       |
 | Gesamt                          |        |         |       |
-
 
 # Erfahrung
 
@@ -479,4 +458,3 @@ Schaden über S der natürlichen Rüstung ist permanent bis repariert mit Ersatz
 | Göttliche Bindung (Kraoz)   | KKK                                                                     |
 | Göttliche Bindung (Karum)   | IKKK                                                                    |
 | Begegnung                   | VVVKK                                                                   |
-
