@@ -87,4 +87,4 @@ GTA City
 | Total  |          |      |             |          |
 
 # Notes
-testing is wörk
+testing is work
