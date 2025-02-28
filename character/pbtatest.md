@@ -80,11 +80,11 @@ GTA City
 
 # Inventory
 
-| Name   | Quantity | Load | Description | Quantity |
-|--------|----------|------|-------------|----------|
-| Sword  | 1        | 1    |             | 1        |
-| Shield | 1        | 1    |             | 1        |
-| Total  |          |      |             |          |
+| Name   | Quantity | Description | Quantity |
+|--------|----------|-------------|----------|
+| Sword  | 1        |             | 1        |
+| Shield | 1        |             | 1        |
+| Total  |          |             |          |
 
 # Notes
 testing is work
