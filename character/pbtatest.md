@@ -35,7 +35,7 @@ GTA City
 |---------|---------|---------|
 | Stress  | 2       | 7       |
 | Trauma  | 1       | 4       |
-| Healing | 1       | 4       |
+| Healing | 2       | 4       |
 | Armor   | 1       | 3       |
 
 # Moves
