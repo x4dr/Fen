@@ -38,7 +38,7 @@ GTA City
 | Type    | Current | Maximum |
 |---------|---------|---------|
 | Stress  | 2       | 7       |
-| Trauma  | 4       | 4       |
+| Trauma  | 3       | 4       |
 | Healing | 2       | 4       |
 | Armor   | 2       | 3       |
 
