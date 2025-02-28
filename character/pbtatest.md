@@ -5,6 +5,7 @@ tags:
 - maric
 title: PBTA Testcharacter
 ---
+
 # Info
 
 ## Name
@@ -34,19 +35,8 @@ GTA City
 |---------|---------|---------|
 | Stress  | 2       | 7       |
 | Trauma  | 1       | 4       |
-| Healing | 2       | 4       |
-| Armor   | 2       | 3       |
-
-
-## Harm
-
-### 3
-
-### 2
-concussion
-
-### 1
- some scrapes
+| Healing | 1       | 4       |
+| Armor   | 1       | 3       |
 
 # Moves
 
@@ -55,47 +45,42 @@ concussion
 | Hit it |
 | yayeet |
 
-
 # Stats
 
 ## Insight
 
-| Action | Score |
+| Stat   | Value |
 |--------|-------|
 | Hunt   | 0     |
 | Study  | 0     |
 | Survey | 0     |
 | Tinker | 0     |
 
-
 ## Prowess
 
-| Action   | Score |
+| Stat     | Value |
 |----------|-------|
 | Skirmish | 0     |
 | Finesse  | 0     |
 | Prowl    | 0     |
 | Wreck    | 0     |
 
-
 ## Resolve
 
-| Action  | Score |
+| Stat    | Value |
 |---------|-------|
 | Attune  | 0     |
 | Command | 0     |
 | Consort | 0     |
 | Sway    | 0     |
 
-
 # Inventory
 
-| Name   | Quantity |
-|--------|----------|
-| Sword  | 1        |
-| Shield | 1        |
-| Total  |          |
-
+| Name   | Quantity | Description |
+|--------|----------|-------------|
+| Sword  | 1        |             |
+| Shield | 1        |             |
+| Total  |          |             |
 
 # Notes
 testing is work
