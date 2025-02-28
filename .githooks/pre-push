@@ -1,0 +1,10 @@
+#!/bin/bash
+# Find the last pushed commit (safe point)
+SAFE_COMMIT=$(git merge-base origin/$(git branch --show-current) HEAD)
+# Count commits since the safe point
+COMMIT_COUNT=$(git rev-list --count "$SAFE_COMMIT"..HEAD)
+
+if [ "$COMMIT_COUNT" -gt 1 ]; then 
+  echo "Rebasing last $COMMIT_COUNT commits before push..." 
+  git rebase -i --autosquash "$SAFE_COMMIT" || { echo "Rebase failed, push aborted"; exit 1; } 
+fi
