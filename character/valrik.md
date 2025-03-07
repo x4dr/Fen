@@ -36,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 1       | 7       |
+| Stress  | 2       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 0       | 3       |
