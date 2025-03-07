@@ -27,6 +27,7 @@ Charakterkonzept:
 | Ausdauer    |     2 |
 | Körperkraft |     1 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten | Level |
@@ -36,6 +37,7 @@ Charakterkonzept:
 | Wundheilung |    03 |
 | Athletik    |     2 |
 | Zechen      |     2 |
+
 
 ### Vorteile
   
@@ -47,6 +49,7 @@ Charakterkonzept:
 | Greifen   |     1 |
 | Schwingen |     1 |
 
+
 ## Können
 
 ### Attribute
@@ -57,6 +60,7 @@ Charakterkonzept:
 | Wendigkeit       |     3 |
 | Rüstung          |     1 |
 | Artefakte        |     3 |
+
 
 ### Fähigkeiten
 
@@ -76,6 +80,7 @@ Charakterkonzept:
 | Reiten             |     0 |
 | Textilverarbeitung |     0 |
 
+
 ### Vorteile
   
 &nbsp;
@@ -88,6 +93,7 @@ Charakterkonzept:
 | Taschendieb |     1 |
 | Battleflips |     1 |
 
+
 ## Magie
 
 ### Quellen
@@ -96,11 +102,13 @@ Charakterkonzept:
 |:----------|------:|
 | Verstandt |     3 |
 
+
 ### Konzepte
 
 | Konzepte | Level |
 |:---------|------:|
 | ???      |     3 |
+
 
 ### Forma
 
@@ -115,6 +123,7 @@ Charakterkonzept:
 | tutela    |     2 |
 | Disruptio |     3 |
 
+
 ### Vorteile
 
 | Vorteile         | Level |
@@ -125,6 +134,7 @@ Charakterkonzept:
 | Schnell Zaubern  |     1 |
 | Schlafzaubern    |     1 |
 
+
 ### Aspekte
   
 &nbsp;
@@ -132,6 +142,7 @@ Charakterkonzept:
 | Aspekte | Level |
 |:--------|------:|
 |         |       |
+
 
 ## Weisheit
 
@@ -143,6 +154,7 @@ Charakterkonzept:
 | Erinnerungsvermögen |     2 |
 | Wahrnehmung         |     2 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten    | Level |
@@ -153,6 +165,7 @@ Charakterkonzept:
 | Heilen         |     0 |
 | Wissen(Gebiet) |     0 |
 | Strategie      |     0 |
+
 
 ### Vorteile
   
@@ -178,6 +191,7 @@ Charakterkonzept:
 | Atteryazi Lesen      |     0 |
 | Atteryazi Schreiben  |     0 |
 
+
 ## Charisma
 
 ### Attribute
@@ -187,6 +201,7 @@ Charakterkonzept:
 | Eindruck              |     3 |
 | Durchsetzungsvermögen |     2 |
 | Sympathie             |     4 |
+
 
 ### Fähigkeiten
 
@@ -202,6 +217,7 @@ Charakterkonzept:
 | Etiquette     |     0 |
 | Tratsch       |     0 |
 
+
 ### Vorteile
   
 &nbsp;
@@ -209,6 +225,7 @@ Charakterkonzept:
 | Vorteile | Level |
 |:---------|------:|
 |          |       |
+
 
 ## Schicksal
 
@@ -220,6 +237,7 @@ Charakterkonzept:
 | Mut       |     3 |
 | Gunst     |     1 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten               | Level |
@@ -228,11 +246,13 @@ Charakterkonzept:
 | Wille:                    |     2 |
 | Göttliche Bindung (Gott): |     0 |
 
+
 ### Vorteile
 
 | Vorteile  | Level |
 |:----------|------:|
 | Schicksal |     5 |
+
 
 ### Talente
   
@@ -249,3 +269,4 @@ total point costs: 797
 |:--------|------:|
 | Taggen  |     1 |
 | Angeben |     1 |
+

@@ -29,6 +29,7 @@ Hamus
 | Agilität     | 2     |
 | Geschick     | 2     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -43,6 +44,7 @@ Hamus
 | Fußarbeit   | 1    |
 | Handgemenge | 1    |
 
+
 ## Sozial
 
 ### Attribute
@@ -52,6 +54,7 @@ Hamus
 | Durchsetzungsvermögen | 1     |
 | Sympathie             | 1     |
 | Eindruck              | 1     |
+
 
 ### Fähigkeiten
 
@@ -63,6 +66,7 @@ Hamus
 | Tanzen     | 1    |
 | Support    | 1    |
 
+
 ## Mental
 
 ### Attribute
@@ -72,6 +76,7 @@ Hamus
 | Wahrnehmung | 3     |
 | Bildung     | 1     |
 | Geist       | 1     |
+
 
 ### Fähigkeiten
 
@@ -84,6 +89,7 @@ Hamus
 | Suchen       | 1    |
 | Taktik       | 0    |
 
+
 ## Können*
 
 ### Attribute
@@ -93,6 +99,7 @@ Hamus
 | Theorie  | 1     |
 | Praxis   | 2     |
 | Einblick | 3     |
+
 
 ### Fähigkeiten
 
@@ -108,6 +115,7 @@ Hamus
 | Accounting         | 1    |
 | Archäologie/Looten | 2    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -117,6 +125,7 @@ Hamus
 | Konzentration | 1     |
 | Disziplin     | 5     |
 | Flow          | 3     |
+
 
 ### Fähigkeiten
 
@@ -133,6 +142,7 @@ Hamus
 | Quelle Sturm                | 1    |
 | Bindung BadLuck             | 0    |
 
+
 # Vorteile
 
 want: Plänklermodus, allgemeine fernkampfdinge
@@ -147,6 +157,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Bedinsteter             | 1     | Bonuswürfel wenn Hamus Bedinsteten Tätigkeiten ausführt                        |
 | Goon                    | 1     | Wenn Hamus als Handlanger agiert gelten die Narativen Werte seines Vorgestzten |
 | Lucky Find              | 1     | Resonaznen Für Looting würfe Freigeschaltet                                    |
+
 
 # Fortschritt
 
@@ -182,6 +193,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Munitionierer      | 0/5 | 1   |   |
 | Animal Companion   | 5/5 | 1   | 1 |
 
+
 # Inventar
 
 | Name                       | Anzahl                               | Gewicht | Preis |
@@ -195,6 +207,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Knallpulver                | 5 (4 krittfail)                      |         |       |
 | Rute von der Leuchte Weide |                                      |         |       |
 
+
 ## AquisePunkte
 
 | Name                       | Anzahl | Quanten |
@@ -204,6 +217,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Munitionierer              | 1      |         |
 | Fischer                    | 1      |         |
 | Kontakte Untergrund Okarun | 1      |         |
+
 
 # Artefakte
 
@@ -218,6 +232,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Teleport Kunai                    | 3 Kunai mit einem abgerundeten Mondsichel verziert                                                                                                                                     | kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT     |
 | Feuercasten Ausweiß               |                                                                                                                                                                                        |                                                                                                        |
 
+
 # Personen
 
 | Name                   | Beschreibung                                                            | Perks                                   |
@@ -228,6 +243,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Akta (Greeneye senpai) | Hamus Vorgesetzte, scheucht hamus rum, kek und selbsbewusst, Todesblick | Unaufällig ,ermitteln, generelle sozial |
 | Mal                    | freudlicher Ganove, befreundet mit Hamus Eltern, white collor crime     | con artist/dinge Ausspähen, Money       |
 | Raben Dude (Dorozd)    | einer von Tajams Vassallen, unsichtbar af, kennt Eltern?                |                                         |
+
 
 ## Ausrüstung
 Notgroschen dabei 10s

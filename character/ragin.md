@@ -34,6 +34,7 @@ Fast Assassin
 | Agilität     | 4     |
 | Geschick     | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -51,6 +52,7 @@ Fast Assassin
 | Botenjudo   | 1    |
 | Eispicke    | 1    |
 
+
 ## Sozial
 
 ### Attribute
@@ -60,6 +62,7 @@ Fast Assassin
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 2     |
 | Eindruck              | 3     |
+
 
 ### Fähigkeiten
 
@@ -74,6 +77,7 @@ Fast Assassin
 | Empathie    | 1    |
 | Politik     | 2    |
 
+
 ## Mental
 
 ### Attribute
@@ -83,6 +87,7 @@ Fast Assassin
 | Wahrnehmung | 3     |
 | Bildung     | 2     |
 | Geist       | 1     |
+
 
 ### Fähigkeiten
 
@@ -97,6 +102,7 @@ Fast Assassin
 | Wissen(Gebirge)  | 1    |
 | Wissen(Kulturen) | 1    |
 
+
 ## Können
 
 ### Attribute
@@ -107,6 +113,7 @@ Fast Assassin
 | Praxis   | 2     |
 | Einblick | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit      | Wert |
@@ -115,6 +122,7 @@ Fast Assassin
 | Musterresonanz | 1    |
 | Agent          | 2    |
 | Bote           | 1    |
+
 
 ## Mystisch
 
@@ -126,6 +134,7 @@ Fast Assassin
 | Disziplin     | 1     |
 | Flow          | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit       | Wert |
@@ -136,6 +145,7 @@ Fast Assassin
 | Belos           | 1    |
 | Stabilität      | 0    |
 
+
 ## Schicksal
 
 ### Attribute
@@ -145,6 +155,7 @@ Fast Assassin
 | Schicksal | 4     |
 | Gunst     | 4     |
 | Wille     | 2     |
+
 
 ### Fähigkeiten
 
@@ -193,12 +204,14 @@ Shadow blood
 | Bote              | S         |
 | Sturm             | S         |
 
+
 # Inventar
 
 | Name                              | Anzahl | Gewicht | Preis |
 |-----------------------------------|--------|---------|-------|
 | Letter of Introduction von Harika |        |         |       |
 | Feuerkastenausweis                |        |         |       |
+
 
 ## Ausrüstung
 
@@ -216,6 +229,7 @@ Shadow blood
 | Fackel                                                                         | 1      |         |       |
 | isolierter, reißfester Pavillion                                               | 1      |         |       |
 | very enchantable monokristalline Bronzerüstung                                 | 1      |         |       |
+
 
 ## Notizen
 Ladungen:

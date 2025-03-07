@@ -15,6 +15,7 @@ title: oneshotscope
 | Konzept | Auspex Cannon     |
 | Cover   | Fotograf/Künstler |
 
+
 # Werte
 
 ## Physisch
@@ -27,6 +28,7 @@ title: oneshotscope
 | Agilität     | 3     |
 | Geschick     | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
@@ -35,6 +37,7 @@ title: oneshotscope
 | Fußarbeit | 1    |
 | Springen  | 1    |
 | Sniper    | 2    |
+
 
 ## Sozial
 
@@ -46,6 +49,7 @@ title: oneshotscope
 | Sympathie             | 4     |
 | Eindruck              | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit  | Wert |
@@ -54,6 +58,7 @@ title: oneshotscope
 | Empathie   | 2    |
 | Rethorik   | 2    |
 | Diplomatie | 2    |
+
 
 ## Mental
 
@@ -65,6 +70,7 @@ title: oneshotscope
 | Bildung     | 3     |
 | Geist       | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit        | Wert |
@@ -74,6 +80,7 @@ title: oneshotscope
 | Forschung        | 2    |
 | Investigation    | 3    |
 | Menschenkenntnis | 2    |
+
 
 ## Können
 
@@ -85,12 +92,14 @@ title: oneshotscope
 | Praxis   | 2     |
 | Einblick | 4     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Forensik  | 2    |
 | Fotograf  | 2    |
+
 
 ## Mystisch
 
@@ -102,6 +111,7 @@ title: oneshotscope
 | Disziplin     | 3     |
 | Flow          | 4     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit                     | Wert |
@@ -112,6 +122,7 @@ title: oneshotscope
 | Sub-Evidence Reflex Processor | 2    |
 | LinkJump                      | 2    |
 
+
 # Fortschritt
 
 # Inventar
@@ -121,5 +132,6 @@ title: oneshotscope
 | Camera Equipment (large camera, small camera, stealth cams) |        |         |       |
 | Covert Cyberaugen Ohren und Nase                            |        |         |       |
 | Uplink                                                      |        |         |       |
+
 
 ## Ausrüstung

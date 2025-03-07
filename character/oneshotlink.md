@@ -14,6 +14,7 @@ title: oneshotlink
 | Konzept | Gadgetcop            |
 | Cover   | Security/Maintenance |
 
+
 # Werte
 
 ## Physisch
@@ -26,6 +27,7 @@ title: oneshotlink
 | Agilität     | 3     |
 | Geschick     | 4     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit  | Wert |
@@ -34,6 +36,7 @@ title: oneshotlink
 | Kette      | 2    |
 | Kraft      | 2    |
 | Kontrolle  | 2    |
+
 
 ## Sozial
 
@@ -45,6 +48,7 @@ title: oneshotlink
 | Sympathie             | 2     |
 | Eindruck              | 2     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
@@ -52,6 +56,7 @@ title: oneshotlink
 | Einschüchtern | 2    |
 | Diplomatie    | 2    |
 | Authorität    | 2    |
+
 
 ## Mental
 
@@ -63,12 +68,14 @@ title: oneshotlink
 | Bildung     | 1     |
 | Geist       | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Taktik    | 2    |
 | Strategie | 2    |
+
 
 ## Können
 
@@ -79,6 +86,7 @@ title: oneshotlink
 | Theorie  | 2     |
 | Praxis   | 5     |
 | Einblick | 4     |
+
 
 ### Fähigkeiten
 
@@ -91,6 +99,7 @@ title: oneshotlink
 | Planen          | 3    |
 | Reparieren      | 1    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -100,6 +109,7 @@ title: oneshotlink
 | Konzentration | 2     |
 | Disziplin     | 4     |
 | Flow          | 4     |
+
 
 ### Fähigkeiten
 
@@ -111,6 +121,7 @@ title: oneshotlink
 | Staredown        | 2    |
 | Experience       | 1    |
 
+
 # Fortschritt
 
 # Inventar
@@ -120,5 +131,6 @@ Nanotech Kette (unzerstörbar, kann zur kettensäge werden), Security Badge/Perm
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
 |      |        |         |       |
+
 
 ## Ausrüstung

@@ -34,6 +34,7 @@ Wundheilpendel
 | Körperkraft   | 1       |
 | ------------- | ---     |
 
+
 ### Fähigkeiten
 
 
@@ -57,6 +58,7 @@ Wundheilpendel
 | Waffe(Tücher)   | 3       |
 | --------------- | ---     |
 
+
 ## Können
 
 ### Attribute
@@ -73,6 +75,7 @@ Wundheilpendel
 | ---------          | ---     |
 | Artefakte          | 2       |
 | -----------        | ---     |
+
 
 ### Fähigkeiten
 
@@ -114,6 +117,7 @@ Wundheilpendel
 | Reiten               | 0       |
 | --------             | ---     |
 
+
 ## Magie
 
 ### Quellen
@@ -132,6 +136,7 @@ Edelstein 20/20/??
 | Mond    | 3       |
 | ------  | ---     |
 
+
 ### Konzepte
 
 | Konzepte       | Level   |
@@ -140,6 +145,7 @@ Edelstein 20/20/??
 | ------         | ------- |
 | Lichtsymbole   | 3       |
 | -------------- | ---     |
+
 
 ### Aspekte
 
@@ -153,6 +159,7 @@ Edelstein 20/20/??
 | --------      | ---     |
 | Wassermagie   | 1       |
 | ------------- | ---     |
+
 
 ### Zauber
 
@@ -181,6 +188,7 @@ Edelstein 20/20/??
 | Wasserplatsch                  | 1       |
 | ---------------                | ---     |
 
+
 ### Vorteile
 
 
@@ -200,6 +208,7 @@ Edelstein 20/20/??
 | großer Schild   | 1       |
 | --------------- | ---     |
 
+
 ## Weisheit
 
 ### Attribute
@@ -214,6 +223,7 @@ Edelstein 20/20/??
 | --------------------- | ---     |
 | Wahrnehmung           | 2       |
 | -------------         | ---     |
+
 
 ### Fähigkeiten
 
@@ -235,6 +245,7 @@ Edelstein 20/20/??
 | --------         | ---     |
 | Wissen(Gebiet)   | 0       |
 | ---------------- | ---     |
+
 
 ### Vorteile
 
@@ -291,6 +302,7 @@ Edelstein 20/20/??
 | Atteryazi Schreiben    | 0       |
 | ---------------------  | ---     |
 
+
 ## Charisma
 
 ### Attribute
@@ -305,6 +317,7 @@ Edelstein 20/20/??
 | ----------------------- | ---     |
 | Sympathie               | 2       |
 | -----------             | ---     |
+
 
 ### Fähigkeiten
 
@@ -346,6 +359,7 @@ Edelstein 20/20/??
 | Tratsch         | 0       |
 | ---------       | ---     |
 
+
 ## Schicksal
 
 ### Attribute
@@ -361,6 +375,7 @@ Edelstein 20/20/??
 | Gunst     | 3       |
 | -------   | ---     |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten                    | Level   |
@@ -375,6 +390,7 @@ Edelstein 20/20/??
 | ------------------------------ | ---     |
 | Göttliche Bindung (Gott):      | 0       |
 | ---------------------------    | ---     |
+
 
 ### Vorteile
 
@@ -405,3 +421,4 @@ total point costs: 678
 | ------      | ------- |
 | Schicksal   | 0       |
 | ----------- | ---     |
+

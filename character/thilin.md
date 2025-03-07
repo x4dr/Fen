@@ -2,57 +2,51 @@
 outgoing links: []
 tags:
 - pbta
-- maric
-- anushka
 - bloodsport
-- notgodwin
-- orello
-title: PBTA Testcharacter
+title: ''
 ---
-
 # Info
 
 ## Name
-Testchar
+Thilin
 
 ## Alias
-intern
+der Koch
 
 ## Player
-sheettester
+Dimi
 
 ## Look
-dumb
+dwarf with le big beard and a wok for a shield
 
 ## Heritage
-human
+Dwarf
 
 ## Background
-Windows XP Wallpaper
+Lone survivor of a tpk'd aventurer group he was a child of
 
 ## Vice
-GTA City
+
 
 # Health
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 2       | 7       |
-| Trauma  | 3       | 4       |
-| Healing | 2       | 4       |
-| Armor   | 2       | 3       |
+| Stress  | 0       | 7       |
+| Trauma  | 0       | 4       |
+| Healing | 0       | 4       |
+| Armor   | 0       | 3       |
 
 ## harm
 
+### 1
+### 2
+### 3
+
 # Moves
 
-| Move   |
-|--------|
-| Hit it |
-| yayeet |
 
 # Stats
-
 ## Insight
 
 | Stat   | Value |
@@ -82,11 +76,9 @@ GTA City
 
 # Inventory
 
-| Name   | Quantity | Description |
-|--------|----------|-------------|
-| Sword  | 1        |             |
-| Shield | 1        |             |
-| Total  |          |             |
+| Name   | Quantity | Maximum | Description |
+|--------|----------|---------|-------------|
+| Thing | 1        | 1       |             |
+| Thong | 1        | 1       |             |
 
 # Notes
-testing is hard wörk

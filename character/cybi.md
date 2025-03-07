@@ -36,6 +36,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Agilität     | 1     |
 | Geschick     | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -44,6 +45,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Fitness     | 1    |
 | Feinmotorik | 1    |
 | Reflexe     | 1    |
+
 
 ## Sozial
 
@@ -54,6 +56,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 3     |
 | Eindruck              | 2     |
+
 
 ### Fähigkeiten
 
@@ -69,6 +72,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Mediation          | 2    |
 | Roleplay           | 1    |
 
+
 ## Mental
 
 ### Attribute
@@ -78,6 +82,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Wahrnehmung | 3     |
 | Bildung     | 1     |
 | Geist       | 1     |
+
 
 ### Fähigkeiten
 
@@ -90,6 +95,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Kreaturenwissen         | 1    |
 | Kulturenwissen          | 1    |
 
+
 ## Können
 
 ### Attribute
@@ -99,6 +105,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Theorie  | 1     |
 | Praxis   | 2     |
 | Einblick | 1     |
+
 
 ### Fähigkeiten
 
@@ -110,6 +117,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Feinschmied    | 1    |
 | Heilen         | 2    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -120,11 +128,13 @@ Hamus, Steine, Mond und Shiny Stuff
 | Disziplin     | 3     |
 | Flow          | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
 |---------------|------|
 | Tanas Bindung | 2    |
+
 
 ### Konzept
 
@@ -134,11 +144,13 @@ Hamus, Steine, Mond und Shiny Stuff
 | Gesang     | 2    |
 | Meditation | 1    |
 
+
 ### Quelle
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Mondlicht | 2    |
+
 
 ### Aspekt
 
@@ -147,6 +159,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Illusion      | 2    |
 | Manifestation | 3    |
 | Lebensmagie   | 1    |
+
 
 ## Narrativ
 
@@ -157,6 +170,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Schicksal | 4     |
 | Gunst     | 5     |
 | Wille     | 1     |
+
 
 # Vorteil
 
@@ -170,6 +184,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Zeichensprache       | Gruppenkommunikation über Handzeichen.                                                                                       |
 | Überladung           | Ermöglicht es potentiell mehr Energie in ein Artefakt zu laden, als es Kapazität hat.                                        |
 | Paartanz             | Der Tanz mit einem Partner lässt diesen die Effekte des Tanzes, ohne zusätzliche Kosten, teilen.                             |
+
 
 # Zauber
 [[[q:illusionmagic:Zone der Unsichtbarkeit:-]]]
@@ -210,6 +225,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Ausdauer           | 4/5   | 3 |
 | Kreaturenwissen    | 2/5   | 1 |
 
+
 # Inventar
 
 | Name                              | Anzahl | Gewicht | Preis | Beschreibung                                                                                                                                       |
@@ -226,6 +242,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Zettel mit sentinisch             | 1      | -       | -     | Bekommen von kunstinteressiertem Studenten auf der Suche nach der echten wahren Wahrheit                                                           |
 | Steintafeln mit Symbolen          | 5      | -       | -     | Aus den Energiesteinen entnommen.                                                                                                                  |
 
+
 ## Ausrüstung
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
@@ -235,9 +252,11 @@ Hamus, Steine, Mond und Shiny Stuff
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Medkit               | 4      | -       | Heilung von Statuseffekten und Verletzungen                                                                                                                                                                                                             | ?      |
 
+
 ## Besitz
 
 | Name                      | Beschreibung                                           |
 |---------------------------|--------------------------------------------------------|
 | Silbernes Kästchen        | Kleine Schmuckschatulle, versilbert, von ideellem Wert |
 | Glitzer-Werkstatt Bausatz | Veraltet, aber kostenlos                               |
+

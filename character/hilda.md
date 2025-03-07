@@ -15,6 +15,7 @@ title: Hilda
 | Talent | Mystisch = bei alle Würfen mit mystischen Fähigkeiten ist das Ergebnis um 1 zu erhöhen |
 | ...    | ?                                                                                      |
 
+
 # Werte
 
 ## Physisch
@@ -27,6 +28,7 @@ title: Hilda
 | Agilität     | 1     |
 | Geschick     | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -34,6 +36,7 @@ title: Hilda
 | Rennen      | 1    |
 | Widerstehen | 1    |
 | Fußarbeit   | 1    |
+
 
 ## Sozial
 
@@ -44,6 +47,7 @@ title: Hilda
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 1     |
 | Eindruck              | 2     |
+
 
 ### Fähigkeiten
 
@@ -56,6 +60,7 @@ title: Hilda
 | Handel      | 1    |
 | Irreführung | 2    |
 
+
 ## Mental
 
 ### Attribute
@@ -65,6 +70,7 @@ title: Hilda
 | Wahrnehmung | 2     |
 | Bildung     | 1     |
 | Geist       | 2     |
+
 
 ### Fähigkeiten
 
@@ -80,6 +86,7 @@ title: Hilda
 | Politik         | 0    |
 | Theologie       | 0    |
 
+
 ## Können
 
 ### Attribute
@@ -89,6 +96,7 @@ title: Hilda
 | Theorie  | 1     |
 | Praxis   | 1     |
 | Einblick | 1     |
+
 
 ### Fähigkeiten
 
@@ -101,6 +109,7 @@ title: Hilda
 | Survival            | 0    |
 | Geschichtenerzählen | 0    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -110,6 +119,7 @@ title: Hilda
 | Konzentration | 1     |
 | Disziplin     | 1     |
 | Flow          | 3     |
+
 
 ### Fähigkeiten
 
@@ -123,6 +133,7 @@ title: Hilda
 | First Sight            | 1    |
 | Eidetisches Gedächtnis | 1    |
 
+
 ## Narrativ
 
 ### Attribute
@@ -132,6 +143,7 @@ title: Hilda
 | Schicksal | 1     |
 | Gunst     | 4     |
 | Wille     | 5     |
+
 
 # Fortschritt
 
@@ -155,6 +167,7 @@ Voller FP Empathie 02.12.
 | Ilargia             | 0/5       |
 | First Sight         | 1/5       |
 
+
 # Vorteile
 
 + plus Akquisepunkte aus Skills
@@ -167,11 +180,13 @@ Voller FP Empathie 02.12.
 | Akquisepunkt Medkit  | 2                                                                |
 | Akquisepunkt Kräuter | 1                                                                |
 
+
 # Inventar
 
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
 |      |        |         |       |
+
 
 ## Ausrüstung
 
@@ -181,25 +196,29 @@ Voller FP Empathie 02.12.
 
 ***
 
-| Ausstattung                       | Beschreibung                                                                                                                                                                                                                                                                                                                        | Anzahl                                          |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Werkzeuge                         | Beschreibung                                                                                                                                                                                                                                                                                                                        | Anzahl                                          |
-| Verbrauchszeug                    | Beschreibung                                                                                                                                                                                                                                                                                                                        | Anzahl                                          |
-| ----------------------------      | -----------------------------------------------------------------------------------------------                                                                                                                                                                                                                                     | ----------------------------------------------- |
-| lila, kleiner Pilz                | Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt                                                                                                                                                                                                                                       | eine Dosis                                      |
-| durchsichtige Glitzerpilze        | hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin                                                                                                                                                                                                                                                                     |                                                 |
-|                                   | Zoarksgebot                                                                                                                                                                                                                                                                                                                         | Stasis, von lebenden und nichtlebenden Dingen   |
-| Dodekaeder aus Kristall           | abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas                                                                                                                                                   | (benutzt 2/10)                                  |
-| Messer                            | selbst desinfizierend für chirurgisches Arbeiten                                                                                                                                                                                                                                                                                    |                                                 |
-| Sichel                            | besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden                                                           |                                                 |
-| Umhängetasche                     |                                                                                                                                                                                                                                                                                                                                     |                                                 |
-| Gesellenbrief von Harika          | Hilda ist Geselle der Lebensmagie von Harika                                                                                                                                                                                                                                                                                        |                                                 |
-| Freundschaftshalskette von Harika | mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals                                                                                                                                                                                                                                                |                                                 |
-| aurisches Armband mit Drachenkopf | um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen                                                                                                                                                                                                                                                            |                                                 |
-| Tinnef                            | Beschreibung                                                                                                                                                                                                                                                                                                                        | Anzahl                                          |
-| -----------------                 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------                                        |
-| Artefaktenkugel                   | leuchtet mit Blitzen darin                                                                                                                                                                                                                                                                                                          |                                                 |
-| Riesenfangzahn                    | mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh   |                                                 |
+| Ausstattung                       | Beschreibung                                                                                                                                                                                                                                                                                                                        | Anzahl   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Umhängetasche                     |                                                                                                                                                                                                                                                                                                                                     |          |
+| Gesellenbrief von Harika          | Hilda ist Geselle der Lebensmagie von Harika                                                                                                                                                                                                                                                                                        |          |
+| Freundschaftshalskette von Harika | mit detailliert gearbeitetem Silberblatt; wie Abzeichen; Hilda trägt sie um den Hals                                                                                                                                                                                                                                                |          |
+| aurisches Armband mit Drachenkopf | um den Hals getragen; ermöglicht Ragin Ping an alle, die das Ding tragen                                                                                                                                                                                                                                                            |          |
+| Tinnef                            | Beschreibung                                                                                                                                                                                                                                                                                                                        | Anzahl   |
+| -----------------                 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Artefaktenkugel                   | leuchtet mit Blitzen darin                                                                                                                                                                                                                                                                                                          |          |
+| Riesenfangzahn                    | mit Runen bedeckt; Runen können nicht gelesen werden von Swenja und Isban; Isban: damit wurde Gewalt gemacht und es wurde in Angst vergraben; Hexe Mathilda: Runen sind alt Schrift aus den Nordlanden/ Chaoslanden; kein magischer Gegenstand an sich, Art magisches Werkzeug, welches dem Träger Kraft und Konstitution verlieh   |          |
+
+| Werkzeuge               | Beschreibung                                                                                                                                                                                                                                                              | Anzahl         |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| Dodekaeder aus Kristall | abgeschliffen; alter Energiespeicher, von Hilda nutzbar, wie Akku-Batterie, nutzt sich mit der Zeit ab; kompatibel mit allen Magieformen; zehnmal so energiereich wie Drachenglas                                                                                         | (benutzt 2/10) |
+| Messer                  | selbst desinfizierend für chirurgisches Arbeiten                                                                                                                                                                                                                          |                |
+| Sichel                  | besonders, mit Klinge aus Bergkristall und Griff aus gewachsenem Stück Holz: gibt 1 Bonuswürfel auf Kräutersammeln und Kräuterverarbeitung; wenn nach Bonuswürfel noch eine 1 im Wurf ist, ist es entladen; muss danach für einige Std. im Regen wieder aufgeladen werden |                |
+
+| Verbrauchszeug             | Beschreibung                                                                                  | Anzahl                                        |
+|----------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------|
+| lila, kleiner Pilz         | Teil eines Tausches, ändert Wahrnehmung aber andersrum, nichts gefährliches, positiver Effekt | eine Dosis                                    |
+| durchsichtige Glitzerpilze | hält von Schlaf und Tod ab, noch mehr unklare Effekte sind drin                               |                                               |
+|                            | Zoarksgebot                                                                                   | Stasis, von lebenden und nichtlebenden Dingen |
+
 
 # Notizen
 

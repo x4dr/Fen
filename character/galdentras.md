@@ -20,6 +20,7 @@ title: Tras
 | Twists    | produziert ständig Dreck |
 | Exp       | 22                       |
 
+
 ## Bewaffnung
 
 Langschleuder
@@ -65,6 +66,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Kraft        | 4     |
 | Agilität     | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit      | Level |
@@ -83,6 +85,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Springen       | 1     |
 | Armbrust       | 1     |
 
+
 ### Vorteile
 
 | Vorteil                | Name |
@@ -95,11 +98,13 @@ stets betrunken, 3 Gunstpunkte Fobif
 | An des Todes Tür       | 1    |
 | Tee mit Gevatter Tod   | 1    |
 
+
 ### Nachteile
 
 | Nachteil     | Stufe |
 |--------------|-------|
 | Alkoholismus | 3     |
+
 
 ## Können
 
@@ -110,6 +115,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Geschick  | 3     |
 | Einblick  | 3     |
 | Kompetenz | 5     |
+
 
 ### Fähigkeiten
 
@@ -128,12 +134,14 @@ stets betrunken, 3 Gunstpunkte Fobif
 | HandwerkQuart  | 3     |
 | Logistik       | 3     |
 
+
 ### Acquise
 
 | SKill           | Wert |
 |-----------------|------|
 | Quartiermeister | 2    |
 | Logistik        | 2    |
+
 
 ## Weisheit
 
@@ -144,6 +152,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Bildung     | 2     |
 | Geist       | 2     |
 | Wahrnehmung | 5     |
+
 
 ### Fähigkeiten
 
@@ -161,11 +170,13 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Sprache  (Aurisch)   | 3     |
 | Sprache (Mykisch)    | 1     |
 
+
 ### Extrastuff
 
 | Stuff                | Name |
 |----------------------|------|
 | Is Malk or something | 0    |
+
 
 ## Charisma
 
@@ -176,6 +187,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Eindruck              | 3     |
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 2     |
+
 
 ### Fähigkeiten
 
@@ -188,6 +200,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Storyteller            | 1     |
 | Aurischer Kriegsgesang | 2     |
 
+
 ## Magie
 
 ### Quellen
@@ -196,11 +209,13 @@ stets betrunken, 3 Gunstpunkte Fobif
 |---------|-------|
 | Alkohol | 3     |
 
+
 ### Konzepte
 
 | Konzept          | Level |
 |------------------|-------|
 | Schall und Rauch | 2     |
+
 
 ### Aspekte
 
@@ -209,6 +224,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Feuer   | 2     |
 | Eis     | 2     |
 | Gefühle | 2     |
+
 
 ### Zauber
 
@@ -223,11 +239,13 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Ruhe                |
 | Schmerz             |
 
+
 ### Vorteile
 
 | Vorteil            | Name |
 |--------------------|------|
 | Leuchtendes Medium | 1    |
+
 
 ## Schicksal
 
@@ -239,6 +257,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Mut      | 3     |
 | Gunst    | 2     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit     | Level |
@@ -246,6 +265,7 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Bindung Fobif | 2     |
 | Wille         | 2     |
 | Ruhm Limasu   | 2     |
+
 
 ### Vorteile
 
@@ -263,11 +283,13 @@ stets betrunken, 3 Gunstpunkte Fobif
 | Chitinpanzer              | 1    |
 | Connections Tantor (Holz) | 1    |
 
+
 ### Nachteile
 
 | Nachteilsname |
 |---------------|
 | Unglücksvogel |
+
 
 # Inventar
 8kg Biolumiscent Chitinstreifen  (Meisterhaft, 15)

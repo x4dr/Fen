@@ -24,6 +24,7 @@ Charakterkonzept:
 | Ausdauer    |     2 |
 | Körperkraft |     2 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten | Level |
@@ -32,6 +33,7 @@ Charakterkonzept:
 | Schwimmen   |     1 |
 | Wundheilung |     0 |
 | Athletik    |     3 |
+
 
 ### Waffen
   
@@ -44,6 +46,7 @@ Charakterkonzept:
 | Blasrohr    |     3 |
 | Keulen      |     1 |
 
+
 ## Können
 
 ### Attribute
@@ -54,6 +57,7 @@ Charakterkonzept:
 | Wendigkeit       |     2 |
 | Rüstung          |     2 |
 | Artefakte        |     2 |
+
 
 ### Fähigkeiten
   
@@ -74,6 +78,7 @@ Charakterkonzept:
 | Konstruktion       |     0 |
 | Textilverarbeitung |     0 |
 
+
 ## Magie
 
 ### Quellen
@@ -82,11 +87,13 @@ Charakterkonzept:
 |:--------|------:|
 |         |       |
 
+
 ### Konzepte
 
 | Konzepte | Level |
 |:---------|------:|
 |          |       |
+
 
 ### Aspekte
   
@@ -95,6 +102,7 @@ Charakterkonzept:
 | Aspekte | Level |
 |:--------|------:|
 |         |       |
+
 
 ## Weisheit
 
@@ -106,6 +114,7 @@ Charakterkonzept:
 | Erinnerungsvermögen |     2 |
 | Wahrnehmung         |     3 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten    | Level |
@@ -116,6 +125,7 @@ Charakterkonzept:
 | Instinkt       |     4 |
 | Strategie      |     0 |
 | Taktik         |     0 |
+
 
 ### Vorteile
   
@@ -138,6 +148,7 @@ Charakterkonzept:
 | Atteryazi Lesen      |     0 |
 | Atteryazi Schreiben  |     0 |
 
+
 ## Charisma
 
 ### Attribute
@@ -147,6 +158,7 @@ Charakterkonzept:
 | Eindruck              |     2 |
 | Durchsetzungsvermögen |     2 |
 | Sympathie             |     2 |
+
 
 ### Fähigkeiten
   
@@ -164,6 +176,7 @@ Charakterkonzept:
 | Etiquette     |     0 |
 | Tratsch       |     0 |
 
+
 ## Schicksal
 
 ### Attribute
@@ -174,6 +187,7 @@ Charakterkonzept:
 | Mut       |     3 |
 | Gunst     |     2 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten               | Level |
@@ -182,6 +196,7 @@ Charakterkonzept:
 | Wille:                    |     0 |
 | Göttliche Bindung (Gott): |     0 |
 
+
 ### Vorteile
   
 &nbsp;
@@ -189,6 +204,7 @@ Charakterkonzept:
 | Vorteile  | Level |
 |:----------|------:|
 | Schicksal |     0 |
+
 
 ## Progress
 
@@ -201,6 +217,7 @@ Charakterkonzept:
 | Kurzschwert      |     4 |     2080 |
 | Fingerfertigkeit |     4 |      480 |
 | Holzverarbeitung |     2 |       30 |
+
 
 ### Inventar
   
@@ -218,3 +235,4 @@ total point costs: 500300
 |---------|-------|
 | :-—-    | —-—:  |
 | Rotwarz | 1     |
+

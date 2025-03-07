@@ -14,6 +14,7 @@ title: Charaktername
 | usw    | joa           |
 | ...    | ?             |
 
+
 # Werte
 
 ## Physisch
@@ -26,11 +27,13 @@ title: Charaktername
 | Agilität     | 1     |
 | Geschick     | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Beispiel  | 0    |
+
 
 ## Sozial
 
@@ -42,11 +45,13 @@ title: Charaktername
 | Sympathie             | 1     |
 | Eindruck              | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Beispiel  | 0    |
+
 
 ## Mental
 
@@ -58,11 +63,13 @@ title: Charaktername
 | Bildung     | 1     |
 | Geist       | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Beispiel  | 0    |
+
 
 ## Können
 
@@ -74,11 +81,13 @@ title: Charaktername
 | Praxis   | 1     |
 | Einblick | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Beispiel  | 0    |
+
 
 ## Mystisch
 
@@ -90,11 +99,13 @@ title: Charaktername
 | Disziplin     | 1     |
 | Flow          | 1     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Beispiel  | 0    |
+
 
 # Fortschritt
 
@@ -103,5 +114,6 @@ title: Charaktername
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
 |      |        |         |       |
+
 
 ## Ausrüstung

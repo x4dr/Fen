@@ -54,6 +54,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Agilität     |     4 |
 | Kraft        |     1 |
 
+
 ### Fähigkeiten
 
 | Fähigkeiten | Level |
@@ -67,6 +68,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Schwimmen   |     2 |
 | Klettern    |     2 |
 
+
 ### Vorteile
 
 | Vorteile          | Level |
@@ -77,6 +79,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Fechten           |     5 |
 | ätherischer Kampf |     2 |
 
+
 ## Können
 
 ### Attribute
@@ -86,6 +89,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Geschick  |     3 |
 | Kompetenz |     4 |
 | Einblick  |     3 |
+
 
 ### Fähigkeiten
 
@@ -100,6 +104,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Brauen         |     1 |
 | Kräuter Kunde  |     2 |
 
+
 ### Vorteile
 
 | Vorteile       | Level |
@@ -111,6 +116,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Battleflips    |     1 |
 | mehr Artefakte |     2 |
 
+
 ## Magie
 
 ### Quellen
@@ -120,6 +126,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Verstandt |     4 |
 | Tatoo     |     2 |
 
+
 ### Konzepte
 
 | Konzepte                    | Level |
@@ -127,12 +134,14 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Worte der Macht             |     5 |
 | Verbiegung der Wirklichkeit |     2 |
 
+
 ### Aspekte
 
 | Aspekt     | Level |
 |:-----------|------:|
 | Wetter     |     3 |
 | Verzerrung |     3 |
+
 
 ### Forma
 
@@ -152,6 +161,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | praecantatio |     2 |
 | tutela       |     2 |
 
+
 ### Zauber
 
 | Zauber       | Schule |
@@ -165,6 +175,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Verstärken   |      1 |
 | Reflektieren |      1 |
 | Unsibarkeit  |      1 |
+
 
 ### Vorteile
 
@@ -188,6 +199,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Mehr Kraft             |     1 |
 | Mehr Geschwindigkeit   |     1 |
 
+
 ## Weisheit
 
 ### Attribute
@@ -197,6 +209,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Bildung     |     3 |
 | Geist       |     5 |
 | Wahrnehmung |     3 |
+
 
 ### Fähigkeiten
 
@@ -214,6 +227,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Brauen            |     1 |
 | Navigation        |     2 |
 | Wissen(Meer)      |     2 |
+
 
 ### Vorteile
 
@@ -235,6 +249,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Atteryazi Lesen      |     3 |
 | Atteryazi Schreiben  |     0 |
 
+
 ## Charisma
 
 ### Attribute
@@ -244,6 +259,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Eindruck              |     3 |
 | Durchsetzungsvermögen |     2 |
 | Sympathie             |     4 |
+
 
 ### Fähigkeiten
 
@@ -261,12 +277,14 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Rhetorik          |     1 |
 | Beleidigen        |     1 |
 
+
 ### Vorteile
 
 | Vorteile                    | Level |
 |:----------------------------|------:|
 | Angeben(Stil)               |     1 |
 | Okysas verschlungende Zunge |     1 |
+
 
 ## Schicksal
 
@@ -277,6 +295,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Glück     |     5 |
 | Mut       |     3 |
 | Gunst     |     2 |
+
 
 ### Fähigkeiten
 
@@ -289,6 +308,7 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Begegnung                   |     4 |
 | Fügung                      |     4 |
 
+
 ### Vorteile
 
 | Vorteile     | Level |
@@ -296,12 +316,14 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Sprachtalent |     1 |
 | Glückspilz   |     1 |
 
+
 ### Talente
 
 | Talente | Level |
 |:--------|------:|
 | Taggen  |     1 |
 | Angeben |     1 |
+
 
 # XP
 
@@ -312,3 +334,4 @@ Diebeszeichen: Treffpunkt & Mitternacht
 | Fähigkeit  | XP     |
 |------------|--------|
 | Verzerrung | ?????? |
+

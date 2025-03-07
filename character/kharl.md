@@ -18,6 +18,7 @@ title: Kharl
 | Zweitfarbe    | Gold                |
 | Tattoo        |                     |
 
+
 # Werte
 
 ## Physisch
@@ -29,6 +30,7 @@ title: Kharl
 | Konstitution | 2     |
 | Agilität     | 3     |
 | Geschick     | 1     |
+
 
 ### Fähigkeiten
 
@@ -43,6 +45,7 @@ title: Kharl
 | Schwert     | 1    |
 | Schwimmen   | 1    |
 
+
 ### Vorteile
 
 | Fähigkeit               | Wert |
@@ -50,6 +53,7 @@ title: Kharl
 | Argyrische Regeneration | 1    |
 | Klettersohlen           | 1    |
 | Hydrophobe Haut         | 1    |
+
 
 ## Sozial
 
@@ -61,6 +65,7 @@ title: Kharl
 | Sympathie             | 1     |
 | Eindruck              | 2     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -71,12 +76,14 @@ title: Kharl
 | Beruhigen   | 1    |
 | Überzeugen  | 1    |
 
+
 ### Vorteil
 
 | Fähigkeit          | Wert |
 |--------------------|------|
 | Zeichensprache     | 1    |
 | Argyrische Sprache | 1    |
+
 
 ## Mental
 
@@ -88,6 +95,7 @@ title: Kharl
 | Bildung     | 1     |
 | Geist       | 2     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit       | Wert |
@@ -98,6 +106,7 @@ title: Kharl
 | Suchen          | 1    |
 | Naturwissen     | 1    |
 
+
 ## Können
 
 ### Attribute
@@ -107,6 +116,7 @@ title: Kharl
 | Theorie  | 2     |
 | Praxis   | 2     |
 | Einblick | 1     |
+
 
 ### Fähigkeiten
 
@@ -119,6 +129,7 @@ title: Kharl
 | Kochen        | 2    |
 | Glaserei      | 1    |
 
+
 ## Mystisch
 
 ### Attribute
@@ -129,6 +140,7 @@ title: Kharl
 | Disziplin     | 2     |
 | Flow          | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -137,6 +149,7 @@ title: Kharl
 | Wettersinn  | 2    |
 | Tyembindung | 1    |
 
+
 ### Konzept
 
 | Fähigkeit      | Wert |
@@ -144,11 +157,13 @@ title: Kharl
 | MystAlc        | 1    |
 | Körperinfusion | 2    |
 
+
 ### Quelle
 
 | Fähigkeit | Wert |
 |-----------|------|
 | Zutaten   | 2    |
+
 
 ### Aspekt
 
@@ -158,12 +173,14 @@ title: Kharl
 | Schwächung  | 1    |
 | Transferenz | 2    |
 
+
 ### Vorteil
 
 | Fähigkeit                 | Wert |
 |---------------------------|------|
 | Ghostpirate               | 1    |
 | Variable Seelendefinition | 1    |
+
 
 ## Narrativ
 
@@ -174,6 +191,7 @@ title: Kharl
 | Schicksal | 2     |
 | Gunst     | 4     |
 | Wille     | 4     |
+
 
 # Wunden
 

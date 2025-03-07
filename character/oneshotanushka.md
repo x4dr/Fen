@@ -13,6 +13,7 @@ title: Anushka
 | Konzept | Holomancer            |
 | Cover   | Entertainer/Socialite |
 
+
 # Werte
 
 ## Physisch
@@ -25,6 +26,7 @@ title: Anushka
 | Agilität     | 3     |
 | Geschick     | 3     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
@@ -33,6 +35,7 @@ title: Anushka
 | Fußarbeit | 1    |
 | Rennen    | 1    |
 | Akrobatik | 1    |
+
 
 ## Sozial
 
@@ -43,6 +46,7 @@ title: Anushka
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 3     |
 | Eindruck              | 5     |
+
 
 ### Fähigkeiten
 
@@ -55,6 +59,7 @@ title: Anushka
 | Etiquette   | 1    |
 | Tratsch     | 1    |
 
+
 ## Mental
 
 ### Attribute
@@ -65,6 +70,7 @@ title: Anushka
 | Bildung     | 1     |
 | Geist       | 4     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit        | Wert |
@@ -73,6 +79,7 @@ title: Anushka
 | Instinkt         | 1    |
 | Menschenkenntnis | 2    |
 | Analyse          | 2    |
+
 
 ## Können
 
@@ -84,6 +91,7 @@ title: Anushka
 | Praxis   | 3     |
 | Einblick | 2     |
 
+
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
@@ -91,6 +99,7 @@ title: Anushka
 | Halluzinogene | 2    |
 | Entertainer   | 2    |
 | Chemie        | 2    |
+
 
 ## Mystisch
 
@@ -101,6 +110,7 @@ title: Anushka
 | Konzentration | 4     |
 | Disziplin     | 2     |
 | Flow          | 5     |
+
 
 ### Fähigkeiten
 
@@ -113,6 +123,7 @@ title: Anushka
 | disorient      | 2    |
 | haywire        | 2    |
 
+
 # Fortschritt
 
 # Inventar
@@ -121,5 +132,6 @@ Skin-thin-smart-bracer, various pheromone release mechanisms, toxfilter, uplink
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
 |      |        |         |       |
+
 
 ## Ausrüstung
