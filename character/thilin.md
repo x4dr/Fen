@@ -3,8 +3,9 @@ outgoing links: []
 tags:
 - pbta
 - bloodsport
-title: ''
+title: thilin
 ---
+
 # Info
 
 ## Name
@@ -27,12 +28,11 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 ## Vice
 
-
 # Health
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 0       | 7       |
+| Stress  | 2       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 0       | 3       |
@@ -40,13 +40,16 @@ Lone survivor of a tpk'd aventurer group he was a child of
 ## harm
 
 ### 1
+
 ### 2
+
 ### 3
 
 # Moves
 
 
 # Stats
+
 ## Insight
 
 | Stat   | Value |
@@ -76,9 +79,10 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 # Inventory
 
-| Name   | Quantity | Maximum | Description |
-|--------|----------|---------|-------------|
+| Name  | Quantity | Maximum | Description |
+|-------|----------|---------|-------------|
 | Thing | 1        | 1       |             |
 | Thong | 1        | 1       |             |
+| Total |          |         |             |
 
 # Notes
