@@ -5,12 +5,13 @@ tags:
 - maric
 title: Valrik
 ---
+
 # Info
 
 ## Name
 Valrik Glanzwerk
 
-##Title
+## Title
 Doctor Magister Extraordinarius für Thaumaturgische Metaphysik und Perzeptionsdynamik
 
 ## Alias
@@ -35,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 0       | 7       |
+| Stress  | 1       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 0       | 3       |
@@ -43,13 +44,16 @@ High Lifestyle/Luxury
 ## harm
 
 ### 1
+
 ### 2
+
 ### 3
 
 # Moves
 - [x] Illusion
 
 # Stats
+
 ## Insight
 
 | Stat   | Value |
@@ -79,16 +83,11 @@ High Lifestyle/Luxury
 
 # Inventory
 
-| Name   | Quantity | Maximum | Description |
-|--------|----------|---------|-------------|
-| Illusion Charge  | 1        | 1       |             |
-| Flashbang | 1        | 1       |             |
-| Total  |          |         |             |
+| Name            | Quantity | Maximum | Description |
+|-----------------|----------|---------|-------------|
+| Illusion Charge | 1        | 1       |             |
+| Flashbang       | 1        | 1       |             |
+| Total           |          |         |             |
 
 # Notes
 i assume finesse is the one for forging documents
-
-# Bonus info
-## Gregor Rauchstein
-Bürgerlicher name, seit jahren nicht benutzt
-
