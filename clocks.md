@@ -5,4 +5,4 @@ tags:
 title: Clocks
 ---
 Getthe Fuck Outta here
-[clock|GettheFuckOuttahere|1|4]
+[clock|GettheFuckOuttahere|0|4]
