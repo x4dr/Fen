@@ -85,8 +85,8 @@ High Lifestyle/Luxury
 
 | Name            | Quantity | Maximum | Description |
 |-----------------|----------|---------|-------------|
-| Illusion Charge | 1        | 1       |             |
-| Flashbang       | 1        | 1       |             |
+| Illusion Charge | 0        | 1       |             |
+| Flashbang       | 0        | 1       |             |
 | Total           |          |         |             |
 
 # Notes
