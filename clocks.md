@@ -9,3 +9,5 @@ Getthe Fuck Outta here
 
 [clock|test test|0|4]
 
+Dig a cellar
+(Dig a cellar)[clock|DigCellar|2|8]
