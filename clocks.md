@@ -1,7 +1,7 @@
 ---
 outgoing links: []
 tags:
-- ''
+- k
 title: Clocks
 ---
 Getthe Fuck Outta here
@@ -11,3 +11,7 @@ Getthe Fuck Outta here
 
 Dig a cellar
 (Dig a cellar)[clock|DigCellar|3|8]
+
+Ukcrsbugabr Ewrumua
+Investigate kreicia
+(Investigate kreicia)[clock|Kreicia|1|4]
