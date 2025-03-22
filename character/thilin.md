@@ -34,7 +34,7 @@ Lone survivor of a tpk'd aventurer group he was a child of
 |---------|---------|---------|
 | Stress  | 2       | 7       |
 | Trauma  | 0       | 4       |
-| Healing | 1       | 4       |
+| Healing | 0       | 4       |
 | Armor   | 0       | 3       |
 
 ## harm
