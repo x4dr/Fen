@@ -46,7 +46,7 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 # Moves
 
-not to be trifled with
+- [x] Not to be trifled with
 
 # Stats
 
