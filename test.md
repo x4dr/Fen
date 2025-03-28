@@ -4,4 +4,4 @@ tags:
 - ''
 title: test
 ---
-[clock|testclock|2|7]
+test :)[clock|testclock|2|7]
