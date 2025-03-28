@@ -75,7 +75,7 @@ High Lifestyle/Luxury
 
 | Stat    | Value |
 |---------|-------|
-| Attune  | 2     |
+| Casting | 2     |
 | Command | 0     |
 | Consort | 2     |
 | Sway    | 1     |
