@@ -81,8 +81,8 @@ not to be trifled with
 
 | Name  | Quantity | Maximum | Description |
 |-------|----------|---------|-------------|
-| Thing | 1        | 1       |             |
-| other Thing | 1        | 1       |             |
+| wok | 1        | 1       |             |
+| *very* sharp knife | 1        | 1       |             |
 | Total |          |         |             |
 
 # Notes
