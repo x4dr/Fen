@@ -5,7 +5,6 @@ tags:
 - maric
 title: Valrik
 ---
-
 # Info
 
 ## Name
@@ -37,7 +36,7 @@ High Lifestyle/Luxury
 | Type    | Current | Maximum |
 |---------|---------|---------|
 | Stress  | 3       | 7       |
-| Trauma  | 1       | 4       |
+| Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 3       | 3       |
 
@@ -85,7 +84,7 @@ High Lifestyle/Luxury
 
 | Name            | Quantity | Maximum | Description |
 |-----------------|----------|---------|-------------|
-| Illusion Charge | 1        | 1       |             |
+| Spell Charge | 1        | 1       |             |
 | Flashbang       | 1        | 1       |             |
 | Total           |          |         |             |
 
