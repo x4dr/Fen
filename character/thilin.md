@@ -5,7 +5,6 @@ tags:
 - bloodsport
 title: thilin
 ---
-
 # Info
 
 ## Name
@@ -82,7 +81,7 @@ Lone survivor of a tpk'd aventurer group he was a child of
 | Name  | Quantity | Maximum | Description |
 |-------|----------|---------|-------------|
 | Thing | 1        | 1       |             |
-| Thong | 1        | 1       |             |
+| other Thing | 1        | 1       |             |
 | Total |          |         |             |
 
 # Notes
