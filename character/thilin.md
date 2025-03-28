@@ -46,6 +46,7 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 # Moves
 
+not to be trifled with
 
 # Stats
 
@@ -56,23 +57,23 @@ Lone survivor of a tpk'd aventurer group he was a child of
 | Hunt   | 0     |
 | Study  | 0     |
 | Survey | 0     |
-| Tinker | 0     |
+| Tinker | 2     |
 
 ## Prowess
 
 | Stat     | Value |
 |----------|-------|
-| Skirmish | 0     |
+| Skirmish | 2     |
 | Finesse  | 0     |
 | Prowl    | 0     |
-| Wreck    | 0     |
+| Wreck    | 2     |
 
 ## Resolve
 
 | Stat    | Value |
 |---------|-------|
 | Attune  | 0     |
-| Command | 0     |
+| Command | 1     |
 | Consort | 0     |
 | Sway    | 0     |
 
