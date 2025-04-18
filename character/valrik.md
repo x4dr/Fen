@@ -5,6 +5,7 @@ tags:
 - maric
 title: Valrik
 ---
+
 # Info
 
 ## Name
@@ -35,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 4       | 7       |
+| Stress  | 5       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 3       | 3       |
@@ -77,8 +78,8 @@ High Lifestyle/Luxury
 |---------|-------|
 | Attune  | 0     |
 | Command | 0     |
-| Consort | 1     |
-| Sway    | 2     |
+| Consort | 2     |
+| Sway    | 1     |
 
 # Inventory
 
