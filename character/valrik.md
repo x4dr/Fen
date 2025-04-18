@@ -5,6 +5,7 @@ tags:
 - maric
 title: Valrik
 ---
+
 # Info
 
 ## Name
@@ -35,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 3       | 7       |
+| Stress  | 4       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 3       | 3       |
@@ -75,18 +76,18 @@ High Lifestyle/Luxury
 
 | Stat    | Value |
 |---------|-------|
-| Casting | 2     |
+| Attune  | 0     |
 | Command | 0     |
 | Consort | 2     |
 | Sway    | 1     |
 
 # Inventory
 
-| Name            | Quantity | Maximum | Description |
-|-----------------|----------|---------|-------------|
+| Name         | Quantity | Maximum | Description |
+|--------------|----------|---------|-------------|
 | Spell Charge | 1        | 1       |             |
-| Flashbang       | 1        | 1       |             |
-| Total           |          |         |             |
+| Flashbang    | 1        | 1       |             |
+| Total        |          |         |             |
 
 # Notes
 i assume finesse is the one for forging documents
