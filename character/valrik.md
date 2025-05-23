@@ -5,7 +5,6 @@ tags:
 - maric
 title: Valrik
 ---
-
 # Info
 
 ## Name
@@ -76,7 +75,7 @@ High Lifestyle/Luxury
 
 | Stat    | Value |
 |---------|-------|
-| Attune  | 0     |
+| Attune  | 2     |
 | Command | 0     |
 | Consort | 2     |
 | Sway    | 1     |
