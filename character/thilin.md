@@ -5,6 +5,7 @@ tags:
 - bloodsport
 title: thilin
 ---
+
 # Info
 
 ## Name
@@ -31,7 +32,7 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 0       | 7       |
+| Stress  | 1       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 0       | 3       |
@@ -45,7 +46,6 @@ Lone survivor of a tpk'd aventurer group he was a child of
 ### 3
 
 # Moves
-
 - [x] Not to be trifled with
 
 # Stats
@@ -79,10 +79,10 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 # Inventory
 
-| Name  | Quantity | Maximum | Description |
-|-------|----------|---------|-------------|
-| wok | 1        | 1       |             |
+| Name               | Quantity | Maximum | Description |
+|--------------------|----------|---------|-------------|
+| wok                | 1        | 1       |             |
 | *very* sharp knife | 1        | 1       |             |
-| Total |          |         |             |
+| Total              |          |         |             |
 
 # Notes
