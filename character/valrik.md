@@ -5,7 +5,6 @@ tags:
 - maric
 title: Valrik
 ---
-
 # Info
 
 ## Name
@@ -37,9 +36,9 @@ High Lifestyle/Luxury
 | Type    | Current | Maximum |
 |---------|---------|---------|
 | Stress  | 4       | 7       |
-| Trauma  | 1       | 4       |
-| Healing | 2       | 4       |
-| Armor   | 0       | 3       |
+| Trauma  | 0       | 4       |
+| Healing | 0       | 4       |
+| Armor   | 3       | 3       |
 
 ## harm
 
@@ -83,11 +82,12 @@ High Lifestyle/Luxury
 
 # Inventory
 
-| Name            | Quantity | Maximum | Description |
-|-----------------|----------|---------|-------------|
-| Illusion Charge | 0        | 1       |             |
-| Flashbang       | 0        | 1       |             |
-| Total           |          |         |             |
+| Name         | Quantity | Maximum | Description |
+|--------------|----------|---------|-------------|
+| Spell Charge | 1        | 1       |             |
+| Flashbang    | 1        | 1       |             |
+| Total        |          |         |             |
 
 # Notes
 i assume finesse is the one for forging documents
+test of change
