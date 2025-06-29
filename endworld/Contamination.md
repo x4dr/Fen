@@ -3,7 +3,7 @@
 Contamination is a term for the mix of technology-destroying nanoweapons, radiation, pollution, and environmental hazards.  
 It spreads through air, water, blood, and permeates almost everything in the environment.  
 Contamination is measured by a **level** indicating its intensity.  
-Only inside the Domes of the [Supervivo](supervivo), inside a [Mech](mech), or similarly purified environments can contamination reach level 0.  
+Only inside the Domes of the [Supervivo](supervivo), inside a [Mech](mechas), or similarly purified environments can contamination reach level 0.  
 Levels below 0 are needed to dismantle Experimental Tech, but such purity is very hard to achieve.
 
 - **Levels 1–3:** Rare, low contamination zones like mines, airlocks, outdoor markets, and settlements.  

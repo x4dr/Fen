@@ -26,7 +26,7 @@ Enables fluid, precise movement such as dodging, climbing, rolling, flipping, an
 
 ### Weapon()
 
-Determines Effectiveness with a specified Weapon
+Determines Effectiveness with a specified [weapons](endworld/weapons.md)
 
 ### Footwork
 

@@ -4,7 +4,7 @@ Mecha, short for mechanical, are typically giant walking robots, ruleswise, ever
 A Mech has a size in Sectors which corresponds (roughly) to its weight, and a class, which is relevant for usage, representation in world and so on.
 
 A mech can have multiple systems to accomplush tasks or Manage resources, like
-Movement, Energy, Heat, Offensive, Defensive and Support, as well as a Seal to protect against Contamination.
+[Movement](movement), [Energy](energy), [Heat](heat), [Offensive](offensive), [Defensive](defensive) and [Support](support), as well as a [Seal](support) to protect against Contamination.
 
 ## Sizes
 | Sectors | Mech Class        | Weight |

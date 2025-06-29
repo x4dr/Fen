@@ -1,4 +1,4 @@
-
+[Computers](computers)
 ## Seal Systems
 
 | Tech         | Seal Level | Resistance | Cost/Sector |
