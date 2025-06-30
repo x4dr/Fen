@@ -74,8 +74,6 @@ Wide ZONEs of heightened gravity or brittleness, oxygen-free ZONEs or pure oxida
 Such a shame that they have to appear at all, even if caused by natural sources.
 Savages funneling Contamination into a ZONE until even the best seal breaks down and the [Pilots](piloting) are eaten alive…
 
-\glitch\Such a shame\.
+\g\Such a shame\g.
 
-\glitch\[Load Archive](ewrules)\Rulebook\
-
-Continue: 
+\g\[Load Archive](ewrules)\Rulebook\g
