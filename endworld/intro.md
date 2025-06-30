@@ -1,3 +1,22 @@
+---
+outgoing links:
+- kodal
+- supervivo
+- techlevels
+- computers.md
+- abilityskills#biochroma
+- tribals
+- trade
+- alacast
+- tribals
+- decontamination
+- Anomalies
+- piloting
+- ewrules
+tags:
+- ''
+title: intro
+---
 Years have gone by since the Great War.
 Many years.
 Even though few remember how long it has been, the remnants of a time long gone still remind us that once,
@@ -58,6 +77,6 @@ Savages funneling Contamination into a ZONE until even the best seal breaks down
 
 Such a shame.
 
-[glitch|Load Archive](ewrules)
+[glitch|[Load Archive](ewrules)|Rulebook]
 
 Continue: 
