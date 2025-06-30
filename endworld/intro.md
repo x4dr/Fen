@@ -12,7 +12,6 @@ outgoing links:
 - decontamination
 - Anomalies
 - piloting
-- ewrules
 tags:
 - ''
 title: intro
@@ -77,6 +76,6 @@ Savages funneling Contamination into a ZONE until even the best seal breaks down
 
 Such a shame.
 
-[glitch|[Load Archive](ewrules)|Rulebook]
+\\glitch\[Load Archive](ewrules)\Rulebook\\
 
 Continue: 
