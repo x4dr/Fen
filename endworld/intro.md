@@ -60,4 +60,4 @@ g~Such a shame~g.
 Transcript of the only Conversation the oldest Document in the Great Library of Kodal - a severely damaged
 upload of the Brain of an ancient Scientist - will have.
 
-[g~Load Archive~g](ewrules)~Open Rulebook
+[g~Load Archive~Open Rulebook~g](ewrules)
