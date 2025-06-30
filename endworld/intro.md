@@ -12,6 +12,7 @@ outgoing links:
 - decontamination
 - Anomalies
 - piloting
+- ewrules
 tags:
 - ''
 title: intro
@@ -74,6 +75,6 @@ Wide ZONEs of heightened gravity or brittleness, oxygen-free ZONEs or pure oxida
 Such a shame that they have to appear at all, even if caused by natural sources.
 Savages funneling Contamination into a ZONE until even the best seal breaks down and the [Pilots](piloting) are eaten alive…
 
-\g\Such a shame\g.
+g~Such a shame~g.
 
-\g\[Load Archive](ewrules)\Rulebook\g
+g~[Load Archive](ewrules)~Rulebook~g
