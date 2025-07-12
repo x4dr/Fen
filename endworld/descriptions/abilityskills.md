@@ -1,3 +1,8 @@
+---
+outgoing links: []
+tags: []
+title: abilityskills
+---
 
 # Ability Skills
 
@@ -11,7 +16,7 @@ Biochroma represents the integration of biology and human intent. It is split in
 * **White** applies biological processes to industrial manufacturing, including air purification, ore refining and contamination hardening.
 * **Black** encompasses the dark arts, such as cybernetic integration, synthetic life, and artificial intelligence. It is rare and merely knowing about it varies from frowned upon to highly illegal, depending on area. Autonomous Machines are usually illegal, while prosthetics tend to be generally accepted.
 
-### [Broad Skill](ewrules#Broad Skills)s
+## [Broad Skill](ewrules#Broad Skills)s
 ### Computer
 
 The Computer skill defines proficiency in interacting with digital systems, including:
