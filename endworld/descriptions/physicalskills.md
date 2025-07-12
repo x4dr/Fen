@@ -1,3 +1,10 @@
+---
+outgoing links:
+- endworld/weapons.md
+tags:
+- ''
+title: physicalskills
+---
 ## Physical Skills
 
 ### Heavy Athletics
@@ -32,7 +39,7 @@ Determines Effectiveness with a specified [weapons](endworld/weapons.md)
 
 Close-range movement, dodging, fast and decisive movements, leg strength
 
-## Presence
+### Presence
 
 Controls how much physical space a character “takes up” — movement subtlety, body positioning, and tension. Affects how easily the character is noticed or tracked. Combines with Footwork for stealth, with Acrobatics for evasion, or even with Weapon for deceptive strikes.
 
