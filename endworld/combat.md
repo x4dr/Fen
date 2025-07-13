@@ -1,3 +1,14 @@
+---
+outgoing links:
+- endworld/ewrules#Bonus-and-Penalty-Dice
+- endworld/descriptions/attributes#physical
+- endworld/descriptions/attributes#special
+- endworld/ewrules#resonance
+- endworld/ewrules#bonus-and-penalty-dice
+tags:
+- ''
+title: combat
+---
 ## Rounds
 
 Combat is done in rounds.  
@@ -5,7 +16,7 @@ In Detailed Combat, each round is about 5 seconds long. In Tactical Combat, roun
 
 Every character present acts in turn (determined by circumstances or a Stealth, Perception, Intuition, or other situational check) and can usually move and act or attack.
 
-Double actions, if possible, usually carry a 2-dice [penalty](ewrules#Bonus-and-Penalty-Dice) on both actions; further actions carry even more penalties.
+Double actions, if possible, usually carry a 2-dice [penalty](endworld/ewrules#Bonus-and-Penalty-Dice) on both actions; further actions carry even more penalties.
 
 ---
 
@@ -14,7 +25,7 @@ Double actions, if possible, usually carry a 2-dice [penalty](ewrules#Bonus-and-
 An attack has to be made on a valid target.  
 Targets are valid depending on what weapon is used. A direct fire weapon requires line of sight, for example.
 
-Depending on the circumstances, the attack roll is made,  involving [Dexterity](attributes#physical) for normal weapons, [Focus](attributes#special) for Mech weapons and so on, the weapon skill, and another skill depending on the situation.
+Depending on the circumstances, the attack roll is made,  involving [Dexterity](endworld/descriptions/attributes#physical) for normal weapons, [Focus](endworld/descriptions/attributes#special) for Mech weapons and so on, the weapon skill, and another skill depending on the situation.
 
 This result of this roll, called **attack value** from here, is then modified by range depending on the weapon.
 
@@ -31,7 +42,7 @@ Otherwise,  cover may still be damaged, depending on the circumstances.
 Each entity is made of several hitzones (like arms, legs, head).  
 When a hit succeeds, a hitzone is affected. Armor reduces the attack’s value. If anything remains, the hitzone takes damage.
 
-Damage doesn’t use fixed HP values. Instead, it causes malfunctions and penalties such as weakened limbs or malfunctioning components, negative [resonance](ewrules#resonance)s giving [penalty dice](ewrules#bonus-and-penalty-dice) , performing at a lower level or no longer functioning.
+Damage doesn’t use fixed HP values. Instead, it causes malfunctions and penalties such as weakened limbs or malfunctioning components, negative [resonance](endworld/ewrules#resonance)s giving [penalty dice](endworld/ewrules#bonus-and-penalty-dice) , performing at a lower level or no longer functioning.
 
 If armor or a defensive layer breaks, it stops protecting. Some defenses may leak damage through while they break.
 

@@ -1,6 +1,6 @@
 ---
 outgoing links:
-- endworld/weapons.md
+- endworld/weapons
 tags:
 - ''
 title: physicalskills
@@ -33,7 +33,7 @@ Enables fluid, precise movement such as dodging, climbing, rolling, flipping, an
 
 ### Weapon()
 
-Determines Effectiveness with a specified [weapons](endworld/weapons.md)
+Determines Effectiveness with a specified [weapons](endworld/weapons)
 
 ### Footwork
 

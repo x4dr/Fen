@@ -1,7 +1,15 @@
+---
+outgoing links:
+- endworld/ewrules
+- endworld/alacast
+tags:
+- ''
+title: healing
+---
 ## Healing
 
 For living entities, damage is tracked as **wounds**, with severity equal to the remaining damage after defenses.  
-While a wound is healing, the result of a Fitness check (usually no skills) divided by 2 is accumulated, then the Contamination exceeding the characters [Resistance](ewrules) is subtracted, once per day.
+While a wound is healing, the result of a Fitness check (usually no skills) divided by 2 is accumulated, then the Contamination exceeding the characters [Resistance](endworld/ewrules) is subtracted, once per day.
 If multiple days pass with roughly the same conditions, the average of 3 rolls is taken and extrapolated.
 
 If in active care, the healing skill/treatment level may be used as skill in the checks.
@@ -65,8 +73,8 @@ Medicines and equipment provide bonuses or penalties, if the roll clears the [5]
 - Apply **sum of all dice that are below or at the threshold of the technology used** as a new wound
 - Ingress wound level and contamination drop by  [8, 11, 14, 17, 20].
 
-In all cases [Alacast](alacast) is used to precipitate Contamination from the body, the  
-crudest way is to introduce Alacast into the bloodstream to precipitate the contamination inside the body and hope the body expels  it on its own, more refined ways are basically a dialysis or a very specific targetting of crystallization seeds  and retrieval of precipitation clusters.
+In all cases [Alacast](endworld/alacast) is used to precipitate Contamination from the body, the  
+crudest way is to introduce Alacast into the bloodstream to precipitate the contamination inside the body and hope the body expels  it on its own, more refined ways are basically a dialysis or a very specific targeting of crystallization seeds  and retrieval of precipitation clusters.
 
 #### Treatment Methods
 | Name                              | Threshhold |

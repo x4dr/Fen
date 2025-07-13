@@ -1,4 +1,11 @@
-[Computers](computers)
+---
+outgoing links:
+- endworld/mecha/computers
+tags:
+- ''
+title: support
+---
+[Computers](endworld/mecha/computers)
 ## Seal Systems
 
 | Tech         | Seal Level | Resistance | Cost/Sector |

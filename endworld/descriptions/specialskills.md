@@ -1,12 +1,25 @@
+---
+outgoing links:
+- endworld/contamination
+- endworld/healing
+- endworld/ewrules#Broad Skills
+- endworld/ewrules#resonance
+- endworld/ewrules#Broad Skills
+- endworld/descriptions/attributes#special
+- endworld/descriptions/attributes#special
+tags:
+- ''
+title: specialskills
+---
 # Special Skills
 
 ## Skills
 ### Reservoir
 
-When the Characters [Contamination](contamination) exceeds their Resistance, this skill may be used to contain the additional contamination, only one effect can be applied until  the Contamination is brought below Resistance.
+When the Characters [Contamination](endworld/contamination) exceeds their Resistance, this skill may be used to contain the additional contamination, only one effect can be applied until  the Contamination is brought below Resistance.
 Focus - for short term situations, lowers the (just applied) Ingress Wound by [5,8,11,14,17,20]
 Intuition - +[5,10,15,17,20] Bonus dice on usages of Contamination, and Malus dice on resisting and healing. 
-Discipline - The influence of contamination on [healing](healing) is lowered by [5,8,11,14,17,20] for one week. 
+Discipline - The influence of contamination on [healing](endworld/healing) is lowered by [5,8,11,14,17,20] for one week. 
 
 # Contamination Restoration
 
@@ -25,7 +38,7 @@ Level 2: You may choose a Resonance frequency to Ignore.
 Level 3: You may, after rolling, decide which resonances to apply and which to ignore.
 
 
-## [Broad Skill](ewrules#Broad Skills)s
+## [Broad Skill](endworld/ewrules#Broad Skills)s
 Special skills are given here as examples, they can and should be created speci
 ### Raven
 
@@ -47,7 +60,7 @@ General manipulation of Contamination by a shaman.
 
 Innate superhuman traits awakened in a tribal warrior.
 
-* **Resonant Healing** – Perk: Total [Amplitude](ewrules#resonance) of Frequencies (10-Discipline-Resonant Body) bonus healing transferred from Contaminatio
+* **Resonant Healing** – Perk: Total [Amplitude](endworld/ewrules#resonance) of Frequencies (10-Discipline-Resonant Body) bonus healing transferred from Contaminatio
 * **Tireless** – Focus roll to negate exhaustion. 1 Contamination per started hour.
 * **Ancestors' Strength** – Perk Add Intuition to a Physical skill roll (once per level per day).
 
@@ -61,8 +74,8 @@ Legendary endurance and survival seen in rare Tribals.
 
 ### Ranged Mech Weapons 
 
-This [Broad Skill](ewrules#Broad Skills) Covers all weapons too large to be handheld, including mounted turrets and vehicle-grade systems, usually mech weapons.
-Usually used with the [Focus](attributes#special-attributes) Attribute and another skill depending on Tactics, surroundings or Systems.
+This [Broad Skill](endworld/ewrules#Broad Skills) Covers all weapons too large to be handheld, including mounted turrets and vehicle-grade systems, usually mech weapons.
+Usually used with the [Focus](endworld/descriptions/attributes#special) Attribute and another skill depending on Tactics, surroundings or Systems.
 
 This group of 7 Skills starts with 3 Skillgaps by default.
 
@@ -92,7 +105,7 @@ Massive close-range weapons. Unmatched in close quarters, but nearly useless at 
 ### Piloting Practice
 
 Covers maneuvering mechs in various environments and sizes.
-Usually used with the [Discipline](attributes#special-attributes) Attribute and another skill depending on Task
+Usually used with the [Discipline](endworld/descriptions/attributes#special) Attribute and another skill depending on Task
 This group of 17 skills starts with 12 skillgaps by default-
 #### Terrain
 

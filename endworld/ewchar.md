@@ -1,3 +1,17 @@
+---
+outgoing links:
+- endworld/descriptions/physicalskills
+- endworld/descriptions/socialskills
+- endworld/descriptions/mentalskills
+- endworld/descriptions/abilityskills
+- endworld/descriptions/specialskills
+- endworld/contamination
+- endworld/Fate
+- endworld/techlevels
+tags:
+- ''
+title: ewchar
+---
 # Characters 
 
 Each character consists of foundational traits: 
@@ -19,15 +33,15 @@ Every Attribute starts at one. For the first 4 accumulated Skill levels, there a
 
 Each character’s competencies are divided into five **Categories**. These represent the broad areas in which skills are grouped and influence how a character interacts with the world, others, and their own potential. Categories are used to organize Skills and determine Attribute levels through accumulated expertise.
 
-* **[Physical](physicalskills)** — Covers personal interaction with the physical environment.
+* **[Physical](endworld/descriptions/physicalskills)** — Covers personal interaction with the physical environment.
 
-* **[Social](socialskills)** — Involves communication, influence, and interaction with other characters or sentient actors.
+* **[Social](endworld/descriptions/socialskills)** — Involves communication, influence, and interaction with other characters or sentient actors.
 
-* **[Mental](mentalskills)** — Governs perception, analysis, knowledge and internal processing of information.
+* **[Mental](endworld/descriptions/mentalskills)** — Governs perception, analysis, knowledge and internal processing of information.
 
-* **[Ability](abilityskills)** — Applies to general capability, adaptability, and tasks tied to a character’s role or identity.
+* **[Ability](endworld/descriptions/abilityskills)** — Applies to general capability, adaptability, and tasks tied to a character’s role or identity.
 
-* **[Special](specialskills)** — Represents unique mechanics that can define a character’s gameplay.
+* **[Special](endworld/descriptions/specialskills)** — Represents unique mechanics that can define a character’s gameplay.
 
 ### Skills
 
@@ -45,9 +59,9 @@ Each character’s competencies are divided into five **Categories**. These repr
 
 In addition to Attributes and Skills, each character possesses three Core Stats, representing Characteristics that are not learned or (not usually) improved over the course of the game
 
-* **Resistance** reflects the character’s capacity to endure [Contamination](contamination) and escape grievous Injury.
-* **Fate** captures narrative weight, [luck](Fate), and unrealized potential.
-* **Affinity** measures the intuitive and technical ability to operate [Technologies](techlevels).
+* **Resistance** reflects the character’s capacity to endure [Contamination](endworld/contamination) and escape grievous Injury.
+* **Fate** captures narrative weight, [luck](endworld/Fate), and unrealized potential.
+* **Affinity** measures the intuitive and technical ability to operate [Technologies](endworld/techlevels).
 
 Each Core Stat ranges from 1-5, inclusive. Their total always adds up to 10
 

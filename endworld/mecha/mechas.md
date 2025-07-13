@@ -1,10 +1,23 @@
+---
+outgoing links:
+- endworld/mecha/systems/movement
+- endworld/mecha/systems/energy
+- endworld/mecha/systems/heat
+- endworld/mecha/systems/offensive
+- endworld/mecha/systems/defensive
+- endworld/mecha/systems/support
+- endworld/mecha/systems/support#seals
+tags:
+- ''
+title: mechas
+---
 # Mecha
 Mecha, short for mechanical, are typically giant walking robots, ruleswise, everything consisting of parts, having systems and having weight is handled as mecha, such as: cars, bikes, static defense towers, artillery installations, giant walking robots, giant treaded robots, Fridges and so on.
 
 A Mech has a size in Sectors which corresponds (roughly) to its weight, and a class, which is relevant for usage, representation in world and so on.
 
 A mech can have multiple systems to accomplush tasks or Manage resources, like
-[Movement](movement), [Energy](energy), [Heat](heat), [Offensive](offensive), [Defensive](defensive) and [Support](support), as well as a [Seal](support) to protect against Contamination.
+[Movement](endworld/mecha/systems/movement), [Energy](endworld/mecha/systems/energy), [Heat](endworld/mecha/systems/heat), [Offensive](endworld/mecha/systems/offensive), [Defensive](endworld/mecha/systems/defensive) and [Support](endworld/mecha/systems/support), as well as a [Seal](endworld/mecha/systems/support#seals) to protect against Contamination.
 
 ## Sizes
 | Sectors | Mech Class        | Weight |

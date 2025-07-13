@@ -1,9 +1,21 @@
+---
+outgoing links:
+- endworld/supervivo
+- endworld/mecha/mechas
+- endworld/tribes
+- endworld/healing
+- endworld/ewchar#Core-Stats
+- endworld/ewchar#Core-Stats
+tags:
+- ''
+title: contamination
+---
 ## Contamination
 
 Contamination is a term for the mix of technology-destroying nanoweapons, radiation, pollution, and environmental hazards.  
 It spreads through air, water, blood, and permeates almost everything in the environment.  
 Contamination is measured by a **level** indicating its intensity.  
-Only inside the Domes of the [Supervivo](supervivo), inside a [Mech](mechas), or similarly purified environments can contamination reach level 0.  
+Only inside the Domes of the [Supervivo](endworld/supervivo), inside a [Mecha](endworld/mecha/mechas), or similarly purified environments can contamination reach level 0.  
 Levels below 0 are needed to dismantle Experimental Tech, but such purity is very hard to achieve.
 
 - **Levels 1–3:** Rare, low contamination zones like mines, airlocks, outdoor markets, and settlements.  
@@ -12,7 +24,7 @@ Levels below 0 are needed to dismantle Experimental Tech, but such purity is ver
   Without permanent resistance, death is possible but life expectancy is usually a few months.
 - **Levels 7–11:** Mostly tribals live here; some Category-B might camp temporarily.  
   Without protection, death occurs within weeks.
-- **Levels 12–15:** Sparsely inhabited by hardy tribals; mostly deserted.
+- **Levels 12–15:** Sparsely inhabited by hardy [tribals](endworld/tribes); mostly deserted.
 - **Levels 16+:** Most hostile areas where strange phenomena happen; rumored to hide great treasure.
 
 There is no upper limit to contamination levels.  
@@ -30,12 +42,12 @@ Water naturally draws contamination and is usually 2-3 times as contaminated as 
 
 When an entity takes contamination damage, they roll their contamination resistance plus relevant modifiers.  
 Remaining damage (above 0) is applied to a wound called "Contamination Ingress", increasing it or creating it if there currently isn't one, and raises the entity’s contamination by 1.  
-The current contamination level grants an internal bonus to ingress resistance rolls causes complications during, [healing](healing), making a little scratch potentially life threatening.
+The current contamination level grants an internal bonus to ingress resistance rolls causes complications during, [healing](endworld/healing), making a little scratch potentially life threatening.
 
-People roll [Resistance](ewchar#Core-Stats) as the attribute, unless they have equipment or skills which can be used in Ingress resistance, nothing else.
+People roll [Resistance](endworld/ewchar#Core-Stats) as the attribute, unless they have equipment or skills which can be used in Ingress resistance, nothing else.
 Mecha/Technology use their Adaptation level, any leftovers are applied as Contamination Ingress Damage from the outside in.
 
-Contact with Contaminated entities (Systems in the same Mecha are in contact) applies their Contamination, once per hour if the receiver has no bonuses to its resistance, and every time an [Affinity](ewchar#Core-Stats) roll fails or resonates with 1, Contamination Damage is applied as well, with the Amplitude of the Affinity rolls 1-Resonance AND the amplitude of the Contamination rolls 1-Resonance added.
+Contact with Contaminated entities (Systems in the same Mecha are in contact) applies their Contamination, once per hour if the receiver has no bonuses to its resistance, and every time an [Affinity](endworld/ewchar#Core-Stats) roll fails or resonates with 1, Contamination Damage is applied as well, with the Amplitude of the Affinity rolls 1-Resonance AND the amplitude of the Contamination rolls 1-Resonance added.
 This means that even 1 Contamination can in unlucky circumstances start damaging equipment, even though it is usually safe.
 
 A character may 

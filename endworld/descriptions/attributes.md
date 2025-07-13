@@ -1,3 +1,8 @@
+---
+outgoing links: []
+tags: []
+title: attributes
+---
 # Attributes
 
 Attributes represent in which aspects of the game world a character excels and where they do not. 
@@ -5,7 +10,7 @@ Every Attribute can be applied to a variety of general actions — see the examp
 
 | Priorities | Social     | Mental     | Physical  | Ability    | Special    |
 | ---------- | ---------- | ---------- | --------- | ---------- |------------|
-|            | Resolve    | Perception | Fitness   | Competence | Intuition  |
+|            | Resolve    | Perception | Fitness   | Practice | Intuition  |
 | Attributes | Impression | Mind       | Dexterity | Insight    | Focus      |
 |            | Sympathy   | Knowledge  | Agility   | Theory     | Discipline |
 

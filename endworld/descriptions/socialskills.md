@@ -1,13 +1,15 @@
 ---
-outgoing links: []
-tags: []
+outgoing links:
+- endworld/trade
+tags:
+- ''
 title: socialskills
 ---
 # Social Skills
 
 ## Trade
 
-The skill of negotiation in transactions—buying, selling, bartering, or striking deals with material value. See [Trade](trade).
+The skill of negotiation in transactions—buying, selling, bartering, or striking deals with material value. See [Trade](endworld/trade).
 
 ## Diplomacy
 

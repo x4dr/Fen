@@ -1,7 +1,17 @@
+---
+outgoing links:
+- endworld/intro
+- endworld/ewchar
+- endworld/equipment
+- endworld/ewrules#bonus-and-penalty-dice
+tags:
+- ''
+title: ewrules
+---
 # Rules
-Rules for the [Endworld Pen And Paper](intro) System
+Rules for the [Endworld Pen And Paper](endworld/intro) System
 
-## The Selector System <a name="sec:selectorsystem"></a>
+## The Selector System
 
 This system uses ten-sided dice.
 A **Check** is a roll of 5 dice interpreted in a specific way, with the result describing how successful the attempted action was.
@@ -20,7 +30,7 @@ Selected dice are then added.
 
 The effects and result of the Check may then be further modified by **Resonance**.
 
-A Check usually involves a [Character](ewchar)s Attributes and Skills, but might also use Selectors from [Equipment](equipment)
+A Check usually involves a [Character](endworld/ewchar)s Attributes and Skills, but might also use Selectors from [Equipment](endworld/equipment)
 
 ---
 
@@ -55,7 +65,7 @@ In many places the degrees of success are given by a Formatting such as [3,7,17]
 # Broad Skills
 
 Broad skills encompass a wide range of activities, listed inside it and has opportunities for specialization and Gaps
-A Gap is a listed subskill which the Broad Skill does not apply to, and a specialization provides a [bonus die](ewrules#bonus-and-penalty-dice) when the broadskill is used for that purpose.
+A Gap is a listed subskill which the Broad Skill does not apply to, and a specialization provides a [bonus die](endworld/ewrules#bonus-and-penalty-dice) when the broadskill is used for that purpose.
 At level 1, one Skillgap may be taken in exchange for a specialization if the way of learning the skill might have focussed on one part of it, while neglecting another.
 At level 2, if the opportunity for study arises in game another specialization can be picked.
 Specializations and Skillgaps do not affect the Attribute contribution of a Broad Skill
