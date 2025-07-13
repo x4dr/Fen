@@ -8,11 +8,12 @@ title: abilityskills
 
 ## Biochroma
 
-Biochroma represents the integration of biology and human intent. It is split into these traditional colors, as its full scope is too vast for individuals to holds
+Biochroma represents the integration of biology and human intent. It is split into these traditional colors, as its full scope is too vast for individuals to hold. 
+Each Color is its own Skill.
 
 * **Red** focuses on managing life itself, including health, healing, decontamination, pharmacology, human genetics and obscurer things like automedics and healing potions.
 * **Green** deals with the passive environmental, like agriculture, anomalies, detoxification and plant genetics.
-* **Blue** once only dealt with the deep, the study and utilization of megafauna and bodies of water have advanced far.
+* **Blue** once only dealt with the deep, the study and utilization of [megafauna](megafauna) and bodies of water have advanced far.
 * **White** applies biological processes to industrial manufacturing, including air purification, ore refining and contamination hardening.
 * **Black** encompasses the dark arts, such as cybernetic integration, synthetic life, and artificial intelligence. It is rare and merely knowing about it varies from frowned upon to highly illegal, depending on area. Autonomous Machines are usually illegal, while prosthetics tend to be generally accepted.
 
