@@ -11,7 +11,7 @@ tags: []
 [TOC]
 # XP
 ## Kontext
-[Siehe hier](level up)
+[Siehe hier](/archive/level up)
 ## Kurz
 T - Training/Herumprobieren (optional: (wochen/gefordert))
 L - Lehrer
