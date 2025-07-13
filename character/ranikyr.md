@@ -7,7 +7,6 @@ tags:
 - character
 title: Char-Sheet Ranikyr
 ---
-
 # Charakter
 
 |           |                          |
@@ -70,10 +69,10 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 
 | Vorteil                     | Name                |
 |-----------------------------|---------------------|
-| [Dolch](schools#dolch)      | Verzögerte Bewegung |
+| Dolch     | Verzögerte Bewegung |
 |                             | Hechten             |
 |                             |                     |
-| [Kurzbogen](bows#kurzbogen) | Kurzbogentraining   |
+| Kurzbogen | Kurzbogentraining   |
 |                             | Kampfschießen       |
 
 
@@ -156,7 +155,7 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 
 | Konzept                     | Level |
 |-----------------------------|-------|
-| [Schamanistisch](shamanism) | 2     |
+| Schamanistisch| 2     |
 
 
 ### Aspekte
@@ -171,11 +170,11 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 
 | Zauber                           | Name                      |
 |----------------------------------|---------------------------|
-| [Elementar](shamanism#elementar) | Feuer entzünden           |
+| Elementar| Feuer entzünden           |
 |                                  | Windrichtung beeinflussen |
 |                                  | Wasser-Manipulation       |
 |                                  |                           |
-| [Illusion](shamanism#illusion)   | Verschleierung            |
+| Illusion   | Verschleierung            |
 |                                  | Verdunklung               |
 
 

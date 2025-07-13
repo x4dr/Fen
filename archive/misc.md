@@ -9,9 +9,9 @@ title: misc
 
 ### Waffenfähigkeiten
 
-kurz/lang/reiter[bogen](bows) sind *unterschiedlich*,  
+kurz/lang/reiterbogen sind *unterschiedlich*,  
 
-[Säbel](fencing), Anderthalbhänder, [Kurzschwert](shortsword) sind *unterschiedlich*,   
+Säbel, Anderthalbhänder, Kurzschwert sind *unterschiedlich*,   
 
 Wurfmesser, Wurfäxte und Nichtwaffenwurfobjekte sind *unterschiedlich*,  
 
@@ -69,11 +69,6 @@ Langwirkende Gifte, haben ein Intervall in dem dieser Wurf wiederholt wird (3 ma
 
 Krankheit ist effektiv ein Umgebungsgift, dass den Character unter gewissen Umständen "angreift". 
 
-
-
-### Wundheilung
-
-Siehe [Den Artikel über Heilung](healing)
 
 
 

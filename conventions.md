@@ -1,17 +1,21 @@
 ---
 cssclass: clean-embeds
-outgoing links: []
-tags: []
+outgoing links:
+- archive/level up
+- shorthand
+- weapons
+- prices
+- items
+tags:
+- ''
 title: conventions
 ---
-
-
 title: Konventionen  
 tags: []
 [TOC]
 # XP
 ## Kontext
-[Siehe hier](/archive/level up)
+[Siehe hier](archive/level up)
 ## Kurz
 T - Training/Herumprobieren (optional: (wochen/gefordert))
 L - Lehrer
@@ -82,8 +86,8 @@ Wenn eine Fähigkeit (auch wenn sie 0 ist) beim Zusammenrechnen der Punkte einer
 Dazu wird unter der Überschrift XP(oder Erfahrung) nach einer Tabelle gesucht die XP Zeilen enthält.
 
 ### Beispiel für Xp zeile
-|Beispielfähigkeit | TTT P(8/24)I[Seegard, Tantor] (Limasu)|
-Dies, ohne eine Aussage über das aktuelle Level zu machen, sagt aus, dass 3 Trainingseinheiten absolviert wurden, eine Praxis nochnicht absolviert wurden, Inspiration gehabt wurde (was Level 0->1 impliziert) und Seegard und Tantor besucht worden sind um dort die lokale Kultur von Beispielfähigkeit aufzusaugen. Leerzeichen(Limasu) entfernt das Leerzeichen mit (wichtig) und ist lediglich eine Notiz. [Seegard,Tantor](Limasu) würde ] entfernen und auf einmal werden aus TTT+I+Tantor+Seegard = 6 TTT+I+[+T+a+n+t+o+r usw, was wesentlich mehr als 6 sind.
+|Beispielfähigkeit | TTT P(8/24)I (Limasu) [Seegard, Tantor] |
+Dies, ohne eine Aussage über das aktuelle Level zu machen, sagt aus, dass 3 Trainingseinheiten absolviert wurden, eine Praxis nochnicht absolviert wurden, Inspiration gehabt wurde (was Level 0->1 impliziert) und Seegard und Tantor besucht worden sind um dort die lokale Kultur von Beispielfähigkeit aufzusaugen. Leerzeichen(Limasu) entfernt das Leerzeichen mit (wichtig) und ist lediglich eine Notiz. [Seegard,Tantor] (Limasu) würde ] entfernen und auf einmal werden aus TTT+I+Tantor+Seegard = 6 TTT+I+[+T+a+n+t+o+r usw, was wesentlich mehr als 6 sind.
 Dinge in (Klammern) werden nicht gezählt, aber Klammern invalidieren das Zeichen direkt davor P(22/12) zählt immernoch als 0, [] ist 0, mit etwas zwischen den Klammern ist es 1 + Anzahl der kommata.
 
 ### Warnung
