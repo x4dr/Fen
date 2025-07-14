@@ -7,14 +7,29 @@ outgoing links:
 - endworld/ewrules#Broad Skills
 - endworld/descriptions/attributes#special
 - endworld/descriptions/attributes#special
-tags: !!set
-  ? ''
-  : null
+tags:
+- ''
 title: specialskills
 ---
 # Special Skills
 
 ## Skills
+### Critical Eye
+Level 1: 1 per day
+Level 2: 1 per scene
+Level 3: refreshes on a resonance of choice (before roll)
+
+Uncovers a critical weakness, that, if taken advantage of grants 2 bonus dice
+
+TODO
+
+### Bloodletting
+This skill can be used to decontaminate (without alacast) anything, in proportion to damage caused.
+1 contamination - total construction
+every [5,7,9,11,13,15,17,19,20] halves damage
+TODO
+
+
 ### Reservoir
 
 When the Characters [Contamination](endworld/contamination) exceeds their Resistance, this skill may be used to contain the additional contamination, only one effect can be applied until  the Contamination is brought below Resistance.
@@ -31,7 +46,7 @@ While Contamination exceeds Resistance, this skill can be used in Healing.
 This skill represents a pilot’s ability to push their control in battle via neural implants.  
 When activated, it can be used as a third selector during a roll that would benefit from faster or more precise control. For each Resonance triggered in the roll, the pilot suffers one wound of severity equal to the Amplitude of that Resonance.
 
-# Anechoic
+### Anechoic
 Perks/Passives
 Anechoic can be used once per Scene:
 Level 1: You may choose (before a roll) that there will be no resonances whatsoever
