@@ -7,8 +7,9 @@ outgoing links:
 - endworld/ewrules#Broad Skills
 - endworld/descriptions/attributes#special
 - endworld/descriptions/attributes#special
-tags:
-- ''
+tags: !!set
+  ? ''
+  : null
 title: specialskills
 ---
 # Special Skills
@@ -21,7 +22,7 @@ Focus - for short term situations, lowers the (just applied) Ingress Wound by [5
 Intuition - +[5,10,15,17,20] Bonus dice on usages of Contamination, and Malus dice on resisting and healing. 
 Discipline - The influence of contamination on [healing](endworld/healing) is lowered by [5,8,11,14,17,20] for one week. 
 
-# Contamination Restoration
+### Contamination Restoration
 
 While Contamination exceeds Resistance, this skill can be used in Healing.
 
