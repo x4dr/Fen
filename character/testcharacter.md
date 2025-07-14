@@ -1,15 +1,15 @@
 ---
 outgoing links: []
 tags:
-- MARIC
-- endworld
 - Character
-title: Test Character
+- endworld
+- MARIC
+title: Testcharacter
 ---
 # Description
 
 ## name
-Test Character
+Testcharacter
 
 # Values
 
@@ -20,14 +20,13 @@ Test Character
 | Attribute | Value |
 |-----------|-------|
 | Agility   | 1     |
-| Dexterity | 3     |
-| Fitness   | 1     |
+| Dexterity | 1     |
+| Fitness   | 2     |
 
 ### Skills
 
 | Skill           | Value |
 |-----------------|-------|
-| Acrobatics      | 2     |
 | Heavy Athletics | 3     |
 | Running         | 3     |
 
@@ -35,12 +34,20 @@ Test Character
 
 ### Attributes
 
+| Attribute  | Value |
+|------------|-------|
+| Knowledge  | 1     |
+| Mind       | 1     |
+| Perception | 4     |
+
 ### Skills
 
 | Skill    | Value |
 |----------|-------|
-| Strategy | 2     |
-| Tactics  | 2     |
+| Instinct | 3     |
+| Search   | 3     |
+| Strategy | 3     |
+| Tactics  | 1     |
 
 ## Social
 
@@ -48,15 +55,15 @@ Test Character
 
 | Attribute  | Value |
 |------------|-------|
-| Impression | 5     |
-| Resolve    | 1     |
+| Impression | 1     |
+| Resolve    | 5     |
 | Sympathy   | 1     |
 
 ### Skills
 
 | Skill        | Value |
 |--------------|-------|
-| Intimidation | 3     |
+| Diplomacy    | 3     |
 | Misdirection | 3     |
 | Rhetoric     | 3     |
 | Style        | 3     |
@@ -68,33 +75,26 @@ Test Character
 | Attribute | Value |
 |-----------|-------|
 | Insight   | 1     |
-| Practice  | 1     |
-| Theory    | 2     |
+| Practice  | 3     |
+| Theory    | 1     |
 
 ### Skills
 
 | Skill       | Value |
 |-------------|-------|
 | Computer    | 3     |
-| Engineering | 3     |
+| Defense     | 3     |
+| Engineering | 2     |
 
 ## Special
 
 ### Attributes
 
-| Attribute  | Value |
-|------------|-------|
-| Discipline | 1     |
-| Focus      | 3     |
-| Intuition  | 2     |
-
 ### Skills
 
 | Skill        | Value |
 |--------------|-------|
-| Cortex Drive | 3     |
+| Cortex Drive | 1     |
 | Spirit       | 3     |
-| Terrain      | 2     |
-| Weightclass  | 2     |
 
 # Notes
