@@ -1,11 +1,12 @@
 ---
 outgoing links: []
-tags:
-- endworld
-- ALBARN
-- Character
+tags: !!set
+  ALBARN: null
+  Character: null
+  endworld: null
 title: Oscar Sonorix
 ---
+
 # Description
 
 ## core stats
@@ -13,7 +14,6 @@ title: Oscar Sonorix
 Resistance 3
 Fate 2
 Affinity 5
-
 
 ## name
 Oscar Sonorix
@@ -32,13 +32,14 @@ Oscar Sonorix
 
 ### Skills
 
-| Skill          | Value |
-|----------------|-------|
-| Acrobatics     | 1     |
-| Footwork       | 2     |
-| Running        | 1     |
-| Survival       | 2     |
-| Weapon(knife)  | 2     |
+| Skill         | Value |
+|---------------|-------|
+| Acrobatics    | 1     |
+| Footwork      | 2     |
+| Running       | 1     |
+| Survival      | 1     |
+| Weapon(knife) | 2     |
+| Weapon(claws) | 1     |
 
 ## Mental
 
@@ -113,9 +114,9 @@ Oscar Sonorix
 
 ### Skills
 
-| Skill                        | Value |
-|------------------------------|-------|
-| bloodletting                 | 2     |
-| critical eye                 | 2     |
+| Skill        | Value |
+|--------------|-------|
+| bloodletting | 2     |
+| critical eye | 2     |
 
 # Notes
