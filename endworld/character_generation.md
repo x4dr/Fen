@@ -8,8 +8,9 @@ outgoing links:
 - endworld/contamination
 - endworld/Fate
 - endworld/techlevels
-tags:
-- ''
+tags: !!set
+  ? ''
+  : null
 title: ewchar
 ---
 # Characters 
@@ -27,9 +28,10 @@ which together reflect their capabilities, aptitudes, and resilience in a world 
 
 **Attributes** represent broad inherent capabilities. They define how effective a character is in a general domain of action and are usually one of two **Selectors**. Attributes range from 1 (incapable) to 5 (peak human potential) and are derived from the total Score of Skills in that Category.
 
-Every Attribute starts at one. For the first 4 accumulated Skill levels, there are no additional Attribute points, but another Attribute point may be spent for every second level after. So the total is 3+(Skill Levels - 4)/2 rounded down.
+The Attributes of a Category have one point among them by default, but another Attribute point may be spent for every second level after. 
 
-### The Categories
+An Attribute of 0 means the associated actions usually fail and the character is disabled in some way. Attributes from 1-5 represent increasing Adeptness, with a level of 1 being a weak point of the character, 2 being general competence. 3 being a strong point, 4 being extraordinary in that attribute and 5 being as adept as a human can be.
+## The Categories
 
 Each character’s competencies are divided into five **Categories**. These represent the broad areas in which skills are grouped and influence how a character interacts with the world, others, and their own potential. Categories are used to organize Skills and determine Attribute levels through accumulated expertise.
 
