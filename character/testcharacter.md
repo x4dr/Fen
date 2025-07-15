@@ -2,14 +2,29 @@
 outgoing links: []
 tags:
 - Character
-- endworld
 - MARIC
+- endworld
 title: Testcharacter
 ---
 # Description
 
 ## name
 Testcharacter
+
+## age
+3
+
+## what
+is this
+
+## Affinity
+2
+
+## Fate
+4
+
+## Resistance
+4
 
 # Values
 

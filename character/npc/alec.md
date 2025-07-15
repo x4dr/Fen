@@ -4,6 +4,14 @@ tags: !!set {}
 title: Testcharakter
 ---
 
+### Attribute
+
+| Attribut              | Level |
+|-----------------------|-------|
+| Durchsetzungsvermögen | 1     |
+| Sympathie             | 1     |
+| Eindruck              | 1     |
+
 # Charakter
 
 ## Name
