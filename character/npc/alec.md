@@ -1,6 +1,6 @@
 ---
 outgoing links: []
-tags: []
+tags: !!set {}
 title: Testcharakter
 ---
 
@@ -33,7 +33,6 @@ Vollstrecker
 | Agilität     | 2     |
 | Geschick     | 2     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit  | Wert |
@@ -47,7 +46,6 @@ Vollstrecker
 | Kontrolle  | 1    |
 | Meucheln   | 1    |
 
-
 ## Sozial
 
 ### Attribute
@@ -58,7 +56,6 @@ Vollstrecker
 | Sympathie             | 1     |
 | Eindruck              | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
@@ -67,7 +64,6 @@ Vollstrecker
 | Diplomatie    | 1    |
 | Tratsch       | 1    |
 | Authorität    | 1    |
-
 
 ## Mental
 
@@ -79,7 +75,6 @@ Vollstrecker
 | Bildung     | 1     |
 | Geist       | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
@@ -90,7 +85,6 @@ Vollstrecker
 | Metallgilde   | 1    |
 | Navigation    | 1    |
 
-
 ## Können
 
 ### Attribute
@@ -100,7 +94,6 @@ Vollstrecker
 | Theorie  | 2     |
 | Praxis   | 4     |
 | Einblick | 1     |
-
 
 ### Fähigkeiten
 
@@ -117,7 +110,6 @@ Vollstrecker
 | Singender Hammer        | 1    |
 | Tarnen                  | 1    |
 
-
 ## Mystisch
 
 ### Attribute
@@ -127,7 +119,6 @@ Vollstrecker
 | Konzentration | 2     |
 | Disziplin     | 2     |
 | Flow          | 1     |
-
 
 ### Fähigkeiten
 
@@ -140,7 +131,6 @@ Vollstrecker
 | Ankern                 | 1    |
 | Waffenbruderschaft     | 2    |
 
-
 # Fortschritt
 
 | Fähigkeit/Vorteil | gesammelt | = |
@@ -149,14 +139,11 @@ Vollstrecker
 | testskill         | 3         | 1 |
 | asd               | 1         |   |
 
-
 # Inventar
 
 | Name       | Anzahl | Gewicht | Preis |
 |------------|--------|---------|-------|
 | [!q:sword] |        |         |       |
-
-
 
 ## Ausrüstung
 
