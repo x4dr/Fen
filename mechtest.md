@@ -1,9 +1,8 @@
 ---
 outgoing links: []
 tags: !!set
-  ? ''
-  : null
-title: ''
+  mech: null
+title: mechtest
 ---
 
 # Description
@@ -60,3 +59,6 @@ title: ''
 | External Experimental Seal | 25.0  |
 
 # Loadouts
+
+## Default
+[0], Wheels, [10.0], Rails, [15.0], Vent, Coolant, Sink, Junk Armor, [20.0], AutoGun, [25.0], Coffee machine, [30.0]
