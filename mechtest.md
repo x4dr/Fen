@@ -20,9 +20,9 @@ title: mechtest
 
 |                     | Energy | Mass | Amount | Enabled |
 |---------------------|--------|------|--------|---------|
-| baseloadreactor     | 50.0   | 5.0  | 1.0    | [ ]     |
-| peakload stage 1    | 20.0   | 5.0  | 1.0    | [ ]     |
-| peakload stage 2    | 20.0   | 5.0  | 1.0    | [x]     |
+| baseloadreactor     | 50.0   | 5.0  | 1.0    | [x]     |
+| peakload stage 1    | 20.0   | 5.0  | 1.0    | -       |
+| peakload stage 2    | 20.0   | 5.0  | 1.0    | -       |
 | backup generator    | 15.0   | 5.0  | 1.0    | [x]     |
 | emergency generator | 10.0   | 5.0  | 1.0    | [x]     |
 
