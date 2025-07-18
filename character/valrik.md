@@ -1,8 +1,8 @@
 ---
 outgoing links: []
-tags:
-- pbta
-- maric
+tags: !!set
+  maric: null
+  pbta: null
 title: Valrik
 ---
 
@@ -36,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 4       | 7       |
+| Stress  | 2       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 3       | 3       |
