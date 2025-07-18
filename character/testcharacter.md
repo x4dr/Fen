@@ -74,11 +74,11 @@ joke character
 
 ### Attributes
 
-| Attribute  | Value |
-|------------|-------|
-| Impression | 0     |
-| Resolve    | 1     |
-| Sympathy   | 0     |
+| Attribute       | Value |
+|-----------------|-------|
+| Impresssssssion | 4     |
+| Resolve         | 1     |
+| Sympathy        | 0     |
 
 ### Skills
 
