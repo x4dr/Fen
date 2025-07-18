@@ -2,8 +2,8 @@
 outgoing links: []
 tags:
 - Character
-- MARIC
 - endworld
+- MARIC
 title: Testcharacter
 ---
 
@@ -12,17 +12,17 @@ title: Testcharacter
 ## name
 Testcharacter
 
-## age
-3
+## alias
+the menace yeff
 
-## what
-is this
+## archetype
+joke character
 
 ## Affinity
-2
+3
 
 ## Fate
-4
+3
 
 ## Resistance
 4
@@ -36,34 +36,39 @@ is this
 | Attribute | Value |
 |-----------|-------|
 | Agility   | 1     |
-| Dexterity | 1     |
-| Fitness   | 2     |
+| Dexterity | 3     |
+| Fitness   | 3     |
 
 ### Skills
 
 | Skill           | Value |
 |-----------------|-------|
+| Footwork        | 3     |
 | Heavy Athletics | 3     |
-| Running         | 3     |
+| Presence        | 3     |
+| Survival        | 3     |
 
 ## Mental
 
 ### Attributes
 
-| Attribute  | Value |
-|------------|-------|
-| Knowledge  | 1     |
-| Mind       | 1     |
-| Perception | 4     |
-
 ### Skills
 
-| Skill    | Value |
-|----------|-------|
-| Instinct | 3     |
-| Search   | 3     |
-| Strategy | 3     |
-| Tactics  | 1     |
+| Skill                  | Value |
+|------------------------|-------|
+| Analysis               | 1     |
+| Appraisal              | 1     |
+| Dicksucking            | 3     |
+| Healing                | 0     |
+| Instinct               | 1     |
+| Knowledge(Shenanigans) | 0     |
+| Logic                  | 1     |
+| Memory                 | 0     |
+| Navigation             | 0     |
+| Research               | 1     |
+| Search                 | 0     |
+| Strategy               | 1     |
+| Tactics                | 1     |
 
 ## Social
 
@@ -71,18 +76,11 @@ is this
 
 | Attribute  | Value |
 |------------|-------|
-| Impression | 1     |
-| Resolve    | 5     |
-| Sympathy   | 1     |
+| Impression | 0     |
+| Resolve    | 1     |
+| Sympathy   | 0     |
 
 ### Skills
-
-| Skill        | Value |
-|--------------|-------|
-| Diplomacy    | 3     |
-| Misdirection | 3     |
-| Rhetoric     | 3     |
-| Style        | 3     |
 
 ## Ability
 
@@ -90,27 +88,22 @@ is this
 
 | Attribute | Value |
 |-----------|-------|
-| Insight   | 1     |
-| Practice  | 3     |
-| Theory    | 1     |
+| Insight   | 0     |
+| Practice  | 1     |
+| Theory    | 0     |
 
 ### Skills
-
-| Skill       | Value |
-|-------------|-------|
-| Computer    | 3     |
-| Defense     | 3     |
-| Engineering | 2     |
 
 ## Special
 
 ### Attributes
 
-### Skills
+| Attribute  | Value |
+|------------|-------|
+| Discipline | 0     |
+| Focus      | 0     |
+| Intuition  | 1     |
 
-| Skill        | Value |
-|--------------|-------|
-| Cortex Drive | 1     |
-| Spirit       | 3     |
+### Skills
 
 # Notes
