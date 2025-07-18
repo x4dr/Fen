@@ -34,12 +34,13 @@ Oscar Sonorix
 
 | Skill         | Value |
 |---------------|-------|
-| Acrobatics    | 1     |
-| Footwork      | 2     |
+| Presence      | 1     |
+| Footwork      | 1     |
 | Running       | 1     |
 | Survival      | 1     |
-| Weapon(knife) | 2     |
+| Conditioning  | 1     |
 | Weapon(claws) | 1     |
+| Weapon(knife) | 2     |
 
 ## Mental
 

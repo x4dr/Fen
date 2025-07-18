@@ -36,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 2       | 7       |
+| Stress  | 0       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 3       | 3       |
@@ -90,5 +90,4 @@ High Lifestyle/Luxury
 | Total        |          |         |             |
 
 # Notes
-i assume finesse is the one for forging documents
-test of change
+1 xp for survey
