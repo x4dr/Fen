@@ -14,7 +14,6 @@ title: oneshotultratank
 | Konzept | Ultratank              |
 | Cover   | Technician             |
 
-
 # Werte
 
 ## Physisch
@@ -27,7 +26,6 @@ title: oneshotultratank
 | Agilität     | 3     |
 | Geschick     | 3     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
@@ -37,7 +35,6 @@ title: oneshotultratank
 | Schutz      | 3    |
 | Schild      | 2    |
 | Tonfa       | 2    |
-
 
 ## Sozial
 
@@ -49,14 +46,12 @@ title: oneshotultratank
 | Sympathie             | 1     |
 | Eindruck              | 2     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit  | Wert |
 |------------|------|
 | Authorität | 2    |
 | Stoizismus | 2    |
-
 
 ## Mental
 
@@ -68,7 +63,6 @@ title: oneshotultratank
 | Bildung     | 2     |
 | Geist       | 3     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit | Wert |
@@ -77,7 +71,6 @@ title: oneshotultratank
 | Instinkt  | 3    |
 | Suchen    | 2    |
 | Politik   | 2    |
-
 
 ## Können
 
@@ -89,7 +82,6 @@ title: oneshotultratank
 | Praxis   | 4     |
 | Einblick | 2     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit         | Wert |
@@ -97,7 +89,6 @@ title: oneshotultratank
 | Antigravitation   | 2    |
 | Experimental Tech | 1    |
 | Hacker            | 3    |
-
 
 ## Mystisch
 
@@ -109,7 +100,6 @@ title: oneshotultratank
 | Disziplin     | 4     |
 | Flow          | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit         | Wert |
@@ -117,7 +107,6 @@ title: oneshotultratank
 | shield projectors | 3    |
 | Unermüdlich       | 2    |
 | Unbeeindruckt     | 3    |
-
 
 # Fortschritt
 
@@ -137,6 +126,5 @@ Zwei (deployable) fliegende schildprojektordrohnen, ein energie basiertes turmsc
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
 |      |        |         |       |
-
 
 ## Ausrüstung

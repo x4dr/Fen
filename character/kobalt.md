@@ -14,7 +14,6 @@ title: Kobalt
 | Sex    | Yes (?) |
 | Horny  | on main |
 
-
 # Werte
 
 ## Physisch
@@ -27,7 +26,6 @@ title: Kobalt
 | Agi      | 2     |
 | Ges      | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit  | Wert |
@@ -37,7 +35,6 @@ title: Kobalt
 | Kontrolle  | 2    |
 | Widerstand | 2    |
 | Stärke     | 1    |
-
 
 ## Sozial
 
@@ -49,7 +46,6 @@ title: Kobalt
 | Sympathie             | 2     |
 | Eindruck              | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit    | Wert |
@@ -58,7 +54,6 @@ title: Kobalt
 | Irrefuehrung | 1    |
 | Irreverence  | 3    |
 | Seduction    | 2    |
-
 
 ## Mental
 
@@ -69,7 +64,6 @@ title: Kobalt
 | Wahrnehmung | 1     |
 | Bildung     | 2     |
 | Geist       | 3     |
-
 
 ### Fähigkeiten
 
@@ -83,7 +77,6 @@ title: Kobalt
 | Naturphilosophie | 1    |
 | Analyse          | 2    |
 
-
 ## Können
 
 ### Attribute
@@ -94,7 +87,6 @@ title: Kobalt
 | Praxis   | 1     |
 | Einblick | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit     | Wert |
@@ -102,7 +94,6 @@ title: Kobalt
 | Kalligraphie  | 1    |
 | Wizard        | 2    |
 | MagieHandwerk | 1    |
-
 
 ## Mystisch
 
@@ -113,7 +104,6 @@ title: Kobalt
 | Konzentration | 5     |
 | Disziplin     | 2     |
 | Flow          | 1     |
-
 
 ### Fähigkeiten
 
@@ -131,7 +121,6 @@ title: Kobalt
 | PerfektChaos                 | 1    |
 | Scrying                      | 1    |
 
-
 ## Schiksal
 
 ### Attribute
@@ -141,7 +130,6 @@ title: Kobalt
 | Wille     | 4     |
 | Gunst     | 2     |
 | Schicksal | 4     |
-
 
 # Fortschritt
 Tratsch 2/5
@@ -193,7 +181,6 @@ Einen sternenkasten ausweis
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
 |      |        |         |       |
-
 
 ## Ausrüstung
 

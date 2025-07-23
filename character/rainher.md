@@ -25,7 +25,6 @@ Charakterkonzept:
 | Ausdauer    |     3 |        0 |
 | Körperkraft |     3 |        1 |
 
-
 ### Fähigkeiten
 
 | Fähigkeiten       | Level | Training |
@@ -38,7 +37,6 @@ Charakterkonzept:
 | Waffe(Wurfmesser) |     2 |        0 |
 | Athletik          |     2 |        0 |
 
-
 ### Vorteile
   
 &nbsp;
@@ -48,7 +46,6 @@ Charakterkonzept:
 | Schnelles Nachladen |     1 |
 | Gezielter Wurf      |     1 |
 | Ausfall             |     1 |
-
 
 ## Können
 
@@ -60,7 +57,6 @@ Charakterkonzept:
 | Wendigkeit       |     3 |
 | Rüstung          |     2 |
 | Artefakte        |     3 |
-
 
 ### Fähigkeiten
 
@@ -81,7 +77,6 @@ Charakterkonzept:
 | Segeln             |                  0 |  800tage |
 | Skizzieren         |                  1 |        0 |
 
-
 ### Vorteile
   
 &nbsp;
@@ -89,7 +84,6 @@ Charakterkonzept:
 | Vorteile                | Level |
 |:------------------------|------:|
 | Artfakte identifizieren |     1 |
-
 
 ## Magie
 
@@ -99,20 +93,17 @@ Charakterkonzept:
 |:-----------|------:|
 | Meditation |     2 |
 
-
 ### Konzepte
 
 | Konzepte    | Level |
 |:------------|------:|
 | Selfchannel |     1 |
 
-
 ### Aspekte
 
 | Aspekte  | Level |
 |:---------|------:|
 | Movement |     1 |
-
 
 ### Fähigkeiten
   
@@ -121,7 +112,6 @@ Charakterkonzept:
 | Zauber       | Stufe |
 |:-------------|------:|
 | Vorschnellen |     1 |
-
 
 ## Weisheit
 
@@ -132,7 +122,6 @@ Charakterkonzept:
 | Bildung             |     2 |
 | Erinnerungsvermögen |     4 |
 | Wahrnehmung         |     3 |
-
 
 ### Fähigkeiten
 
@@ -146,7 +135,6 @@ Charakterkonzept:
 | Wissen(Gebiet)   |     0 |        0 |
 | Strategie        |     1 |        0 |
 | Taktik           |     0 |        0 |
-
 
 ### Vorteile
   
@@ -169,7 +157,6 @@ Charakterkonzept:
 | Atteryazi Lesen      |     0 |
 | Atteryazi Schreiben  |     0 |
 
-
 ## Charisma
 
 ### Attribute
@@ -179,7 +166,6 @@ Charakterkonzept:
 | Eindruck              |     4 |
 | Durchsetzungsvermögen |     3 |
 | Sympathie             |     1 |
-
 
 ### Fähigkeiten
 
@@ -195,7 +181,6 @@ Charakterkonzept:
 |               | Etiquette |        0 |
 |               |   Tratsch |        0 |
 
-
 ### Vorteile
   
 &nbsp;
@@ -203,7 +188,6 @@ Charakterkonzept:
 | Vorteile  | Level |
 |:----------|------:|
 | Verhöhnen |     1 |
-
 
 ## Schicksal
 
@@ -216,7 +200,6 @@ Charakterkonzept:
 | Gunst            |     3 |
 | Rasse(ist auf 1) |     3 |
 
-
 ### Fähigkeiten
 
 | Fähigkeiten                | Level | Training |
@@ -225,7 +208,6 @@ Charakterkonzept:
 | Wille:                     |     0 |        0 |
 | Göttliche Bindung (Ateph): |     1 |        0 |
 | Göttliche Bindung (Gott):  |     0 |        0 |
-
 
 ### Vorteile
   
@@ -242,4 +224,3 @@ total point costs: 667
 |:----------|------:|
 | Begegnung |     2 |
 | Schicksal |     0 |
-

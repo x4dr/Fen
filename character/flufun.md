@@ -5,6 +5,7 @@ tags:
 - anushka
 title: ''
 ---
+
 # Info
 
 ## Name
@@ -40,13 +41,16 @@ High Lifestyle/Luxury
 ## harm
 
 ### 1
+
 ### 2
+
 ### 3
 
 # Moves
 - [x] Infiltrate
 
 # Stats
+
 ## Insight
 
 | Stat   | Value |
@@ -76,11 +80,10 @@ High Lifestyle/Luxury
 
 # Inventory
 
-| Name   | Quantity | Maximum | Description |
-|--------|----------|---------|-------------|
+| Name  | Quantity | Maximum | Description |
+|-------|----------|---------|-------------|
 | Thing | 1        | 1       |             |
 | Thong | 1        | 1       |             |
 
 # Notes
 i assume finesse is the one for forging documents
-

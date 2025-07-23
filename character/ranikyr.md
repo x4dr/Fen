@@ -7,6 +7,7 @@ tags:
 - character
 title: Char-Sheet Ranikyr
 ---
+
 # Charakter
 
 |           |                          |
@@ -18,7 +19,6 @@ title: Char-Sheet Ranikyr
 | Gewicht   | 110kg                    |
 | Haarfarbe | dunkles Grau-Braun       |
 | Statur    | schlank / durchtrainiert |
-
 
 ## Bewaffnung
 Kurz-Bogen, Stahldolch, Bronzedolch 
@@ -53,7 +53,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Kraft        | 2     |
 | Agilität     | 3     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit    | Level |
@@ -64,17 +63,15 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Waffe(Dolch) | 2     |
 | Waffe(Bogen) | 2     |
 
-
 ### Vorteile
 
-| Vorteil                     | Name                |
-|-----------------------------|---------------------|
+| Vorteil   | Name                |
+|-----------|---------------------|
 | Dolch     | Verzögerte Bewegung |
-|                             | Hechten             |
-|                             |                     |
+|           | Hechten             |
+|           |                     |
 | Kurzbogen | Kurzbogentraining   |
-|                             | Kampfschießen       |
-
+|           | Kampfschießen       |
 
 ## Können
 
@@ -86,7 +83,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Einblick  | 2     |
 | Kompetenz | 3     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit               | Level |
@@ -97,7 +93,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Handwerk (Kräuterkunde) | 2     |
 | Handwerk (Pfeilmacher)  | 1     |
 
-
 ## Weisheit
 
 ### Attribute
@@ -107,7 +102,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Bildung     | 2     |
 | Geist       | 3     |
 | Wahrnehmung | 3     |
-
 
 ### Fähigkeiten
 
@@ -120,7 +114,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Navigation            | 1     |
 | Sprache (Prekorisch)  | 2     |
 
-
 ## Charisma
 
 ### Attribute
@@ -131,7 +124,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Durchsetzungsvermögen | 3     |
 | Sympathie             | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit  | Level |
@@ -141,7 +133,6 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Rhetorik   | 1     |
 | Etikette   | 1     |
 
-
 ## Magie
 
 ### Quellen
@@ -150,13 +141,11 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 |----------------------|-------|
 | Lebensenergie (Wild) | 2     |
 
-
 ### Konzepte
 
-| Konzept                     | Level |
-|-----------------------------|-------|
-| Schamanistisch| 2     |
-
+| Konzept        | Level |
+|----------------|-------|
+| Schamanistisch | 2     |
 
 ### Aspekte
 
@@ -165,18 +154,16 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Elementar-Manipulation | 2     |
 | Illusion               | 2     |
 
-
 ### Zauber
 
-| Zauber                           | Name                      |
-|----------------------------------|---------------------------|
-| Elementar| Feuer entzünden           |
-|                                  | Windrichtung beeinflussen |
-|                                  | Wasser-Manipulation       |
-|                                  |                           |
-| Illusion   | Verschleierung            |
-|                                  | Verdunklung               |
-
+| Zauber    | Name                      |
+|-----------|---------------------------|
+| Elementar | Feuer entzünden           |
+|           | Windrichtung beeinflussen |
+|           | Wasser-Manipulation       |
+|           |                           |
+| Illusion  | Verschleierung            |
+|           | Verdunklung               |
 
 ## Schicksal
 
@@ -188,14 +175,12 @@ Zeitgleich zu seinem Aufstieg begann in ihm jedoch der Zweifel am allgemeinen He
 | Mut      | 2     |
 | Gunst    | 1     |
 
-
 ### Fähigkeiten
 
 | Fähigkeit | Level |
 |-----------|-------|
 | Wille     | 2     |
 | Fügung    | 1     |
-
 
 # Inventar
 
