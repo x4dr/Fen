@@ -30,15 +30,15 @@ title: mechtest
 
 |         | Energy | Mass | Amount | Capacity | Passive | Active | Flux | Current | Enabled |
 |---------|--------|------|--------|----------|---------|--------|------|---------|---------|
-| Vent    | 30     | 0.25 | 2      | 100.0    | 10%     | 2      | 5.0  | 0.0     | [x]     |
-| Coolant | 5      | 0.1  | 1      | 50.0     | 0       | 10     | 25.0 | 0.0     | [x]     |
-| Sink    | 0      | 1    | 1      | 400.0    | 1%      | 0.01   | 0.0  | 0.0     | [x]     |
+| Vent    | 30.0   | 0.25 | 2.0    | 100.0    | 10%     | 2      | 5.0  | 0.0     | [x]     |
+| Coolant | 5.0    | 0.1  | 1.0    | 50.0     | 0       | 10     | 25.0 | 0.0     | [x]     |
+| Sink    | 0.0    | 1.0  | 1.0    | 400.0    | 1%      | 0.01   | 0.0  | 0.0     | [x]     |
 
 ## Offensive
 
 |         | Energy | Mass | Amount | Enabled |
 |---------|--------|------|--------|---------|
-| AutoGun | 30.0   | 7.0  | 1.0    |         |
+| AutoGun | 30.0   | 7.0  | 1.0    | [x]     |
 
 ## Defensive
 
@@ -61,4 +61,4 @@ title: mechtest
 # Loadouts
 
 ## Default
-[0], Wheels, [10.0], Rails, [15.0], Vent, Coolant, Sink, Junk Armor, [25.0], AutoGun, [40.0], Coffee machine, [50.0]
+[0], Wheels, [10.0], Rails, [15.0], Vent, [25.0], Coolant, Sink, Junk Armor, AutoGun, [40.0], Coffee machine, [50.0]
