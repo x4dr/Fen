@@ -23,8 +23,8 @@ title: mechtest
 | baseloadreactor     | 50.0   | 5.0  | 3.0    | [x]     |
 | peakload stage 1    | 20.0   | 5.0  | 3.0    | [x]     |
 | peakload stage 2    | 20.0   | 5.0  | 2.0    | [x]     |
-| backup generator    | 15.0   | 1.0  | 1.0    | [x]     |
-| emergency generator | 10.0   | 1.0  | 1.0    | [x]     |
+| backup generator    | 15.0   | 1.0  | 1.0    | -       |
+| emergency generator | 10.0   | 1.0  | 1.0    | -       |
 
 ## Heat
 
