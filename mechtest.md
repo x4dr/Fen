@@ -14,7 +14,7 @@ title: mechtest
 |        | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
 |--------|--------|------|--------|--------|----------|------|--------|---------|
 | Wheels | 80.0   | 5    | 400.0  | 0.5    | 5.0      | 2.0  | 10.0   | [x]     |
-| Rails  | 100.0  | 3    | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [ ]     |
+| Rails  | 100.0  | 3    | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [x]     |
 
 ## Energy
 
@@ -44,13 +44,13 @@ title: mechtest
 
 |            | Energy | Mass | Amount | Enabled |
 |------------|--------|------|--------|---------|
-| Junk Armor | 0.0    | 5.0  | 5.0    |         |
+| Junk Armor | 0.0    | 5.0  | 5.0    | [x]     |
 
 ## Support
 
 |                | Energy | Mass | Amount | Enabled |
 |----------------|--------|------|--------|---------|
-| Coffee machine | 30.0   | 1.0  | 1.0    |         |
+| Coffee machine | 30.0   | 1.0  | 1.0    | [ ]     |
 
 ## Seal
 
