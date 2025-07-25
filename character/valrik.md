@@ -36,7 +36,7 @@ High Lifestyle/Luxury
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 0       | 7       |
+| Stress  | 2       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 3       | 3       |
@@ -78,16 +78,17 @@ High Lifestyle/Luxury
 |---------|-------|
 | Attune  | 2     |
 | Command | 0     |
-| Consort | 1     |
-| Sway    | 2     |
+| Consort | 2     |
+| Sway    | 1     |
 
 # Inventory
 
 | Name         | Quantity | Maximum | Description |
 |--------------|----------|---------|-------------|
-| Spell Charge | 1        | 1       |             |
+| Spell Charge | 0        | 1       |             |
 | Flashbang    | 1        | 1       |             |
 | Total        |          |         |             |
 
 # Notes
 1 xp for survey
+1xp for heist

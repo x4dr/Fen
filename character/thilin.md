@@ -1,8 +1,8 @@
 ---
 outgoing links: []
-tags:
-- pbta
-- bloodsport
+tags: !!set
+  bloodsport: null
+  pbta: null
 title: thilin
 ---
 
@@ -32,7 +32,7 @@ Lone survivor of a tpk'd aventurer group he was a child of
 
 | Type    | Current | Maximum |
 |---------|---------|---------|
-| Stress  | 2       | 7       |
+| Stress  | 3       | 7       |
 | Trauma  | 0       | 4       |
 | Healing | 0       | 4       |
 | Armor   | 0       | 3       |
