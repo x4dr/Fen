@@ -1,9 +1,9 @@
 ---
 outgoing links: []
-tags:
-- Character
-- endworld
-- MARIC
+tags: !!set
+  Character: null
+  MARIC: null
+  endworld: null
 title: Testcharacter
 ---
 
@@ -58,7 +58,7 @@ joke character
 |------------------------|-------|
 | Analysis               | 1     |
 | Appraisal              | 1     |
-| Dicksucking            | 3     |
+| Smartassery            | 3     |
 | Healing                | 0     |
 | Instinct               | 1     |
 | Knowledge(Shenanigans) | 0     |
