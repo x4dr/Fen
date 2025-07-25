@@ -78,8 +78,8 @@ High Lifestyle/Luxury
 |---------|-------|
 | Attune  | 2     |
 | Command | 0     |
-| Consort | 2     |
-| Sway    | 1     |
+| Consort | 1     |
+| Sway    | 2     |
 
 # Inventory
 
