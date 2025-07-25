@@ -91,4 +91,6 @@ High Lifestyle/Luxury
 
 # Notes
 1 xp for survey
-1xp for heist
+1 xp for heist
+
+6 coin (from heist)

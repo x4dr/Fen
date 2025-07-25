@@ -86,3 +86,5 @@ Lone survivor of a tpk'd aventurer group he was a child of
 | Total              |          |         |             |
 
 # Notes
+6 coins
+1 entanglement
