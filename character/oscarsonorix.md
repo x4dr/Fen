@@ -37,9 +37,9 @@ Oscar Sonorix
 | Acrobatics    | 1     |
 | Footwork      | 1     |
 | Running       | 1     |
-| Survival      | 1     |
+| Survival      | 2     |
 | Conditioning  | 1     |
-| Presence      | 1     |
+|               |       |
 | Weapon(knife) | 2     |
 
 ## Mental
