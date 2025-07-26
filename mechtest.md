@@ -14,7 +14,7 @@ title: mechtest
 |        | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
 |--------|--------|------|--------|--------|----------|------|--------|---------|
 | Wheels | 80.0   | 5.0  | 400.0  | 0.5    | 5.0      | 2.0  | 10.0   | [ ]     |
-| Rails  | 100.0  | 3.0  | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [ ]     |
+| Rails  | 100.0  | 3.0  | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [x]     |
 
 ## Energy
 
@@ -22,9 +22,9 @@ title: mechtest
 |---------------------|--------|------|--------|---------|
 | baseloadreactor     | 50.0   | 5.0  | 3.0    | [x]     |
 | peakload stage 1    | 20.0   | 5.0  | 3.0    | [x]     |
-| peakload stage 2    | 20.0   | 5.0  | 2.0    | [ ]     |
+| peakload stage 2    | 20.0   | 5.0  | 2.0    | [x]     |
 | backup generator    | 15.0   | 1.0  | 1.0    | [x]     |
-| emergency generator | 10.0   | 1.0  | 1.0    | -       |
+| emergency generator | 10.0   | 1.0  | 1.0    | [ ]     |
 
 ## Heat
 
