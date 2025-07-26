@@ -7,8 +7,9 @@ outgoing links:
 - endworld/ewrules#Broad Skills
 - endworld/descriptions/attributes#special
 - endworld/descriptions/attributes#special
-tags:
-- ''
+tags: !!set
+  ? ''
+  : null
 title: specialskills
 ---
 # Special Skills
@@ -122,8 +123,8 @@ Massive close-range weapons. Unmatched in close quarters, but nearly useless at 
 
 Covers maneuvering mechs in various environments and sizes.
 Usually used with the [Discipline](endworld/descriptions/attributes#special) Attribute and another skill depending on Task
-This group of 17 skills starts with 12 skillgaps by default-
-#### Terrain
+Both of these groups start with everything but 3 things skillgapped
+### Terrain
 
 * **Plain**
 * **Desert**
@@ -135,7 +136,7 @@ This group of 17 skills starts with 12 skillgaps by default-
 * **Marine**
 * **Extreme**
 
-#### Weightclass
+### Weightclass
 
 * **Exo** – Exoskeletons or mechs barely bigger than a human (<1t).
 * **Tiny** – Small craft: buggies, light drones, micro-walkers (1–5t).
