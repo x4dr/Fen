@@ -15,6 +15,15 @@ Resistance 3
 Fate 2
 Affinity 5
 
+## appearance
+
+Strawhat
+light scarf - dark red
+Chefs Jacket - white
+abdominal bind - Dark brown
+Trouser - brown
+Shoes - Dark Red
+
 ## name
 Oscar Sonorix
 
@@ -23,6 +32,9 @@ Oscar Sonorix
 ## Physical
 
 ### Attributes
+Intuition 1
+Focus 1
+Disciplin 1
 
 | Attribute | Value |
 |-----------|-------|
@@ -32,15 +44,14 @@ Oscar Sonorix
 
 ### Skills
 
-| Skill         | Value |
-|---------------|-------|
-| Acrobatics    | 1     |
-| Footwork      | 1     |
-| Running       | 1     |
-| Survival      | 2     |
-| Conditioning  | 1     |
-|               |       |
-| Weapon(knife) | 2     |
+| Skill        | Value |
+|--------------|-------|
+| Acrobatics   | 1     |
+| Footwork     | 1     |
+| Running      | 1     |
+| Survival     | 2     |
+| Conditioning | 1     |
+| Knife        | 2     |
 
 ## Mental
 
@@ -115,9 +126,13 @@ Oscar Sonorix
 
 ### Skills
 
-| Skill        | Value |
-|--------------|-------|
-| bloodletting | 2     |
-| critical eye | 2     |
+| Skill             | Value |
+|-------------------|-------|
+| bloodletting      | 1     |
+| critical eye      | 1     |
+| Piloting Practice | 1     |
+| Mech Melee        | 1     |
 
 # Notes
+
+High-Frequency Vibration Knife - Reinforced and sharpened part of beak (Castle Nibbler Bird) 2 Component Beak inner Beak Part Vibrates on Soft Tissue and is capable of easily cutting Turtle Shells

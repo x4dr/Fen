@@ -1,10 +1,10 @@
 ---
 outgoing links: []
-tags: !!set
-  mech: null
+tags:
+- mech
+- mecha
 title: mechtest
 ---
-
 # Description
 
 # Systems
