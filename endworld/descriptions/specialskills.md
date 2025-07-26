@@ -7,9 +7,8 @@ outgoing links:
 - endworld/ewrules#Broad Skills
 - endworld/descriptions/attributes#special
 - endworld/descriptions/attributes#special
-tags: !!set
-  ? ''
-  : null
+tags:
+- ''
 title: specialskills
 ---
 # Special Skills
@@ -28,6 +27,13 @@ This skill can be used to decontaminate (without alacast) anything, in proportio
 1 contamination - total construction
 every [5,7,9,11,13,15,17,19,20] halves damage
 TODO
+
+### Yoink
+
+The character can put an item that they can grab into their inventory, directly. Others might notice the proximity and the lack of item, but not the act of stealing.
+Level 1: 1 per adventure
+Level 2: 1 per day
+Level 3: 1 per scene
 
 
 ### Reservoir
