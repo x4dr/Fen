@@ -20,9 +20,8 @@ Level 1: 1 per day
 Level 2: 1 per scene
 Level 3: refreshes on a resonance of choice (before roll)
 
-Uncovers a critical weakness, that, if taken advantage of grants 2 bonus dice
-
-TODO
+Uncovers a critical weakness, that, if taken advantage of grants 2 bonus dice. 
+The weakness is described and anyone can take advantage of it, most weaknesses are single use, not all
 
 ### Bloodletting
 This skill can be used to decontaminate (without alacast) anything, in proportion to damage caused.
