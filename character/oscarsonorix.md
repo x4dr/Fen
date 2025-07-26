@@ -39,7 +39,7 @@ Oscar Sonorix
 | Running       | 1     |
 | Survival      | 1     |
 | Conditioning  | 1     |
-| Weapon(claws) | 1     |
+| Presence      | 1     |
 | Weapon(knife) | 2     |
 
 ## Mental
