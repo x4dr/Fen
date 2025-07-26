@@ -4,8 +4,9 @@ outgoing links:
 - endworld/ewchar
 - endworld/equipment
 - endworld/ewrules#bonus-and-penalty-dice
-tags:
-- ''
+tags: !!set
+  ? ''
+  : null
 title: ewrules
 ---
 # Rules
@@ -30,7 +31,7 @@ Selected dice are then added.
 
 The effects and result of the Check may then be further modified by **Resonance**.
 
-A Check usually involves a [Character](endworld/ewchar)s Attributes and Skills, but might also use Selectors from [Equipment](endworld/equipment)
+A Check usually involves a [Character](endworld/character_generation)s Attributes and Skills, but might also use Selectors from [Equipment](endworld/equipment)
 
 ---
 
