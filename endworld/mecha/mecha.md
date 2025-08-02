@@ -9,7 +9,7 @@ outgoing links:
 - endworld/mecha/systems/support#seals
 tags:
 - ''
-title: mechas
+title: mecha
 ---
 # Mecha
 Mecha, short for mechanical, are typically giant walking robots, ruleswise, everything consisting of parts, having systems and having weight is handled as mecha, such as: cars, bikes, static defense towers, artillery installations, giant walking robots, giant treaded robots, Fridges and so on.
@@ -20,25 +20,25 @@ A mech can have multiple systems to accomplush tasks or Manage resources, like
 [Movement](endworld/mecha/systems/movement), [Energy](endworld/mecha/systems/energy), [Heat](endworld/mecha/systems/heat), [Offensive](endworld/mecha/systems/offensive), [Defensive](endworld/mecha/systems/defensive) and [Support](endworld/mecha/systems/support), as well as a [Seal](endworld/mecha/systems/support#seals) to protect against Contamination.
 
 ## Sizes
-| Sectors | Mech Class        | Weight |
-|---------|-------------------|--------|
-| 0       | Tool, Exo         | 0.1    |
-| 1       | Exo               | 0.6    |
-| 2       | Exo, Tiny         | 1      |
-| 3       | Tiny              | 2      |
-| 4       | Tiny, Very Light  | 4      |
-| 5       | Very Light        | 10     |
-| 6       | Very Light, Light | 18     |
-| 7       | Light             | 40     |
-| 8       | Light, Medium     | 70     |
-| 9       | Medium            | 150    |
-| 10      | Medium, Heavy     | 300    |
-| 11      | Heavy             | 500    |
-| 12      | Heavy, Very Heavy | 700    |
-| 13      | Very Heavy        | 900    |
-| 14      | Very Heavy        | 1200   |
-| 15      | Very Heavy, Ultra | 1500   |
-| 16+     | Ultra             | >1500  |
+| Size | Mech Class        | Weight |
+|------|-------------------|--------|
+| 0    | Tool, Exo         | 0.1    |
+| 1    | Exo               | 0.5    |
+| 2    | Exo, Tiny         | 1      |
+| 3    | Tiny              | 2      |
+| 4    | Tiny, Very Light  | 4      |
+| 5    | Very Light        | 10     |
+| 6    | Very Light, Light | 18     |
+| 7    | Light             | 40     |
+| 8    | Light, Medium     | 70     |
+| 9    | Medium            | 150    |
+| 10   | Medium, Heavy     | 300    |
+| 11   | Heavy             | 500    |
+| 12   | Heavy, Very Heavy | 700    |
+| 13   | Very Heavy        | 900    |
+| 14   | Very Heavy        | 1200   |
+| 15   | Very Heavy, Ultra | 1500   |
+| 16+  | Ultra             | >1500  |
 
 # Modules
 - Modules are assigned to sectors.

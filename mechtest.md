@@ -36,19 +36,19 @@ title: mechtest
 
 ## Offensive
 
-|         | Energy | Mass | Heast | Amount | Enabled |
+|         | Energy | Mass | Heats | Amount | Enabled |
 |---------|--------|------|-------|--------|---------|
 | AutoGun | 30.0   | 7.0  |       | 1.0    | [x]     |
 
 ## Defensive
 
-|            | Energy | Mass | Heast | Amount | Enabled |
+|            | Energy | Mass | Heats | Amount | Enabled |
 |------------|--------|------|-------|--------|---------|
 | Junk Armor | 0.0    | 5.0  |       | 5.0    | [x]     |
 
 ## Support
 
-|                | Energy | Mass | Heast | Amount | Enabled |
+|                | Energy | Mass | Heats | Amount | Enabled |
 |----------------|--------|------|-------|--------|---------|
 | Coffee machine | 30.0   | 1.0  |       | 1.0    | [x]     |
 

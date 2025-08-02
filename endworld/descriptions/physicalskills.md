@@ -46,3 +46,7 @@ Controls how much physical space a character “takes up” — movement subtlet
 ### Conditioning
 
 Represents specialized training for enduring extreme environments or stressors — operating in high gravity, resisting panic, functioning under pressure, cold, heat, or exhaustion.
+
+### Heavy Armor
+
+This skill (usually) isn't rolled, but helps offset the weight of heavy armor.

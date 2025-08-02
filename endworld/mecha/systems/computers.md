@@ -11,7 +11,7 @@ They are not like real-world computers. Due to their need for modularity and res
 - Measured in **Computational Power Usage (CPU)**
 - Programs occupy CPU when run
 - Programs won't start if CPU is insufficient
-- You may shift `[8,12,17,20]` CPU between programs with a **Theory + Computer Usage** check
+- You may shift `[8,12,17,20]` CPU between programs with a **Theory, Computer Usage** check
 - Underpowered programs perform worse (scale all effects unfavorably)
 - Overpowered programs usually don’t perform better — only faster
 
@@ -61,7 +61,7 @@ Abstracted context for the program’s operation
 ### Programming
 
 To create a program:
-- Use **Computer Programming + Theory**
+- Use **Theory, Computer Programming** and a relevant Skill
 - If the task is vague, use **Insight**
 
 Steps:

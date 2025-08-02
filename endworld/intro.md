@@ -3,7 +3,7 @@ outgoing links:
 - endworld/descriptions/kodal
 - endworld/supervivo
 - endworld/techlevels
-- endworld/mecha/mechas
+- endworld/mecha/mecha
 - endworld/descriptions/abilityskills#biochroma
 - endworld/megafauna
 - endworld/trade
@@ -31,7 +31,7 @@ Quantum physics.
 The like.
 
 We, the Survivors, the Triumphant, the Conquerors, forced to huddle in what were mere shelters for a storm that has not subsided over the centuries — it is g~such a shame~g.
-Marvels of modern technology have kept me from dying these past years since I retired, but no army of [high-tech](endworld/techlevels) [mechs](endworld/mecha/mechas), no experimental [biotech](endworld/descriptions/abilityskills#biochroma) treatment seems to be able to extend my mind.
+Marvels of modern technology have kept me from dying these past years since I retired, but no army of [high-tech](endworld/techlevels) [mechs](endworld/mecha/mecha), no experimental [biotech](endworld/descriptions/abilityskills#biochroma) treatment seems to be able to extend my mind.
 I have forgotten so much.
 
 g~Such a shame~g.

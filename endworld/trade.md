@@ -7,9 +7,9 @@ If there's no in-world reason for variance, roll for it:
 
 Additionally, traders keep a share of the value for themselves:
 
-|Threshold|0|5|8|11|14|17|20|
-|---|---|---|---|---|---|---|---|
-|Kept %|50|33|20|10|5|2|0|
+| Threshold | 0  | 5  | 8  | 11 | 14 | 17 | 20 |
+|-----------|----|----|----|----|----|----|----|
+| Kept %    | 50 | 33 | 20 | 10 | 5  | 2  | 0  |
 
 > Goods at **100% value** are equivalent to one another, and each line equals **4 character creation points**.
 
@@ -17,31 +17,31 @@ Additionally, traders keep a share of the value for themselves:
 
 ## Tradegoods
 
-|Storage|Article|
-|---|---|
-|10g|Elixir of Life (EOL)|
-|100g|Alacast|
-|500g|Experimental Tech Parts (ETP)|
-|1kg|High Tech parts (HTP)|
-|1.5kg|Advanced Gene Therapy Medicine (AGT)|
-|5kg|Medium Tech parts (MTP)|
-|10kg|Potent Medicine|
-|50kg|Low Tech parts (LTP)|
-|50kg|Seeking Rockets|
-|100kg|Processed Medicine|
-|100kg|Basic Rockets|
-|100kg|Artillery|
-|200kg|Basic Medicine|
-|500kg|Improvised/Herbal Medicine|
-|500kg|Base Tech parts (BTP)|
-|500kg|Basic Ammunition|
-|1000L|Drinking Water (500 days of drinking)|
-|500L / 35kg|Liquid Hydrogen|
-|1t|Coal|
-|350L|Liquid Combustion Fuel|
-|100kg|High Energy Rations (0.4kg/day/person)|
-|1t|Normal Food (2.5kg/day/person)|
-|—|Medium Quality Blueprint|
+| Storage     | Article                                |
+|-------------|----------------------------------------|
+| 10g         | Elixir of Life (EOL)                   |
+| 100g        | Alacast                                |
+| 500g        | Experimental Tech Parts (ETP)          |
+| 1kg         | High Tech parts (HTP)                  |
+| 1.5kg       | Advanced Gene Therapy Medicine (AGT)   |
+| 5kg         | Medium Tech parts (MTP)                |
+| 10kg        | Potent Medicine                        |
+| 50kg        | Low Tech parts (LTP)                   |
+| 50kg        | Seeking Rockets                        |
+| 100kg       | Processed Medicine                     |
+| 100kg       | Basic Rockets                          |
+| 100kg       | Artillery                              |
+| 200kg       | Basic Medicine                         |
+| 500kg       | Improvised/Herbal Medicine             |
+| 500kg       | Base Tech parts (BTP)                  |
+| 500kg       | Basic Ammunition                       |
+| 1000L       | Drinking Water (500 days of drinking)  |
+| 500L / 35kg | Liquid Hydrogen                        |
+| 1t          | Coal                                   |
+| 350L        | Liquid Combustion Fuel                 |
+| 100kg       | High Energy Rations (0.4kg/day/person) |
+| 1t          | Normal Food (2.5kg/day/person)         |
+| —           | Medium Quality Blueprint               |
 
 ---
 

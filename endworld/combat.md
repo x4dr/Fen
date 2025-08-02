@@ -25,24 +25,25 @@ Double actions, if possible, usually carry a 2-dice [penalty](endworld/ewrules#B
 An attack has to be made on a valid target.  
 Targets are valid depending on what weapon is used. A direct fire weapon requires line of sight, for example.
 
-Depending on the circumstances, the attack roll is made,  involving [Dexterity](endworld/descriptions/attributes#physical) for normal weapons, [Focus](endworld/descriptions/attributes#special) for Mech weapons and so on, the weapon skill, and another skill depending on the situation.
+Depending on the circumstances, the attack roll is made, involving [Dexterity](endworld/descriptions/attributes#physical) for normal weapons, [Focus](endworld/descriptions/attributes#special) for Mech weapons and so on, the weapon skill, and another skill depending on the situation.
 
 This result of this roll, called **attack value** from here, is then modified by range depending on the weapon.
 
 If the attack value is positive, the general vicinity of the target is hit.  
-Then, the enemy defense from dodging or cover is subtracted.
+Then, the enemy defense from dodging, deflectors or cover is subtracted.
 
 If the attack value is still positive, the target is hit and damage calculation starts. The leftover attack value may increase damage depending on Weapon type 
-Otherwise,  cover may still be damaged, depending on the circumstances.
+Otherwise, cover may still be damaged, depending on the circumstances.
 
 ---
 
 ## Damage
 
 Each entity is made of several hitzones (like arms, legs, head).  
-When a hit succeeds, a hitzone is affected. Armor reduces the attack’s value. If anything remains, the hitzone takes damage.
+When a hit succeeds, a hitzone is affected. Defense, which is usually rolled reduces the attack’s value, which is usually fixed. If anything remains, the hitzone takes damage.
+[Shields](endworld/mecha/systems/shields) trigger before [Armor](endworld/mecha/systems/armor) and are handled according to their own rules.
 
-Damage doesn’t use fixed HP values. Instead, it causes malfunctions and penalties such as weakened limbs or malfunctioning components, negative [resonance](endworld/ewrules#resonance)s giving [penalty dice](endworld/ewrules#bonus-and-penalty-dice) , performing at a lower level or no longer functioning.
+Damage doesn’t use fixed HP values. Instead, it causes malfunctions and penalties such as weakened limbs or malfunctioning components, negative [resonance](endworld/ewrules#resonance)s giving [penalty dice](endworld/ewrules#bonus-and-penalty-dice), performing at a lower level or no longer functioning.
 
 If armor or a defensive layer breaks, it stops protecting. Some defenses may leak damage through while they break.
 

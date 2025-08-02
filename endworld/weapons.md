@@ -6,7 +6,7 @@ Weapons have the following stats:
     - **Minimum** - below which the weapon is hard to use in combat and penalty dice are issued  
     - **Optimum** - below which no penalties for range are in effect  
     - **Drop** - every how many meters a -1 penalty on shots is incurred  
-- **Ammunition** - how many shots per reload / how much weight per reload  
+- **Ammunition** - how many shots per reload / how much weight per reload, and the given [Techlevel](Trade)  
 - **Shot Interval** - in seconds, values below 5 allow multiple shots per round  
 - **Handling** - initiative bonus  
 - **Mods** - as per mod  
@@ -14,8 +14,7 @@ Weapons have the following stats:
 - **Skill** - the main skill to use this weapon  
 ## Example weapons 
 
-To be refined later.  
-These Weapons are of Personal Size.
+These weapons are examples and templates to create more
 
 ### Sniper Rifle
 
@@ -26,16 +25,17 @@ These Weapons are of Personal Size.
 **Damage:** 20  
 **Crit:** Resonance with 10 applies damage again once per Amplitude
 **Skill:** Longrifles
+
 ### Heavy Revolver
 
 **Range:** 5m / 20m / 10m  
-**Ammo:** 6 shots / 0.5 kg  
+**Ammo:** 6 shots / 0.5 kg
 **Shot Interval:** 3 sec  
 **Handling:** 0  
 **Damage:** 15  
 **Crit:** Resonance with 6 causes stun if damage is inflicted
 	Resonance with 1 causes fumble (injury or loss of weapon)
-**Skill:** Handguns, Fitness below 3 means more fumble resonances
+**Skill:** Handguns, Fitness below 3 means more fumble resonances per
 
 ### Light Revolver
 
@@ -77,10 +77,13 @@ Using Shot halves opposing dodge
 
 Free attack against opponents trying to move into optimal range. On success the movement fails.
 
-
 ### Obsidian Knife
 
 **Range:** 0/1/0.05
 **Handling:** +2  
 **Damage:** 18  
 **Skill:** Melee Weapons
+
+Always damages surface seals on succesful hit.
+
+
