@@ -3,6 +3,8 @@ outgoing links:
 - endworld/ewrules#Bonus-and-Penalty-Dice
 - endworld/descriptions/attributes#physical
 - endworld/descriptions/attributes#special
+- endworld/mecha/systems/shields
+- endworld/mecha/systems/armor
 - endworld/ewrules#resonance
 - endworld/ewrules#bonus-and-penalty-dice
 tags:
@@ -25,7 +27,7 @@ Double actions, if possible, usually carry a 2-dice [penalty](endworld/ewrules#B
 An attack has to be made on a valid target.  
 Targets are valid depending on what weapon is used. A direct fire weapon requires line of sight, for example.
 
-Depending on the circumstances, the attack roll is made, involving [Dexterity](endworld/descriptions/attributes#physical) for normal weapons, [Focus](endworld/descriptions/attributes#special) for Mech weapons and so on, the weapon skill, and another skill depending on the situation.
+Depending on the circumstances, the attack roll is made, involving [Dexterity](endworld/descriptions/attributes#physical) for normal weapons, [Focus](endworld/descriptions/attributes#special) for Mech weapons and so on, the weapon skill, and another selector depending on the situation, which can be tactics derived for example, or coordinated via command, or from a FCS.
 
 This result of this roll, called **attack value** from here, is then modified by range depending on the weapon.
 
@@ -33,7 +35,7 @@ If the attack value is positive, the general vicinity of the target is hit.
 Then, the enemy defense from dodging, deflectors or cover is subtracted.
 
 If the attack value is still positive, the target is hit and damage calculation starts. The leftover attack value may increase damage depending on Weapon type 
-Otherwise, cover may still be damaged, depending on the circumstances.
+Otherwise, cover may still be damaged.
 
 ---
 
@@ -47,7 +49,7 @@ Damage doesn’t use fixed HP values. Instead, it causes malfunctions and penalt
 
 If armor or a defensive layer breaks, it stops protecting. Some defenses may leak damage through while they break.
 
-For living targets, damage represents wounds, which may heal.
+For living targets, damage represents wounds, which may heal, for systems they represent damage which may be repaired.
 
 ---
 
@@ -118,32 +120,34 @@ The interval should be changed by the Storyteller depending on the density of ac
 
 ## Targeting
 
-Generally, a center-mass targeting is assumed.  
+To attack something a "facing" (see below) hitzone needs to be selected, for a humanoid target "torso" is usually the facing hitzone
 From there, deviations occur, spreading the damage over neighboring parts.
 
-For a human target, the hitzones are determined by d10, or by the resonance of the attack roll if any.  
-If there are several resonances, the attacker gets to pick.
+For a human target, the Hitzones are:
+Grazing, Legs, Torso, Arms, Head.
+For human like Targets
+for a Mech they are specific to the mech.
+A Hitzone adjustment means adjusting the zone or sector that would be hit to one of its Neighbors, the empty space "around" counts as missing and for technical reasons contains infinitely many empty hitzones in all directions. If a hit lands in the empty space at the end of targeting, it counts as a miss.
 
-|Roll|Target|
-|---|---|
-|1–3|Torso|
-|4–6|Legs|
-|7–8|Arms|
-|9|Hands or Feet|
-|10|Head|
+First, any Hitzone Adjustments from called shots (see below) are chosen by the attacker
+Then, the sum of Amplitudes of Frequencies 1-5 allow the defender adjust hitzones
+Then, the sum of Amplitudes of Frequencies 6-10 allow the attacker to adjust hitzones.
 
----
+### Mech Sectors
+
+A mech has several sectors (determined by its size class, which is determined by its weight), each of which are their own hitzone.
+1/3 rounded up of the Sectors need to be "facing" sectors which can be anything, but usually things like "front" or "rear", about half (rounded up) of facing sectors are targeteable in most situations.
 
 ### Called Shots
 
-To ensure that a specific area is hit, a called shot can be made, risking missing altogether.  
-A penalty to the attack value is taken, to hit the specific body part.
+To try to ensure that a specific area is hit, a called shot can be made, any number of times, as long as the attack has less than 5 Malus Dice.  
+A called shot allows one hitzone adjustment (see above) for taking 1 Malus dice.
+Without perks, this hitzone adjustment is made before the roll
 
-A resonance with a number corresponding to a body part less than what was aimed for will instead attack that part, as above.
 
-|Target|Penalty|
-|---|---|
-|Head|3|
-|Hands or Feet|2|
-|Legs|1|
-|Torso|1|
+### Sniping
+
+The opportunity to attack is spent, making a roll with perception, sniping and the weapon in question, modified with bonus/malus dice by factors like light, weather, crowds, cover, distance and so on and modified additively by target evasive maneuvers, complete lack of movement and other factors that detract from/help with zeroing-in.
+The distance modifier is 0 between minimum and optimum range, from there it is -1, for every started 3 times the drop interval
+
+The result clearing the basic threshhold to hit (usually 5) is halved (rounded up) and applied as an additive bonus if the next action is sniping/attacking the same target
