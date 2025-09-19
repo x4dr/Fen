@@ -30,6 +30,8 @@ title: hamus familienweisheiten
 ### Verlasse niemals eine Stadt, die du nicht zumindest Teilweise in Schutt und Asche gelegt hast
 ### Traue niemals einem Magier
 ### Das bisschen Bluten hat noch niemandem geschadet
+### Wer sich auf GLück verlässt ist ein Trottel
+
 
 
 # Combos
