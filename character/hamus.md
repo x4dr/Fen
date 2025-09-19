@@ -1,8 +1,8 @@
 ---
 outgoing links: []
-tags:
-- Hamus
-- character
+tags: !!set
+  Hamus: null
+  character: null
 title: Hamus
 ---
 
@@ -217,6 +217,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Festes Kunai                      | 2 Kunai mit Kettenmuster bedeckt                                                                                                                                                       | ?? macht das Ziel unbeweglich??                                                                        |
 | Teleport Kunai                    | 3 Kunai mit einem abgerundeten Mondsichel verziert                                                                                                                                     | kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT     |
 | Feuercasten Ausweiß               |                                                                                                                                                                                        |                                                                                                        |
+| Knochenamulett                    | Wirkt schötzernd                                                                                                                                                                       |                                                                                                        |
 
 # Personen
 
