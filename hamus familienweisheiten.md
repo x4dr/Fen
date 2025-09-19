@@ -16,6 +16,7 @@ title: hamus familienweisheiten
 ### Gib die Nachricht nie dem Boten mit
 ### Ist das messer in deinem Rücken, weißt du wenigstens wo es ist
 ### Wenn man weiß wer du bist, dann hast du was falsch gemacht
+### Wer Glück haben will muss einfach nur Schummeln
 
 
 
