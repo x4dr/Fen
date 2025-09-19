@@ -1,7 +1,7 @@
 ---
 outgoing links: []
-tags:
-- character
+tags: !!set
+  character: null
 title: Ragin
 ---
 
@@ -176,7 +176,7 @@ Shadow blood
 | Wächter           | S         |
 | Akrobatik         | SS        |
 | Schattenschritt   | SSSSS     |
-| Belos             | S         |
+| Belos             | SS        |
 | Werfen            | SS        |
 | Autorität         | SSSSS     |
 | Tratsch           | SSS       |
@@ -216,6 +216,7 @@ Shadow blood
 | Fackel                                                                         | 1      |         |       |
 | isolierter, reißfester Pavillion                                               | 1      |         |       |
 | very enchantable monokristalline Bronzerüstung                                 | 1      |         |       |
+| Bronze Dagger                                                                  | 12     |         |       |
 
 ## Notizen
 Ladungen:

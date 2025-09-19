@@ -1,11 +1,10 @@
 ---
 outgoing links: []
-tags: !!set
-  Hamus: null
-  character: null
+tags:
+- character
+- Hamus
 title: Hamus
 ---
-
 # Charakter
 
 ## Name
@@ -129,7 +128,7 @@ Hamus
 | Atemtechnik                 | 1    |
 | Paranoia                    | 1    |
 | Aspekt Körpertransformation | 1    |
-| Aspekt Gloom                | 1    |
+| Aspekt Gloom                | 2    |
 | Quelle Sturm                | 1    |
 | Bindung BadLuck             | 0    |
 
@@ -167,7 +166,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Support            | 1/5 | 1   | 1 |
 | Quelle Sturm       | 0/5 | 1   | 1 |
 | Standhalten        | 4/5 | 0   | 1 |
-| Gloom              | 4/5 | 0   | 1 |
+| Gloom              | 0/5 | 1   | 1 |
 | Bindung BadLuck    | 1/5 | 0   | 0 |
 | Archäologie/Looten | 0/5 | 1   | 2 |
 |                    |     |     | 0 |
@@ -217,7 +216,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Festes Kunai                      | 2 Kunai mit Kettenmuster bedeckt                                                                                                                                                       | ?? macht das Ziel unbeweglich??                                                                        |
 | Teleport Kunai                    | 3 Kunai mit einem abgerundeten Mondsichel verziert                                                                                                                                     | kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT     |
 | Feuercasten Ausweiß               |                                                                                                                                                                                        |                                                                                                        |
-| Knochenamulett                    | Wirkt schötzernd                                                                                                                                                                       |                                                                                                        |
+| Knochenamulett                    | Loot vom Schattenfractal fight                                                                                                                                                         | Wirkt schötzernd                                                                                       |
 
 # Personen
 

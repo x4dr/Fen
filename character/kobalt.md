@@ -1,9 +1,9 @@
 ---
 outgoing links: []
-tags: []
+tags:
+- ''
 title: Kobalt
 ---
-
 # Charakter
 
 | Detail | Inhalt  |
@@ -151,7 +151,7 @@ Chaos 2/5
 Dozieren 1/5
 Fuckboy 1/5
 Wizard 4/5
-Scrying 2/5
+Scrying 3/5
 hermticskill.jpg: 1/5
 Enrgfiefeldmanipulation 1/5
 Analyse 1/5
