@@ -158,6 +158,7 @@ Analyse 1/5
 quelle chaos: 1/5
 aspekttravelgravity: 1/5
 avisnimdung 2/5
+TanasBindung: 1/5
 irrefuehrung 1/5
 
 # Vorteile
