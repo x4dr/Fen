@@ -1,10 +1,11 @@
 ---
 outgoing links: []
-tags:
-- character
-- Hamus
+tags: !!set
+  Hamus: null
+  character: null
 title: Hamus
 ---
+
 # Charakter
 
 ## Name
@@ -213,7 +214,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Puzzelbox                         | eine Flache Platte die einmal eine Komplexen Puzzelbox war                                                                                                                             | kann wieder aufgefaltet werden, Fassungsvermögen ca ein Faustgroßer Gegenstand                         |
 | Wind Kunai                        | 2 Kunai mit Wellenmuster auf den Klinge                                                                                                                                                | bleibt im Einschlagspunkt hängen, erzeugt wind in alle Richtungen                                      |
 | Wand Kunai                        | 3 Kunai bedeckt mit einem Ziegelmuster                                                                                                                                                 | Erzeugt eine vom Kunai sich kreisförmig ausdehnende Wand, Kunai kann von beiden Seiten erreicht werden |
-| Festes Kunai                      | 2 Kunai mit Kettenmuster bedeckt                                                                                                                                                       | ?? macht das Ziel unbeweglich??                                                                        |
+| Festes Kunai                      | 1 Kunai mit Kettenmuster bedeckt                                                                                                                                                       | ?? macht das Ziel unbeweglich??                                                                        |
 | Teleport Kunai                    | 3 Kunai mit einem abgerundeten Mondsichel verziert                                                                                                                                     | kehrt mit Ziel zurück, braucht Sichtlinie, skalliert mit gewicht transportiertem Gewicht, TELEPORT     |
 | Feuercasten Ausweiß               |                                                                                                                                                                                        |                                                                                                        |
 | Knochenamulett                    | Loot vom Schattenfractal fight                                                                                                                                                         | Wirkt schötzernd                                                                                       |
