@@ -59,7 +59,7 @@ joke character
 | Analysis               | 1     |
 | Appraisal              | 1     |
 | Smartassery            | 3     |
-| Healing                | 0     |
+| Healing                | 3     |
 | Instinct               | 1     |
 | Knowledge(Shenanigans) | 0     |
 | Logic                  | 1     |
