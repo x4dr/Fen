@@ -105,5 +105,3 @@ joke character
 | Intuition  | 1     |
 
 ### Skills
-
-# Notes
