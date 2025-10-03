@@ -217,12 +217,13 @@ Shadow blood
 | Fackel                                                                                                                                            | 1      |         |       |
 | isolierter, reißfester Pavillion                                                                                                                  | 1      |         |       |
 | very enchantable monokristalline Bronzerüstung                                                                                                    | 1      |         |       |
-| Bronze Dagger                                                                                                                                     | 9      |         |       |
+| Bronze Dagger                                                                                                                                     | 7      |         |       |
 | Dagger that converts free energy to sparks                                                                                                        | 1      |         |       |
 | multilayer reality dolch (unclear energy input)                                                                                                   | 1      |         |       |
 | Anti-Schatten-Lichtdolch                                                                                                                          | 1      |         |       |
 | Pain-to-reversal phasing dolch +life based aim assist                                                                                             | 1      |         |       |
 | Charge-Dolch                                                                                                                                      | 1      |         |       |
+| Anit-Licht-Schattendolch                                                                                                                          | 1      |         |       |
 
 ## Notizen
 Ladungen:
