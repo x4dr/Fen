@@ -1,9 +1,9 @@
 ---
 outgoing links: []
-tags: []
+tags:
+- ''
 title: cybi
 ---
-
 # Charakter
 
 ## Name
@@ -209,14 +209,14 @@ Hamus, Steine, Mond und Shiny Stuff
 | Instinkt           | 1/5   | 0 |
 | Ausdauer           | 4/5   | 3 |
 | Kreaturenwissen    | 2/5   | 1 |
+| Meditation         | 1/5   | 1 |
 
 # Inventar
 
 | Name                              | Anzahl | Gewicht | Preis | Beschreibung                                                                                                                                       |
 |-----------------------------------|--------|---------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Kupfer                            | 20     | 0       | 20    | Währung                                                                                                                                            |
-| Drachenkopf                       | 1      | 1       | -     | Ein brozener Drachenkopf mit einem Rubin. Erzeugt eine Flamme. 4/10. Bei einer 1er Resonanz doppelter Verbrauch, bei einer 6er Resonanz kostenlos. |
-| Kerze                             | 5      | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
+| Kerze                             | 4      | 0,2     | -     | Kerze. Brennt, wenn man sie anzündet                                                                                                               |
 | Sternenkasten-Amulet              | 1      | -       | -     | Besteht aus blauem Goldfluss                                                                                                                       |
 | Edelstein (rot)                   | 1      | -       | 20    | Roter Stein 1/5                                                                                                                                    |
 | Abstrakter Artefaktkern           | 1      | -       | -     | Stein                                                                                                                                              |
@@ -224,14 +224,24 @@ Hamus, Steine, Mond und Shiny Stuff
 | Ausgebrannter Regenschirm         | 1      | -       | -     | Regenschirmähnliches Artefakt, dass Dinge aufhalten kann.                                                                                          |
 | Schwarze Kugel mit weißen Punkten | 1      | -       | -     | Mini-Planetarium                                                                                                                                   |
 | Zettel mit sentinisch             | 1      | -       | -     | Bekommen von kunstinteressiertem Studenten auf der Suche nach der echten wahren Wahrheit                                                           |
-| Steintafeln mit Symbolen          | 5      | -       | -     | Aus den Energiesteinen entnommen.                                                                                                                  |
+| Steintafeln mit Symbolen          | 4      | -       | -     | Aus den Energiesteinen entnommen.                                                                                                                  |
+| Jede Menge Steine                 | 10     | -       | -     | Rot: Feuer, Kampf Destruction. Blau: Wissen, Abstraktes Zeug, Wahrheit. Gelb: Social bullshit. Grün: Lebensmagie. Weiß: Licht, Purity, clarity, schwächer aber alles mit machbar, noch was. Magenta: Chaos, Time. Blue/Magenta, red/yellow, green/white, red/magenta.
+|
+| Egelfeu                           | 3      | -       | -     | Ranken, die sich in den Körper fressen und mit Sporen betäuben, um das tun zu können) |
+|
+| Dunkellicht-Stein                 | 1      | -       | -     | Sehr konzentrierte Energiequelle, first order dunkel und licht, second order Veränderung |
+|
+| Blitzstein                        | 1      | -       | -     | Mit Blitzenergie, aber auch Veränderung und mehr Energie drin, als man denken würde |
+|
 
 ## Ausrüstung
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |----------------------|--------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 13/20  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 20/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
+| Kommunikations-Stein | 1      | -       | In der Hand halten und die Person auf die man sich konzentriert, kann einen verstehen und man kann sie verstehen, egal welche Sprache man jeweils spricht | ?      |
+| Dornenherz(Stein)    | 1      | -       | Kann Halter kann mit Pflanzen reden, diese aber nicht verstehen. Cybi versteht sie auch. Außerdem gibt es Pflanzen einen Wachstumsboost| ? |                                                                                                                                                                                                               
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Medkit               | 4      | -       | Heilung von Statuseffekten und Verletzungen                                                                                                                                                                                                             | ?      |
 
