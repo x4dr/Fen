@@ -217,6 +217,7 @@ Shadow blood
 | isolierter, reißfester Pavillion                                               | 1      |         |       |
 | very enchantable monokristalline Bronzerüstung                                 | 1      |         |       |
 | Bronze Dagger                                                                  | 12     |         |       |
+| Dagger that converts free energy to sparks                                     | 1      |         |       |
 
 ## Notizen
 Ladungen:
