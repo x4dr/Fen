@@ -229,10 +229,7 @@ Hamus, Steine, Mond und Shiny Stuff
 |
 | Egelfeu                           | 3      | -       | -     | Ranken, die sich in den Körper fressen und mit Sporen betäuben, um das tun zu können) |
 |
-| Dunkellicht-Stein                 | 1      | -       | -     | Sehr konzentrierte Energiequelle, first order dunkel und licht, second order Veränderung |
-|
-| Blitzstein                        | 1      | -       | -     | Mit Blitzenergie, aber auch Veränderung und mehr Energie drin, als man denken würde |
-|
+| Kaleidoskop-Kristall              | 1      | -       | -     | Zeigt alternative Realitäten, dazwischen nutzbares Potential, dass die Realitäten angleichen kann. Artefaktstein, der Realitätsveränderung beherrscht. Würfelwürfe bei denen der Kristall benutzt wird, werden avaraged. Man kann Energie rausziehen, aber das destabilisert die Realität, probably beliebt bei bösen Leuten. |
 
 ## Ausrüstung
 
@@ -241,7 +238,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 20/20  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Kommunikations-Stein | 1      | -       | In der Hand halten und die Person auf die man sich konzentriert, kann einen verstehen und man kann sie verstehen, egal welche Sprache man jeweils spricht | ?      |
-| Dornenherz(Stein)    | 1      | -       | Kann Halter kann mit Pflanzen reden, diese aber nicht verstehen. Cybi versteht sie auch. Außerdem gibt es Pflanzen einen Wachstumsboost| ? |                                                                                                                                                                                                               
+| Herz des Waldes      | 1      | -       | Kann Halter kann mit Pflanzen reden, diese aber nicht verstehen. Cybi versteht sie auch. Außerdem gibt es Pflanzen einen Wachstumsboost| ? |                                                                                                                                                                                                               
 | Zeitsprung Armschutz | 2      | 0,2     | Armschutz aus Metall. Aktiv: Caster verlässt die Zeitlinie und kehrt zu einem späteren Zeitpunkt an der gleichen Position zurück.                                                                                                                       | ?      |
 | Medkit               | 4      | -       | Heilung von Statuseffekten und Verletzungen                                                                                                                                                                                                             | ?      |
 

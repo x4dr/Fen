@@ -199,29 +199,30 @@ Shadow blood
 |-----------------------------------|--------|---------|-------|
 | Letter of Introduction von Harika |        |         |       |
 | Feuerkastenausweis                |        |         |       |
+| Incomplete concept of promise     |        |         |       |
 
 ## Ausrüstung
 
-| Name                                                                           | Anzahl | Gewicht | Preis |
-|--------------------------------------------------------------------------------|--------|---------|-------|
-| Überlandbotenrucksack                                                          | 1      | 5kg     |       |
-| Ragins Messa                                                                   | 1      | 0.5kg   |       |
-| Aurier Freeze Messa                                                            | 1      | 0.5kg   |       |
-| Serisem Messa                                                                  | 1      | 0.5kg   |       |
-| &lt;void&gt;-Messa                                                             | 1      | 0.5kg   |       |
-| zerbrochenes östliches Schwert                                                 | 1      |         |       |
-| leichte Halbplatte                                                             | 1      |         |       |
-| Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect | 1      |         |       |
-| Eispickel                                                                      | 1      |         |       |
-| Fackel                                                                         | 1      |         |       |
-| isolierter, reißfester Pavillion                                               | 1      |         |       |
-| very enchantable monokristalline Bronzerüstung                                 | 1      |         |       |
-| Bronze Dagger                                                                  | 9      |         |       |
-| Dagger that converts free energy to sparks                                     | 1      |         |       |
-| multilayer reality dolch (unclear energy input)                                | 1      |         |       |
-| Anti-Schatten-Lichtdolch                                                       | 1      |         |       |
-| Pain-to-reversal phasing dolch +life based aim assist                          | 1      |         |       |
-| Charge-Dolch                                                                   | 1      |         |       |
+| Name                                                                                                                                              | Anzahl | Gewicht | Preis |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------|---------|-------|
+| Überlandbotenrucksack                                                                                                                             | 1      | 5kg     |       |
+| Ragins Messa                                                                                                                                      | 1      | 0.5kg   |       |
+| Aurier Freeze Messa                                                                                                                               | 1      | 0.5kg   |       |
+| Serisem Messa                                                                                                                                     | 1      | 0.5kg   |       |
+| &lt;void&gt;-Messa                                                                                                                                | 1      | 0.5kg   |       |
+| zerbrochenes östliches Schwert                                                                                                                    | 1      |         |       |
+| leichte Halbplatte                                                                                                                                | 1      |         |       |
+| Shadowstep Rüstung, 3 slots, one filled with room filling static shadow effect, 50 point battery that can control light location (resonance on 7) | 1      |         |       |
+| Eispickel                                                                                                                                         | 1      |         |       |
+| Fackel                                                                                                                                            | 1      |         |       |
+| isolierter, reißfester Pavillion                                                                                                                  | 1      |         |       |
+| very enchantable monokristalline Bronzerüstung                                                                                                    | 1      |         |       |
+| Bronze Dagger                                                                                                                                     | 9      |         |       |
+| Dagger that converts free energy to sparks                                                                                                        | 1      |         |       |
+| multilayer reality dolch (unclear energy input)                                                                                                   | 1      |         |       |
+| Anti-Schatten-Lichtdolch                                                                                                                          | 1      |         |       |
+| Pain-to-reversal phasing dolch +life based aim assist                                                                                             | 1      |         |       |
+| Charge-Dolch                                                                                                                                      | 1      |         |       |
 
 ## Notizen
 Ladungen:

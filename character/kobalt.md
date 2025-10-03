@@ -1,7 +1,8 @@
 ---
 outgoing links: []
-tags:
-- ''
+tags: !!set
+  ? ''
+  : null
 title: Kobalt
 ---
 # Charakter
@@ -178,6 +179,7 @@ Slowfall
 # Inventar
 
 Einen sternenkasten ausweis
+Blitzartefaktstein: Hochenergetischer Blitzstein mit kleinem Fetzen "Sturm der Veränderung" drin. Kontrolliert kleine Mengen Energie reintun und rausnehmen, ist kein Problem. Overcharging mit geordneter Magie fucks up your local environment. Zuviel Energie drin, leaked diese.
 
 | Name | Anzahl | Gewicht | Preis |
 |------|--------|---------|-------|
