@@ -180,7 +180,6 @@ Hamus, Steine, Mond und Shiny Stuff
 |--------------------|-------|---|
 | Tanz               | 2/5   | 2 |
 | Zielgenauigkeit    | 1/5   | 1 |
-| Aufgeschlossenheit | 1/5   | 1 |
 | Lebensmagie        | 1/5   | 1 |
 | Irreführung        | 0/5 1 | 0 |
 | Wechselwirkung     | 1/5   | 1 |
@@ -210,7 +209,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Ausdauer           | 4/5   | 3 |
 | Kreaturenwissen    | 2/5   | 1 |
 | Meditation         | 1/5   | 1 |
-
+| Aufgeschlossenheit | 2/5   | 1 |
 # Inventar
 
 | Name                              | Anzahl | Gewicht | Preis | Beschreibung                                                                                                                                       |

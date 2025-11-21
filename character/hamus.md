@@ -1,11 +1,10 @@
 ---
 outgoing links: []
-tags: !!set
-  Hamus: null
-  character: null
+tags:
+- character
+- Hamus
 title: Hamus
 ---
-
 # Charakter
 
 ## Name
@@ -170,6 +169,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Gloom              | 0/5 | 1   | 1 |
 | Bindung BadLuck    | 2/5 | 0   | 0 |
 | Archäologie/Looten | 0/5 | 1   | 2 |
+| Atemtechnik | 1/5 | 1   | 2 |
 |                    |     |     | 0 |
 | Spinnensin         | 5/5 | 1   | 5 |
 | Infiltrator        | 0/5 | 1   | 0 |
