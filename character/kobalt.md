@@ -148,7 +148,7 @@ Konzept Runic assembly: 1/5
 aspekt runic assembly: 1/5
 AspektIce: 3/5
 Seduction 3/5
-Chaos 2/5
+Chaos 3/5
 Dozieren 1/5
 Fuckboy 1/5
 Wizard 4/5
