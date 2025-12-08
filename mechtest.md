@@ -1,8 +1,8 @@
 ---
 outgoing links: []
-tags: !!set
-  character: null
-  mech: null
+tags:
+  - mech
+  - character
 title: mechtest
 ---
 
@@ -12,10 +12,10 @@ title: mechtest
 
 ## Movement
 
-|        | Energy | Heat            | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
-|--------|--------|-----------------|--------|--------|----------|------|--------|---------|
-| Wheels | 80.0   | 5. 0. 0. 0. 0.0 | 400.0  | 0.5    | 5.0      | 2.0  | 10.0   | [ ]     |
-| Rails  | 100.0  | 3. 0. 0. 0. 0.0 | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [x]     |
+|        | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
+| ------ | ------ | ---- | ------ | ------ | -------- | ---- | ------ | ------- |
+| Wheels | 80.0   | 5    | 400.0  | 0.5    | 5.0      | 2.0  | 10.0   | [ ]     |
+| Rails  | 100.0  | 3    | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [x]     |
 
 ## Energy
 
@@ -29,29 +29,29 @@ title: mechtest
 
 ## Heat
 
-|         | Energy | Mass | Amount | Heat            | Capacity | Passive | Active | Flux | Current | Enabled |
-|---------|--------|------|--------|-----------------|----------|---------|--------|------|---------|---------|
-| Vent    | 30.0   | 0.25 | 2.0    | 0. 0. 0. 0. 0.0 | 100.0    | 10%     | 2      | 5.0  | 0.0     | [x]     |
-| Coolant | 5.0    | 0.1  | 1.0    | 0. 0. 0. 0. 0.0 | 50.0     | 0       | 10     | 25.0 | 0.0     | [x]     |
-| Sink    | 0.0    | 1.0  | 1.0    | 0. 0. 0. 0. 0.0 | 400.0    | 1%      | 0.01   | 0.0  | 0.0     | [x]     |
+|         | Energy | Mass | Amount | Heat | Capacity | Passive | Active | Flux | Current | Enabled |
+| ------- | ------ | ---- | ------ | ---- | -------- | ------- | ------ | ---- | ------- | ------- |
+| Vent    | 30.0   | 0.25 | 2.0    | 0    | 100.0    | 10%     | 2      | 5.0  | 0.0     | [x]     |
+| Coolant | 5.0    | 0.1  | 1.0    | 0    | 50.0     | 0       | 10     | 25.0 | 0.0     | [x]     |
+| Sink    | 0.0    | 1.0  | 1.0    | 0    | 400.0    | 1%      | 0.01   | 0.0  | 0.0     | [x]     |
 
 ## Offensive
 
-|         | Energy | Mass | Heat         | Amount | Enabled | Heats |
-|---------|--------|------|--------------|--------|---------|-------|
-| AutoGun | 30.0   | 7.0  | 0. 0. 0. 0.0 | 1.0    | [x]     |       |
+|         | Energy | Mass | Heat | Amount | Enabled | Heats |
+| ------- | ------ | ---- | ---- | ------ | ------- | ----- |
+| AutoGun | 30.0   | 7.0  | 0    | 1.0    | [x]     |       |
 
 ## Defensive
 
-|            | Energy | Mass | Heat         | Amount | Enabled | Heats |
-|------------|--------|------|--------------|--------|---------|-------|
-| Junk Armor | 0.0    | 5.0  | 0. 0. 0. 0.0 | 5.0    | [x]     |       |
+|            | Energy | Mass | Heat | Amount | Enabled | Heats |
+| ---------- | ------ | ---- | ---- | ------ | ------- | ----- |
+| Junk Armor | 0.0    | 5.0  | 0    | 5.0    | [x]     |       |
 
 ## Support
 
-|                | Energy | Mass | Heat         | Amount | Enabled | Heats |
-|----------------|--------|------|--------------|--------|---------|-------|
-| Coffee machine | 30.0   | 1.0  | 0. 0. 0. 0.0 | 1.0    | [x]     |       |
+|                | Energy | Mass | Heat | Amount | Enabled | Heats |
+| -------------- | ------ | ---- | ---- | ------ | ------- | ----- |
+| Coffee machine | 30.0   | 1.0  | 0    | 1.0    | [x]     |       |
 
 ## Seal
 
