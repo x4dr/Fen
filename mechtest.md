@@ -2,7 +2,6 @@
 outgoing links: []
 tags:
   - mech
-  - character
 title: mechtest
 ---
 
@@ -12,10 +11,13 @@ title: mechtest
 
 ## Movement
 
-|        | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
-| ------ | ------ | ---- | ------ | ------ | -------- | ---- | ------ | ------- |
-| Wheels | 80.0   | 5    | 400.0  | 0.5    | 5.0      | 2.0  | 10.0   | [ ]     |
-| Rails  | 100.0  | 3    | 200.0  | 0.001  | 1000.0   | 3.0  | 10.0   | [x]     |
+|          | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
+| -------- | ------ | ---- | ------ | ------ | -------- | ---- | ------ | ------- |
+| Wheels   | 80.0   | 5    | 400.0  | 5      | 5.0      | 2.0  | 10.0   | [x]     |
+| Wheels+1 | 80.0   | 5    | 400.0  | 5      | 6.0      | 2.0  | 10.0   | [x]     |
+| Rails    | 100.0  | 3    | 100.0  | 0.1    | 50.0     | 3.0  | 10.0   | [x]     |
+| Jumpjet  | 300    | 10   | 1000   | 10     | 0.5      | 2    | 10     | [x]     |
+| Jumpjet2 | 300    | 10   | 1000   | 10     | 0        | 2    | 10     | [x]     |
 
 ## Energy
 
@@ -37,21 +39,21 @@ title: mechtest
 
 ## Offensive
 
-|         | Energy | Mass | Heat | Amount | Enabled | Heats |
-| ------- | ------ | ---- | ---- | ------ | ------- | ----- |
-| AutoGun | 30.0   | 7.0  | 0    | 1.0    | [x]     |       |
+|         | Energy | Mass | Heat   | Amount | Enabled | Heats |
+|---------|--------|------|--------|--------|---------|-------|
+| AutoGun | 30.0   | 7.0  | 0. 0.0 | 1.0    | [x]     |       |
 
 ## Defensive
 
-|            | Energy | Mass | Heat | Amount | Enabled | Heats |
-| ---------- | ------ | ---- | ---- | ------ | ------- | ----- |
-| Junk Armor | 0.0    | 5.0  | 0    | 5.0    | [x]     |       |
+|            | Energy | Mass | Heat   | Amount | Enabled | Heats |
+|------------|--------|------|--------|--------|---------|-------|
+| Junk Armor | 0.0    | 5.0  | 0. 0.0 | 5.0    | [x]     |       |
 
 ## Support
 
-|                | Energy | Mass | Heat | Amount | Enabled | Heats |
-| -------------- | ------ | ---- | ---- | ------ | ------- | ----- |
-| Coffee machine | 30.0   | 1.0  | 0    | 1.0    | [x]     |       |
+|                | Energy | Mass | Heat   | Amount | Enabled | Heats |
+|----------------|--------|------|--------|--------|---------|-------|
+| Coffee machine | 30.0   | 1.0  | 0. 0.0 | 1.0    | [x]     |       |
 
 ## Seal
 
