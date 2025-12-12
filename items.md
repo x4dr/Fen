@@ -1,6 +1,6 @@
 ---
 outgoing links: []
-tags: !!set {}
+tags: []
 title: items
 ---
 
