@@ -1,6 +1,7 @@
 ---
 outgoing links: []
-tags: []
+tags:
+- ''
 title: Aldebrand
 ---
 # Character
@@ -105,6 +106,7 @@ title: Aldebrand
 
 # Progress
 | Skill | XP |
+| --- | --- |
 | Consume | 1/5 |
 
 # Inventory
