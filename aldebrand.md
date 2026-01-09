@@ -1,7 +1,9 @@
 ---
 outgoing links: []
 tags:
-- ''
+- sheet
+- Fen
+- Character
 title: Aldebrand
 ---
 # Character
