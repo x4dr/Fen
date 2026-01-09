@@ -139,7 +139,7 @@ Magic Crafting: 1/5
 Suchen: 1/5
 Fusarbeit: 2/5
 Konzept: Chaos Casting 3/5
-AspektLighting 5/5
+
 PerfektChaos 1/5
 Kraft: 1/5
 Ermitteln: 1/5

@@ -1,7 +1,7 @@
 ---
 outgoing links: []
-tags: !!set
-  character: null
+tags:
+- character
 title: Ragin
 ---
 
@@ -29,7 +29,7 @@ Fast Assassin
 ### Attribute
 
 | Attribut     | Level |
-|--------------|-------|
+|------------|-----|
 | Konstitution | 2     |
 | Agilität     | 4     |
 | Geschick     | 3     |
@@ -37,7 +37,7 @@ Fast Assassin
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
-|-------------|------|
+|-----------|----|
 | Messa       | 2    |
 | Rennen      | 1    |
 | Akrobatik   | 1    |
@@ -56,7 +56,7 @@ Fast Assassin
 ### Attribute
 
 | Attribut              | Level |
-|-----------------------|-------|
+|---------------------|-----|
 | Durchsetzungsvermögen | 2     |
 | Sympathie             | 2     |
 | Eindruck              | 3     |
@@ -64,8 +64,8 @@ Fast Assassin
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
-|-------------|------|
-| Irreführung | 2    |
+|-----------|----|
+| Irreführung | 3    |
 | Etiquette   | 1    |
 | Handel      | 1    |
 | Tratsch     | 1    |
@@ -79,7 +79,7 @@ Fast Assassin
 ### Attribute
 
 | Attribut    | Level |
-|-------------|-------|
+|-----------|-----|
 | Wahrnehmung | 3     |
 | Bildung     | 2     |
 | Geist       | 1     |
@@ -87,7 +87,7 @@ Fast Assassin
 ### Fähigkeiten
 
 | Fähigkeit        | Wert |
-|------------------|------|
+|----------------|----|
 | Suchen           | 2    |
 | Instinkt         | 1    |
 | Taktik           | 1    |
@@ -102,7 +102,7 @@ Fast Assassin
 ### Attribute
 
 | Attribut | Level |
-|----------|-------|
+|--------|-----|
 | Theorie  | 1     |
 | Praxis   | 2     |
 | Einblick | 1     |
@@ -110,7 +110,7 @@ Fast Assassin
 ### Fähigkeiten
 
 | Fähigkeit      | Wert |
-|----------------|------|
+|--------------|----|
 | Gifte          | 2    |
 | Musterresonanz | 1    |
 | Agent          | 2    |
@@ -121,7 +121,7 @@ Fast Assassin
 ### Attribute
 
 | Attribut      | Level |
-|---------------|-------|
+|-------------|-----|
 | Konzentration | 3     |
 | Disziplin     | 1     |
 | Flow          | 1     |
@@ -129,7 +129,7 @@ Fast Assassin
 ### Fähigkeiten
 
 | Fähigkeit       | Wert |
-|-----------------|------|
+|---------------|----|
 | Schattenschritt | 3    |
 | EyEsOfDaRkNeSs  | 3    |
 | Okysa           | 2    |
@@ -141,7 +141,7 @@ Fast Assassin
 ### Attribute
 
 | Attribut  | Level |
-|-----------|-------|
+|---------|-----|
 | Schicksal | 4     |
 | Gunst     | 4     |
 | Wille     | 2     |
@@ -160,7 +160,7 @@ Shadow blood
 # Fortschritt
 
 | Fähigkeit/Vorteil | gesammelt |
-|:------------------|:----------|
+|:----------------|:--------|
 | Zeichensprache    | S         |
 | Meucheln          | SSSSSSS   |
 | Survival          | SSSSS     |
@@ -189,7 +189,7 @@ Shadow blood
 | Wissen(Kulturen)  | SS        |
 | Wissen(Wald)      | SSSSS     |
 | Botenjudo         | S         |
-| Irreführung       | SSSS      |
+| Irreführung       | SSSSS     |
 | Bote              | S         |
 | Sturm             | S         |
 | Musterresonanz    | S         |
@@ -197,7 +197,7 @@ Shadow blood
 # Inventar
 
 | Name                              | Anzahl | Gewicht | Preis |
-|-----------------------------------|--------|---------|-------|
+|---------------------------------|------|-------|-----|
 | Letter of Introduction von Harika |        |         |       |
 | Feuerkastenausweis                |        |         |       |
 | Incomplete concept of promise     |        |         |       |
@@ -205,7 +205,7 @@ Shadow blood
 ## Ausrüstung
 
 | Name                                                                                                                                              | Anzahl | Gewicht | Preis |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|--------|---------|-------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|------|-------|-----|
 | Überlandbotenrucksack                                                                                                                             | 1      | 5kg     |       |
 | Ragins Messa                                                                                                                                      | 1      | 0.5kg   |       |
 | Aurier Freeze Messa                                                                                                                               | 1      | 0.5kg   |       |

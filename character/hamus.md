@@ -5,6 +5,7 @@ tags:
 - Hamus
 title: Hamus
 ---
+
 # Charakter
 
 ## Name
@@ -23,7 +24,7 @@ Hamus
 ### Attribute
 
 | Attribut     | Level |
-|--------------|-------|
+|------------|-----|
 | Konstitution | 2     |
 | Agilität     | 2     |
 | Geschick     | 2     |
@@ -31,7 +32,7 @@ Hamus
 ### Fähigkeiten
 
 | Fähigkeit   | Wert |
-|-------------|------|
+|-----------|----|
 | Rennen      | 2    |
 | Kraft       | 2    |
 | Bogen       | 1    |
@@ -47,7 +48,7 @@ Hamus
 ### Attribute
 
 | Attribut              | Level |
-|-----------------------|-------|
+|---------------------|-----|
 | Durchsetzungsvermögen | 1     |
 | Sympathie             | 1     |
 | Eindruck              | 1     |
@@ -55,7 +56,7 @@ Hamus
 ### Fähigkeiten
 
 | Fähigkeit  | Wert |
-|------------|------|
+|----------|----|
 | Empathie   | 1    |
 | Tratsch    | 1    |
 | Ettiquette | 1    |
@@ -67,7 +68,7 @@ Hamus
 ### Attribute
 
 | Attribut    | Level |
-|-------------|-------|
+|-----------|-----|
 | Wahrnehmung | 3     |
 | Bildung     | 1     |
 | Geist       | 1     |
@@ -75,7 +76,7 @@ Hamus
 ### Fähigkeiten
 
 | Fähigkeit    | Wert |
-|--------------|------|
+|------------|----|
 | Balistik     | 2    |
 | Gassenwissen | 2    |
 | Instinkt     | 2    |
@@ -88,7 +89,7 @@ Hamus
 ### Attribute
 
 | Attribut | Level |
-|----------|-------|
+|--------|-----|
 | Theorie  | 1     |
 | Praxis   | 2     |
 | Einblick | 3     |
@@ -96,7 +97,7 @@ Hamus
 ### Fähigkeiten
 
 | Fähigkeit          | Wert |
-|--------------------|------|
+|------------------|----|
 | Unauffällig        | 2    |
 | Infiltrator        | 2    |
 | Ermitteln          | 2    |
@@ -112,7 +113,7 @@ Hamus
 ### Attribute
 
 | Attribut      | Level |
-|---------------|-------|
+|-------------|-----|
 | Konzentration | 1     |
 | Disziplin     | 5     |
 | Flow          | 3     |
@@ -120,7 +121,7 @@ Hamus
 ### Fähigkeiten
 
 | Fähigkeit                   | Wert |
-|-----------------------------|------|
+|---------------------------|----|
 | Gefahrensin                 | 3    |
 | Spurenlos                   | 3    |
 | Tiergefährte                | 3    |
@@ -137,7 +138,7 @@ Hamus
 want: Plänklermodus, allgemeine fernkampfdinge
 
 | Name                    | Stufe | Beschreibung                                                                   |
-|-------------------------|-------|--------------------------------------------------------------------------------|
+|-----------------------|-----|------------------------------------------------------------------------------|
 | Aurisch schreiben/lesen | 1     |                                                                                |
 | Aurisch sprechen        | 1     |                                                                                |
 | Gebärendsprache         | 1     |                                                                                |
@@ -152,40 +153,41 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen
 
-| Skill              | V.  | lvl | = |
-|--------------------|-----|-----|---|
-| Fischer            | 1/5 | 0   | 1 |
-| Werfen             | 4/5 | 0   | 4 |
-| Gassenwissen       | 1/5 | 0   | 1 |
-| Empathie           | 2/5 | 0   | 2 |
-| Tanzen             | 1/5 | 0   | 1 |
-| Appraisal          | 2/5 | 0   | 2 |
-| Taktik             | 3/5 | 0   | 3 |
-| Handgemenge        | 2/5 | 0   | 2 |
-| Animal Companion   | 2/5 | 1   | 1 |
-| Support            | 1/5 | 1   | 1 |
-| Quelle Sturm       | 0/5 | 1   | 1 |
-| Standhalten        | 4/5 | 0   | 1 |
-| Gloom              | 0/5 | 1   | 1 |
-| Bindung BadLuck    | 2/5 | 0   | 0 |
-| Archäologie/Looten | 0/5 | 1   | 2 |
-| Atemtechnik | 1/5 | 1   | 2 |
-|                    |     |     | 0 |
-| Spinnensin         | 5/5 | 1   | 5 |
-| Infiltrator        | 0/5 | 1   | 0 |
-| Ermitteln          | 0/5 | 1   | 0 |
-| Unauffällig        | 4/5 | 0   | 4 |
-| Instinkt           | 5/5 | 1   | 5 |
-| Zielsicher         | 0/5 | 2   | 0 |
-| Paranoia           | 0/5 | 1   | 0 |
-| Layouts            | 5/5 | 1   | 5 |
-| Munitionierer      | 0/5 | 1   |   |
-| Animal Companion   | 5/5 | 1   | 1 |
+| Skill              | V.  | lvl | =   |
+|------------------|---|---|---|
+| Fischer            | 1/5 | 0   | 1   |
+| Werfen             | 4/5 | 0   | 4   |
+| Gassenwissen       | 1/5 | 0   | 1   |
+| Empathie           | 2/5 | 0   | 2   |
+| Tanzen             | 1/5 | 0   | 1   |
+| Appraisal          | 2/5 | 0   | 2   |
+| Taktik             | 3/5 | 0   | 3   |
+| Handgemenge        | 2/5 | 0   | 2   |
+| Animal Companion   | 2/5 | 1   | 1   |
+| Support            | 1/5 | 1   | 1   |
+| Quelle Sturm       | 0/5 | 1   | 1   |
+| Standhalten        | 4/5 | 0   | 1   |
+| Gloom              | 0/5 | 1   | 1   |
+| Bindung BadLuck    | 2/5 | 0   | 0   |
+| Archäologie/Looten | 0/5 | 1   | 2   |
+| Atemtechnik        | 1/5 | 1   | 2   |
+| Layouts            | 1/5 | 0   | 1   |
+|                    |     |     | 0   |
+| Spinnensin         | 5/5 | 1   | 5   |
+| Infiltrator        | 0/5 | 1   | 0   |
+| Ermitteln          | 0/5 | 1   | 0   |
+| Unauffällig        | 4/5 | 0   | 4   |
+| Instinkt           | 5/5 | 1   | 5   |
+| Zielsicher         | 0/5 | 2   | 0   |
+| Paranoia           | 0/5 | 1   | 0   |
+| Munitionierer      | 0/5 | 1   | 5   |
+| Animal Companion   | 5/5 | 1   |     |
+|                    |     | 1   | 1   |
 
 # Inventar
 
 | Name                       | Anzahl                               | Gewicht | Preis |
-|----------------------------|--------------------------------------|---------|-------|
+|--------------------------|------------------------------------|-------|-----|
 | Wurfkrüge (leer)           | 10                                   |         |       |
 | Schleuderkrüge (leer)      | 8                                    |         |       |
 | Hohl Pfeile                | 10                                   |         |       |
@@ -198,7 +200,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 ## AquisePunkte
 
 | Name                       | Anzahl | Quanten |
-|----------------------------|--------|---------|
+|--------------------------|------|-------|
 | Infiltrator                | 2      |         |
 |                            |        |         |
 | Munitionierer              | 1      |         |
@@ -208,7 +210,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 # Artefakte
 
 | Name                              | Beschreibung                                                                                                                                                                           | Wirkung                                                                                                |
-|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | Schattenpfeil                     | erzeugt einen Schatten                                                                                                                                                                 | 5                                                                                                      |
 | Schärpen-Gürtel mit Bernsteinherz | Ein herzförmigerbrocken Bernstein geschliffen zu anatomisch korrektem menschlichen Herz. Gedanken an Cybi in Richtung des Artefakts senden eine beruhigende Aura aus. Permanent aktiv. | erzeugt eine sehr spezielle Energie Beleben/pumpen/kraft, Svenja könnte draus ein herz machen          |
 | Puzzelbox                         | eine Flache Platte die einmal eine Komplexen Puzzelbox war                                                                                                                             | kann wieder aufgefaltet werden, Fassungsvermögen ca ein Faustgroßer Gegenstand                         |
@@ -222,7 +224,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 # Personen
 
 | Name                   | Beschreibung                                                            | Perks                                   |
-|------------------------|-------------------------------------------------------------------------|-----------------------------------------|
+|----------------------|-----------------------------------------------------------------------|---------------------------------------|
 | Orbus                  | Hamus adoptive Rabe wer wen adoptiert ist noch unklar                   |                                         |
 | pugna                  | Hamus Mutter, aufbrausend/anpackend hart aber Fair                      | tot                                     |
 | Placidus               | Hamus Vater, ruhig/bedacht, weiß was zu tun ist                         | vielleicht tot                          |
