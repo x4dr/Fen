@@ -1,8 +1,7 @@
 ---
 outgoing links: []
-tags: !!set
-  ? ''
-  : null
+tags:
+- ''
 title: Kobalt
 ---
 # Charakter
@@ -155,7 +154,7 @@ Wizard 4/5
 Scrying 3/5
 hermticskill.jpg: 1/5
 Enrgfiefeldmanipulation 1/5
-Analyse 1/5
+Analyse 2/5
 quelle chaos: 1/5
 aspekttravelgravity: 1/5
 avisnimdung 2/5
