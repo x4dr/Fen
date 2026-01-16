@@ -4,7 +4,6 @@ tags:
 - ''
 title: cybi
 ---
-
 # Charakter
 
 ## Name
@@ -183,11 +182,8 @@ Hamus, Steine, Mond und Shiny Stuff
 | Zielgenauigkeit    | 1/5   | 1   |
 | Lebensmagie        | 1/5   | 1   |
 | Irreführung        | 0/5 1 | 0   |
-| Wechselwirkung     | 1/5   | 1   |
-| Ausdauer           | 3/5   | 3   |
 | Handel             | 3/5   | 3   |
 | Empathie           | 2/5   | 2   |
-| Überreden          | 1/5   | 1   |
 | Glitzer            | 1/5   | 1   |
 | Heilen             | 0/5 1 | 0   |
 | Philosophie        | 1/5   | 1   |
@@ -210,7 +206,8 @@ Hamus, Steine, Mond und Shiny Stuff
 | Kreaturenwissen    | 2/5   | 1   |
 | Meditation         | 1/5   | 1   |
 | Aufgeschlossenheit | 2/5   | 1   |
-| Wechselwirkung     | 3/5   | 1   |
+| Wechselwirkung     | 4/5   | 1   |
+| Überreden          | 2/5   | 1   |
 
 # Inventar
 
