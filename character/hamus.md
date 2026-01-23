@@ -91,7 +91,7 @@ Hamus
 | Attribut | Level |
 |--------|-----|
 | Theorie  | 1     |
-| Praxis   | 2     |
+| Praxis   | 4     |
 | Einblick | 3     |
 
 ### Fähigkeiten
