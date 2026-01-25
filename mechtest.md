@@ -17,7 +17,7 @@ title: testmecha
 ## Energy
 |                     | Energy | Mass | Amount | Enabled | Heat |
 |-------------------|------|----|------|-------|----|
-| baseloadreactor     | 500    | 5    | 1      | [ ]     | 10   |
+| baseloadreactor     | 50     | 5    | 1      | [ ]     | 10   |
 | peakload stage 1    | 20     | 5    | 1      | [ ]     | 5    |
 | peakload stage 2    | 20     | 5    | 1      | [ ]     | 5    |
 | backup generator    | 15     | 5    | 1      | [ ]     | 2    |
@@ -55,7 +55,7 @@ title: testmecha
 # Loadouts
 
 ## Default
-[0], baseloadreactor, [10], peakload stage 1, [15], peakload stage 2, [20], backup generator, emergency generator, [25], Wheels, [30], Rails, [35], Vent, Coolant, Sink, Junk Armor, AutoGun, [40], Coffee machine, [45]
+[0], baseloadreactor, [10], peakload stage 1, [15], peakload stage 2, [20], emergency generator, backup generator, [25], Wheels, [30], Rails, [35], Vent, Coolant, Sink, Junk Armor, AutoGun, [40], Coffee machine, [45]
 
 ## TestLoadout
 [0], baseloadreactor, [10], Vent, Coolant, Sink, [15], Coffee machine, [20]
