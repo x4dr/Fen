@@ -1,67 +1,64 @@
 ---
 outgoing links: []
 tags:
-  - mech
-title: mechtest
+- mech
+title: testmecha
 ---
-
 # Description
 
 # Systems
 
 ## Movement
-
-|          | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
-| -------- | ------ | ---- | ------ | ------ | -------- | ---- | ------ | ------- |
-| Wheels   | 80.0   | 5    | 400.0  | 5      | 5.0      | 2.0  | 10.0   | [x]     |
-| Wheels+1 | 80.0   | 5    | 400.0  | 5      | 6.0      | 2.0  | 10.0   | [x]     |
-| Rails    | 100.0  | 3    | 100.0  | 0.1    | 50.0     | 3.0  | 10.0   | [x]     |
-| Jumpjet  | 300    | 10   | 1000   | 10     | 0.5      | 2    | 10     | [x]     |
-| Jumpjet2 | 300    | 10   | 1000   | 10     | 0        | 2    | 10     | [x]     |
+|        | Energy | Heat | Thrust | Anchor | Dynamics | Mass | Amount | Enabled |
+|------|------|----|------|------|--------|----|------|-------|
+| Wheels | 100    | 5    | 400    | 0.5    | 5        | 2    | 10     | [ ]     |
+| Rails  | 100    | 3    | 200    | 0.001  | 1000     | 3    | 10     | [ ]     |
 
 ## Energy
-
-|                     | Energy | Mass | Amount | Enabled |
-|---------------------|--------|------|--------|---------|
-| baseloadreactor     | 50.0   | 5.0  | 3.0    | [x]     |
-| peakload stage 1    | 20.0   | 5.0  | 3.0    | [x]     |
-| peakload stage 2    | 20.0   | 5.0  | 2.0    | [x]     |
-| backup generator    | 15.0   | 1.0  | 1.0    | [ ]     |
-| emergency generator | 10.0   | 1.0  | 1.0    | [x]     |
+|                     | Energy | Mass | Amount | Enabled | Heat |
+|-------------------|------|----|------|-------|----|
+| baseloadreactor     | 500    | 5    | 1      | [ ]     | 10   |
+| peakload stage 1    | 20     | 5    | 1      | [ ]     | 5    |
+| peakload stage 2    | 20     | 5    | 1      | [ ]     | 5    |
+| backup generator    | 15     | 5    | 1      | [ ]     | 2    |
+| emergency generator | 10     | 5    | 1      | [ ]     | 2    |
 
 ## Heat
-
 |         | Energy | Mass | Amount | Heat | Capacity | Passive | Active | Flux | Current | Enabled |
-| ------- | ------ | ---- | ------ | ---- | -------- | ------- | ------ | ---- | ------- | ------- |
-| Vent    | 30.0   | 0.25 | 2.0    | 0    | 100.0    | 10%     | 2      | 5.0  | 0.0     | [x]     |
-| Coolant | 5.0    | 0.1  | 1.0    | 0    | 50.0     | 0       | 10     | 25.0 | 0.0     | [x]     |
-| Sink    | 0.0    | 1.0  | 1.0    | 0    | 400.0    | 1%      | 0.01   | 0.0  | 0.0     | [x]     |
+|-------|------|----|------|----|--------|-------|------|----|-------|-------|
+| Vent    | 2      | 1    | 1      | 0    | 100      | 10%     | 2      | 10   | 0       | [ ]     |
+| Coolant | 5      | 2    | 1      | 0    | 50       | 0       | 10     | 25   | 0       | [ ]     |
+| Sink    | 1      | 5    | 1      | 0    | 400      | 1%      | 0.01   | 0    | 0       | [ ]     |
 
 ## Offensive
-
-|         | Energy | Mass | Heat   | Amount | Enabled | Heats |
-|---------|--------|------|--------|--------|---------|-------|
-| AutoGun | 30.0   | 7.0  | 0. 0.0 | 1.0    | [x]     |       |
+|         | Energy | Mass | Heat | Amount | Enabled |
+|-------|------|----|----|------|-------|
+| AutoGun | 30     | 7    | 15   | 1      | [ ]     |
 
 ## Defensive
-
-|            | Energy | Mass | Heat   | Amount | Enabled | Heats |
-|------------|--------|------|--------|--------|---------|-------|
-| Junk Armor | 0.0    | 5.0  | 0. 0.0 | 5.0    | [x]     |       |
+|            | Energy | Mass | Heat | Amount | Enabled |
+|----------|------|----|----|------|-------|
+| Junk Armor | 0      | 5    | 0    | 5      | [ ]     |
 
 ## Support
-
-|                | Energy | Mass | Heat   | Amount | Enabled | Heats |
-|----------------|--------|------|--------|--------|---------|-------|
-| Coffee machine | 30.0   | 1.0  | 0. 0.0 | 1.0    | [x]     |       |
+|                | Energy | Mass | Heat | Amount | Enabled |
+|--------------|------|----|----|------|-------|
+| Coffee machine | 30     | 1    | 33   | 1      | [ ]     |
 
 ## Seal
-
 |                            | Level |
-|----------------------------|-------|
-| External Experimental Seal | 25.0  |
+|--------------------------|-----|
+| External Experimental Seal | 25    |
+
+# Sectors
 
 # Loadouts
 
 ## Default
-[0], Wheels, [10.0], Rails, [15.0], Vent, [25.0], Coolant, Sink, Junk Armor, AutoGun, [40.0], Coffee machine, [50.0]
+[0], baseloadreactor, [10], peakload stage 1, [15], peakload stage 2, [20], backup generator, emergency generator, [25], Wheels, [30], Rails, [35], Vent, Coolant, Sink, Junk Armor, AutoGun, [40], Coffee machine, [45]
+
+## TestLoadout
+[0], baseloadreactor, [10], Vent, Coolant, Sink, [15], Coffee machine, [20]
+
+## FuelConserving
+[0], baseloadreactor, [10], Wheels, [15], Vent, Coolant, Junk Armor, [20]
