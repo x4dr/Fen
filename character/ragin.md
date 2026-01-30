@@ -179,7 +179,7 @@ Shadow blood
 | Belos             | SS        |
 | Werfen            | SS        |
 | Autorität         | SSSSS     |
-| Tratsch           | SSS       |
+| Tratsch           | SSSS      |
 | Eispicke          | SSS       |
 | EyEsOfDaRkNeSs    | SSSSS     |
 | Stabilität        | SS        |

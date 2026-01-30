@@ -205,9 +205,9 @@ Hamus, Steine, Mond und Shiny Stuff
 | Ausdauer           | 4/5   | 3   |
 | Kreaturenwissen    | 2/5   | 1   |
 | Meditation         | 1/5   | 1   |
-| Aufgeschlossenheit | 2/5   | 1   |
 | Wechselwirkung     | 4/5   | 1   |
 | Überreden          | 2/5   | 1   |
+| Aufgeschlossenheit | 3/5   | 1   |
 
 # Inventar
 
