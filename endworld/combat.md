@@ -51,6 +51,21 @@ If armor or a defensive layer breaks, it stops protecting. Some defenses may lea
 
 For living targets, damage represents wounds, which may heal, for systems they represent damage which may be repaired.
 
+### Malfunctions
+
+When a sector or system takes damage, it may suffer a malfunction. Malfunctions typically add **Penalty Dice** to relevant actions.
+
+| Malfunction             | Effect                   | Relevant Actions                 |
+|-------------------------|--------------------------|----------------------------------|
+| **Sensor Glitch**       | +1 Penalty Dice          | Perception, Targeting, Scanning  |
+| **Actuator Jam**        | +1 Penalty Dice          | Movement, Melee Attacks, Dodging |
+| **Power Leak**          | +10% Energy Cost         | Affected System                  |
+| **Circuits Frying**     | +2 Heat/Turn             | Affected System                  |
+| **FCS Error**           | +1 Penalty Dice          | Ranged Attacks                   |
+| **Structural Weakness** | Additional System Damage | All hits to this sector          |
+
+Multiple malfunctions in the same sector or affecting the same action are cumulative.
+
 ---
 
 ## Death

@@ -18,22 +18,24 @@ Energy units are now abstract, but originally they were
 * 1 Energy (E) = 5 kW over 1 round (5 seconds)
 * 1 MJ = 200 E
 
-| Type             | E      | Heat    | Input              | Efficiency                    |
-|------------------|--------|---------|--------------------|-------------------------------|
-| **Basetech**     |        |         |                    |                               |
-| Steam Power      | 2/4    | 3/8     | Coal               | 10%                           |
-| Flywheel         | 20     | 0       | Stored             | spins down even if unused     |
-| Crew             | 0.3    | 0       | 10 Crew Labor      | Crew tire after 30min*Fitness |
-| **Lowtech**      |        |         |                    |                               |
-| Combustion Motor | 50/150 | 1/2     | Combustible Liquid | 40%                           |
-| **Midtech**      |        |         |                    |                               |
-| PEM              | 50/100 | 0.1/0.3 | Hydrogen           | 90%                           |
-| Solar Panel      | 10     | 2       | Sunlight           | Contamination Dependent       |
-| Batteries        | 10     | 2       | Stored             | Loses 10% per month           |
-| **Hightech**     |        |         |                    |                               |
-| Reactor          | 300    | 5       | Fuel Rods          | 8%                            |
-| CF Reactor       | 40     | 0.1     | Deuterium          | 80%                           |
-| Capacitor        | 1000   | 8       | Stored             | Loses 10% per hour            |
+| Type             | E      | Heat    | Shutoff | Input              | Efficiency                    |
+|------------------|--------|---------|---------|--------------------|-------------------------------|
+| **Basetech**     |        |         |         |                    |                               |
+| Steam Power      | 2/4    | 3/8     | 10      | Coal               | 10%                           |
+| Flywheel         | 20     | 0       | 0       | Stored             | spins down even if unused     |
+| Crew             | 0.3    | 0       | 0       | 10 Crew Labor      | Crew tire after 30min*Fitness |
+| **Lowtech**      |        |         |         |                    |                               |
+| Combustion Motor | 50/150 | 1/2     | 3       | Combustible Liquid | 40%                           |
+| **Midtech**      |        |         |         |                    |                               |
+| Fission Core     | 150    | 15      | 5       | Rods               | 8%                            |
+| PEM              | 50/100 | 0.1/0.3 | 1       | Hydrogen           | 90%                           |
+| Solar Panel      | 10     | 2       | 0       | Sunlight           | Contamination Dependent       |
+| Batteries        | 10     | 2       | 0       | Stored             | Loses 10% per month           |
+| **Hightech**     |        |         |         |                    |                               |
+| Reactor          | 300    | 5       | 3       | Fuel Rods          | 8%                            |
+| CF Reactor       | 40     | 0.1     | 1       | Deuterium          | 80%                           |
+| Micro-Fusion     | 600    | 30      | 1       | Pellets            | 80%                           |
+| Capacitor        | 1000   | 8       | 0       | Stored             | Loses 10% per hour            |
 
 **Notes**:
 
