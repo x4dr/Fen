@@ -58,7 +58,7 @@ Fast Assassin
 | Attribut              | Level |
 |---------------------|-----|
 | Durchsetzungsvermögen | 2     |
-| Sympathie             | 2     |
+| Sympathie             | 3     |
 | Eindruck              | 3     |
 
 ### Fähigkeiten
@@ -68,7 +68,7 @@ Fast Assassin
 | Irreführung | 3    |
 | Etiquette   | 1    |
 | Handel      | 1    |
-| Tratsch     | 1    |
+| Tratsch     | 2    |
 | Autorität   | 2    |
 | Rhetorik    | 2    |
 | Empathie    | 1    |
@@ -179,7 +179,7 @@ Shadow blood
 | Belos             | SS        |
 | Werfen            | SS        |
 | Autorität         | SSSSS     |
-| Tratsch           | SSSS      |
+| Tratsch           | SSSSS     |
 | Eispicke          | SSS       |
 | EyEsOfDaRkNeSs    | SSSSS     |
 | Stabilität        | SS        |

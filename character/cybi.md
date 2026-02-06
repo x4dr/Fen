@@ -4,6 +4,7 @@ tags:
 - ''
 title: cybi
 ---
+
 # Charakter
 
 ## Name
@@ -118,7 +119,7 @@ Hamus, Steine, Mond und Shiny Stuff
 |-------------|-----|
 | Konzentration | 2     |
 | Disziplin     | 3     |
-| Flow          | 3     |
+| Flow          | 4     |
 
 ### Fähigkeiten
 
@@ -142,12 +143,12 @@ Hamus, Steine, Mond und Shiny Stuff
 
 ### Aspekt
 
-| Fähigkeit     | Wert |
-|-------------|----|
-| Illusion      | 2    |
-| Manifestation | 3    |
-| Lebensmagie   | 1    |
-| Equivalent Exchange   | 1    |
+| Fähigkeit           | Wert |
+|-------------------|----|
+| Illusion            | 2    |
+| Manifestation       | 3    |
+| Lebensmagie         | 1    |
+| Equivalent Exchange | 1    |
 
 ## Narrativ
 
@@ -247,3 +248,9 @@ Hamus, Steine, Mond und Shiny Stuff
 |-------------------------|------------------------------------------------------|
 | Silbernes Kästchen        | Kleine Schmuckschatulle, versilbert, von ideellem Wert |
 | Glitzer-Werkstatt Bausatz | Veraltet, aber kostenlos                               |
+
+# Notes
+
+| Name          | Beschreibung               |
+|-------------|--------------------------|
+| Auftriebstanz | On hold till EXP available |
