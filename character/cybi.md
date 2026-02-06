@@ -4,6 +4,7 @@ tags:
 - ''
 title: cybi
 ---
+
 # Charakter
 
 ## Name
@@ -233,7 +234,7 @@ Hamus, Steine, Mond und Shiny Stuff
 
 | Name                 | Anzahl | Gewicht | Beschreibung                                                                                                                                                                                                                                            | Ladung |
 |--------------------|------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 20/12  |
+| Glimmer              | 1      | 0,25    | Bearbeiteter Regenbogenopal. Lädt bei 4er Resonanz auf.                                                                                                                                                                                                 | 20/11  |
 | Wanderkette          | 1      | -       | Stein an Schnur. Hilft beim Wandern. X Bonuswürfel, wobei X eine beliebige Menge darstellt. Für jede 1 die es neutralisiert, verliert es eine Ladung. Kommt es bei -1 Ladung an, explodiert das Amulett und der Wurf muss ohne Bonus wiederholt werden. | 3/3    |
 | Kommunikations-Stein | 1      | -       | In der Hand halten und die Person auf die man sich konzentriert, kann einen verstehen und man kann sie verstehen, egal welche Sprache man jeweils spricht                                                                                               | ?      |
 | Herz des Waldes      | 1      | -       | Kann Halter kann mit Pflanzen reden, diese aber nicht verstehen. Cybi versteht sie auch. Außerdem gibt es Pflanzen einen Wachstumsboost                                                                                                                 | ?      |
