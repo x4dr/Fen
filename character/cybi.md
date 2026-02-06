@@ -4,7 +4,6 @@ tags:
 - ''
 title: cybi
 ---
-
 # Charakter
 
 ## Name
@@ -148,6 +147,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Illusion      | 2    |
 | Manifestation | 3    |
 | Lebensmagie   | 1    |
+| Equivalent Exchange   | 1    |
 
 ## Narrativ
 
