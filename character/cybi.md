@@ -4,7 +4,6 @@ tags:
 - ''
 title: cybi
 ---
-
 # Charakter
 
 ## Name
@@ -45,6 +44,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Fitness     | 1    |
 | Feinmotorik | 1    |
 | Reflexe     | 1    |
+| Ausdauer    | 1    |
 
 ## Sozial
 
@@ -204,12 +204,12 @@ Hamus, Steine, Mond und Shiny Stuff
 | Mondlicht          | 0/5 1 | 2   |
 | Kräuterkunde       | 2/5   | 0   |
 | Instinkt           | 1/5   | 0   |
-| Ausdauer           | 4/5   | 3   |
 | Kreaturenwissen    | 2/5   | 1   |
 | Meditation         | 1/5   | 1   |
 | Wechselwirkung     | 4/5   | 1   |
 | Überreden          | 2/5   | 1   |
 | Aufgeschlossenheit | 3/5   | 1   |
+| Ausdauer           | 0/5 1 | 3   |
 
 # Inventar
 

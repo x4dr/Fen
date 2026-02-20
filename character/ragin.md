@@ -165,7 +165,7 @@ Shadow blood
 | Meucheln          | SSSSSSS   |
 | Survival          | SSSSS     |
 | Fußarbeit         | SSSSS     |
-| Wissen(Kulturen)  | SSSSS     |
+| Wissen(Kulturen)  | SSSSSS    |
 | Widerstehen       | SSSSS     |
 | Politik           | SSSSSSS   |
 | Okysa             | SSSSS     |
