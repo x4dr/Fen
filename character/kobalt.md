@@ -156,7 +156,7 @@ hermticskill.jpg: 1/5
 Enrgfiefeldmanipulation 1/5
 Analyse 2/5
 quelle chaos: 1/5
-aspekttravelgravity: 2/5
+aspekttravelgravity: 3/5
 avisnimdung 2/5
 TanasBindung: 1/5
 irrefuehrung 1/5

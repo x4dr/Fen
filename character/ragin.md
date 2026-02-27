@@ -192,7 +192,7 @@ Shadow blood
 | Irreführung       | SSSSS     |
 | Bote              | S         |
 | Sturm             | S         |
-| Musterresonanz    | SS        |
+| Musterresonanz    | SSS       |
 
 # Inventar
 

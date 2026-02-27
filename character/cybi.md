@@ -4,7 +4,6 @@ tags:
 - ''
 title: cybi
 ---
-
 # Charakter
 
 ## Name
@@ -181,7 +180,6 @@ Hamus, Steine, Mond und Shiny Stuff
 
 | Fähigkeit          | EXP   | =   |
 |------------------|-----|---|
-| Tanz               | 2/5   | 2   |
 | Zielgenauigkeit    | 1/5   | 1   |
 | Lebensmagie        | 1/5   | 1   |
 | Irreführung        | 0/5 1 | 0   |
@@ -211,6 +209,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Überreden          | 2/5   | 1   |
 | Aufgeschlossenheit | 3/5   | 1   |
 | Ausdauer           | 0/5 1 | 3   |
+| Tanz               | 3/5   | 2   |
 
 # Inventar
 
