@@ -25,7 +25,7 @@ Hamus
 
 | Attribut     | Level |
 |------------|-----|
-| Konstitution | 2     |
+| Konstitution | 3     |
 | Agilität     | 2     |
 | Geschick     | 2     |
 
