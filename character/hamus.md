@@ -1,11 +1,10 @@
 ---
 outgoing links: []
 tags:
-- character
 - Hamus
+- character
 title: Hamus
 ---
-
 # Charakter
 
 ## Name
@@ -161,7 +160,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Empathie           | 2/5 | 0   | 2   |
 | Tanzen             | 1/5 | 0   | 1   |
 | Appraisal          | 2/5 | 0   | 2   |
-| Taktik             | 3/5 | 0   | 3   |
+| Taktik             | 4/5 | 0   | 3   |
 | Handgemenge        | 2/5 | 0   | 2   |
 | Animal Companion   | 2/5 | 1   | 1   |
 | Support            | 1/5 | 1   | 1   |
