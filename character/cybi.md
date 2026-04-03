@@ -212,6 +212,7 @@ Hamus, Steine, Mond und Shiny Stuff
 | Ausdauer           | 0/5 1 | 3   |
 | Tanz               | 3/5   | 2   |
 | Aufhetzen          | 1/5   | 0   |
+| Akrobatik          | 1/5   | 0   |
 
 # Inventar
 

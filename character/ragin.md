@@ -4,7 +4,6 @@ tags:
 - character
 title: Ragin
 ---
-
 # Charakter
 
 ## Name
@@ -162,7 +161,7 @@ Shadow blood
 | Fähigkeit/Vorteil | gesammelt |
 |:----------------|:--------|
 | Zeichensprache    | S         |
-| Meucheln          | SSSSSSS   |
+| Meucheln          | SSSSSSSS  |
 | Survival          | SSSSS     |
 | Fußarbeit         | SSSSS     |
 | Wissen(Kulturen)  | SSSSSS    |
@@ -172,7 +171,7 @@ Shadow blood
 | Agent             | SSSSS     |
 | Messa             | SSSSS     |
 | Suchen            | SSSSS     |
-| Gifte             | SSSSS     |
+| Gifte             | SSSSSS    |
 | Wächter           | S         |
 | Akrobatik         | SS        |
 | Schattenschritt   | SSSSS     |
