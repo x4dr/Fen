@@ -39,3 +39,6 @@ title: hamus familienweisheiten
 #### Auf dem Ball 
 P:Man sollte die guten Dinge im Leben genießen...
 M:... Es könnte immer das letze mal sein
+
+# Hamus
+###  Nur der Horst ist mein Meister und ich eine Feder in seinem Köcher
