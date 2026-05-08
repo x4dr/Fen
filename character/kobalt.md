@@ -140,7 +140,7 @@ Suchen: 1/5
 Fusarbeit: 2/5
 Konzept: Chaos Casting 3/5
 
-PerfektChaos 1/5
+PerfektChaos 2/5
 Kraft: 1/5
 Ermitteln: 2/5
 Konzept Runic assembly: 1/5
