@@ -179,7 +179,7 @@ Shadow blood
 | Werfen            | SS        |
 | Autorität         | SSSSS     |
 | Tratsch           | SSSSS     |
-| Eispicke          | SSS       |
+| Eispicke          | SSSS      |
 | EyEsOfDaRkNeSs    | SSSSS     |
 | Stabilität        | SS        |
 | Wissen(Gebirge)   | SS        |
