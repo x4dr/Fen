@@ -9,11 +9,11 @@ The ability to extract useful information from books, terminals, archives, or si
 
 ## Instinct
 
-Applied when reacting to the unexpected. Represents subconscious awareness—used for sensing danger, surprise threats, or unnoticed details in the environment.
+Applied when reacting to the unexpected. Represents subconscious awareness-used for sensing danger, surprise threats, or unnoticed details in the environment.
 
 ## Search
 
-Directed observation. Used when the character actively looks for something specific—clues, hidden objects, or subtle signs.
+Directed observation. Used when the character actively looks for something specific-clues, hidden objects, or subtle signs.
 
 ## Strategy
 
@@ -21,7 +21,7 @@ Focuses on broader planning and foresight. Involves high-level decisions, managi
 
 ## Tactics
 
-Close-range decision-making. Covers quick judgment in fast-moving situations—small-scale engagements, moment-to-moment adjustments, and unit positioning. May pair with physical attributes in combat.
+Close-range decision-making. Covers quick judgment in fast-moving situations-small-scale engagements, moment-to-moment adjustments, and unit positioning. May pair with physical attributes in combat.
 
 ## Navigation
 

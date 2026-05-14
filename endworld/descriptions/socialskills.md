@@ -9,7 +9,7 @@ title: socialskills
 
 ## Trade
 
-The skill of negotiation in transactions—buying, selling, bartering, or striking deals with material value. See [Trade](endworld/trade).
+The skill of negotiation in transactions-buying, selling, bartering, or striking deals with material value. See [Trade](endworld/trade).
 
 ## Diplomacy
 
@@ -21,7 +21,7 @@ Deception through confident misinformation. Used for lying, concealing intent, o
 
 ## Style
 
-A character’s flair and charisma in action—how well they project their image, attract attention, or leave an impression.
+A character’s flair and charisma in action-how well they project their image, attract attention, or leave an impression.
 
 ## Intimidation
 
@@ -29,7 +29,7 @@ The ability to coerce through presence, implication of force, or psychological d
 
 ## Rhetoric
 
-The use of structured, persuasive speech—debating, arguing, influencing crowds or individuals through language.
+The use of structured, persuasive speech-debating, arguing, influencing crowds or individuals through language.
 
 ## Command
 
@@ -41,7 +41,7 @@ Reading emotions and motives in others, used to understand, comfort, or manipula
 
 ## Etiquette
 
-Knowing how to act within social expectations—be it formal, cultural, or situational.
+Knowing how to act within social expectations-be it formal, cultural, or situational.
 
 ## Rumor
 
@@ -49,5 +49,5 @@ Navigating spoken networks. Gathering gossip, spreading narratives, or verifying
 
 ## Art()
 
-Any specified expressive artform used socially or emotionally—music, dance, poetry, or performance.
+Any specified expressive artform used socially or emotionally-music, dance, poetry, or performance.
 

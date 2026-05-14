@@ -35,15 +35,15 @@ An Attribute of 0 means the associated actions usually fail and the character is
 
 Each character’s competencies are divided into five **Categories**. These represent the broad areas in which skills are grouped and influence how a character interacts with the world, others, and their own potential. Categories are used to organize Skills and determine Attribute levels through accumulated expertise.
 
-* **[Physical](endworld/descriptions/physicalskills)** — Covers personal interaction with the physical environment.
+* **[Physical](endworld/descriptions/physicalskills)** - Covers personal interaction with the physical environment.
 
-* **[Social](endworld/descriptions/socialskills)** — Involves communication, influence, and interaction with other characters or sentient actors.
+* **[Social](endworld/descriptions/socialskills)** - Involves communication, influence, and interaction with other characters or sentient actors.
 
-* **[Mental](endworld/descriptions/mentalskills)** — Governs perception, analysis, knowledge and internal processing of information.
+* **[Mental](endworld/descriptions/mentalskills)** - Governs perception, analysis, knowledge and internal processing of information.
 
-* **[Ability](endworld/descriptions/abilityskills)** — Applies to general capability, adaptability, and tasks tied to a character’s role or identity.
+* **[Ability](endworld/descriptions/abilityskills)** - Applies to general capability, adaptability, and tasks tied to a character’s role or identity.
 
-* **[Special](endworld/descriptions/specialskills)** — Represents unique mechanics that can define a character’s gameplay.
+* **[Special](endworld/descriptions/specialskills)** - Represents unique mechanics that can define a character’s gameplay.
 
 ## Skills
 

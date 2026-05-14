@@ -105,7 +105,7 @@ This group of 7 Skills starts with 3 Skillgaps by default.
 *  Laser - "Directed Energy Weapons" that fire pure energy. Use no ammo, just energy. Weaker raw damage, but pinpoint accuracy and excellent visual feedback in particulate-heavy air.
 *  Ballistics - Classic "guns" that fire solid projectiles. Use various ammo types. High kinetic force, versatile but ammo-dependent.
 * Missile - Self-propelled weapons that travel independently.
-Slower, heavier, expensive — but depending on the Missile can ignore shields and can deliver payloads like explosives or devices.
+Slower, heavier, expensive - but depending on the Missile can ignore shields and can deliver payloads like explosives or devices.
 
 #### Attack Modes
 

@@ -34,37 +34,66 @@ This result of this roll, called **attack value** from here, is then modified by
 If the attack value is positive, the general vicinity of the target is hit.  
 Then, the enemy defense from dodging, deflectors or cover is subtracted.
 
-If the attack value is still positive, the target is hit and damage calculation starts. The leftover attack value may increase damage depending on Weapon type 
+If the attack value is still positive, the target is hit. The leftover attack value may increase damage depending on Weapon type. The damage flow is:
+
+1. **Shields** activate (see [Shields](endworld/mecha/systems/shields))
+2. **Armor** reduces remaining (see [Armor](endworld/mecha/systems/armor))
+3. Remaining damage adds to the hit sector's **accumulated damage** (see [Sector Damage](endworld/combat#sector-damage))
+
 Otherwise, cover may still be damaged.
 
 ---
 
-## Damage
+## Shields & Armor
 
-Each entity is made of several hitzones (like arms, legs, head).  
-When a hit succeeds, a hitzone is affected. Defense, which is usually rolled reduces the attack’s value, which is usually fixed. If anything remains, the hitzone takes damage.
-[Shields](endworld/mecha/systems/shields) trigger before [Armor](endworld/mecha/systems/armor) and are handled according to their own rules.
+[Shields](endworld/mecha/systems/shields) trigger before [Armor](endworld/mecha/systems/armor).
+Shields subtract their protection from incoming damage. If overwhelmed, they shut down.
+Armor rolls its Protection - the result directly reduces remaining damage. If it fails to reduce damage to 0, the armor segment is damaged (Protection drops).
 
-Damage doesn’t use fixed HP values. Instead, it causes malfunctions and penalties such as weakened limbs or malfunctioning components, negative [resonance](endworld/ewrules#resonance)s giving [penalty dice](endworld/ewrules#bonus-and-penalty-dice), performing at a lower level or no longer functioning.
+See the respective pages for details.
 
-If armor or a defensive layer breaks, it stops protecting. Some defenses may leak damage through while they break.
+## Sector Damage (Mecha)
 
-For living targets, damage represents wounds, which may heal, for systems they represent damage which may be repaired.
+Mecha track damage per sector using **accumulated damage** - a single rising number per sector with thresholds that determine when systems inside it malfunction.
+
+Each system in the sector has three thresholds:
+
+| Threshold | Effect |
+|-----------|--------|
+| **Damaged** | +1 penalty die to relevant actions. Cumulative per system. |
+| **Disabled** | System shuts down. Gains a specific malfunction from the table below. |
+| **Destroyed** | System is gone. May cause cookoff or secondary damage (GM discretion). |
+
+Thresholds are determined by the system's own stats. Higher tech systems pack more performance into less space, which makes them more fragile. Default values:
+
+| Tech | Damaged | Disabled | Destroyed |
+|------|---------|----------|-----------|
+| Experimental | 5 | 12 | 25 |
+| High | 6 | 15 | 30 |
+| Mid | 8 | 18 | 35 |
+| Low | 10 | 22 | 40 |
+| Base | 12 | 25 | 50 |
+
+When damage enters a sector that exceeds a threshold without reaching it yet, all systems at or below that threshold trigger their effect. Multiple hits accumulate. A sector that reaches Destroyed on any system is in danger of total destruction.
 
 ### Malfunctions
 
-When a sector or system takes damage, it may suffer a malfunction. Malfunctions typically add **Penalty Dice** to relevant actions.
+When a system triggers its **Heavy** threshold, pick a malfunction from this table (GM chooses what fits the situation and weapon type):
 
-| Malfunction             | Effect                   | Relevant Actions                 |
-|-------------------------|--------------------------|----------------------------------|
-| **Sensor Glitch**       | +1 Penalty Dice          | Perception, Targeting, Scanning  |
-| **Actuator Jam**        | +1 Penalty Dice          | Movement, Melee Attacks, Dodging |
-| **Power Leak**          | +10% Energy Cost         | Affected System                  |
-| **Circuits Frying**     | +2 Heat/Turn             | Affected System                  |
-| **FCS Error**           | +1 Penalty Dice          | Ranged Attacks                   |
-| **Structural Weakness** | Additional System Damage | All hits to this sector          |
+| Malfunction | Effect | Relevant Actions |
+|-------------|--------|-------------------|
+| **Sensor Glitch** | +1 Penalty Die | Perception, Targeting, Scanning |
+| **Actuator Jam** | +1 Penalty Die | Movement, Melee Attacks, Dodging |
+| **Power Leak** | +10% Energy Cost | Affected System |
+| **Circuits Frying** | +2 Heat/Turn | Affected System |
+| **FCS Error** | +1 Penalty Die | Ranged Attacks |
+| **Structural Weakness** | Extra damage from hits | All hits to this sector |
 
-Multiple malfunctions in the same sector or affecting the same action are cumulative.
+Multiple malfunctions in the same sector are cumulative.
+
+### Accumulated Damage and Repair
+
+Damage stays on the sector until repaired. Field repairs reduce accumulated damage by the roll result against thresholds (see [Repair](endworld/mecha/repair)). A system that was at Heavy or Critical may function again but can gain a **quirk** - a permanent oddity until overhauled.
 
 ---
 
@@ -135,29 +164,28 @@ The interval should be changed by the Storyteller depending on the density of ac
 
 ## Targeting
 
-To attack something a "facing" (see below) hitzone needs to be selected, for a humanoid target "torso" is usually the facing hitzone
-From there, deviations occur, spreading the damage over neighboring parts.
+1. **Pick a targetable sector.** Only facing sectors can be targeted directly. See [Mech Generation](endworld/mecha/mecha) for how sectors are defined.
+   The GM decides which facing sectors are available based on positioning (e.g., Front if face-to-face, Rear if flanked).
 
-For a human target, the Hitzones are:
-Grazing, Legs, Torso, Arms, Head.
-For human like Targets
-for a Mech they are specific to the mech.
-A Hitzone adjustment means adjusting the zone or sector that would be hit to one of its Neighbors, the empty space "around" counts as missing and for technical reasons contains infinitely many empty hitzones in all directions. If a hit lands in the empty space at the end of targeting, it counts as a miss.
+2. **Called shots** let the attacker shift the hit before rolling. Each shift costs 1 malus die. Max shifts before hitting 5 malus dice.
 
-First, any Hitzone Adjustments from called shots (see below) are chosen by the attacker
-Then, the sum of Amplitudes of Frequencies 1-5 allow the defender adjust hitzones
-Then, the sum of Amplitudes of Frequencies 6-10 allow the attacker to adjust hitzones.
+3. **After the roll**, the attack roll's own [resonance](endworld/ewrules#resonance) shifts the hit:
+   - **Defender shifts**: total amplitude of frequencies 1-5. The defender pushes the hit toward a less critical sector.
+   - **Attacker shifts**: total amplitude of frequencies 6-10. The attacker pulls the hit toward the sector they want.
 
-### Mech Sectors
+   Each shift moves the hit one sector along the mech's adjacency diagram. Empty space adjacent to a sector counts as a miss.
 
-A mech has several sectors (determined by its size class, which is determined by its weight), each of which are their own hitzone.
-1/3 rounded up of the Sectors need to be "facing" sectors which can be anything, but usually things like "front" or "rear", about half (rounded up) of facing sectors are targeteable in most situations.
+4. The defender's defense roll may also influence positioning (GM discretion).
 
-### Called Shots
+*Example: A size-5 mech has sectors Front, Rear, Head, Torso, Limbs. The attacker aims at Front. The roll is [3,3,5,8,9]:*
+- *Resonance 1-5: pair of 3s → amplitude 1 → defender shifts 1 step*
+- *Resonance 6-10: none → attacker shifts 0*
+- *Net: hit lands on Limbs (neighbor of Front) instead of Front.*
 
-To try to ensure that a specific area is hit, a called shot can be made, any number of times, as long as the attack has less than 5 Malus Dice.  
-A called shot allows one hitzone adjustment (see above) for taking 1 Malus dice.
-Without perks, this hitzone adjustment is made before the roll
+### Humanoid Targets
+
+For a human target the hitzones are: Grazing, Legs, Torso, Arms, Head. "Torso" is usually the facing hitzone.
+A hitzone adjustment shifts to a neighbor. Empty space surrounds all sides - pushing a hit off the edge means a miss.
 
 
 ### Sniping

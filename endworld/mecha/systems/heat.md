@@ -12,12 +12,31 @@ A [Mecha](endworld/mecha/mecha) uses three types of thermal systems to manage it
 
 ## The Flux Loop
 
-Heat follows a two-stage process limited by the mecha's total **Flux**:
+The **fluxpool** is a single shared buffer for the whole mecha. Heat moves through it in three phases each turn.
 
-1.  **Inbound**: Heat moves from active systems into the **fluxpool**.
-2.  **Outbound**: Heat moves from the pool into **Heat Systems** (Sinks and Vents).
+The pool has a maximum capacity equal to the mecha's **Total Flux** (sum of all active coolant and heat systems). Disabled systems contribute zero flux. It cannot go over its max and cannot go below 0.
 
-The heat in flux cannot exceed the total **Flux** rating. Any heat generated beyond this limit becomes **Residual Heat** trapped within the generating component. If the **fluxpool** reaches maximum capacity, the mecha suffers chassis-wide instability, affecting speed and computer systems.
+### Phase 1: Inbound (Systems -> Pool)
+
+The player chooses which active systems to pull heat from. Heat fills the pool until it hits max or there is no more heat to pull.
+
+Any heat that could not be moved stays in the generating system as **Residual Heat**, which may trigger an [Overheat Check](#overheating).
+
+### Phase 2: Outbound (Pool -> Heat Systems)
+
+The player chooses how much heat to push from the pool into each heat system (sinks, vents, anything with capacity). Systems without heat capacity (most non-heat systems) cannot receive heat. Heat empties from the pool until it hits 0 or there are no more heat systems to fill.
+
+### Phase 3: Dissipation
+
+Each heat system follows its own rules to remove or process heat (see Heat Systems table). Vents actively dump heat when supplied with energy. Sinks bleed heat slowly through passive cooling.
+
+Because the pool fills first then empties, a full cycle moves at most Total Flux worth of heat through each direction per turn. If the pool is not emptied, less room is available to fill next turn.
+
+### Residual Heat
+
+Any heat left in a generating system after Phase 1 is **Residual Heat**. If a system has more heat than its capacity (most non-heat systems have 0 capacity), it risks overheating each turn.
+
+If the fluxpool stays full for more than one turn, the mecha suffers chassis-wide instability -- speed is halved, computer systems crash, and the reactor automatically scram.
 
 ## Overheating
 
@@ -62,7 +81,7 @@ Energy Systems may not stop generating heat instantly. Every [Energy System](end
 | **Hightech**       |        |          |      |         |        |
 | Fractal Heatsink   | 10     | 100      | 5    | 2       | -2     |
 | liquid metal Loop  | 5      | 10       | 50   |         |        |
-| OVERDRIVE          | 100    | —        | 0    | —       |        |
+| OVERDRIVE          | 100    | -        | 0    | -       |        |
 
 **Notes**:
 

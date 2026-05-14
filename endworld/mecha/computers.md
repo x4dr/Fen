@@ -33,12 +33,12 @@ Since a program is needed to load a program, some processors have built-in RROM 
 Since the RROM is using its own **Computational Power**, it cannot be reused, and the Bootloader is effectively its own computer system.  
 It starts executing as soon as it is turned on, and the program cannot be changed or modified while the processor is running.
 
-However, simply physically replacing the program is enough — and so RROM has a big advantage over hardware or even electro-mechanical computing techniques.
+However, simply physically replacing the program is enough - and so RROM has a big advantage over hardware or even electro-mechanical computing techniques.
 
 #### Execution
 
 Programs have a set of goals that they will try to accomplish and through their programming take steps toward.  
-This culminates in the abstracted behavior of programs performing actions — some with a predetermined degree of success, some providing parts or all of the statistics needed for a check.
+This culminates in the abstracted behavior of programs performing actions - some with a predetermined degree of success, some providing parts or all of the statistics needed for a check.
 
 Programs can load other programs either in **parallel** (while they are still running) or in **series** (as they are completing). When a program is completed, it unloads, and at the end of the turn any resources it used are freed.
 
@@ -60,7 +60,7 @@ To create a program requires some knowledge of what the program is trying to acc
 
 If the process is more exploratory and there is no clear goal, **Insight** is used instead to merely determine if a solution can be found.
 
-For **Theory** checks — given that the programmer could conceivably find a series of instructions — the Storyteller and Player determine a set of:
+For **Theory** checks - given that the programmer could conceivably find a series of instructions - the Storyteller and Player determine a set of:
 
 - CPU requirements
 - Storage space needed for the program
@@ -72,7 +72,7 @@ Use similar programs and their checked quality as templates.
 
 After the check is made, the Storyteller offers several configurations of the above values that could be achieved with the roll, and the Player chooses one.
 
-Alternatively, the Player designs a new program — its configuration and effects — and the Storyteller tells the player the interval of the programming rolls and the total sum of check results needed to achieve the desired goal.
+Alternatively, the Player designs a new program - its configuration and effects - and the Storyteller tells the player the interval of the programming rolls and the total sum of check results needed to achieve the desired goal.
 
 The program, its name, its statistics, and effects are then noted down by the Player.
 

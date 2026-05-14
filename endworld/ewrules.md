@@ -44,7 +44,7 @@ Any remaining Bonus or Penalty Dice are rolled along with the normal dice.
 * If Bonus Dice are rolled, the same number of **lowest** dice are removed.
 * For Penalty Dice, the **highest** are removed instead.
 
-Bonus and Penalty Dice do not change the number of dice being interpreted—only the relative chances.
+Bonus and Penalty Dice do not change the number of dice being interpreted-only the relative chances.
 
 ---
 
@@ -57,11 +57,22 @@ Resonance occurs when, in a roll, more than one die shows the same number.
 
 If no effect specifies anything about Resonance, it has no effect.
 
+## Reinterpret
+
+Some effects let you **reinterpret** the same roll with different selectors.
+The dice stay as rolled, but you pick new selector positions and test that result against a threshold.
+
+_Syntax_: "Reinterpret Affinity ≤ 5" means "re-read this roll with Affinity as your selectors; if the result is 5 or lower, the effect triggers."
+
+This is used for quirks, malfunction triggers, and special system interactions where the quality of a roll matters beyond its primary purpose.
+
 
 ## Interpretation
 
 In many places the degrees of success are given by a Formatting such as [3,7,17], also called Threshholds, which means that one degree of success is achieved for a roll or value checked against it, for every number inside that was reached or overcome. A Roll of 9 against the difficulties stated earlier, would reach 3 and 7, but not 17, and thus represent 2 degrees of success, whose meanings depend on the Situation.
 
+
+Numbers are generally rounded down.
 
 # Broad Skills
 

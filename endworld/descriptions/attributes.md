@@ -6,7 +6,7 @@ title: attributes
 # Attributes
 
 Attributes represent in which aspects of the game world a character excels and where they do not. 
-Every Attribute can be applied to a variety of general actions — see the examples in the table below.
+Every Attribute can be applied to a variety of general actions - see the examples in the table below.
 
 | Social     | Mental     | Physical  | Ability    | Special    |
 | ---------- | ---------- | --------- | ---------- |------------|

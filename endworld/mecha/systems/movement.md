@@ -54,7 +54,7 @@ The mecha's speed is calculated iteratively in 0.1-second intervals until it rea
     *   **Thrust**: `Thrust * Amount` (in kN).
     *   **Friction**: `Anchor * Total Mecha Mass` (in kN).
     *   **Drag**: 
-        *   If Dynamics is 0: `Speed³`
+        *   If Dynamics is 0: `100 * Speed²`
         *   Otherwise: `Speed² / (Dynamics / 10)`
 2.  **Acceleration**: `(Thrust - Friction - Drag) / Total Mass` (in m/s²).
 3.  **Speed Update**: `Speed = Speed + (Acceleration * 0.1)`.

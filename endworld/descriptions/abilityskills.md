@@ -26,17 +26,17 @@ Each Color is its own Skill.
 
 The Computer skill defines proficiency in interacting with digital systems, including:
 
-* **Programming** — Developing or modifying software.
-* **Usage** — Operating complex computer functions as intended.
-* **Hacking** — Manipulating systems outside their designed behavior.
+* **Programming** - Developing or modifying software.
+* **Usage** - Operating complex computer functions as intended.
+* **Hacking** - Manipulating systems outside their designed behavior.
 
 ### Engineering
 
 Engineering is a skill that covers constructing and maintaining mechanical systems:
 
-* **Repair** — Restoring functionality.
-* **Design** — Planning and drafting mechanical systems.
-* **Build** — Assembling and fabricating machines.
+* **Repair** - Restoring functionality.
+* **Design** - Planning and drafting mechanical systems.
+* **Build** - Assembling and fabricating machines.
 
 ### Auxiliary Training
 
@@ -45,26 +45,26 @@ Marking these as Aux-Defense and so on is recommended
 
 #### Defense
 
-* **Decoys** — Tools that misdirect enemy targeting systems.
-* **Shields** — Devices that absorb or block kinetic impacts.
-* **Deflectors** — Equipment that redirects energy or projectiles.
+* **Decoys** - Tools that misdirect enemy targeting systems.
+* **Shields** - Devices that absorb or block kinetic impacts.
+* **Deflectors** - Equipment that redirects energy or projectiles.
 
 #### Offense
 
-* **Explosives** — Handling and deploying raw explosives, mines, charges, and improvised devices.
-* **[Sniping](endworld/sniping)** — Precision targeting tactics prioritizing accuracy over firing rate.
-* **[Gadgets](endworld/gadgets)** — Use of concealed or specialized weaponry and devices.
+* **Explosives** - Handling and deploying raw explosives, mines, charges, and improvised devices.
+* **[Sniping](endworld/sniping)** - Precision targeting tactics prioritizing accuracy over firing rate.
+* **[Gadgets](endworld/gadgets)** - Use of concealed or specialized weaponry and devices.
 
 #### Recon
 
-* **Scanners** — Equipment for gathering and analyzing data.
-* **Suppressors** — Technologies for reducing visibility or noise, including stealth gear.
-* **Sabotage** — Techniques involving electronic warfare and physical disruption.
+* **Scanners** - Equipment for gathering and analyzing data.
+* **Suppressors** - Technologies for reducing visibility or noise, including stealth gear.
+* **Sabotage** - Techniques involving electronic warfare and physical disruption.
 
 #### Utility
-* **Communications** — Managing information transfer equipment.
-* **Reprocessing** — Transforming materials via technological means.
-* **Utility Movement** — Operating devices that enable nonstandard locomotion.
+* **Communications** - Managing information transfer equipment.
+* **Reprocessing** - Transforming materials via technological means.
+* **Utility Movement** - Operating devices that enable nonstandard locomotion.
 
 ## Proficiencies
 
@@ -82,9 +82,9 @@ These skills are generalizations and should be fleshed out more, also this is fa
 
 Professions represent the character’s primary roles and core activities. Each profession defines a specific set of skills and tasks the character regularly performs. Typically, a character cannot fully engage in two professions simultaneously. This system is flexible and open-ended; examples include:
 
-* **Soldier** — marching, maintaining alertness and composure, building fortifications, assessing combat situations
-* **Cook** — preparing food, handling ingredients, working quickly and precisely in the kitchen
-* **Hunter** — camouflage, tracking, knowledge of huntable animals
-* **Scout** — reconnaissance, navigation, gathering intelligence while remaining undetected
-* **Scholar** — research, analysis, knowledge of history, science, or niche subjects
-* **Diplomat** — mediating disputes, persuasion, understanding cultures and etiquette
+* **Soldier** - marching, maintaining alertness and composure, building fortifications, assessing combat situations
+* **Cook** - preparing food, handling ingredients, working quickly and precisely in the kitchen
+* **Hunter** - camouflage, tracking, knowledge of huntable animals
+* **Scout** - reconnaissance, navigation, gathering intelligence while remaining undetected
+* **Scholar** - research, analysis, knowledge of history, science, or niche subjects
+* **Diplomat** - mediating disputes, persuasion, understanding cultures and etiquette

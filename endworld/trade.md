@@ -41,7 +41,7 @@ Additionally, traders keep a share of the value for themselves:
 | 350L        | Liquid Combustion Fuel                 |
 | 100kg       | High Energy Rations (0.4kg/day/person) |
 | 1t          | Normal Food (2.5kg/day/person)         |
-| —           | Medium Quality Blueprint               |
+| -           | Medium Quality Blueprint               |
 
 ---
 

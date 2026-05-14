@@ -158,7 +158,7 @@ All of these Are out of Date and kept for example purposes
 - **Requires:** Detox 3
 
 ### Automedic
-- **Energy Cost:** 6kW (variable — 10/s for 10 min)
+- **Energy Cost:** 6kW (variable - 10/s for 10 min)
 - **Size:** 0.75
 - Provides tools and ideal conditions for medical procedures
 - Reduces medicine usage by half
@@ -182,7 +182,7 @@ All of these Are out of Date and kept for example purposes
 - Also removes all infections and appropriate toxins
 
 ### Advanced Automedic
-- **Energy Cost:** 3kW (variable — 5/s for 10 min)
+- **Energy Cost:** 3kW (variable - 5/s for 10 min)
 - **Size:** 1
 - Grants excellent conditions for medical procedures
 - Reduces medicine use by 90%

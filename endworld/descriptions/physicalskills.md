@@ -21,7 +21,7 @@ Applies to vertical or horizontal leaps. Represents explosive power, coordinatio
 
 ### Throwing
 
-Covers aimed projection of physical objects with force—distance, accuracy, and impact depend on both strength and technique.
+Covers aimed projection of physical objects with force-distance, accuracy, and impact depend on both strength and technique.
 
 ### Survival
 
@@ -41,11 +41,11 @@ Close-range movement, dodging, fast and decisive movements, leg strength
 
 ### Presence
 
-Controls how much physical space a character “takes up” — movement subtlety, body positioning, and tension. Affects how easily the character is noticed or tracked. Combines with Footwork for stealth, with Acrobatics for evasion, or even with Weapon for deceptive strikes.
+Controls how much physical space a character “takes up” - movement subtlety, body positioning, and tension. Affects how easily the character is noticed or tracked. Combines with Footwork for stealth, with Acrobatics for evasion, or even with Weapon for deceptive strikes.
 
 ### Conditioning
 
-Represents specialized training for enduring extreme environments or stressors — operating in high gravity, resisting panic, functioning under pressure, cold, heat, or exhaustion.
+Represents specialized training for enduring extreme environments or stressors - operating in high gravity, resisting panic, functioning under pressure, cold, heat, or exhaustion.
 
 ### Heavy Armor
 
