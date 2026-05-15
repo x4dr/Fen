@@ -1,3 +1,8 @@
+---
+outgoing links: []
+tags: []
+title: heat
+---
 # Heat Management
 
 Heat is a logistics problem. Efficiently moving thermal energy from generators to sinks is as important as managing ammunition.
@@ -14,7 +19,7 @@ A [Mecha](endworld/mecha/mecha) uses three types of thermal systems to manage it
 
 The **fluxpool** is a single shared buffer for the whole mecha. Heat moves through it in three phases each turn.
 
-The pool has a maximum capacity equal to the mecha's **Total Flux** (sum of all active coolant and heat systems). Disabled systems contribute zero flux. It cannot go over its max and cannot go below 0.
+The pool has a maximum capacity equal to the mecha's **Total Flux** (sum of flux provided by all active systems). Disabled systems contribute zero flux. It cannot go over its max and cannot go below 0.
 
 ### Phase 1: Inbound (Systems -> Pool)
 
