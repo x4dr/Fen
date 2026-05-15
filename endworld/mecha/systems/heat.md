@@ -15,11 +15,12 @@ A [Mecha](endworld/mecha/mecha) uses three types of thermal systems to manage it
 *   **Heat Sinks**: Provide **Capacity** to store burst heat during combat.
 *   **Vents & Radiators**: Remove heat from the mecha. Vents are active and require [Energy](endworld/mecha/systems/energy), while Radiators tend to be passive but heavier.
 
-## The Flux Loop
+## The Flux Pool
 
-The **fluxpool** is a single shared buffer for the whole mecha. Heat moves through it in three phases each turn.
+Heat moves through the mech in three phases each turn.
+The **fluxpool** is a single shared buffer. 
 
-The pool has a maximum capacity equal to the mecha's **Total Flux** (sum of flux provided by all active systems). Disabled systems contribute zero flux. It cannot go over its max and cannot go below 0.
+The pool has a maximum capacity equal to the mech's **Total Flux** (sum of flux provided by all active systems). isabled systems do not contribute anything. It cannot go over its capacity and cannot go below 0.
 
 ### Phase 1: Inbound (Systems -> Pool)
 
@@ -29,7 +30,7 @@ Any heat that could not be moved stays in the generating system as **Residual He
 
 ### Phase 2: Outbound (Pool -> Heat Systems)
 
-The player chooses how much heat to push from the pool into each heat system (sinks, vents, anything with capacity). Systems without heat capacity (most non-heat systems) cannot receive heat. Heat empties from the pool until it hits 0 or there are no more heat systems to fill.
+The player chooses how much heat to push from the pool into each system able to accept it (sinks, vents, anything with heat capacity that is not full). Heat empties from the pool until it hits 0 or there are no more systems with available capacity.
 
 ### Phase 3: Dissipation
 

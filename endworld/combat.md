@@ -38,7 +38,7 @@ If the attack value is still positive, the target is hit. The leftover attack va
 
 1. **Shields** activate (see [Shields](endworld/mecha/systems/shields))
 2. **Armor** reduces remaining (see [Armor](endworld/mecha/systems/armor))
-3. Remaining damage adds to the hit sector's **accumulated damage** (see [Sector Damage](endworld/combat#sector-damage))
+3. Remaining damage adds to the hit sector's **stress** (see [Sector Stress](endworld/combat#sector-stress))
 
 Otherwise, cover may still be damaged.
 
@@ -52,11 +52,20 @@ Armor rolls its Protection - the result directly reduces remaining damage. If it
 
 See the respective pages for details.
 
-## Sector Damage (Mecha)
+## Sector Stress
 
-Mecha track damage per sector using **accumulated damage** - a single rising number per sector with thresholds that determine when systems inside it malfunction.
+Mecha track **stress** per sector. Stress is the sum of everything harmful in that sector:
 
-Each system in the sector has three thresholds:
+`Stress = Damage + Heat + Contamination + Surge + other modifiers`
+
+- **Damage** — permanent, repairable. From weapons, collisions, etc.
+- **Heat** — temporary. Residual thermal energy from overheating systems.
+- **Contamination** — permanent, not repairable by normal means.
+- **Surge** — temporary. EMP, ion interference, etc.
+
+Residual heat from any system in a sector spreads to all systems in that sector — an overheating weapon can cook the systems around it.
+
+Each system in the sector has stress thresholds that cause breakdowns when reached:
 
 | Threshold | Effect |
 |-----------|--------|
@@ -74,11 +83,15 @@ Thresholds are determined by the system's own stats. Higher tech systems pack mo
 | Low | 10 | 22 | 40 |
 | Base | 12 | 25 | 50 |
 
-When damage enters a sector that exceeds a threshold without reaching it yet, all systems at or below that threshold trigger their effect. Multiple hits accumulate. A sector that reaches Destroyed on any system is in danger of total destruction.
+### Applying Stress
+
+When any stress source adds to a sector, the total is checked against each system's thresholds. If the total crosses a threshold, the effect triggers immediately. Stress that is removed later (heat dissipates, surge clears) does not revert effects that already triggered.
+
+For example, a system with Base tech (Damaged at 12) has 8 damage and 6 residual heat. Stress = 14, crossing Damaged. The system gains a penalty die. If the pilot cools the system (heat drops to 2), stress = 10, below Damaged. But the penalty die remains. The next hit only needs 13 more stress to reach Disabled (25), not 17.
 
 ### Malfunctions
 
-When a system triggers its **Heavy** threshold, pick a malfunction from this table (GM chooses what fits the situation and weapon type):
+When a system triggers its **Disabled** threshold, pick a malfunction from this table (GM chooses what fits the situation and weapon type):
 
 | Malfunction | Effect | Relevant Actions |
 |-------------|--------|-------------------|
@@ -91,9 +104,9 @@ When a system triggers its **Heavy** threshold, pick a malfunction from this tab
 
 Multiple malfunctions in the same sector are cumulative.
 
-### Accumulated Damage and Repair
+### Repair
 
-Damage stays on the sector until repaired. Field repairs reduce accumulated damage by the roll result against thresholds (see [Repair](endworld/mecha/repair)). A system that was at Heavy or Critical may function again but can gain a **quirk** - a permanent oddity until overhauled.
+Stress can be reduced by field repairs or facility overhauls (see [Repair](endworld/mecha/repair)).
 
 ---
 
@@ -167,7 +180,7 @@ The interval should be changed by the Storyteller depending on the density of ac
 1. **Pick a targetable sector.** Only facing sectors can be targeted directly. See [Mech Generation](endworld/mecha/mecha) for how sectors are defined.
    The GM decides which facing sectors are available based on positioning (e.g., Front if face-to-face, Rear if flanked).
 
-2. **Called shots** let the attacker shift the hit before rolling. Each shift costs 1 malus die. Max shifts before hitting 5 malus dice.
+2. **Called shots** let the attacker shift the hit before rolling. Each shift costs 1 malus die, to a maximum of 5.
 
 3. **After the roll**, the attack roll's own [resonance](endworld/ewrules#resonance) shifts the hit:
    - **Defender shifts**: total amplitude of frequencies 1-5. The defender pushes the hit toward a less critical sector.
