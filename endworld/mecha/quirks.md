@@ -17,12 +17,12 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 5 | **Ghost Readings** | One sensor band shows random/misleading data at bad times | Sensor |
 | 6 | **Uncanny** | Disturbs living things. | light, uncommon  |
 | 7 | **Chatterbox** | +1 penalty die to sensor-reliant systems while this is on | heavy, common |
-| 8 | **Unstable Output** | Reinterpret Pilot even: +1 effect. Odd: −1 effect | don't like it - too much work |
+| 8 | **Unstable Output** | First Usage each Scene Reinterpret Affinity: ≤ 6: −1 effect; ≥ 7: +1 effect | light, common |
 | 9 | **Flicker** | Reinterpret Affinity ≤ 5: does nothing this turn | heavy, common |
 | 10 | **Thermal Affinity** | Reinterpret Affinity ≤ 8: system takes 2 heat | light, common |
 | 11 | **Backblast** | Resonance: Amplitude stress to own sector for additional effect | medium, uncommon |
 | 12 | **Jittery** | +1 penalty die aimed/careful, +1 bonus die snap/reaction | Weapon |
-| 13 | **Flimsy** | All stress thresholds −2 | medium, common |
+| 13 | **Flimsy** | All stress thresholds halved (rounded down) | heavy, common |
 | 14 | **Double Burden** | Stress from one type (heat/damage/contamination) doubled for this system | medium, uncommon |
 | 15 | **Dramatic Irony** | Once/session, at worst possible moment, system auto-fails. No roll. | heavy, common |
 | 16 | **Sensor Haunting** | At critical moments: voices of dead, temporal displacement, inverted readings | Sensor |
@@ -32,12 +32,12 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 20 | **Shutdown: Armor Breach** | Shuts down on any damage through armor. | medium, uncommon |
 | 21 | **Contamination Leak** | Each use adds 1 contamination to this sector | heavy, rare |
 | 22 | **Redlining** | Resonance-> Amplitude Bonus Result, Afterwards sector takes 10-Frequency stress | medium, uncommon |
-| 23 | **Berserk** | If idle 1 turn, fires at nearest target (friend or foe) | dislike, get rid of it |
-| 24 | **Feedback Storm** | +2 heat to flux pool each turn while active | thats just extra heat - rework (reread heat mechanics) |
-| 25 | **Power Vampire** | On activation, drains 2 energy from each adjacent system's budget. Any that can't meet it shut down | doesn't work well with the energy concept - rework |
+| 23 | **Berserk** | Once firing, keeps firing each turn if physically able. Pilot spends action to stop. | heavy, uncommon |
+| 24 | **Thermal Feedback** | If on and ends turn with residual heat, produces 1 extra heat | light, common |
+| 25 | **Power Vampire** | When shut down, if other systems are running in its sector, one powers off at random and this stays on instead | medium, uncommon |
 | 26 | **Cascade Error** | Any System uncontrolled shutdown: shuts down | medium, uncommon |
-| 27 | **Terminal Surge** | usage freq 1 with amplitude 3+: destroyed, deals 10 damage to sector | |
-| 28 | **Slow Reset** | Reboot takes +1 turn | Common |
+| 27 | **Terminal Surge** | usage freq 1 with amplitude 3+: destroyed, deals 10 damage to sector | heavy, rare |
+| 28 | **Slow Reset** | Reboot takes +1 turn | Repair, common |
 | 29 | **Parts Hungry** | Requires 2× parts for any repair on this system | Repair |
 | 30 | **Fiddly** | +1 penalty die on repair rolls for this system | Repair |
 | 31 | **Temporary Fix** | System lasts one week from last repair, then breaks | Repair |
@@ -60,12 +60,12 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 48 | **6-Resonance Overheat** | On resonance 6: system generates 6*Amplitude heat | medium |
 | 49 | **Sluggish Cyclerate** | Cannot fire consecutive turns (must skip a turn) | Weapon |
 | 50 | **Drifting Calibration** | 1 Malus Dice | heavy |
-| 51 | **Sympathetic Vibration** | When used, adjacent sectors generate +1 heat for 1 turn | don't like, confusing, lots of work, rework|
-| 52 | **Ion Burst** | Fills nearby Area with Ions - lightning and sparks and leaves chemical traces | |
-| 53 | **Data Echo** | Corrupted data to mech computer per use; after 3 uses, computer −1 penalty die until field repair | Computer  - confusing and work, rework|
+| 51 | **Sympathetic Vibration** | On activation, all other systems in the same sector take 1 heat | light, common |
+| 52 | **Ion Burst** | Fills nearby Area with Ions - lightning and sparks and leaves chemical traces | light, common |
+| 53 | **Data Echo** | All data outputs corrupted, including logs it connects to. Real-time response fine, degrades computer integration as appropriate | light, common |
 | 54 | **Sprawl** | Also Exists an Adjacent Sector | medium, common |
 | 55 | **Unstable Mount** | On incoming hit with ANY resonance: system knocked offline 1 turn | heavy, common |
-| 56 | **Upgrade Incompatibility** | Cannot be repaired/upgraded past current tech level | doesn't make much sense |
+| 56 | **Unsafe Capacitors** | Holds charge after use. Cannot be safely opened/repaired for 24 hours after last power-up — risks explosion or severe shock | Repair |
 | 57 | **Absolute Seal** | Contamination resistance + 5, thermal resistance -5 | heavy, common |
 | 58 | **Vocal Diagnostic** | Loudly announces status aloud. Cannot silence without overhaul | medium, common |
 | 59 | **Momentum Reliant** | +1 effect above 50% speed, −1 below 25% speed | Movement / Weapon |
@@ -73,22 +73,22 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 61 | **Temporal Leak** | Shows Data from past/future at random | Sensors |
 | 62 | **Interference** | Works at reduced level unless only System in the Sector | heavy, common |
 | 63 | **Overpressure** | Residual heat causes Damage | heavy, common |
-| 64 | **Jumpy Safety Cutout** | Any sharp movement/hit (even non-damaging) triggers 1-turn safety shutdown | |
-| 65 | **Crosstalk** | Picks up and retransmits comms from other systems. No stealth possible | don't like, confusing, how would this happen from repair? |
-| 66 | **Hungry Startup** | Costs 2× energy for first activation after being off. Normal after | energy doesn't work like this.|
-| 67 | **Reversed Polarity** | Works but inverted effect (healing→damage, defense→offense, etc.) | too complicated/possible insanely powerful |
+| 64 | **Jumpy Safety Cutout** | Any sharp movement/hit (even non-damaging) triggers 1-turn safety shutdown | medium, common |
+| 65 | **Crosstalk** | Electrically noisy; detectable by active sensors at 2× normal range | medium, common |
+| 66 | **Hot Reload** | Generates 10 heat on boot | medium, uncommon |
+| 67 | **Reversed Polarity** | As long as there is energy and system is able to turn on, it turns on. If shut down, auto-reboots normally | medium, common |
 | 68 | **Harmonic Resonance** | generate +1 heat on use, per other system with harmonic resonance | heavy, common |
-| 69 | **Filter Clog** | After 3 uses, heat output doubles until cleaned (1 turn maintenance) | hmmm don't like simplify do we have doubled heat? |
-| 70 | **Legacy Port** | Has old-style connector; works with ancient tech but not modern | how would this work? how would this result from a repair?|
+| 69 | **Filter Clog** | Resonance frequency 1: clogs accumulate (+1 per amplitude). +1 heat per clog level when generating heat. Clearable in 1 turn by opening filter | medium, uncommon |
+| 70 | **Defective Limiter** | No safety limiters. System operates at +1 effect. Any resonance deals amplitude stress to the system | medium, uncommon |
 | 71 | **Glitchy Internals** | Crashes after any resonance event; needs reboot | heavy, rare |
 | 72 | **Signal Lag** | Inputs delayed 1 turn; acts on previous turn's orders | heavy, rare |
-| 73 | **Unstable Power Curve** | Reinterpret Activation freq 10: +2 level. Freq 1: browns out, costs 2× energy | no short term energy changes |
-| 74 | **Backfeed** | When damaged, sends surge to random other system in different sector (2 energy drain) | not how energy works |
+| 73 | **Unstable Power Curve** | Resonance frequency 10: selects the 10 from the lower selector. Resonance frequency 1: selects the 1 from the higher selector | medium, rare |
+| 74 | **Backfeed** | When this system takes stress, half that stress (rounded down) is also applied to the mech's longest-running energy system | medium, uncommon |
 | 75 | **IFF Corruption** | Transponder shows wrong faction; allies may fire on this mech | Communications Equipment |
 | 76 | **Delayed Shutdown** | Refuses Shutdown for indeterminate amount of time  | medium, uncommon  |
 | 77 | **Corrupted Diagnostics** | No Information about status | medium, uncommon |
 | 78 | **Live Ammo** | For one Round after receiving damage: Any Resonance under 6 causes cookoff, 4 damage to sector | Weapon |
-| 79 | **Over-Lubricated Actuators** | 1 Result,   | Movement / Weapon |
+| 79 | **Over-Lubricated Actuators** | +1 initiative, −1 accuracy | Movement / Weapon, medium, uncommon |
 | 80 | **Ghost in the Machine** | Any Result of ≤ 2 while using mech: system activates without command | medium, rare|
 | 81 | **Voltage Sag** | During Boot, other system function at -1  | medium, uncommon |
 | 82 | **Fixed Targeting** | Weapon cannot rotate. penalty dice for targets based on angular speed. | Weapon |
@@ -99,7 +99,7 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 87 | **Intermittent Arcing** | Any Roll with resonance 7: This Sector gains Amplitue EMP | heavy, uncommon  |
 | 88 | **Rain-Sensitive** | Moisture causes malfunction; −1 effect in rain/humid conditions | light, rare |
 | 89 | **Magnetic Personality** | Part is decently magnetic. generally 1 penalty dice, depends on system. | medium, uncommon |
-| 90 | **Resonant Chatter** | System hums at a frequency that interferes with nearby sensitive equipment. -2 to very sensitive equipment -1 to normal sensors | |
+| 90 | **Resonant Chatter** | System hums at a frequency that interferes with nearby sensitive equipment. -2 to very sensitive equipment -1 to normal sensors | light, common |
 | 91 | **Expensive Taste** | Repairs cost 2 parts | repair  |
 | 92 | **Unreliable Seal** | Seal level reduced by 1 step (vacuum/hazard protection compromised) | Seal |
 | 93 | **Cockpit Feedback** | System sends unpleasant vibrations through the chassis; pilot takes −1 cumulative penalty from stress each turn it's active (goes down by 1 for each turns its not active, both after the turn)| medium, uncommon |
@@ -109,7 +109,7 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 97 | **Timed Shutdown** | After 3 turns of being on, shuts down automatically | heavy, common |
 | 98 | **Friendly Fire Prone** | Result ≤ 5: shot goes wide, targets ally in targeting area with result of (6-Result)*3 or cover | Weapon |
 | 99 | **Jammed Actuator** | Specific Resonance: Movement direction and speed locked | Movement |
-| 100 | **Zero-G Drift** | In zero/low gravity, system's outputs are unpredictable (−1 penalty die) | dont like, remove or rework. zero g is rare |
+| 100 | **Hot Start** | Needs 10 heat in flux pool after outbound phase to start | light, uncommon |
 | 101 | **Sticky** | System might reactivate next round/stay being activated |medium, uncommon|
 | 102 | **Eager** | the system might power up/use by itself on specific resonance |heavy, uncommon|
 | 103 | **Control Glitch** | Controls Reverse randomly and lock to full throttle for a Round | Movement |

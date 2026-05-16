@@ -37,7 +37,7 @@ A weapon that is active but not firing still draws its full Energy cost each tur
 
 ### Heat and Weapons
 
-When a weapon fires, its burst heat enters the [fluxpool](endworld/mecha/systems/heat#the-flux-loop) as pending heat - subject to the same flux limits as everything else. A weapon that fires with insufficient flux to move its heat out will accumulate residual heat, risking an [Overheat Check](endworld/mecha/systems/heat#overheat-check).
+When a weapon fires, its burst heat enters the [fluxpool](endworld/mecha/systems/heat#the-flux-pool) as pending heat - subject to the same flux limits as everything else. A weapon that fires with insufficient flux to move its heat out will accumulate residual heat, risking an [Overheat Check](endworld/mecha/systems/heat#overheat-check).
 
 Ballistic weapons generate moderate heat from friction and propulsion gasses. Missiles generate very little (the heat stays in the rocket motor). Melee generates none.
 
@@ -46,7 +46,7 @@ Ballistic weapons generate moderate heat from friction and propulsion gasses. Mi
 Damage is a single number. On a hit:
 1. Shields activate first (see [Shields](endworld/mecha/systems/shields)).
 2. Armor reduces remaining damage (see [Armor](endworld/mecha/systems/armor)).
-3. Remaining damage is applied to the hit sector's **accumulated damage** track. See [Sector Damage](endworld/combat#sector-damage).
+3. Remaining damage adds to the hit sector's **stress**. See [Sector Stress](endworld/combat#sector-stress).
 
 ### Keywords
 *TODO: expand this list with balanced keywords and bonus rules*

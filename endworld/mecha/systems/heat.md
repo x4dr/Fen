@@ -26,7 +26,7 @@ The pool has a maximum capacity equal to the mech's **Total Flux** (sum of flux 
 
 The player chooses which active systems to pull heat from. Heat fills the pool until it hits max or there is no more heat to pull.
 
-Any heat that could not be moved stays in the generating system as **Residual Heat**, which may trigger an [Overheat Check](#overheating).
+Any heat that could not be moved stays in the generating system as **Residual Heat**, which contributes to sector stress (see [Sector Stress](endworld/combat#sector-stress)).
 
 ### Phase 2: Outbound (Pool -> Heat Systems)
 
@@ -40,29 +40,9 @@ Because the pool fills first then empties, a full cycle moves at most Total Flux
 
 ### Residual Heat
 
-Any heat left in a generating system after Phase 1 is **Residual Heat**. If a system has more heat than its capacity (most non-heat systems have 0 capacity), it risks overheating each turn.
+Any heat left in a generating system after Phase 1 is **Residual Heat**. Heat that cannot be stored in a system (most non-heat systems have 0 capacity) adds to the sector's **stress** (see [Sector Stress](endworld/combat#sector-stress)). Residual heat from any system in a sector spreads to all systems — an overheating weapon can cook the ammunition stored next to it.
 
 If the fluxpool stays full for more than one turn, the mecha suffers chassis-wide instability -- speed is halved, computer systems crash, and the reactor automatically scram.
-
-## Overheating
-
-Thermal failure occurs when systems store more heat internally than their capacity allows (most non-Heatsystems have 0 capacity). Components with **Residual Heat** begin to **Overheat**, risking malfunction or explosive failure.
-
-### Overheat Check
-
-At the end of any turn where a component has more heat than its capacity, the pilot must perform an [Affinity Check](endworld/ewrules#the-selector-system), using a heat management skill if they have one, and the thermal hardening level (if applicable) of the system as Skills.
-
-The result of this check is compared against the component's **Residual Heat**. If the result is lower than the heat stored, the system suffers a consequence.
-
-| Result | Outcome                      | Effect                                                                                                |
-|:-------|:-----------------------------|:------------------------------------------------------------------------------------------------------|
-| 11+    | **Heat Accumulation**        | 1 [Penalty Die](endworld/ewrules#bonus-and-penalty-dice) on all subsequent heat rolls for this system |
-| 8-10   | **Thermal Glitch**           | System flickers. -1 to all actions with this system until reset/cooldown                              |
-| 5-7    | **Compromised Control**      | System automatically shuts down for 1 turn.                                                           |
-| 3-4    | **Malfunction**              | System is Damaged. See [Damage](endworld/combat#damage) table.                                        |
-| 1-2    | **Catastrophic Malfunction** | Total destruction of the system. Cookoff/explosions possible                                          |
-
-Any 6-[Resonance](endworld/ewrules#resonance) in the Overheat Check introduces additional heat.
 
 ### Reactor Shutoff Delay
 
