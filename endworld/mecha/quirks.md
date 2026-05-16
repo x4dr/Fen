@@ -89,33 +89,33 @@ All quirk ideas in one table for you to sort. System-specific notes in the right
 | 77 | **Corrupted Diagnostics** | No Information about status | medium, uncommon |
 | 78 | **Live Ammo** | For one Round after receiving damage: Any Resonance under 6 causes cookoff, 4 damage to sector | Weapon |
 | 79 | **Over-Lubricated Actuators** | 1 Result,   | Movement / Weapon |
-| 80 | **Ghost in the Machine** | Start of each turn, Reinterpret ≤ 2: system activates without command | |
-| 81 | **Voltage Sag** | On activation, non-essential systems in this sector get −1 effect for 1 turn | |
-| 82 | **Fixed Targeting** | Weapon locked into one arc; cannot rotate/swivel | Weapon |
-| 83 | **Phantom Load** | When idle, system still consumes 1 energy (bracket must account for it) | |
-| 84 | **Jolty Startup** | On activation, deals 1 stress to own sector from power surge | |
-| 85 | **Intermittent Cooling** | Cooling skips every 3rd turn; heat removal halved on that turn | Heat |
-| 86 | **Unstable Capacitor** | Reinterpret Use freq 10: +50% effect, then system disabled 1 turn | |
-| 87 | **Unshielded Wiring** | Any EMP/surge in sector also affects this system even if not target | |
-| 88 | **Rain-Sensitive** | Moisture causes malfunction; −1 effect in rain/humid conditions | |
-| 89 | **Magnetic Personality** | Ferrous debris attracted to mech near this system; +1 penalty die to stealth | |
-| 90 | **Resonant Chatter** | System hums at a frequency that interferes with nearby sensitive equipment | |
-| 91 | **Expensive Taste** | Repairs cost 2× parts/materials | |
+| 80 | **Ghost in the Machine** | Any Result of ≤ 2 while using mech: system activates without command | medium, rare|
+| 81 | **Voltage Sag** | During Boot, other system function at -1  | medium, uncommon |
+| 82 | **Fixed Targeting** | Weapon cannot rotate. penalty dice for targets based on angular speed. | Weapon |
+| 83 | **Phantom Load** | System consumes 50% energy when powered off | medium, rare|
+| 84 | **Jolty** | On Use, 1 Surge Strain to own sector from power surge | light, common |
+| 85 | **Intermittent Cooling** | 6 Resonance: No Heat tansfer for Amplitude Turns  | Heat |
+| 86 | **Unstable Capacitor** | 8 Resonance: +50%*Amplitude effect, then system shuts down | medium, uncommon |
+| 87 | **Intermittent Arcing** | Any Roll with resonance 7: This Sector gains Amplitue EMP | heavy, uncommon  |
+| 88 | **Rain-Sensitive** | Moisture causes malfunction; −1 effect in rain/humid conditions | light, rare |
+| 89 | **Magnetic Personality** | Part is decently magnetic. generally 1 penalty dice, depends on system. | medium, uncommon |
+| 90 | **Resonant Chatter** | System hums at a frequency that interferes with nearby sensitive equipment. -2 to very sensitive equipment -1 to normal sensors | |
+| 91 | **Expensive Taste** | Repairs cost 2 parts | repair  |
 | 92 | **Unreliable Seal** | Seal level reduced by 1 step (vacuum/hazard protection compromised) | Seal |
-| 93 | **Cockpit Feedback** | System sends tingling/vibration through controls; pilot takes −1 mental stress each turn it's active | |
-| 94 | **Uncommanded Mode Switch** | Reinterpret Activation freq 10: system changes fire mode randomly | Weapon |
-| 95 | **Datalink Echo** | System broadcasts its telemetry to everyone; enemies know cooldowns/ammo | |
-| 96 | **Spool Whine** | Audible pitch change tells enemies when system is about to fire; enemies get +1 bonus die to dodge | |
-| 97 | **Timed Shutdown** | After 4 consecutive turns of use, auto-shuts down for 2 turns to cool/rest | |
-| 98 | **Friendly Fire Prone** | Reinterpret Use ≤ 3: shot goes wide, hits adjacent ally or cover | |
-| 99 | **Jammed Actuator** | Movement system: Reinterpret any turn ≥ 13: mech can only move in one direction this turn | Movement |
-| 100 | **Zero-G Drift** | In zero/low gravity, system's outputs are unpredictable (−1 penalty die) | |
-| 101 | **Sticky** | System might reactivate next round/stay being activated||
-| 102 | **Eager** | while connected, the system might power up/use by itself on specific resonance ||
-| 103 | **Control Glitch** | Controls Reverse randomly and lock to full throttle for a Round | |
-| 104 | **Ads** | Ads play Praxis, Computer + something wurf to skip | |
-| 105 | **tinted glass** | sometimes, the cockpit glass (and all sensor feeds) tint to avoid glare - even if there is no sun | |
-| 106 | **unsealable** | contamination threshhold lowered for sector | |
+| 93 | **Cockpit Feedback** | System sends unpleasant vibrations through the chassis; pilot takes −1 cumulative penalty from stress each turn it's active (goes down by 1 for each turns its not active, both after the turn)| medium, uncommon |
+| 94 | **Uncommanded Mode Switch** | on specific resonance weapon switches to related setting | Weapon |
+| 95 | **Diagnostic-shimmed** | System broadcasts its telemetry to everyone; cooldowns, ammo, ... | medium, uncommon |
+| 96 | **Spool Whine** | Audible pitch change tells enemies rough status. 1 Bonus die for anything where anticipating helps | medium, uncommon |
+| 97 | **Timed Shutdown** | After 3 turns of being on, shuts down automatically | heavy, common |
+| 98 | **Friendly Fire Prone** | Result ≤ 5: shot goes wide, targets ally in targeting area with result of (6-Result)*3 or cover | Weapon |
+| 99 | **Jammed Actuator** | Specific Resonance: Movement direction and speed locked | Movement |
+| 100 | **Zero-G Drift** | In zero/low gravity, system's outputs are unpredictable (−1 penalty die) | dont like, remove or rework. zero g is rare |
+| 101 | **Sticky** | System might reactivate next round/stay being activated |medium, uncommon|
+| 102 | **Eager** | the system might power up/use by itself on specific resonance |heavy, uncommon|
+| 103 | **Control Glitch** | Controls Reverse randomly and lock to full throttle for a Round | Movement |
+| 104 | **Ads** | Ads play Practice, Computer + something roll to skip | Computer/Sensor |
+| 105 | **tinted glass** | sometimes, the cockpit glass (and all sensor feeds) tint to avoid glare - even if there is no sun | light, rare |
+| 106 | **unsealable** | contamination threshhold lowered for sector | heavy, common|
 
 ## Original Severity Layout (for reference)
 
