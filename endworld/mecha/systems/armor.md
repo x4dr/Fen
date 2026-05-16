@@ -1,17 +1,25 @@
+---
+outgoing links: []
+tags: []
+title: armor
+---
 # Armor
-Armor encompasses all sorts of armor from personal to mech. It is rolled when damage is taken, and the result directly reduces the damage
-if no damage remains, the damage calculation is canceled. By default, armor that fails to reduce damage to below 0, is damaged, losing protection.
-Armor at protection 0 still works, but is destroyed if it fails again.
+Armor encompasses all sorts of armor from personal to mechsized.
+When damage reaches a protected location, the armor rolls to reduce it.
+Armor effectiveness is scaled by the square root of its weight in tons:
 
-Armor stats: 
-- **Protection** - How good this armor is at absorbing damage
-- **Structure** - How well it is applied/integrated/coverage and so on.
-- **Tech** - the Techlevel of the armor. Worn armor is exposed to its wearer (ignoring seal) once a day.
-- **Weight** - Malus dice on actions where the weight of armor is relevant (running, quickshooting), offset by Fitness.
+    total reduction = (flat damage reduction * scaling factor) + roll result * (1 + roll scaling * scaling factor)
 
-It also can have additive and multiplicative bonuses, multiplicative being applied first.
+The roll uses the Armors Grade and the Structure rating of its installation.
+These values are calculated once when the armor is installed and a reduction table can be generated.
 
-for every 3 [Sizes](endworld/mecha#sizes) above/below, the number belonging to the bigger system gets multiplied with 2.
+### Stats
+
+**Weight** — tons this segment weighs.
+**Protection** — multiplied by the scaling factor.
+**Roll scaling** — how much weight amplifies the roll result.
+**Grade** — the armor material's quality.
+**Structure** — installation quality, from the refit roll (1-5).
 
 
 Seals get damaged, if there is any damage incoming, and can be repaired with a seal repair kit, within half an hour usually.
