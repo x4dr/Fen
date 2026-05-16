@@ -12,6 +12,7 @@ title: quirks
 Roll three d10 in sequence:
 
 **Roll 1 - Severity**
+
 | d10 | Table |
 |-----|-------|
 | 1-5 | Light |
@@ -19,6 +20,7 @@ Roll three d10 in sequence:
 | 9-10 | Heavy |
 
 **Roll 2 - Band (within the tier)**
+
 | Tier | d10 | Band |
 |------|-----|------|
 | Light | 1-5 | Common |
