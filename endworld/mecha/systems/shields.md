@@ -28,7 +28,7 @@ Flat Damage Reduction + (roll result) * Roll scaling
 Both values are properties of the specific generator and include its weight scaling. If the reduction meets or exceeds the damage, the shield holds. If not, it is overwhelmed and shuts down. Each shield protects one sector, chosen during configuration.
 
 | Name | Tech | Weight | Flat Damage Reduction | Roll scaling | Energy | Heat | Reboot | Failure |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+|---|---:|---:|---:|---:|---:|---:|---:|---|
 | **Basetech** | | | | | | | | |
 | Applique-Armor | 1 | 1t | 2 | 1.0 | 0e | 0H | - | block |
 | **Midtech** | | | | | | | | |
