@@ -8,22 +8,20 @@ Armor encompasses all sorts of armor from personal to mechsized.
 When damage reaches a protected location, the armor rolls to reduce it.
 Armor effectiveness is scaled by the square root of its weight in tons:
 
-    total reduction = (flat damage reduction * scaling factor) + roll result * (1 + roll scaling * scaling factor)
+total reduction = (flat damage reduction * scaling factor) + roll result * (1 + roll scaling * scaling factor)
 
 The roll uses the Armors Grade and the Structure rating of its installation.
 These values are calculated once when the armor is installed and a reduction table can be generated.
 
 ### Stats
 
-**Weight** — tons this segment weighs.
-**Protection** — multiplied by the scaling factor.
-**Roll scaling** — how much weight amplifies the roll result.
-**Grade** — the armor material's quality.
-**Structure** — installation quality, from the refit roll (1-5).
+**Flat Damage Reduction** - multiplied by the scaling factor.
+**Roll scaling** - bonus roll multiplier per scaling factor. 
+**Grade** - the armor material's quality.
+**Structure** - installation quality, from the [refit roll](endworld/mecha/systems/armor#Mech)
 
 
-Seals get damaged, if there is any damage incoming, and can be repaired with a seal repair kit, within half an hour usually.
-
+Since Seals sit on top of the armor usually, they get damaged, no matter if the Armor holds or not.
 
 ## Personal Armor
 
