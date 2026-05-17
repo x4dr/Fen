@@ -65,4 +65,4 @@ Der Zaubernde vollführt eine spezifische Abfolge von Bewegungen die den ganzen 
 * nur Effektiv auf Ziele, die vom Tanz beeinflusst werden können (Entfernung schwächt ab,  Sichtblockaden verhindern)
 ## Wurf
 
-Das Konzept kann mit allen mystischen Attributen kombiniert werden, ist verbessert für Flow ausgelegt, kann aber durchaus mit Konzentration für einmalige Effekte verwendet werden (längere Zauberzeit als normal) und hat die Möglichkeit (konzeptblockierend) mit Disziplin eine schwächere dauerhafte Form eines Zaubers auszuführen, solange spezifische tänzelnde Bewegungen weiter eingehalten werden (z. Trippelschrittette, hin und her wiegen Armkreisen)
+Das Konzept kann mit allen mystischen Attributen kombiniert werden, ist verbessert für Flow ausgelegt, kann aber durchaus mit Konzentration für einmalige Effekte verwendet werden (längere Zauberzeit als normal) und hat die Möglichkeit (konzeptblockierend) mit Disziplin eine schwächere dauerhafte Form eines Zaubers auszuführen, solange spezifische tänzelnde Bewegungen weiter eingehalten werden (z. Trippelschrittette, hin und her wiegen Armkreisen)

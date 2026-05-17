@@ -64,7 +64,7 @@ title: ZauberSeitenEffekte
 38   |    Caster starts glowing like a torch for 25h
 39   |    all plants within 30 meters wilt
 40   |    gain 1 headache
-41   |    everything in medium distance is shoved away (strength 17 – (stamina&strength @ traction) meters)
+41   |    everything in medium distance is shoved away (strength 17 - (stamina&strength @ traction) meters)
 42   |    center, spell result is reduced by that amount
 43   |    small objects start flying around at random
 44   |    spell fails instead
@@ -72,7 +72,7 @@ title: ZauberSeitenEffekte
 46   |    casters hair grows 10 cm
 47   |    scatter, spell result is increased by that amount
 48   |    roll another strainroll and add the result
-49   |    everything in medium distance is pulled in (strength 17 – (stamina&strength @ traction) meters)
+49   |    everything in medium distance is pulled in (strength 17 - (stamina&strength @ traction) meters)
 50   |    half the current strain is dissipated and half of that will be dealt to next target touched
 51   |    a dark cloud forms and it rains within roughly 500 m for 10 minutes
 52   |    scatter, this spell is recastable at no cost other than time, that many times. upkeep applies.
