@@ -174,11 +174,9 @@ If you hit a "Reroll on the table above" result, roll again on the reroll's sub-
 | **Sluggish Cyclerate** | Cannot fire consecutive turns (must skip a turn) |
 | **Glitchy Autoloader** | Frequency 10: fires twice. Frequency 1: jammed, clear requires roll 8+ |
 | **Live Ammo** | For 1 round after damage: any resonance < 6 causes cookoff, 4 damage to sector |
-| **Fixed Targeting** | Cannot rotate. Penalty dice based on target angular speed |
 | **Uncommanded Mode Switch** | On specific resonance, switches fire mode |
 | **Friendly Fire Prone** | Result <= 5: shot goes wide, hits ally in area with (6-result)x3 damage or cover |
 | **Momentum Reliant** | +1 effect above 50% speed, -1 below 25% speed (also Movement) |
-| **Over-Lubricated Actuators** | +1 initiative, -1 accuracy (also Movement) |
 
 ## Movement Quirks
 
@@ -204,6 +202,8 @@ If you hit a "Reroll on the table above" result, roll again on the reroll's sub-
 | **Target Glitching** | Penalty against near OR far targets |
 | **Temporal Leak** | Shows data from past/future sometimes |
 | **Ads** | Ads play. Practice, Computer + something roll to skip |
+| **Motion Blur** | Penalty die against fast-moving targets |
+| **Static Bleed** | Penalty die against slow or stationary targets |
 
 ## Heat Quirks
 

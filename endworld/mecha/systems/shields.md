@@ -53,6 +53,8 @@ other shields in production.
 
 **Heavy Shield:** A large-frame generator. Same technology as the Standard Shield, just scaled up.
 
+![Heavy Shield Table](tables)
+
 **Flash Shield:** Designed for immediate reboots. When a Flash Shield is overwhelmed, it comes back
 as soon as the Configuration action completes, not at end of turn. A pilot who holds an action can
 reconfigure after being hit and have the shield back up without waiting.
@@ -99,18 +101,17 @@ the number of sectors, the bonus is scaled to the fraction they cover (rounded d
 
 ## Dampeners
 
-Dampeners need to be Configured with the Shield skill and provide a flat damage reduction to all
-attacks that are influenced by shields. They usually scale with the Quality of the Configuration.
+Dampeners need to be Configured with the Shield skill and provide flat damage reduction against
+attacks that rely on kinetic energy. Melee and ballistic damage is reduced; lasers and missiles
+are not. The Storyteller decides what counts for other attack types.
 
 Dampeners subtract from enemy damage, helping armor and shields. If an attack is reduced below 0,
 it is slowed so much it does not land.
 
-Dampeners work on melee strikes, but not on missiles.
-
 | Type | Reduction | Weight | Cost | Coldboot |
 |---|---:|---|---|---|
 | Basic Dampener | 5 + Config | 0.5t | 20e, 3H/attack | 3r |
-| Heavy Dampener | 30 + Config x3 | 1t | 60e, 5H/attack | 10r |
+| Heavy Dampener | 10 + Config x2 | 1t | 60e, 5H/attack | 10r |
 
 Dampeners and Deflectors do not fail from damage.
 

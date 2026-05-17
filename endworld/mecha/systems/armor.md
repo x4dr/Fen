@@ -18,18 +18,20 @@ These values are calculated once when the armor is installed and a reduction tab
 **Flat Damage Reduction** - multiplied by the scaling factor.
 **Roll scaling** - bonus roll multiplier per scaling factor. 
 **Grade** - the armor material's quality.
-**Structure** - installation quality, from the [refit roll](endworld/mecha/systems/armor#Mech)
+**Structure** - installation quality, from the [refit roll](endworld/mecha/systems/armor#Mech).
 
 
 Since Seals sit on top of the armor usually, they get damaged, no matter if the Armor holds or not.
 
 ## Personal Armor
 
-This is armor on the personal scale, able to be worn by a single person. 
+This is armor on the personal scale, meant to be worn. The scaling factor is 1
+regardless of weight, and personal armor materials have Protection 0 and Roll
+scaling 0 — the entire reduction comes from the roll.
 
 ### Hazard suit
 
-- **Protection**: 0 
+- **Grade**: 0
 - **Structure** : 0
 - **Tech**: 2
 - **Weight**: 0 
@@ -38,7 +40,7 @@ Has a lot higher capacity for seals than regular clothes
 
 ### Armored clothes
 
-- **Protection**: 1 
+- **Grade**: 1
 - **Structure** : 0
 - **Tech**: 1
 - **Weight**: 1 
@@ -47,27 +49,25 @@ Clothes reinforced with materials like kevlar, having some plates in some spots
  
 ### Light Armor
 
-- **Protection**: 1 
+- **Grade**: 1
 - **Structure** : 1
 - **Tech**: 1
 - **Weight**: 1 
-
 
 The same materials as armored clothes, but with an underlying structure, plate holders, and rigging to allocate the load
 
 ### Combat Armor
 
-- **Protection**: 2  
+- **Grade**: 2 
 - **Structure**: 2  
 - **Tech**: 2
 - **Weight**: 3
 
 Modern military-grade body armor with hard plates, modular protection, and moderate sealing options. Effective against small arms and shrapnel.
 
-
 ### Assistive Combat Suit
 
-- **Protection**: 2  
+- **Grade**: 2 
 - **Structure**: 3  
 - **Tech**: 3
 - **Weight**: 2
@@ -76,7 +76,7 @@ An armored exoskeleton equipped with military grade modular armor plates, compen
 
 ### Heavy Unpowered Armor
 
-- **Protection**: 4  
+- **Grade**: 4  
 - **Structure**: 4  
 - **Tech**: 2
 - **Weight**: 6
@@ -106,7 +106,8 @@ A Mechs have segments, that need to armored and often layer armor. Weight is giv
 If not otherwise given, repair rolls below 5 lower structure.
 
 ### Outside Cargo
-- **Protection**: 0  
+- **Flat Damage Reduction**: 0
+- **Roll scaling**: 0
 - **Tech**: 1 
 - **Weight**: 1.1  
 - **Failure**: Cargo Destroyed  
@@ -114,29 +115,33 @@ If not otherwise given, repair rolls below 5 lower structure.
 Each of these might provide decent protection if installed correctly, and provides 1 ton of extra cargo storage, however the "armor" in question is precious cargo, which will be destroyed if it is ever overcome (and possible by just being shot at)
 
 ### Metal Plating  
-- **Protection**: 2  
+- **Flat Damage Reduction**: 2
+- **Roll scaling**: 0.15
 - **Tech**: 1 
 - **Weight**: 2
 - **Repair**: always succeeds, but rolls under 12 lower Structure.
 Good ol' metal plating. Outmatched against a lot of armorpiercing technology, but then again, a lot of attacks are not armorpiercing.
 
 ### Ultra High Density Composite  
-- **Protection**: 4  
+- **Flat Damage Reduction**: 3
+- **Roll scaling**: 0.08
 - **Tech**: 1
 - **Weight**: 5  
 - **Failure**: block  
-- **Repair**:  8+, Resonance 1 lowers Protection by Amplitude
+- **Repair**:  8+, Resonance 1 lowers protection.
 Made from somewhat rare and very dense and durable metals, this might be expensive but is one of the most durable options out there. Even when it fails, it blocks the shot that took it down.
 
 ### Sheetmetal  
-- **Protection**: 0  
+- **Flat Damage Reduction**: 0
+- **Roll scaling**: 0.05
 - **Tech**: 2 (Lowtech)  
 - **Weight**: 0.1  
 - **Repair**: 5 +, structure always lowers. Can be refit at one size category less
 
 
 ### Composite Plating  
-- **Protection**: 3  
+- **Flat Damage Reduction**: 1
+- **Roll scaling**: 0.25
 - **Tech**: 2 (Lowtech)  
 - **Weight**: 2.5  
 - **Repair**: 5+
@@ -145,7 +150,8 @@ Common, but effective
 
 
 ### Active Plating  
-- **Protection**: 1 (passive) / 4 (active)  
+- **Flat Damage Reduction**: 1 (passive) / 0.5 (active)
+- **Roll scaling**: 0.3 (passive) / 0.4 (active)
 - **Tech**: 3 (Midtech)  
 - **Weight**: 2  
 - **Failure**: if active: block
@@ -157,16 +163,18 @@ If the active part is on, incoming projectiles get counter-blasted by highly cha
 On a resonance with 1, The module turns off and must reboot, on Amplitudes of more than 1, the system is damaged and passive until repaired.
 
 ### SpeedShell  
-- **Protection**: 1  
+- **Flat Damage Reduction**: 1
+- **Roll scaling**: 0.15
 - **Tech**: 3 (Midtech)  
 - **Weight**: 0.5  
 - **Failure**: Destroyed, passthrough  
 
-While speed is higher than 10m/s, this armor provides an extra 2 heat venting / segment 
+While speed is higher than 10m/s, this armor provides extra heat venting equal to its Grade / segment 
 
 
 ### Ion Armor  
-- **Protection**: 5  
+- **Flat Damage Reduction**: 2
+- **Roll scaling**: 0.4
 - **Tech**: 4 (Hightech)  
 - **Weight**: 1  
 - **Failure**: Destroyed, energy system damage, block  
@@ -176,10 +184,11 @@ This hightech armor provides excellent protection, at a risk. The energy costs a
 
 
 ### Holomatrix  
-- **Protection**: 1  
+- **Flat Damage Reduction**: 10
+- **Roll scaling**: 0
 - **Tech**: 5 (Experimental)  
 - **Weight**: 0  
 - **Failure**: Damaged  
 - **Repair**: 500 grams of Experimental Tech Parts, installing/refitting takes 2kg (per sector) instead.
 
-This advanced defensive system has negligible weight and an extremely good protection rating. Its vulnerability to contamination and high repair costs might be its only weaknesses.
+This advanced defensive system provides a flat reduction of 10 regardless of mass or roll. Its vulnerability to contamination and high repair costs are its only weaknesses.

@@ -43,7 +43,10 @@ Ballistic weapons generate moderate heat from friction and propulsion gasses. Mi
 
 ### Damage
 
-Damage is a single number. On a hit:
+Damage is a single number. Baseline formula used during system development:
+`Damage = 10 + 3 × sqrt(gun mass in tons)`. This gives 13 at 1t, ~15 at 3t, 16 at 4t, 19 at 9t, 22 at 16t. Individual weapons may vary from this curve based on their role and tech tier.
+
+On a hit:
 1. Shields activate first (see [Shields](endworld/mecha/systems/shields)).
 2. Armor reduces remaining damage (see [Armor](endworld/mecha/systems/armor)).
 3. Remaining damage adds to the hit sector's **stress**. See [Sector Stress](endworld/combat#sector-stress).
