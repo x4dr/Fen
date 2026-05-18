@@ -1,3 +1,8 @@
+---
+outgoing links: []
+tags: []
+title: offensive
+---
 # Offensive Systems
 
 Offensive systems are the weapons and tools a mecha uses to project force. Weapons are defined by their damage output, range, and resource demands (energy, heat, ammo).
@@ -15,6 +20,8 @@ Offensive systems are the weapons and tools a mecha uses to project force. Weapo
 - **Keywords** - Special rules (rapid fire, armor piercing, etc.).
 
 A weapon that is active but not firing still draws its full Energy cost each turn. This is the main tradeoff: powering a weapon costs you, whether you pull the trigger or not.
+
+All weapons require a hardpoint.
 
 ### Attack Modes
 
@@ -37,14 +44,14 @@ A weapon that is active but not firing still draws its full Energy cost each tur
 
 ### Heat and Weapons
 
-When a weapon fires, its burst heat enters the [fluxpool](endworld/mecha/systems/heat#the-flux-pool) as pending heat - subject to the same flux limits as everything else. A weapon that fires with insufficient flux to move its heat out will accumulate residual heat, risking an [Overheat Check](endworld/mecha/systems/heat#overheat-check).
+When a weapon fires, its burst heat remains on the weapon as pending heat - if it is not removed by the next heat processing cycle, this becomes residual heat.
 
 Ballistic weapons generate moderate heat from friction and propulsion gasses. Missiles generate very little (the heat stays in the rocket motor). Melee generates none.
 
 ### Damage
 
 Damage is a single number. Baseline formula used during system development:
-`Damage = 10 + 3 × sqrt(gun mass in tons)`. This gives 13 at 1t, ~15 at 3t, 16 at 4t, 19 at 9t, 22 at 16t. Individual weapons may vary from this curve based on their role and tech tier.
+`Damage = 10 + 3 * sqrt(gun mass in tons)`. This gives 13 at 1t, ~15 at 3t, 16 at 4t, 19 at 9t, 22 at 16t. Individual weapons may vary from this curve based on their role and tech tier.
 
 On a hit:
 1. Shields activate first (see [Shields](endworld/mecha/systems/shields)).
@@ -85,3 +92,19 @@ On a hit:
 | Railgun | 22 | 200/1500/500 | 2kg High | 40 | 3 | 3 | D | 6 | Armor Piercing |
 | **Melee** |  |  |  |  |  |  |  |  |  |
 | Mech Sword | 20 | 0/1/0 | - | 0 | 0 | - | - | 2 | See [Mech Melee](endworld/descriptions/specialskills#mech-melee) |
+
+## Debug Weapons
+
+These use the baseline formula `Damage = 10 + 3 * sqrt(mass)` and are meant for system testing. Energy and heat are placeholders and will be iterated.
+
+| Weapon | Mass | Damage | Range | Ammo | Energy | Heat | Boot | Modes | Keywords |
+|--------|------|--------|-------|------|--------|------|------|-------|----------|
+| Light Ballistic | 1t | 13 | 20/400/100 | 0.5kg Low | 5 | 3 | 1 | D | |
+| Medium Ballistic | 3t | 15 | 50/600/150 | 1kg Low | 15 | 5 | 1 | D | |
+| Heavy Ballistic | 6t | 17 | 50/800/200 | 2kg Mid | 30 | 8 | 2 | D | |
+| Light Laser | 1t | 13 | 50/400/100 | - | 25 | 10 | 1 | D,B | |
+| Medium Laser | 3t | 15 | 50/600/150 | - | 50 | 18 | 1 | D,B | |
+| Heavy Laser | 6t | 17 | 100/800/200 | - | 80 | 25 | 2 | D,B | |
+| Light Missile Rack | 1t | 13 | 100/500/200 | 5kg High | 3 | 2 | 2 | D,I,S | |
+| Medium Missile Rack | 3t | 15 | 200/800/300 | 12kg High | 5 | 3 | 2 | D,I,S | |
+| Heavy Missile Rack | 6t | 17 | 200/1000/400 | 20kg High | 8 | 4 | 3 | D,I,S | |

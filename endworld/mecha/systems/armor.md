@@ -102,7 +102,9 @@ Tools and facility quality affect the outcome:
 - Having [Blueprints](endworld/crafting)
 
 
-A Mechs have segments, that need to armored and often layer armor. Weight is given per segment.
+A Mech has sectors, that need to be armored and often layer armor. Weight is given per sector.
+A Segment of armor is one Type of armor with a specified weight. A Sector can have multiple armor segments, but they need to be ordered.
+Segments process damage from outside in, canceling the damage propagation if the damage is fully absorbed.
 If not otherwise given, repair rolls below 5 lower structure.
 
 ### Outside Cargo
@@ -155,7 +157,7 @@ Common, but effective
 - **Tech**: 3 (Midtech)  
 - **Weight**: 2  
 - **Failure**: if active: block
-- **Energy**: can be turned on for 5 energy / segment
+- **Energy**: can be turned on for 5 energy / ton
 - **Repair**: 10+
 - **Boot**: 2 minutes
 
