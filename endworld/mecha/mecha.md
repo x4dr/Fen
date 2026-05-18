@@ -14,7 +14,7 @@ title: mecha
 # Mecha
 Mecha, short for mechanical, are typically giant walking robots, ruleswise, everything consisting of parts, having systems and having weight is handled as mecha, such as: cars, bikes, static defense towers, artillery installations, giant walking robots, giant treaded robots, Fridges and so on.
 
-A Mech has a size in Sectors which corresponds (roughly) to its weight, and a class, which is relevant for usage, representation in world and so on.
+A Mech has a size, given in Sectors, which corresponds (roughly) to its weight, and a class, which is relevant for usage, representation in world and so on.
 
 A mech can have multiple systems to accomplush tasks or Manage resources, like
 [Movement](endworld/mecha/systems/movement), [Energy](endworld/mecha/systems/energy), [Heat](endworld/mecha/systems/heat), [Offensive](endworld/mecha/systems/offensive), [Defensive](endworld/mecha/systems/defensive) and [Support](endworld/mecha/systems/support), as well as a [Seal](endworld/mecha/systems/support#seals) to protect against Contamination.
@@ -42,10 +42,8 @@ A mech can have multiple systems to accomplush tasks or Manage resources, like
 
 # Modules
 - Modules are assigned to sectors.
-- Each sector has a size of 1; a module takes up some of that size.
 - Modules can be spread over multiple adjacent sectors, though this increases the likelihood of damage.
 - Some modules require a hardpoint. There is usually only **one hardpoint per sector**.
-- A mech’s **effective tech level** is based on the 90% point of the size-ranked modules sorted by tech level.
 - **Contamination damage** applies to the highest-tech modules first.
 - Each module can be damaged individually.
 
