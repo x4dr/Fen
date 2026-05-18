@@ -53,7 +53,7 @@ other shields in production.
 
 **Heavy Shield:** A large-frame generator. Same technology as the Standard Shield, just scaled up.
 
-![Heavy Shield Table](tables)
+[!tables|Heavy Shield Table]
 
 **Flash Shield:** Designed for immediate reboots. When a Flash Shield is overwhelmed, it comes back
 as soon as the Configuration action completes, not at end of turn. A pilot who holds an action can
