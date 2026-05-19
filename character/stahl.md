@@ -1,9 +1,11 @@
 ---
 outgoing links: []
 tags:
-- Character
 - Swordlad
+- type/character
+- Character
 - character
+- campaign/fen1
 title: Stahl von Schwertwacht
 ---
 
