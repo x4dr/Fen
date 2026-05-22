@@ -18,13 +18,13 @@ Contamination is measured by a **level** indicating its intensity.
 Only inside the Domes of the [Supervivo](endworld/supervivo), inside a [Mecha](endworld/mecha/mecha), or similarly purified environments can contamination reach level 0.  
 Levels below 0 are needed to dismantle Experimental Tech, but such purity is very hard to achieve.
 
-- **Levels 1–3:** Rare, low contamination zones like mines, airlocks, outdoor markets, and settlements.  
+- **Levels 1-3:** Rare, low contamination zones like mines, airlocks, outdoor markets, and settlements.  
   Prolonged exposure does not cause death but lowers quality of life for fragile individuals.
-- **Levels 4–6:** Common, inhabited by Category-B.  
+- **Levels 4-6:** Common, inhabited by Category-B.  
   Without permanent resistance, death is possible but life expectancy is usually a few months.
-- **Levels 7–11:** Mostly tribals live here; some Category-B might camp temporarily.  
+- **Levels 7-11:** Mostly tribals live here; some Category-B might camp temporarily.  
   Without protection, death occurs within weeks.
-- **Levels 12–15:** Sparsely inhabited by hardy [tribals](endworld/tribes); mostly deserted.
+- **Levels 12-15:** Sparsely inhabited by hardy [tribals](endworld/tribes); mostly deserted.
 - **Levels 16+:** Most hostile areas where strange phenomena happen; rumored to hide great treasure.
 
 There is no upper limit to contamination levels.  
@@ -41,7 +41,7 @@ Water naturally draws contamination and is usually 2-3 times as contaminated as 
 ## Contamination Damage
 
 When an entity takes contamination damage, they roll their contamination resistance plus relevant modifiers.  
-Remaining damage (above 0) is applied to a wound called "Contamination Ingress", increasing it or creating it if there currently isn't one, and raises the entity’s contamination by 1.  
+Remaining damage (above 0) is applied to a wound called "Contamination Ingress", increasing it or creating it if there currently isn't one, and raises the entity's contamination by 1.  
 The current contamination level grants an internal bonus to ingress resistance rolls causes complications during, [healing](endworld/healing), making a little scratch potentially life threatening.
 
 People roll [Resistance](endworld/ewchar#Core-Stats) as the attribute, unless they have equipment or skills which can be used in Ingress resistance, nothing else.
@@ -79,7 +79,7 @@ A seal reduces contamination behind it by its level.
 If damaged, seal effectiveness drops by 1 and until it is repaired/reapplied the effective level is halved.
 
 Air must be purified or oxygen-enriched separately.  
-(The average human consumes about 500–600 liters of oxygen daily.)  
+(The average human consumes about 500-600 liters of oxygen daily.)  
 The Domes of the Supervivo usually have level 25 hermetic seals with purified, oxygen-enriched air.
 
 Examples of human-sized external contamination protection:
@@ -99,7 +99,7 @@ Examples of human-sized external contamination protection:
 
 ## Categories
 
-Characters have a **Contamination Resistance** from 1–5, and are classified:
+Characters have a **Contamination Resistance** from 1-5, and are classified:
 
 - **Cat A**: Supervivo, low resistance, high Affinity
 - **Cat B**: Outlaws, traders, etc.; medium resistance & Affinity
@@ -115,4 +115,4 @@ Characters have a **Contamination Resistance** from 1–5, and are classified:
 | Low Tech     | 4                        | 2                 |
 | Base Tech    | 5                        | 1                 |
 
-If Affinity requirements aren’t met, each use adds **penalty dice equal to the difference**.
+If Affinity requirements aren't met, each use adds **penalty dice equal to the difference**.

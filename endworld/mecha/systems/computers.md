@@ -13,7 +13,7 @@ They are not like real-world computers. Due to their need for modularity and res
 - Programs won't start if CPU is insufficient
 - You may shift `[8,12,17,20]` CPU between programs with a **Theory, Computer Usage** check
 - Underpowered programs perform worse (scale all effects unfavorably)
-- Overpowered programs usually don’t perform better - only faster
+- Overpowered programs usually don't perform better - only faster
 
 ---
 
@@ -53,8 +53,8 @@ Programs must be loaded from storage or built into **RROM**.
 
 #### Parameters
 
-Abstracted context for the program’s operation  
-(e.g. “what to act upon” is assumed to be known)
+Abstracted context for the program's operation  
+(e.g. "what to act upon" is assumed to be known)
 
 ---
 

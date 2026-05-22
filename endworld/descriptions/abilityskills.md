@@ -80,7 +80,7 @@ These skills are generalizations and should be fleshed out more, also this is fa
 
 ## Professions
 
-Professions represent the character’s primary roles and core activities. Each profession defines a specific set of skills and tasks the character regularly performs. Typically, a character cannot fully engage in two professions simultaneously. This system is flexible and open-ended; examples include:
+Professions represent the character's primary roles and core activities. Each profession defines a specific set of skills and tasks the character regularly performs. Typically, a character cannot fully engage in two professions simultaneously. This system is flexible and open-ended; examples include:
 
 * **Soldier** - marching, maintaining alertness and composure, building fortifications, assessing combat situations
 * **Cook** - preparing food, handling ingredients, working quickly and precisely in the kitchen

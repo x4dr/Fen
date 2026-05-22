@@ -40,7 +40,7 @@ Because the pool fills first then empties, a full cycle moves at most Total Flux
 
 ### Residual Heat
 
-Any heat left in a generating system after Phase 1 is **Residual Heat**. Heat that cannot be stored in a system (most non-heat systems have 0 capacity) adds to the sector's **stress** (see [Sector Stress](endworld/combat#sector-stress)). Residual heat from any system in a sector spreads to all systems — an overheating weapon can cook the ammunition stored next to it.
+Any heat left in a generating system after Phase 1 is **Residual Heat**. Heat that cannot be stored in a system (most non-heat systems have 0 capacity) adds to the sector's **stress** (see [Sector Stress](endworld/combat#sector-stress)). Residual heat from any system in a sector spreads to all systems - an overheating weapon can cook the ammunition stored next to it.
 
 If the fluxpool stays full for more than one turn, the mecha suffers chassis-wide instability -- speed is halved, computer systems crash, and the reactor automatically scram.
 
@@ -50,28 +50,51 @@ Energy Systems may not stop generating heat instantly. Every [Energy System](end
 
 ## Heat Systems
 
-| Type               | Energy | Capacity | Flux | Passive | Active |
-|--------------------|--------|----------|------|---------|--------|
-| **Basetech**       |        |          |      |         |        |
-| Small Heatsink     | 0      | 30       | 1    | 1/15    |        |
-| **Lowtech**        |        |          |      |         |        |
-| Radiator Vent      | 2      | 10       | 5    | 1       | 10     |
-| Large Heatsink     | 0      | 50       | 1    | 1/15    |        |
-| Water cooling      | 1      | 5        | 5    |         |        |
-| **Midtech**        |        |          |      |         |        |
-| Optimized Heatsink | 0      | 40       | 1    | 1/25    |        |
-| Phase Change Loop  | 3      | 2        | 10   |         |        |
-| Heatpipes          | 0      | 0        | 5    |         |        |
-| Coolant Dump       | 100    | 25       | 10   |         | 25     |
-| Radiator Wings     | 5      | 50       | 5    |         | 1/5    |
-| **Hightech**       |        |          |      |         |        |
-| Fractal Heatsink   | 10     | 100      | 5    | 2       | -2     |
-| liquid metal Loop  | 5      | 10       | 50   |         |        |
-| OVERDRIVE          | 100    | -        | 0    | -       |        |
+Sinks scale with installed weight. All values for sinks are per ton.
+
+| Type               | Weight | Energy | Capacity | Flux | Passive | Active | Hardpoint |
+|--------------------|--------|--------|----------|------|---------|--------|-----------|
+| **Basetech**       |        |        |          |      |         |        |           |
+| Refractory Block   | per t  | 0      | 30       | 0.5  | 1/25    |        | no |
+| Blowoff Valve      | 0.5    | 0      | 15       | 15   |         | 15     | yes |
+| **Lowtech**        |        |        |          |      |         |        |           |
+| Radiator Vent      | 0.5    | 5      | 10       | 5    | 1       | 10     | yes |
+| Water Reservoir    | per t  | 0      | 80       | 5    | 1/25    |        | no |
+| Water cooling      | 0.5    | 3      | 5        | 5    |         |        | no |
+| Anti-Detonant Inj. | 2.0    | 5      | 15       | 15   |         | 15     | no |
+| **Midtech**        |        |        |          |      |         |        |           |
+| Phase Change Cell  | per t  | 4      | 50       | 10   | 1/30    |        | no |
+| Phase Change Loop  | 1      | 5      | 5        | 15   |         |        | no |
+| Heatpipes          | 1      | 0      | 0        | 15   |         |        | no |
+| Coolant Dump       | 1      | 25     | 25       | 25   |         | 25     | no |
+| Heat Exchanger     | 5      | 50     | 160      | 15   | 1/30    | 35     | yes |
+| Radiator Wings     | 1      | 10     | 50       | 5    |         | 1/4    | no |
+| **Hightech**       |        |        |          |      |         |        |           |
+| Fractal Heatsink   | 0.5    | 10     | 100      | 5    | 2       | -2     | no |
+| Thermal Capacitor  | per t  | 8      | 60       | 8    | 1/30    |        | no |
+| Liquid Metal Loop  | 1      | 15     | 10       | 30   |         |        | no |
+| Electrochromic Dissipator | 0.5 | 20 | 11 | 0 | | 11 | yes |
+| ECCS               | 0.5    | 20     | 40       | 40   |         | 40     | no |
+| OVERDRIVE          | 0      | 100    | -        | 0    | -       |        | no |
 
 **Notes**:
 
+* **Consumable Cooling (Blowoff Valve, ADI, Coolant Dump, ECCS)**: All of these systems create a **Steam-Screen** while active, provided at least half of the consumed fluid was actually used to absorb heat (no heat, no steam).
+* **Steam-Screen**: Generates a dense thermal and visual cover field. Blocks visual and thermal locks/line-of-sight in *both directions* (the mech cannot see out, enemies cannot see in). 
+* **Blowoff Valve**: Consumes 15kg of Cargo (Water) per turn. Deafeningly loud.
+* **Anti-Detonant Injector**: Consumes 15kg of Cargo (Water/Coolant) per turn. Boot time: 1.
+* **Coolant Dump**: Consumes 25kg of Cargo (Coolant) per turn. Boot time: 1. Shutoff time: 1.
+* **ECCS**: Consumes 50kg of Cargo (Coolant) per turn. Shutoff time: 2 (Minimum 3 turns active, burning massive cargo).
 * **Radiator Wings**: 5 turns to deploy. Vulnerable while extended (no armor applies).
-* **Coolant Dump**: Discharges 25 heat + 25L Coolant as a decoy mist or smoke screen.
 * **Overdrive**: Once activated, the **fluxpool** is uncapped. Heat in the **fluxpool** instead annihilates heat when assigned to a sink. Mech shuts down once the **fluxpool** either stays full or all the heat has been annihilated. Requires repair (`Practice, Gadgets` check) afterward. While this is running, the mech acts twice as fast. 
 * **Fractal Heatsink**: Can be activated to STOP its heat output, which is useful for stealth.
+
+## Operational Analysis
+For non-combat activities - such as travel, active standby, or guarding - mecha designs may be analyzed for thermal equilibrium to save work during gameplay. Players can analyze their [Loadouts](endworld/mecha/mecha#loadouts) for these scenarios and calculate the heat levels at which the systems stabilize.
+
+To determine the steady-state heat for a scenario:
+1. **Calculate Load**: Determine the total heat generated by systems required for the specific activity (e.g., travel).
+2. **Calculate Dissipation**: Determine the total heat dissipation provided by active systems in that scenario.
+3. **Determine Equilibrium**: Compare the two values to identify the heat level where the system stabilizes.
+
+These loadouts can be marked as "Steady State" in the mecha build documentation, noting the stable heat levels to quickly reference during play.

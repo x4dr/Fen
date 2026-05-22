@@ -8,7 +8,7 @@ TODO: Expand with precomputed tables for all shields, dampeners, and armor types
 
 ## !Heavy Shield
 
-Reduction = 9 + (Grade, Config@5 roll) × 2.1
+Reduction = 9 + (Grade, Config@5 roll) * 2.1
 
 | Roll | Reduction |
 |-----:|----------:|

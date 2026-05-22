@@ -49,27 +49,30 @@ Energy units are abstract, but originally:
 * 1 Energy (E) = 5 kW over 1 round (5 seconds)
 * 1 MJ = 200 E
 
-| Type             | E      | Heat    | Shutoff | Input              | Efficiency                    |
+| Type             | E      | Heat    | Shutoff | Input              | Notes                         |
 |------------------|--------|---------|---------|--------------------|-------------------------------|
 | **Basetech**     |        |         |         |                    |                               |
-| Steam Power      | 2/4    | 3/8     | 10      | Coal               | 10%                           |
+| Steam Boiler     | 4      | 0.5     | 5       | Coal               | Burns tons. Boot: 10          |
+| Heavy Boiler     | 20     | 1.5     | 10      | Coal               | Scale. Boot: 20               |
 | Flywheel         | 20     | 0       | 0       | Stored             | spins down even if unused     |
 | Crew             | 0.3    | 0       | 0       | 10 Crew Labor      | Crew tire after 30min*Fitness |
 | **Lowtech**      |        |         |         |                    |                               |
-| Combustion Motor | 50/150 | 1/2     | 3       | Combustible Liquid | 40%                           |
+| Combustion Motor | 30     | 3       | 1       | Combustible Liquid | Rev lag. Highly reliable.     |
+| Heavy Combust.   | 70     | 5       | 1       | Combustible Liquid | Efficiency at scale.          |
+| Fission Plant    | 1200   | 80      | 20      | Fissile Rods       | Runaway. Massive, clunky.     |
 | **Midtech**      |        |         |         |                    |                               |
-| Fission Core     | 150    | 15      | 5       | Rods               | 8%                            |
-| PEM              | 50/100 | 0.1/0.3 | 1       | Hydrogen           | 90%                           |
+| PEM              | 5      | 0.1     | 0       | Hydrogen           | Clean, fast, explosive tank.  |
+| Mini-Fission     | 400    | 20      | 20      | Fissile Rods       | Runaway. Breakthrough sizing. |
+| Thorium Plant    | 1000   | 60      | 5       | Thorium            | Runaway. Lasts for years.     |
 | Solar Panel      | 10     | 2       | 0       | Sunlight           | Contamination Dependent       |
-| Batteries        | 10     | 2       | 0       | Stored             | Loses 10% per month           |
+| Capacitor Bank   | 75     | 0       | 0       | Stored             | Depletes E per turn. Instant. |
 | **Hightech**     |        |         |         |                    |                               |
-| Reactor          | 300    | 5       | 3       | Fuel Rods          | 8%                            |
-| CF Reactor       | 40     | 0.1     | 1       | Deuterium          | 80%                           |
-| Micro-Fusion     | 600    | 30      | 1       | Pellets            | 80%                           |
-| Capacitor        | 1000   | 8       | 0       | Stored             | Loses 10% per hour            |
+| Mini-Thorium     | 350    | 15      | 5       | Thorium            | Runaway. Safe and compact.    |
+| Micro-Fusion     | 400    | 25      | 2       | D-T Pellets        | Runaway. Extreme heat ratio.  |
 
 **Notes**:
 
+* **Runaway**: Reactors with this trait can enter a runaway state (often triggered intentionally or via critical damage). While in Runaway, the reactor Doubles its Energy Output, but its Heat generation increases by 10% per turn. It cannot be safely shut down and requires a permanent core-dump (destroying the reactor and causing sector damage) to stop.
 * **Solar Panel**: can be deployed/undeployed. Halves output per 5 contamination levels. Daylight only. Output halved for the first and last 4 hours of the 12-hour operational time (so effectively 8 hours of sunlight per day). Deployed solar panel gives 
   
 * **CF Reactor**: Requires startup energy equal to output for at least one round.

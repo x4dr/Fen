@@ -3,7 +3,7 @@ If there's no in-world reason for variance, roll for it:
 
 **Price variance formula**:
 
-> `((−1)^1d10 × 1d10 × 5)%`
+> `((-1)^1d10 * 1d10 * 5)%`
 
 Additionally, traders keep a share of the value for themselves:
 
@@ -51,13 +51,13 @@ Character A wants to trade **5t of Base Tech Parts (BTP)** for **Alacast**.
 
 ### Step 1: Price rolls
 
-- **BTP value roll**: 6, 4 → `((−1)^6 × 4 × 5)% = +20%`
+- **BTP value roll**: 6, 4 → `((-1)^6 * 4 * 5)% = +20%`
     
-- **Alacast value roll**: 10, 3 → `((−1)^10 × 3 × 5)% = +15%`
+- **Alacast value roll**: 10, 3 → `((-1)^10 * 3 * 5)% = +15%`
     
 
 **Exchange rate**:  
-`(500 × 1.15) / (100 × 1.2) = 4.79`
+`(500 * 1.15) / (100 * 1.2) = 4.79`
 
 So:
 

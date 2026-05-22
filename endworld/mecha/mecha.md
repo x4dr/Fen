@@ -109,13 +109,13 @@ All of these Are out of Date and kept for example purposes
 - **Size:** 0.25
 - **Rating:** 100
 - Provides targeting lock
-- Visual Lock: Distance / Rating ≤ Target Size (adjusted for camouflage and impairments)
+- Visual Lock: Distance / Rating <= Target Size (adjusted for camouflage and impairments)
 
 ### Thermal Sensors
 - **Energy:** 1
 - **Size:** 0.25
 - **Rating:** 100
-- Thermal Lock: Distance / Rating ≤ Target Thermal Signature
+- Thermal Lock: Distance / Rating <= Target Thermal Signature
 
 ### Basic Computer System
 - **Weight:** 500kg
@@ -193,7 +193,7 @@ All of these Are out of Date and kept for example purposes
 - Software can provide roll autonomously
 
 #### To Resurrect:
-- Requires 1g of **EOL** per total spent points on character (or 20× average level for NPCs)
+- Requires 1g of **EOL** per total spent points on character (or 20* average level for NPCs)
 - Roll **Black Biochroma**
 - -1 to result for every 15% of the corpse missing or order of magnitude in days since death
 - On success:

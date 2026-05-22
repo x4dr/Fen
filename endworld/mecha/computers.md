@@ -7,7 +7,7 @@ Also they are heavily abstracted and should not be confused with real computers.
 
 ### Processing Power
 
-Processing power is a computer’s capability to achieve computation and general work, including I/O. It is measured in **Computational Power Usage**, and a Processor provides **CPU capacity**.
+Processing power is a computer's capability to achieve computation and general work, including I/O. It is measured in **Computational Power Usage**, and a Processor provides **CPU capacity**.
 
 Processing power is occupied by programs, taking as much as they need or failing to start if there is not enough. A _Theory, Computer Usage_ (and relevant skill for computer administration, clocking or similar) Roll can be used to shift `[8, 12, 17, 20]` processing from one program to another or free that processing power up.
 
@@ -17,7 +17,7 @@ A program running above its required processing power usually does not do its ta
 
 ### Storage Space
 
-Storage space is a computer’s capability to store data and programs.  
+Storage space is a computer's capability to store data and programs.  
 It is measured in **Storage**.
 
 ### Programs
@@ -52,7 +52,7 @@ A user interaction usually requires one turn, after which the Operating System p
 
 Parameters are the context a specific program needs to accomplish its goal.
 
-Parameters are usually abstracted away as long as it is reasonable to assume that all programs _“know”_ what they are acting upon.
+Parameters are usually abstracted away as long as it is reasonable to assume that all programs _"know"_ what they are acting upon.
 
 ### Programming
 
@@ -78,21 +78,21 @@ The program, its name, its statistics, and effects are then noted down by the Pl
 
 ---
 
-### Example – Shield Daemon
+### Example - Shield Daemon
 
 - **Name:** Shield Daemon
 - **CPU:** 0.5
 - **Size:** 1
 - **Requirement:** Internal Computerization, Shields
-- **Effect:** If a switch inside the cockpit is flipped to “bring shields up”, load one Shield Configurator for each shield that is down.  
-    If it is flipped to “NOW”, load one Shield Burster for each shield that is down.
+- **Effect:** If a switch inside the cockpit is flipped to "bring shields up", load one Shield Configurator for each shield that is down.  
+    If it is flipped to "NOW", load one Shield Burster for each shield that is down.
 - **Runtime:** Ongoing
 - **To program:** Shields or relevant piloting skill, 1 workday per roll, total: 100
 - **Limits:** Specific to exact programs and mech
 
 ---
 
-### Example – Shield Configurator
+### Example - Shield Configurator
 
 - **Name:** Shield Configurator
 - **CPU:** 3
@@ -105,7 +105,7 @@ The program, its name, its statistics, and effects are then noted down by the Pl
 
 ---
 
-### Example – Shield Burster
+### Example - Shield Burster
 
 - **Name:** Shield Burster
 - **CPU:** 1

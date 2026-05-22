@@ -49,7 +49,7 @@ While Contamination exceeds Resistance, this skill can be used in Healing.
 
 ### Cortex Drive
 
-This skill represents a pilot’s ability to push their control in battle via neural implants.  
+This skill represents a pilot's ability to push their control in battle via neural implants.  
 When activated, it can be used as a third selector during a roll that would benefit from faster or more precise control. For each Resonance triggered in the roll, the pilot suffers one wound of severity equal to the Amplitude of that Resonance.
 
 ### Anechoic
@@ -64,35 +64,35 @@ Level 3: You may, after rolling, decide which resonances to apply and which to i
 Special skills are given here as examples, they can and should be created speci
 ### Raven
 
-A tribal Raven shaman’s connection to their totem and how it can be used.
+A tribal Raven shaman's connection to their totem and how it can be used.
 
-* **Talon** – Offensive and interactive 
-* **Eye** – Scouting, perception, and information-gathering 
-* **Wing** – Movement and utility 
+* **Talon** - Offensive and interactive 
+* **Eye** - Scouting, perception, and information-gathering 
+* **Wing** - Movement and utility 
 
 ### Spirit
 
 General manipulation of Contamination by a shaman.
 
-* **Call** – Induces Contamination at range. Weaker with distance.
-* **Infuse** – Boosts Contamination in a target, repairing and restoring vitality.
-* **Expunge** – Reduces Contamination in a target, causing harm.
+* **Call** - Induces Contamination at range. Weaker with distance.
+* **Infuse** - Boosts Contamination in a target, repairing and restoring vitality.
+* **Expunge** - Reduces Contamination in a target, causing harm.
 
 ### Resonant Body
 
 Innate superhuman traits awakened in a tribal warrior.
 
-* **Resonant Healing** – Perk: Total [Amplitude](endworld/ewrules#resonance) of Frequencies (10-Discipline-Resonant Body) bonus healing transferred from Contaminatio
-* **Tireless** – Focus roll to negate exhaustion. 1 Contamination per started hour.
-* **Ancestors' Strength** – Perk Add Intuition to a Physical skill roll (once per level per day).
+* **Resonant Healing** - Perk: Total [Amplitude](endworld/ewrules#resonance) of Frequencies (10-Discipline-Resonant Body) bonus healing transferred from Contaminatio
+* **Tireless** - Focus roll to negate exhaustion. 1 Contamination per started hour.
+* **Ancestors' Strength** - Perk Add Intuition to a Physical skill roll (once per level per day).
 
 ### Deathless
 
 Legendary endurance and survival seen in rare Tribals.
 
-* **Last Chance** – No single wound can incapacitate the character. Roll to ignore wounds depending on Task
-* **Return** – If restored [quickly, before decomposition, in any sense at any time] after death, the body returns to life.
-* **Ancestors Resistance** – Extends lifespan, adds directly to resistance when Contamination is in (otherwise) dangerous area
+* **Last Chance** - No single wound can incapacitate the character. Roll to ignore wounds depending on Task
+* **Return** - If restored [quickly, before decomposition, in any sense at any time] after death, the body returns to life.
+* **Ancestors Resistance** - Extends lifespan, adds directly to resistance when Contamination is in (otherwise) dangerous area
 
 ### Ranged Mech Weapons 
 
@@ -109,18 +109,18 @@ Slower, heavier, expensive - but depending on the Missile can ignore shields and
 
 #### Attack Modes
 
-* **Direct** – Aimed and fired directly at the target. Requires line of sight.
-* **Indirect** – Fired in arcs or lobbed. Needs target coordinates but ignores LoS.
-* **Seeking** – Guided via sensors or datalinks. Will track as long as lock is active.
-* **Beam** – Sustained streams of damage. Easy to aim, costly to maintain, less flexible.
+* **Direct** - Aimed and fired directly at the target. Requires line of sight.
+* **Indirect** - Fired in arcs or lobbed. Needs target coordinates but ignores LoS.
+* **Seeking** - Guided via sensors or datalinks. Will track as long as lock is active.
+* **Beam** - Sustained streams of damage. Easy to aim, costly to maintain, less flexible.
 
 ### Mech Melee
 
 Massive close-range weapons. Unmatched in close quarters, but nearly useless at range.
 
-* **Sharp** – High speed, precision. Relies on mech movement systems to reset quickly.
-* **Blunt** – Slower, easier to dodge, but hits like artillery.
-* **Unarmed** – No dedicated weapon; used for grappling, disabling, and improvisation.
+* **Sharp** - High speed, precision. Relies on mech movement systems to reset quickly.
+* **Blunt** - Slower, easier to dodge, but hits like artillery.
+* **Unarmed** - No dedicated weapon; used for grappling, disabling, and improvisation.
 
 ---
 
@@ -143,12 +143,12 @@ Both of these groups start with everything but 3 things skillgapped
 
 ### Weightclass
 
-* **Exo** – Exoskeletons or mechs barely bigger than a human (<1t).
-* **Tiny** – Small craft: buggies, light drones, micro-walkers (1–5t).
-* **Very Light** – APCs, light tanks, agile walkers (5–15t).
-* **Light** – Equivalent to a main battle tank (15–50t).
-* **Medium** – Like superheavy tanks (50–150t).
-* **Heavy** – Beyond conventional armor (150–500t).
-* **Very Heavy** – Massive landcruisers (500–1500t).
-* **Ultra** – Beyond classification. ???
+* **Exo** - Exoskeletons or mechs barely bigger than a human (<1t).
+* **Tiny** - Small craft: buggies, light drones, micro-walkers (1-5t).
+* **Very Light** - APCs, light tanks, agile walkers (5-15t).
+* **Light** - Equivalent to a main battle tank (15-50t).
+* **Medium** - Like superheavy tanks (50-150t).
+* **Heavy** - Beyond conventional armor (150-500t).
+* **Very Heavy** - Massive landcruisers (500-1500t).
+* **Ultra** - Beyond classification. ???
 

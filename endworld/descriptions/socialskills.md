@@ -21,7 +21,7 @@ Deception through confident misinformation. Used for lying, concealing intent, o
 
 ## Style
 
-A character’s flair and charisma in action-how well they project their image, attract attention, or leave an impression.
+A character's flair and charisma in action-how well they project their image, attract attention, or leave an impression.
 
 ## Intimidation
 

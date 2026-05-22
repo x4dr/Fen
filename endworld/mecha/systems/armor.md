@@ -27,7 +27,7 @@ Since Seals sit on top of the armor usually, they get damaged, no matter if the 
 
 This is armor on the personal scale, meant to be worn. The scaling factor is 1
 regardless of weight, and personal armor materials have Protection 0 and Roll
-scaling 0 — the entire reduction comes from the roll.
+scaling 0 - the entire reduction comes from the roll.
 
 ### Hazard suit
 
@@ -102,7 +102,7 @@ Tools and facility quality affect the outcome:
 - Having [Blueprints](endworld/crafting)
 
 
-A Mech has sectors, that need to be armored and often layer armor. Weight is given per sector.
+A Mech has sectors, that need to be armored and often layer armor. Armor weight per sector is chosen during construction.
 A Segment of armor is one Type of armor with a specified weight. A Sector can have multiple armor segments, but they need to be ordered.
 Segments process damage from outside in, canceling the damage propagation if the damage is fully absorbed.
 If not otherwise given, repair rolls below 5 lower structure.
@@ -111,16 +111,14 @@ If not otherwise given, repair rolls below 5 lower structure.
 - **Flat Damage Reduction**: 0
 - **Roll scaling**: 0
 - **Tech**: 1 
-- **Weight**: 1.1  
 - **Failure**: Cargo Destroyed  
 
-Each of these might provide decent protection if installed correctly, and provides 1 ton of extra cargo storage, however the "armor" in question is precious cargo, which will be destroyed if it is ever overcome (and possible by just being shot at)
+Provides 1t of cargo capacity for every 1.1t of armor, fractional values are possible. The "armor" in question is precious cargo, which will be destroyed if it is ever overcome (and possible by just being shot at)
 
 ### Metal Plating  
 - **Flat Damage Reduction**: 2
 - **Roll scaling**: 0.15
 - **Tech**: 1 
-- **Weight**: 2
 - **Repair**: always succeeds, but rolls under 12 lower Structure.
 Good ol' metal plating. Outmatched against a lot of armorpiercing technology, but then again, a lot of attacks are not armorpiercing.
 
@@ -128,7 +126,6 @@ Good ol' metal plating. Outmatched against a lot of armorpiercing technology, bu
 - **Flat Damage Reduction**: 3
 - **Roll scaling**: 0.08
 - **Tech**: 1
-- **Weight**: 5  
 - **Failure**: block  
 - **Repair**:  8+, Resonance 1 lowers protection.
 Made from somewhat rare and very dense and durable metals, this might be expensive but is one of the most durable options out there. Even when it fails, it blocks the shot that took it down.
@@ -137,7 +134,6 @@ Made from somewhat rare and very dense and durable metals, this might be expensi
 - **Flat Damage Reduction**: 0
 - **Roll scaling**: 0.05
 - **Tech**: 2 (Lowtech)  
-- **Weight**: 0.1  
 - **Repair**: 5 +, structure always lowers. Can be refit at one size category less
 
 
@@ -145,7 +141,6 @@ Made from somewhat rare and very dense and durable metals, this might be expensi
 - **Flat Damage Reduction**: 1
 - **Roll scaling**: 0.25
 - **Tech**: 2 (Lowtech)  
-- **Weight**: 2.5  
 - **Repair**: 5+
 
 Common, but effective
@@ -155,7 +150,6 @@ Common, but effective
 - **Flat Damage Reduction**: 1 (passive) / 0.5 (active)
 - **Roll scaling**: 0.3 (passive) / 0.4 (active)
 - **Tech**: 3 (Midtech)  
-- **Weight**: 2  
 - **Failure**: if active: block
 - **Energy**: can be turned on for 5 energy / ton
 - **Repair**: 10+
@@ -168,7 +162,6 @@ On a resonance with 1, The module turns off and must reboot, on Amplitudes of mo
 - **Flat Damage Reduction**: 1
 - **Roll scaling**: 0.15
 - **Tech**: 3 (Midtech)  
-- **Weight**: 0.5  
 - **Failure**: Destroyed, passthrough  
 
 While speed is higher than 10m/s, this armor provides extra heat venting equal to its Grade / segment 
@@ -178,19 +171,17 @@ While speed is higher than 10m/s, this armor provides extra heat venting equal t
 - **Flat Damage Reduction**: 2
 - **Roll scaling**: 0.4
 - **Tech**: 4 (Hightech)  
-- **Weight**: 1  
 - **Failure**: Destroyed, energy system damage, block  
 - **Energy**: 2
 
 This hightech armor provides excellent protection, at a risk. The energy costs are very low as the ion field builds, but failure means a shock to the internals which usually damages the linked energy system, as well as turning the module into high tech scrap. Even then, its protection ends **after** the attack.
 
 
-### Holomatrix  
+### Hardlight Armor  
 - **Flat Damage Reduction**: 10
 - **Roll scaling**: 0
 - **Tech**: 5 (Experimental)  
-- **Weight**: 0  
 - **Failure**: Damaged  
 - **Repair**: 500 grams of Experimental Tech Parts, installing/refitting takes 2kg (per sector) instead.
 
-This advanced defensive system provides a flat reduction of 10 regardless of mass or roll. Its vulnerability to contamination and high repair costs are its only weaknesses.
+Weight is negligible — provides flat reduction 10 regardless of mass, but does not scale with installed weight. Requires a 5kg Hardlight Matrix installed anywhere on the mech.

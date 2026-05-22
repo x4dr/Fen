@@ -19,7 +19,7 @@ A **Check** is a roll of 5 dice interpreted in a specific way, with the result d
 
 Whenever there is advantage or disadvantage of any kind, **Bonus or Penalty Dice** may be applicable, increasing the number of dice rolled.
 
-The roll is interpreted by your **Selectors**, which are usually defined by the applicable attribute and skills, but may also be static or equipment-based.
+The roll is interpreted by **Selectors**, which are usually defined by the applicable attribute and skills, but may also be static or equipment-based.
 The dice in the roll are ordered in ascending order.
 
 To get the result of the roll (or to **interpret** the roll), each selector **selects** a die by position from the bottom.
@@ -31,7 +31,7 @@ Selected dice are then added.
 
 The effects and result of the Check may then be further modified by **Resonance**.
 
-A Check usually involves a [Character](endworld/character_generation)s Attributes and Skills, but might also use Selectors from [Equipment](endworld/equipment)
+A Check usually involves one of a [Character](endworld/character_generation)s Attributes and the sum of up to two relevant skills as selectors, but might also use Selectors from [Equipment](endworld/equipment)
 
 ---
 
@@ -62,7 +62,7 @@ If no effect specifies anything about Resonance, it has no effect.
 Some effects let you **reinterpret** the same roll with different selectors.
 The dice stay as rolled, but you pick new selector positions and test that result against a threshold.
 
-_Syntax_: "Reinterpret Affinity ≤ 5" means "re-read this roll with Affinity as your selectors; if the result is 5 or lower, the effect triggers."
+_Syntax_: "Reinterpret Affinity <= 5" means "re-read this roll with Affinity as your selectors; if the result is 5 or lower, the effect triggers."
 
 This is used for quirks, malfunction triggers, and special system interactions where the quality of a roll matters beyond its primary purpose.
 

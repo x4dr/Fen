@@ -25,7 +25,7 @@ Covers aimed projection of physical objects with force-distance, accuracy, and i
 
 ### Survival
 
-Represents the character’s ability to live off the land, find shelter, hunt, and adapt to hostile environments.
+Represents the character's ability to live off the land, find shelter, hunt, and adapt to hostile environments.
 
 ### Acrobatics
 
@@ -41,7 +41,7 @@ Close-range movement, dodging, fast and decisive movements, leg strength
 
 ### Presence
 
-Controls how much physical space a character “takes up” - movement subtlety, body positioning, and tension. Affects how easily the character is noticed or tracked. Combines with Footwork for stealth, with Acrobatics for evasion, or even with Weapon for deceptive strikes.
+Controls how much physical space a character "takes up" - movement subtlety, body positioning, and tension. Affects how easily the character is noticed or tracked. Combines with Footwork for stealth, with Acrobatics for evasion, or even with Weapon for deceptive strikes.
 
 ### Conditioning
 

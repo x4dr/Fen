@@ -58,12 +58,12 @@ Mecha track **stress** per sector. Stress is the sum of everything harmful in th
 
 `Stress = Damage + Heat + Contamination + Surge + other modifiers`
 
-- **Damage** — permanent, repairable. From weapons, collisions, etc.
-- **Heat** — temporary. Residual thermal energy from overheating systems.
-- **Contamination** — permanent, not repairable by normal means.
-- **Surge** — temporary. EMP, ion interference, etc.
+- **Damage** - permanent, repairable. From weapons, collisions, etc.
+- **Heat** - temporary. Residual thermal energy from overheating systems.
+- **Contamination** - permanent, not repairable by normal means.
+- **Surge** - temporary. EMP, ion interference, etc.
 
-Residual heat from any system in a sector spreads to all systems in that sector — an overheating weapon can cook the systems around it.
+Residual heat from any system in a sector spreads to all systems in that sector - an overheating weapon can cook the systems around it.
 
 Each system in the sector has stress thresholds that cause breakdowns when reached:
 

@@ -19,7 +19,7 @@ Healing rate can be modified by environment, therapy, or resonance:
 - **Resonance 1**: lowers healing rate by amplitude (can go negative)
 - **Resonance 10**: improves healing rate by amplitude
 
-Wounds don’t always cause death or permanent damage, but long-untreated or out-of-control wounds may cause severe consequences (including death) at the Storyteller’s discretion.
+Wounds don't always cause death or permanent damage, but long-untreated or out-of-control wounds may cause severe consequences (including death) at the Storyteller's discretion.
 
 When the accumulated healing progress equals the current severity, the wound severity drops by 1, and progress resets to 0.  
 If healing rate is **negative**, and regeneration falls below 0, progress resets to current severity and severity increases by 1.
@@ -89,7 +89,7 @@ crudest way is to introduce Alacast into the bloodstream to precipitate the cont
 ## Medicine
 
 Medicine is consumed during treatment:  
-`severity × 100g` per wound.
+`severity * 100g` per wound.
 
 - **Naturopathy**: Healing + field; solid baseline and threshold bonuses.
 - **Specialized Medicine**: Healing + ailment field; no floor but best scaling.

@@ -44,7 +44,7 @@ All weapons require a hardpoint.
 
 ### Heat and Weapons
 
-When a weapon fires, its burst heat remains on the weapon as pending heat - if it is not removed by the next heat processing cycle, this becomes residual heat.
+When a weapon fires, its burst heat remains on the weapon as pending heat - if it is not removed by the next [heat processing cycle](endworld/mecha/systems/heat#the-flux-pool), this becomes [residual heat](endworld/mecha/systems/heat#residual-heat).
 
 Ballistic weapons generate moderate heat from friction and propulsion gasses. Missiles generate very little (the heat stays in the rocket motor). Melee generates none.
 
@@ -59,14 +59,13 @@ On a hit:
 3. Remaining damage adds to the hit sector's **stress**. See [Sector Stress](endworld/combat#sector-stress).
 
 ### Keywords
-*TODO: expand this list with balanced keywords and bonus rules*
 
 | Keyword | Effect |
 |---------|--------|
-| **Armor Piercing** | Reduces effective armor protection by half (round up) |
-| **Blast X** | On hit, X damage also applies to adjacent sectors |
-| **Rapid Fire** | May fire twice per turn at +1 malus die on the second shot |
-| **Overcharge** | May take +X heat to add +X damage (declare before rolling) |
+| **Armor Piercing** | Reduces effective armor protection by half (round up). |
+| **Blast X** | On hit, X damage also applies to all adjacent sectors. |
+| **Rapid Fire** | May fire twice per turn at +1 malus die on the second shot. |
+| **Overcharge X** | The weapon may be fired in an overcharged mode, gaining +X Damage and generating +X burst Heat. |
 
 ### Bonus Rules
 *TODO: weapon-specific bonus/malus rules, situational modifiers*

@@ -6,7 +6,7 @@ title: Bögen
 # Bögen
 Bogentypen sind unterschiedliche Fähigkeiten, hier wird nur von "Bogen" gesprochen, gemeint ist der spezifische Bogen. Unterschiedliche Bogentypen können alle untereinander als Unterfähigkeiten angehangen werden.
 
-In jeder Freien Phase solange der Bogen in der Hand ist erhöhe Bogenzähler um Kraft+Bogen, solange Bogenzähler kleiner als (Kraft+Bogen)×4 sind
+In jeder Freien Phase solange der Bogen in der Hand ist erhöhe Bogenzähler um Kraft+Bogen, solange Bogenzähler kleiner als (Kraft+Bogen)*4 sind
 
 Um einen Bogen abschießen zu können muss er gezogen und anvisiert sein. 
 Anvisierung hält, so nicht anders angegeben, immer nur eine Runde.

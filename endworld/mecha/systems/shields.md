@@ -25,7 +25,7 @@ When a shield activates, it makes a **Grade, Config@5** roll against the incomin
 
 Flat Damage Reduction + (roll result) * Roll scaling
 
-Both values are properties of the specific generator and include its weight scaling. If the reduction meets or exceeds the damage, the shield holds. If not, it is overwhelmed and shuts down. Each shield protects one sector, chosen during configuration.
+Both values are properties of the specific generator and include its weight scaling. If the reduction meets or exceeds the damage, the shield holds. If not, it is overwhelmed and shuts down. Each shield protects the sector it is installed in.
 
 | Name | Tech | Weight | Flat Damage Reduction | Roll scaling | Energy | Heat | Reboot | Failure |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
@@ -94,8 +94,8 @@ Deflectors work on missiles, but not on melee strikes.
 | Basic Deflector | 1 | 0.2t | 10e, 1H/attack | 1r, Config 5 |
 | Complex Deflector | 3 | 0.8t | 40e, 2H/attack | 8r, Config 10 |
 
-Deflectors and Dampeners provide their effects to the entire mech. If their coverage is less than
-the number of sectors, the bonus is scaled to the fraction they cover (rounded down).
+Deflector effect is averaged over all sectors. Each sector contributes its highest Deflector value
+from any system installed in that sector, or 0 if none.
 
 ---
 
@@ -108,8 +108,11 @@ are not. The Storyteller decides what counts for other attack types.
 Dampeners subtract from enemy damage, helping armor and shields. If an attack is reduced below 0,
 it is slowed so much it does not land.
 
+Dampener effect is averaged over all sectors. Each sector contributes its highest Dampener value
+from any system installed in that sector, or 0 if none.
+
 | Type | Reduction | Weight | Cost | Coldboot |
-|---|---:|---|---|---|
+| --- | ---: | --- | --- | --- |
 | Basic Dampener | 5 + Config | 0.5t | 20e, 3H/attack | 3r |
 | Heavy Dampener | 10 + Config x2 | 1t | 60e, 5H/attack | 10r |
 

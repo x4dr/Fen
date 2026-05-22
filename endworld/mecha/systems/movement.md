@@ -24,27 +24,27 @@ A mecha continues to accelerate as long as its net force (**Thrust** minus frict
 
 ## Systems
 
-| Type            | Energy | Heat | Anchor | Dynamics | Thrust/t | Extra                 |
-|-----------------|--------|------|--------|----------|----------|-----------------------|
-| **Basetech**    |        |      |        |          |          |                       |
-| Rail            | 55     | 0    | 0.001  | 500      | 50       | Rails                 |
-| Simple Wheels   | 100    | 0    | 8      | 20       | 20       | Flat terrain          |
-| Floatation      | 15     | 0    | 0      | 5        | 90       | Water                 |
-| **Lowtech**     |        |      |        |          |          |                       |
-| Complex Wheels  | 175    | 1    | 3      | 100      | 40       | Somewhat flat terrain |
-| Tracks          | 100    | 3    | 1      | 15       | 60       | Rough terrain         |
-| 2 Simple Legs   | 30     | 2    | 2      | 14       | 45       | All terrain           |
-| 4 Simple Legs   | 30     | 4    | 1      | 12       | 45       | All terrain           |
-| 6 Simple Legs   | 30     | 6    | 0.5    | 10       | 45       | All terrain           |
-| Jumpjets        | 1000   | 10   | 50     | 50       | 100      | Upwards only          |
-| **Midtech**     |        |      |        |          |          |                       |
-| 2 Flexible Legs | 100    | 3    | 3      | 10       | 100      | Humanoid              |
-| 4 Flexible Legs | 100    | 5    | 2      | 8        | 100      | Stable walk           |
-| 6 Flexible Legs | 100    | 7    | 1      | 6        | 100      | High stability        |
-| Boostjets       | 2000   | 15   | 20     | 250      | 120      | Any direction         |
-| **Hightech**    |        |      |        |          |          |                       |
-| Spiderwalker    | 150    | 9    | 0.1    | 5        | 200      | Any surface           |
-| Anti-Grav       | 500    | 20   | 0.0    | 150      | 150      | Flight                |
+Movement systems scale with installed weight. Multiply per-ton stats by tons installed to get total values. Each system has a sensible weight range - installing outside it may produce odd results.
+
+| Type            | E/t | H/t | Anchor/t | Dyn/t | Thrust/t | Min t | Max t | Extra                 | Hardpoint |
+|-----------------|-----|------|----------|-------|----------|-------|-------|-----------------------|-----------|
+| **Basetech**    |     |      |          |       |          |       |       |                       |           |
+| Rail            | 18  | 0    | 0.0003   | 167   | 50       | 1     | 20    | Rails                 | no |
+| Simple Wheels   | 60  | 0    | 5        | 13    | 20       | 0.5   | 8     | Flat terrain          | no |
+| Floatation      | 15  | 0    | 0        | 5     | 90       | 0.5   | 10    | Water                 | no |
+| **Lowtech**     |     |      |          |       |          |       |       |                       |           |
+| Complex Wheels  | 90  | 0.5  | 1.5      | 50    | 40       | 0.5   | 10    | Somewhat flat terrain | no |
+| Tracks          | 30  | 1    | 0.3      | 5     | 60       | 1     | 30    | Rough terrain         | no |
+| Simple Legs (pair) | 10  | 0.5  | 0.5      | 5     | 45       | 1     | 15    | All terrain           | yes |
+| Jumpjets        | 1000| 10   | 50       | 50    | 100      | 0.5   | 5     | Upwards only          | yes |
+| **Midtech**     |     |      |          |       |          |       |       |                       |           |
+| Flexible Legs (pair) | 20 | 0.6  | 0.6      | 2     | 100      | 2     | 25    | Humanoid              | yes |
+| Boostjets       | 1000 | 8   | 10       | 125   | 120      | 1     | 8     | Any direction         | yes |
+| **Hightech**    |     |      |          |       |          |       |       |                       |           |
+| Spiderwalker (set) | 40 | 2    | 0.025   | 1     | 200      | 0.5   | 10    | Any surface           | yes |
+| Anti-Grav       | 170 | 7    | 0        | 50    | 150      | 1     | 20    | Flight                | yes |
+
+**Leg count**: Legged systems list values per pair. For 4 legs (2 pairs), double energy and heat. For 6 legs (3 pairs), triple them. Anchor, Dynamics, and Thrust scale with total installed weight regardless of leg count.
 
 **Speed Calculations**:
 

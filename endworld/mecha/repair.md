@@ -25,7 +25,7 @@ The roll is made against the system's repair thresholds. Default thresholds are 
 | High | [7, 13, 18] |
 | Experimental | [8, 15, 20] |
 
-The threshold reached determines the outcome. Duration does not change based on threshold reached — the time is set by the malus dice chosen before the roll.
+The threshold reached determines the outcome. Duration does not change based on threshold reached - the time is set by the malus dice chosen before the roll.
 
 | Threshold | Result |
 |-----------|--------|
@@ -36,7 +36,7 @@ The threshold reached determines the outcome. Duration does not change based on 
 
 ### Sector Stress
 
-Sectors can be repaired similarly — the roll result lowers the sector's stress and repairs its seal. (Needs workshoping — do sectors need their own table?)
+Sectors can be repaired similarly - the roll result lowers the sector's stress and repairs its seal. (Needs workshoping - do sectors need their own table?)
 
 ## Facility Overhaul
 

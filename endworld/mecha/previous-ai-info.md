@@ -1,6 +1,6 @@
 # Design Notes (from previous AI sessions)
 
-Cleaned-up concepts from earlier design docs. Most of the original framing was based on a misunderstanding of the heat system (flux as "throughput limit") — these are the salvageable parts.
+Cleaned-up concepts from earlier design docs. Most of the original framing was based on a misunderstanding of the heat system (flux as "throughput limit") - these are the salvageable parts.
 
 ## 3-5 Round Rule
 
@@ -60,4 +60,4 @@ Weapons with high burst heat per shot need specialized high-flux coolant, or the
 
 ## Flux Partitioning (Tactical Choice)
 
-Pilots choose which systems to cool first when flux is limited — keep the reactor stable or allow weapons to cool. This is resolved through the player-choice mechanic in heat phases 1 and 2.
+Pilots choose which systems to cool first when flux is limited - keep the reactor stable or allow weapons to cool. This is resolved through the player-choice mechanic in heat phases 1 and 2.
