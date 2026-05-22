@@ -44,15 +44,11 @@ These minima result from the rule above and are provided to save some calculatio
 
 ## 3. Module Allocation
 Modules are assigned to named sectors.
-- **Hardpoints**: Some systems require a hardpoint. Only one hardpoint exists per sector unless otherwise specified.
-- **Spreading**: Modules can be spread over multiple adjacent sectors, which increases the likelihood of damage if a sector is struck.
-- **Resource Management**: Install systems from the following categories:
-    - [Offensive](endworld/mecha/systems/offensive)
-    - [Defensive](endworld/mecha/systems/defensive)
-    - [Armor](endworld/mecha/systems/armor)
-    - [Heat](endworld/mecha/systems/heat)
-    - [Energy](endworld/mecha/systems/energy)
-    - [Support](endworld/mecha/systems/support)
+- **Hardpoints**: Some systems require a hardpoint. Only one hardpoint exists per sector.
+- **Seal**: Every mecha must be equipped with a [Seal](endworld/mecha/systems/support#seals) to protect against Contamination.
+- **Allocation Guidelines**: A typical combat mecha consists of roughly 50% defensive systems ([Armor](endworld/mecha/systems/armor) and [Shields](endworld/mecha/systems/defensive)), 10-15% each for [Heat](endworld/mecha/systems/heat), [Energy](endworld/mecha/systems/energy), and [Offensive](endworld/mecha/systems/offensive) systems, with remaining weight allocated to [Support](endworld/mecha/systems/support) and cargo.
+- **Cargo**: All unused weight capacity of the chosen Mech size may be declared as cargo space, which is assumed to be full for speed calculations.
+
 
 ## 4. Verification Checklist
 - **Tonnage**: The total weight of all installed systems must be equal to or less than the Tonnage limit of the chosen size.
