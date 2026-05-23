@@ -70,6 +70,8 @@ On a hit:
 ### Bonus Rules
 *TODO: weapon-specific bonus/malus rules, situational modifiers*
 
+> **Note on Balance**: Current weapon energy costs were originally balanced for lighter mechs (~40t). For heavy mechs (like Size 9+), these energy costs may be one to two orders of magnitude too low, potentially requiring future adjustment to reflect the energy generation of higher-tier power plants.
+
 ## Example Weapons
 
 | Weapon | Damage | Range | Ammo | Energy | Heat | Boot | Modes | Mass | Keywords |

@@ -49,34 +49,41 @@ Energy units are abstract, but originally:
 * 1 Energy (E) = 5 kW over 1 round (5 seconds)
 * 1 MJ = 200 E
 
-| Type             | E      | Heat    | Shutoff | Input              | Notes                         |
-|------------------|--------|---------|---------|--------------------|-------------------------------|
-| **Basetech**     |        |         |         |                    |                               |
-| Steam Boiler     | 4      | 0.5     | 5       | Coal               | Burns tons. Boot: 10          |
-| Heavy Boiler     | 20     | 1.5     | 10      | Coal               | Scale. Boot: 20               |
-| Flywheel         | 20     | 0       | 0       | Stored             | spins down even if unused     |
-| Crew             | 0.3    | 0       | 0       | 10 Crew Labor      | Crew tire after 30min*Fitness |
-| **Lowtech**      |        |         |         |                    |                               |
-| Combustion Motor | 30     | 3       | 1       | Combustible Liquid | Rev lag. Highly reliable.     |
-| Heavy Combust.   | 70     | 5       | 1       | Combustible Liquid | Efficiency at scale.          |
-| Fission Plant    | 1200   | 80      | 20      | Fissile Rods       | Runaway. Massive, clunky.     |
-| **Midtech**      |        |         |         |                    |                               |
-| PEM              | 5      | 0.1     | 0       | Hydrogen           | Clean, fast, explosive tank.  |
-| Mini-Fission     | 400    | 20      | 20      | Fissile Rods       | Runaway. Breakthrough sizing. |
-| Thorium Plant    | 1000   | 60      | 5       | Thorium            | Runaway. Lasts for years.     |
-| Solar Panel      | 10     | 2       | 0       | Sunlight           | Contamination Dependent       |
-| Capacitor Bank   | 75     | 0       | 0       | Stored             | Depletes E per turn. Instant. |
-| **Hightech**     |        |         |         |                    |                               |
-| Mini-Thorium     | 350    | 15      | 5       | Thorium            | Runaway. Safe and compact.    |
-| Micro-Fusion     | 400    | 25      | 2       | D-T Pellets        | Runaway. Extreme heat ratio.  |
+| Type             | Name | Weight | E | Heat | Shutoff | Input | Notes |
+|------------------|------|--------|---|------|---------|-------|-------|
+| **Basetech**     | Steam Boiler (S) | 0.5 | 8 | 5 | 5 | Coal | Startup 10 |
+| | Heavy Boiler | 2.0 | 40 | 15 | 10 | Coal | Startup 20 |
+| | Flywheel | 2.0 | 20 | 0 | 0 | Stored | Spin down: -10/turn |
+| | Crew | 0.1 | 0.6 | 0 | 0 | 10 Crew Labor | Crew tire after 30min*Fitness |
+| **Lowtech** | Combustion Motor | 1.0 | 24 | 15 | 1 | Comb. Liquid | |
+| | Heavy Motor | 2.0 | 60 | 25 | 1 | Comb. Liquid | |
+| | Fission Plant | 10.0 | 300 | 80 | 20 | Fissile Rods | Runaway |
+| **Midtech** | PEM | 0.1 | 3 | 0.1 | 0 | Hydrogen | |
+| | Mini-Fission | 4.0 | 96 | 25 | 20 | Fissile Rods | Runaway |
+| | Fusion Plant | 5.0 | 180 | 40 | 5 | D-T Pellets | |
+| | Thorium Plant | 10.0 | 240 | 60 | 5 | Thorium | Runaway |
+| | Solar Panel | 0.5 | 2 | 2 | 0 | Sunlight | Contamination Dependent |
+| | Capacitor Bank | 1.0 | 150 | 0 | 0 | Stored | Energy Storage |
+| **Hightech** | Mini-Thorium | 3.0 | 72 | 20 | 5 | Thorium | Runaway |
+| | Micro-Fusion | 1.0 | 29 | 30 | 2 | D-T Pellets | Runaway |
+| | CF Reactor | 4.0 | 120 | 10 | 5 | Deuterium | Startup: 3 rounds. |
 
 **Notes**:
 
 * **Runaway**: Reactors with this trait can enter a runaway state (often triggered intentionally or via critical damage). While in Runaway, the reactor Doubles its Energy Output, but its Heat generation increases by 10% per turn. It cannot be safely shut down and requires a permanent core-dump (destroying the reactor and causing sector damage) to stop.
 * **Solar Panel**: can be deployed/undeployed. Halves output per 5 contamination levels. Daylight only. Output halved for the first and last 4 hours of the 12-hour operational time (so effectively 8 hours of sunlight per day). Deployed solar panel gives 
   
-* **CF Reactor**: Requires startup energy equal to output for at least one round.
+* **CF Reactor**: Requires startup energy equal to output for at least 3 rounds. Deuterium fuel is extremely rare and expensive.
 * **Capacitor**: Generates 1 Heat per 100E moved.
+
+### Energy Storage
+Energy storage systems (like Capacitors) can be in one of three states: Charging, Off, or Discharging.
+- **Charging**: Consumes energy at the specified rate to store it.
+- **Off**: Base drain applies; slow loss of energy over time.
+- **Discharging**: Provides stored energy to the Mech's power budget.
+- **Limit**: Each storage module has a fixed capacity. 
+
+Charge duration must equal discharge duration (e.g., 1 hour charge for 1 hour discharge). Deuterium and D-T pellets are extremely rare and expensive.
 
 **Fuel Storage**:
 

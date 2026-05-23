@@ -16,5 +16,7 @@ title: support
 | High         | 30         | 5          | 4           |
 | Experimental | 50         | 2          | 8           |
 
+Seals are effectively without weight and do not need to be tracked.
+
 * **Resistance** degrades over time or when sustaining pressure/stress.
 * Higher **Seal Levels** enable operation in hazardous or vacuum environments.

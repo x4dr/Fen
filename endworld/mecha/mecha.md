@@ -14,9 +14,10 @@ title: mecha
 # Mecha
 Mecha, short for mechanical, are typically giant walking robots, ruleswise, everything consisting of parts, having systems and having weight is handled as mecha, such as: cars, bikes, static defense towers, artillery installations, giant walking robots, giant treaded robots, Fridges and so on.
 
-A Mech has a size, given in Sectors, which corresponds (roughly) to its weight, and a class, which is relevant for usage, representation in world and so on.
+A Mech has a size, given in Sectors, which corresponds to its weight, and a class, which is relevant for usage, representation in world and so on.
 
-A mech can have multiple systems to accomplush tasks or Manage resources, like
+A mech can have multiple systems to accomplish tasks or manage resources. Systems can be taken in multiple quantities or scaled by weight; any amount of a system is valid, provided it fits within the Mecha's Weight Budget and other sector-based constraints.
+
 [Movement](endworld/mecha/systems/movement), [Energy](endworld/mecha/systems/energy), [Heat](endworld/mecha/systems/heat), [Offensive](endworld/mecha/systems/offensive), [Defensive](endworld/mecha/systems/defensive) and [Support](endworld/mecha/systems/support), as well as a [Seal](endworld/mecha/systems/support#seals) to protect against Contamination.
 
 ## Sizes

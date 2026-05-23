@@ -1,0 +1,17 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "wiki": {
+      "type": "local",
+      "command": [
+        "/usr/bin/uv",
+        "run",
+        "--directory",
+        "/home/maric/PycharmProjects/wiki-mcp",
+        "python3",
+        "/home/maric/PycharmProjects/wiki-mcp/wiki_mcp.py"
+      ],
+      "enabled": true
+    }
+  }
+}
