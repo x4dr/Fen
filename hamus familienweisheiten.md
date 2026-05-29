@@ -17,7 +17,7 @@ title: hamus familienweisheiten
 ### Ist das messer in deinem Rücken, weißt du wenigstens wo es ist
 ### Wenn man weiß wer du bist, dann hast du was falsch gemacht
 ### Wer Glück haben will muss einfach nur Schummeln
-
+### Es ist besser 3 Pläne zuviel, zu haben als einen zu wenig
 
 
 # Hamus Mama
