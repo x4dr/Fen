@@ -189,7 +189,7 @@ Shadow blood
 | Wissen(Wald)      | SSSSS     |
 | Botenjudo         | S         |
 | Irreführung       | SSSSS     |
-| Bote              | S         |
+| Bote              | SS        |
 | Sturm             | S         |
 | Musterresonanz    | SSS       |
 

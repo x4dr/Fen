@@ -40,7 +40,7 @@ Hamus
 | Standhalten | 2    |
 | Kontrolle   | 1    |
 | Fußarbeit   | 1    |
-| Handgemenge | 1    |
+| Handgemenge | 2   |
 
 ## Sozial
 
@@ -61,7 +61,7 @@ Hamus
 | Ettiquette | 1    |
 | Tanzen     | 1    |
 | Support    | 1    |
-| Autorität| 0    |
+| Autorität  | 0    |
 
 ## Mental
 
@@ -153,36 +153,36 @@ want: Plänklermodus, allgemeine fernkampfdinge
 
 (insgesamt 1 Bonus durch rp) Vorteil: Nebengassen
 
-| Skill              | V.  | lvl | =   |
-|------------------|---|---|---|
-| Fischer            | 1/5 | 0   | 1   |
-| Werfen             | 4/5 | 0   | 4   |
-| Gassenwissen       | 1/5 | 0   | 1   |
-| Empathie           | 2/5 | 0   | 2   |
-| Tanzen             | 1/5 | 0   | 1   |
-| Appraisal          | 2/5 | 0   | 2   |
-| Taktik             | 4/5 | 0   | 3   |
-| Handgemenge        | 3/5 | 0   | 2   |
-| Animal Companion   | 2/5 | 1   | 1   |
-| Support            | 1/5 | 1   | 1   |
-| Quelle Sturm       | 0/5 | 1   | 1   |
-| Standhalten        | 5/5 | 0   | 1   |
-| Gloom              | 0/5 | 1   | 1   |
-| Bindung BadLuck    | 3/5 | 0   | 0   |
-| Archäologie/Looten | 0/5 | 1   | 2   |
-| Atemtechnik        | 2/5 | 1   | 2   |
-| Layouts            | 1/5 | 0   | 1   |
-| Autorität          | 1/5 |     | 0   |
-| Spinnensin         | 5/5 | 1   | 5   |
-| Infiltrator        | 0/5 | 1   | 0   |
-| Ermitteln          | 0/5 | 1   | 0   |
-| Unauffällig        | 4/5 | 0   | 4   |
-| Instinkt           | 5/5 | 1   | 5   |
-| Zielsicher         | 0/5 | 2   | 0   |
-| Paranoia           | 0/5 | 1   | 0   |
-| Munitionierer      | 0/5 | 1   | 5   |
-| Animal Companion   | 5/5 | 1   |     |
-|                    |     | 1   | 1   |
+| Skill              | V.   | lvl | =   |
+|------------------|----|---|---|
+| Fischer            | 1/5  | 0   | 1   |
+| Werfen             | 4/5  | 0   | 4   |
+| Gassenwissen       | 1/5  | 0   | 1   |
+| Empathie           | 2/5  | 0   | 2   |
+| Tanzen             | 1/5  | 0   | 1   |
+| Appraisal          | 2/5  | 0   | 2   |
+| Taktik             | 4/5  | 0   | 3   |
+| Handgemenge        | 5#/5 | 0   | 2   |
+| Animal Companion   | 0/5  | 1   | 1   |
+| Support            | 1/5  | 1   | 1   |
+| Quelle Sturm       | 0/5  | 1   | 1   |
+| Standhalten        | 5/5  | 0   | 1   |
+| Gloom              | 0/5  | 1   | 1   |
+| Bindung BadLuck    | 4/5  | 0   | 0   |
+| Archäologie/Looten | 0/5  | 1   | 2   |
+| Atemtechnik        | 2/5  | 1   | 2   |
+| Layouts            | 1/5  | 0   | 1   |
+| Autorität          | 1/5  |     | 0   |
+| Spinnensin         | 5/5  | 1   | 5   |
+| Infiltrator        | 0/5  | 1   | 0   |
+| Ermitteln          | 0/5  | 1   | 0   |
+| Unauffällig        | 4/5  | 0   | 4   |
+| Instinkt           | 5/5  | 1   | 5   |
+| Zielsicher         | 0/5  | 2   | 0   |
+| Paranoia           | 0/5  | 1   | 0   |
+| Munitionierer      | 0/5  | 1   | 5   |
+| Animal Companion   | 5/5  | 1   |     |
+|                    |      | 1   | 1   |
 
 # Inventar
 
