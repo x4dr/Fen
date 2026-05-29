@@ -61,6 +61,7 @@ Hamus
 | Ettiquette | 1    |
 | Tanzen     | 1    |
 | Support    | 1    |
+| Autorität| 0    |
 
 ## Mental
 
