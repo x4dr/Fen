@@ -32,7 +32,7 @@ title: hamus familienweisheiten
 ### Traue niemals einem Magier
 ### Das bisschen Bluten hat noch niemandem geschadet
 ### Wer sich auf GLück verlässt ist ein Trottel
-
+### Aktionen haben konsequenzen, du hast einem der meinen Geschadet und nun ist wie mein Mann sagt Zahltag 
 
 
 # Combos
