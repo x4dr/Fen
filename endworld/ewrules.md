@@ -71,6 +71,7 @@ This is used for quirks, malfunction triggers, and special system interactions w
 
 In many places the degrees of success are given by a Formatting such as [3,7,17], also called Threshholds, which means that one degree of success is achieved for a roll or value checked against it, for every number inside that was reached or overcome. A Roll of 9 against the difficulties stated earlier, would reach 3 and 7, but not 17, and thus represent 2 degrees of success, whose meanings depend on the Situation.
 
+Threshold notation can also include formulae like [5x3, 2x+1, +4] which would mean "Five threes and then 2 steps of +1 and then every step adds four" which is shorthand for [3,3,3,3,3,4,5,9,13,17,21,...]
 
 Numbers are generally rounded down.
 
@@ -81,3 +82,7 @@ A Gap is a listed subskill which the Broad Skill does not apply to, and a specia
 At level 1, one Skillgap may be taken in exchange for a specialization if the way of learning the skill might have focussed on one part of it, while neglecting another.
 At level 2, if the opportunity for study arises in game another specialization can be picked.
 Specializations and Skillgaps do not affect the Attribute contribution of a Broad Skill
+
+# Notation
+
+## Thresholds 
