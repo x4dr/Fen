@@ -157,7 +157,7 @@ Enrgfiefeldmanipulation 1/5
 Analyse 2/5
 quelle chaos: 1/5
 aspekttravelgravity: 4/5
-avisnimdung 2/5
+avisnimdung 3/5
 TanasBindung: 1/5
 irrefuehrung 1/5
 Geologie 1/5
