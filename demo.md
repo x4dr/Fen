@@ -81,8 +81,8 @@ Renders a clickable clock element. Linked clocks reference another page: `[clock
 
 Task list: `- [ ] task` / `- [x] done`
 
-- unfinished
-- completed
+- [ ] unfinished
+- [x] completed
 
 ---
 
