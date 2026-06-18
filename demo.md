@@ -9,7 +9,7 @@ A reference for local markdown features.
 
 ## Transclusion
 
-Include content from another page: \[!pagename\]
+Include content from another page: \[!demo#transclusion\]
 
 ## Foldable Sections
 
