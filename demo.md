@@ -3,7 +3,6 @@ outgoing links: []
 tags: []
 title: Markdown Demo
 ---
-
 # Markdown Demo
 
 A reference for local markdown features.
@@ -14,8 +13,8 @@ A reference for local markdown features.
 
 Include content from another page: `[!pagename]`
 
-Example - transcluding the shields table:
-[!endworld/mecha/systems/tables#heavy-shield|Heavy Shield Table]
+Example - transcluding :  
+[!illusionmagic#Zone der Unsichtbarkeit|Die umbenannte Zone der Unsichtbarkeit]
 
 ---
 
@@ -44,7 +43,7 @@ This content starts collapsed. Click the heading to expand it.
 
 Show page content on hover: `[!t:page]`, `[!t:page#heading]`, or `[!t:page#heading|Custom Text]`
 
-Hover over [!t:demo#section-tooltip] to preview that section.
+Hover over [!t:demo#section tooltip|this] to preview that section.
 
 ---
 
@@ -91,7 +90,7 @@ This is ~~strikethrough~~ text.
 
 ## Invert Text
 
-Invert foreground and background colors: `i~text~i`
+Invert textcolor: `i~text~i`
 
 i~this text is inverted~i
 
@@ -99,10 +98,10 @@ i~this text is inverted~i
 
 ## Wiki Links
 
-Internal links are auto-validated. `<a href="existingpage">` gets a `/wiki/` path. Broken links get a `missing` class.
+Internal links are auto-validated. `[titel](linktarget)` gets a `/wiki/linktarget` path. Broken links get marked.
 
 ---
 
 ## Multi-line Headers
 
-Automatic - if a heading spans multiple lines, only the first line stays in the `<h...>` tag.
+Automatic - if a heading spans multiple lines, only the first line stays in the &lt;h...&gt; tag.
