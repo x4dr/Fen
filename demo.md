@@ -43,4 +43,3 @@ This is ~~strikethrough~~ text.
 
 - [ ] unfinished
 - [x] completed
-
