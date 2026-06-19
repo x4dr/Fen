@@ -79,7 +79,7 @@ Task list: `- [ ] task` / `- [x] done`
 
 Cyberpunk glitch effect: `g~text~g` or `g~text~replacement~g`
 
-g~hello~g - g~world~g~W0RLD~g
+g~hello~g - g~world~W0RLD~g
 
 ---
 
