@@ -59,7 +59,7 @@ Renders a hover tooltip with the item's description from the database.
 
 Inline progress clock: `[clock|name|current|total]`
 
-Renders a clickable clock element. [!t:"Linked clocks "|i made this be a tooltip!]reference another page: `[clock|name@pagename]`
+Renders a clickable clock element. [!t:"i made this be a tooltip!"|Linked clocks] reference another page: `[clock|name@pagename]`
 
 [clock|progress|3|8]
 
