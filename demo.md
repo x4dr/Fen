@@ -35,7 +35,7 @@ Prefix a heading with `!` to make it collapsible: `## !Heading`
 
 ## !Demo Foldable
 
-This content starts collapsed. Click the heading to expand it.
+This content starts **collapsed**. Click the heading to expand it.
 
 ---
 
@@ -59,7 +59,7 @@ Renders a hover tooltip with the item's description from the database.
 
 Inline progress clock: `[clock|name|current|total]`
 
-Renders a clickable clock element. Linked clocks reference another page: `[clock|name@pagename]`
+Renders a clickable clock element. [!t:"Linked clocks "|i made this be a tooltip!]reference another page: `[clock|name@pagename]`
 
 [clock|progress|3|8]
 
