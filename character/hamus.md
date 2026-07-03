@@ -172,7 +172,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Archäologie/Looten | 0/5  | 1   | 2   |
 | Atemtechnik        | 2/5  | 1   | 2   |
 | Layouts            | 1/5  | 0   | 1   |
-| Autorität          | 1/5  |     | 0   |
+| Autorität          | 2/5  |     | 0   |
 | Spinnensin         | 5/5  | 1   | 5   |
 | Infiltrator        | 0/5  | 1   | 0   |
 | Ermitteln          | 0/5  | 1   | 0   |
