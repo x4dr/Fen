@@ -132,7 +132,7 @@ title: Kobalt
 | Schicksal | 4     |
 
 # Fortschritt
-Tratsch 2/5
+Tratsch 3/5
 Rennen: 3/5
 Widerstand: 1/5
 Magic Crafting: 1/5
