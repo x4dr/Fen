@@ -206,13 +206,13 @@ Hamus, Steine, Mond und Shiny Stuff
 | Meditation         | 1/5   | 1   |
 | Wechselwirkung     | 4/5   | 1   |
 | Überreden          | 2/5   | 1   |
-| Aufgeschlossenheit | 3/5   | 1   |
 | Ausdauer           | 0/5 1 | 3   |
 | Tanz               | 3/5   | 2   |
 | Aufhetzen          | 1/5   | 0   |
 | Akrobatik          | 1/5   | 0   |
 | Illusion           | 3/5   | 1   |
 | Mondlicht          | 1/5 1 | 2   |
+| Aufgeschlossenheit | 4/5   | 1   |
 
 # Inventar
 

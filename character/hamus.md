@@ -40,7 +40,7 @@ Hamus
 | Standhalten | 2    |
 | Kontrolle   | 1    |
 | Fußarbeit   | 1    |
-| Handgemenge | 2   |
+| Handgemenge | 2    |
 
 ## Sozial
 
@@ -131,7 +131,7 @@ Hamus
 | Aspekt Körpertransformation | 1    |
 | Aspekt Gloom                | 2    |
 | Quelle Sturm                | 1    |
-| Bindung BadLuck             | 0    |
+| Bindung BadLuck             | 1    |
 
 # Vorteile
 
@@ -168,7 +168,7 @@ want: Plänklermodus, allgemeine fernkampfdinge
 | Quelle Sturm       | 0/5  | 1   | 1   |
 | Standhalten        | 5/5  | 0   | 1   |
 | Gloom              | 0/5  | 1   | 1   |
-| Bindung BadLuck    | 4/5  | 0   | 0   |
+| Bindung BadLuck    | 5/5  | 0   | 0   |
 | Archäologie/Looten | 0/5  | 1   | 2   |
 | Atemtechnik        | 2/5  | 1   | 2   |
 | Layouts            | 1/5  | 0   | 1   |
