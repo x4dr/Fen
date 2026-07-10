@@ -182,7 +182,7 @@ Shadow blood
 | Eispicke          | SSSS      |
 | EyEsOfDaRkNeSs    | SSSSS     |
 | Stabilität        | SS        |
-| Wissen(Gebirge)   | SS        |
+| Wissen(Gebirge)   | SSS       |
 | Navigation        | 1S11      |
 | Rennen            | S         |
 | Wissen(Kulturen)  | SS        |
